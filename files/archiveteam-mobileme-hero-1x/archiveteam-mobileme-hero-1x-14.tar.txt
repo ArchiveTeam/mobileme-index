@@ -1,0 +1,16 @@
+agencedelaposte	gallery.me.com	2012-03-21 13:45:12	archiveteam-mobileme-hero-1x	archiveteam-mobileme-hero-1x-14.tar	gallery.me.com-agencedelaposte.warc.gz	2660598
+agencedelaposte	homepage.mac.com	2012-03-21 13:45:19	archiveteam-mobileme-hero-1x	archiveteam-mobileme-hero-1x-14.tar	homepage.mac.com-agencedelaposte.warc.gz	105913
+agencedelaposte	public.me.com	2012-03-21 13:45:03	archiveteam-mobileme-hero-1x	archiveteam-mobileme-hero-1x-14.tar	public.me.com-agencedelaposte.warc.gz	4853
+agencedelaposte	web.me.com	2012-03-21 13:45:03	archiveteam-mobileme-hero-1x	archiveteam-mobileme-hero-1x-14.tar	web.me.com-agencedelaposte.warc.gz	117722796
+andrewdhines	gallery.me.com	2012-03-21 14:53:14	archiveteam-mobileme-hero-1x	archiveteam-mobileme-hero-1x-14.tar	gallery.me.com-andrewdhines.warc.gz	2487719258
+andrewdhines	homepage.mac.com	2012-03-21 14:53:15	archiveteam-mobileme-hero-1x	archiveteam-mobileme-hero-1x-14.tar	homepage.mac.com-andrewdhines.warc.gz	4921
+andrewdhines	public.me.com	2012-03-21 14:34:51	archiveteam-mobileme-hero-1x	archiveteam-mobileme-hero-1x-14.tar	public.me.com-andrewdhines.warc.gz	21997106
+andrewdhines	web.me.com	2012-03-21 14:34:24	archiveteam-mobileme-hero-1x	archiveteam-mobileme-hero-1x-14.tar	web.me.com-andrewdhines.warc.gz	2055562054
+oosterhoudt	gallery.me.com	2012-03-21 13:59:35	archiveteam-mobileme-hero-1x	archiveteam-mobileme-hero-1x-14.tar	gallery.me.com-oosterhoudt.warc.gz	5040
+oosterhoudt	homepage.mac.com	2012-03-21 13:59:35	archiveteam-mobileme-hero-1x	archiveteam-mobileme-hero-1x-14.tar	homepage.mac.com-oosterhoudt.warc.gz	4934
+oosterhoudt	public.me.com	2012-03-21 13:59:34	archiveteam-mobileme-hero-1x	archiveteam-mobileme-hero-1x-14.tar	public.me.com-oosterhoudt.warc.gz	1920
+oosterhoudt	web.me.com	2012-03-21 13:59:34	archiveteam-mobileme-hero-1x	archiveteam-mobileme-hero-1x-14.tar	web.me.com-oosterhoudt.warc.gz	161425061
+pasucgang	gallery.me.com	2012-03-21 13:29:37	archiveteam-mobileme-hero-1x	archiveteam-mobileme-hero-1x-14.tar	gallery.me.com-pasucgang.warc.gz	4243
+pasucgang	homepage.mac.com	2012-03-21 13:30:02	archiveteam-mobileme-hero-1x	archiveteam-mobileme-hero-1x-14.tar	homepage.mac.com-pasucgang.warc.gz	701452
+pasucgang	public.me.com	2012-03-21 13:29:36	archiveteam-mobileme-hero-1x	archiveteam-mobileme-hero-1x-14.tar	public.me.com-pasucgang.warc.gz	1911
+pasucgang	web.me.com	2012-03-21 13:29:19	archiveteam-mobileme-hero-1x	archiveteam-mobileme-hero-1x-14.tar	web.me.com-pasucgang.warc.gz	1985524097

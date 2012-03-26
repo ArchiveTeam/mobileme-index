@@ -1,0 +1,8 @@
+apple.apple	gallery.me.com	2012-02-27 01:12:57	archiveteam-mobileme-hero-3	archiveteam-mobileme-hero-3-154.tar	gallery.me.com-apple.apple.warc.gz	12326
+apple.apple	homepage.mac.com	2012-02-27 01:12:57	archiveteam-mobileme-hero-3	archiveteam-mobileme-hero-3-154.tar	homepage.mac.com-apple.apple.warc.gz	7136
+apple.apple	public.me.com	2012-02-27 01:12:56	archiveteam-mobileme-hero-3	archiveteam-mobileme-hero-3-154.tar	public.me.com-apple.apple.warc.gz	1918
+apple.apple	web.me.com	2012-02-27 01:12:56	archiveteam-mobileme-hero-3	archiveteam-mobileme-hero-3-154.tar	web.me.com-apple.apple.warc.gz	22412
+mattadamec	gallery.me.com	2012-02-27 03:17:45	archiveteam-mobileme-hero-3	archiveteam-mobileme-hero-3-154.tar	gallery.me.com-mattadamec.warc.gz	11784
+mattadamec	homepage.mac.com	2012-02-27 03:17:50	archiveteam-mobileme-hero-3	archiveteam-mobileme-hero-3-154.tar	homepage.mac.com-mattadamec.warc.gz	128479
+mattadamec	public.me.com	2012-02-27 03:17:39	archiveteam-mobileme-hero-3	archiveteam-mobileme-hero-3-154.tar	public.me.com-mattadamec.warc.gz	6672909301
+mattadamec	web.me.com	2012-02-27 02:28:39	archiveteam-mobileme-hero-3	archiveteam-mobileme-hero-3-154.tar	web.me.com-mattadamec.warc.gz	2696335712

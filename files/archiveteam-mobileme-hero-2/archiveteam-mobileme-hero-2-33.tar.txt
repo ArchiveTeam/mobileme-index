@@ -1,0 +1,16 @@
+gtmd	gallery.me.com	2012-02-26 05:01:25	archiveteam-mobileme-hero-2	archiveteam-mobileme-hero-2-33.tar	gallery.me.com-gtmd.warc.gz	666881317
+gtmd	homepage.mac.com	2012-02-26 05:01:26	archiveteam-mobileme-hero-2	archiveteam-mobileme-hero-2-33.tar	homepage.mac.com-gtmd.warc.gz	4906
+gtmd	public.me.com	2012-02-26 04:44:09	archiveteam-mobileme-hero-2	archiveteam-mobileme-hero-2-33.tar	public.me.com-gtmd.warc.gz	1813402148
+gtmd	web.me.com	2012-02-26 04:03:12	archiveteam-mobileme-hero-2	archiveteam-mobileme-hero-2-33.tar	web.me.com-gtmd.warc.gz	246523938
+rsbrewer	gallery.me.com	2012-02-26 03:49:18	archiveteam-mobileme-hero-2	archiveteam-mobileme-hero-2-33.tar	gallery.me.com-rsbrewer.warc.gz	2742179593
+rsbrewer	homepage.mac.com	2012-02-26 03:49:18	archiveteam-mobileme-hero-2	archiveteam-mobileme-hero-2-33.tar	homepage.mac.com-rsbrewer.warc.gz	4911
+rsbrewer	public.me.com	2012-02-26 03:14:31	archiveteam-mobileme-hero-2	archiveteam-mobileme-hero-2-33.tar	public.me.com-rsbrewer.warc.gz	1915
+rsbrewer	web.me.com	2012-02-26 03:14:31	archiveteam-mobileme-hero-2	archiveteam-mobileme-hero-2-33.tar	web.me.com-rsbrewer.warc.gz	105441515
+timothyyoungfineart	gallery.me.com	2012-02-26 02:59:21	archiveteam-mobileme-hero-2	archiveteam-mobileme-hero-2-33.tar	gallery.me.com-timothyyoungfineart.warc.gz	539701379
+timothyyoungfineart	homepage.mac.com	2012-02-26 02:59:21	archiveteam-mobileme-hero-2	archiveteam-mobileme-hero-2-33.tar	homepage.mac.com-timothyyoungfineart.warc.gz	4968
+timothyyoungfineart	public.me.com	2012-02-26 02:48:31	archiveteam-mobileme-hero-2	archiveteam-mobileme-hero-2-33.tar	public.me.com-timothyyoungfineart.warc.gz	51805746
+timothyyoungfineart	web.me.com	2012-02-26 02:46:56	archiveteam-mobileme-hero-2	archiveteam-mobileme-hero-2-33.tar	web.me.com-timothyyoungfineart.warc.gz	14840840
+tom.td	gallery.me.com	2012-02-26 02:43:38	archiveteam-mobileme-hero-2	archiveteam-mobileme-hero-2-33.tar	gallery.me.com-tom.td.warc.gz	8160
+tom.td	homepage.mac.com	2012-02-26 02:43:38	archiveteam-mobileme-hero-2	archiveteam-mobileme-hero-2-33.tar	homepage.mac.com-tom.td.warc.gz	4908
+tom.td	public.me.com	2012-02-26 02:43:35	archiveteam-mobileme-hero-2	archiveteam-mobileme-hero-2-33.tar	public.me.com-tom.td.warc.gz	28565873
+tom.td	web.me.com	2012-02-26 02:42:29	archiveteam-mobileme-hero-2	archiveteam-mobileme-hero-2-33.tar	web.me.com-tom.td.warc.gz	1593061

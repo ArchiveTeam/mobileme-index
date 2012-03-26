@@ -1,0 +1,16 @@
+anz123	gallery.me.com	2012-03-22 09:46:57	archiveteam-mobileme-hero-20x	archiveteam-mobileme-hero-20x-209.tar	gallery.me.com-anz123.warc.gz	5202
+anz123	homepage.mac.com	2012-03-22 09:46:57	archiveteam-mobileme-hero-20x	archiveteam-mobileme-hero-20x-209.tar	homepage.mac.com-anz123.warc.gz	4909
+anz123	public.me.com	2012-03-22 09:46:55	archiveteam-mobileme-hero-20x	archiveteam-mobileme-hero-20x-209.tar	public.me.com-anz123.warc.gz	691223068
+anz123	web.me.com	2012-03-22 09:19:42	archiveteam-mobileme-hero-20x	archiveteam-mobileme-hero-20x-209.tar	web.me.com-anz123.warc.gz	11267952
+escc	gallery.me.com	2012-03-22 09:16:04	archiveteam-mobileme-hero-20x	archiveteam-mobileme-hero-20x-209.tar	gallery.me.com-escc.warc.gz	5653350
+escc	homepage.mac.com	2012-03-22 09:16:05	archiveteam-mobileme-hero-20x	archiveteam-mobileme-hero-20x-209.tar	homepage.mac.com-escc.warc.gz	4895
+escc	public.me.com	2012-03-22 09:15:02	archiveteam-mobileme-hero-20x	archiveteam-mobileme-hero-20x-209.tar	public.me.com-escc.warc.gz	1907
+escc	web.me.com	2012-03-22 09:15:01	archiveteam-mobileme-hero-20x	archiveteam-mobileme-hero-20x-209.tar	web.me.com-escc.warc.gz	2007482
+paulswales1	gallery.me.com	2012-03-22 11:39:11	archiveteam-mobileme-hero-20x	archiveteam-mobileme-hero-20x-209.tar	gallery.me.com-paulswales1.warc.gz	1725670898
+paulswales1	homepage.mac.com	2012-03-22 11:39:21	archiveteam-mobileme-hero-20x	archiveteam-mobileme-hero-20x-209.tar	homepage.mac.com-paulswales1.warc.gz	4913
+paulswales1	public.me.com	2012-03-22 10:45:13	archiveteam-mobileme-hero-20x	archiveteam-mobileme-hero-20x-209.tar	public.me.com-paulswales1.warc.gz	1922
+paulswales1	web.me.com	2012-03-22 10:45:08	archiveteam-mobileme-hero-20x	archiveteam-mobileme-hero-20x-209.tar	web.me.com-paulswales1.warc.gz	941498679
+portorfordtv	gallery.me.com	2012-03-22 09:13:24	archiveteam-mobileme-hero-20x	archiveteam-mobileme-hero-20x-209.tar	gallery.me.com-portorfordtv.warc.gz	1973385093
+portorfordtv	homepage.mac.com	2012-03-22 09:13:25	archiveteam-mobileme-hero-20x	archiveteam-mobileme-hero-20x-209.tar	homepage.mac.com-portorfordtv.warc.gz	4933
+portorfordtv	public.me.com	2012-03-22 08:56:44	archiveteam-mobileme-hero-20x	archiveteam-mobileme-hero-20x-209.tar	public.me.com-portorfordtv.warc.gz	453483
+portorfordtv	web.me.com	2012-03-22 08:56:35	archiveteam-mobileme-hero-20x	archiveteam-mobileme-hero-20x-209.tar	web.me.com-portorfordtv.warc.gz	263817652
