@@ -17,7 +17,7 @@ def update_item(item_name)
     end
   end
 
-  files.sort_by { |file| file[:name] }
+  files = files.sort_by { |file| file[:name] }
 
   File.open("items/#{ item_name }.txt", "w") do |f|
     files.each do |file|
