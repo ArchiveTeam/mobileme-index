@@ -1,1 +1,1 @@
-This is an index of the MobileMe downloads.
+This is becoming an index of the MobileMe downloads.
