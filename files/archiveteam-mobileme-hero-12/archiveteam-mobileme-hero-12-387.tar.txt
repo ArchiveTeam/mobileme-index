@@ -1,0 +1,16 @@
+college_church	gallery.me.com	2012-02-28 08:47:08	archiveteam-mobileme-hero-12	archiveteam-mobileme-hero-12-387.tar	gallery.me.com-college_church.warc.gz	95868257
+college_church	homepage.mac.com	2012-02-28 08:47:09	archiveteam-mobileme-hero-12	archiveteam-mobileme-hero-12-387.tar	homepage.mac.com-college_church.warc.gz	4943
+college_church	public.me.com	2012-02-28 08:45:26	archiveteam-mobileme-hero-12	archiveteam-mobileme-hero-12-387.tar	public.me.com-college_church.warc.gz	5171
+college_church	web.me.com	2012-02-28 08:45:19	archiveteam-mobileme-hero-12	archiveteam-mobileme-hero-12-387.tar	web.me.com-college_church.warc.gz	3989878281
+cyt.nrl	gallery.me.com	2012-02-28 09:36:32	archiveteam-mobileme-hero-12	archiveteam-mobileme-hero-12-387.tar	gallery.me.com-cyt.nrl.warc.gz	1373415232
+cyt.nrl	homepage.mac.com	2012-02-28 09:36:33	archiveteam-mobileme-hero-12	archiveteam-mobileme-hero-12-387.tar	homepage.mac.com-cyt.nrl.warc.gz	4914
+cyt.nrl	public.me.com	2012-02-28 08:58:39	archiveteam-mobileme-hero-12	archiveteam-mobileme-hero-12-387.tar	public.me.com-cyt.nrl.warc.gz	180164693
+cyt.nrl	web.me.com	2012-02-28 08:56:35	archiveteam-mobileme-hero-12	archiveteam-mobileme-hero-12-387.tar	web.me.com-cyt.nrl.warc.gz	139516527
+hjohnsonsr	gallery.me.com	2012-02-28 07:45:16	archiveteam-mobileme-hero-12	archiveteam-mobileme-hero-12-387.tar	gallery.me.com-hjohnsonsr.warc.gz	4307
+hjohnsonsr	homepage.mac.com	2012-02-28 07:45:16	archiveteam-mobileme-hero-12	archiveteam-mobileme-hero-12-387.tar	homepage.mac.com-hjohnsonsr.warc.gz	4905
+hjohnsonsr	public.me.com	2012-02-28 07:45:15	archiveteam-mobileme-hero-12	archiveteam-mobileme-hero-12-387.tar	public.me.com-hjohnsonsr.warc.gz	25719705
+hjohnsonsr	web.me.com	2012-02-28 07:44:21	archiveteam-mobileme-hero-12	archiveteam-mobileme-hero-12-387.tar	web.me.com-hjohnsonsr.warc.gz	29325476
+pinaryolacan	gallery.me.com	2012-02-28 07:47:35	archiveteam-mobileme-hero-12	archiveteam-mobileme-hero-12-387.tar	gallery.me.com-pinaryolacan.warc.gz	131203375
+pinaryolacan	homepage.mac.com	2012-02-28 07:47:35	archiveteam-mobileme-hero-12	archiveteam-mobileme-hero-12-387.tar	homepage.mac.com-pinaryolacan.warc.gz	4920
+pinaryolacan	public.me.com	2012-02-28 07:45:35	archiveteam-mobileme-hero-12	archiveteam-mobileme-hero-12-387.tar	public.me.com-pinaryolacan.warc.gz	1922
+pinaryolacan	web.me.com	2012-02-28 07:45:35	archiveteam-mobileme-hero-12	archiveteam-mobileme-hero-12-387.tar	web.me.com-pinaryolacan.warc.gz	683074

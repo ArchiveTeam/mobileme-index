@@ -1,0 +1,12 @@
+barefootcount	gallery.me.com	2012-03-26 07:01:27	archiveteam-mobileme-hero-109x	archiveteam-mobileme-hero-109x-1090.tar	gallery.me.com-barefootcount.warc.gz	4260
+barefootcount	homepage.mac.com	2012-03-26 07:01:28	archiveteam-mobileme-hero-109x	archiveteam-mobileme-hero-109x-1090.tar	homepage.mac.com-barefootcount.warc.gz	4911
+barefootcount	public.me.com	2012-03-26 07:01:26	archiveteam-mobileme-hero-109x	archiveteam-mobileme-hero-109x-1090.tar	public.me.com-barefootcount.warc.gz	1921
+barefootcount	web.me.com	2012-03-26 07:01:25	archiveteam-mobileme-hero-109x	archiveteam-mobileme-hero-109x-1090.tar	web.me.com-barefootcount.warc.gz	10870823
+glhein	gallery.me.com	2012-03-26 06:54:10	archiveteam-mobileme-hero-109x	archiveteam-mobileme-hero-109x-1090.tar	gallery.me.com-glhein.warc.gz	1644028952
+glhein	homepage.mac.com	2012-03-26 06:54:26	archiveteam-mobileme-hero-109x	archiveteam-mobileme-hero-109x-1090.tar	homepage.mac.com-glhein.warc.gz	145195
+glhein	public.me.com	2012-03-26 06:02:05	archiveteam-mobileme-hero-109x	archiveteam-mobileme-hero-109x-1090.tar	public.me.com-glhein.warc.gz	201890956
+glhein	web.me.com	2012-03-26 05:53:36	archiveteam-mobileme-hero-109x	archiveteam-mobileme-hero-109x-1090.tar	web.me.com-glhein.warc.gz	76962202
+nlesky	gallery.me.com	2012-03-26 08:16:41	archiveteam-mobileme-hero-109x	archiveteam-mobileme-hero-109x-1090.tar	gallery.me.com-nlesky.warc.gz	2421247592
+nlesky	homepage.mac.com	2012-03-26 08:16:41	archiveteam-mobileme-hero-109x	archiveteam-mobileme-hero-109x-1090.tar	homepage.mac.com-nlesky.warc.gz	4899
+nlesky	public.me.com	2012-03-26 07:14:01	archiveteam-mobileme-hero-109x	archiveteam-mobileme-hero-109x-1090.tar	public.me.com-nlesky.warc.gz	3412
+nlesky	web.me.com	2012-03-26 07:14:00	archiveteam-mobileme-hero-109x	archiveteam-mobileme-hero-109x-1090.tar	web.me.com-nlesky.warc.gz	17862849

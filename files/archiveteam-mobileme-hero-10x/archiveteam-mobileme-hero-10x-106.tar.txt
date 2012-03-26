@@ -1,0 +1,12 @@
+eddington	gallery.me.com	2012-03-21 17:40:32	archiveteam-mobileme-hero-10x	archiveteam-mobileme-hero-10x-106.tar	gallery.me.com-eddington.warc.gz	4266
+eddington	homepage.mac.com	2012-03-21 17:40:35	archiveteam-mobileme-hero-10x	archiveteam-mobileme-hero-10x-106.tar	homepage.mac.com-eddington.warc.gz	76003
+eddington	public.me.com	2012-03-21 17:40:32	archiveteam-mobileme-hero-10x	archiveteam-mobileme-hero-10x-106.tar	public.me.com-eddington.warc.gz	119530954
+eddington	web.me.com	2012-03-21 17:34:39	archiveteam-mobileme-hero-10x	archiveteam-mobileme-hero-10x-106.tar	web.me.com-eddington.warc.gz	1467512
+mbheatley	gallery.me.com	2012-03-21 17:56:25	archiveteam-mobileme-hero-10x	archiveteam-mobileme-hero-10x-106.tar	gallery.me.com-mbheatley.warc.gz	866629323
+mbheatley	homepage.mac.com	2012-03-21 17:56:25	archiveteam-mobileme-hero-10x	archiveteam-mobileme-hero-10x-106.tar	homepage.mac.com-mbheatley.warc.gz	4920
+mbheatley	public.me.com	2012-03-21 17:44:36	archiveteam-mobileme-hero-10x	archiveteam-mobileme-hero-10x-106.tar	public.me.com-mbheatley.warc.gz	1918
+mbheatley	web.me.com	2012-03-21 17:44:35	archiveteam-mobileme-hero-10x	archiveteam-mobileme-hero-10x-106.tar	web.me.com-mbheatley.warc.gz	59771756
+merrymanland	gallery.me.com	2012-03-22 01:53:01	archiveteam-mobileme-hero-10x	archiveteam-mobileme-hero-10x-106.tar	gallery.me.com-merrymanland.warc.gz	4673812685
+merrymanland	homepage.mac.com	2012-03-22 01:53:01	archiveteam-mobileme-hero-10x	archiveteam-mobileme-hero-10x-106.tar	homepage.mac.com-merrymanland.warc.gz	4936
+merrymanland	public.me.com	2012-03-21 23:16:42	archiveteam-mobileme-hero-10x	archiveteam-mobileme-hero-10x-106.tar	public.me.com-merrymanland.warc.gz	332732
+merrymanland	web.me.com	2012-03-21 23:14:07	archiveteam-mobileme-hero-10x	archiveteam-mobileme-hero-10x-106.tar	web.me.com-merrymanland.warc.gz	5695521484

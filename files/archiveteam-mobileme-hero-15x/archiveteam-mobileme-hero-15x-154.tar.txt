@@ -1,0 +1,16 @@
+certist	gallery.me.com	2012-03-22 08:03:30	archiveteam-mobileme-hero-15x	archiveteam-mobileme-hero-15x-154.tar	gallery.me.com-certist.warc.gz	1465148217
+certist	homepage.mac.com	2012-03-22 08:03:30	archiveteam-mobileme-hero-15x	archiveteam-mobileme-hero-15x-154.tar	homepage.mac.com-certist.warc.gz	4893
+certist	public.me.com	2012-03-22 07:41:41	archiveteam-mobileme-hero-15x	archiveteam-mobileme-hero-15x-154.tar	public.me.com-certist.warc.gz	1901
+certist	web.me.com	2012-03-22 07:41:41	archiveteam-mobileme-hero-15x	archiveteam-mobileme-hero-15x-154.tar	web.me.com-certist.warc.gz	108134925
+rnsocal76	gallery.me.com	2012-03-22 07:33:27	archiveteam-mobileme-hero-15x	archiveteam-mobileme-hero-15x-154.tar	gallery.me.com-rnsocal76.warc.gz	5075
+rnsocal76	homepage.mac.com	2012-03-22 07:33:29	archiveteam-mobileme-hero-15x	archiveteam-mobileme-hero-15x-154.tar	homepage.mac.com-rnsocal76.warc.gz	86297
+rnsocal76	public.me.com	2012-03-22 07:33:21	archiveteam-mobileme-hero-15x	archiveteam-mobileme-hero-15x-154.tar	public.me.com-rnsocal76.warc.gz	1920
+rnsocal76	web.me.com	2012-03-22 07:31:42	archiveteam-mobileme-hero-15x	archiveteam-mobileme-hero-15x-154.tar	web.me.com-rnsocal76.warc.gz	658823856
+the_wiggidy	gallery.me.com	2012-03-22 06:25:50	archiveteam-mobileme-hero-15x	archiveteam-mobileme-hero-15x-154.tar	gallery.me.com-the_wiggidy.warc.gz	653098821
+the_wiggidy	homepage.mac.com	2012-03-22 06:25:50	archiveteam-mobileme-hero-15x	archiveteam-mobileme-hero-15x-154.tar	homepage.mac.com-the_wiggidy.warc.gz	4944
+the_wiggidy	public.me.com	2012-03-22 06:20:24	archiveteam-mobileme-hero-15x	archiveteam-mobileme-hero-15x-154.tar	public.me.com-the_wiggidy.warc.gz	681399854
+the_wiggidy	web.me.com	2012-03-22 06:10:08	archiveteam-mobileme-hero-15x	archiveteam-mobileme-hero-15x-154.tar	web.me.com-the_wiggidy.warc.gz	1925333701
+worldofeternia	gallery.me.com	2012-03-22 05:01:53	archiveteam-mobileme-hero-15x	archiveteam-mobileme-hero-15x-154.tar	gallery.me.com-worldofeternia.warc.gz	12343
+worldofeternia	homepage.mac.com	2012-03-22 05:01:53	archiveteam-mobileme-hero-15x	archiveteam-mobileme-hero-15x-154.tar	homepage.mac.com-worldofeternia.warc.gz	7161
+worldofeternia	public.me.com	2012-03-22 05:01:53	archiveteam-mobileme-hero-15x	archiveteam-mobileme-hero-15x-154.tar	public.me.com-worldofeternia.warc.gz	1925
+worldofeternia	web.me.com	2012-03-22 05:01:52	archiveteam-mobileme-hero-15x	archiveteam-mobileme-hero-15x-154.tar	web.me.com-worldofeternia.warc.gz	22543

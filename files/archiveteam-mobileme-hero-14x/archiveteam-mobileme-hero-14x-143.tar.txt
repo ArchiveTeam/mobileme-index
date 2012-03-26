@@ -1,0 +1,8 @@
+jasondcall	gallery.me.com	2012-03-22 05:02:30	archiveteam-mobileme-hero-14x	archiveteam-mobileme-hero-14x-143.tar	gallery.me.com-jasondcall.warc.gz	121877211
+jasondcall	homepage.mac.com	2012-03-22 05:02:33	archiveteam-mobileme-hero-14x	archiveteam-mobileme-hero-14x-143.tar	homepage.mac.com-jasondcall.warc.gz	4928
+jasondcall	public.me.com	2012-03-22 05:00:14	archiveteam-mobileme-hero-14x	archiveteam-mobileme-hero-14x-143.tar	public.me.com-jasondcall.warc.gz	43556013
+jasondcall	web.me.com	2012-03-22 04:57:56	archiveteam-mobileme-hero-14x	archiveteam-mobileme-hero-14x-143.tar	web.me.com-jasondcall.warc.gz	6301886
+rpcpodcast	gallery.me.com	2012-03-22 06:48:39	archiveteam-mobileme-hero-14x	archiveteam-mobileme-hero-14x-143.tar	gallery.me.com-rpcpodcast.warc.gz	239720532
+rpcpodcast	homepage.mac.com	2012-03-22 06:48:40	archiveteam-mobileme-hero-14x	archiveteam-mobileme-hero-14x-143.tar	homepage.mac.com-rpcpodcast.warc.gz	4903
+rpcpodcast	public.me.com	2012-03-22 06:47:52	archiveteam-mobileme-hero-14x	archiveteam-mobileme-hero-14x-143.tar	public.me.com-rpcpodcast.warc.gz	36638494
+rpcpodcast	web.me.com	2012-03-22 06:47:31	archiveteam-mobileme-hero-14x	archiveteam-mobileme-hero-14x-143.tar	web.me.com-rpcpodcast.warc.gz	6261758907

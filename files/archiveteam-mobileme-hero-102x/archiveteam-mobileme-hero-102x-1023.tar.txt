@@ -1,0 +1,12 @@
+cakap	gallery.me.com	2012-03-26 02:48:13	archiveteam-mobileme-hero-102x	archiveteam-mobileme-hero-102x-1023.tar	gallery.me.com-cakap.warc.gz	5866845311
+cakap	homepage.mac.com	2012-03-26 02:48:14	archiveteam-mobileme-hero-102x	archiveteam-mobileme-hero-102x-1023.tar	homepage.mac.com-cakap.warc.gz	4900
+cakap	public.me.com	2012-03-25 23:45:56	archiveteam-mobileme-hero-102x	archiveteam-mobileme-hero-102x-1023.tar	public.me.com-cakap.warc.gz	1906
+cakap	web.me.com	2012-03-25 23:45:30	archiveteam-mobileme-hero-102x	archiveteam-mobileme-hero-102x-1023.tar	web.me.com-cakap.warc.gz	1768513184
+ic3	gallery.me.com	2012-03-25 20:53:57	archiveteam-mobileme-hero-102x	archiveteam-mobileme-hero-102x-1023.tar	gallery.me.com-ic3.warc.gz	12283
+ic3	homepage.mac.com	2012-03-25 20:53:57	archiveteam-mobileme-hero-102x	archiveteam-mobileme-hero-102x-1023.tar	homepage.mac.com-ic3.warc.gz	7129
+ic3	public.me.com	2012-03-25 20:53:56	archiveteam-mobileme-hero-102x	archiveteam-mobileme-hero-102x-1023.tar	public.me.com-ic3.warc.gz	1901
+ic3	web.me.com	2012-03-25 20:53:55	archiveteam-mobileme-hero-102x	archiveteam-mobileme-hero-102x-1023.tar	web.me.com-ic3.warc.gz	22421
+thunder_country	gallery.me.com	2012-03-25 21:16:54	archiveteam-mobileme-hero-102x	archiveteam-mobileme-hero-102x-1023.tar	gallery.me.com-thunder_country.warc.gz	116056091
+thunder_country	homepage.mac.com	2012-03-25 21:16:54	archiveteam-mobileme-hero-102x	archiveteam-mobileme-hero-102x-1023.tar	homepage.mac.com-thunder_country.warc.gz	4954
+thunder_country	public.me.com	2012-03-25 21:12:35	archiveteam-mobileme-hero-102x	archiveteam-mobileme-hero-102x-1023.tar	public.me.com-thunder_country.warc.gz	26844341
+thunder_country	web.me.com	2012-03-25 21:12:26	archiveteam-mobileme-hero-102x	archiveteam-mobileme-hero-102x-1023.tar	web.me.com-thunder_country.warc.gz	133946948

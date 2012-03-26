@@ -1,0 +1,16 @@
+gcarbon	gallery.me.com	2012-02-26 02:46:31	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-56.tar	gallery.me.com-gcarbon.warc.gz	331941209
+gcarbon	homepage.mac.com	2012-02-26 02:46:31	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-56.tar	homepage.mac.com-gcarbon.warc.gz	4909
+gcarbon	public.me.com	2012-02-26 02:38:32	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-56.tar	public.me.com-gcarbon.warc.gz	29299
+gcarbon	web.me.com	2012-02-26 02:38:31	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-56.tar	web.me.com-gcarbon.warc.gz	28622483
+rroberts	gallery.me.com	2012-02-26 05:15:47	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-56.tar	gallery.me.com-rroberts.warc.gz	4373243290
+rroberts	homepage.mac.com	2012-02-26 05:15:49	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-56.tar	homepage.mac.com-rroberts.warc.gz	41897
+rroberts	public.me.com	2012-02-26 03:50:39	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-56.tar	public.me.com-rroberts.warc.gz	15183
+rroberts	web.me.com	2012-02-26 03:50:37	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-56.tar	web.me.com-rroberts.warc.gz	476913122
+tinoc	gallery.me.com	2012-02-26 02:46:33	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-56.tar	gallery.me.com-tinoc.warc.gz	12333
+tinoc	homepage.mac.com	2012-02-26 02:46:33	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-56.tar	homepage.mac.com-tinoc.warc.gz	7143
+tinoc	public.me.com	2012-02-26 02:46:32	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-56.tar	public.me.com-tinoc.warc.gz	1906
+tinoc	web.me.com	2012-02-26 02:46:32	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-56.tar	web.me.com-tinoc.warc.gz	22476
+toddandrachel	gallery.me.com	2012-02-26 03:03:01	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-56.tar	gallery.me.com-toddandrachel.warc.gz	321753779
+toddandrachel	homepage.mac.com	2012-02-26 03:03:02	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-56.tar	homepage.mac.com-toddandrachel.warc.gz	9370
+toddandrachel	public.me.com	2012-02-26 03:00:14	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-56.tar	public.me.com-toddandrachel.warc.gz	3344
+toddandrachel	web.me.com	2012-02-26 03:00:13	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-56.tar	web.me.com-toddandrachel.warc.gz	81877032
