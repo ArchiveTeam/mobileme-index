@@ -47,17 +47,31 @@ def update_file(item_name, file_name)
     end
   end
 
-  FileUtils.mkdir_p("files/#{ item_name }")
-  File.open("files/#{ item_name }/#{ file_name }.txt", "w") do |f|
-    files.sort_by { |file| [ file[:user], file[:domain] ] }.each do |file|
-      f.puts [ file[:user], file[:domain], file[:datetime],
-               item_name, file_name, file[:file], file[:size] ].join("\t")
+  if files.size > 0
+    FileUtils.mkdir_p("files/#{ item_name }")
+    File.open("files/#{ item_name }/#{ file_name }.txt", "w") do |f|
+      files.sort_by { |file| [ file[:user], file[:domain] ] }.each do |file|
+        f.puts [ file[:user], file[:domain], file[:datetime],
+                 item_name, file_name, file[:file], file[:size] ].join("\t")
+      end
     end
   end
 
   puts "#{ files.size } file#{ files.size==1 ? "" : "s" }."
 
   files
+end
+
+def update_files(files)
+  files.each do |file|
+    if not File.exists?("files/#{ file[:item_name] }/#{ file[:name] }.txt")
+      begin
+        update_file(file[:item_name], file[:name])
+      rescue RestClient::RequestTimeout, RestClient::ResourceNotFound
+        puts $!
+      end
+    end
+  end
 end
 
 def update_items_txt(items)
@@ -119,19 +133,33 @@ changed_items.each_with_index.each do |item, idx|
   puts
   puts "Item #{ idx+1 }/#{ changed_items.size }:"
 
-  files = update_item(item[:item_name])
+  begin
+    files = update_item(item[:item_name])
 
-  # update files
-  files.each do |file|
-    if not File.exists?("files/#{ file[:item_name] }/#{ file[:name] }.txt")
-      update_file(file[:item_name], file[:name])
-    end
+    # update files
+    update_files(files)
+
+    # update updatedate
+    items[item[:item_name]] = item[:updatedate]
+    update_items_txt(items)
+  rescue
+    puts $!
   end
-
-  # update updatedate
-  items[item[:item_name]] = item[:updatedate]
-  update_items_txt(items)
 end
 
 
+puts "Checking for missing files in existing items."
+
+latest_items.each_with_index do |item, idx|
+  if File.exists?("items/#{ item[:item_name] }.txt")
+    files = File.readlines("items/#{ item[:item_name] }.txt").map do |line|
+      line.split("\t")[1]
+    end.compact.map do |filename|
+      { :item_name=>item[:item_name], :name=>filename }
+    end
+
+    # update files
+    update_files(files)
+  end
+end
 
