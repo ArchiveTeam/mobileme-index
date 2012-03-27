@@ -142,7 +142,7 @@ items = Hash[prev_items]
 # download items
 print "Downloading current item list... "
 
-response = RestClient.get("http://archive.org/advancedsearch.php?q=collection%3Aarchiveteam-mobileme&fl%5B%5D=identifier&fl%5B%5D=oai_updatedate&rows=100000&page=1&output=xml")
+response = RestClient.get("http://archive.org/advancedsearch.php?q=collection%3Aarchiveteam-mobileme%20OR%20identifier%3Aarchiveteam-mobileme-%2A&fl%5B%5D=identifier&fl%5B%5D=oai_updatedate&rows=100000&page=1&output=xml")
 items_xml = Nokogiri::XML(response)
 latest_items = items_xml.xpath("//doc/str[@name='identifier']").map do |el|
   updatedates = el.xpath("../arr[@name='oai_updatedate']/date").map{|e|e.text}
