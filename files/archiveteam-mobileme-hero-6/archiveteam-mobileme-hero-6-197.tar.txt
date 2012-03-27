@@ -1,0 +1,16 @@
+apacheco	gallery.me.com	2012-02-27 05:30:56	archiveteam-mobileme-hero-6	archiveteam-mobileme-hero-6-197.tar	gallery.me.com-apacheco.warc.gz	1272663862
+apacheco	homepage.mac.com	2012-02-27 05:32:08	archiveteam-mobileme-hero-6	archiveteam-mobileme-hero-6-197.tar	homepage.mac.com-apacheco.warc.gz	1254418
+apacheco	public.me.com	2012-02-27 05:21:03	archiveteam-mobileme-hero-6	archiveteam-mobileme-hero-6-197.tar	public.me.com-apacheco.warc.gz	1916
+apacheco	web.me.com	2012-02-27 05:21:02	archiveteam-mobileme-hero-6	archiveteam-mobileme-hero-6-197.tar	web.me.com-apacheco.warc.gz	560370356
+kyle_kam	gallery.me.com	2012-02-27 05:34:11	archiveteam-mobileme-hero-6	archiveteam-mobileme-hero-6-197.tar	gallery.me.com-kyle_kam.warc.gz	6136
+kyle_kam	homepage.mac.com	2012-02-27 05:34:12	archiveteam-mobileme-hero-6	archiveteam-mobileme-hero-6-197.tar	homepage.mac.com-kyle_kam.warc.gz	4919
+kyle_kam	public.me.com	2012-02-27 05:34:10	archiveteam-mobileme-hero-6	archiveteam-mobileme-hero-6-197.tar	public.me.com-kyle_kam.warc.gz	3456
+kyle_kam	web.me.com	2012-02-27 05:34:10	archiveteam-mobileme-hero-6	archiveteam-mobileme-hero-6-197.tar	web.me.com-kyle_kam.warc.gz	7634113
+mbruck	gallery.me.com	2012-02-27 01:38:46	archiveteam-mobileme-hero-6	archiveteam-mobileme-hero-6-197.tar	gallery.me.com-mbruck.warc.gz	5667
+mbruck	homepage.mac.com	2012-02-27 01:38:47	archiveteam-mobileme-hero-6	archiveteam-mobileme-hero-6-197.tar	homepage.mac.com-mbruck.warc.gz	9387
+mbruck	public.me.com	2012-02-27 01:38:46	archiveteam-mobileme-hero-6	archiveteam-mobileme-hero-6-197.tar	public.me.com-mbruck.warc.gz	3323
+mbruck	web.me.com	2012-02-27 01:38:45	archiveteam-mobileme-hero-6	archiveteam-mobileme-hero-6-197.tar	web.me.com-mbruck.warc.gz	2585623
+witterweb	gallery.me.com	2012-02-27 07:28:30	archiveteam-mobileme-hero-6	archiveteam-mobileme-hero-6-197.tar	gallery.me.com-witterweb.warc.gz	11422332984
+witterweb	homepage.mac.com	2012-02-27 07:28:30	archiveteam-mobileme-hero-6	archiveteam-mobileme-hero-6-197.tar	homepage.mac.com-witterweb.warc.gz	4905
+witterweb	public.me.com	2012-02-27 06:10:54	archiveteam-mobileme-hero-6	archiveteam-mobileme-hero-6-197.tar	public.me.com-witterweb.warc.gz	2462808
+witterweb	web.me.com	2012-02-27 06:10:44	archiveteam-mobileme-hero-6	archiveteam-mobileme-hero-6-197.tar	web.me.com-witterweb.warc.gz	623967860

@@ -1,0 +1,16 @@
+mongoose_chronicle	gallery.me.com	2012-03-01 02:00:10	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-280.tar	gallery.me.com-mongoose_chronicle.warc.gz	4325
+mongoose_chronicle	homepage.mac.com	2012-03-01 02:00:11	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-280.tar	homepage.mac.com-mongoose_chronicle.warc.gz	7936
+mongoose_chronicle	public.me.com	2012-03-01 02:00:10	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-280.tar	public.me.com-mongoose_chronicle.warc.gz	3872910
+mongoose_chronicle	web.me.com	2012-03-01 02:00:03	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-280.tar	web.me.com-mongoose_chronicle.warc.gz	32934403
+nestordelprado	gallery.me.com	2012-03-01 02:06:29	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-280.tar	gallery.me.com-nestordelprado.warc.gz	87621143
+nestordelprado	homepage.mac.com	2012-03-01 02:06:29	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-280.tar	homepage.mac.com-nestordelprado.warc.gz	4927
+nestordelprado	public.me.com	2012-03-01 02:03:36	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-280.tar	public.me.com-nestordelprado.warc.gz	1913
+nestordelprado	web.me.com	2012-03-01 02:03:36	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-280.tar	web.me.com-nestordelprado.warc.gz	87869442
+philipboyle	gallery.me.com	2012-03-01 01:45:23	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-280.tar	gallery.me.com-philipboyle.warc.gz	4265
+philipboyle	homepage.mac.com	2012-03-01 01:45:23	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-280.tar	homepage.mac.com-philipboyle.warc.gz	4911
+philipboyle	public.me.com	2012-03-01 01:45:22	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-280.tar	public.me.com-philipboyle.warc.gz	1933
+philipboyle	web.me.com	2012-03-01 01:45:21	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-280.tar	web.me.com-philipboyle.warc.gz	4788927
+rossdjones	gallery.me.com	2012-03-01 06:19:45	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-280.tar	gallery.me.com-rossdjones.warc.gz	1454981494
+rossdjones	homepage.mac.com	2012-03-01 06:20:33	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-280.tar	homepage.mac.com-rossdjones.warc.gz	2074186
+rossdjones	public.me.com	2012-03-01 06:12:03	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-280.tar	public.me.com-rossdjones.warc.gz	1915
+rossdjones	web.me.com	2012-03-01 06:11:32	archiveteam-mobileme-hero-1	archiveteam-mobileme-hero-1-280.tar	web.me.com-rossdjones.warc.gz	15154094251

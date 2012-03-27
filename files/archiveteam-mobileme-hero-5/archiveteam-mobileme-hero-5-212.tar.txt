@@ -1,0 +1,12 @@
+kittydelapp1	gallery.me.com	2012-02-27 03:49:50	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-212.tar	gallery.me.com-kittydelapp1.warc.gz	2157400207
+kittydelapp1	homepage.mac.com	2012-02-27 03:49:50	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-212.tar	homepage.mac.com-kittydelapp1.warc.gz	4941
+kittydelapp1	public.me.com	2012-02-27 03:37:20	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-212.tar	public.me.com-kittydelapp1.warc.gz	6067125
+kittydelapp1	web.me.com	2012-02-27 03:37:06	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-212.tar	web.me.com-kittydelapp1.warc.gz	857609
+mrx13	gallery.me.com	2012-02-27 04:01:16	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-212.tar	gallery.me.com-mrx13.warc.gz	171252071
+mrx13	homepage.mac.com	2012-02-27 04:01:18	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-212.tar	homepage.mac.com-mrx13.warc.gz	4886
+mrx13	public.me.com	2012-02-27 03:52:09	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-212.tar	public.me.com-mrx13.warc.gz	3317
+mrx13	web.me.com	2012-02-27 03:52:08	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-212.tar	web.me.com-mrx13.warc.gz	6093601
+rpmimages	gallery.me.com	2012-02-27 09:03:23	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-212.tar	gallery.me.com-rpmimages.warc.gz	541408781
+rpmimages	homepage.mac.com	2012-02-27 09:03:28	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-212.tar	homepage.mac.com-rpmimages.warc.gz	109934
+rpmimages	public.me.com	2012-02-27 08:53:24	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-212.tar	public.me.com-rpmimages.warc.gz	11228984360
+rpmimages	web.me.com	2012-02-27 04:09:37	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-212.tar	web.me.com-rpmimages.warc.gz	90171219
