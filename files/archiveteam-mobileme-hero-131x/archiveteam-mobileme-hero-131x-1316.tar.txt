@@ -1,0 +1,12 @@
+c720477489	gallery.me.com	2012-03-27 03:43:23	archiveteam-mobileme-hero-131x	archiveteam-mobileme-hero-131x-1316.tar	gallery.me.com-c720477489.warc.gz	8379
+c720477489	homepage.mac.com	2012-03-27 03:43:23	archiveteam-mobileme-hero-131x	archiveteam-mobileme-hero-131x-1316.tar	homepage.mac.com-c720477489.warc.gz	5180
+c720477489	public.me.com	2012-03-27 03:43:22	archiveteam-mobileme-hero-131x	archiveteam-mobileme-hero-131x-1316.tar	public.me.com-c720477489.warc.gz	1924
+c720477489	web.me.com	2012-03-27 03:43:22	archiveteam-mobileme-hero-131x	archiveteam-mobileme-hero-131x-1316.tar	web.me.com-c720477489.warc.gz	17778
+m_landers	gallery.me.com	2012-03-27 06:25:23	archiveteam-mobileme-hero-131x	archiveteam-mobileme-hero-131x-1316.tar	gallery.me.com-m_landers.warc.gz	8559604452
+m_landers	homepage.mac.com	2012-03-27 06:25:23	archiveteam-mobileme-hero-131x	archiveteam-mobileme-hero-131x-1316.tar	homepage.mac.com-m_landers.warc.gz	7891
+m_landers	public.me.com	2012-03-27 04:05:16	archiveteam-mobileme-hero-131x	archiveteam-mobileme-hero-131x-1316.tar	public.me.com-m_landers.warc.gz	3398
+m_landers	web.me.com	2012-03-27 04:05:16	archiveteam-mobileme-hero-131x	archiveteam-mobileme-hero-131x-1316.tar	web.me.com-m_landers.warc.gz	444326937
+oshurer	gallery.me.com	2012-03-27 03:43:21	archiveteam-mobileme-hero-131x	archiveteam-mobileme-hero-131x-1316.tar	gallery.me.com-oshurer.warc.gz	20648394
+oshurer	homepage.mac.com	2012-03-27 03:43:21	archiveteam-mobileme-hero-131x	archiveteam-mobileme-hero-131x-1316.tar	homepage.mac.com-oshurer.warc.gz	4914
+oshurer	public.me.com	2012-03-27 03:41:10	archiveteam-mobileme-hero-131x	archiveteam-mobileme-hero-131x-1316.tar	public.me.com-oshurer.warc.gz	1912
+oshurer	web.me.com	2012-03-27 03:41:09	archiveteam-mobileme-hero-131x	archiveteam-mobileme-hero-131x-1316.tar	web.me.com-oshurer.warc.gz	31300422

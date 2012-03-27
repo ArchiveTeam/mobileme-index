@@ -1,0 +1,16 @@
+asawey	gallery.me.com	2012-03-27 16:08:53	archiveteam-mobileme-hero-144x	archiveteam-mobileme-hero-144x-1448.tar	gallery.me.com-asawey.warc.gz	5684
+asawey	homepage.mac.com	2012-03-27 16:08:53	archiveteam-mobileme-hero-144x	archiveteam-mobileme-hero-144x-1448.tar	homepage.mac.com-asawey.warc.gz	4890
+asawey	public.me.com	2012-03-27 16:08:53	archiveteam-mobileme-hero-144x	archiveteam-mobileme-hero-144x-1448.tar	public.me.com-asawey.warc.gz	1912
+asawey	web.me.com	2012-03-27 16:08:53	archiveteam-mobileme-hero-144x	archiveteam-mobileme-hero-144x-1448.tar	web.me.com-asawey.warc.gz	4637919
+drnolan	gallery.me.com	2012-03-27 18:01:49	archiveteam-mobileme-hero-144x	archiveteam-mobileme-hero-144x-1448.tar	gallery.me.com-drnolan.warc.gz	475643084
+drnolan	homepage.mac.com	2012-03-27 18:01:58	archiveteam-mobileme-hero-144x	archiveteam-mobileme-hero-144x-1448.tar	homepage.mac.com-drnolan.warc.gz	94018
+drnolan	public.me.com	2012-03-27 17:49:50	archiveteam-mobileme-hero-144x	archiveteam-mobileme-hero-144x-1448.tar	public.me.com-drnolan.warc.gz	5266919717
+drnolan	web.me.com	2012-03-27 16:32:00	archiveteam-mobileme-hero-144x	archiveteam-mobileme-hero-144x-1448.tar	web.me.com-drnolan.warc.gz	668831338
+dustdown	gallery.me.com	2012-03-27 16:09:11	archiveteam-mobileme-hero-144x	archiveteam-mobileme-hero-144x-1448.tar	gallery.me.com-dustdown.warc.gz	4226
+dustdown	homepage.mac.com	2012-03-27 16:09:11	archiveteam-mobileme-hero-144x	archiveteam-mobileme-hero-144x-1448.tar	homepage.mac.com-dustdown.warc.gz	4900
+dustdown	public.me.com	2012-03-27 16:09:11	archiveteam-mobileme-hero-144x	archiveteam-mobileme-hero-144x-1448.tar	public.me.com-dustdown.warc.gz	15287477
+dustdown	web.me.com	2012-03-27 16:08:55	archiveteam-mobileme-hero-144x	archiveteam-mobileme-hero-144x-1448.tar	web.me.com-dustdown.warc.gz	23948
+numeric_web	gallery.me.com	2012-03-27 16:09:14	archiveteam-mobileme-hero-144x	archiveteam-mobileme-hero-144x-1448.tar	gallery.me.com-numeric_web.warc.gz	8347
+numeric_web	homepage.mac.com	2012-03-27 16:09:14	archiveteam-mobileme-hero-144x	archiveteam-mobileme-hero-144x-1448.tar	homepage.mac.com-numeric_web.warc.gz	5186
+numeric_web	public.me.com	2012-03-27 16:09:13	archiveteam-mobileme-hero-144x	archiveteam-mobileme-hero-144x-1448.tar	public.me.com-numeric_web.warc.gz	1922
+numeric_web	web.me.com	2012-03-27 16:09:13	archiveteam-mobileme-hero-144x	archiveteam-mobileme-hero-144x-1448.tar	web.me.com-numeric_web.warc.gz	17758
