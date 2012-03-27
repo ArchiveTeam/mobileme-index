@@ -98,8 +98,10 @@ def update_files(files)
     if not File.exists?("files/#{ file[:item_name] }/#{ file[:name] }.txt")
       begin
         update_file(file[:item_name], file[:name])
-      rescue RestClient::RequestTimeout, RestClient::ResourceNotFound
+      rescue RestClient::RequestTimeout
         puts $!
+      rescue RestClient::ResourceNotFound
+        puts " Not Found."
       end
     end
   end
@@ -191,7 +193,7 @@ latest_items.each_with_index do |item, idx|
     end
 
     # update files
-    update_files(files)
+    update_files(files) rescue puts $!
   end
 end
 

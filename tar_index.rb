@@ -43,8 +43,17 @@ class TarIndex
   def fetch_next_headers
     return nil if @pos.nil?
 
-    response = Typhoeus::Request.get(@url, :headers=>{"Range"=>"bytes=#{ @pos }-#{ @pos + (BATCH_SIZE * BLOCK_SIZE - 1) }"})
-    @full_size = response.headers_hash["Content-Range"][/\/([0-9]+)$/,1].to_i
+    errors = 0
+    begin
+      response = Typhoeus::Request.get(@url, :headers=>{"Range"=>"bytes=#{ @pos }-#{ @pos + (BATCH_SIZE * BLOCK_SIZE - 1) }"})
+      @full_size = response.headers_hash["Content-Range"][/\/([0-9]+)$/,1].to_i
+    rescue
+      errors += 1
+      retry if errors < 5
+      raise "HTTP error."
+    end
+
+    raise "HTTP error #{ response.status }." if not response.success?
 
     data = response.body.to_s
 
