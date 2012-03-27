@@ -1,0 +1,16 @@
+fstiller	gallery.me.com	2012-03-25 04:49:51	archiveteam-mobileme-hero-85x	archiveteam-mobileme-hero-85x-855.tar	gallery.me.com-fstiller.warc.gz	5090
+fstiller	homepage.mac.com	2012-03-25 04:49:52	archiveteam-mobileme-hero-85x	archiveteam-mobileme-hero-85x-855.tar	homepage.mac.com-fstiller.warc.gz	4911
+fstiller	public.me.com	2012-03-25 04:49:50	archiveteam-mobileme-hero-85x	archiveteam-mobileme-hero-85x-855.tar	public.me.com-fstiller.warc.gz	1908
+fstiller	web.me.com	2012-03-25 04:49:49	archiveteam-mobileme-hero-85x	archiveteam-mobileme-hero-85x-855.tar	web.me.com-fstiller.warc.gz	185671883
+gdagslet	gallery.me.com	2012-03-25 04:28:21	archiveteam-mobileme-hero-85x	archiveteam-mobileme-hero-85x-855.tar	gallery.me.com-gdagslet.warc.gz	113731572
+gdagslet	homepage.mac.com	2012-03-25 04:28:22	archiveteam-mobileme-hero-85x	archiveteam-mobileme-hero-85x-855.tar	homepage.mac.com-gdagslet.warc.gz	4910
+gdagslet	public.me.com	2012-03-25 04:18:32	archiveteam-mobileme-hero-85x	archiveteam-mobileme-hero-85x-855.tar	public.me.com-gdagslet.warc.gz	14872310
+gdagslet	web.me.com	2012-03-25 04:17:55	archiveteam-mobileme-hero-85x	archiveteam-mobileme-hero-85x-855.tar	web.me.com-gdagslet.warc.gz	73281926
+srggio	gallery.me.com	2012-03-25 04:15:30	archiveteam-mobileme-hero-85x	archiveteam-mobileme-hero-85x-855.tar	gallery.me.com-srggio.warc.gz	388882323
+srggio	homepage.mac.com	2012-03-25 04:15:33	archiveteam-mobileme-hero-85x	archiveteam-mobileme-hero-85x-855.tar	homepage.mac.com-srggio.warc.gz	69042
+srggio	public.me.com	2012-03-25 04:08:27	archiveteam-mobileme-hero-85x	archiveteam-mobileme-hero-85x-855.tar	public.me.com-srggio.warc.gz	1436745127
+srggio	web.me.com	2012-03-25 03:33:19	archiveteam-mobileme-hero-85x	archiveteam-mobileme-hero-85x-855.tar	web.me.com-srggio.warc.gz	24528248
+terryburns	gallery.me.com	2012-03-25 03:28:18	archiveteam-mobileme-hero-85x	archiveteam-mobileme-hero-85x-855.tar	gallery.me.com-terryburns.warc.gz	235391520
+terryburns	homepage.mac.com	2012-03-25 03:28:19	archiveteam-mobileme-hero-85x	archiveteam-mobileme-hero-85x-855.tar	homepage.mac.com-terryburns.warc.gz	4925
+terryburns	public.me.com	2012-03-25 03:26:04	archiveteam-mobileme-hero-85x	archiveteam-mobileme-hero-85x-855.tar	public.me.com-terryburns.warc.gz	1765534266
+terryburns	web.me.com	2012-03-25 03:04:35	archiveteam-mobileme-hero-85x	archiveteam-mobileme-hero-85x-855.tar	web.me.com-terryburns.warc.gz	94303991

@@ -1,0 +1,16 @@
+capitopia	gallery.me.com	2012-02-27 12:34:38	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-260.tar	gallery.me.com-capitopia.warc.gz	999005308
+capitopia	homepage.mac.com	2012-02-27 12:34:38	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-260.tar	homepage.mac.com-capitopia.warc.gz	4921
+capitopia	public.me.com	2012-02-27 12:22:07	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-260.tar	public.me.com-capitopia.warc.gz	1919
+capitopia	web.me.com	2012-02-27 12:22:06	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-260.tar	web.me.com-capitopia.warc.gz	413847408
+fluffycloud	gallery.me.com	2012-02-27 13:37:54	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-260.tar	gallery.me.com-fluffycloud.warc.gz	5049
+fluffycloud	homepage.mac.com	2012-02-27 13:37:54	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-260.tar	homepage.mac.com-fluffycloud.warc.gz	4922
+fluffycloud	public.me.com	2012-02-27 13:37:53	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-260.tar	public.me.com-fluffycloud.warc.gz	1921
+fluffycloud	web.me.com	2012-02-27 13:37:52	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-260.tar	web.me.com-fluffycloud.warc.gz	4026949
+kero_kero	gallery.me.com	2012-02-27 17:45:49	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-260.tar	gallery.me.com-kero_kero.warc.gz	159380780
+kero_kero	homepage.mac.com	2012-02-27 17:45:49	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-260.tar	homepage.mac.com-kero_kero.warc.gz	4922
+kero_kero	public.me.com	2012-02-27 17:41:33	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-260.tar	public.me.com-kero_kero.warc.gz	7240752332
+kero_kero	web.me.com	2012-02-27 14:02:27	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-260.tar	web.me.com-kero_kero.warc.gz	110578847
+toddmhoward	gallery.me.com	2012-02-27 13:36:36	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-260.tar	gallery.me.com-toddmhoward.warc.gz	901293537
+toddmhoward	homepage.mac.com	2012-02-27 13:36:36	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-260.tar	homepage.mac.com-toddmhoward.warc.gz	4926
+toddmhoward	public.me.com	2012-02-27 13:19:28	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-260.tar	public.me.com-toddmhoward.warc.gz	1920
+toddmhoward	web.me.com	2012-02-27 13:19:18	archiveteam-mobileme-hero-5	archiveteam-mobileme-hero-5-260.tar	web.me.com-toddmhoward.warc.gz	841251772

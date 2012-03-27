@@ -1,0 +1,12 @@
+aphake	gallery.me.com	2012-03-25 09:38:12	archiveteam-mobileme-hero-93x	archiveteam-mobileme-hero-93x-936.tar	gallery.me.com-aphake.warc.gz	12329
+aphake	homepage.mac.com	2012-03-25 09:38:13	archiveteam-mobileme-hero-93x	archiveteam-mobileme-hero-93x-936.tar	homepage.mac.com-aphake.warc.gz	7148
+aphake	public.me.com	2012-03-25 09:38:09	archiveteam-mobileme-hero-93x	archiveteam-mobileme-hero-93x-936.tar	public.me.com-aphake.warc.gz	1916
+aphake	web.me.com	2012-03-25 09:38:09	archiveteam-mobileme-hero-93x	archiveteam-mobileme-hero-93x-936.tar	web.me.com-aphake.warc.gz	22487
+granfio	gallery.me.com	2012-03-25 15:19:02	archiveteam-mobileme-hero-93x	archiveteam-mobileme-hero-93x-936.tar	gallery.me.com-granfio.warc.gz	3130726738
+granfio	homepage.mac.com	2012-03-25 15:21:45	archiveteam-mobileme-hero-93x	archiveteam-mobileme-hero-93x-936.tar	homepage.mac.com-granfio.warc.gz	1967792
+granfio	public.me.com	2012-03-25 13:43:40	archiveteam-mobileme-hero-93x	archiveteam-mobileme-hero-93x-936.tar	public.me.com-granfio.warc.gz	4551
+granfio	web.me.com	2012-03-25 13:41:26	archiveteam-mobileme-hero-93x	archiveteam-mobileme-hero-93x-936.tar	web.me.com-granfio.warc.gz	1434210721
+reciprocity2	gallery.me.com	2012-03-25 10:16:39	archiveteam-mobileme-hero-93x	archiveteam-mobileme-hero-93x-936.tar	gallery.me.com-reciprocity2.warc.gz	358399397
+reciprocity2	homepage.mac.com	2012-03-25 10:16:44	archiveteam-mobileme-hero-93x	archiveteam-mobileme-hero-93x-936.tar	homepage.mac.com-reciprocity2.warc.gz	4936
+reciprocity2	public.me.com	2012-03-25 10:01:37	archiveteam-mobileme-hero-93x	archiveteam-mobileme-hero-93x-936.tar	public.me.com-reciprocity2.warc.gz	116784464
+reciprocity2	web.me.com	2012-03-25 09:57:41	archiveteam-mobileme-hero-93x	archiveteam-mobileme-hero-93x-936.tar	web.me.com-reciprocity2.warc.gz	299684578

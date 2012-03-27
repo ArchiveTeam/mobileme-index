@@ -1,0 +1,16 @@
+dkern3	gallery.me.com	2012-03-24 17:58:23	archiveteam-mobileme-hero-77x	archiveteam-mobileme-hero-77x-771.tar	gallery.me.com-dkern3.warc.gz	7858842410
+dkern3	homepage.mac.com	2012-03-24 17:58:39	archiveteam-mobileme-hero-77x	archiveteam-mobileme-hero-77x-771.tar	homepage.mac.com-dkern3.warc.gz	110930
+dkern3	public.me.com	2012-03-24 13:51:35	archiveteam-mobileme-hero-77x	archiveteam-mobileme-hero-77x-771.tar	public.me.com-dkern3.warc.gz	2124005
+dkern3	web.me.com	2012-03-24 13:51:15	archiveteam-mobileme-hero-77x	archiveteam-mobileme-hero-77x-771.tar	web.me.com-dkern3.warc.gz	2704126610
+harash	gallery.me.com	2012-03-24 09:00:35	archiveteam-mobileme-hero-77x	archiveteam-mobileme-hero-77x-771.tar	gallery.me.com-harash.warc.gz	30725427
+harash	homepage.mac.com	2012-03-24 09:00:35	archiveteam-mobileme-hero-77x	archiveteam-mobileme-hero-77x-771.tar	homepage.mac.com-harash.warc.gz	4898
+harash	public.me.com	2012-03-24 08:59:11	archiveteam-mobileme-hero-77x	archiveteam-mobileme-hero-77x-771.tar	public.me.com-harash.warc.gz	1910
+harash	web.me.com	2012-03-24 08:59:06	archiveteam-mobileme-hero-77x	archiveteam-mobileme-hero-77x-771.tar	web.me.com-harash.warc.gz	44451033
+pip2020	gallery.me.com	2012-03-24 08:48:33	archiveteam-mobileme-hero-77x	archiveteam-mobileme-hero-77x-771.tar	gallery.me.com-pip2020.warc.gz	6925
+pip2020	homepage.mac.com	2012-03-24 08:48:33	archiveteam-mobileme-hero-77x	archiveteam-mobileme-hero-77x-771.tar	homepage.mac.com-pip2020.warc.gz	4909
+pip2020	public.me.com	2012-03-24 08:48:31	archiveteam-mobileme-hero-77x	archiveteam-mobileme-hero-77x-771.tar	public.me.com-pip2020.warc.gz	1914
+pip2020	web.me.com	2012-03-24 08:48:29	archiveteam-mobileme-hero-77x	archiveteam-mobileme-hero-77x-771.tar	web.me.com-pip2020.warc.gz	12884777
+thomasherreman	gallery.me.com	2012-03-24 11:36:37	archiveteam-mobileme-hero-77x	archiveteam-mobileme-hero-77x-771.tar	gallery.me.com-thomasherreman.warc.gz	16252880
+thomasherreman	homepage.mac.com	2012-03-24 11:36:37	archiveteam-mobileme-hero-77x	archiveteam-mobileme-hero-77x-771.tar	homepage.mac.com-thomasherreman.warc.gz	4924
+thomasherreman	public.me.com	2012-03-24 11:35:03	archiveteam-mobileme-hero-77x	archiveteam-mobileme-hero-77x-771.tar	public.me.com-thomasherreman.warc.gz	1922
+thomasherreman	web.me.com	2012-03-24 11:35:02	archiveteam-mobileme-hero-77x	archiveteam-mobileme-hero-77x-771.tar	web.me.com-thomasherreman.warc.gz	86598359

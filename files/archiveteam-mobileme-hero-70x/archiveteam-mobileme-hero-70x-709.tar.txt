@@ -1,0 +1,12 @@
+elch	gallery.me.com	2012-03-24 10:34:04	archiveteam-mobileme-hero-70x	archiveteam-mobileme-hero-70x-709.tar	gallery.me.com-elch.warc.gz	1673482899
+elch	homepage.mac.com	2012-03-24 10:34:05	archiveteam-mobileme-hero-70x	archiveteam-mobileme-hero-70x-709.tar	homepage.mac.com-elch.warc.gz	4891
+elch	public.me.com	2012-03-24 10:19:04	archiveteam-mobileme-hero-70x	archiveteam-mobileme-hero-70x-709.tar	public.me.com-elch.warc.gz	1898
+elch	web.me.com	2012-03-24 10:19:02	archiveteam-mobileme-hero-70x	archiveteam-mobileme-hero-70x-709.tar	web.me.com-elch.warc.gz	622122222
+jbindslev	gallery.me.com	2012-03-24 09:17:23	archiveteam-mobileme-hero-70x	archiveteam-mobileme-hero-70x-709.tar	gallery.me.com-jbindslev.warc.gz	207407333
+jbindslev	homepage.mac.com	2012-03-24 09:17:23	archiveteam-mobileme-hero-70x	archiveteam-mobileme-hero-70x-709.tar	homepage.mac.com-jbindslev.warc.gz	4916
+jbindslev	public.me.com	2012-03-24 09:15:27	archiveteam-mobileme-hero-70x	archiveteam-mobileme-hero-70x-709.tar	public.me.com-jbindslev.warc.gz	3766
+jbindslev	web.me.com	2012-03-24 09:15:26	archiveteam-mobileme-hero-70x	archiveteam-mobileme-hero-70x-709.tar	web.me.com-jbindslev.warc.gz	159178361
+thibim	gallery.me.com	2012-03-24 10:06:26	archiveteam-mobileme-hero-70x	archiveteam-mobileme-hero-70x-709.tar	gallery.me.com-thibim.warc.gz	1611065513
+thibim	homepage.mac.com	2012-03-24 10:06:27	archiveteam-mobileme-hero-70x	archiveteam-mobileme-hero-70x-709.tar	homepage.mac.com-thibim.warc.gz	4904
+thibim	public.me.com	2012-03-24 09:48:58	archiveteam-mobileme-hero-70x	archiveteam-mobileme-hero-70x-709.tar	public.me.com-thibim.warc.gz	1914
+thibim	web.me.com	2012-03-24 09:48:55	archiveteam-mobileme-hero-70x	archiveteam-mobileme-hero-70x-709.tar	web.me.com-thibim.warc.gz	1079485551

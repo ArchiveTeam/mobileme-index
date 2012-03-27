@@ -1,0 +1,16 @@
+altempo	gallery.me.com	2012-03-21 18:16:37	archiveteam-mobileme-hero-4x	archiveteam-mobileme-hero-4x-42.tar	gallery.me.com-altempo.warc.gz	1763382759
+altempo	homepage.mac.com	2012-03-21 18:16:43	archiveteam-mobileme-hero-4x	archiveteam-mobileme-hero-4x-42.tar	homepage.mac.com-altempo.warc.gz	153466
+altempo	public.me.com	2012-03-21 17:48:03	archiveteam-mobileme-hero-4x	archiveteam-mobileme-hero-4x-42.tar	public.me.com-altempo.warc.gz	3649595782
+altempo	web.me.com	2012-03-21 17:00:13	archiveteam-mobileme-hero-4x	archiveteam-mobileme-hero-4x-42.tar	web.me.com-altempo.warc.gz	591258681
+kmelnechuk	gallery.me.com	2012-03-21 16:36:26	archiveteam-mobileme-hero-4x	archiveteam-mobileme-hero-4x-42.tar	gallery.me.com-kmelnechuk.warc.gz	4238
+kmelnechuk	homepage.mac.com	2012-03-21 16:36:26	archiveteam-mobileme-hero-4x	archiveteam-mobileme-hero-4x-42.tar	homepage.mac.com-kmelnechuk.warc.gz	4929
+kmelnechuk	public.me.com	2012-03-21 16:36:26	archiveteam-mobileme-hero-4x	archiveteam-mobileme-hero-4x-42.tar	public.me.com-kmelnechuk.warc.gz	1922
+kmelnechuk	web.me.com	2012-03-21 16:36:25	archiveteam-mobileme-hero-4x	archiveteam-mobileme-hero-4x-42.tar	web.me.com-kmelnechuk.warc.gz	14619640
+shelbyfox	gallery.me.com	2012-03-21 16:36:57	archiveteam-mobileme-hero-4x	archiveteam-mobileme-hero-4x-42.tar	gallery.me.com-shelbyfox.warc.gz	4241
+shelbyfox	homepage.mac.com	2012-03-21 16:36:57	archiveteam-mobileme-hero-4x	archiveteam-mobileme-hero-4x-42.tar	homepage.mac.com-shelbyfox.warc.gz	4929
+shelbyfox	public.me.com	2012-03-21 16:36:57	archiveteam-mobileme-hero-4x	archiveteam-mobileme-hero-4x-42.tar	public.me.com-shelbyfox.warc.gz	1917
+shelbyfox	web.me.com	2012-03-21 16:36:57	archiveteam-mobileme-hero-4x	archiveteam-mobileme-hero-4x-42.tar	web.me.com-shelbyfox.warc.gz	721627
+slfstudio	gallery.me.com	2012-03-21 16:36:29	archiveteam-mobileme-hero-4x	archiveteam-mobileme-hero-4x-42.tar	gallery.me.com-slfstudio.warc.gz	12305
+slfstudio	homepage.mac.com	2012-03-21 16:36:29	archiveteam-mobileme-hero-4x	archiveteam-mobileme-hero-4x-42.tar	homepage.mac.com-slfstudio.warc.gz	7160
+slfstudio	public.me.com	2012-03-21 16:36:28	archiveteam-mobileme-hero-4x	archiveteam-mobileme-hero-4x-42.tar	public.me.com-slfstudio.warc.gz	1917
+slfstudio	web.me.com	2012-03-21 16:36:28	archiveteam-mobileme-hero-4x	archiveteam-mobileme-hero-4x-42.tar	web.me.com-slfstudio.warc.gz	22486

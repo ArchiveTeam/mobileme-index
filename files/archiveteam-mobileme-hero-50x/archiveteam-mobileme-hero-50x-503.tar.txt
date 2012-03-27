@@ -1,0 +1,16 @@
+agris.kutka	gallery.me.com	2012-03-23 00:28:02	archiveteam-mobileme-hero-50x	archiveteam-mobileme-hero-50x-503.tar	gallery.me.com-agris.kutka.warc.gz	4013333
+agris.kutka	homepage.mac.com	2012-03-23 00:28:02	archiveteam-mobileme-hero-50x	archiveteam-mobileme-hero-50x-503.tar	homepage.mac.com-agris.kutka.warc.gz	4908
+agris.kutka	public.me.com	2012-03-23 00:27:54	archiveteam-mobileme-hero-50x	archiveteam-mobileme-hero-50x-503.tar	public.me.com-agris.kutka.warc.gz	1041725744
+agris.kutka	web.me.com	2012-03-23 00:04:13	archiveteam-mobileme-hero-50x	archiveteam-mobileme-hero-50x-503.tar	web.me.com-agris.kutka.warc.gz	2060081
+geod1	gallery.me.com	2012-03-23 13:54:58	archiveteam-mobileme-hero-50x	archiveteam-mobileme-hero-50x-503.tar	gallery.me.com-geod1.warc.gz	2819517845
+geod1	homepage.mac.com	2012-03-23 13:55:11	archiveteam-mobileme-hero-50x	archiveteam-mobileme-hero-50x-503.tar	homepage.mac.com-geod1.warc.gz	109644
+geod1	public.me.com	2012-03-23 13:12:29	archiveteam-mobileme-hero-50x	archiveteam-mobileme-hero-50x-503.tar	public.me.com-geod1.warc.gz	1275984239
+geod1	web.me.com	2012-03-23 12:38:18	archiveteam-mobileme-hero-50x	archiveteam-mobileme-hero-50x-503.tar	web.me.com-geod1.warc.gz	3339834633
+lisebrown	gallery.me.com	2012-03-23 01:13:37	archiveteam-mobileme-hero-50x	archiveteam-mobileme-hero-50x-503.tar	gallery.me.com-lisebrown.warc.gz	531999887
+lisebrown	homepage.mac.com	2012-03-23 01:13:45	archiveteam-mobileme-hero-50x	archiveteam-mobileme-hero-50x-503.tar	homepage.mac.com-lisebrown.warc.gz	119042
+lisebrown	public.me.com	2012-03-23 01:02:07	archiveteam-mobileme-hero-50x	archiveteam-mobileme-hero-50x-503.tar	public.me.com-lisebrown.warc.gz	33903341
+lisebrown	web.me.com	2012-03-23 00:59:25	archiveteam-mobileme-hero-50x	archiveteam-mobileme-hero-50x-503.tar	web.me.com-lisebrown.warc.gz	116298404
+robbtodd	gallery.me.com	2012-03-23 00:03:01	archiveteam-mobileme-hero-50x	archiveteam-mobileme-hero-50x-503.tar	gallery.me.com-robbtodd.warc.gz	12315
+robbtodd	homepage.mac.com	2012-03-23 00:03:02	archiveteam-mobileme-hero-50x	archiveteam-mobileme-hero-50x-503.tar	homepage.mac.com-robbtodd.warc.gz	7147
+robbtodd	public.me.com	2012-03-23 00:02:59	archiveteam-mobileme-hero-50x	archiveteam-mobileme-hero-50x-503.tar	public.me.com-robbtodd.warc.gz	1918
+robbtodd	web.me.com	2012-03-23 00:02:59	archiveteam-mobileme-hero-50x	archiveteam-mobileme-hero-50x-503.tar	web.me.com-robbtodd.warc.gz	22512
