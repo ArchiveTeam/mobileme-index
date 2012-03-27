@@ -2,6 +2,14 @@ require "rubygems"
 require "rest_client"
 require "nokogiri"
 
+require "tar_index"
+
+def locate_file(item, file)
+  response = RestClient.get("http://archive.org/services/find_file.php?loconly=1&file=#{ item }")
+  location_el = Nokogiri::XML(response.body).at_xpath("/results/location")
+  "http://#{ location_el["host"] }#{ location_el["dir"] }/#{ file }"
+end
+
 def update_item(item_name)
   print "Updating #{ item_name }... "
 
@@ -31,7 +39,7 @@ def update_item(item_name)
 end
 
 def update_file(item_name, file_name)
-  print "- Updating #{ item_name }/#{ file_name }... "
+  print "- Updating #{ item_name }/#{ file_name }..."
 
   response = RestClient.get("http://archive.org/download/#{ item_name }/#{ file_name }/")
   html = Nokogiri::HTML(response.body)
@@ -47,6 +55,29 @@ def update_file(item_name, file_name)
     end
   end
 
+  if files.size == 0
+    puts " no files."
+    print "  tarview returned an empty result. Indexing tar file..."
+
+    url = locate_file(item_name, file_name)
+    ti = TarIndex.new(url)
+    prev_progress = nil
+    ti.each do |tar_header|
+      if tar_header.name=~/((public\.me\.com|web\.me\.com|gallery\.me\.com|homepage\.mac\.com)-([^\/]+)\.warc\.gz)$/
+        progress = ((100 * ti.bytes_read) / ti.full_size)
+        if progress != prev_progress
+          print " #{ progress }%"
+          prev_progress = progress
+        end
+        files << { :file=>$1,
+                   :domain=>$2,
+                   :user=>$3,
+                   :datetime=>Time.at(tar_header.mtime).utc.strftime("%Y-%m-%d %H:%M:%S"),
+                   :size=>tar_header.size }
+      end
+    end
+  end
+
   if files.size > 0
     FileUtils.mkdir_p("files/#{ item_name }")
     File.open("files/#{ item_name }/#{ file_name }.txt", "w") do |f|
@@ -57,7 +88,7 @@ def update_file(item_name, file_name)
     end
   end
 
-  puts "#{ files.size } file#{ files.size==1 ? "" : "s" }."
+  puts " #{ files.size } file#{ files.size==1 ? "" : "s" }."
 
   files
 end
@@ -148,6 +179,7 @@ changed_items.each_with_index.each do |item, idx|
 end
 
 
+puts
 puts "Checking for missing files in existing items."
 
 latest_items.each_with_index do |item, idx|
