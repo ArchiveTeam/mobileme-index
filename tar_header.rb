@@ -78,7 +78,7 @@ class TarHeader
                   'A8'   + # mode
                   'A8'   + # uid
                   'A8'   + # gid
-                  'A12'  + # size
+                  'a12'  + # size
                   'A12'  + # mtime
                   'A8'   + # checksum
                   'A'    + # typeflag
@@ -233,9 +233,11 @@ class TarHeader
 
   def self.parse_size(size)
     if size[0] == 0x80
+      # base-256 encoded size
       size[1,11].unpack("C*").inject{ |sum,i| sum*256 + i }
     else
-      size.oct
+      # strip trailing null or space
+      size[0,11].oct
     end
   end
 

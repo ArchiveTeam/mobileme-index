@@ -72,6 +72,8 @@ class TarIndex
       end
     end
 
+    @pos = nil if @pos.nil? or @full_size < @pos + BLOCK_SIZE
+
     new_headers.empty? ? nil : new_headers
   end
 end
