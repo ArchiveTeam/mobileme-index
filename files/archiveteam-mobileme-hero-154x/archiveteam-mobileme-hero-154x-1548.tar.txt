@@ -1,0 +1,12 @@
+agent12	gallery.me.com	2012-03-28 04:51:01	archiveteam-mobileme-hero-154x	archiveteam-mobileme-hero-154x-1548.tar	gallery.me.com-agent12.warc.gz	4220
+agent12	homepage.mac.com	2012-03-28 04:51:01	archiveteam-mobileme-hero-154x	archiveteam-mobileme-hero-154x-1548.tar	homepage.mac.com-agent12.warc.gz	4903
+agent12	public.me.com	2012-03-28 04:51:01	archiveteam-mobileme-hero-154x	archiveteam-mobileme-hero-154x-1548.tar	public.me.com-agent12.warc.gz	1906
+agent12	web.me.com	2012-03-28 04:51:01	archiveteam-mobileme-hero-154x	archiveteam-mobileme-hero-154x-1548.tar	web.me.com-agent12.warc.gz	7424
+jillygoldbaum	gallery.me.com	2012-03-28 05:55:55	archiveteam-mobileme-hero-154x	archiveteam-mobileme-hero-154x-1548.tar	gallery.me.com-jillygoldbaum.warc.gz	676781140
+jillygoldbaum	homepage.mac.com	2012-03-28 05:55:55	archiveteam-mobileme-hero-154x	archiveteam-mobileme-hero-154x-1548.tar	homepage.mac.com-jillygoldbaum.warc.gz	4911
+jillygoldbaum	public.me.com	2012-03-28 05:47:28	archiveteam-mobileme-hero-154x	archiveteam-mobileme-hero-154x-1548.tar	public.me.com-jillygoldbaum.warc.gz	1933
+jillygoldbaum	web.me.com	2012-03-28 05:47:28	archiveteam-mobileme-hero-154x	archiveteam-mobileme-hero-154x-1548.tar	web.me.com-jillygoldbaum.warc.gz	192229281
+mono1984	gallery.me.com	2012-03-28 05:38:15	archiveteam-mobileme-hero-154x	archiveteam-mobileme-hero-154x-1548.tar	gallery.me.com-mono1984.warc.gz	14382876
+mono1984	homepage.mac.com	2012-03-28 05:38:15	archiveteam-mobileme-hero-154x	archiveteam-mobileme-hero-154x-1548.tar	homepage.mac.com-mono1984.warc.gz	4917
+mono1984	public.me.com	2012-03-28 05:38:05	archiveteam-mobileme-hero-154x	archiveteam-mobileme-hero-154x-1548.tar	public.me.com-mono1984.warc.gz	2259602092
+mono1984	web.me.com	2012-03-28 05:10:33	archiveteam-mobileme-hero-154x	archiveteam-mobileme-hero-154x-1548.tar	web.me.com-mono1984.warc.gz	1331935237

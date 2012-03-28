@@ -1,0 +1,8 @@
+sphinx	gallery.me.com	2012-03-27 13:42:15	archiveteam-mobileme-hero-147x	archiveteam-mobileme-hero-147x-1473.tar	gallery.me.com-sphinx.warc.gz	16485765
+sphinx	homepage.mac.com	2012-03-27 13:42:15	archiveteam-mobileme-hero-147x	archiveteam-mobileme-hero-147x-1473.tar	homepage.mac.com-sphinx.warc.gz	4890
+sphinx	public.me.com	2012-03-27 13:41:36	archiveteam-mobileme-hero-147x	archiveteam-mobileme-hero-147x-1473.tar	public.me.com-sphinx.warc.gz	1911
+sphinx	web.me.com	2012-03-27 13:41:21	archiveteam-mobileme-hero-147x	archiveteam-mobileme-hero-147x-1473.tar	web.me.com-sphinx.warc.gz	63350616
+thegardners	gallery.me.com	2012-03-27 20:30:41	archiveteam-mobileme-hero-147x	archiveteam-mobileme-hero-147x-1473.tar	gallery.me.com-thegardners.warc.gz	11621944458
+thegardners	homepage.mac.com	2012-03-27 20:35:01	archiveteam-mobileme-hero-147x	archiveteam-mobileme-hero-147x-1473.tar	homepage.mac.com-thegardners.warc.gz	2701157
+thegardners	public.me.com	2012-03-27 17:06:42	archiveteam-mobileme-hero-147x	archiveteam-mobileme-hero-147x-1473.tar	public.me.com-thegardners.warc.gz	26596740
+thegardners	web.me.com	2012-03-27 17:05:24	archiveteam-mobileme-hero-147x	archiveteam-mobileme-hero-147x-1473.tar	web.me.com-thegardners.warc.gz	5469127548
