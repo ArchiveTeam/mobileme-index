@@ -1,0 +1,12 @@
+b.free	gallery.me.com	2012-03-30 11:52:36	archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2131.tar	gallery.me.com-b.free.warc.gz	1730909014
+b.free	homepage.mac.com	2012-03-30 11:52:37	archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2131.tar	homepage.mac.com-b.free.warc.gz	4903
+b.free	public.me.com	2012-03-30 11:06:51	archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2131.tar	public.me.com-b.free.warc.gz	3320
+b.free	web.me.com	2012-03-30 11:06:49	archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2131.tar	web.me.com-b.free.warc.gz	705085707
+grangerd	gallery.me.com	2012-03-30 10:42:37	archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2131.tar	gallery.me.com-grangerd.warc.gz	1421484972
+grangerd	homepage.mac.com	2012-03-30 10:42:38	archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2131.tar	homepage.mac.com-grangerd.warc.gz	4919
+grangerd	public.me.com	2012-03-30 10:34:18	archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2131.tar	public.me.com-grangerd.warc.gz	1914
+grangerd	web.me.com	2012-03-30 10:34:17	archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2131.tar	web.me.com-grangerd.warc.gz	317359891
+litep	gallery.me.com	2012-03-30 10:28:23	archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2131.tar	gallery.me.com-litep.warc.gz	585883555
+litep	homepage.mac.com	2012-03-30 10:28:24	archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2131.tar	homepage.mac.com-litep.warc.gz	4888
+litep	public.me.com	2012-03-30 10:19:08	archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2131.tar	public.me.com-litep.warc.gz	21976715
+litep	web.me.com	2012-03-30 10:19:01	archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2131.tar	web.me.com-litep.warc.gz	84164764
