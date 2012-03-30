@@ -232,7 +232,7 @@ class TarHeader
   end
 
   def self.parse_size(size)
-    if size[0] == 0x80
+    if size.unpack("C") == [ 0x80 ]
       # base-256 encoded size
       size[1,11].unpack("C*").inject{ |sum,i| sum*256 + i }
     else
