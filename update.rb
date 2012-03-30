@@ -41,18 +41,23 @@ end
 def update_file(item_name, file_name)
   print "- Updating #{ item_name }/#{ file_name }..."
 
-  response = RestClient.get("http://archive.org/download/#{ item_name }/#{ file_name }/")
-  html = Nokogiri::HTML(response.body)
-
   files = []
-  html.xpath("//pre/a").each do |a_el|
-    if a_el.text=~/((public\.me\.com|web\.me\.com|gallery\.me\.com|homepage\.mac\.com)-([^\/]+)\.warc\.gz)$/
-      files << { :file=>$1,
-                 :domain=>$2,
-                 :user=>$3,
-                 :datetime=>a_el.next_sibling.text[/^\s+([-0-9]+\s+[:0-9]+)\s([0-9]+)/, 1],
-                 :size=>a_el.next_sibling.text[/^\s+\S+\s+\S+\s([0-9]+)/, 1].to_i }
+
+  begin
+    response = RestClient.get("http://archive.org/download/#{ item_name }/#{ file_name }/")
+    html = Nokogiri::HTML(response.body)
+
+    html.xpath("//tr/td/a").each do |a_el|
+      if a_el.text=~/((public\.me\.com|web\.me\.com|gallery\.me\.com|homepage\.mac\.com)-([^\/]+)\.warc\.gz)$/
+        files << { :file=>$1,
+                   :domain=>$2,
+                   :user=>$3,
+                   :datetime=>a_el.parent.next_sibling.next_sibling.text[/^\s+([-0-9]+\s+[:0-9]+)\s([0-9]+)/, 1],
+                   :size=>a_el.parent.next_sibling.next_sibling.next_sibling.text[/^\s+\S+\s+\S+\s([0-9]+)/, 1].to_i }
+      end
     end
+  rescue RestClient::RequestTimeout
+    puts $!
   end
 
   if files.size == 0
