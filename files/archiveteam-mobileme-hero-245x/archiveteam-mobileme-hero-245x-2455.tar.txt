@@ -1,0 +1,16 @@
+blue	gallery.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	gallery.me.com-blue.warc.gz	0
+blue	homepage.mac.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	homepage.mac.com-blue.warc.gz	0
+blue	public.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	public.me.com-blue.warc.gz	0
+blue	web.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	web.me.com-blue.warc.gz	0
+bsimica	gallery.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	gallery.me.com-bsimica.warc.gz	0
+bsimica	homepage.mac.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	homepage.mac.com-bsimica.warc.gz	0
+bsimica	public.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	public.me.com-bsimica.warc.gz	0
+bsimica	web.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	web.me.com-bsimica.warc.gz	0
+league.of.legos	gallery.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	gallery.me.com-league.of.legos.warc.gz	0
+league.of.legos	homepage.mac.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	homepage.mac.com-league.of.legos.warc.gz	0
+league.of.legos	public.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	public.me.com-league.of.legos.warc.gz	0
+league.of.legos	web.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	web.me.com-league.of.legos.warc.gz	0
+samourh	gallery.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	gallery.me.com-samourh.warc.gz	0
+samourh	homepage.mac.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	homepage.mac.com-samourh.warc.gz	0
+samourh	public.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	public.me.com-samourh.warc.gz	0
+samourh	web.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	web.me.com-samourh.warc.gz	0

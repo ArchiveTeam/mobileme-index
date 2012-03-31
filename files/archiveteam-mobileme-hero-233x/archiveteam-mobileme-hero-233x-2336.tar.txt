@@ -1,0 +1,4 @@
+ptp_producer	gallery.me.com		archiveteam-mobileme-hero-233x	archiveteam-mobileme-hero-233x-2336.tar	gallery.me.com-ptp_producer.warc.gz	0
+ptp_producer	homepage.mac.com		archiveteam-mobileme-hero-233x	archiveteam-mobileme-hero-233x-2336.tar	homepage.mac.com-ptp_producer.warc.gz	0
+ptp_producer	public.me.com		archiveteam-mobileme-hero-233x	archiveteam-mobileme-hero-233x-2336.tar	public.me.com-ptp_producer.warc.gz	0
+ptp_producer	web.me.com		archiveteam-mobileme-hero-233x	archiveteam-mobileme-hero-233x-2336.tar	web.me.com-ptp_producer.warc.gz	0
