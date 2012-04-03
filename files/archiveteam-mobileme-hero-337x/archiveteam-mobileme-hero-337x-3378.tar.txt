@@ -1,0 +1,16 @@
+foaf.rdf	gallery.me.com	2012-04-03 00:17:24	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3378.tar	gallery.me.com-foaf.rdf.warc.gz	8332
+foaf.rdf	homepage.mac.com	2012-04-03 00:17:24	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3378.tar	homepage.mac.com-foaf.rdf.warc.gz	5161
+foaf.rdf	public.me.com	2012-04-03 00:17:23	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3378.tar	public.me.com-foaf.rdf.warc.gz	1915
+foaf.rdf	web.me.com	2012-04-03 00:17:23	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3378.tar	web.me.com-foaf.rdf.warc.gz	17706
+jrfritsch	gallery.me.com	2012-04-03 10:22:18	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3378.tar	gallery.me.com-jrfritsch.warc.gz	9279048152
+jrfritsch	homepage.mac.com	2012-04-03 10:22:19	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3378.tar	homepage.mac.com-jrfritsch.warc.gz	4921
+jrfritsch	public.me.com	2012-04-03 04:09:02	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3378.tar	public.me.com-jrfritsch.warc.gz	1917
+jrfritsch	web.me.com	2012-04-03 04:08:58	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3378.tar	web.me.com-jrfritsch.warc.gz	2918434727
+lucynevitt	gallery.me.com	2012-04-03 00:17:09	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3378.tar	gallery.me.com-lucynevitt.warc.gz	4246
+lucynevitt	homepage.mac.com	2012-04-03 00:17:16	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3378.tar	homepage.mac.com-lucynevitt.warc.gz	108676
+lucynevitt	public.me.com	2012-04-03 00:17:09	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3378.tar	public.me.com-lucynevitt.warc.gz	1921
+lucynevitt	web.me.com	2012-04-03 00:17:08	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3378.tar	web.me.com-lucynevitt.warc.gz	9395063
+tobas	gallery.me.com	2012-04-03 00:17:20	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3378.tar	gallery.me.com-tobas.warc.gz	4266
+tobas	homepage.mac.com	2012-04-03 00:17:20	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3378.tar	homepage.mac.com-tobas.warc.gz	4873
+tobas	public.me.com	2012-04-03 00:17:19	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3378.tar	public.me.com-tobas.warc.gz	1911
+tobas	web.me.com	2012-04-03 00:17:19	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3378.tar	web.me.com-tobas.warc.gz	7417
