@@ -1,0 +1,16 @@
+agura_host	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	gallery.me.com-agura_host.warc.gz	0
+agura_host	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	homepage.mac.com-agura_host.warc.gz	0
+agura_host	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	public.me.com-agura_host.warc.gz	0
+agura_host	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	web.me.com-agura_host.warc.gz	0
+anrose	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	gallery.me.com-anrose.warc.gz	0
+anrose	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	homepage.mac.com-anrose.warc.gz	0
+anrose	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	public.me.com-anrose.warc.gz	0
+anrose	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	web.me.com-anrose.warc.gz	0
+dee_edwards	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	gallery.me.com-dee_edwards.warc.gz	0
+dee_edwards	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	homepage.mac.com-dee_edwards.warc.gz	0
+dee_edwards	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	public.me.com-dee_edwards.warc.gz	0
+dee_edwards	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	web.me.com-dee_edwards.warc.gz	0
+sethyork	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	gallery.me.com-sethyork.warc.gz	0
+sethyork	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	homepage.mac.com-sethyork.warc.gz	0
+sethyork	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	public.me.com-sethyork.warc.gz	0
+sethyork	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	web.me.com-sethyork.warc.gz	0
