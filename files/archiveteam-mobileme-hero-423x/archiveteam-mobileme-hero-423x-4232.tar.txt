@@ -1,0 +1,16 @@
+amsnews	gallery.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4232.tar	gallery.me.com-amsnews.warc.gz	0
+amsnews	homepage.mac.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4232.tar	homepage.mac.com-amsnews.warc.gz	0
+amsnews	public.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4232.tar	public.me.com-amsnews.warc.gz	0
+amsnews	web.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4232.tar	web.me.com-amsnews.warc.gz	0
+baden	gallery.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4232.tar	gallery.me.com-baden.warc.gz	0
+baden	homepage.mac.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4232.tar	homepage.mac.com-baden.warc.gz	0
+baden	public.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4232.tar	public.me.com-baden.warc.gz	0
+baden	web.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4232.tar	web.me.com-baden.warc.gz	0
+paynethomas	gallery.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4232.tar	gallery.me.com-paynethomas.warc.gz	0
+paynethomas	homepage.mac.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4232.tar	homepage.mac.com-paynethomas.warc.gz	0
+paynethomas	public.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4232.tar	public.me.com-paynethomas.warc.gz	0
+paynethomas	web.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4232.tar	web.me.com-paynethomas.warc.gz	0
+skrackov	gallery.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4232.tar	gallery.me.com-skrackov.warc.gz	0
+skrackov	homepage.mac.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4232.tar	homepage.mac.com-skrackov.warc.gz	0
+skrackov	public.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4232.tar	public.me.com-skrackov.warc.gz	0
+skrackov	web.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4232.tar	web.me.com-skrackov.warc.gz	0

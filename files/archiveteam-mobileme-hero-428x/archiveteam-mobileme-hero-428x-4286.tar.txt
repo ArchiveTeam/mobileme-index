@@ -1,0 +1,12 @@
+broccoli	gallery.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4286.tar	gallery.me.com-broccoli.warc.gz	0
+broccoli	homepage.mac.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4286.tar	homepage.mac.com-broccoli.warc.gz	0
+broccoli	public.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4286.tar	public.me.com-broccoli.warc.gz	0
+broccoli	web.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4286.tar	web.me.com-broccoli.warc.gz	0
+cbfuruta	gallery.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4286.tar	gallery.me.com-cbfuruta.warc.gz	0
+cbfuruta	homepage.mac.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4286.tar	homepage.mac.com-cbfuruta.warc.gz	0
+cbfuruta	public.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4286.tar	public.me.com-cbfuruta.warc.gz	0
+cbfuruta	web.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4286.tar	web.me.com-cbfuruta.warc.gz	0
+ksorel25	gallery.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4286.tar	gallery.me.com-ksorel25.warc.gz	0
+ksorel25	homepage.mac.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4286.tar	homepage.mac.com-ksorel25.warc.gz	0
+ksorel25	public.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4286.tar	public.me.com-ksorel25.warc.gz	0
+ksorel25	web.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4286.tar	web.me.com-ksorel25.warc.gz	0
