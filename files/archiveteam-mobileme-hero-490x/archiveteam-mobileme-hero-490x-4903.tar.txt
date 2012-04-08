@@ -1,0 +1,8 @@
+ansible.net	gallery.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4903.tar	gallery.me.com-ansible.net.warc.gz	0
+ansible.net	homepage.mac.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4903.tar	homepage.mac.com-ansible.net.warc.gz	0
+ansible.net	public.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4903.tar	public.me.com-ansible.net.warc.gz	0
+ansible.net	web.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4903.tar	web.me.com-ansible.net.warc.gz	0
+bobmichellemurray	gallery.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4903.tar	gallery.me.com-bobmichellemurray.warc.gz	0
+bobmichellemurray	homepage.mac.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4903.tar	homepage.mac.com-bobmichellemurray.warc.gz	0
+bobmichellemurray	public.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4903.tar	public.me.com-bobmichellemurray.warc.gz	0
+bobmichellemurray	web.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4903.tar	web.me.com-bobmichellemurray.warc.gz	0
