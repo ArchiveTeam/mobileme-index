@@ -48,7 +48,7 @@ def update_file(item_name, file_name)
     html = Nokogiri::HTML(response.body)
 
     html.xpath("//tr/td/a").each do |a_el|
-      if a_el.text=~/((public\.me\.com|web\.me\.com|gallery\.me\.com|homepage\.mac\.com)-([^\/]+)\.warc\.gz)$/
+      if a_el.text=~/((public\.me\.com|web\.me\.com|gallery\.me\.com|homepage\.mac\.com)-([^\/]+)\.warc(\.gz)?)$/
         files << { :file=>$1,
                    :domain=>$2,
                    :user=>$3,
@@ -68,7 +68,7 @@ def update_file(item_name, file_name)
     ti = TarIndex.new(url)
     prev_progress = nil
     ti.each do |tar_header|
-      if tar_header.name=~/((public\.me\.com|web\.me\.com|gallery\.me\.com|homepage\.mac\.com)-([^\/]+)\.warc\.gz)$/
+      if tar_header.name=~/((public\.me\.com|web\.me\.com|gallery\.me\.com|homepage\.mac\.com)-([^\/]+)\.warc(\.gz)?)$/
         progress = ((100 * ti.bytes_read) / ti.full_size)
         if progress != prev_progress
           print " #{ progress }%"
