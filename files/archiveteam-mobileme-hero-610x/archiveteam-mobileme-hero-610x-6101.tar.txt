@@ -1,0 +1,8 @@
+cbs_production	gallery.me.com	2012-04-10 21:18:23	archiveteam-mobileme-hero-610x	archiveteam-mobileme-hero-610x-6101.tar	gallery.me.com-cbs_production.warc.gz	4264
+cbs_production	homepage.mac.com	2012-04-10 21:18:29	archiveteam-mobileme-hero-610x	archiveteam-mobileme-hero-610x-6101.tar	homepage.mac.com-cbs_production.warc.gz	74037
+cbs_production	public.me.com	2012-04-10 21:18:21	archiveteam-mobileme-hero-610x	archiveteam-mobileme-hero-610x-6101.tar	public.me.com-cbs_production.warc.gz	68575108
+cbs_production	web.me.com	2012-04-10 21:13:15	archiveteam-mobileme-hero-610x	archiveteam-mobileme-hero-610x-6101.tar	web.me.com-cbs_production.warc.gz	13413127564
+mgvoland	gallery.me.com	2012-04-10 14:19:11	archiveteam-mobileme-hero-610x	archiveteam-mobileme-hero-610x-6101.tar	gallery.me.com-mgvoland.warc.gz	307979674
+mgvoland	homepage.mac.com	2012-04-10 14:19:12	archiveteam-mobileme-hero-610x	archiveteam-mobileme-hero-610x-6101.tar	homepage.mac.com-mgvoland.warc.gz	13648
+mgvoland	public.me.com	2012-04-10 14:05:59	archiveteam-mobileme-hero-610x	archiveteam-mobileme-hero-610x-6101.tar	public.me.com-mgvoland.warc.gz	3425
+mgvoland	web.me.com	2012-04-10 14:05:57	archiveteam-mobileme-hero-610x	archiveteam-mobileme-hero-610x-6101.tar	web.me.com-mgvoland.warc.gz	7109418

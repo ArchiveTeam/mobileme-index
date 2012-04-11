@@ -1,0 +1,16 @@
+gmcp	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	gallery.me.com-gmcp.warc.gz	0
+gmcp	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	homepage.mac.com-gmcp.warc.gz	0
+gmcp	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	public.me.com-gmcp.warc.gz	0
+gmcp	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	web.me.com-gmcp.warc.gz	0
+ibeb	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	gallery.me.com-ibeb.warc.gz	0
+ibeb	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	homepage.mac.com-ibeb.warc.gz	0
+ibeb	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	public.me.com-ibeb.warc.gz	0
+ibeb	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	web.me.com-ibeb.warc.gz	0
+lsettlemeyer	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	gallery.me.com-lsettlemeyer.warc.gz	0
+lsettlemeyer	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	homepage.mac.com-lsettlemeyer.warc.gz	0
+lsettlemeyer	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	public.me.com-lsettlemeyer.warc.gz	0
+lsettlemeyer	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	web.me.com-lsettlemeyer.warc.gz	0
+swvaleting	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	gallery.me.com-swvaleting.warc.gz	0
+swvaleting	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	homepage.mac.com-swvaleting.warc.gz	0
+swvaleting	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	public.me.com-swvaleting.warc.gz	0
+swvaleting	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	web.me.com-swvaleting.warc.gz	0
