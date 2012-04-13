@@ -1,0 +1,16 @@
+allchange	gallery.me.com		archiveteam-mobileme-hero-713x	archiveteam-mobileme-hero-713x-7131.tar	gallery.me.com-allchange.warc.gz	0
+allchange	homepage.mac.com		archiveteam-mobileme-hero-713x	archiveteam-mobileme-hero-713x-7131.tar	homepage.mac.com-allchange.warc.gz	0
+allchange	public.me.com		archiveteam-mobileme-hero-713x	archiveteam-mobileme-hero-713x-7131.tar	public.me.com-allchange.warc.gz	0
+allchange	web.me.com		archiveteam-mobileme-hero-713x	archiveteam-mobileme-hero-713x-7131.tar	web.me.com-allchange.warc.gz	0
+dukesimpson	gallery.me.com		archiveteam-mobileme-hero-713x	archiveteam-mobileme-hero-713x-7131.tar	gallery.me.com-dukesimpson.warc.gz	0
+dukesimpson	homepage.mac.com		archiveteam-mobileme-hero-713x	archiveteam-mobileme-hero-713x-7131.tar	homepage.mac.com-dukesimpson.warc.gz	0
+dukesimpson	public.me.com		archiveteam-mobileme-hero-713x	archiveteam-mobileme-hero-713x-7131.tar	public.me.com-dukesimpson.warc.gz	0
+dukesimpson	web.me.com		archiveteam-mobileme-hero-713x	archiveteam-mobileme-hero-713x-7131.tar	web.me.com-dukesimpson.warc.gz	0
+realwheels	gallery.me.com		archiveteam-mobileme-hero-713x	archiveteam-mobileme-hero-713x-7131.tar	gallery.me.com-realwheels.warc.gz	0
+realwheels	homepage.mac.com		archiveteam-mobileme-hero-713x	archiveteam-mobileme-hero-713x-7131.tar	homepage.mac.com-realwheels.warc.gz	0
+realwheels	public.me.com		archiveteam-mobileme-hero-713x	archiveteam-mobileme-hero-713x-7131.tar	public.me.com-realwheels.warc.gz	0
+realwheels	web.me.com		archiveteam-mobileme-hero-713x	archiveteam-mobileme-hero-713x-7131.tar	web.me.com-realwheels.warc.gz	0
+twiggyskis	gallery.me.com		archiveteam-mobileme-hero-713x	archiveteam-mobileme-hero-713x-7131.tar	gallery.me.com-twiggyskis.warc.gz	0
+twiggyskis	homepage.mac.com		archiveteam-mobileme-hero-713x	archiveteam-mobileme-hero-713x-7131.tar	homepage.mac.com-twiggyskis.warc.gz	0
+twiggyskis	public.me.com		archiveteam-mobileme-hero-713x	archiveteam-mobileme-hero-713x-7131.tar	public.me.com-twiggyskis.warc.gz	0
+twiggyskis	web.me.com		archiveteam-mobileme-hero-713x	archiveteam-mobileme-hero-713x-7131.tar	web.me.com-twiggyskis.warc.gz	0

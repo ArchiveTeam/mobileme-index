@@ -1,0 +1,12 @@
+blackbox	gallery.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6547.tar	gallery.me.com-blackbox.warc.gz	0
+blackbox	homepage.mac.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6547.tar	homepage.mac.com-blackbox.warc.gz	0
+blackbox	public.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6547.tar	public.me.com-blackbox.warc.gz	0
+blackbox	web.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6547.tar	web.me.com-blackbox.warc.gz	0
+douglas.kaufman	gallery.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6547.tar	gallery.me.com-douglas.kaufman.warc.gz	0
+douglas.kaufman	homepage.mac.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6547.tar	homepage.mac.com-douglas.kaufman.warc.gz	0
+douglas.kaufman	public.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6547.tar	public.me.com-douglas.kaufman.warc.gz	0
+douglas.kaufman	web.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6547.tar	web.me.com-douglas.kaufman.warc.gz	0
+marielleweeber	gallery.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6547.tar	gallery.me.com-marielleweeber.warc.gz	0
+marielleweeber	homepage.mac.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6547.tar	homepage.mac.com-marielleweeber.warc.gz	0
+marielleweeber	public.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6547.tar	public.me.com-marielleweeber.warc.gz	0
+marielleweeber	web.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6547.tar	web.me.com-marielleweeber.warc.gz	0

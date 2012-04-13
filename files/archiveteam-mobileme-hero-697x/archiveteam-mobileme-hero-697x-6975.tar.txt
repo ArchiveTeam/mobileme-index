@@ -1,0 +1,12 @@
+lane.home	gallery.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6975.tar	gallery.me.com-lane.home.warc.gz	0
+lane.home	homepage.mac.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6975.tar	homepage.mac.com-lane.home.warc.gz	0
+lane.home	public.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6975.tar	public.me.com-lane.home.warc.gz	0
+lane.home	web.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6975.tar	web.me.com-lane.home.warc.gz	0
+my_garage	gallery.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6975.tar	gallery.me.com-my_garage.warc.gz	0
+my_garage	homepage.mac.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6975.tar	homepage.mac.com-my_garage.warc.gz	0
+my_garage	public.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6975.tar	public.me.com-my_garage.warc.gz	0
+my_garage	web.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6975.tar	web.me.com-my_garage.warc.gz	0
+thomcat	gallery.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6975.tar	gallery.me.com-thomcat.warc.gz	0
+thomcat	homepage.mac.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6975.tar	homepage.mac.com-thomcat.warc.gz	0
+thomcat	public.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6975.tar	public.me.com-thomcat.warc.gz	0
+thomcat	web.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6975.tar	web.me.com-thomcat.warc.gz	0
