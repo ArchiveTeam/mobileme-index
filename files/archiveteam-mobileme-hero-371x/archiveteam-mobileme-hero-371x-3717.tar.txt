@@ -1,12 +1,12 @@
-cecimaduro	gallery.me.com		archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	gallery.me.com-cecimaduro.warc.gz	0
-cecimaduro	homepage.mac.com		archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	homepage.mac.com-cecimaduro.warc.gz	0
-cecimaduro	public.me.com		archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	public.me.com-cecimaduro.warc.gz	0
-cecimaduro	web.me.com		archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	web.me.com-cecimaduro.warc.gz	0
-eezee	gallery.me.com		archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	gallery.me.com-eezee.warc.gz	0
-eezee	homepage.mac.com		archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	homepage.mac.com-eezee.warc.gz	0
-eezee	public.me.com		archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	public.me.com-eezee.warc.gz	0
-eezee	web.me.com		archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	web.me.com-eezee.warc.gz	0
-stuartallen	gallery.me.com		archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	gallery.me.com-stuartallen.warc.gz	0
-stuartallen	homepage.mac.com		archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	homepage.mac.com-stuartallen.warc.gz	0
-stuartallen	public.me.com		archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	public.me.com-stuartallen.warc.gz	0
-stuartallen	web.me.com		archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	web.me.com-stuartallen.warc.gz	0
+cecimaduro	gallery.me.com	2012-04-04 03:28:38	archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	gallery.me.com-cecimaduro.warc.gz	4249
+cecimaduro	homepage.mac.com	2012-04-04 03:28:38	archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	homepage.mac.com-cecimaduro.warc.gz	4911
+cecimaduro	public.me.com	2012-04-04 03:28:37	archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	public.me.com-cecimaduro.warc.gz	1918
+cecimaduro	web.me.com	2012-04-04 03:28:37	archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	web.me.com-cecimaduro.warc.gz	20428850
+eezee	gallery.me.com	2012-04-04 06:56:05	archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	gallery.me.com-eezee.warc.gz	45254646
+eezee	homepage.mac.com	2012-04-04 06:56:12	archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	homepage.mac.com-eezee.warc.gz	18726054
+eezee	public.me.com	2012-04-04 06:55:09	archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	public.me.com-eezee.warc.gz	19509597
+eezee	web.me.com	2012-04-04 06:48:17	archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	web.me.com-eezee.warc.gz	7643142304
+stuartallen	gallery.me.com	2012-04-04 03:35:36	archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	gallery.me.com-stuartallen.warc.gz	13850488
+stuartallen	homepage.mac.com	2012-04-04 03:35:36	archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	homepage.mac.com-stuartallen.warc.gz	4922
+stuartallen	public.me.com	2012-04-04 03:34:40	archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	public.me.com-stuartallen.warc.gz	1923
+stuartallen	web.me.com	2012-04-04 03:34:40	archiveteam-mobileme-hero-371x	archiveteam-mobileme-hero-371x-3717.tar	web.me.com-stuartallen.warc.gz	17407147

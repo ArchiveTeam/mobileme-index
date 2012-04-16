@@ -1,12 +1,12 @@
-marcbauer	gallery.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	gallery.me.com-marcbauer.warc.gz	0
-marcbauer	homepage.mac.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	homepage.mac.com-marcbauer.warc.gz	0
-marcbauer	public.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	public.me.com-marcbauer.warc.gz	0
-marcbauer	web.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	web.me.com-marcbauer.warc.gz	0
-michaelbohnert	gallery.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	gallery.me.com-michaelbohnert.warc.gz	0
-michaelbohnert	homepage.mac.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	homepage.mac.com-michaelbohnert.warc.gz	0
-michaelbohnert	public.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	public.me.com-michaelbohnert.warc.gz	0
-michaelbohnert	web.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	web.me.com-michaelbohnert.warc.gz	0
-scaleydragon	gallery.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	gallery.me.com-scaleydragon.warc.gz	0
-scaleydragon	homepage.mac.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	homepage.mac.com-scaleydragon.warc.gz	0
-scaleydragon	public.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	public.me.com-scaleydragon.warc.gz	0
-scaleydragon	web.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	web.me.com-scaleydragon.warc.gz	0
+marcbauer	gallery.me.com	2012-04-09 12:58:26	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	gallery.me.com-marcbauer.warc.gz	12362
+marcbauer	homepage.mac.com	2012-04-09 12:58:27	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	homepage.mac.com-marcbauer.warc.gz	7176
+marcbauer	public.me.com	2012-04-09 12:58:24	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	public.me.com-marcbauer.warc.gz	1915
+marcbauer	web.me.com	2012-04-09 12:58:24	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	web.me.com-marcbauer.warc.gz	22544
+michaelbohnert	gallery.me.com	2012-04-09 12:58:19	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	gallery.me.com-michaelbohnert.warc.gz	5063
+michaelbohnert	homepage.mac.com	2012-04-09 12:58:19	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	homepage.mac.com-michaelbohnert.warc.gz	6095
+michaelbohnert	public.me.com	2012-04-09 12:58:18	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	public.me.com-michaelbohnert.warc.gz	232024978
+michaelbohnert	web.me.com	2012-04-09 12:48:40	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	web.me.com-michaelbohnert.warc.gz	92801
+scaleydragon	gallery.me.com	2012-04-10 00:09:44	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	gallery.me.com-scaleydragon.warc.gz	5418293614
+scaleydragon	homepage.mac.com	2012-04-10 00:09:44	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	homepage.mac.com-scaleydragon.warc.gz	4920
+scaleydragon	public.me.com	2012-04-09 13:58:49	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	public.me.com-scaleydragon.warc.gz	1924
+scaleydragon	web.me.com	2012-04-09 13:58:47	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5666.tar	web.me.com-scaleydragon.warc.gz	801898127

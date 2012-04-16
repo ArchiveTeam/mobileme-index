@@ -1,8 +1,8 @@
-minoink	gallery.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7308.tar	gallery.me.com-minoink.warc.gz	0
-minoink	homepage.mac.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7308.tar	homepage.mac.com-minoink.warc.gz	0
-minoink	public.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7308.tar	public.me.com-minoink.warc.gz	0
-minoink	web.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7308.tar	web.me.com-minoink.warc.gz	0
-ocmer	gallery.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7308.tar	gallery.me.com-ocmer.warc.gz	0
-ocmer	homepage.mac.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7308.tar	homepage.mac.com-ocmer.warc.gz	0
-ocmer	public.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7308.tar	public.me.com-ocmer.warc.gz	0
-ocmer	web.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7308.tar	web.me.com-ocmer.warc.gz	0
+minoink	gallery.me.com	2012-04-13 12:37:22	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7308.tar	gallery.me.com-minoink.warc.gz	5987552518
+minoink	homepage.mac.com	2012-04-13 12:37:25	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7308.tar	homepage.mac.com-minoink.warc.gz	36799
+minoink	public.me.com	2012-04-13 11:12:46	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7308.tar	public.me.com-minoink.warc.gz	6341860379
+minoink	web.me.com	2012-04-13 10:22:22	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7308.tar	web.me.com-minoink.warc.gz	1031866254
+ocmer	gallery.me.com	2012-04-13 10:00:10	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7308.tar	gallery.me.com-ocmer.warc.gz	1146507
+ocmer	homepage.mac.com	2012-04-13 10:00:11	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7308.tar	homepage.mac.com-ocmer.warc.gz	4895
+ocmer	public.me.com	2012-04-13 10:00:09	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7308.tar	public.me.com-ocmer.warc.gz	1905
+ocmer	web.me.com	2012-04-13 10:00:08	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7308.tar	web.me.com-ocmer.warc.gz	10938212

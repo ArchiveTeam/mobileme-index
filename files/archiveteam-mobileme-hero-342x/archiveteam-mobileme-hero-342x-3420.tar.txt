@@ -1,28 +1,28 @@
-dreimiller	gallery.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	gallery.me.com-dreimiller.warc.gz	0
-dreimiller	homepage.mac.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	homepage.mac.com-dreimiller.warc.gz	0
-dreimiller	public.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	public.me.com-dreimiller.warc.gz	0
-dreimiller	web.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	web.me.com-dreimiller.warc.gz	0
-k3urt	gallery.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	gallery.me.com-k3urt.warc.gz	0
-k3urt	homepage.mac.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	homepage.mac.com-k3urt.warc.gz	0
-k3urt	public.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	public.me.com-k3urt.warc.gz	0
-k3urt	web.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	web.me.com-k3urt.warc.gz	0
-kevinstorrar	gallery.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	gallery.me.com-kevinstorrar.warc.gz	0
-kevinstorrar	homepage.mac.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	homepage.mac.com-kevinstorrar.warc.gz	0
-kevinstorrar	public.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	public.me.com-kevinstorrar.warc.gz	0
-kevinstorrar	web.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	web.me.com-kevinstorrar.warc.gz	0
-kreimeyer.kelly	gallery.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	gallery.me.com-kreimeyer.kelly.warc.gz	0
-kreimeyer.kelly	homepage.mac.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	homepage.mac.com-kreimeyer.kelly.warc.gz	0
-kreimeyer.kelly	public.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	public.me.com-kreimeyer.kelly.warc.gz	0
-kreimeyer.kelly	web.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	web.me.com-kreimeyer.kelly.warc.gz	0
-sborders1969	gallery.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	gallery.me.com-sborders1969.warc.gz	0
-sborders1969	homepage.mac.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	homepage.mac.com-sborders1969.warc.gz	0
-sborders1969	public.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	public.me.com-sborders1969.warc.gz	0
-sborders1969	web.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	web.me.com-sborders1969.warc.gz	0
-synth3tik	gallery.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	gallery.me.com-synth3tik.warc.gz	0
-synth3tik	homepage.mac.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	homepage.mac.com-synth3tik.warc.gz	0
-synth3tik	public.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	public.me.com-synth3tik.warc.gz	0
-synth3tik	web.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	web.me.com-synth3tik.warc.gz	0
-trecopeland	gallery.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	gallery.me.com-trecopeland.warc.gz	0
-trecopeland	homepage.mac.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	homepage.mac.com-trecopeland.warc.gz	0
-trecopeland	public.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	public.me.com-trecopeland.warc.gz	0
-trecopeland	web.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	web.me.com-trecopeland.warc.gz	0
+dreimiller	gallery.me.com	2012-04-03 11:36:17	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	gallery.me.com-dreimiller.warc.gz	322025856
+dreimiller	homepage.mac.com	2012-04-03 11:36:17	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	homepage.mac.com-dreimiller.warc.gz	4924
+dreimiller	public.me.com	2012-04-03 11:33:34	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	public.me.com-dreimiller.warc.gz	3334
+dreimiller	web.me.com	2012-04-03 11:33:33	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	web.me.com-dreimiller.warc.gz	82123616
+k3urt	gallery.me.com	2012-04-03 11:29:35	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	gallery.me.com-k3urt.warc.gz	1266896359
+k3urt	homepage.mac.com	2012-04-03 11:29:35	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	homepage.mac.com-k3urt.warc.gz	4873
+k3urt	public.me.com	2012-04-03 10:55:58	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	public.me.com-k3urt.warc.gz	3309
+k3urt	web.me.com	2012-04-03 10:55:57	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	web.me.com-k3urt.warc.gz	19371190
+kevinstorrar	gallery.me.com	2012-04-03 11:39:05	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	gallery.me.com-kevinstorrar.warc.gz	4289
+kevinstorrar	homepage.mac.com	2012-04-03 11:39:05	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	homepage.mac.com-kevinstorrar.warc.gz	4909
+kevinstorrar	public.me.com	2012-04-03 11:39:05	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	public.me.com-kevinstorrar.warc.gz	1922
+kevinstorrar	web.me.com	2012-04-03 11:39:04	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	web.me.com-kevinstorrar.warc.gz	6989723
+kreimeyer.kelly	gallery.me.com	2012-04-03 12:47:12	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	gallery.me.com-kreimeyer.kelly.warc.gz	3866605
+kreimeyer.kelly	homepage.mac.com	2012-04-03 12:47:12	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	homepage.mac.com-kreimeyer.kelly.warc.gz	4926
+kreimeyer.kelly	public.me.com	2012-04-03 12:47:02	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	public.me.com-kreimeyer.kelly.warc.gz	1948687143
+kreimeyer.kelly	web.me.com	2012-04-03 12:02:19	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	web.me.com-kreimeyer.kelly.warc.gz	559644267
+sborders1969	gallery.me.com	2012-04-03 11:37:57	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	gallery.me.com-sborders1969.warc.gz	4283
+sborders1969	homepage.mac.com	2012-04-03 11:37:57	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	homepage.mac.com-sborders1969.warc.gz	4942
+sborders1969	public.me.com	2012-04-03 11:37:56	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	public.me.com-sborders1969.warc.gz	1926
+sborders1969	web.me.com	2012-04-03 11:37:56	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	web.me.com-sborders1969.warc.gz	25705200
+synth3tik	gallery.me.com	2012-04-03 12:54:50	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	gallery.me.com-synth3tik.warc.gz	893509
+synth3tik	homepage.mac.com	2012-04-03 12:55:06	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	homepage.mac.com-synth3tik.warc.gz	222164
+synth3tik	public.me.com	2012-04-03 12:54:47	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	public.me.com-synth3tik.warc.gz	498137271
+synth3tik	web.me.com	2012-04-03 12:47:40	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	web.me.com-synth3tik.warc.gz	1450518
+trecopeland	gallery.me.com	2012-04-03 11:38:04	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	gallery.me.com-trecopeland.warc.gz	6567
+trecopeland	homepage.mac.com	2012-04-03 11:38:05	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	homepage.mac.com-trecopeland.warc.gz	4918
+trecopeland	public.me.com	2012-04-03 11:38:02	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	public.me.com-trecopeland.warc.gz	15354
+trecopeland	web.me.com	2012-04-03 11:38:01	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3420.tar	web.me.com-trecopeland.warc.gz	44345

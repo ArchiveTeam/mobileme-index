@@ -1,16 +1,16 @@
-fred973	gallery.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	gallery.me.com-fred973.warc.gz	0
-fred973	homepage.mac.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	homepage.mac.com-fred973.warc.gz	0
-fred973	public.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	public.me.com-fred973.warc.gz	0
-fred973	web.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	web.me.com-fred973.warc.gz	0
-markhooker1	gallery.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	gallery.me.com-markhooker1.warc.gz	0
-markhooker1	homepage.mac.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	homepage.mac.com-markhooker1.warc.gz	0
-markhooker1	public.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	public.me.com-markhooker1.warc.gz	0
-markhooker1	web.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	web.me.com-markhooker1.warc.gz	0
-merryone1	gallery.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	gallery.me.com-merryone1.warc.gz	0
-merryone1	homepage.mac.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	homepage.mac.com-merryone1.warc.gz	0
-merryone1	public.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	public.me.com-merryone1.warc.gz	0
-merryone1	web.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	web.me.com-merryone1.warc.gz	0
-yteach	gallery.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	gallery.me.com-yteach.warc.gz	0
-yteach	homepage.mac.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	homepage.mac.com-yteach.warc.gz	0
-yteach	public.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	public.me.com-yteach.warc.gz	0
-yteach	web.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	web.me.com-yteach.warc.gz	0
+fred973	gallery.me.com	2012-03-30 14:50:18	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	gallery.me.com-fred973.warc.gz	4228
+fred973	homepage.mac.com	2012-03-30 14:50:18	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	homepage.mac.com-fred973.warc.gz	4897
+fred973	public.me.com	2012-03-30 14:50:18	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	public.me.com-fred973.warc.gz	1913
+fred973	web.me.com	2012-03-30 14:50:13	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	web.me.com-fred973.warc.gz	6983028
+markhooker1	gallery.me.com	2012-03-30 15:44:39	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	gallery.me.com-markhooker1.warc.gz	694399012
+markhooker1	homepage.mac.com	2012-03-30 15:44:40	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	homepage.mac.com-markhooker1.warc.gz	4908
+markhooker1	public.me.com	2012-03-30 15:37:15	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	public.me.com-markhooker1.warc.gz	4897
+markhooker1	web.me.com	2012-03-30 15:37:15	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	web.me.com-markhooker1.warc.gz	14466744
+merryone1	gallery.me.com	2012-03-30 15:27:17	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	gallery.me.com-merryone1.warc.gz	2253753671
+merryone1	homepage.mac.com	2012-03-30 15:27:24	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	homepage.mac.com-merryone1.warc.gz	66784
+merryone1	public.me.com	2012-03-30 15:10:08	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	public.me.com-merryone1.warc.gz	1916
+merryone1	web.me.com	2012-03-30 15:09:59	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	web.me.com-merryone1.warc.gz	982997665
+yteach	gallery.me.com	2012-03-30 15:34:01	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	gallery.me.com-yteach.warc.gz	459923356
+yteach	homepage.mac.com	2012-03-30 15:34:01	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	homepage.mac.com-yteach.warc.gz	4888
+yteach	public.me.com	2012-03-30 15:32:05	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	public.me.com-yteach.warc.gz	312948403
+yteach	web.me.com	2012-03-30 15:27:40	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2170.tar	web.me.com-yteach.warc.gz	4032634

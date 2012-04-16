@@ -1,8 +1,8 @@
-saraesmith	gallery.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4283.tar	gallery.me.com-saraesmith.warc.gz	0
-saraesmith	homepage.mac.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4283.tar	homepage.mac.com-saraesmith.warc.gz	0
-saraesmith	public.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4283.tar	public.me.com-saraesmith.warc.gz	0
-saraesmith	web.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4283.tar	web.me.com-saraesmith.warc.gz	0
-thekiwiunit	gallery.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4283.tar	gallery.me.com-thekiwiunit.warc.gz	0
-thekiwiunit	homepage.mac.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4283.tar	homepage.mac.com-thekiwiunit.warc.gz	0
-thekiwiunit	public.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4283.tar	public.me.com-thekiwiunit.warc.gz	0
-thekiwiunit	web.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4283.tar	web.me.com-thekiwiunit.warc.gz	0
+saraesmith	gallery.me.com	2012-04-05 14:28:34	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4283.tar	gallery.me.com-saraesmith.warc.gz	1029167497
+saraesmith	homepage.mac.com	2012-04-05 14:29:14	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4283.tar	homepage.mac.com-saraesmith.warc.gz	628670
+saraesmith	public.me.com	2012-04-05 14:16:15	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4283.tar	public.me.com-saraesmith.warc.gz	7293
+saraesmith	web.me.com	2012-04-05 14:16:14	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4283.tar	web.me.com-saraesmith.warc.gz	8160682
+thekiwiunit	gallery.me.com	2012-04-05 15:11:36	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4283.tar	gallery.me.com-thekiwiunit.warc.gz	47752902
+thekiwiunit	homepage.mac.com	2012-04-05 15:11:36	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4283.tar	homepage.mac.com-thekiwiunit.warc.gz	4929
+thekiwiunit	public.me.com	2012-04-05 15:10:44	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4283.tar	public.me.com-thekiwiunit.warc.gz	3606279957
+thekiwiunit	web.me.com	2012-04-05 14:48:31	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4283.tar	web.me.com-thekiwiunit.warc.gz	297024593

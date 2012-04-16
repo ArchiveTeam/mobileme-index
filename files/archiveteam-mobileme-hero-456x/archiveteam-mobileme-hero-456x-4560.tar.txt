@@ -1,28 +1,28 @@
-benogilvie	gallery.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	gallery.me.com-benogilvie.warc.gz	0
-benogilvie	homepage.mac.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	homepage.mac.com-benogilvie.warc.gz	0
-benogilvie	public.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	public.me.com-benogilvie.warc.gz	0
-benogilvie	web.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	web.me.com-benogilvie.warc.gz	0
-enricofe	gallery.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	gallery.me.com-enricofe.warc.gz	0
-enricofe	homepage.mac.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	homepage.mac.com-enricofe.warc.gz	0
-enricofe	public.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	public.me.com-enricofe.warc.gz	0
-enricofe	web.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	web.me.com-enricofe.warc.gz	0
-eshoxdev	gallery.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	gallery.me.com-eshoxdev.warc.gz	0
-eshoxdev	homepage.mac.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	homepage.mac.com-eshoxdev.warc.gz	0
-eshoxdev	public.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	public.me.com-eshoxdev.warc.gz	0
-eshoxdev	web.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	web.me.com-eshoxdev.warc.gz	0
-espy	gallery.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	gallery.me.com-espy.warc.gz	0
-espy	homepage.mac.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	homepage.mac.com-espy.warc.gz	0
-espy	public.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	public.me.com-espy.warc.gz	0
-espy	web.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	web.me.com-espy.warc.gz	0
-joelforeman	gallery.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	gallery.me.com-joelforeman.warc.gz	0
-joelforeman	homepage.mac.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	homepage.mac.com-joelforeman.warc.gz	0
-joelforeman	public.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	public.me.com-joelforeman.warc.gz	0
-joelforeman	web.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	web.me.com-joelforeman.warc.gz	0
-jsandsmark	gallery.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	gallery.me.com-jsandsmark.warc.gz	0
-jsandsmark	homepage.mac.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	homepage.mac.com-jsandsmark.warc.gz	0
-jsandsmark	public.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	public.me.com-jsandsmark.warc.gz	0
-jsandsmark	web.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	web.me.com-jsandsmark.warc.gz	0
-ksmclaughlin	gallery.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	gallery.me.com-ksmclaughlin.warc.gz	0
-ksmclaughlin	homepage.mac.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	homepage.mac.com-ksmclaughlin.warc.gz	0
-ksmclaughlin	public.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	public.me.com-ksmclaughlin.warc.gz	0
-ksmclaughlin	web.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	web.me.com-ksmclaughlin.warc.gz	0
+benogilvie	gallery.me.com	2012-04-06 06:09:31	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	gallery.me.com-benogilvie.warc.gz	737911210
+benogilvie	homepage.mac.com	2012-04-06 06:09:32	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	homepage.mac.com-benogilvie.warc.gz	6049
+benogilvie	public.me.com	2012-04-06 05:59:54	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	public.me.com-benogilvie.warc.gz	961958103
+benogilvie	web.me.com	2012-04-06 05:36:45	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	web.me.com-benogilvie.warc.gz	228299393
+enricofe	gallery.me.com	2012-04-06 04:52:29	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	gallery.me.com-enricofe.warc.gz	651685135
+enricofe	homepage.mac.com	2012-04-06 04:52:33	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	homepage.mac.com-enricofe.warc.gz	59177
+enricofe	public.me.com	2012-04-06 04:44:20	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	public.me.com-enricofe.warc.gz	114147807
+enricofe	web.me.com	2012-04-06 04:41:31	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	web.me.com-enricofe.warc.gz	43040303
+eshoxdev	gallery.me.com	2012-04-06 04:39:55	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	gallery.me.com-eshoxdev.warc.gz	4262
+eshoxdev	homepage.mac.com	2012-04-06 04:39:55	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	homepage.mac.com-eshoxdev.warc.gz	4913
+eshoxdev	public.me.com	2012-04-06 04:39:54	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	public.me.com-eshoxdev.warc.gz	1917
+eshoxdev	web.me.com	2012-04-06 04:39:54	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	web.me.com-eshoxdev.warc.gz	11921574
+espy	gallery.me.com	2012-04-06 07:03:23	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	gallery.me.com-espy.warc.gz	1104093173
+espy	homepage.mac.com	2012-04-06 07:04:05	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	homepage.mac.com-espy.warc.gz	634923
+espy	public.me.com	2012-04-06 06:34:27	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	public.me.com-espy.warc.gz	94394791
+espy	web.me.com	2012-04-06 06:33:10	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	web.me.com-espy.warc.gz	246428333
+joelforeman	gallery.me.com	2012-04-06 05:27:35	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	gallery.me.com-joelforeman.warc.gz	1183393
+joelforeman	homepage.mac.com	2012-04-06 05:27:43	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	homepage.mac.com-joelforeman.warc.gz	172451
+joelforeman	public.me.com	2012-04-06 05:27:33	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	public.me.com-joelforeman.warc.gz	1924
+joelforeman	web.me.com	2012-04-06 05:27:32	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	web.me.com-joelforeman.warc.gz	204447992
+jsandsmark	gallery.me.com	2012-04-06 04:39:57	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	gallery.me.com-jsandsmark.warc.gz	4290
+jsandsmark	homepage.mac.com	2012-04-06 04:39:57	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	homepage.mac.com-jsandsmark.warc.gz	4929
+jsandsmark	public.me.com	2012-04-06 04:39:57	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	public.me.com-jsandsmark.warc.gz	1918
+jsandsmark	web.me.com	2012-04-06 04:39:57	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	web.me.com-jsandsmark.warc.gz	7422
+ksmclaughlin	gallery.me.com	2012-04-06 04:35:38	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	gallery.me.com-ksmclaughlin.warc.gz	320935551
+ksmclaughlin	homepage.mac.com	2012-04-06 04:35:53	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	homepage.mac.com-ksmclaughlin.warc.gz	218801
+ksmclaughlin	public.me.com	2012-04-06 04:29:06	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	public.me.com-ksmclaughlin.warc.gz	1933
+ksmclaughlin	web.me.com	2012-04-06 04:29:05	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4560.tar	web.me.com-ksmclaughlin.warc.gz	30587472

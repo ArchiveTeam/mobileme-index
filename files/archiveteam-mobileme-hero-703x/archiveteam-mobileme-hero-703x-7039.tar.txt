@@ -1,12 +1,12 @@
-manmusic	gallery.me.com		archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	gallery.me.com-manmusic.warc.gz	0
-manmusic	homepage.mac.com		archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	homepage.mac.com-manmusic.warc.gz	0
-manmusic	public.me.com		archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	public.me.com-manmusic.warc.gz	0
-manmusic	web.me.com		archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	web.me.com-manmusic.warc.gz	0
-planchartarismendi	gallery.me.com		archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	gallery.me.com-planchartarismendi.warc.gz	0
-planchartarismendi	homepage.mac.com		archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	homepage.mac.com-planchartarismendi.warc.gz	0
-planchartarismendi	public.me.com		archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	public.me.com-planchartarismendi.warc.gz	0
-planchartarismendi	web.me.com		archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	web.me.com-planchartarismendi.warc.gz	0
-stijn.saelen	gallery.me.com		archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	gallery.me.com-stijn.saelen.warc.gz	0
-stijn.saelen	homepage.mac.com		archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	homepage.mac.com-stijn.saelen.warc.gz	0
-stijn.saelen	public.me.com		archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	public.me.com-stijn.saelen.warc.gz	0
-stijn.saelen	web.me.com		archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	web.me.com-stijn.saelen.warc.gz	0
+manmusic	gallery.me.com	2012-04-12 23:45:15	archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	gallery.me.com-manmusic.warc.gz	11102124
+manmusic	homepage.mac.com	2012-04-12 23:45:15	archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	homepage.mac.com-manmusic.warc.gz	4908
+manmusic	public.me.com	2012-04-12 23:44:58	archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	public.me.com-manmusic.warc.gz	3964914542
+manmusic	web.me.com	2012-04-12 21:23:50	archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	web.me.com-manmusic.warc.gz	23328955
+planchartarismendi	gallery.me.com	2012-04-13 00:03:45	archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	gallery.me.com-planchartarismendi.warc.gz	217876159
+planchartarismendi	homepage.mac.com	2012-04-13 00:03:45	archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	homepage.mac.com-planchartarismendi.warc.gz	4953
+planchartarismendi	public.me.com	2012-04-12 23:52:13	archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	public.me.com-planchartarismendi.warc.gz	1928
+planchartarismendi	web.me.com	2012-04-12 23:52:13	archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	web.me.com-planchartarismendi.warc.gz	35972019
+stijn.saelen	gallery.me.com	2012-04-13 00:38:01	archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	gallery.me.com-stijn.saelen.warc.gz	2077102
+stijn.saelen	homepage.mac.com	2012-04-13 00:38:03	archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	homepage.mac.com-stijn.saelen.warc.gz	4935
+stijn.saelen	public.me.com	2012-04-13 00:37:54	archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	public.me.com-stijn.saelen.warc.gz	1925
+stijn.saelen	web.me.com	2012-04-13 00:37:54	archiveteam-mobileme-hero-703x	archiveteam-mobileme-hero-703x-7039.tar	web.me.com-stijn.saelen.warc.gz	215977538

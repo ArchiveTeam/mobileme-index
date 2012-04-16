@@ -1,24 +1,24 @@
-frank32	gallery.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	gallery.me.com-frank32.warc.gz	0
-frank32	homepage.mac.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	homepage.mac.com-frank32.warc.gz	0
-frank32	public.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	public.me.com-frank32.warc.gz	0
-frank32	web.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	web.me.com-frank32.warc.gz	0
-jdneely	gallery.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	gallery.me.com-jdneely.warc.gz	0
-jdneely	homepage.mac.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	homepage.mac.com-jdneely.warc.gz	0
-jdneely	public.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	public.me.com-jdneely.warc.gz	0
-jdneely	web.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	web.me.com-jdneely.warc.gz	0
-stbrendank	gallery.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	gallery.me.com-stbrendank.warc.gz	0
-stbrendank	homepage.mac.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	homepage.mac.com-stbrendank.warc.gz	0
-stbrendank	public.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	public.me.com-stbrendank.warc.gz	0
-stbrendank	web.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	web.me.com-stbrendank.warc.gz	0
-steviraab	gallery.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	gallery.me.com-steviraab.warc.gz	0
-steviraab	homepage.mac.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	homepage.mac.com-steviraab.warc.gz	0
-steviraab	public.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	public.me.com-steviraab.warc.gz	0
-steviraab	web.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	web.me.com-steviraab.warc.gz	0
-vsrogers995	gallery.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	gallery.me.com-vsrogers995.warc.gz	0
-vsrogers995	homepage.mac.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	homepage.mac.com-vsrogers995.warc.gz	0
-vsrogers995	public.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	public.me.com-vsrogers995.warc.gz	0
-vsrogers995	web.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	web.me.com-vsrogers995.warc.gz	0
-wardcarpenter	gallery.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	gallery.me.com-wardcarpenter.warc.gz	0
-wardcarpenter	homepage.mac.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	homepage.mac.com-wardcarpenter.warc.gz	0
-wardcarpenter	public.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	public.me.com-wardcarpenter.warc.gz	0
-wardcarpenter	web.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	web.me.com-wardcarpenter.warc.gz	0
+frank32	gallery.me.com	2012-04-12 19:52:59	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	gallery.me.com-frank32.warc.gz	4253
+frank32	homepage.mac.com	2012-04-12 19:52:59	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	homepage.mac.com-frank32.warc.gz	4895
+frank32	public.me.com	2012-04-12 19:52:58	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	public.me.com-frank32.warc.gz	10245325
+frank32	web.me.com	2012-04-12 19:52:43	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	web.me.com-frank32.warc.gz	522386
+jdneely	gallery.me.com	2012-04-12 20:56:33	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	gallery.me.com-jdneely.warc.gz	208959924
+jdneely	homepage.mac.com	2012-04-12 20:56:33	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	homepage.mac.com-jdneely.warc.gz	4915
+jdneely	public.me.com	2012-04-12 20:51:54	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	public.me.com-jdneely.warc.gz	1917
+jdneely	web.me.com	2012-04-12 20:51:51	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	web.me.com-jdneely.warc.gz	563568101
+stbrendank	gallery.me.com	2012-04-12 20:56:36	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	gallery.me.com-stbrendank.warc.gz	8344
+stbrendank	homepage.mac.com	2012-04-12 20:56:36	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	homepage.mac.com-stbrendank.warc.gz	5174
+stbrendank	public.me.com	2012-04-12 20:56:35	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	public.me.com-stbrendank.warc.gz	1923
+stbrendank	web.me.com	2012-04-12 20:56:35	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	web.me.com-stbrendank.warc.gz	17703
+steviraab	gallery.me.com	2012-04-12 19:52:17	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	gallery.me.com-steviraab.warc.gz	267644938
+steviraab	homepage.mac.com	2012-04-12 19:52:17	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	homepage.mac.com-steviraab.warc.gz	4914
+steviraab	public.me.com	2012-04-12 19:43:17	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	public.me.com-steviraab.warc.gz	1921
+steviraab	web.me.com	2012-04-12 19:43:17	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	web.me.com-steviraab.warc.gz	3808668
+vsrogers995	gallery.me.com	2012-04-12 20:12:02	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	gallery.me.com-vsrogers995.warc.gz	234644300
+vsrogers995	homepage.mac.com	2012-04-12 20:12:02	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	homepage.mac.com-vsrogers995.warc.gz	4923
+vsrogers995	public.me.com	2012-04-12 20:02:11	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	public.me.com-vsrogers995.warc.gz	1927
+vsrogers995	web.me.com	2012-04-12 20:02:11	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	web.me.com-vsrogers995.warc.gz	68970506
+wardcarpenter	gallery.me.com	2012-04-12 23:01:03	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	gallery.me.com-wardcarpenter.warc.gz	3401086301
+wardcarpenter	homepage.mac.com	2012-04-12 23:01:03	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	homepage.mac.com-wardcarpenter.warc.gz	4925
+wardcarpenter	public.me.com	2012-04-12 21:46:32	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	public.me.com-wardcarpenter.warc.gz	836130598
+wardcarpenter	web.me.com	2012-04-12 21:31:09	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7004.tar	web.me.com-wardcarpenter.warc.gz	571811698

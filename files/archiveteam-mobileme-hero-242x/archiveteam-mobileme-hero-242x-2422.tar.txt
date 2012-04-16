@@ -1,20 +1,20 @@
-bremde	gallery.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	gallery.me.com-bremde.warc.gz	0
-bremde	homepage.mac.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	homepage.mac.com-bremde.warc.gz	0
-bremde	public.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	public.me.com-bremde.warc.gz	0
-bremde	web.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	web.me.com-bremde.warc.gz	0
-dhaen	gallery.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	gallery.me.com-dhaen.warc.gz	0
-dhaen	homepage.mac.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	homepage.mac.com-dhaen.warc.gz	0
-dhaen	public.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	public.me.com-dhaen.warc.gz	0
-dhaen	web.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	web.me.com-dhaen.warc.gz	0
-jwgordon	gallery.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	gallery.me.com-jwgordon.warc.gz	0
-jwgordon	homepage.mac.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	homepage.mac.com-jwgordon.warc.gz	0
-jwgordon	public.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	public.me.com-jwgordon.warc.gz	0
-jwgordon	web.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	web.me.com-jwgordon.warc.gz	0
-karlharris	gallery.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	gallery.me.com-karlharris.warc.gz	0
-karlharris	homepage.mac.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	homepage.mac.com-karlharris.warc.gz	0
-karlharris	public.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	public.me.com-karlharris.warc.gz	0
-karlharris	web.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	web.me.com-karlharris.warc.gz	0
-revturnbull	gallery.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	gallery.me.com-revturnbull.warc.gz	0
-revturnbull	homepage.mac.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	homepage.mac.com-revturnbull.warc.gz	0
-revturnbull	public.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	public.me.com-revturnbull.warc.gz	0
-revturnbull	web.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	web.me.com-revturnbull.warc.gz	0
+bremde	gallery.me.com	2012-03-31 12:35:40	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	gallery.me.com-bremde.warc.gz	27408544
+bremde	homepage.mac.com	2012-03-31 12:35:41	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	homepage.mac.com-bremde.warc.gz	54613
+bremde	public.me.com	2012-03-31 12:34:54	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	public.me.com-bremde.warc.gz	315885423
+bremde	web.me.com	2012-03-31 12:33:40	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	web.me.com-bremde.warc.gz	2318799086
+dhaen	gallery.me.com	2012-03-31 12:38:19	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	gallery.me.com-dhaen.warc.gz	4239
+dhaen	homepage.mac.com	2012-03-31 12:38:19	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	homepage.mac.com-dhaen.warc.gz	9400
+dhaen	public.me.com	2012-03-31 12:38:18	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	public.me.com-dhaen.warc.gz	301465
+dhaen	web.me.com	2012-03-31 12:38:15	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	web.me.com-dhaen.warc.gz	18964312
+jwgordon	gallery.me.com	2012-03-31 11:58:09	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	gallery.me.com-jwgordon.warc.gz	488015303
+jwgordon	homepage.mac.com	2012-03-31 11:58:11	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	homepage.mac.com-jwgordon.warc.gz	36974
+jwgordon	public.me.com	2012-03-31 11:46:41	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	public.me.com-jwgordon.warc.gz	19667338
+jwgordon	web.me.com	2012-03-31 11:46:28	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	web.me.com-jwgordon.warc.gz	45182423
+karlharris	gallery.me.com	2012-03-31 14:36:30	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	gallery.me.com-karlharris.warc.gz	191614660
+karlharris	homepage.mac.com	2012-03-31 14:36:30	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	homepage.mac.com-karlharris.warc.gz	4923
+karlharris	public.me.com	2012-03-31 14:34:02	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	public.me.com-karlharris.warc.gz	1177156225
+karlharris	web.me.com	2012-03-31 12:59:38	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	web.me.com-karlharris.warc.gz	199338428
+revturnbull	gallery.me.com	2012-03-31 12:53:03	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	gallery.me.com-revturnbull.warc.gz	44443531
+revturnbull	homepage.mac.com	2012-03-31 12:53:03	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	homepage.mac.com-revturnbull.warc.gz	4912
+revturnbull	public.me.com	2012-03-31 12:52:05	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	public.me.com-revturnbull.warc.gz	1928
+revturnbull	web.me.com	2012-03-31 12:52:04	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2422.tar	web.me.com-revturnbull.warc.gz	753326844

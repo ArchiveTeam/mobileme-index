@@ -1,8 +1,8 @@
-capnmike1	gallery.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5532.tar	gallery.me.com-capnmike1.warc.gz	0
-capnmike1	homepage.mac.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5532.tar	homepage.mac.com-capnmike1.warc.gz	0
-capnmike1	public.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5532.tar	public.me.com-capnmike1.warc.gz	0
-capnmike1	web.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5532.tar	web.me.com-capnmike1.warc.gz	0
-devonmorgan	gallery.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5532.tar	gallery.me.com-devonmorgan.warc.gz	0
-devonmorgan	homepage.mac.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5532.tar	homepage.mac.com-devonmorgan.warc.gz	0
-devonmorgan	public.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5532.tar	public.me.com-devonmorgan.warc.gz	0
-devonmorgan	web.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5532.tar	web.me.com-devonmorgan.warc.gz	0
+capnmike1	gallery.me.com	2012-04-09 12:06:30	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5532.tar	gallery.me.com-capnmike1.warc.gz	4302
+capnmike1	homepage.mac.com	2012-04-09 12:06:39	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5532.tar	homepage.mac.com-capnmike1.warc.gz	292187
+capnmike1	public.me.com	2012-04-09 12:06:27	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5532.tar	public.me.com-capnmike1.warc.gz	1915
+capnmike1	web.me.com	2012-04-09 12:06:27	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5532.tar	web.me.com-capnmike1.warc.gz	7420
+devonmorgan	gallery.me.com	2012-04-09 15:29:52	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5532.tar	gallery.me.com-devonmorgan.warc.gz	329325881
+devonmorgan	homepage.mac.com	2012-04-09 15:29:52	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5532.tar	homepage.mac.com-devonmorgan.warc.gz	4926
+devonmorgan	public.me.com	2012-04-09 15:23:23	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5532.tar	public.me.com-devonmorgan.warc.gz	6738119016
+devonmorgan	web.me.com	2012-04-09 12:15:36	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5532.tar	web.me.com-devonmorgan.warc.gz	87303774

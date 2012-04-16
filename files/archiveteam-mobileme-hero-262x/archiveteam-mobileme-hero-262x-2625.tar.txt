@@ -1,8 +1,8 @@
-arzenteart	gallery.me.com		archiveteam-mobileme-hero-262x	archiveteam-mobileme-hero-262x-2625.tar	gallery.me.com-arzenteart.warc.gz	0
-arzenteart	homepage.mac.com		archiveteam-mobileme-hero-262x	archiveteam-mobileme-hero-262x-2625.tar	homepage.mac.com-arzenteart.warc.gz	0
-arzenteart	public.me.com		archiveteam-mobileme-hero-262x	archiveteam-mobileme-hero-262x-2625.tar	public.me.com-arzenteart.warc.gz	0
-arzenteart	web.me.com		archiveteam-mobileme-hero-262x	archiveteam-mobileme-hero-262x-2625.tar	web.me.com-arzenteart.warc.gz	0
-cglfilm	gallery.me.com		archiveteam-mobileme-hero-262x	archiveteam-mobileme-hero-262x-2625.tar	gallery.me.com-cglfilm.warc.gz	0
-cglfilm	homepage.mac.com		archiveteam-mobileme-hero-262x	archiveteam-mobileme-hero-262x-2625.tar	homepage.mac.com-cglfilm.warc.gz	0
-cglfilm	public.me.com		archiveteam-mobileme-hero-262x	archiveteam-mobileme-hero-262x-2625.tar	public.me.com-cglfilm.warc.gz	0
-cglfilm	web.me.com		archiveteam-mobileme-hero-262x	archiveteam-mobileme-hero-262x-2625.tar	web.me.com-cglfilm.warc.gz	0
+arzenteart	gallery.me.com	2012-04-01 06:29:30	archiveteam-mobileme-hero-262x	archiveteam-mobileme-hero-262x-2625.tar	gallery.me.com-arzenteart.warc.gz	73392906
+arzenteart	homepage.mac.com	2012-04-01 06:29:31	archiveteam-mobileme-hero-262x	archiveteam-mobileme-hero-262x-2625.tar	homepage.mac.com-arzenteart.warc.gz	4910
+arzenteart	public.me.com	2012-04-01 06:27:45	archiveteam-mobileme-hero-262x	archiveteam-mobileme-hero-262x-2625.tar	public.me.com-arzenteart.warc.gz	1913
+arzenteart	web.me.com	2012-04-01 06:27:44	archiveteam-mobileme-hero-262x	archiveteam-mobileme-hero-262x-2625.tar	web.me.com-arzenteart.warc.gz	19513360
+cglfilm	gallery.me.com	2012-04-01 08:02:20	archiveteam-mobileme-hero-262x	archiveteam-mobileme-hero-262x-2625.tar	gallery.me.com-cglfilm.warc.gz	5460553518
+cglfilm	homepage.mac.com	2012-04-01 08:02:21	archiveteam-mobileme-hero-262x	archiveteam-mobileme-hero-262x-2625.tar	homepage.mac.com-cglfilm.warc.gz	9366
+cglfilm	public.me.com	2012-04-01 06:47:22	archiveteam-mobileme-hero-262x	archiveteam-mobileme-hero-262x-2625.tar	public.me.com-cglfilm.warc.gz	16353
+cglfilm	web.me.com	2012-04-01 06:47:16	archiveteam-mobileme-hero-262x	archiveteam-mobileme-hero-262x-2625.tar	web.me.com-cglfilm.warc.gz	760287940

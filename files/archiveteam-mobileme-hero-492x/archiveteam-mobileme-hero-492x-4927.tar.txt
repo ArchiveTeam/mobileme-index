@@ -1,12 +1,12 @@
-c2063185383	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	gallery.me.com-c2063185383.warc.gz	0
-c2063185383	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	homepage.mac.com-c2063185383.warc.gz	0
-c2063185383	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	public.me.com-c2063185383.warc.gz	0
-c2063185383	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	web.me.com-c2063185383.warc.gz	0
-gymdecor	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	gallery.me.com-gymdecor.warc.gz	0
-gymdecor	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	homepage.mac.com-gymdecor.warc.gz	0
-gymdecor	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	public.me.com-gymdecor.warc.gz	0
-gymdecor	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	web.me.com-gymdecor.warc.gz	0
-koddi	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	gallery.me.com-koddi.warc.gz	0
-koddi	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	homepage.mac.com-koddi.warc.gz	0
-koddi	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	public.me.com-koddi.warc.gz	0
-koddi	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	web.me.com-koddi.warc.gz	0
+c2063185383	gallery.me.com	2012-04-07 18:03:52	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	gallery.me.com-c2063185383.warc.gz	8353
+c2063185383	homepage.mac.com	2012-04-07 18:03:52	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	homepage.mac.com-c2063185383.warc.gz	5179
+c2063185383	public.me.com	2012-04-07 18:03:51	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	public.me.com-c2063185383.warc.gz	1924
+c2063185383	web.me.com	2012-04-07 18:03:51	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	web.me.com-c2063185383.warc.gz	17719
+gymdecor	gallery.me.com	2012-04-07 18:03:50	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	gallery.me.com-gymdecor.warc.gz	6931631
+gymdecor	homepage.mac.com	2012-04-07 18:03:50	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	homepage.mac.com-gymdecor.warc.gz	4891
+gymdecor	public.me.com	2012-04-07 18:03:09	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	public.me.com-gymdecor.warc.gz	10615638
+gymdecor	web.me.com	2012-04-07 18:03:02	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	web.me.com-gymdecor.warc.gz	39839901
+koddi	gallery.me.com	2012-04-07 19:07:07	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	gallery.me.com-koddi.warc.gz	1063105546
+koddi	homepage.mac.com	2012-04-07 19:07:42	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	homepage.mac.com-koddi.warc.gz	623523
+koddi	public.me.com	2012-04-07 18:48:13	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	public.me.com-koddi.warc.gz	3861283832
+koddi	web.me.com	2012-04-07 18:05:49	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4927.tar	web.me.com-koddi.warc.gz	5468326

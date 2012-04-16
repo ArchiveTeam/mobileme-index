@@ -1,44 +1,44 @@
-alice.harkey	gallery.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-alice.harkey.warc.gz	0
-alice.harkey	homepage.mac.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-alice.harkey.warc.gz	0
-alice.harkey	public.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-alice.harkey.warc.gz	0
-alice.harkey	web.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-alice.harkey.warc.gz	0
-b.arm	gallery.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-b.arm.warc.gz	0
-b.arm	homepage.mac.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-b.arm.warc.gz	0
-b.arm	public.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-b.arm.warc.gz	0
-b.arm	web.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-b.arm.warc.gz	0
-brbjmich	gallery.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-brbjmich.warc.gz	0
-brbjmich	homepage.mac.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-brbjmich.warc.gz	0
-brbjmich	public.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-brbjmich.warc.gz	0
-brbjmich	web.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-brbjmich.warc.gz	0
-carroll.r	gallery.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-carroll.r.warc.gz	0
-carroll.r	homepage.mac.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-carroll.r.warc.gz	0
-carroll.r	public.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-carroll.r.warc.gz	0
-carroll.r	web.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-carroll.r.warc.gz	0
-dysquo24	gallery.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-dysquo24.warc.gz	0
-dysquo24	homepage.mac.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-dysquo24.warc.gz	0
-dysquo24	public.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-dysquo24.warc.gz	0
-dysquo24	web.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-dysquo24.warc.gz	0
-francines	gallery.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-francines.warc.gz	0
-francines	homepage.mac.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-francines.warc.gz	0
-francines	public.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-francines.warc.gz	0
-francines	web.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-francines.warc.gz	0
-icdb	gallery.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-icdb.warc.gz	0
-icdb	homepage.mac.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-icdb.warc.gz	0
-icdb	public.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-icdb.warc.gz	0
-icdb	web.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-icdb.warc.gz	0
-mireich	gallery.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-mireich.warc.gz	0
-mireich	homepage.mac.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-mireich.warc.gz	0
-mireich	public.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-mireich.warc.gz	0
-mireich	web.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-mireich.warc.gz	0
-pvtm	gallery.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-pvtm.warc.gz	0
-pvtm	homepage.mac.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-pvtm.warc.gz	0
-pvtm	public.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-pvtm.warc.gz	0
-pvtm	web.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-pvtm.warc.gz	0
-samherz	gallery.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-samherz.warc.gz	0
-samherz	homepage.mac.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-samherz.warc.gz	0
-samherz	public.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-samherz.warc.gz	0
-samherz	web.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-samherz.warc.gz	0
-werdq	gallery.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-werdq.warc.gz	0
-werdq	homepage.mac.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-werdq.warc.gz	0
-werdq	public.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-werdq.warc.gz	0
-werdq	web.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-werdq.warc.gz	0
+alice.harkey	gallery.me.com	2012-04-04 12:35:11	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-alice.harkey.warc.gz	247706
+alice.harkey	homepage.mac.com	2012-04-04 12:35:11	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-alice.harkey.warc.gz	4933
+alice.harkey	public.me.com	2012-04-04 12:35:07	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-alice.harkey.warc.gz	1913
+alice.harkey	web.me.com	2012-04-04 12:35:05	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-alice.harkey.warc.gz	650037390
+b.arm	gallery.me.com	2012-04-04 11:54:11	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-b.arm.warc.gz	99135407
+b.arm	homepage.mac.com	2012-04-04 11:54:12	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-b.arm.warc.gz	4903
+b.arm	public.me.com	2012-04-04 11:52:03	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-b.arm.warc.gz	1904
+b.arm	web.me.com	2012-04-04 11:52:02	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-b.arm.warc.gz	318502353
+brbjmich	gallery.me.com	2012-04-04 13:03:35	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-brbjmich.warc.gz	12304
+brbjmich	homepage.mac.com	2012-04-04 13:03:35	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-brbjmich.warc.gz	7142
+brbjmich	public.me.com	2012-04-04 13:03:32	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-brbjmich.warc.gz	1912
+brbjmich	web.me.com	2012-04-04 13:03:31	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-brbjmich.warc.gz	22448
+carroll.r	gallery.me.com	2012-04-04 14:12:37	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-carroll.r.warc.gz	233209227
+carroll.r	homepage.mac.com	2012-04-04 14:13:05	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-carroll.r.warc.gz	906172
+carroll.r	public.me.com	2012-04-04 14:06:46	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-carroll.r.warc.gz	106127
+carroll.r	web.me.com	2012-04-04 14:06:45	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-carroll.r.warc.gz	136798610
+dysquo24	gallery.me.com	2012-04-04 11:37:36	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-dysquo24.warc.gz	45316684
+dysquo24	homepage.mac.com	2012-04-04 11:37:37	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-dysquo24.warc.gz	4900
+dysquo24	public.me.com	2012-04-04 11:37:14	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-dysquo24.warc.gz	502505535
+dysquo24	web.me.com	2012-04-04 11:23:34	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-dysquo24.warc.gz	28102604
+francines	gallery.me.com	2012-04-04 12:43:51	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-francines.warc.gz	112530855
+francines	homepage.mac.com	2012-04-04 13:03:29	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-francines.warc.gz	487606174
+francines	public.me.com	2012-04-04 12:38:20	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-francines.warc.gz	2701851
+francines	web.me.com	2012-04-04 12:38:09	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-francines.warc.gz	38802794
+icdb	gallery.me.com	2012-04-04 13:03:37	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-icdb.warc.gz	8316
+icdb	homepage.mac.com	2012-04-04 13:03:37	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-icdb.warc.gz	5152
+icdb	public.me.com	2012-04-04 13:03:37	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-icdb.warc.gz	1904
+icdb	web.me.com	2012-04-04 13:03:36	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-icdb.warc.gz	17628
+mireich	gallery.me.com	2012-04-04 13:36:37	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-mireich.warc.gz	49765808
+mireich	homepage.mac.com	2012-04-04 13:36:38	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-mireich.warc.gz	4905
+mireich	public.me.com	2012-04-04 13:36:16	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-mireich.warc.gz	48773
+mireich	web.me.com	2012-04-04 13:36:15	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-mireich.warc.gz	386127582
+pvtm	gallery.me.com	2012-04-04 11:54:17	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-pvtm.warc.gz	5709
+pvtm	homepage.mac.com	2012-04-04 11:54:18	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-pvtm.warc.gz	4878
+pvtm	public.me.com	2012-04-04 11:54:17	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-pvtm.warc.gz	1908
+pvtm	web.me.com	2012-04-04 11:54:16	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-pvtm.warc.gz	45137
+samherz	gallery.me.com	2012-04-04 14:22:06	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-samherz.warc.gz	148746610
+samherz	homepage.mac.com	2012-04-04 14:22:07	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-samherz.warc.gz	49302
+samherz	public.me.com	2012-04-04 14:16:53	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-samherz.warc.gz	105433314
+samherz	web.me.com	2012-04-04 14:16:29	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-samherz.warc.gz	18283342
+werdq	gallery.me.com	2012-04-04 14:01:09	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	gallery.me.com-werdq.warc.gz	210419
+werdq	homepage.mac.com	2012-04-04 14:01:32	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	homepage.mac.com-werdq.warc.gz	2934615
+werdq	public.me.com	2012-04-04 14:01:05	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	public.me.com-werdq.warc.gz	15279473
+werdq	web.me.com	2012-04-04 14:00:30	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3848.tar	web.me.com-werdq.warc.gz	908948563

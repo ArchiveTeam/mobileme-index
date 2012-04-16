@@ -1,12 +1,12 @@
-enderby	gallery.me.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	gallery.me.com-enderby.warc.gz	0
-enderby	homepage.mac.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	homepage.mac.com-enderby.warc.gz	0
-enderby	public.me.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	public.me.com-enderby.warc.gz	0
-enderby	web.me.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	web.me.com-enderby.warc.gz	0
-flamantpascal	gallery.me.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	gallery.me.com-flamantpascal.warc.gz	0
-flamantpascal	homepage.mac.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	homepage.mac.com-flamantpascal.warc.gz	0
-flamantpascal	public.me.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	public.me.com-flamantpascal.warc.gz	0
-flamantpascal	web.me.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	web.me.com-flamantpascal.warc.gz	0
-fred.guare	gallery.me.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	gallery.me.com-fred.guare.warc.gz	0
-fred.guare	homepage.mac.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	homepage.mac.com-fred.guare.warc.gz	0
-fred.guare	public.me.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	public.me.com-fred.guare.warc.gz	0
-fred.guare	web.me.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	web.me.com-fred.guare.warc.gz	0
+enderby	gallery.me.com	2012-04-05 11:19:54	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	gallery.me.com-enderby.warc.gz	3950359865
+enderby	homepage.mac.com	2012-04-05 11:20:05	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	homepage.mac.com-enderby.warc.gz	307500
+enderby	public.me.com	2012-04-05 09:56:07	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	public.me.com-enderby.warc.gz	1912
+enderby	web.me.com	2012-04-05 09:55:26	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	web.me.com-enderby.warc.gz	4550429591
+flamantpascal	gallery.me.com	2012-04-05 06:50:14	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	gallery.me.com-flamantpascal.warc.gz	6727
+flamantpascal	homepage.mac.com	2012-04-05 06:50:14	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	homepage.mac.com-flamantpascal.warc.gz	4917
+flamantpascal	public.me.com	2012-04-05 06:50:10	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	public.me.com-flamantpascal.warc.gz	320362298
+flamantpascal	web.me.com	2012-04-05 06:45:49	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	web.me.com-flamantpascal.warc.gz	53027063
+fred.guare	gallery.me.com	2012-04-05 07:11:30	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	gallery.me.com-fred.guare.warc.gz	1812571533
+fred.guare	homepage.mac.com	2012-04-05 07:11:30	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	homepage.mac.com-fred.guare.warc.gz	4886
+fred.guare	public.me.com	2012-04-05 06:52:06	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	public.me.com-fred.guare.warc.gz	1916
+fred.guare	web.me.com	2012-04-05 06:52:06	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4218.tar	web.me.com-fred.guare.warc.gz	7968914

@@ -1,4 +1,4 @@
-mip69	gallery.me.com		archiveteam-mobileme-hero-524x	archiveteam-mobileme-hero-524x-5242.tar	gallery.me.com-mip69.warc.gz	0
-mip69	homepage.mac.com		archiveteam-mobileme-hero-524x	archiveteam-mobileme-hero-524x-5242.tar	homepage.mac.com-mip69.warc.gz	0
-mip69	public.me.com		archiveteam-mobileme-hero-524x	archiveteam-mobileme-hero-524x-5242.tar	public.me.com-mip69.warc.gz	0
-mip69	web.me.com		archiveteam-mobileme-hero-524x	archiveteam-mobileme-hero-524x-5242.tar	web.me.com-mip69.warc.gz	0
+mip69	gallery.me.com	2012-04-08 23:48:36	archiveteam-mobileme-hero-524x	archiveteam-mobileme-hero-524x-5242.tar	gallery.me.com-mip69.warc.gz	4232421447
+mip69	homepage.mac.com	2012-04-08 23:49:33	archiveteam-mobileme-hero-524x	archiveteam-mobileme-hero-524x-5242.tar	homepage.mac.com-mip69.warc.gz	1481186
+mip69	public.me.com	2012-04-08 22:49:08	archiveteam-mobileme-hero-524x	archiveteam-mobileme-hero-524x-5242.tar	public.me.com-mip69.warc.gz	1909
+mip69	web.me.com	2012-04-08 22:49:00	archiveteam-mobileme-hero-524x	archiveteam-mobileme-hero-524x-5242.tar	web.me.com-mip69.warc.gz	385128924

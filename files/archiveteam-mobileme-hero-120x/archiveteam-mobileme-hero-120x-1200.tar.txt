@@ -1,32 +1,32 @@
-aac30190	gallery.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	gallery.me.com-aac30190.warc.gz	0
-aac30190	homepage.mac.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	homepage.mac.com-aac30190.warc.gz	0
-aac30190	public.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	public.me.com-aac30190.warc.gz	0
-aac30190	web.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	web.me.com-aac30190.warc.gz	0
-discordian	gallery.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	gallery.me.com-discordian.warc.gz	0
-discordian	homepage.mac.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	homepage.mac.com-discordian.warc.gz	0
-discordian	public.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	public.me.com-discordian.warc.gz	0
-discordian	web.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	web.me.com-discordian.warc.gz	0
-e_isoya	gallery.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	gallery.me.com-e_isoya.warc.gz	0
-e_isoya	homepage.mac.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	homepage.mac.com-e_isoya.warc.gz	0
-e_isoya	public.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	public.me.com-e_isoya.warc.gz	0
-e_isoya	web.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	web.me.com-e_isoya.warc.gz	0
-guiming	gallery.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	gallery.me.com-guiming.warc.gz	0
-guiming	homepage.mac.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	homepage.mac.com-guiming.warc.gz	0
-guiming	public.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	public.me.com-guiming.warc.gz	0
-guiming	web.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	web.me.com-guiming.warc.gz	0
-jimmcdade	gallery.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	gallery.me.com-jimmcdade.warc.gz	0
-jimmcdade	homepage.mac.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	homepage.mac.com-jimmcdade.warc.gz	0
-jimmcdade	public.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	public.me.com-jimmcdade.warc.gz	0
-jimmcdade	web.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	web.me.com-jimmcdade.warc.gz	0
-lauramartorella	gallery.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	gallery.me.com-lauramartorella.warc.gz	0
-lauramartorella	homepage.mac.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	homepage.mac.com-lauramartorella.warc.gz	0
-lauramartorella	public.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	public.me.com-lauramartorella.warc.gz	0
-lauramartorella	web.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	web.me.com-lauramartorella.warc.gz	0
-marc.lemort	gallery.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	gallery.me.com-marc.lemort.warc.gz	0
-marc.lemort	homepage.mac.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	homepage.mac.com-marc.lemort.warc.gz	0
-marc.lemort	public.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	public.me.com-marc.lemort.warc.gz	0
-marc.lemort	web.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	web.me.com-marc.lemort.warc.gz	0
-thowsen	gallery.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	gallery.me.com-thowsen.warc.gz	0
-thowsen	homepage.mac.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	homepage.mac.com-thowsen.warc.gz	0
-thowsen	public.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	public.me.com-thowsen.warc.gz	0
-thowsen	web.me.com		archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	web.me.com-thowsen.warc.gz	0
+aac30190	gallery.me.com	2012-03-26 11:23:17	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	gallery.me.com-aac30190.warc.gz	1172511843
+aac30190	homepage.mac.com	2012-03-26 11:24:04	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	homepage.mac.com-aac30190.warc.gz	4893
+aac30190	public.me.com	2012-03-26 09:45:40	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	public.me.com-aac30190.warc.gz	1914
+aac30190	web.me.com	2012-03-26 09:42:15	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	web.me.com-aac30190.warc.gz	98751946
+discordian	gallery.me.com	2012-03-26 07:00:16	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	gallery.me.com-discordian.warc.gz	5196
+discordian	homepage.mac.com	2012-03-26 07:00:18	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	homepage.mac.com-discordian.warc.gz	4931
+discordian	public.me.com	2012-03-26 07:00:02	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	public.me.com-discordian.warc.gz	568001454
+discordian	web.me.com	2012-03-26 06:28:50	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	web.me.com-discordian.warc.gz	526114
+e_isoya	gallery.me.com	2012-03-20 09:05:48	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	gallery.me.com-e_isoya.warc.gz	5744
+e_isoya	homepage.mac.com	2012-03-20 09:05:50	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	homepage.mac.com-e_isoya.warc.gz	18611
+e_isoya	public.me.com	2012-03-20 09:05:47	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	public.me.com-e_isoya.warc.gz	1917
+e_isoya	web.me.com	2012-03-20 09:05:47	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	web.me.com-e_isoya.warc.gz	45300
+guiming	gallery.me.com	2012-03-20 13:16:56	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	gallery.me.com-guiming.warc.gz	268674234
+guiming	homepage.mac.com	2012-03-20 13:17:37	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	homepage.mac.com-guiming.warc.gz	4893
+guiming	public.me.com	2012-03-20 13:13:34	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	public.me.com-guiming.warc.gz	3516
+guiming	web.me.com	2012-03-20 13:13:30	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	web.me.com-guiming.warc.gz	572634821
+jimmcdade	gallery.me.com	2012-03-26 08:12:43	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	gallery.me.com-jimmcdade.warc.gz	245394277
+jimmcdade	homepage.mac.com	2012-03-26 08:12:50	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	homepage.mac.com-jimmcdade.warc.gz	97642
+jimmcdade	public.me.com	2012-03-26 08:06:44	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	public.me.com-jimmcdade.warc.gz	1916
+jimmcdade	web.me.com	2012-03-26 08:05:40	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	web.me.com-jimmcdade.warc.gz	101004433
+lauramartorella	gallery.me.com	2012-03-20 10:49:49	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	gallery.me.com-lauramartorella.warc.gz	22455211
+lauramartorella	homepage.mac.com	2012-03-20 10:50:23	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	homepage.mac.com-lauramartorella.warc.gz	4951
+lauramartorella	public.me.com	2012-03-20 10:46:49	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	public.me.com-lauramartorella.warc.gz	1921
+lauramartorella	web.me.com	2012-03-20 10:46:43	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	web.me.com-lauramartorella.warc.gz	189620539
+marc.lemort	gallery.me.com	2012-03-20 12:45:12	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	gallery.me.com-marc.lemort.warc.gz	339014584
+marc.lemort	homepage.mac.com	2012-03-20 12:45:12	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	homepage.mac.com-marc.lemort.warc.gz	4932
+marc.lemort	public.me.com	2012-03-20 12:37:12	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	public.me.com-marc.lemort.warc.gz	1920
+marc.lemort	web.me.com	2012-03-20 12:36:44	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	web.me.com-marc.lemort.warc.gz	1152229589
+thowsen	gallery.me.com	2012-03-26 06:24:51	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	gallery.me.com-thowsen.warc.gz	553738
+thowsen	homepage.mac.com	2012-03-26 06:24:52	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	homepage.mac.com-thowsen.warc.gz	4897
+thowsen	public.me.com	2012-03-26 06:24:46	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	public.me.com-thowsen.warc.gz	1908
+thowsen	web.me.com	2012-03-26 06:24:45	archiveteam-mobileme-hero-120x	archiveteam-mobileme-hero-120x-1200.tar	web.me.com-thowsen.warc.gz	4930092

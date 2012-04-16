@@ -1,8 +1,8 @@
-cvrrusa	gallery.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6934.tar	gallery.me.com-cvrrusa.warc.gz	0
-cvrrusa	homepage.mac.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6934.tar	homepage.mac.com-cvrrusa.warc.gz	0
-cvrrusa	public.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6934.tar	public.me.com-cvrrusa.warc.gz	0
-cvrrusa	web.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6934.tar	web.me.com-cvrrusa.warc.gz	0
-ginkgo.vof	gallery.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6934.tar	gallery.me.com-ginkgo.vof.warc.gz	0
-ginkgo.vof	homepage.mac.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6934.tar	homepage.mac.com-ginkgo.vof.warc.gz	0
-ginkgo.vof	public.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6934.tar	public.me.com-ginkgo.vof.warc.gz	0
-ginkgo.vof	web.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6934.tar	web.me.com-ginkgo.vof.warc.gz	0
+cvrrusa	gallery.me.com	2012-04-12 17:59:32	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6934.tar	gallery.me.com-cvrrusa.warc.gz	2605223453
+cvrrusa	homepage.mac.com	2012-04-12 17:59:32	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6934.tar	homepage.mac.com-cvrrusa.warc.gz	4909
+cvrrusa	public.me.com	2012-04-12 17:47:21	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6934.tar	public.me.com-cvrrusa.warc.gz	7410518
+cvrrusa	web.me.com	2012-04-12 17:47:03	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6934.tar	web.me.com-cvrrusa.warc.gz	964851540
+ginkgo.vof	gallery.me.com	2012-04-12 19:11:49	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6934.tar	gallery.me.com-ginkgo.vof.warc.gz	2287977060
+ginkgo.vof	homepage.mac.com	2012-04-12 19:11:50	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6934.tar	homepage.mac.com-ginkgo.vof.warc.gz	7898
+ginkgo.vof	public.me.com	2012-04-12 18:24:38	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6934.tar	public.me.com-ginkgo.vof.warc.gz	17815
+ginkgo.vof	web.me.com	2012-04-12 18:24:34	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6934.tar	web.me.com-ginkgo.vof.warc.gz	182715521

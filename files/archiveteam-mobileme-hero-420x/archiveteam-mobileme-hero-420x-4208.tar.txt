@@ -1,24 +1,24 @@
-bertheline	gallery.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	gallery.me.com-bertheline.warc.gz	0
-bertheline	homepage.mac.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	homepage.mac.com-bertheline.warc.gz	0
-bertheline	public.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	public.me.com-bertheline.warc.gz	0
-bertheline	web.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	web.me.com-bertheline.warc.gz	0
-bryaneldredge	gallery.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	gallery.me.com-bryaneldredge.warc.gz	0
-bryaneldredge	homepage.mac.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	homepage.mac.com-bryaneldredge.warc.gz	0
-bryaneldredge	public.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	public.me.com-bryaneldredge.warc.gz	0
-bryaneldredge	web.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	web.me.com-bryaneldredge.warc.gz	0
-dentaucher	gallery.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	gallery.me.com-dentaucher.warc.gz	0
-dentaucher	homepage.mac.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	homepage.mac.com-dentaucher.warc.gz	0
-dentaucher	public.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	public.me.com-dentaucher.warc.gz	0
-dentaucher	web.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	web.me.com-dentaucher.warc.gz	0
-erwendell	gallery.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	gallery.me.com-erwendell.warc.gz	0
-erwendell	homepage.mac.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	homepage.mac.com-erwendell.warc.gz	0
-erwendell	public.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	public.me.com-erwendell.warc.gz	0
-erwendell	web.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	web.me.com-erwendell.warc.gz	0
-sungwon	gallery.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	gallery.me.com-sungwon.warc.gz	0
-sungwon	homepage.mac.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	homepage.mac.com-sungwon.warc.gz	0
-sungwon	public.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	public.me.com-sungwon.warc.gz	0
-sungwon	web.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	web.me.com-sungwon.warc.gz	0
-tedshown	gallery.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	gallery.me.com-tedshown.warc.gz	0
-tedshown	homepage.mac.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	homepage.mac.com-tedshown.warc.gz	0
-tedshown	public.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	public.me.com-tedshown.warc.gz	0
-tedshown	web.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	web.me.com-tedshown.warc.gz	0
+bertheline	gallery.me.com	2012-04-05 08:17:55	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	gallery.me.com-bertheline.warc.gz	10336
+bertheline	homepage.mac.com	2012-04-05 08:17:55	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	homepage.mac.com-bertheline.warc.gz	4925
+bertheline	public.me.com	2012-04-05 08:17:54	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	public.me.com-bertheline.warc.gz	1916
+bertheline	web.me.com	2012-04-05 08:17:54	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	web.me.com-bertheline.warc.gz	12697649
+bryaneldredge	gallery.me.com	2012-04-05 08:42:25	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	gallery.me.com-bryaneldredge.warc.gz	4290
+bryaneldredge	homepage.mac.com	2012-04-05 08:42:26	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	homepage.mac.com-bryaneldredge.warc.gz	4936
+bryaneldredge	public.me.com	2012-04-05 08:42:24	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	public.me.com-bryaneldredge.warc.gz	1928
+bryaneldredge	web.me.com	2012-04-05 08:42:24	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	web.me.com-bryaneldredge.warc.gz	622362997
+dentaucher	gallery.me.com	2012-04-05 09:24:50	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	gallery.me.com-dentaucher.warc.gz	683272803
+dentaucher	homepage.mac.com	2012-04-05 09:24:50	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	homepage.mac.com-dentaucher.warc.gz	4927
+dentaucher	public.me.com	2012-04-05 09:08:46	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	public.me.com-dentaucher.warc.gz	1922
+dentaucher	web.me.com	2012-04-05 09:08:43	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	web.me.com-dentaucher.warc.gz	178139527
+erwendell	gallery.me.com	2012-04-05 08:16:29	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	gallery.me.com-erwendell.warc.gz	3615014
+erwendell	homepage.mac.com	2012-04-05 08:16:42	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	homepage.mac.com-erwendell.warc.gz	210335
+erwendell	public.me.com	2012-04-05 08:16:24	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	public.me.com-erwendell.warc.gz	31535845
+erwendell	web.me.com	2012-04-05 08:15:31	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	web.me.com-erwendell.warc.gz	23688103
+sungwon	gallery.me.com	2012-04-05 08:32:24	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	gallery.me.com-sungwon.warc.gz	4275
+sungwon	homepage.mac.com	2012-04-05 08:32:26	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	homepage.mac.com-sungwon.warc.gz	4896
+sungwon	public.me.com	2012-04-05 08:32:23	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	public.me.com-sungwon.warc.gz	1915
+sungwon	web.me.com	2012-04-05 08:32:23	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	web.me.com-sungwon.warc.gz	94638681
+tedshown	gallery.me.com	2012-04-05 10:44:22	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	gallery.me.com-tedshown.warc.gz	3068835735
+tedshown	homepage.mac.com	2012-04-05 10:45:10	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	homepage.mac.com-tedshown.warc.gz	1533306
+tedshown	public.me.com	2012-04-05 10:16:26	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	public.me.com-tedshown.warc.gz	30971
+tedshown	web.me.com	2012-04-05 10:16:23	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4208.tar	web.me.com-tedshown.warc.gz	1722461680

@@ -1,24 +1,24 @@
-bdklein	gallery.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	gallery.me.com-bdklein.warc.gz	0
-bdklein	homepage.mac.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	homepage.mac.com-bdklein.warc.gz	0
-bdklein	public.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	public.me.com-bdklein.warc.gz	0
-bdklein	web.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	web.me.com-bdklein.warc.gz	0
-chimeraspider	gallery.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	gallery.me.com-chimeraspider.warc.gz	0
-chimeraspider	homepage.mac.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	homepage.mac.com-chimeraspider.warc.gz	0
-chimeraspider	public.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	public.me.com-chimeraspider.warc.gz	0
-chimeraspider	web.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	web.me.com-chimeraspider.warc.gz	0
-jakob_erle	gallery.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	gallery.me.com-jakob_erle.warc.gz	0
-jakob_erle	homepage.mac.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	homepage.mac.com-jakob_erle.warc.gz	0
-jakob_erle	public.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	public.me.com-jakob_erle.warc.gz	0
-jakob_erle	web.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	web.me.com-jakob_erle.warc.gz	0
-jamiewiseman	gallery.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	gallery.me.com-jamiewiseman.warc.gz	0
-jamiewiseman	homepage.mac.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	homepage.mac.com-jamiewiseman.warc.gz	0
-jamiewiseman	public.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	public.me.com-jamiewiseman.warc.gz	0
-jamiewiseman	web.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	web.me.com-jamiewiseman.warc.gz	0
-lorigossert	gallery.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	gallery.me.com-lorigossert.warc.gz	0
-lorigossert	homepage.mac.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	homepage.mac.com-lorigossert.warc.gz	0
-lorigossert	public.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	public.me.com-lorigossert.warc.gz	0
-lorigossert	web.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	web.me.com-lorigossert.warc.gz	0
-tdonley	gallery.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	gallery.me.com-tdonley.warc.gz	0
-tdonley	homepage.mac.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	homepage.mac.com-tdonley.warc.gz	0
-tdonley	public.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	public.me.com-tdonley.warc.gz	0
-tdonley	web.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	web.me.com-tdonley.warc.gz	0
+bdklein	gallery.me.com	2012-04-03 09:14:03	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	gallery.me.com-bdklein.warc.gz	5110
+bdklein	homepage.mac.com	2012-04-03 09:14:04	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	homepage.mac.com-bdklein.warc.gz	36867
+bdklein	public.me.com	2012-04-03 09:14:02	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	public.me.com-bdklein.warc.gz	3378
+bdklein	web.me.com	2012-04-03 09:14:01	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	web.me.com-bdklein.warc.gz	4233452
+chimeraspider	gallery.me.com	2012-04-03 08:20:14	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	gallery.me.com-chimeraspider.warc.gz	149411814
+chimeraspider	homepage.mac.com	2012-04-03 08:20:17	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	homepage.mac.com-chimeraspider.warc.gz	121853
+chimeraspider	public.me.com	2012-04-03 08:18:50	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	public.me.com-chimeraspider.warc.gz	1925
+chimeraspider	web.me.com	2012-04-03 08:18:49	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	web.me.com-chimeraspider.warc.gz	231648709
+jakob_erle	gallery.me.com	2012-04-03 10:45:14	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	gallery.me.com-jakob_erle.warc.gz	213896540
+jakob_erle	homepage.mac.com	2012-04-03 10:45:15	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	homepage.mac.com-jakob_erle.warc.gz	7811
+jakob_erle	public.me.com	2012-04-03 10:42:28	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	public.me.com-jakob_erle.warc.gz	1956240745
+jakob_erle	web.me.com	2012-04-03 09:59:13	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	web.me.com-jakob_erle.warc.gz	4257388
+jamiewiseman	gallery.me.com	2012-04-03 09:58:28	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	gallery.me.com-jamiewiseman.warc.gz	244515136
+jamiewiseman	homepage.mac.com	2012-04-03 09:58:30	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	homepage.mac.com-jamiewiseman.warc.gz	36960
+jamiewiseman	public.me.com	2012-04-03 09:54:57	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	public.me.com-jamiewiseman.warc.gz	167323771
+jamiewiseman	web.me.com	2012-04-03 09:50:30	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	web.me.com-jamiewiseman.warc.gz	658715817
+lorigossert	gallery.me.com	2012-04-03 09:12:54	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	gallery.me.com-lorigossert.warc.gz	858376440
+lorigossert	homepage.mac.com	2012-04-03 09:12:54	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	homepage.mac.com-lorigossert.warc.gz	4913
+lorigossert	public.me.com	2012-04-03 09:01:49	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	public.me.com-lorigossert.warc.gz	18326966
+lorigossert	web.me.com	2012-04-03 09:01:05	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	web.me.com-lorigossert.warc.gz	630867115
+tdonley	gallery.me.com	2012-04-03 08:41:53	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	gallery.me.com-tdonley.warc.gz	2362175
+tdonley	homepage.mac.com	2012-04-03 08:42:55	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	homepage.mac.com-tdonley.warc.gz	965097
+tdonley	public.me.com	2012-04-03 08:41:47	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	public.me.com-tdonley.warc.gz	7399
+tdonley	web.me.com	2012-04-03 08:41:45	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3379.tar	web.me.com-tdonley.warc.gz	927952414

@@ -1,12 +1,12 @@
-ax_johnson	gallery.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	gallery.me.com-ax_johnson.warc.gz	0
-ax_johnson	homepage.mac.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	homepage.mac.com-ax_johnson.warc.gz	0
-ax_johnson	public.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	public.me.com-ax_johnson.warc.gz	0
-ax_johnson	web.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	web.me.com-ax_johnson.warc.gz	0
-j.michael_rota	gallery.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	gallery.me.com-j.michael_rota.warc.gz	0
-j.michael_rota	homepage.mac.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	homepage.mac.com-j.michael_rota.warc.gz	0
-j.michael_rota	public.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	public.me.com-j.michael_rota.warc.gz	0
-j.michael_rota	web.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	web.me.com-j.michael_rota.warc.gz	0
-michaelbodnyk	gallery.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	gallery.me.com-michaelbodnyk.warc.gz	0
-michaelbodnyk	homepage.mac.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	homepage.mac.com-michaelbodnyk.warc.gz	0
-michaelbodnyk	public.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	public.me.com-michaelbodnyk.warc.gz	0
-michaelbodnyk	web.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	web.me.com-michaelbodnyk.warc.gz	0
+ax_johnson	gallery.me.com	2012-04-06 01:07:08	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	gallery.me.com-ax_johnson.warc.gz	191679982
+ax_johnson	homepage.mac.com	2012-04-06 01:11:29	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	homepage.mac.com-ax_johnson.warc.gz	73963550
+ax_johnson	public.me.com	2012-04-06 01:05:28	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	public.me.com-ax_johnson.warc.gz	3435
+ax_johnson	web.me.com	2012-04-06 01:05:28	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	web.me.com-ax_johnson.warc.gz	42818290
+j.michael_rota	gallery.me.com	2012-04-06 02:57:04	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	gallery.me.com-j.michael_rota.warc.gz	5234900992
+j.michael_rota	homepage.mac.com	2012-04-06 02:57:07	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	homepage.mac.com-j.michael_rota.warc.gz	7927
+j.michael_rota	public.me.com	2012-04-06 01:51:35	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	public.me.com-j.michael_rota.warc.gz	4222970303
+j.michael_rota	web.me.com	2012-04-06 01:18:05	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	web.me.com-j.michael_rota.warc.gz	27678031
+michaelbodnyk	gallery.me.com	2012-04-06 01:02:52	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	gallery.me.com-michaelbodnyk.warc.gz	5014
+michaelbodnyk	homepage.mac.com	2012-04-06 01:02:52	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	homepage.mac.com-michaelbodnyk.warc.gz	4924
+michaelbodnyk	public.me.com	2012-04-06 01:02:51	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	public.me.com-michaelbodnyk.warc.gz	1934
+michaelbodnyk	web.me.com	2012-04-06 01:02:51	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4488.tar	web.me.com-michaelbodnyk.warc.gz	19727344

@@ -1,8 +1,8 @@
-brentboates	gallery.me.com		archiveteam-mobileme-hero-635x	archiveteam-mobileme-hero-635x-6359.tar	gallery.me.com-brentboates.warc.gz	0
-brentboates	homepage.mac.com		archiveteam-mobileme-hero-635x	archiveteam-mobileme-hero-635x-6359.tar	homepage.mac.com-brentboates.warc.gz	0
-brentboates	public.me.com		archiveteam-mobileme-hero-635x	archiveteam-mobileme-hero-635x-6359.tar	public.me.com-brentboates.warc.gz	0
-brentboates	web.me.com		archiveteam-mobileme-hero-635x	archiveteam-mobileme-hero-635x-6359.tar	web.me.com-brentboates.warc.gz	0
-themarshallweb	gallery.me.com		archiveteam-mobileme-hero-635x	archiveteam-mobileme-hero-635x-6359.tar	gallery.me.com-themarshallweb.warc.gz	0
-themarshallweb	homepage.mac.com		archiveteam-mobileme-hero-635x	archiveteam-mobileme-hero-635x-6359.tar	homepage.mac.com-themarshallweb.warc.gz	0
-themarshallweb	public.me.com		archiveteam-mobileme-hero-635x	archiveteam-mobileme-hero-635x-6359.tar	public.me.com-themarshallweb.warc.gz	0
-themarshallweb	web.me.com		archiveteam-mobileme-hero-635x	archiveteam-mobileme-hero-635x-6359.tar	web.me.com-themarshallweb.warc.gz	0
+brentboates	gallery.me.com	2012-04-10 20:28:49	archiveteam-mobileme-hero-635x	archiveteam-mobileme-hero-635x-6359.tar	gallery.me.com-brentboates.warc.gz	64412
+brentboates	homepage.mac.com	2012-04-10 20:28:49	archiveteam-mobileme-hero-635x	archiveteam-mobileme-hero-635x-6359.tar	homepage.mac.com-brentboates.warc.gz	4917
+brentboates	public.me.com	2012-04-10 20:28:46	archiveteam-mobileme-hero-635x	archiveteam-mobileme-hero-635x-6359.tar	public.me.com-brentboates.warc.gz	446621
+brentboates	web.me.com	2012-04-10 20:28:40	archiveteam-mobileme-hero-635x	archiveteam-mobileme-hero-635x-6359.tar	web.me.com-brentboates.warc.gz	29638748
+themarshallweb	gallery.me.com	2012-04-11 11:58:31	archiveteam-mobileme-hero-635x	archiveteam-mobileme-hero-635x-6359.tar	gallery.me.com-themarshallweb.warc.gz	1045993723
+themarshallweb	homepage.mac.com	2012-04-11 11:58:32	archiveteam-mobileme-hero-635x	archiveteam-mobileme-hero-635x-6359.tar	homepage.mac.com-themarshallweb.warc.gz	4942
+themarshallweb	public.me.com	2012-04-11 11:34:18	archiveteam-mobileme-hero-635x	archiveteam-mobileme-hero-635x-6359.tar	public.me.com-themarshallweb.warc.gz	1006055799
+themarshallweb	web.me.com	2012-04-11 10:48:30	archiveteam-mobileme-hero-635x	archiveteam-mobileme-hero-635x-6359.tar	web.me.com-themarshallweb.warc.gz	2577864419

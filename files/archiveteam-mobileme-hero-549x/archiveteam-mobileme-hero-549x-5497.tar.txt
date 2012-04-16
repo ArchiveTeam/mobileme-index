@@ -1,28 +1,28 @@
-andyround	gallery.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	gallery.me.com-andyround.warc.gz	0
-andyround	homepage.mac.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	homepage.mac.com-andyround.warc.gz	0
-andyround	public.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	public.me.com-andyround.warc.gz	0
-andyround	web.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	web.me.com-andyround.warc.gz	0
-johnbeaver	gallery.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	gallery.me.com-johnbeaver.warc.gz	0
-johnbeaver	homepage.mac.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	homepage.mac.com-johnbeaver.warc.gz	0
-johnbeaver	public.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	public.me.com-johnbeaver.warc.gz	0
-johnbeaver	web.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	web.me.com-johnbeaver.warc.gz	0
-koba_kazu	gallery.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	gallery.me.com-koba_kazu.warc.gz	0
-koba_kazu	homepage.mac.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	homepage.mac.com-koba_kazu.warc.gz	0
-koba_kazu	public.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	public.me.com-koba_kazu.warc.gz	0
-koba_kazu	web.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	web.me.com-koba_kazu.warc.gz	0
-paleobiology	gallery.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	gallery.me.com-paleobiology.warc.gz	0
-paleobiology	homepage.mac.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	homepage.mac.com-paleobiology.warc.gz	0
-paleobiology	public.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	public.me.com-paleobiology.warc.gz	0
-paleobiology	web.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	web.me.com-paleobiology.warc.gz	0
-samvdd	gallery.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	gallery.me.com-samvdd.warc.gz	0
-samvdd	homepage.mac.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	homepage.mac.com-samvdd.warc.gz	0
-samvdd	public.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	public.me.com-samvdd.warc.gz	0
-samvdd	web.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	web.me.com-samvdd.warc.gz	0
-twaldo	gallery.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	gallery.me.com-twaldo.warc.gz	0
-twaldo	homepage.mac.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	homepage.mac.com-twaldo.warc.gz	0
-twaldo	public.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	public.me.com-twaldo.warc.gz	0
-twaldo	web.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	web.me.com-twaldo.warc.gz	0
-wmaple	gallery.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	gallery.me.com-wmaple.warc.gz	0
-wmaple	homepage.mac.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	homepage.mac.com-wmaple.warc.gz	0
-wmaple	public.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	public.me.com-wmaple.warc.gz	0
-wmaple	web.me.com		archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	web.me.com-wmaple.warc.gz	0
+andyround	gallery.me.com	2012-04-09 10:26:25	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	gallery.me.com-andyround.warc.gz	40264865
+andyround	homepage.mac.com	2012-04-09 10:26:45	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	homepage.mac.com-andyround.warc.gz	136195
+andyround	public.me.com	2012-04-09 10:24:52	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	public.me.com-andyround.warc.gz	4120060
+andyround	web.me.com	2012-04-09 10:24:16	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	web.me.com-andyround.warc.gz	3720187
+johnbeaver	gallery.me.com	2012-04-09 09:17:10	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	gallery.me.com-johnbeaver.warc.gz	1058557932
+johnbeaver	homepage.mac.com	2012-04-09 09:17:10	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	homepage.mac.com-johnbeaver.warc.gz	4917
+johnbeaver	public.me.com	2012-04-09 08:30:09	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	public.me.com-johnbeaver.warc.gz	1925
+johnbeaver	web.me.com	2012-04-09 08:30:08	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	web.me.com-johnbeaver.warc.gz	71033700
+koba_kazu	gallery.me.com	2012-04-09 08:04:08	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	gallery.me.com-koba_kazu.warc.gz	8362
+koba_kazu	homepage.mac.com	2012-04-09 08:04:08	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	homepage.mac.com-koba_kazu.warc.gz	5174
+koba_kazu	public.me.com	2012-04-09 08:04:07	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	public.me.com-koba_kazu.warc.gz	1919
+koba_kazu	web.me.com	2012-04-09 08:04:07	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	web.me.com-koba_kazu.warc.gz	17741
+paleobiology	gallery.me.com	2012-04-09 08:04:01	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	gallery.me.com-paleobiology.warc.gz	975768
+paleobiology	homepage.mac.com	2012-04-09 08:04:04	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	homepage.mac.com-paleobiology.warc.gz	14741
+paleobiology	public.me.com	2012-04-09 08:03:49	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	public.me.com-paleobiology.warc.gz	1924
+paleobiology	web.me.com	2012-04-09 08:03:48	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	web.me.com-paleobiology.warc.gz	315776927
+samvdd	gallery.me.com	2012-04-09 10:21:37	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	gallery.me.com-samvdd.warc.gz	962175575
+samvdd	homepage.mac.com	2012-04-09 10:21:37	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	homepage.mac.com-samvdd.warc.gz	4909
+samvdd	public.me.com	2012-04-09 09:40:54	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	public.me.com-samvdd.warc.gz	112909260
+samvdd	web.me.com	2012-04-09 09:37:10	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	web.me.com-samvdd.warc.gz	57640514
+twaldo	gallery.me.com	2012-04-09 07:38:34	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	gallery.me.com-twaldo.warc.gz	12327
+twaldo	homepage.mac.com	2012-04-09 07:38:35	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	homepage.mac.com-twaldo.warc.gz	7148
+twaldo	public.me.com	2012-04-09 07:38:32	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	public.me.com-twaldo.warc.gz	1910
+twaldo	web.me.com	2012-04-09 07:38:31	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	web.me.com-twaldo.warc.gz	22522
+wmaple	gallery.me.com	2012-04-09 13:27:13	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	gallery.me.com-wmaple.warc.gz	2867833014
+wmaple	homepage.mac.com	2012-04-09 13:27:14	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	homepage.mac.com-wmaple.warc.gz	7849
+wmaple	public.me.com	2012-04-09 11:47:01	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	public.me.com-wmaple.warc.gz	1464250444
+wmaple	web.me.com	2012-04-09 10:53:32	archiveteam-mobileme-hero-549x	archiveteam-mobileme-hero-549x-5497.tar	web.me.com-wmaple.warc.gz	629222278

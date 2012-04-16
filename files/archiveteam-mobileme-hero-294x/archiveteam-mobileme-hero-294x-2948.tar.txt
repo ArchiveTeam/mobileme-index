@@ -1,8 +1,8 @@
-danielb64	gallery.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2948.tar	gallery.me.com-danielb64.warc.gz	0
-danielb64	homepage.mac.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2948.tar	homepage.mac.com-danielb64.warc.gz	0
-danielb64	public.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2948.tar	public.me.com-danielb64.warc.gz	0
-danielb64	web.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2948.tar	web.me.com-danielb64.warc.gz	0
-highresmedia	gallery.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2948.tar	gallery.me.com-highresmedia.warc.gz	0
-highresmedia	homepage.mac.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2948.tar	homepage.mac.com-highresmedia.warc.gz	0
-highresmedia	public.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2948.tar	public.me.com-highresmedia.warc.gz	0
-highresmedia	web.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2948.tar	web.me.com-highresmedia.warc.gz	0
+danielb64	gallery.me.com	2012-04-02 12:34:34	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2948.tar	gallery.me.com-danielb64.warc.gz	215416010
+danielb64	homepage.mac.com	2012-04-02 12:34:35	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2948.tar	homepage.mac.com-danielb64.warc.gz	4900
+danielb64	public.me.com	2012-04-02 12:25:13	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2948.tar	public.me.com-danielb64.warc.gz	8397907991
+danielb64	web.me.com	2012-04-02 11:29:24	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2948.tar	web.me.com-danielb64.warc.gz	31184097
+highresmedia	gallery.me.com	2012-04-02 11:22:26	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2948.tar	gallery.me.com-highresmedia.warc.gz	4280
+highresmedia	homepage.mac.com	2012-04-02 11:22:27	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2948.tar	homepage.mac.com-highresmedia.warc.gz	4921
+highresmedia	public.me.com	2012-04-02 11:22:26	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2948.tar	public.me.com-highresmedia.warc.gz	1924
+highresmedia	web.me.com	2012-04-02 11:22:25	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2948.tar	web.me.com-highresmedia.warc.gz	227770366

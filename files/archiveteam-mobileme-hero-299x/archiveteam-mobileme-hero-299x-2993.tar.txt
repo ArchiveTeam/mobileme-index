@@ -1,8 +1,8 @@
-digivideo	gallery.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2993.tar	gallery.me.com-digivideo.warc.gz	0
-digivideo	homepage.mac.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2993.tar	homepage.mac.com-digivideo.warc.gz	0
-digivideo	public.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2993.tar	public.me.com-digivideo.warc.gz	0
-digivideo	web.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2993.tar	web.me.com-digivideo.warc.gz	0
-jlsreyes	gallery.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2993.tar	gallery.me.com-jlsreyes.warc.gz	0
-jlsreyes	homepage.mac.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2993.tar	homepage.mac.com-jlsreyes.warc.gz	0
-jlsreyes	public.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2993.tar	public.me.com-jlsreyes.warc.gz	0
-jlsreyes	web.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2993.tar	web.me.com-jlsreyes.warc.gz	0
+digivideo	gallery.me.com	2012-04-02 15:10:58	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2993.tar	gallery.me.com-digivideo.warc.gz	19118721
+digivideo	homepage.mac.com	2012-04-02 15:10:58	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2993.tar	homepage.mac.com-digivideo.warc.gz	4908
+digivideo	public.me.com	2012-04-02 15:10:27	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2993.tar	public.me.com-digivideo.warc.gz	1915
+digivideo	web.me.com	2012-04-02 15:10:00	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2993.tar	web.me.com-digivideo.warc.gz	4794879560
+jlsreyes	gallery.me.com	2012-04-02 13:07:23	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2993.tar	gallery.me.com-jlsreyes.warc.gz	5790
+jlsreyes	homepage.mac.com	2012-04-02 13:07:23	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2993.tar	homepage.mac.com-jlsreyes.warc.gz	4897
+jlsreyes	public.me.com	2012-04-02 13:07:22	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2993.tar	public.me.com-jlsreyes.warc.gz	1920
+jlsreyes	web.me.com	2012-04-02 13:07:21	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2993.tar	web.me.com-jlsreyes.warc.gz	1151735

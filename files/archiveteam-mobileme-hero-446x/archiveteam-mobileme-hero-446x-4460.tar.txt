@@ -1,28 +1,28 @@
-bonusmac	gallery.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	gallery.me.com-bonusmac.warc.gz	0
-bonusmac	homepage.mac.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	homepage.mac.com-bonusmac.warc.gz	0
-bonusmac	public.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	public.me.com-bonusmac.warc.gz	0
-bonusmac	web.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	web.me.com-bonusmac.warc.gz	0
-ef65	gallery.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	gallery.me.com-ef65.warc.gz	0
-ef65	homepage.mac.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	homepage.mac.com-ef65.warc.gz	0
-ef65	public.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	public.me.com-ef65.warc.gz	0
-ef65	web.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	web.me.com-ef65.warc.gz	0
-michael.moskowitz	gallery.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	gallery.me.com-michael.moskowitz.warc.gz	0
-michael.moskowitz	homepage.mac.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	homepage.mac.com-michael.moskowitz.warc.gz	0
-michael.moskowitz	public.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	public.me.com-michael.moskowitz.warc.gz	0
-michael.moskowitz	web.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	web.me.com-michael.moskowitz.warc.gz	0
-neal.carlson	gallery.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	gallery.me.com-neal.carlson.warc.gz	0
-neal.carlson	homepage.mac.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	homepage.mac.com-neal.carlson.warc.gz	0
-neal.carlson	public.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	public.me.com-neal.carlson.warc.gz	0
-neal.carlson	web.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	web.me.com-neal.carlson.warc.gz	0
-terencedkeel	gallery.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	gallery.me.com-terencedkeel.warc.gz	0
-terencedkeel	homepage.mac.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	homepage.mac.com-terencedkeel.warc.gz	0
-terencedkeel	public.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	public.me.com-terencedkeel.warc.gz	0
-terencedkeel	web.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	web.me.com-terencedkeel.warc.gz	0
-thestarbucks	gallery.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	gallery.me.com-thestarbucks.warc.gz	0
-thestarbucks	homepage.mac.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	homepage.mac.com-thestarbucks.warc.gz	0
-thestarbucks	public.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	public.me.com-thestarbucks.warc.gz	0
-thestarbucks	web.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	web.me.com-thestarbucks.warc.gz	0
-yetticagroup	gallery.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	gallery.me.com-yetticagroup.warc.gz	0
-yetticagroup	homepage.mac.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	homepage.mac.com-yetticagroup.warc.gz	0
-yetticagroup	public.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	public.me.com-yetticagroup.warc.gz	0
-yetticagroup	web.me.com		archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	web.me.com-yetticagroup.warc.gz	0
+bonusmac	gallery.me.com	2012-04-06 00:11:48	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	gallery.me.com-bonusmac.warc.gz	1568009420
+bonusmac	homepage.mac.com	2012-04-06 00:11:48	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	homepage.mac.com-bonusmac.warc.gz	4901
+bonusmac	public.me.com	2012-04-05 23:36:24	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	public.me.com-bonusmac.warc.gz	1918
+bonusmac	web.me.com	2012-04-05 23:36:23	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	web.me.com-bonusmac.warc.gz	503168252
+ef65	gallery.me.com	2012-04-05 22:55:34	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	gallery.me.com-ef65.warc.gz	8319
+ef65	homepage.mac.com	2012-04-05 22:55:34	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	homepage.mac.com-ef65.warc.gz	5155
+ef65	public.me.com	2012-04-05 22:55:33	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	public.me.com-ef65.warc.gz	1904
+ef65	web.me.com	2012-04-05 22:55:33	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	web.me.com-ef65.warc.gz	17652
+michael.moskowitz	gallery.me.com	2012-04-06 01:36:51	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	gallery.me.com-michael.moskowitz.warc.gz	1563127054
+michael.moskowitz	homepage.mac.com	2012-04-06 01:36:52	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	homepage.mac.com-michael.moskowitz.warc.gz	7951
+michael.moskowitz	public.me.com	2012-04-06 00:43:36	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	public.me.com-michael.moskowitz.warc.gz	43901490
+michael.moskowitz	web.me.com	2012-04-06 00:42:34	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	web.me.com-michael.moskowitz.warc.gz	101692254
+neal.carlson	gallery.me.com	2012-04-06 00:30:37	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	gallery.me.com-neal.carlson.warc.gz	5281
+neal.carlson	homepage.mac.com	2012-04-06 00:30:37	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	homepage.mac.com-neal.carlson.warc.gz	4924
+neal.carlson	public.me.com	2012-04-06 00:30:36	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	public.me.com-neal.carlson.warc.gz	1919
+neal.carlson	web.me.com	2012-04-06 00:30:35	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	web.me.com-neal.carlson.warc.gz	735108221
+terencedkeel	gallery.me.com	2012-04-06 00:30:57	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	gallery.me.com-terencedkeel.warc.gz	4285
+terencedkeel	homepage.mac.com	2012-04-06 00:30:58	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	homepage.mac.com-terencedkeel.warc.gz	4933
+terencedkeel	public.me.com	2012-04-06 00:30:55	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	public.me.com-terencedkeel.warc.gz	1918
+terencedkeel	web.me.com	2012-04-06 00:30:54	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	web.me.com-terencedkeel.warc.gz	855986
+thestarbucks	gallery.me.com	2012-04-06 00:17:34	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	gallery.me.com-thestarbucks.warc.gz	4271
+thestarbucks	homepage.mac.com	2012-04-06 00:17:35	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	homepage.mac.com-thestarbucks.warc.gz	4936
+thestarbucks	public.me.com	2012-04-06 00:17:33	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	public.me.com-thestarbucks.warc.gz	6907257
+thestarbucks	web.me.com	2012-04-06 00:17:14	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	web.me.com-thestarbucks.warc.gz	74231527
+yetticagroup	gallery.me.com	2012-04-06 00:13:59	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	gallery.me.com-yetticagroup.warc.gz	5693
+yetticagroup	homepage.mac.com	2012-04-06 00:13:59	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	homepage.mac.com-yetticagroup.warc.gz	4936
+yetticagroup	public.me.com	2012-04-06 00:13:58	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	public.me.com-yetticagroup.warc.gz	1927
+yetticagroup	web.me.com	2012-04-06 00:13:57	archiveteam-mobileme-hero-446x	archiveteam-mobileme-hero-446x-4460.tar	web.me.com-yetticagroup.warc.gz	340061197

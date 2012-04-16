@@ -1,8 +1,8 @@
-chadleeper	gallery.me.com		archiveteam-mobileme-hero-236x	archiveteam-mobileme-hero-236x-2365.tar	gallery.me.com-chadleeper.warc.gz	0
-chadleeper	homepage.mac.com		archiveteam-mobileme-hero-236x	archiveteam-mobileme-hero-236x-2365.tar	homepage.mac.com-chadleeper.warc.gz	0
-chadleeper	public.me.com		archiveteam-mobileme-hero-236x	archiveteam-mobileme-hero-236x-2365.tar	public.me.com-chadleeper.warc.gz	0
-chadleeper	web.me.com		archiveteam-mobileme-hero-236x	archiveteam-mobileme-hero-236x-2365.tar	web.me.com-chadleeper.warc.gz	0
-jcsutton	gallery.me.com		archiveteam-mobileme-hero-236x	archiveteam-mobileme-hero-236x-2365.tar	gallery.me.com-jcsutton.warc.gz	0
-jcsutton	homepage.mac.com		archiveteam-mobileme-hero-236x	archiveteam-mobileme-hero-236x-2365.tar	homepage.mac.com-jcsutton.warc.gz	0
-jcsutton	public.me.com		archiveteam-mobileme-hero-236x	archiveteam-mobileme-hero-236x-2365.tar	public.me.com-jcsutton.warc.gz	0
-jcsutton	web.me.com		archiveteam-mobileme-hero-236x	archiveteam-mobileme-hero-236x-2365.tar	web.me.com-jcsutton.warc.gz	0
+chadleeper	gallery.me.com	2012-03-31 08:25:41	archiveteam-mobileme-hero-236x	archiveteam-mobileme-hero-236x-2365.tar	gallery.me.com-chadleeper.warc.gz	8363
+chadleeper	homepage.mac.com	2012-03-31 08:25:41	archiveteam-mobileme-hero-236x	archiveteam-mobileme-hero-236x-2365.tar	homepage.mac.com-chadleeper.warc.gz	5171
+chadleeper	public.me.com	2012-03-31 08:25:40	archiveteam-mobileme-hero-236x	archiveteam-mobileme-hero-236x-2365.tar	public.me.com-chadleeper.warc.gz	1920
+chadleeper	web.me.com	2012-03-31 08:25:40	archiveteam-mobileme-hero-236x	archiveteam-mobileme-hero-236x-2365.tar	web.me.com-chadleeper.warc.gz	17750
+jcsutton	gallery.me.com	2012-03-31 09:32:48	archiveteam-mobileme-hero-236x	archiveteam-mobileme-hero-236x-2365.tar	gallery.me.com-jcsutton.warc.gz	4308315265
+jcsutton	homepage.mac.com	2012-03-31 09:32:49	archiveteam-mobileme-hero-236x	archiveteam-mobileme-hero-236x-2365.tar	homepage.mac.com-jcsutton.warc.gz	33098
+jcsutton	public.me.com	2012-03-31 08:48:29	archiveteam-mobileme-hero-236x	archiveteam-mobileme-hero-236x-2365.tar	public.me.com-jcsutton.warc.gz	464992797
+jcsutton	web.me.com	2012-03-31 08:41:58	archiveteam-mobileme-hero-236x	archiveteam-mobileme-hero-236x-2365.tar	web.me.com-jcsutton.warc.gz	504987342

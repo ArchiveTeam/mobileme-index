@@ -1,16 +1,16 @@
-hansons	gallery.me.com		archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	gallery.me.com-hansons.warc.gz	0
-hansons	homepage.mac.com		archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	homepage.mac.com-hansons.warc.gz	0
-hansons	public.me.com		archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	public.me.com-hansons.warc.gz	0
-hansons	web.me.com		archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	web.me.com-hansons.warc.gz	0
-jeremiequenet	gallery.me.com		archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	gallery.me.com-jeremiequenet.warc.gz	0
-jeremiequenet	homepage.mac.com		archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	homepage.mac.com-jeremiequenet.warc.gz	0
-jeremiequenet	public.me.com		archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	public.me.com-jeremiequenet.warc.gz	0
-jeremiequenet	web.me.com		archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	web.me.com-jeremiequenet.warc.gz	0
-rudi.vandrepotte	gallery.me.com		archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	gallery.me.com-rudi.vandrepotte.warc.gz	0
-rudi.vandrepotte	homepage.mac.com		archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	homepage.mac.com-rudi.vandrepotte.warc.gz	0
-rudi.vandrepotte	public.me.com		archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	public.me.com-rudi.vandrepotte.warc.gz	0
-rudi.vandrepotte	web.me.com		archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	web.me.com-rudi.vandrepotte.warc.gz	0
-web.joannec	gallery.me.com		archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	gallery.me.com-web.joannec.warc.gz	0
-web.joannec	homepage.mac.com		archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	homepage.mac.com-web.joannec.warc.gz	0
-web.joannec	public.me.com		archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	public.me.com-web.joannec.warc.gz	0
-web.joannec	web.me.com		archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	web.me.com-web.joannec.warc.gz	0
+hansons	gallery.me.com	2012-04-04 16:53:37	archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	gallery.me.com-hansons.warc.gz	4321
+hansons	homepage.mac.com	2012-04-04 16:53:43	archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	homepage.mac.com-hansons.warc.gz	116249
+hansons	public.me.com	2012-04-04 16:53:36	archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	public.me.com-hansons.warc.gz	2709135
+hansons	web.me.com	2012-04-04 16:53:29	archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	web.me.com-hansons.warc.gz	276985
+jeremiequenet	gallery.me.com	2012-04-04 18:06:14	archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	gallery.me.com-jeremiequenet.warc.gz	2362615782
+jeremiequenet	homepage.mac.com	2012-04-04 18:06:15	archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	homepage.mac.com-jeremiequenet.warc.gz	4935
+jeremiequenet	public.me.com	2012-04-04 17:23:46	archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	public.me.com-jeremiequenet.warc.gz	3460
+jeremiequenet	web.me.com	2012-04-04 17:23:43	archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	web.me.com-jeremiequenet.warc.gz	878062236
+rudi.vandrepotte	gallery.me.com	2012-04-04 16:53:18	archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	gallery.me.com-rudi.vandrepotte.warc.gz	2858398821
+rudi.vandrepotte	homepage.mac.com	2012-04-04 16:53:18	archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	homepage.mac.com-rudi.vandrepotte.warc.gz	4940
+rudi.vandrepotte	public.me.com	2012-04-04 16:04:50	archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	public.me.com-rudi.vandrepotte.warc.gz	1929
+rudi.vandrepotte	web.me.com	2012-04-04 16:04:39	archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	web.me.com-rudi.vandrepotte.warc.gz	1191921067
+web.joannec	gallery.me.com	2012-04-04 15:12:37	archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	gallery.me.com-web.joannec.warc.gz	8367
+web.joannec	homepage.mac.com	2012-04-04 15:12:37	archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	homepage.mac.com-web.joannec.warc.gz	5159
+web.joannec	public.me.com	2012-04-04 15:12:35	archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	public.me.com-web.joannec.warc.gz	1926
+web.joannec	web.me.com	2012-04-04 15:12:35	archiveteam-mobileme-hero-390x	archiveteam-mobileme-hero-390x-3908.tar	web.me.com-web.joannec.warc.gz	17691

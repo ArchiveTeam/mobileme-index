@@ -1,16 +1,16 @@
-dean_stephens	gallery.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	gallery.me.com-dean_stephens.warc.gz	0
-dean_stephens	homepage.mac.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	homepage.mac.com-dean_stephens.warc.gz	0
-dean_stephens	public.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	public.me.com-dean_stephens.warc.gz	0
-dean_stephens	web.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	web.me.com-dean_stephens.warc.gz	0
-ejohnson1969	gallery.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	gallery.me.com-ejohnson1969.warc.gz	0
-ejohnson1969	homepage.mac.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	homepage.mac.com-ejohnson1969.warc.gz	0
-ejohnson1969	public.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	public.me.com-ejohnson1969.warc.gz	0
-ejohnson1969	web.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	web.me.com-ejohnson1969.warc.gz	0
-vagnerman	gallery.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	gallery.me.com-vagnerman.warc.gz	0
-vagnerman	homepage.mac.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	homepage.mac.com-vagnerman.warc.gz	0
-vagnerman	public.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	public.me.com-vagnerman.warc.gz	0
-vagnerman	web.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	web.me.com-vagnerman.warc.gz	0
-wkharris	gallery.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	gallery.me.com-wkharris.warc.gz	0
-wkharris	homepage.mac.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	homepage.mac.com-wkharris.warc.gz	0
-wkharris	public.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	public.me.com-wkharris.warc.gz	0
-wkharris	web.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	web.me.com-wkharris.warc.gz	0
+dean_stephens	gallery.me.com	2012-04-07 06:25:47	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	gallery.me.com-dean_stephens.warc.gz	2672116251
+dean_stephens	homepage.mac.com	2012-04-07 06:25:48	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	homepage.mac.com-dean_stephens.warc.gz	4933
+dean_stephens	public.me.com	2012-04-07 05:47:21	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	public.me.com-dean_stephens.warc.gz	2268385169
+dean_stephens	web.me.com	2012-04-07 05:16:20	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	web.me.com-dean_stephens.warc.gz	67780124
+ejohnson1969	gallery.me.com	2012-04-07 05:09:10	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	gallery.me.com-ejohnson1969.warc.gz	116329
+ejohnson1969	homepage.mac.com	2012-04-07 05:09:10	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	homepage.mac.com-ejohnson1969.warc.gz	4931
+ejohnson1969	public.me.com	2012-04-07 05:09:09	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	public.me.com-ejohnson1969.warc.gz	1926
+ejohnson1969	web.me.com	2012-04-07 05:09:08	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	web.me.com-ejohnson1969.warc.gz	18556983
+vagnerman	gallery.me.com	2012-04-07 03:52:54	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	gallery.me.com-vagnerman.warc.gz	4292
+vagnerman	homepage.mac.com	2012-04-07 03:52:54	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	homepage.mac.com-vagnerman.warc.gz	4913
+vagnerman	public.me.com	2012-04-07 03:52:53	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	public.me.com-vagnerman.warc.gz	1920
+vagnerman	web.me.com	2012-04-07 03:52:52	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	web.me.com-vagnerman.warc.gz	84152456
+wkharris	gallery.me.com	2012-04-07 05:04:03	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	gallery.me.com-wkharris.warc.gz	310272562
+wkharris	homepage.mac.com	2012-04-07 05:04:45	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	homepage.mac.com-wkharris.warc.gz	898514
+wkharris	public.me.com	2012-04-07 05:00:03	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	public.me.com-wkharris.warc.gz	3137969308
+wkharris	web.me.com	2012-04-07 04:04:16	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4860.tar	web.me.com-wkharris.warc.gz	366159118

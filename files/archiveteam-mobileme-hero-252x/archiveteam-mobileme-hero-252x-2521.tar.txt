@@ -1,12 +1,12 @@
-roverlock	gallery.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	gallery.me.com-roverlock.warc.gz	0
-roverlock	homepage.mac.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	homepage.mac.com-roverlock.warc.gz	0
-roverlock	public.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	public.me.com-roverlock.warc.gz	0
-roverlock	web.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	web.me.com-roverlock.warc.gz	0
-rtkuecker	gallery.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	gallery.me.com-rtkuecker.warc.gz	0
-rtkuecker	homepage.mac.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	homepage.mac.com-rtkuecker.warc.gz	0
-rtkuecker	public.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	public.me.com-rtkuecker.warc.gz	0
-rtkuecker	web.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	web.me.com-rtkuecker.warc.gz	0
-stickyfilms	gallery.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	gallery.me.com-stickyfilms.warc.gz	0
-stickyfilms	homepage.mac.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	homepage.mac.com-stickyfilms.warc.gz	0
-stickyfilms	public.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	public.me.com-stickyfilms.warc.gz	0
-stickyfilms	web.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	web.me.com-stickyfilms.warc.gz	0
+roverlock	gallery.me.com	2012-03-31 23:22:51	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	gallery.me.com-roverlock.warc.gz	788531367
+roverlock	homepage.mac.com	2012-03-31 23:22:51	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	homepage.mac.com-roverlock.warc.gz	4922
+roverlock	public.me.com	2012-03-31 22:33:24	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	public.me.com-roverlock.warc.gz	1041610550
+roverlock	web.me.com	2012-03-31 21:59:28	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	web.me.com-roverlock.warc.gz	155647031
+rtkuecker	gallery.me.com	2012-03-31 18:58:19	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	gallery.me.com-rtkuecker.warc.gz	38844471
+rtkuecker	homepage.mac.com	2012-03-31 18:58:37	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	homepage.mac.com-rtkuecker.warc.gz	4926
+rtkuecker	public.me.com	2012-03-31 18:48:27	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	public.me.com-rtkuecker.warc.gz	1915
+rtkuecker	web.me.com	2012-03-31 18:48:26	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	web.me.com-rtkuecker.warc.gz	82439690
+stickyfilms	gallery.me.com	2012-03-31 20:51:38	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	gallery.me.com-stickyfilms.warc.gz	1085806686
+stickyfilms	homepage.mac.com	2012-03-31 20:51:48	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	homepage.mac.com-stickyfilms.warc.gz	137440
+stickyfilms	public.me.com	2012-03-31 19:36:34	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	public.me.com-stickyfilms.warc.gz	983568909
+stickyfilms	web.me.com	2012-03-31 19:28:47	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2521.tar	web.me.com-stickyfilms.warc.gz	581143416

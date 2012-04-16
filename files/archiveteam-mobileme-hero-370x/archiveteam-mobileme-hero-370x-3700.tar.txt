@@ -1,20 +1,20 @@
-fkchiang	gallery.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	gallery.me.com-fkchiang.warc.gz	0
-fkchiang	homepage.mac.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	homepage.mac.com-fkchiang.warc.gz	0
-fkchiang	public.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	public.me.com-fkchiang.warc.gz	0
-fkchiang	web.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	web.me.com-fkchiang.warc.gz	0
-gesimms	gallery.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	gallery.me.com-gesimms.warc.gz	0
-gesimms	homepage.mac.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	homepage.mac.com-gesimms.warc.gz	0
-gesimms	public.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	public.me.com-gesimms.warc.gz	0
-gesimms	web.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	web.me.com-gesimms.warc.gz	0
-jldabell	gallery.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	gallery.me.com-jldabell.warc.gz	0
-jldabell	homepage.mac.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	homepage.mac.com-jldabell.warc.gz	0
-jldabell	public.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	public.me.com-jldabell.warc.gz	0
-jldabell	web.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	web.me.com-jldabell.warc.gz	0
-pixeldargent	gallery.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	gallery.me.com-pixeldargent.warc.gz	0
-pixeldargent	homepage.mac.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	homepage.mac.com-pixeldargent.warc.gz	0
-pixeldargent	public.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	public.me.com-pixeldargent.warc.gz	0
-pixeldargent	web.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	web.me.com-pixeldargent.warc.gz	0
-vinnydepass	gallery.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	gallery.me.com-vinnydepass.warc.gz	0
-vinnydepass	homepage.mac.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	homepage.mac.com-vinnydepass.warc.gz	0
-vinnydepass	public.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	public.me.com-vinnydepass.warc.gz	0
-vinnydepass	web.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	web.me.com-vinnydepass.warc.gz	0
+fkchiang	gallery.me.com	2012-04-04 03:14:44	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	gallery.me.com-fkchiang.warc.gz	4286
+fkchiang	homepage.mac.com	2012-04-04 03:14:45	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	homepage.mac.com-fkchiang.warc.gz	4903
+fkchiang	public.me.com	2012-04-04 03:14:44	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	public.me.com-fkchiang.warc.gz	1916
+fkchiang	web.me.com	2012-04-04 03:14:44	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	web.me.com-fkchiang.warc.gz	14204420
+gesimms	gallery.me.com	2012-04-04 03:14:05	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	gallery.me.com-gesimms.warc.gz	4222
+gesimms	homepage.mac.com	2012-04-04 03:14:06	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	homepage.mac.com-gesimms.warc.gz	4885
+gesimms	public.me.com	2012-04-04 03:14:04	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	public.me.com-gesimms.warc.gz	1909
+gesimms	web.me.com	2012-04-04 03:14:04	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	web.me.com-gesimms.warc.gz	101751530
+jldabell	gallery.me.com	2012-04-04 06:17:21	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	gallery.me.com-jldabell.warc.gz	2740980489
+jldabell	homepage.mac.com	2012-04-04 06:17:21	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	homepage.mac.com-jldabell.warc.gz	4918
+jldabell	public.me.com	2012-04-04 05:35:32	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	public.me.com-jldabell.warc.gz	192806461
+jldabell	web.me.com	2012-04-04 05:32:09	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	web.me.com-jldabell.warc.gz	1132929468
+pixeldargent	gallery.me.com	2012-04-04 04:03:56	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	gallery.me.com-pixeldargent.warc.gz	119576308
+pixeldargent	homepage.mac.com	2012-04-04 04:03:56	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	homepage.mac.com-pixeldargent.warc.gz	4914
+pixeldargent	public.me.com	2012-04-04 04:02:21	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	public.me.com-pixeldargent.warc.gz	3554
+pixeldargent	web.me.com	2012-04-04 04:02:08	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	web.me.com-pixeldargent.warc.gz	818540088
+vinnydepass	gallery.me.com	2012-04-04 04:33:13	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	gallery.me.com-vinnydepass.warc.gz	881610683
+vinnydepass	homepage.mac.com	2012-04-04 04:33:59	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	homepage.mac.com-vinnydepass.warc.gz	1050709
+vinnydepass	public.me.com	2012-04-04 04:18:16	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	public.me.com-vinnydepass.warc.gz	441727268
+vinnydepass	web.me.com	2012-04-04 04:10:32	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3700.tar	web.me.com-vinnydepass.warc.gz	75645702

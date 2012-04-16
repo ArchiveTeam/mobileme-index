@@ -1,24 +1,24 @@
-cklegan	gallery.me.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	gallery.me.com-cklegan.warc.gz	0
-cklegan	homepage.mac.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	homepage.mac.com-cklegan.warc.gz	0
-cklegan	public.me.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	public.me.com-cklegan.warc.gz	0
-cklegan	web.me.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	web.me.com-cklegan.warc.gz	0
-eric.j.lovell	gallery.me.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	gallery.me.com-eric.j.lovell.warc.gz	0
-eric.j.lovell	homepage.mac.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	homepage.mac.com-eric.j.lovell.warc.gz	0
-eric.j.lovell	public.me.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	public.me.com-eric.j.lovell.warc.gz	0
-eric.j.lovell	web.me.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	web.me.com-eric.j.lovell.warc.gz	0
-fabriziolupo57	gallery.me.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	gallery.me.com-fabriziolupo57.warc.gz	0
-fabriziolupo57	homepage.mac.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	homepage.mac.com-fabriziolupo57.warc.gz	0
-fabriziolupo57	public.me.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	public.me.com-fabriziolupo57.warc.gz	0
-fabriziolupo57	web.me.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	web.me.com-fabriziolupo57.warc.gz	0
-laurencefjackson	gallery.me.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	gallery.me.com-laurencefjackson.warc.gz	0
-laurencefjackson	homepage.mac.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	homepage.mac.com-laurencefjackson.warc.gz	0
-laurencefjackson	public.me.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	public.me.com-laurencefjackson.warc.gz	0
-laurencefjackson	web.me.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	web.me.com-laurencefjackson.warc.gz	0
-sallyorwin	gallery.me.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	gallery.me.com-sallyorwin.warc.gz	0
-sallyorwin	homepage.mac.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	homepage.mac.com-sallyorwin.warc.gz	0
-sallyorwin	public.me.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	public.me.com-sallyorwin.warc.gz	0
-sallyorwin	web.me.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	web.me.com-sallyorwin.warc.gz	0
-skupresanin	gallery.me.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	gallery.me.com-skupresanin.warc.gz	0
-skupresanin	homepage.mac.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	homepage.mac.com-skupresanin.warc.gz	0
-skupresanin	public.me.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	public.me.com-skupresanin.warc.gz	0
-skupresanin	web.me.com		archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	web.me.com-skupresanin.warc.gz	0
+cklegan	gallery.me.com	2012-04-13 06:01:49	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	gallery.me.com-cklegan.warc.gz	424634420
+cklegan	homepage.mac.com	2012-04-13 06:02:44	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	homepage.mac.com-cklegan.warc.gz	3224221
+cklegan	public.me.com	2012-04-13 05:58:52	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	public.me.com-cklegan.warc.gz	1920
+cklegan	web.me.com	2012-04-13 05:58:51	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	web.me.com-cklegan.warc.gz	188715514
+eric.j.lovell	gallery.me.com	2012-04-13 05:57:00	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	gallery.me.com-eric.j.lovell.warc.gz	136008325
+eric.j.lovell	homepage.mac.com	2012-04-13 05:57:00	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	homepage.mac.com-eric.j.lovell.warc.gz	4925
+eric.j.lovell	public.me.com	2012-04-13 05:54:35	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	public.me.com-eric.j.lovell.warc.gz	2271924870
+eric.j.lovell	web.me.com	2012-04-13 05:27:37	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	web.me.com-eric.j.lovell.warc.gz	92825541
+fabriziolupo57	gallery.me.com	2012-04-13 06:09:35	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	gallery.me.com-fabriziolupo57.warc.gz	4289
+fabriziolupo57	homepage.mac.com	2012-04-13 06:09:35	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	homepage.mac.com-fabriziolupo57.warc.gz	4930
+fabriziolupo57	public.me.com	2012-04-13 06:09:34	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	public.me.com-fabriziolupo57.warc.gz	103532938
+fabriziolupo57	web.me.com	2012-04-13 06:07:46	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	web.me.com-fabriziolupo57.warc.gz	40233276
+laurencefjackson	gallery.me.com	2012-04-13 07:54:58	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	gallery.me.com-laurencefjackson.warc.gz	4829047583
+laurencefjackson	homepage.mac.com	2012-04-13 07:54:58	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	homepage.mac.com-laurencefjackson.warc.gz	4952
+laurencefjackson	public.me.com	2012-04-13 06:44:48	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	public.me.com-laurencefjackson.warc.gz	2223404897
+laurencefjackson	web.me.com	2012-04-13 06:25:13	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	web.me.com-laurencefjackson.warc.gz	304561342
+sallyorwin	gallery.me.com	2012-04-13 06:04:22	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	gallery.me.com-sallyorwin.warc.gz	5224
+sallyorwin	homepage.mac.com	2012-04-13 06:04:23	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	homepage.mac.com-sallyorwin.warc.gz	4910
+sallyorwin	public.me.com	2012-04-13 06:04:21	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	public.me.com-sallyorwin.warc.gz	19310239
+sallyorwin	web.me.com	2012-04-13 06:04:13	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	web.me.com-sallyorwin.warc.gz	3505476
+skupresanin	gallery.me.com	2012-04-13 06:09:39	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	gallery.me.com-skupresanin.warc.gz	12324
+skupresanin	homepage.mac.com	2012-04-13 06:09:39	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	homepage.mac.com-skupresanin.warc.gz	7155
+skupresanin	public.me.com	2012-04-13 06:09:38	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	public.me.com-skupresanin.warc.gz	1937
+skupresanin	web.me.com	2012-04-13 06:09:38	archiveteam-mobileme-hero-719x	archiveteam-mobileme-hero-719x-7198.tar	web.me.com-skupresanin.warc.gz	22491

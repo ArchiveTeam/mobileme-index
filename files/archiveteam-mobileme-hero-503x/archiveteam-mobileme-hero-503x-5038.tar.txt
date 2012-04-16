@@ -1,16 +1,16 @@
-davidmayer_0827	gallery.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	gallery.me.com-davidmayer_0827.warc.gz	0
-davidmayer_0827	homepage.mac.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	homepage.mac.com-davidmayer_0827.warc.gz	0
-davidmayer_0827	public.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	public.me.com-davidmayer_0827.warc.gz	0
-davidmayer_0827	web.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	web.me.com-davidmayer_0827.warc.gz	0
-elauesen	gallery.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	gallery.me.com-elauesen.warc.gz	0
-elauesen	homepage.mac.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	homepage.mac.com-elauesen.warc.gz	0
-elauesen	public.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	public.me.com-elauesen.warc.gz	0
-elauesen	web.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	web.me.com-elauesen.warc.gz	0
-maychanlau	gallery.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	gallery.me.com-maychanlau.warc.gz	0
-maychanlau	homepage.mac.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	homepage.mac.com-maychanlau.warc.gz	0
-maychanlau	public.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	public.me.com-maychanlau.warc.gz	0
-maychanlau	web.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	web.me.com-maychanlau.warc.gz	0
-roxisy	gallery.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	gallery.me.com-roxisy.warc.gz	0
-roxisy	homepage.mac.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	homepage.mac.com-roxisy.warc.gz	0
-roxisy	public.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	public.me.com-roxisy.warc.gz	0
-roxisy	web.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	web.me.com-roxisy.warc.gz	0
+davidmayer_0827	gallery.me.com	2012-04-08 00:32:26	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	gallery.me.com-davidmayer_0827.warc.gz	8446934412
+davidmayer_0827	homepage.mac.com	2012-04-08 00:32:29	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	homepage.mac.com-davidmayer_0827.warc.gz	97727
+davidmayer_0827	public.me.com	2012-04-07 22:15:14	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	public.me.com-davidmayer_0827.warc.gz	1931
+davidmayer_0827	web.me.com	2012-04-07 22:09:57	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	web.me.com-davidmayer_0827.warc.gz	2600499759
+elauesen	gallery.me.com	2012-04-07 16:58:07	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	gallery.me.com-elauesen.warc.gz	4248
+elauesen	homepage.mac.com	2012-04-07 16:58:08	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	homepage.mac.com-elauesen.warc.gz	4916
+elauesen	public.me.com	2012-04-07 16:58:07	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	public.me.com-elauesen.warc.gz	1918
+elauesen	web.me.com	2012-04-07 16:58:06	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	web.me.com-elauesen.warc.gz	2771806
+maychanlau	gallery.me.com	2012-04-07 19:22:25	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	gallery.me.com-maychanlau.warc.gz	61781
+maychanlau	homepage.mac.com	2012-04-07 19:22:26	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	homepage.mac.com-maychanlau.warc.gz	4912
+maychanlau	public.me.com	2012-04-07 19:22:19	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	public.me.com-maychanlau.warc.gz	1924
+maychanlau	web.me.com	2012-04-07 19:21:42	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	web.me.com-maychanlau.warc.gz	1622707548
+roxisy	gallery.me.com	2012-04-07 16:59:12	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	gallery.me.com-roxisy.warc.gz	16975818
+roxisy	homepage.mac.com	2012-04-07 16:59:12	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	homepage.mac.com-roxisy.warc.gz	4890
+roxisy	public.me.com	2012-04-07 16:58:32	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	public.me.com-roxisy.warc.gz	3323
+roxisy	web.me.com	2012-04-07 16:58:32	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5038.tar	web.me.com-roxisy.warc.gz	951301

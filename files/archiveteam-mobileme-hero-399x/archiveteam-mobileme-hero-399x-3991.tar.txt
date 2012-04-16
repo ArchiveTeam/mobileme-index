@@ -1,12 +1,12 @@
-classicalartbydesign	gallery.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	gallery.me.com-classicalartbydesign.warc.gz	0
-classicalartbydesign	homepage.mac.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	homepage.mac.com-classicalartbydesign.warc.gz	0
-classicalartbydesign	public.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	public.me.com-classicalartbydesign.warc.gz	0
-classicalartbydesign	web.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	web.me.com-classicalartbydesign.warc.gz	0
-tinoman	gallery.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	gallery.me.com-tinoman.warc.gz	0
-tinoman	homepage.mac.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	homepage.mac.com-tinoman.warc.gz	0
-tinoman	public.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	public.me.com-tinoman.warc.gz	0
-tinoman	web.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	web.me.com-tinoman.warc.gz	0
-wongrus	gallery.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	gallery.me.com-wongrus.warc.gz	0
-wongrus	homepage.mac.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	homepage.mac.com-wongrus.warc.gz	0
-wongrus	public.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	public.me.com-wongrus.warc.gz	0
-wongrus	web.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	web.me.com-wongrus.warc.gz	0
+classicalartbydesign	gallery.me.com	2012-04-04 21:35:23	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	gallery.me.com-classicalartbydesign.warc.gz	12356
+classicalartbydesign	homepage.mac.com	2012-04-04 21:35:25	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	homepage.mac.com-classicalartbydesign.warc.gz	7188
+classicalartbydesign	public.me.com	2012-04-04 21:35:21	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	public.me.com-classicalartbydesign.warc.gz	1939
+classicalartbydesign	web.me.com	2012-04-04 21:35:21	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	web.me.com-classicalartbydesign.warc.gz	22562
+tinoman	gallery.me.com	2012-04-04 23:03:19	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	gallery.me.com-tinoman.warc.gz	3908167062
+tinoman	homepage.mac.com	2012-04-04 23:03:22	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	homepage.mac.com-tinoman.warc.gz	4908
+tinoman	public.me.com	2012-04-04 22:13:25	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	public.me.com-tinoman.warc.gz	1911
+tinoman	web.me.com	2012-04-04 22:13:22	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	web.me.com-tinoman.warc.gz	727787899
+wongrus	gallery.me.com	2012-04-04 21:36:49	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	gallery.me.com-wongrus.warc.gz	5121
+wongrus	homepage.mac.com	2012-04-04 21:36:57	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	homepage.mac.com-wongrus.warc.gz	101619
+wongrus	public.me.com	2012-04-04 21:36:48	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	public.me.com-wongrus.warc.gz	1909
+wongrus	web.me.com	2012-04-04 21:36:47	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3991.tar	web.me.com-wongrus.warc.gz	3111679

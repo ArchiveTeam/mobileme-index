@@ -1,20 +1,20 @@
-jodywickersham	gallery.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	gallery.me.com-jodywickersham.warc.gz	0
-jodywickersham	homepage.mac.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	homepage.mac.com-jodywickersham.warc.gz	0
-jodywickersham	public.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	public.me.com-jodywickersham.warc.gz	0
-jodywickersham	web.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	web.me.com-jodywickersham.warc.gz	0
-l.k.smith	gallery.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	gallery.me.com-l.k.smith.warc.gz	0
-l.k.smith	homepage.mac.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	homepage.mac.com-l.k.smith.warc.gz	0
-l.k.smith	public.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	public.me.com-l.k.smith.warc.gz	0
-l.k.smith	web.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	web.me.com-l.k.smith.warc.gz	0
-rc.scott	gallery.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	gallery.me.com-rc.scott.warc.gz	0
-rc.scott	homepage.mac.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	homepage.mac.com-rc.scott.warc.gz	0
-rc.scott	public.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	public.me.com-rc.scott.warc.gz	0
-rc.scott	web.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	web.me.com-rc.scott.warc.gz	0
-wiki	gallery.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	gallery.me.com-wiki.warc.gz	0
-wiki	homepage.mac.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	homepage.mac.com-wiki.warc.gz	0
-wiki	public.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	public.me.com-wiki.warc.gz	0
-wiki	web.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	web.me.com-wiki.warc.gz	0
-wipeout	gallery.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	gallery.me.com-wipeout.warc.gz	0
-wipeout	homepage.mac.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	homepage.mac.com-wipeout.warc.gz	0
-wipeout	public.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	public.me.com-wipeout.warc.gz	0
-wipeout	web.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	web.me.com-wipeout.warc.gz	0
+jodywickersham	gallery.me.com	2012-04-03 11:27:19	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	gallery.me.com-jodywickersham.warc.gz	400549
+jodywickersham	homepage.mac.com	2012-04-03 11:27:57	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	homepage.mac.com-jodywickersham.warc.gz	546678
+jodywickersham	public.me.com	2012-04-03 11:27:16	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	public.me.com-jodywickersham.warc.gz	1854473986
+jodywickersham	web.me.com	2012-04-03 10:55:49	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	web.me.com-jodywickersham.warc.gz	215668232
+l.k.smith	gallery.me.com	2012-04-03 10:45:21	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	gallery.me.com-l.k.smith.warc.gz	4252
+l.k.smith	homepage.mac.com	2012-04-03 10:45:21	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	homepage.mac.com-l.k.smith.warc.gz	4896
+l.k.smith	public.me.com	2012-04-03 10:45:20	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	public.me.com-l.k.smith.warc.gz	1917
+l.k.smith	web.me.com	2012-04-03 10:45:19	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	web.me.com-l.k.smith.warc.gz	147302919
+rc.scott	gallery.me.com	2012-04-03 14:31:41	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	gallery.me.com-rc.scott.warc.gz	1815025958
+rc.scott	homepage.mac.com	2012-04-03 14:31:42	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	homepage.mac.com-rc.scott.warc.gz	7814
+rc.scott	public.me.com	2012-04-03 13:34:33	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	public.me.com-rc.scott.warc.gz	3511
+rc.scott	web.me.com	2012-04-03 13:34:25	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	web.me.com-rc.scott.warc.gz	1149288746
+wiki	gallery.me.com	2012-04-03 12:26:20	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	gallery.me.com-wiki.warc.gz	5131
+wiki	homepage.mac.com	2012-04-03 12:26:20	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	homepage.mac.com-wiki.warc.gz	4879
+wiki	public.me.com	2012-04-03 12:26:18	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	public.me.com-wiki.warc.gz	1907
+wiki	web.me.com	2012-04-03 12:26:17	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	web.me.com-wiki.warc.gz	679248385
+wipeout	gallery.me.com	2012-04-03 11:47:49	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	gallery.me.com-wipeout.warc.gz	399758981
+wipeout	homepage.mac.com	2012-04-03 11:47:49	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	homepage.mac.com-wipeout.warc.gz	4904
+wipeout	public.me.com	2012-04-03 11:41:07	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	public.me.com-wipeout.warc.gz	1910
+wipeout	web.me.com	2012-04-03 11:41:07	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3451.tar	web.me.com-wipeout.warc.gz	139997062

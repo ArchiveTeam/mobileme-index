@@ -1,12 +1,12 @@
-arlen_carey	gallery.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	gallery.me.com-arlen_carey.warc.gz	0
-arlen_carey	homepage.mac.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	homepage.mac.com-arlen_carey.warc.gz	0
-arlen_carey	public.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	public.me.com-arlen_carey.warc.gz	0
-arlen_carey	web.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	web.me.com-arlen_carey.warc.gz	0
-benpomerantz	gallery.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	gallery.me.com-benpomerantz.warc.gz	0
-benpomerantz	homepage.mac.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	homepage.mac.com-benpomerantz.warc.gz	0
-benpomerantz	public.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	public.me.com-benpomerantz.warc.gz	0
-benpomerantz	web.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	web.me.com-benpomerantz.warc.gz	0
-conboyshannon	gallery.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	gallery.me.com-conboyshannon.warc.gz	0
-conboyshannon	homepage.mac.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	homepage.mac.com-conboyshannon.warc.gz	0
-conboyshannon	public.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	public.me.com-conboyshannon.warc.gz	0
-conboyshannon	web.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	web.me.com-conboyshannon.warc.gz	0
+arlen_carey	gallery.me.com	2012-04-04 13:54:10	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	gallery.me.com-arlen_carey.warc.gz	10830859
+arlen_carey	homepage.mac.com	2012-04-04 13:54:12	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	homepage.mac.com-arlen_carey.warc.gz	41277
+arlen_carey	public.me.com	2012-04-04 13:53:57	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	public.me.com-arlen_carey.warc.gz	28169192
+arlen_carey	web.me.com	2012-04-04 13:53:27	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	web.me.com-arlen_carey.warc.gz	350675439
+benpomerantz	gallery.me.com	2012-04-04 13:18:16	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	gallery.me.com-benpomerantz.warc.gz	455410100
+benpomerantz	homepage.mac.com	2012-04-04 13:18:19	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	homepage.mac.com-benpomerantz.warc.gz	204638
+benpomerantz	public.me.com	2012-04-04 13:10:52	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	public.me.com-benpomerantz.warc.gz	1927
+benpomerantz	web.me.com	2012-04-04 13:10:52	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	web.me.com-benpomerantz.warc.gz	65496359
+conboyshannon	gallery.me.com	2012-04-04 17:16:39	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	gallery.me.com-conboyshannon.warc.gz	5042
+conboyshannon	homepage.mac.com	2012-04-04 17:16:39	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	homepage.mac.com-conboyshannon.warc.gz	4929
+conboyshannon	public.me.com	2012-04-04 17:16:38	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	public.me.com-conboyshannon.warc.gz	6137356513
+conboyshannon	web.me.com	2012-04-04 15:45:26	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3894.tar	web.me.com-conboyshannon.warc.gz	8146905302

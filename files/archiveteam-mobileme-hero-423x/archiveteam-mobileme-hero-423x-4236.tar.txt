@@ -1,28 +1,28 @@
-cowgirltricks	gallery.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	gallery.me.com-cowgirltricks.warc.gz	0
-cowgirltricks	homepage.mac.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	homepage.mac.com-cowgirltricks.warc.gz	0
-cowgirltricks	public.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	public.me.com-cowgirltricks.warc.gz	0
-cowgirltricks	web.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	web.me.com-cowgirltricks.warc.gz	0
-jslipkin	gallery.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	gallery.me.com-jslipkin.warc.gz	0
-jslipkin	homepage.mac.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	homepage.mac.com-jslipkin.warc.gz	0
-jslipkin	public.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	public.me.com-jslipkin.warc.gz	0
-jslipkin	web.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	web.me.com-jslipkin.warc.gz	0
-mamadavis	gallery.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	gallery.me.com-mamadavis.warc.gz	0
-mamadavis	homepage.mac.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	homepage.mac.com-mamadavis.warc.gz	0
-mamadavis	public.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	public.me.com-mamadavis.warc.gz	0
-mamadavis	web.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	web.me.com-mamadavis.warc.gz	0
-margaretakin	gallery.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	gallery.me.com-margaretakin.warc.gz	0
-margaretakin	homepage.mac.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	homepage.mac.com-margaretakin.warc.gz	0
-margaretakin	public.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	public.me.com-margaretakin.warc.gz	0
-margaretakin	web.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	web.me.com-margaretakin.warc.gz	0
-teallen	gallery.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	gallery.me.com-teallen.warc.gz	0
-teallen	homepage.mac.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	homepage.mac.com-teallen.warc.gz	0
-teallen	public.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	public.me.com-teallen.warc.gz	0
-teallen	web.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	web.me.com-teallen.warc.gz	0
-tricialees	gallery.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	gallery.me.com-tricialees.warc.gz	0
-tricialees	homepage.mac.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	homepage.mac.com-tricialees.warc.gz	0
-tricialees	public.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	public.me.com-tricialees.warc.gz	0
-tricialees	web.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	web.me.com-tricialees.warc.gz	0
-wyomingmom	gallery.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	gallery.me.com-wyomingmom.warc.gz	0
-wyomingmom	homepage.mac.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	homepage.mac.com-wyomingmom.warc.gz	0
-wyomingmom	public.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	public.me.com-wyomingmom.warc.gz	0
-wyomingmom	web.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	web.me.com-wyomingmom.warc.gz	0
+cowgirltricks	gallery.me.com	2012-04-05 11:12:34	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	gallery.me.com-cowgirltricks.warc.gz	107894758
+cowgirltricks	homepage.mac.com	2012-04-05 11:12:35	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	homepage.mac.com-cowgirltricks.warc.gz	4930
+cowgirltricks	public.me.com	2012-04-05 11:11:38	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	public.me.com-cowgirltricks.warc.gz	1919
+cowgirltricks	web.me.com	2012-04-05 11:11:37	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	web.me.com-cowgirltricks.warc.gz	255586596
+jslipkin	gallery.me.com	2012-04-05 10:40:27	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	gallery.me.com-jslipkin.warc.gz	736910747
+jslipkin	homepage.mac.com	2012-04-05 10:40:29	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	homepage.mac.com-jslipkin.warc.gz	54702
+jslipkin	public.me.com	2012-04-05 10:23:01	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	public.me.com-jslipkin.warc.gz	75388062
+jslipkin	web.me.com	2012-04-05 10:21:14	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	web.me.com-jslipkin.warc.gz	132033877
+mamadavis	gallery.me.com	2012-04-05 11:25:47	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	gallery.me.com-mamadavis.warc.gz	270020286
+mamadavis	homepage.mac.com	2012-04-05 11:25:49	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	homepage.mac.com-mamadavis.warc.gz	66017
+mamadavis	public.me.com	2012-04-05 11:24:17	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	public.me.com-mamadavis.warc.gz	9887737
+mamadavis	web.me.com	2012-04-05 11:23:58	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	web.me.com-mamadavis.warc.gz	3606722
+margaretakin	gallery.me.com	2012-04-05 10:43:01	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	gallery.me.com-margaretakin.warc.gz	22178569
+margaretakin	homepage.mac.com	2012-04-05 10:43:01	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	homepage.mac.com-margaretakin.warc.gz	4908
+margaretakin	public.me.com	2012-04-05 10:42:18	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	public.me.com-margaretakin.warc.gz	1930
+margaretakin	web.me.com	2012-04-05 10:42:18	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	web.me.com-margaretakin.warc.gz	23958577
+teallen	gallery.me.com	2012-04-05 11:22:27	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	gallery.me.com-teallen.warc.gz	259553064
+teallen	homepage.mac.com	2012-04-05 11:22:32	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	homepage.mac.com-teallen.warc.gz	121446
+teallen	public.me.com	2012-04-05 11:16:58	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	public.me.com-teallen.warc.gz	1911
+teallen	web.me.com	2012-04-05 11:16:57	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	web.me.com-teallen.warc.gz	201410653
+tricialees	gallery.me.com	2012-04-05 11:28:58	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	gallery.me.com-tricialees.warc.gz	5041
+tricialees	homepage.mac.com	2012-04-05 11:28:58	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	homepage.mac.com-tricialees.warc.gz	4920
+tricialees	public.me.com	2012-04-05 11:28:57	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	public.me.com-tricialees.warc.gz	1918
+tricialees	web.me.com	2012-04-05 11:28:56	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	web.me.com-tricialees.warc.gz	17174774
+wyomingmom	gallery.me.com	2012-04-05 12:30:09	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	gallery.me.com-wyomingmom.warc.gz	1096275337
+wyomingmom	homepage.mac.com	2012-04-05 12:30:09	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	homepage.mac.com-wyomingmom.warc.gz	7861
+wyomingmom	public.me.com	2012-04-05 12:03:41	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	public.me.com-wyomingmom.warc.gz	1188837766
+wyomingmom	web.me.com	2012-04-05 11:56:53	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4236.tar	web.me.com-wyomingmom.warc.gz	590980347

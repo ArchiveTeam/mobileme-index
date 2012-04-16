@@ -1,16 +1,16 @@
-christopheboncens	gallery.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	gallery.me.com-christopheboncens.warc.gz	0
-christopheboncens	homepage.mac.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	homepage.mac.com-christopheboncens.warc.gz	0
-christopheboncens	public.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	public.me.com-christopheboncens.warc.gz	0
-christopheboncens	web.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	web.me.com-christopheboncens.warc.gz	0
-djkhont	gallery.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	gallery.me.com-djkhont.warc.gz	0
-djkhont	homepage.mac.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	homepage.mac.com-djkhont.warc.gz	0
-djkhont	public.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	public.me.com-djkhont.warc.gz	0
-djkhont	web.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	web.me.com-djkhont.warc.gz	0
-gilllaur	gallery.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	gallery.me.com-gilllaur.warc.gz	0
-gilllaur	homepage.mac.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	homepage.mac.com-gilllaur.warc.gz	0
-gilllaur	public.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	public.me.com-gilllaur.warc.gz	0
-gilllaur	web.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	web.me.com-gilllaur.warc.gz	0
-martinjolicoeur	gallery.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	gallery.me.com-martinjolicoeur.warc.gz	0
-martinjolicoeur	homepage.mac.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	homepage.mac.com-martinjolicoeur.warc.gz	0
-martinjolicoeur	public.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	public.me.com-martinjolicoeur.warc.gz	0
-martinjolicoeur	web.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	web.me.com-martinjolicoeur.warc.gz	0
+christopheboncens	gallery.me.com	2012-04-12 13:07:50	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	gallery.me.com-christopheboncens.warc.gz	4290
+christopheboncens	homepage.mac.com	2012-04-12 13:07:50	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	homepage.mac.com-christopheboncens.warc.gz	4926
+christopheboncens	public.me.com	2012-04-12 13:07:49	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	public.me.com-christopheboncens.warc.gz	1935
+christopheboncens	web.me.com	2012-04-12 13:07:48	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	web.me.com-christopheboncens.warc.gz	31663440
+djkhont	gallery.me.com	2012-04-12 15:02:46	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	gallery.me.com-djkhont.warc.gz	2568963653
+djkhont	homepage.mac.com	2012-04-12 15:02:47	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	homepage.mac.com-djkhont.warc.gz	7871
+djkhont	public.me.com	2012-04-12 13:27:47	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	public.me.com-djkhont.warc.gz	13817735
+djkhont	web.me.com	2012-04-12 13:26:51	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	web.me.com-djkhont.warc.gz	77576484
+gilllaur	gallery.me.com	2012-04-12 17:32:33	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	gallery.me.com-gilllaur.warc.gz	1333993431
+gilllaur	homepage.mac.com	2012-04-12 17:32:34	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	homepage.mac.com-gilllaur.warc.gz	4908
+gilllaur	public.me.com	2012-04-12 15:56:51	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	public.me.com-gilllaur.warc.gz	1910
+gilllaur	web.me.com	2012-04-12 15:56:50	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	web.me.com-gilllaur.warc.gz	62699696
+martinjolicoeur	gallery.me.com	2012-04-12 15:28:02	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	gallery.me.com-martinjolicoeur.warc.gz	251233883
+martinjolicoeur	homepage.mac.com	2012-04-12 15:28:02	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	homepage.mac.com-martinjolicoeur.warc.gz	4917
+martinjolicoeur	public.me.com	2012-04-12 15:09:05	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	public.me.com-martinjolicoeur.warc.gz	45915331
+martinjolicoeur	web.me.com	2012-04-12 15:08:07	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6883.tar	web.me.com-martinjolicoeur.warc.gz	7524564

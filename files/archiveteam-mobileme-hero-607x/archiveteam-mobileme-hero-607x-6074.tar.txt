@@ -1,12 +1,12 @@
-adruzsba	gallery.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	gallery.me.com-adruzsba.warc.gz	0
-adruzsba	homepage.mac.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	homepage.mac.com-adruzsba.warc.gz	0
-adruzsba	public.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	public.me.com-adruzsba.warc.gz	0
-adruzsba	web.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	web.me.com-adruzsba.warc.gz	0
-kevho1	gallery.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	gallery.me.com-kevho1.warc.gz	0
-kevho1	homepage.mac.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	homepage.mac.com-kevho1.warc.gz	0
-kevho1	public.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	public.me.com-kevho1.warc.gz	0
-kevho1	web.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	web.me.com-kevho1.warc.gz	0
-smaaaash	gallery.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	gallery.me.com-smaaaash.warc.gz	0
-smaaaash	homepage.mac.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	homepage.mac.com-smaaaash.warc.gz	0
-smaaaash	public.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	public.me.com-smaaaash.warc.gz	0
-smaaaash	web.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	web.me.com-smaaaash.warc.gz	0
+adruzsba	gallery.me.com	2012-04-10 19:20:40	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	gallery.me.com-adruzsba.warc.gz	57904082
+adruzsba	homepage.mac.com	2012-04-10 19:20:40	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	homepage.mac.com-adruzsba.warc.gz	4910
+adruzsba	public.me.com	2012-04-10 19:19:58	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	public.me.com-adruzsba.warc.gz	12618
+adruzsba	web.me.com	2012-04-10 19:19:57	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	web.me.com-adruzsba.warc.gz	46148605
+kevho1	gallery.me.com	2012-04-10 20:43:56	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	gallery.me.com-kevho1.warc.gz	5939031673
+kevho1	homepage.mac.com	2012-04-10 20:43:56	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	homepage.mac.com-kevho1.warc.gz	4905
+kevho1	public.me.com	2012-04-10 19:27:41	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	public.me.com-kevho1.warc.gz	1917
+kevho1	web.me.com	2012-04-10 19:27:41	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	web.me.com-kevho1.warc.gz	21829965
+smaaaash	gallery.me.com	2012-04-10 19:20:43	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	gallery.me.com-smaaaash.warc.gz	12337
+smaaaash	homepage.mac.com	2012-04-10 19:20:44	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	homepage.mac.com-smaaaash.warc.gz	7145
+smaaaash	public.me.com	2012-04-10 19:20:43	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	public.me.com-smaaaash.warc.gz	1917
+smaaaash	web.me.com	2012-04-10 19:20:42	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6074.tar	web.me.com-smaaaash.warc.gz	22509

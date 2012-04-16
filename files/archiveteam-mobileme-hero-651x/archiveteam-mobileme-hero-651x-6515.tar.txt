@@ -1,12 +1,12 @@
-drustar	gallery.me.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	gallery.me.com-drustar.warc.gz	0
-drustar	homepage.mac.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	homepage.mac.com-drustar.warc.gz	0
-drustar	public.me.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	public.me.com-drustar.warc.gz	0
-drustar	web.me.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	web.me.com-drustar.warc.gz	0
-fboklund	gallery.me.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	gallery.me.com-fboklund.warc.gz	0
-fboklund	homepage.mac.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	homepage.mac.com-fboklund.warc.gz	0
-fboklund	public.me.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	public.me.com-fboklund.warc.gz	0
-fboklund	web.me.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	web.me.com-fboklund.warc.gz	0
-kaltmann	gallery.me.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	gallery.me.com-kaltmann.warc.gz	0
-kaltmann	homepage.mac.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	homepage.mac.com-kaltmann.warc.gz	0
-kaltmann	public.me.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	public.me.com-kaltmann.warc.gz	0
-kaltmann	web.me.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	web.me.com-kaltmann.warc.gz	0
+drustar	gallery.me.com	2012-04-11 22:28:56	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	gallery.me.com-drustar.warc.gz	1932850038
+drustar	homepage.mac.com	2012-04-11 22:28:59	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	homepage.mac.com-drustar.warc.gz	149464
+drustar	public.me.com	2012-04-11 17:43:25	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	public.me.com-drustar.warc.gz	1458149268
+drustar	web.me.com	2012-04-11 17:30:10	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	web.me.com-drustar.warc.gz	52864497
+fboklund	gallery.me.com	2012-04-11 17:18:22	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	gallery.me.com-fboklund.warc.gz	5674
+fboklund	homepage.mac.com	2012-04-11 17:18:27	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	homepage.mac.com-fboklund.warc.gz	146271
+fboklund	public.me.com	2012-04-11 17:18:21	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	public.me.com-fboklund.warc.gz	2588293571
+fboklund	web.me.com	2012-04-11 16:23:41	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	web.me.com-fboklund.warc.gz	402618331
+kaltmann	gallery.me.com	2012-04-11 17:23:21	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	gallery.me.com-kaltmann.warc.gz	302044236
+kaltmann	homepage.mac.com	2012-04-11 17:23:59	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	homepage.mac.com-kaltmann.warc.gz	659888
+kaltmann	public.me.com	2012-04-11 17:20:50	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	public.me.com-kaltmann.warc.gz	18142100
+kaltmann	web.me.com	2012-04-11 17:20:22	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6515.tar	web.me.com-kaltmann.warc.gz	93343772

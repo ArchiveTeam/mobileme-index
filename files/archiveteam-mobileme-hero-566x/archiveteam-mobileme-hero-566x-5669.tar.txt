@@ -1,20 +1,20 @@
-c1445331082	gallery.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	gallery.me.com-c1445331082.warc.gz	0
-c1445331082	homepage.mac.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	homepage.mac.com-c1445331082.warc.gz	0
-c1445331082	public.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	public.me.com-c1445331082.warc.gz	0
-c1445331082	web.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	web.me.com-c1445331082.warc.gz	0
-foobarious	gallery.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	gallery.me.com-foobarious.warc.gz	0
-foobarious	homepage.mac.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	homepage.mac.com-foobarious.warc.gz	0
-foobarious	public.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	public.me.com-foobarious.warc.gz	0
-foobarious	web.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	web.me.com-foobarious.warc.gz	0
-hannasmountainworld	gallery.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	gallery.me.com-hannasmountainworld.warc.gz	0
-hannasmountainworld	homepage.mac.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	homepage.mac.com-hannasmountainworld.warc.gz	0
-hannasmountainworld	public.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	public.me.com-hannasmountainworld.warc.gz	0
-hannasmountainworld	web.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	web.me.com-hannasmountainworld.warc.gz	0
-modernpen	gallery.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	gallery.me.com-modernpen.warc.gz	0
-modernpen	homepage.mac.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	homepage.mac.com-modernpen.warc.gz	0
-modernpen	public.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	public.me.com-modernpen.warc.gz	0
-modernpen	web.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	web.me.com-modernpen.warc.gz	0
-rogerbyrne	gallery.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	gallery.me.com-rogerbyrne.warc.gz	0
-rogerbyrne	homepage.mac.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	homepage.mac.com-rogerbyrne.warc.gz	0
-rogerbyrne	public.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	public.me.com-rogerbyrne.warc.gz	0
-rogerbyrne	web.me.com		archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	web.me.com-rogerbyrne.warc.gz	0
+c1445331082	gallery.me.com	2012-04-09 20:09:46	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	gallery.me.com-c1445331082.warc.gz	8374
+c1445331082	homepage.mac.com	2012-04-09 20:09:46	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	homepage.mac.com-c1445331082.warc.gz	5191
+c1445331082	public.me.com	2012-04-09 20:09:44	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	public.me.com-c1445331082.warc.gz	1924
+c1445331082	web.me.com	2012-04-09 20:09:44	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	web.me.com-c1445331082.warc.gz	17714
+foobarious	gallery.me.com	2012-04-09 20:24:04	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	gallery.me.com-foobarious.warc.gz	8355
+foobarious	homepage.mac.com	2012-04-09 20:24:05	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	homepage.mac.com-foobarious.warc.gz	5180
+foobarious	public.me.com	2012-04-09 20:24:04	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	public.me.com-foobarious.warc.gz	1914
+foobarious	web.me.com	2012-04-09 20:24:03	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	web.me.com-foobarious.warc.gz	17702
+hannasmountainworld	gallery.me.com	2012-04-09 20:24:01	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	gallery.me.com-hannasmountainworld.warc.gz	87813614
+hannasmountainworld	homepage.mac.com	2012-04-09 20:24:01	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	homepage.mac.com-hannasmountainworld.warc.gz	4957
+hannasmountainworld	public.me.com	2012-04-09 20:23:10	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	public.me.com-hannasmountainworld.warc.gz	1937
+hannasmountainworld	web.me.com	2012-04-09 20:23:09	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	web.me.com-hannasmountainworld.warc.gz	76158865
+modernpen	gallery.me.com	2012-04-09 20:15:55	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	gallery.me.com-modernpen.warc.gz	5029
+modernpen	homepage.mac.com	2012-04-09 20:15:55	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	homepage.mac.com-modernpen.warc.gz	4919
+modernpen	public.me.com	2012-04-09 20:15:54	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	public.me.com-modernpen.warc.gz	1921
+modernpen	web.me.com	2012-04-09 20:15:54	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	web.me.com-modernpen.warc.gz	25192640
+rogerbyrne	gallery.me.com	2012-04-09 23:20:06	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	gallery.me.com-rogerbyrne.warc.gz	6938820754
+rogerbyrne	homepage.mac.com	2012-04-09 23:20:10	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	homepage.mac.com-rogerbyrne.warc.gz	92913
+rogerbyrne	public.me.com	2012-04-09 20:59:11	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	public.me.com-rogerbyrne.warc.gz	117682822
+rogerbyrne	web.me.com	2012-04-09 20:54:45	archiveteam-mobileme-hero-566x	archiveteam-mobileme-hero-566x-5669.tar	web.me.com-rogerbyrne.warc.gz	351082540

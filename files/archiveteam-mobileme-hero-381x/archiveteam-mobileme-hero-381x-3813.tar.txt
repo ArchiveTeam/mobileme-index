@@ -1,8 +1,8 @@
-dirinella	gallery.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3813.tar	gallery.me.com-dirinella.warc.gz	0
-dirinella	homepage.mac.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3813.tar	homepage.mac.com-dirinella.warc.gz	0
-dirinella	public.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3813.tar	public.me.com-dirinella.warc.gz	0
-dirinella	web.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3813.tar	web.me.com-dirinella.warc.gz	0
-lauman1	gallery.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3813.tar	gallery.me.com-lauman1.warc.gz	0
-lauman1	homepage.mac.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3813.tar	homepage.mac.com-lauman1.warc.gz	0
-lauman1	public.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3813.tar	public.me.com-lauman1.warc.gz	0
-lauman1	web.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3813.tar	web.me.com-lauman1.warc.gz	0
+dirinella	gallery.me.com	2012-04-04 03:28:20	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3813.tar	gallery.me.com-dirinella.warc.gz	9579785
+dirinella	homepage.mac.com	2012-04-04 03:28:20	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3813.tar	homepage.mac.com-dirinella.warc.gz	4899
+dirinella	public.me.com	2012-04-04 03:27:06	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3813.tar	public.me.com-dirinella.warc.gz	1917
+dirinella	web.me.com	2012-04-04 03:27:05	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3813.tar	web.me.com-dirinella.warc.gz	9651737
+lauman1	gallery.me.com	2012-04-04 12:22:43	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3813.tar	gallery.me.com-lauman1.warc.gz	6059331804
+lauman1	homepage.mac.com	2012-04-04 12:22:50	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3813.tar	homepage.mac.com-lauman1.warc.gz	4885
+lauman1	public.me.com	2012-04-04 06:46:14	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3813.tar	public.me.com-lauman1.warc.gz	1915
+lauman1	web.me.com	2012-04-04 06:45:47	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3813.tar	web.me.com-lauman1.warc.gz	2013234870

@@ -1,20 +1,20 @@
-caesax	gallery.me.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	gallery.me.com-caesax.warc.gz	0
-caesax	homepage.mac.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	homepage.mac.com-caesax.warc.gz	0
-caesax	public.me.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	public.me.com-caesax.warc.gz	0
-caesax	web.me.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	web.me.com-caesax.warc.gz	0
-havs	gallery.me.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	gallery.me.com-havs.warc.gz	0
-havs	homepage.mac.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	homepage.mac.com-havs.warc.gz	0
-havs	public.me.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	public.me.com-havs.warc.gz	0
-havs	web.me.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	web.me.com-havs.warc.gz	0
-joachimbergstrom	gallery.me.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	gallery.me.com-joachimbergstrom.warc.gz	0
-joachimbergstrom	homepage.mac.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	homepage.mac.com-joachimbergstrom.warc.gz	0
-joachimbergstrom	public.me.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	public.me.com-joachimbergstrom.warc.gz	0
-joachimbergstrom	web.me.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	web.me.com-joachimbergstrom.warc.gz	0
-msdonovan	gallery.me.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	gallery.me.com-msdonovan.warc.gz	0
-msdonovan	homepage.mac.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	homepage.mac.com-msdonovan.warc.gz	0
-msdonovan	public.me.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	public.me.com-msdonovan.warc.gz	0
-msdonovan	web.me.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	web.me.com-msdonovan.warc.gz	0
-nicolaprotopapadakis	gallery.me.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	gallery.me.com-nicolaprotopapadakis.warc.gz	0
-nicolaprotopapadakis	homepage.mac.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	homepage.mac.com-nicolaprotopapadakis.warc.gz	0
-nicolaprotopapadakis	public.me.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	public.me.com-nicolaprotopapadakis.warc.gz	0
-nicolaprotopapadakis	web.me.com		archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	web.me.com-nicolaprotopapadakis.warc.gz	0
+caesax	gallery.me.com	2012-04-07 22:56:18	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	gallery.me.com-caesax.warc.gz	1308348560
+caesax	homepage.mac.com	2012-04-07 22:56:19	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	homepage.mac.com-caesax.warc.gz	3379
+caesax	public.me.com	2012-04-07 22:34:27	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	public.me.com-caesax.warc.gz	591369021
+caesax	web.me.com	2012-04-07 22:29:18	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	web.me.com-caesax.warc.gz	122865895
+havs	gallery.me.com	2012-04-07 21:27:16	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	gallery.me.com-havs.warc.gz	783735246
+havs	homepage.mac.com	2012-04-07 21:27:16	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	homepage.mac.com-havs.warc.gz	4904
+havs	public.me.com	2012-04-07 21:22:29	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	public.me.com-havs.warc.gz	161079520
+havs	web.me.com	2012-04-07 21:20:22	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	web.me.com-havs.warc.gz	25972898
+joachimbergstrom	gallery.me.com	2012-04-08 00:00:55	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	gallery.me.com-joachimbergstrom.warc.gz	669500279
+joachimbergstrom	homepage.mac.com	2012-04-08 00:00:57	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	homepage.mac.com-joachimbergstrom.warc.gz	36903
+joachimbergstrom	public.me.com	2012-04-07 23:51:11	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	public.me.com-joachimbergstrom.warc.gz	1766089288
+joachimbergstrom	web.me.com	2012-04-07 23:10:20	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	web.me.com-joachimbergstrom.warc.gz	225919390
+msdonovan	gallery.me.com	2012-04-07 21:19:51	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	gallery.me.com-msdonovan.warc.gz	366135154
+msdonovan	homepage.mac.com	2012-04-07 21:19:59	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	homepage.mac.com-msdonovan.warc.gz	102321
+msdonovan	public.me.com	2012-04-07 21:12:13	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	public.me.com-msdonovan.warc.gz	347433
+msdonovan	web.me.com	2012-04-07 21:12:09	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	web.me.com-msdonovan.warc.gz	178563571
+nicolaprotopapadakis	gallery.me.com	2012-04-07 20:58:50	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	gallery.me.com-nicolaprotopapadakis.warc.gz	2016748
+nicolaprotopapadakis	homepage.mac.com	2012-04-07 20:58:50	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	homepage.mac.com-nicolaprotopapadakis.warc.gz	4967
+nicolaprotopapadakis	public.me.com	2012-04-07 20:58:46	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	public.me.com-nicolaprotopapadakis.warc.gz	3361
+nicolaprotopapadakis	web.me.com	2012-04-07 20:58:45	archiveteam-mobileme-hero-501x	archiveteam-mobileme-hero-501x-5018.tar	web.me.com-nicolaprotopapadakis.warc.gz	37323912

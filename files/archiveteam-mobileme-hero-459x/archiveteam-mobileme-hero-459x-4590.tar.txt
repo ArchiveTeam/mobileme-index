@@ -1,8 +1,8 @@
-hija4	gallery.me.com		archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4590.tar	gallery.me.com-hija4.warc.gz	0
-hija4	homepage.mac.com		archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4590.tar	homepage.mac.com-hija4.warc.gz	0
-hija4	public.me.com		archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4590.tar	public.me.com-hija4.warc.gz	0
-hija4	web.me.com		archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4590.tar	web.me.com-hija4.warc.gz	0
-jeffmarsh	gallery.me.com		archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4590.tar	gallery.me.com-jeffmarsh.warc.gz	0
-jeffmarsh	homepage.mac.com		archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4590.tar	homepage.mac.com-jeffmarsh.warc.gz	0
-jeffmarsh	public.me.com		archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4590.tar	public.me.com-jeffmarsh.warc.gz	0
-jeffmarsh	web.me.com		archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4590.tar	web.me.com-jeffmarsh.warc.gz	0
+hija4	gallery.me.com	2012-04-06 08:38:21	archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4590.tar	gallery.me.com-hija4.warc.gz	4678945611
+hija4	homepage.mac.com	2012-04-06 08:38:22	archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4590.tar	homepage.mac.com-hija4.warc.gz	4885
+hija4	public.me.com	2012-04-06 07:44:51	archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4590.tar	public.me.com-hija4.warc.gz	1910
+hija4	web.me.com	2012-04-06 07:44:40	archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4590.tar	web.me.com-hija4.warc.gz	521192520
+jeffmarsh	gallery.me.com	2012-04-06 07:08:19	archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4590.tar	gallery.me.com-jeffmarsh.warc.gz	5776
+jeffmarsh	homepage.mac.com	2012-04-06 07:08:20	archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4590.tar	homepage.mac.com-jeffmarsh.warc.gz	4922
+jeffmarsh	public.me.com	2012-04-06 07:08:18	archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4590.tar	public.me.com-jeffmarsh.warc.gz	1924
+jeffmarsh	web.me.com	2012-04-06 07:08:17	archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4590.tar	web.me.com-jeffmarsh.warc.gz	45297

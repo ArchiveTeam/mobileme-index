@@ -1,28 +1,28 @@
-ajmayers	gallery.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	gallery.me.com-ajmayers.warc.gz	0
-ajmayers	homepage.mac.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	homepage.mac.com-ajmayers.warc.gz	0
-ajmayers	public.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	public.me.com-ajmayers.warc.gz	0
-ajmayers	web.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	web.me.com-ajmayers.warc.gz	0
-core_res	gallery.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	gallery.me.com-core_res.warc.gz	0
-core_res	homepage.mac.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	homepage.mac.com-core_res.warc.gz	0
-core_res	public.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	public.me.com-core_res.warc.gz	0
-core_res	web.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	web.me.com-core_res.warc.gz	0
-gusfilm	gallery.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	gallery.me.com-gusfilm.warc.gz	0
-gusfilm	homepage.mac.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	homepage.mac.com-gusfilm.warc.gz	0
-gusfilm	public.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	public.me.com-gusfilm.warc.gz	0
-gusfilm	web.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	web.me.com-gusfilm.warc.gz	0
-newsaki12	gallery.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	gallery.me.com-newsaki12.warc.gz	0
-newsaki12	homepage.mac.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	homepage.mac.com-newsaki12.warc.gz	0
-newsaki12	public.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	public.me.com-newsaki12.warc.gz	0
-newsaki12	web.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	web.me.com-newsaki12.warc.gz	0
-sid10719_01	gallery.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	gallery.me.com-sid10719_01.warc.gz	0
-sid10719_01	homepage.mac.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	homepage.mac.com-sid10719_01.warc.gz	0
-sid10719_01	public.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	public.me.com-sid10719_01.warc.gz	0
-sid10719_01	web.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	web.me.com-sid10719_01.warc.gz	0
-terau	gallery.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	gallery.me.com-terau.warc.gz	0
-terau	homepage.mac.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	homepage.mac.com-terau.warc.gz	0
-terau	public.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	public.me.com-terau.warc.gz	0
-terau	web.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	web.me.com-terau.warc.gz	0
-wtnesbitt	gallery.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	gallery.me.com-wtnesbitt.warc.gz	0
-wtnesbitt	homepage.mac.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	homepage.mac.com-wtnesbitt.warc.gz	0
-wtnesbitt	public.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	public.me.com-wtnesbitt.warc.gz	0
-wtnesbitt	web.me.com		archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	web.me.com-wtnesbitt.warc.gz	0
+ajmayers	gallery.me.com	2012-04-12 15:46:51	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	gallery.me.com-ajmayers.warc.gz	1803168852
+ajmayers	homepage.mac.com	2012-04-12 15:46:51	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	homepage.mac.com-ajmayers.warc.gz	4906
+ajmayers	public.me.com	2012-04-12 15:28:51	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	public.me.com-ajmayers.warc.gz	1922
+ajmayers	web.me.com	2012-04-12 15:28:48	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	web.me.com-ajmayers.warc.gz	1570407666
+core_res	gallery.me.com	2012-04-12 15:50:37	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	gallery.me.com-core_res.warc.gz	9080217
+core_res	homepage.mac.com	2012-04-12 15:50:37	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	homepage.mac.com-core_res.warc.gz	4921
+core_res	public.me.com	2012-04-12 15:50:23	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	public.me.com-core_res.warc.gz	1915
+core_res	web.me.com	2012-04-12 15:50:22	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	web.me.com-core_res.warc.gz	97147847
+gusfilm	gallery.me.com	2012-04-12 14:12:06	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	gallery.me.com-gusfilm.warc.gz	374607
+gusfilm	homepage.mac.com	2012-04-12 14:12:06	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	homepage.mac.com-gusfilm.warc.gz	4909
+gusfilm	public.me.com	2012-04-12 14:12:03	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	public.me.com-gusfilm.warc.gz	1051212
+gusfilm	web.me.com	2012-04-12 14:11:56	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	web.me.com-gusfilm.warc.gz	501956
+newsaki12	gallery.me.com	2012-04-12 15:47:00	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	gallery.me.com-newsaki12.warc.gz	5031
+newsaki12	homepage.mac.com	2012-04-12 15:47:01	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	homepage.mac.com-newsaki12.warc.gz	4915
+newsaki12	public.me.com	2012-04-12 15:46:59	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	public.me.com-newsaki12.warc.gz	1919
+newsaki12	web.me.com	2012-04-12 15:46:59	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	web.me.com-newsaki12.warc.gz	130423
+sid10719_01	gallery.me.com	2012-04-12 14:45:53	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	gallery.me.com-sid10719_01.warc.gz	5343
+sid10719_01	homepage.mac.com	2012-04-12 14:48:05	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	homepage.mac.com-sid10719_01.warc.gz	3090043
+sid10719_01	public.me.com	2012-04-12 14:45:52	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	public.me.com-sid10719_01.warc.gz	1929
+sid10719_01	web.me.com	2012-04-12 14:45:52	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	web.me.com-sid10719_01.warc.gz	27665337
+terau	gallery.me.com	2012-04-12 14:37:52	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	gallery.me.com-terau.warc.gz	418954648
+terau	homepage.mac.com	2012-04-12 14:37:54	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	homepage.mac.com-terau.warc.gz	36850
+terau	public.me.com	2012-04-12 14:35:11	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	public.me.com-terau.warc.gz	54008556
+terau	web.me.com	2012-04-12 14:33:42	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	web.me.com-terau.warc.gz	381864027
+wtnesbitt	gallery.me.com	2012-04-12 15:46:54	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	gallery.me.com-wtnesbitt.warc.gz	12308
+wtnesbitt	homepage.mac.com	2012-04-12 15:46:54	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	homepage.mac.com-wtnesbitt.warc.gz	7154
+wtnesbitt	public.me.com	2012-04-12 15:46:53	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	public.me.com-wtnesbitt.warc.gz	1916
+wtnesbitt	web.me.com	2012-04-12 15:46:53	archiveteam-mobileme-hero-684x	archiveteam-mobileme-hero-684x-6849.tar	web.me.com-wtnesbitt.warc.gz	22449

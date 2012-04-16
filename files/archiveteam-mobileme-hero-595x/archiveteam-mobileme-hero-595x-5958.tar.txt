@@ -1,8 +1,8 @@
-mandjshane	gallery.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5958.tar	gallery.me.com-mandjshane.warc.gz	0
-mandjshane	homepage.mac.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5958.tar	homepage.mac.com-mandjshane.warc.gz	0
-mandjshane	public.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5958.tar	public.me.com-mandjshane.warc.gz	0
-mandjshane	web.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5958.tar	web.me.com-mandjshane.warc.gz	0
-rblank2	gallery.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5958.tar	gallery.me.com-rblank2.warc.gz	0
-rblank2	homepage.mac.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5958.tar	homepage.mac.com-rblank2.warc.gz	0
-rblank2	public.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5958.tar	public.me.com-rblank2.warc.gz	0
-rblank2	web.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5958.tar	web.me.com-rblank2.warc.gz	0
+mandjshane	gallery.me.com	2012-04-10 13:22:14	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5958.tar	gallery.me.com-mandjshane.warc.gz	3091405096
+mandjshane	homepage.mac.com	2012-04-10 13:22:15	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5958.tar	homepage.mac.com-mandjshane.warc.gz	4936
+mandjshane	public.me.com	2012-04-10 12:09:51	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5958.tar	public.me.com-mandjshane.warc.gz	1916
+mandjshane	web.me.com	2012-04-10 12:09:50	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5958.tar	web.me.com-mandjshane.warc.gz	159052553
+rblank2	gallery.me.com	2012-04-10 13:56:33	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5958.tar	gallery.me.com-rblank2.warc.gz	236949899
+rblank2	homepage.mac.com	2012-04-10 13:56:34	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5958.tar	homepage.mac.com-rblank2.warc.gz	4891
+rblank2	public.me.com	2012-04-10 13:52:10	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5958.tar	public.me.com-rblank2.warc.gz	1916
+rblank2	web.me.com	2012-04-10 13:51:57	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5958.tar	web.me.com-rblank2.warc.gz	858339010

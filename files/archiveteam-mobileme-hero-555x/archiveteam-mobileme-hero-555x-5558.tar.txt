@@ -1,12 +1,12 @@
-capuozzo	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	gallery.me.com-capuozzo.warc.gz	0
-capuozzo	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	homepage.mac.com-capuozzo.warc.gz	0
-capuozzo	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	public.me.com-capuozzo.warc.gz	0
-capuozzo	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	web.me.com-capuozzo.warc.gz	0
-chrieri	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	gallery.me.com-chrieri.warc.gz	0
-chrieri	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	homepage.mac.com-chrieri.warc.gz	0
-chrieri	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	public.me.com-chrieri.warc.gz	0
-chrieri	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	web.me.com-chrieri.warc.gz	0
-nthibedeau1	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	gallery.me.com-nthibedeau1.warc.gz	0
-nthibedeau1	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	homepage.mac.com-nthibedeau1.warc.gz	0
-nthibedeau1	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	public.me.com-nthibedeau1.warc.gz	0
-nthibedeau1	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	web.me.com-nthibedeau1.warc.gz	0
+capuozzo	gallery.me.com	2012-04-09 16:16:48	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	gallery.me.com-capuozzo.warc.gz	5775
+capuozzo	homepage.mac.com	2012-04-09 16:16:49	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	homepage.mac.com-capuozzo.warc.gz	4902
+capuozzo	public.me.com	2012-04-09 16:16:47	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	public.me.com-capuozzo.warc.gz	63690258
+capuozzo	web.me.com	2012-04-09 16:13:50	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	web.me.com-capuozzo.warc.gz	8221540
+chrieri	gallery.me.com	2012-04-09 16:09:58	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	gallery.me.com-chrieri.warc.gz	21804650
+chrieri	homepage.mac.com	2012-04-09 16:09:58	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	homepage.mac.com-chrieri.warc.gz	4893
+chrieri	public.me.com	2012-04-09 16:09:35	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	public.me.com-chrieri.warc.gz	1911
+chrieri	web.me.com	2012-04-09 16:09:34	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	web.me.com-chrieri.warc.gz	3204848
+nthibedeau1	gallery.me.com	2012-04-09 17:17:23	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	gallery.me.com-nthibedeau1.warc.gz	158914
+nthibedeau1	homepage.mac.com	2012-04-09 17:17:25	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	homepage.mac.com-nthibedeau1.warc.gz	59186
+nthibedeau1	public.me.com	2012-04-09 17:17:21	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	public.me.com-nthibedeau1.warc.gz	4667136588
+nthibedeau1	web.me.com	2012-04-09 16:17:47	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5558.tar	web.me.com-nthibedeau1.warc.gz	27113501

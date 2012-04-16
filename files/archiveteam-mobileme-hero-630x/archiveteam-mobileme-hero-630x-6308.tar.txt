@@ -1,16 +1,16 @@
-cbrown4209	gallery.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	gallery.me.com-cbrown4209.warc.gz	0
-cbrown4209	homepage.mac.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	homepage.mac.com-cbrown4209.warc.gz	0
-cbrown4209	public.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	public.me.com-cbrown4209.warc.gz	0
-cbrown4209	web.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	web.me.com-cbrown4209.warc.gz	0
-gipf	gallery.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	gallery.me.com-gipf.warc.gz	0
-gipf	homepage.mac.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	homepage.mac.com-gipf.warc.gz	0
-gipf	public.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	public.me.com-gipf.warc.gz	0
-gipf	web.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	web.me.com-gipf.warc.gz	0
-samiamcreative	gallery.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	gallery.me.com-samiamcreative.warc.gz	0
-samiamcreative	homepage.mac.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	homepage.mac.com-samiamcreative.warc.gz	0
-samiamcreative	public.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	public.me.com-samiamcreative.warc.gz	0
-samiamcreative	web.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	web.me.com-samiamcreative.warc.gz	0
-shanyew	gallery.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	gallery.me.com-shanyew.warc.gz	0
-shanyew	homepage.mac.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	homepage.mac.com-shanyew.warc.gz	0
-shanyew	public.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	public.me.com-shanyew.warc.gz	0
-shanyew	web.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	web.me.com-shanyew.warc.gz	0
+cbrown4209	gallery.me.com	2012-04-11 09:28:03	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	gallery.me.com-cbrown4209.warc.gz	4026646641
+cbrown4209	homepage.mac.com	2012-04-11 09:28:03	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	homepage.mac.com-cbrown4209.warc.gz	4927
+cbrown4209	public.me.com	2012-04-11 08:29:00	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	public.me.com-cbrown4209.warc.gz	1925
+cbrown4209	web.me.com	2012-04-11 08:29:00	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	web.me.com-cbrown4209.warc.gz	179975422
+gipf	gallery.me.com	2012-04-11 07:48:58	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	gallery.me.com-gipf.warc.gz	4224
+gipf	homepage.mac.com	2012-04-11 07:48:58	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	homepage.mac.com-gipf.warc.gz	4889
+gipf	public.me.com	2012-04-11 07:48:57	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	public.me.com-gipf.warc.gz	1905
+gipf	web.me.com	2012-04-11 07:48:55	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	web.me.com-gipf.warc.gz	40039334
+samiamcreative	gallery.me.com	2012-04-11 07:50:16	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	gallery.me.com-samiamcreative.warc.gz	4271
+samiamcreative	homepage.mac.com	2012-04-11 07:50:17	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	homepage.mac.com-samiamcreative.warc.gz	4940
+samiamcreative	public.me.com	2012-04-11 07:50:16	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	public.me.com-samiamcreative.warc.gz	1930
+samiamcreative	web.me.com	2012-04-11 07:50:16	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	web.me.com-samiamcreative.warc.gz	3018844
+shanyew	gallery.me.com	2012-04-11 07:45:33	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	gallery.me.com-shanyew.warc.gz	22445777
+shanyew	homepage.mac.com	2012-04-11 07:45:33	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	homepage.mac.com-shanyew.warc.gz	4903
+shanyew	public.me.com	2012-04-11 07:45:21	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	public.me.com-shanyew.warc.gz	1912
+shanyew	web.me.com	2012-04-11 07:45:20	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6308.tar	web.me.com-shanyew.warc.gz	349947

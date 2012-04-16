@@ -1,20 +1,20 @@
-clanns	gallery.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	gallery.me.com-clanns.warc.gz	0
-clanns	homepage.mac.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	homepage.mac.com-clanns.warc.gz	0
-clanns	public.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	public.me.com-clanns.warc.gz	0
-clanns	web.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	web.me.com-clanns.warc.gz	0
-fernandezsantos	gallery.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	gallery.me.com-fernandezsantos.warc.gz	0
-fernandezsantos	homepage.mac.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	homepage.mac.com-fernandezsantos.warc.gz	0
-fernandezsantos	public.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	public.me.com-fernandezsantos.warc.gz	0
-fernandezsantos	web.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	web.me.com-fernandezsantos.warc.gz	0
-jasonhammermellet	gallery.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	gallery.me.com-jasonhammermellet.warc.gz	0
-jasonhammermellet	homepage.mac.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	homepage.mac.com-jasonhammermellet.warc.gz	0
-jasonhammermellet	public.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	public.me.com-jasonhammermellet.warc.gz	0
-jasonhammermellet	web.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	web.me.com-jasonhammermellet.warc.gz	0
-kgm	gallery.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	gallery.me.com-kgm.warc.gz	0
-kgm	homepage.mac.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	homepage.mac.com-kgm.warc.gz	0
-kgm	public.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	public.me.com-kgm.warc.gz	0
-kgm	web.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	web.me.com-kgm.warc.gz	0
-myerscooper	gallery.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	gallery.me.com-myerscooper.warc.gz	0
-myerscooper	homepage.mac.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	homepage.mac.com-myerscooper.warc.gz	0
-myerscooper	public.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	public.me.com-myerscooper.warc.gz	0
-myerscooper	web.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	web.me.com-myerscooper.warc.gz	0
+clanns	gallery.me.com	2012-04-13 05:52:58	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	gallery.me.com-clanns.warc.gz	8329
+clanns	homepage.mac.com	2012-04-13 05:52:58	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	homepage.mac.com-clanns.warc.gz	5163
+clanns	public.me.com	2012-04-13 05:52:57	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	public.me.com-clanns.warc.gz	1906
+clanns	web.me.com	2012-04-13 05:52:57	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	web.me.com-clanns.warc.gz	17716
+fernandezsantos	gallery.me.com	2012-04-13 05:52:54	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	gallery.me.com-fernandezsantos.warc.gz	5740
+fernandezsantos	homepage.mac.com	2012-04-13 05:52:54	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	homepage.mac.com-fernandezsantos.warc.gz	4943
+fernandezsantos	public.me.com	2012-04-13 05:52:53	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	public.me.com-fernandezsantos.warc.gz	1931
+fernandezsantos	web.me.com	2012-04-13 05:52:51	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	web.me.com-fernandezsantos.warc.gz	114035137
+jasonhammermellet	gallery.me.com	2012-04-13 11:47:16	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	gallery.me.com-jasonhammermellet.warc.gz	1439794795
+jasonhammermellet	homepage.mac.com	2012-04-13 11:47:17	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	homepage.mac.com-jasonhammermellet.warc.gz	4945
+jasonhammermellet	public.me.com	2012-04-13 10:29:27	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	public.me.com-jasonhammermellet.warc.gz	1461358
+jasonhammermellet	web.me.com	2012-04-13 10:28:41	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	web.me.com-jasonhammermellet.warc.gz	1099554344
+kgm	gallery.me.com	2012-04-13 07:10:35	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	gallery.me.com-kgm.warc.gz	727515297
+kgm	homepage.mac.com	2012-04-13 07:10:38	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	homepage.mac.com-kgm.warc.gz	94701
+kgm	public.me.com	2012-04-13 06:42:01	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	public.me.com-kgm.warc.gz	831485015
+kgm	web.me.com	2012-04-13 06:29:53	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	web.me.com-kgm.warc.gz	487822705
+myerscooper	gallery.me.com	2012-04-13 07:10:46	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	gallery.me.com-myerscooper.warc.gz	5034
+myerscooper	homepage.mac.com	2012-04-13 07:10:47	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	homepage.mac.com-myerscooper.warc.gz	4917
+myerscooper	public.me.com	2012-04-13 07:10:45	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	public.me.com-myerscooper.warc.gz	1920
+myerscooper	web.me.com	2012-04-13 07:10:44	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7291.tar	web.me.com-myerscooper.warc.gz	28989

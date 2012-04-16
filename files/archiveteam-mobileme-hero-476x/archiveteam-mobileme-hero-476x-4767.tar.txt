@@ -1,24 +1,24 @@
-allyn.512	gallery.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	gallery.me.com-allyn.512.warc.gz	0
-allyn.512	homepage.mac.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	homepage.mac.com-allyn.512.warc.gz	0
-allyn.512	public.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	public.me.com-allyn.512.warc.gz	0
-allyn.512	web.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	web.me.com-allyn.512.warc.gz	0
-hstewartson	gallery.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	gallery.me.com-hstewartson.warc.gz	0
-hstewartson	homepage.mac.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	homepage.mac.com-hstewartson.warc.gz	0
-hstewartson	public.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	public.me.com-hstewartson.warc.gz	0
-hstewartson	web.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	web.me.com-hstewartson.warc.gz	0
-karmagirls	gallery.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	gallery.me.com-karmagirls.warc.gz	0
-karmagirls	homepage.mac.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	homepage.mac.com-karmagirls.warc.gz	0
-karmagirls	public.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	public.me.com-karmagirls.warc.gz	0
-karmagirls	web.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	web.me.com-karmagirls.warc.gz	0
-kokolot	gallery.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	gallery.me.com-kokolot.warc.gz	0
-kokolot	homepage.mac.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	homepage.mac.com-kokolot.warc.gz	0
-kokolot	public.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	public.me.com-kokolot.warc.gz	0
-kokolot	web.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	web.me.com-kokolot.warc.gz	0
-lharrisjr	gallery.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	gallery.me.com-lharrisjr.warc.gz	0
-lharrisjr	homepage.mac.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	homepage.mac.com-lharrisjr.warc.gz	0
-lharrisjr	public.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	public.me.com-lharrisjr.warc.gz	0
-lharrisjr	web.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	web.me.com-lharrisjr.warc.gz	0
-scottrovak	gallery.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	gallery.me.com-scottrovak.warc.gz	0
-scottrovak	homepage.mac.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	homepage.mac.com-scottrovak.warc.gz	0
-scottrovak	public.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	public.me.com-scottrovak.warc.gz	0
-scottrovak	web.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	web.me.com-scottrovak.warc.gz	0
+allyn.512	gallery.me.com	2012-04-06 18:09:02	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	gallery.me.com-allyn.512.warc.gz	1548118851
+allyn.512	homepage.mac.com	2012-04-06 18:09:02	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	homepage.mac.com-allyn.512.warc.gz	4904
+allyn.512	public.me.com	2012-04-06 17:08:24	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	public.me.com-allyn.512.warc.gz	1918
+allyn.512	web.me.com	2012-04-06 17:08:22	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	web.me.com-allyn.512.warc.gz	470918063
+hstewartson	gallery.me.com	2012-04-06 16:13:09	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	gallery.me.com-hstewartson.warc.gz	12332
+hstewartson	homepage.mac.com	2012-04-06 16:13:09	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	homepage.mac.com-hstewartson.warc.gz	7162
+hstewartson	public.me.com	2012-04-06 16:13:09	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	public.me.com-hstewartson.warc.gz	1926
+hstewartson	web.me.com	2012-04-06 16:13:08	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	web.me.com-hstewartson.warc.gz	22516
+karmagirls	gallery.me.com	2012-04-06 15:28:16	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	gallery.me.com-karmagirls.warc.gz	31791122
+karmagirls	homepage.mac.com	2012-04-06 15:28:21	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	homepage.mac.com-karmagirls.warc.gz	104723
+karmagirls	public.me.com	2012-04-06 15:28:03	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	public.me.com-karmagirls.warc.gz	1921
+karmagirls	web.me.com	2012-04-06 15:28:02	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	web.me.com-karmagirls.warc.gz	289830719
+kokolot	gallery.me.com	2012-04-06 16:13:07	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	gallery.me.com-kokolot.warc.gz	143909
+kokolot	homepage.mac.com	2012-04-06 16:13:07	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	homepage.mac.com-kokolot.warc.gz	4891
+kokolot	public.me.com	2012-04-06 16:13:04	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	public.me.com-kokolot.warc.gz	1910
+kokolot	web.me.com	2012-04-06 16:13:04	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	web.me.com-kokolot.warc.gz	105962
+lharrisjr	gallery.me.com	2012-04-06 15:53:22	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	gallery.me.com-lharrisjr.warc.gz	898073573
+lharrisjr	homepage.mac.com	2012-04-06 15:53:26	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	homepage.mac.com-lharrisjr.warc.gz	4897
+lharrisjr	public.me.com	2012-04-06 15:49:22	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	public.me.com-lharrisjr.warc.gz	1917
+lharrisjr	web.me.com	2012-04-06 15:49:21	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	web.me.com-lharrisjr.warc.gz	413896988
+scottrovak	gallery.me.com	2012-04-06 16:12:58	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	gallery.me.com-scottrovak.warc.gz	631471117
+scottrovak	homepage.mac.com	2012-04-06 16:12:58	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	homepage.mac.com-scottrovak.warc.gz	4930
+scottrovak	public.me.com	2012-04-06 16:04:05	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	public.me.com-scottrovak.warc.gz	3910053
+scottrovak	web.me.com	2012-04-06 16:04:00	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4767.tar	web.me.com-scottrovak.warc.gz	100814232

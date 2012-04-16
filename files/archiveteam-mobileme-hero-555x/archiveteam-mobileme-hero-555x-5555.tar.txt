@@ -1,28 +1,28 @@
-aquashots	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	gallery.me.com-aquashots.warc.gz	0
-aquashots	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	homepage.mac.com-aquashots.warc.gz	0
-aquashots	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	public.me.com-aquashots.warc.gz	0
-aquashots	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	web.me.com-aquashots.warc.gz	0
-charles.freeman	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	gallery.me.com-charles.freeman.warc.gz	0
-charles.freeman	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	homepage.mac.com-charles.freeman.warc.gz	0
-charles.freeman	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	public.me.com-charles.freeman.warc.gz	0
-charles.freeman	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	web.me.com-charles.freeman.warc.gz	0
-crcsj	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	gallery.me.com-crcsj.warc.gz	0
-crcsj	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	homepage.mac.com-crcsj.warc.gz	0
-crcsj	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	public.me.com-crcsj.warc.gz	0
-crcsj	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	web.me.com-crcsj.warc.gz	0
-fischerny	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	gallery.me.com-fischerny.warc.gz	0
-fischerny	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	homepage.mac.com-fischerny.warc.gz	0
-fischerny	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	public.me.com-fischerny.warc.gz	0
-fischerny	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	web.me.com-fischerny.warc.gz	0
-laflaur	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	gallery.me.com-laflaur.warc.gz	0
-laflaur	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	homepage.mac.com-laflaur.warc.gz	0
-laflaur	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	public.me.com-laflaur.warc.gz	0
-laflaur	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	web.me.com-laflaur.warc.gz	0
-larrygustafson	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	gallery.me.com-larrygustafson.warc.gz	0
-larrygustafson	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	homepage.mac.com-larrygustafson.warc.gz	0
-larrygustafson	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	public.me.com-larrygustafson.warc.gz	0
-larrygustafson	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	web.me.com-larrygustafson.warc.gz	0
-wings_4d	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	gallery.me.com-wings_4d.warc.gz	0
-wings_4d	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	homepage.mac.com-wings_4d.warc.gz	0
-wings_4d	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	public.me.com-wings_4d.warc.gz	0
-wings_4d	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	web.me.com-wings_4d.warc.gz	0
+aquashots	gallery.me.com	2012-04-09 14:32:57	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	gallery.me.com-aquashots.warc.gz	5260
+aquashots	homepage.mac.com	2012-04-09 14:32:58	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	homepage.mac.com-aquashots.warc.gz	4929
+aquashots	public.me.com	2012-04-09 14:32:55	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	public.me.com-aquashots.warc.gz	58874
+aquashots	web.me.com	2012-04-09 14:32:54	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	web.me.com-aquashots.warc.gz	140668
+charles.freeman	gallery.me.com	2012-04-09 14:32:17	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	gallery.me.com-charles.freeman.warc.gz	1962608
+charles.freeman	homepage.mac.com	2012-04-09 14:32:42	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	homepage.mac.com-charles.freeman.warc.gz	266170
+charles.freeman	public.me.com	2012-04-09 14:32:12	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	public.me.com-charles.freeman.warc.gz	1928
+charles.freeman	web.me.com	2012-04-09 14:32:12	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	web.me.com-charles.freeman.warc.gz	101265
+crcsj	gallery.me.com	2012-04-09 14:25:36	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	gallery.me.com-crcsj.warc.gz	4265
+crcsj	homepage.mac.com	2012-04-09 14:25:36	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	homepage.mac.com-crcsj.warc.gz	4901
+crcsj	public.me.com	2012-04-09 14:25:34	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	public.me.com-crcsj.warc.gz	1910
+crcsj	web.me.com	2012-04-09 14:25:32	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	web.me.com-crcsj.warc.gz	360173459
+fischerny	gallery.me.com	2012-04-09 14:32:05	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	gallery.me.com-fischerny.warc.gz	5674
+fischerny	homepage.mac.com	2012-04-09 14:32:06	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	homepage.mac.com-fischerny.warc.gz	3563
+fischerny	public.me.com	2012-04-09 14:32:03	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	public.me.com-fischerny.warc.gz	185465204
+fischerny	web.me.com	2012-04-09 14:28:51	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	web.me.com-fischerny.warc.gz	38592259
+laflaur	gallery.me.com	2012-04-09 15:03:50	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	gallery.me.com-laflaur.warc.gz	517026754
+laflaur	homepage.mac.com	2012-04-09 15:03:50	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	homepage.mac.com-laflaur.warc.gz	4910
+laflaur	public.me.com	2012-04-09 14:43:55	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	public.me.com-laflaur.warc.gz	1917
+laflaur	web.me.com	2012-04-09 14:43:54	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	web.me.com-laflaur.warc.gz	82578613
+larrygustafson	gallery.me.com	2012-04-09 14:33:01	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	gallery.me.com-larrygustafson.warc.gz	5035
+larrygustafson	homepage.mac.com	2012-04-09 14:33:04	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	homepage.mac.com-larrygustafson.warc.gz	41436
+larrygustafson	public.me.com	2012-04-09 14:33:00	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	public.me.com-larrygustafson.warc.gz	1925
+larrygustafson	web.me.com	2012-04-09 14:33:00	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	web.me.com-larrygustafson.warc.gz	28970
+wings_4d	gallery.me.com	2012-04-09 16:54:51	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	gallery.me.com-wings_4d.warc.gz	4992
+wings_4d	homepage.mac.com	2012-04-09 16:54:57	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	homepage.mac.com-wings_4d.warc.gz	31432
+wings_4d	public.me.com	2012-04-09 16:54:50	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	public.me.com-wings_4d.warc.gz	4670850730
+wings_4d	web.me.com	2012-04-09 15:11:40	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5555.tar	web.me.com-wings_4d.warc.gz	353721563

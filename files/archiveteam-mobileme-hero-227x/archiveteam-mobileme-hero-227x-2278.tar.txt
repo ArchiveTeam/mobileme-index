@@ -1,24 +1,24 @@
-armaverse	gallery.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	gallery.me.com-armaverse.warc.gz	0
-armaverse	homepage.mac.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	homepage.mac.com-armaverse.warc.gz	0
-armaverse	public.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	public.me.com-armaverse.warc.gz	0
-armaverse	web.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	web.me.com-armaverse.warc.gz	0
-c505542636	gallery.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	gallery.me.com-c505542636.warc.gz	0
-c505542636	homepage.mac.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	homepage.mac.com-c505542636.warc.gz	0
-c505542636	public.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	public.me.com-c505542636.warc.gz	0
-c505542636	web.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	web.me.com-c505542636.warc.gz	0
-derrickowings	gallery.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	gallery.me.com-derrickowings.warc.gz	0
-derrickowings	homepage.mac.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	homepage.mac.com-derrickowings.warc.gz	0
-derrickowings	public.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	public.me.com-derrickowings.warc.gz	0
-derrickowings	web.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	web.me.com-derrickowings.warc.gz	0
-jennifer.tsan	gallery.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	gallery.me.com-jennifer.tsan.warc.gz	0
-jennifer.tsan	homepage.mac.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	homepage.mac.com-jennifer.tsan.warc.gz	0
-jennifer.tsan	public.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	public.me.com-jennifer.tsan.warc.gz	0
-jennifer.tsan	web.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	web.me.com-jennifer.tsan.warc.gz	0
-ronsrc	gallery.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	gallery.me.com-ronsrc.warc.gz	0
-ronsrc	homepage.mac.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	homepage.mac.com-ronsrc.warc.gz	0
-ronsrc	public.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	public.me.com-ronsrc.warc.gz	0
-ronsrc	web.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	web.me.com-ronsrc.warc.gz	0
-timanddj	gallery.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	gallery.me.com-timanddj.warc.gz	0
-timanddj	homepage.mac.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	homepage.mac.com-timanddj.warc.gz	0
-timanddj	public.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	public.me.com-timanddj.warc.gz	0
-timanddj	web.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	web.me.com-timanddj.warc.gz	0
+armaverse	gallery.me.com	2012-03-31 01:21:33	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	gallery.me.com-armaverse.warc.gz	4236
+armaverse	homepage.mac.com	2012-03-31 01:21:34	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	homepage.mac.com-armaverse.warc.gz	4906
+armaverse	public.me.com	2012-03-31 01:21:33	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	public.me.com-armaverse.warc.gz	1914
+armaverse	web.me.com	2012-03-31 01:21:33	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	web.me.com-armaverse.warc.gz	78486211
+c505542636	gallery.me.com	2012-03-31 00:58:58	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	gallery.me.com-c505542636.warc.gz	8346
+c505542636	homepage.mac.com	2012-03-31 00:58:58	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	homepage.mac.com-c505542636.warc.gz	5172
+c505542636	public.me.com	2012-03-31 00:58:57	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	public.me.com-c505542636.warc.gz	1922
+c505542636	web.me.com	2012-03-31 00:58:57	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	web.me.com-c505542636.warc.gz	17698
+derrickowings	gallery.me.com	2012-03-31 03:00:19	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	gallery.me.com-derrickowings.warc.gz	1893838591
+derrickowings	homepage.mac.com	2012-03-31 03:00:21	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	homepage.mac.com-derrickowings.warc.gz	95685
+derrickowings	public.me.com	2012-03-31 02:46:29	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	public.me.com-derrickowings.warc.gz	1925
+derrickowings	web.me.com	2012-03-31 02:46:20	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	web.me.com-derrickowings.warc.gz	2620960055
+jennifer.tsan	gallery.me.com	2012-03-31 01:57:50	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	gallery.me.com-jennifer.tsan.warc.gz	619515410
+jennifer.tsan	homepage.mac.com	2012-03-31 01:57:50	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	homepage.mac.com-jennifer.tsan.warc.gz	4942
+jennifer.tsan	public.me.com	2012-03-31 01:36:17	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	public.me.com-jennifer.tsan.warc.gz	1937
+jennifer.tsan	web.me.com	2012-03-31 01:36:14	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	web.me.com-jennifer.tsan.warc.gz	148445426
+ronsrc	gallery.me.com	2012-03-31 01:14:12	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	gallery.me.com-ronsrc.warc.gz	5664
+ronsrc	homepage.mac.com	2012-03-31 01:14:12	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	homepage.mac.com-ronsrc.warc.gz	4905
+ronsrc	public.me.com	2012-03-31 01:14:11	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	public.me.com-ronsrc.warc.gz	1914
+ronsrc	web.me.com	2012-03-31 01:14:10	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	web.me.com-ronsrc.warc.gz	858461243
+timanddj	gallery.me.com	2012-03-31 00:58:56	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	gallery.me.com-timanddj.warc.gz	10562231
+timanddj	homepage.mac.com	2012-03-31 00:58:57	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	homepage.mac.com-timanddj.warc.gz	4919
+timanddj	public.me.com	2012-03-31 00:58:50	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	public.me.com-timanddj.warc.gz	1918
+timanddj	web.me.com	2012-03-31 00:58:50	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2278.tar	web.me.com-timanddj.warc.gz	137342083

@@ -1,16 +1,16 @@
-ali.b	gallery.me.com		archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	gallery.me.com-ali.b.warc.gz	0
-ali.b	homepage.mac.com		archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	homepage.mac.com-ali.b.warc.gz	0
-ali.b	public.me.com		archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	public.me.com-ali.b.warc.gz	0
-ali.b	web.me.com		archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	web.me.com-ali.b.warc.gz	0
-c383655941	gallery.me.com		archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	gallery.me.com-c383655941.warc.gz	0
-c383655941	homepage.mac.com		archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	homepage.mac.com-c383655941.warc.gz	0
-c383655941	public.me.com		archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	public.me.com-c383655941.warc.gz	0
-c383655941	web.me.com		archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	web.me.com-c383655941.warc.gz	0
-jberquist	gallery.me.com		archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	gallery.me.com-jberquist.warc.gz	0
-jberquist	homepage.mac.com		archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	homepage.mac.com-jberquist.warc.gz	0
-jberquist	public.me.com		archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	public.me.com-jberquist.warc.gz	0
-jberquist	web.me.com		archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	web.me.com-jberquist.warc.gz	0
-ryantheimacman	gallery.me.com		archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	gallery.me.com-ryantheimacman.warc.gz	0
-ryantheimacman	homepage.mac.com		archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	homepage.mac.com-ryantheimacman.warc.gz	0
-ryantheimacman	public.me.com		archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	public.me.com-ryantheimacman.warc.gz	0
-ryantheimacman	web.me.com		archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	web.me.com-ryantheimacman.warc.gz	0
+ali.b	gallery.me.com	2012-04-03 11:43:55	archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	gallery.me.com-ali.b.warc.gz	5117
+ali.b	homepage.mac.com	2012-04-03 11:43:56	archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	homepage.mac.com-ali.b.warc.gz	4893
+ali.b	public.me.com	2012-04-03 11:43:54	archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	public.me.com-ali.b.warc.gz	4990846017
+ali.b	web.me.com	2012-04-03 10:42:11	archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	web.me.com-ali.b.warc.gz	971704
+c383655941	gallery.me.com	2012-04-03 10:38:42	archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	gallery.me.com-c383655941.warc.gz	8362
+c383655941	homepage.mac.com	2012-04-03 10:38:42	archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	homepage.mac.com-c383655941.warc.gz	5184
+c383655941	public.me.com	2012-04-03 10:38:41	archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	public.me.com-c383655941.warc.gz	1920
+c383655941	web.me.com	2012-04-03 10:38:41	archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	web.me.com-c383655941.warc.gz	17729
+jberquist	gallery.me.com	2012-04-03 10:39:53	archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	gallery.me.com-jberquist.warc.gz	46764570
+jberquist	homepage.mac.com	2012-04-03 10:42:04	archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	homepage.mac.com-jberquist.warc.gz	2117660
+jberquist	public.me.com	2012-04-03 10:39:13	archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	public.me.com-jberquist.warc.gz	1920
+jberquist	web.me.com	2012-04-03 10:39:13	archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	web.me.com-jberquist.warc.gz	1240413
+ryantheimacman	gallery.me.com	2012-04-03 10:37:59	archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	gallery.me.com-ryantheimacman.warc.gz	283765
+ryantheimacman	homepage.mac.com	2012-04-03 10:38:39	archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	homepage.mac.com-ryantheimacman.warc.gz	5509418
+ryantheimacman	public.me.com	2012-04-03 10:37:57	archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	public.me.com-ryantheimacman.warc.gz	3930525669
+ryantheimacman	web.me.com	2012-04-03 09:25:46	archiveteam-mobileme-hero-339x	archiveteam-mobileme-hero-339x-3395.tar	web.me.com-ryantheimacman.warc.gz	57814

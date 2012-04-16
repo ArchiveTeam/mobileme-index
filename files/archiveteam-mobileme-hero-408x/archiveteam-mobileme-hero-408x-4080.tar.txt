@@ -1,16 +1,16 @@
-agura_host	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	gallery.me.com-agura_host.warc.gz	0
-agura_host	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	homepage.mac.com-agura_host.warc.gz	0
-agura_host	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	public.me.com-agura_host.warc.gz	0
-agura_host	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	web.me.com-agura_host.warc.gz	0
-anrose	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	gallery.me.com-anrose.warc.gz	0
-anrose	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	homepage.mac.com-anrose.warc.gz	0
-anrose	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	public.me.com-anrose.warc.gz	0
-anrose	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	web.me.com-anrose.warc.gz	0
-dee_edwards	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	gallery.me.com-dee_edwards.warc.gz	0
-dee_edwards	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	homepage.mac.com-dee_edwards.warc.gz	0
-dee_edwards	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	public.me.com-dee_edwards.warc.gz	0
-dee_edwards	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	web.me.com-dee_edwards.warc.gz	0
-sethyork	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	gallery.me.com-sethyork.warc.gz	0
-sethyork	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	homepage.mac.com-sethyork.warc.gz	0
-sethyork	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	public.me.com-sethyork.warc.gz	0
-sethyork	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	web.me.com-sethyork.warc.gz	0
+agura_host	gallery.me.com	2012-04-05 03:51:46	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	gallery.me.com-agura_host.warc.gz	5222
+agura_host	homepage.mac.com	2012-04-05 03:51:46	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	homepage.mac.com-agura_host.warc.gz	4921
+agura_host	public.me.com	2012-04-05 03:51:45	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	public.me.com-agura_host.warc.gz	1924
+agura_host	web.me.com	2012-04-05 03:51:45	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	web.me.com-agura_host.warc.gz	32658413
+anrose	gallery.me.com	2012-04-05 03:50:28	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	gallery.me.com-anrose.warc.gz	3551333637
+anrose	homepage.mac.com	2012-04-05 03:50:28	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	homepage.mac.com-anrose.warc.gz	4896
+anrose	public.me.com	2012-04-05 02:48:35	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	public.me.com-anrose.warc.gz	1909
+anrose	web.me.com	2012-04-05 02:48:34	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	web.me.com-anrose.warc.gz	105293965
+dee_edwards	gallery.me.com	2012-04-05 02:38:38	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	gallery.me.com-dee_edwards.warc.gz	14522409
+dee_edwards	homepage.mac.com	2012-04-05 02:38:38	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	homepage.mac.com-dee_edwards.warc.gz	6045
+dee_edwards	public.me.com	2012-04-05 02:37:59	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	public.me.com-dee_edwards.warc.gz	197933763
+dee_edwards	web.me.com	2012-04-05 02:34:19	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	web.me.com-dee_edwards.warc.gz	5912813
+sethyork	gallery.me.com	2012-04-05 04:02:12	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	gallery.me.com-sethyork.warc.gz	371635560
+sethyork	homepage.mac.com	2012-04-05 04:02:13	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	homepage.mac.com-sethyork.warc.gz	4905
+sethyork	public.me.com	2012-04-05 03:55:25	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	public.me.com-sethyork.warc.gz	1920
+sethyork	web.me.com	2012-04-05 03:55:24	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4080.tar	web.me.com-sethyork.warc.gz	14645961

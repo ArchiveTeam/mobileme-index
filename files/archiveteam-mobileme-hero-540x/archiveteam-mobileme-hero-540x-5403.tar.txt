@@ -1,20 +1,20 @@
-archer.family	gallery.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	gallery.me.com-archer.family.warc.gz	0
-archer.family	homepage.mac.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	homepage.mac.com-archer.family.warc.gz	0
-archer.family	public.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	public.me.com-archer.family.warc.gz	0
-archer.family	web.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	web.me.com-archer.family.warc.gz	0
-jlaphoto.com	gallery.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	gallery.me.com-jlaphoto.com.warc.gz	0
-jlaphoto.com	homepage.mac.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	homepage.mac.com-jlaphoto.com.warc.gz	0
-jlaphoto.com	public.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	public.me.com-jlaphoto.com.warc.gz	0
-jlaphoto.com	web.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	web.me.com-jlaphoto.com.warc.gz	0
-mrsminnesota2006	gallery.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	gallery.me.com-mrsminnesota2006.warc.gz	0
-mrsminnesota2006	homepage.mac.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	homepage.mac.com-mrsminnesota2006.warc.gz	0
-mrsminnesota2006	public.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	public.me.com-mrsminnesota2006.warc.gz	0
-mrsminnesota2006	web.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	web.me.com-mrsminnesota2006.warc.gz	0
-printit	gallery.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	gallery.me.com-printit.warc.gz	0
-printit	homepage.mac.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	homepage.mac.com-printit.warc.gz	0
-printit	public.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	public.me.com-printit.warc.gz	0
-printit	web.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	web.me.com-printit.warc.gz	0
-tazevedo	gallery.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	gallery.me.com-tazevedo.warc.gz	0
-tazevedo	homepage.mac.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	homepage.mac.com-tazevedo.warc.gz	0
-tazevedo	public.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	public.me.com-tazevedo.warc.gz	0
-tazevedo	web.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	web.me.com-tazevedo.warc.gz	0
+archer.family	gallery.me.com	2012-04-09 08:41:27	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	gallery.me.com-archer.family.warc.gz	3568093695
+archer.family	homepage.mac.com	2012-04-09 08:41:35	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	homepage.mac.com-archer.family.warc.gz	357959
+archer.family	public.me.com	2012-04-09 07:20:42	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	public.me.com-archer.family.warc.gz	604774475
+archer.family	web.me.com	2012-04-09 06:58:16	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	web.me.com-archer.family.warc.gz	280651286
+jlaphoto.com	gallery.me.com	2012-04-09 06:42:59	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	gallery.me.com-jlaphoto.com.warc.gz	4287
+jlaphoto.com	homepage.mac.com	2012-04-09 06:42:59	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	homepage.mac.com-jlaphoto.com.warc.gz	4919
+jlaphoto.com	public.me.com	2012-04-09 06:42:59	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	public.me.com-jlaphoto.com.warc.gz	1923
+jlaphoto.com	web.me.com	2012-04-09 06:42:59	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	web.me.com-jlaphoto.com.warc.gz	963439
+mrsminnesota2006	gallery.me.com	2012-04-09 06:38:03	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	gallery.me.com-mrsminnesota2006.warc.gz	149378649
+mrsminnesota2006	homepage.mac.com	2012-04-09 06:38:03	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	homepage.mac.com-mrsminnesota2006.warc.gz	4948
+mrsminnesota2006	public.me.com	2012-04-09 06:35:02	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	public.me.com-mrsminnesota2006.warc.gz	3356
+mrsminnesota2006	web.me.com	2012-04-09 06:35:01	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	web.me.com-mrsminnesota2006.warc.gz	233380850
+printit	gallery.me.com	2012-04-09 06:38:05	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	gallery.me.com-printit.warc.gz	12297
+printit	homepage.mac.com	2012-04-09 06:38:06	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	homepage.mac.com-printit.warc.gz	7143
+printit	public.me.com	2012-04-09 06:38:05	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	public.me.com-printit.warc.gz	1904
+printit	web.me.com	2012-04-09 06:38:04	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	web.me.com-printit.warc.gz	22446
+tazevedo	gallery.me.com	2012-04-09 06:42:02	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	gallery.me.com-tazevedo.warc.gz	5680
+tazevedo	homepage.mac.com	2012-04-09 06:42:02	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	homepage.mac.com-tazevedo.warc.gz	4910
+tazevedo	public.me.com	2012-04-09 06:42:01	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	public.me.com-tazevedo.warc.gz	1913
+tazevedo	web.me.com	2012-04-09 06:42:01	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5403.tar	web.me.com-tazevedo.warc.gz	23731575

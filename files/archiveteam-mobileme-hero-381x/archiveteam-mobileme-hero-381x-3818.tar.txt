@@ -1,20 +1,20 @@
-brandonelder	gallery.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	gallery.me.com-brandonelder.warc.gz	0
-brandonelder	homepage.mac.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	homepage.mac.com-brandonelder.warc.gz	0
-brandonelder	public.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	public.me.com-brandonelder.warc.gz	0
-brandonelder	web.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	web.me.com-brandonelder.warc.gz	0
-glaziou	gallery.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	gallery.me.com-glaziou.warc.gz	0
-glaziou	homepage.mac.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	homepage.mac.com-glaziou.warc.gz	0
-glaziou	public.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	public.me.com-glaziou.warc.gz	0
-glaziou	web.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	web.me.com-glaziou.warc.gz	0
-glennhassett	gallery.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	gallery.me.com-glennhassett.warc.gz	0
-glennhassett	homepage.mac.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	homepage.mac.com-glennhassett.warc.gz	0
-glennhassett	public.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	public.me.com-glennhassett.warc.gz	0
-glennhassett	web.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	web.me.com-glennhassett.warc.gz	0
-schausl	gallery.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	gallery.me.com-schausl.warc.gz	0
-schausl	homepage.mac.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	homepage.mac.com-schausl.warc.gz	0
-schausl	public.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	public.me.com-schausl.warc.gz	0
-schausl	web.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	web.me.com-schausl.warc.gz	0
-tjamiii	gallery.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	gallery.me.com-tjamiii.warc.gz	0
-tjamiii	homepage.mac.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	homepage.mac.com-tjamiii.warc.gz	0
-tjamiii	public.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	public.me.com-tjamiii.warc.gz	0
-tjamiii	web.me.com		archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	web.me.com-tjamiii.warc.gz	0
+brandonelder	gallery.me.com	2012-04-04 12:14:00	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	gallery.me.com-brandonelder.warc.gz	585819867
+brandonelder	homepage.mac.com	2012-04-04 12:14:01	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	homepage.mac.com-brandonelder.warc.gz	4917
+brandonelder	public.me.com	2012-04-04 11:59:16	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	public.me.com-brandonelder.warc.gz	1920
+brandonelder	web.me.com	2012-04-04 11:59:16	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	web.me.com-brandonelder.warc.gz	13863927
+glaziou	gallery.me.com	2012-04-04 11:55:56	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	gallery.me.com-glaziou.warc.gz	4310
+glaziou	homepage.mac.com	2012-04-04 11:55:56	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	homepage.mac.com-glaziou.warc.gz	4919
+glaziou	public.me.com	2012-04-04 11:55:55	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	public.me.com-glaziou.warc.gz	1913
+glaziou	web.me.com	2012-04-04 11:55:55	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	web.me.com-glaziou.warc.gz	1924454
+glennhassett	gallery.me.com	2012-04-04 11:32:38	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	gallery.me.com-glennhassett.warc.gz	657324317
+glennhassett	homepage.mac.com	2012-04-04 11:34:08	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	homepage.mac.com-glennhassett.warc.gz	706586
+glennhassett	public.me.com	2012-04-04 11:04:11	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	public.me.com-glennhassett.warc.gz	1918
+glennhassett	web.me.com	2012-04-04 11:04:11	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	web.me.com-glennhassett.warc.gz	13600732
+schausl	gallery.me.com	2012-04-04 13:56:29	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	gallery.me.com-schausl.warc.gz	1394334082
+schausl	homepage.mac.com	2012-04-04 13:56:29	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	homepage.mac.com-schausl.warc.gz	4915
+schausl	public.me.com	2012-04-04 13:30:03	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	public.me.com-schausl.warc.gz	34830635
+schausl	web.me.com	2012-04-04 13:28:14	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	web.me.com-schausl.warc.gz	1080120072
+tjamiii	gallery.me.com	2012-04-04 11:54:27	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	gallery.me.com-tjamiii.warc.gz	277646947
+tjamiii	homepage.mac.com	2012-04-04 11:54:27	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	homepage.mac.com-tjamiii.warc.gz	4921
+tjamiii	public.me.com	2012-04-04 11:47:43	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	public.me.com-tjamiii.warc.gz	1914
+tjamiii	web.me.com	2012-04-04 11:47:42	archiveteam-mobileme-hero-381x	archiveteam-mobileme-hero-381x-3818.tar	web.me.com-tjamiii.warc.gz	301581830

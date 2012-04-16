@@ -1,8 +1,8 @@
-caseysobolewski	gallery.me.com		archiveteam-mobileme-hero-586x	archiveteam-mobileme-hero-586x-5863.tar	gallery.me.com-caseysobolewski.warc.gz	0
-caseysobolewski	homepage.mac.com		archiveteam-mobileme-hero-586x	archiveteam-mobileme-hero-586x-5863.tar	homepage.mac.com-caseysobolewski.warc.gz	0
-caseysobolewski	public.me.com		archiveteam-mobileme-hero-586x	archiveteam-mobileme-hero-586x-5863.tar	public.me.com-caseysobolewski.warc.gz	0
-caseysobolewski	web.me.com		archiveteam-mobileme-hero-586x	archiveteam-mobileme-hero-586x-5863.tar	web.me.com-caseysobolewski.warc.gz	0
-jfranzen	gallery.me.com		archiveteam-mobileme-hero-586x	archiveteam-mobileme-hero-586x-5863.tar	gallery.me.com-jfranzen.warc.gz	0
-jfranzen	homepage.mac.com		archiveteam-mobileme-hero-586x	archiveteam-mobileme-hero-586x-5863.tar	homepage.mac.com-jfranzen.warc.gz	0
-jfranzen	public.me.com		archiveteam-mobileme-hero-586x	archiveteam-mobileme-hero-586x-5863.tar	public.me.com-jfranzen.warc.gz	0
-jfranzen	web.me.com		archiveteam-mobileme-hero-586x	archiveteam-mobileme-hero-586x-5863.tar	web.me.com-jfranzen.warc.gz	0
+caseysobolewski	gallery.me.com	2012-04-10 09:11:06	archiveteam-mobileme-hero-586x	archiveteam-mobileme-hero-586x-5863.tar	gallery.me.com-caseysobolewski.warc.gz	130238982
+caseysobolewski	homepage.mac.com	2012-04-10 09:11:07	archiveteam-mobileme-hero-586x	archiveteam-mobileme-hero-586x-5863.tar	homepage.mac.com-caseysobolewski.warc.gz	4937
+caseysobolewski	public.me.com	2012-04-10 09:05:08	archiveteam-mobileme-hero-586x	archiveteam-mobileme-hero-586x-5863.tar	public.me.com-caseysobolewski.warc.gz	6352669539
+caseysobolewski	web.me.com	2012-04-10 07:06:37	archiveteam-mobileme-hero-586x	archiveteam-mobileme-hero-586x-5863.tar	web.me.com-caseysobolewski.warc.gz	69919057
+jfranzen	gallery.me.com	2012-04-10 06:57:28	archiveteam-mobileme-hero-586x	archiveteam-mobileme-hero-586x-5863.tar	gallery.me.com-jfranzen.warc.gz	344643463
+jfranzen	homepage.mac.com	2012-04-10 06:57:29	archiveteam-mobileme-hero-586x	archiveteam-mobileme-hero-586x-5863.tar	homepage.mac.com-jfranzen.warc.gz	4924
+jfranzen	public.me.com	2012-04-10 06:34:38	archiveteam-mobileme-hero-586x	archiveteam-mobileme-hero-586x-5863.tar	public.me.com-jfranzen.warc.gz	272272038
+jfranzen	web.me.com	2012-04-10 06:29:34	archiveteam-mobileme-hero-586x	archiveteam-mobileme-hero-586x-5863.tar	web.me.com-jfranzen.warc.gz	258384364

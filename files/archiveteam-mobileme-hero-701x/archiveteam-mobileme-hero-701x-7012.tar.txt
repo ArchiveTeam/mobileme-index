@@ -1,12 +1,12 @@
-heduitman	gallery.me.com		archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	gallery.me.com-heduitman.warc.gz	0
-heduitman	homepage.mac.com		archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	homepage.mac.com-heduitman.warc.gz	0
-heduitman	public.me.com		archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	public.me.com-heduitman.warc.gz	0
-heduitman	web.me.com		archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	web.me.com-heduitman.warc.gz	0
-hgoodyear	gallery.me.com		archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	gallery.me.com-hgoodyear.warc.gz	0
-hgoodyear	homepage.mac.com		archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	homepage.mac.com-hgoodyear.warc.gz	0
-hgoodyear	public.me.com		archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	public.me.com-hgoodyear.warc.gz	0
-hgoodyear	web.me.com		archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	web.me.com-hgoodyear.warc.gz	0
-peterlevesque	gallery.me.com		archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	gallery.me.com-peterlevesque.warc.gz	0
-peterlevesque	homepage.mac.com		archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	homepage.mac.com-peterlevesque.warc.gz	0
-peterlevesque	public.me.com		archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	public.me.com-peterlevesque.warc.gz	0
-peterlevesque	web.me.com		archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	web.me.com-peterlevesque.warc.gz	0
+heduitman	gallery.me.com	2012-04-12 23:11:47	archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	gallery.me.com-heduitman.warc.gz	341617053
+heduitman	homepage.mac.com	2012-04-12 23:11:48	archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	homepage.mac.com-heduitman.warc.gz	4916
+heduitman	public.me.com	2012-04-12 22:59:03	archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	public.me.com-heduitman.warc.gz	1918
+heduitman	web.me.com	2012-04-12 22:58:34	archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	web.me.com-heduitman.warc.gz	3555497190
+hgoodyear	gallery.me.com	2012-04-12 20:31:38	archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	gallery.me.com-hgoodyear.warc.gz	1898917717
+hgoodyear	homepage.mac.com	2012-04-12 20:31:39	archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	homepage.mac.com-hgoodyear.warc.gz	4921
+hgoodyear	public.me.com	2012-04-12 20:10:02	archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	public.me.com-hgoodyear.warc.gz	5497985
+hgoodyear	web.me.com	2012-04-12 20:09:15	archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	web.me.com-hgoodyear.warc.gz	39226420
+peterlevesque	gallery.me.com	2012-04-12 21:59:21	archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	gallery.me.com-peterlevesque.warc.gz	4258
+peterlevesque	homepage.mac.com	2012-04-12 21:59:43	archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	homepage.mac.com-peterlevesque.warc.gz	378869
+peterlevesque	public.me.com	2012-04-12 21:59:20	archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	public.me.com-peterlevesque.warc.gz	23033005
+peterlevesque	web.me.com	2012-04-12 21:57:28	archiveteam-mobileme-hero-701x	archiveteam-mobileme-hero-701x-7012.tar	web.me.com-peterlevesque.warc.gz	1746435268

@@ -1,24 +1,24 @@
-cdobies01	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	gallery.me.com-cdobies01.warc.gz	0
-cdobies01	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	homepage.mac.com-cdobies01.warc.gz	0
-cdobies01	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	public.me.com-cdobies01.warc.gz	0
-cdobies01	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	web.me.com-cdobies01.warc.gz	0
-dmiller62	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	gallery.me.com-dmiller62.warc.gz	0
-dmiller62	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	homepage.mac.com-dmiller62.warc.gz	0
-dmiller62	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	public.me.com-dmiller62.warc.gz	0
-dmiller62	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	web.me.com-dmiller62.warc.gz	0
-hola_mandragora	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	gallery.me.com-hola_mandragora.warc.gz	0
-hola_mandragora	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	homepage.mac.com-hola_mandragora.warc.gz	0
-hola_mandragora	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	public.me.com-hola_mandragora.warc.gz	0
-hola_mandragora	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	web.me.com-hola_mandragora.warc.gz	0
-misspirate	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	gallery.me.com-misspirate.warc.gz	0
-misspirate	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	homepage.mac.com-misspirate.warc.gz	0
-misspirate	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	public.me.com-misspirate.warc.gz	0
-misspirate	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	web.me.com-misspirate.warc.gz	0
-rcoia	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	gallery.me.com-rcoia.warc.gz	0
-rcoia	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	homepage.mac.com-rcoia.warc.gz	0
-rcoia	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	public.me.com-rcoia.warc.gz	0
-rcoia	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	web.me.com-rcoia.warc.gz	0
-ubud.direct.import	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	gallery.me.com-ubud.direct.import.warc.gz	0
-ubud.direct.import	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	homepage.mac.com-ubud.direct.import.warc.gz	0
-ubud.direct.import	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	public.me.com-ubud.direct.import.warc.gz	0
-ubud.direct.import	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	web.me.com-ubud.direct.import.warc.gz	0
+cdobies01	gallery.me.com	2012-04-01 13:12:22	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	gallery.me.com-cdobies01.warc.gz	1242057996
+cdobies01	homepage.mac.com	2012-04-01 13:12:24	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	homepage.mac.com-cdobies01.warc.gz	4895
+cdobies01	public.me.com	2012-04-01 12:31:45	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	public.me.com-cdobies01.warc.gz	1915
+cdobies01	web.me.com	2012-04-01 12:31:33	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	web.me.com-cdobies01.warc.gz	1036907634
+dmiller62	gallery.me.com	2012-04-01 22:46:39	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	gallery.me.com-dmiller62.warc.gz	103315291
+dmiller62	homepage.mac.com	2012-04-01 22:46:43	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	homepage.mac.com-dmiller62.warc.gz	71584
+dmiller62	public.me.com	2012-04-01 22:42:01	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	public.me.com-dmiller62.warc.gz	4959
+dmiller62	web.me.com	2012-04-01 22:41:05	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	web.me.com-dmiller62.warc.gz	3670036147
+hola_mandragora	gallery.me.com	2012-04-01 11:12:02	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	gallery.me.com-hola_mandragora.warc.gz	241618798
+hola_mandragora	homepage.mac.com	2012-04-01 11:12:07	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	homepage.mac.com-hola_mandragora.warc.gz	263815
+hola_mandragora	public.me.com	2012-04-01 11:00:41	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	public.me.com-hola_mandragora.warc.gz	1935
+hola_mandragora	web.me.com	2012-04-01 11:00:39	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	web.me.com-hola_mandragora.warc.gz	3069187
+misspirate	gallery.me.com	2012-04-01 10:57:02	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	gallery.me.com-misspirate.warc.gz	52812377
+misspirate	homepage.mac.com	2012-04-01 10:58:34	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	homepage.mac.com-misspirate.warc.gz	757583
+misspirate	public.me.com	2012-04-01 10:49:57	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	public.me.com-misspirate.warc.gz	1921
+misspirate	web.me.com	2012-04-01 10:49:56	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	web.me.com-misspirate.warc.gz	12989138
+rcoia	gallery.me.com	2012-04-01 11:12:21	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	gallery.me.com-rcoia.warc.gz	12306
+rcoia	homepage.mac.com	2012-04-01 11:12:23	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	homepage.mac.com-rcoia.warc.gz	7139
+rcoia	public.me.com	2012-04-01 11:12:17	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	public.me.com-rcoia.warc.gz	1904
+rcoia	web.me.com	2012-04-01 11:12:16	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	web.me.com-rcoia.warc.gz	22448
+ubud.direct.import	gallery.me.com	2012-04-01 11:47:56	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	gallery.me.com-ubud.direct.import.warc.gz	1189048
+ubud.direct.import	homepage.mac.com	2012-04-01 11:47:56	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	homepage.mac.com-ubud.direct.import.warc.gz	4957
+ubud.direct.import	public.me.com	2012-04-01 11:47:49	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	public.me.com-ubud.direct.import.warc.gz	1940
+ubud.direct.import	web.me.com	2012-04-01 11:47:44	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2775.tar	web.me.com-ubud.direct.import.warc.gz	61312638

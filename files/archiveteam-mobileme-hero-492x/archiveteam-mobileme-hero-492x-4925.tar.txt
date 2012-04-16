@@ -1,12 +1,12 @@
-davidmz	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	gallery.me.com-davidmz.warc.gz	0
-davidmz	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	homepage.mac.com-davidmz.warc.gz	0
-davidmz	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	public.me.com-davidmz.warc.gz	0
-davidmz	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	web.me.com-davidmz.warc.gz	0
-matthewdjaeger	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	gallery.me.com-matthewdjaeger.warc.gz	0
-matthewdjaeger	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	homepage.mac.com-matthewdjaeger.warc.gz	0
-matthewdjaeger	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	public.me.com-matthewdjaeger.warc.gz	0
-matthewdjaeger	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	web.me.com-matthewdjaeger.warc.gz	0
-russsail	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	gallery.me.com-russsail.warc.gz	0
-russsail	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	homepage.mac.com-russsail.warc.gz	0
-russsail	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	public.me.com-russsail.warc.gz	0
-russsail	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	web.me.com-russsail.warc.gz	0
+davidmz	gallery.me.com	2012-04-07 19:03:20	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	gallery.me.com-davidmz.warc.gz	1940867968
+davidmz	homepage.mac.com	2012-04-07 19:03:21	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	homepage.mac.com-davidmz.warc.gz	4905
+davidmz	public.me.com	2012-04-07 18:18:57	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	public.me.com-davidmz.warc.gz	3482
+davidmz	web.me.com	2012-04-07 18:18:56	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	web.me.com-davidmz.warc.gz	54514244
+matthewdjaeger	gallery.me.com	2012-04-07 18:13:45	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	gallery.me.com-matthewdjaeger.warc.gz	4280
+matthewdjaeger	homepage.mac.com	2012-04-07 18:13:45	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	homepage.mac.com-matthewdjaeger.warc.gz	4941
+matthewdjaeger	public.me.com	2012-04-07 18:13:44	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	public.me.com-matthewdjaeger.warc.gz	1932
+matthewdjaeger	web.me.com	2012-04-07 18:13:43	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	web.me.com-matthewdjaeger.warc.gz	842341759
+russsail	gallery.me.com	2012-04-07 17:44:19	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	gallery.me.com-russsail.warc.gz	1863209843
+russsail	homepage.mac.com	2012-04-07 17:44:25	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	homepage.mac.com-russsail.warc.gz	120346
+russsail	public.me.com	2012-04-07 17:03:30	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	public.me.com-russsail.warc.gz	17046302
+russsail	web.me.com	2012-04-07 17:03:06	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4925.tar	web.me.com-russsail.warc.gz	29040827

@@ -1,28 +1,28 @@
-fastfocus	gallery.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	gallery.me.com-fastfocus.warc.gz	0
-fastfocus	homepage.mac.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	homepage.mac.com-fastfocus.warc.gz	0
-fastfocus	public.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	public.me.com-fastfocus.warc.gz	0
-fastfocus	web.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	web.me.com-fastfocus.warc.gz	0
-hirokani	gallery.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	gallery.me.com-hirokani.warc.gz	0
-hirokani	homepage.mac.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	homepage.mac.com-hirokani.warc.gz	0
-hirokani	public.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	public.me.com-hirokani.warc.gz	0
-hirokani	web.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	web.me.com-hirokani.warc.gz	0
-killeris	gallery.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	gallery.me.com-killeris.warc.gz	0
-killeris	homepage.mac.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	homepage.mac.com-killeris.warc.gz	0
-killeris	public.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	public.me.com-killeris.warc.gz	0
-killeris	web.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	web.me.com-killeris.warc.gz	0
-rjbrandt5	gallery.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	gallery.me.com-rjbrandt5.warc.gz	0
-rjbrandt5	homepage.mac.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	homepage.mac.com-rjbrandt5.warc.gz	0
-rjbrandt5	public.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	public.me.com-rjbrandt5.warc.gz	0
-rjbrandt5	web.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	web.me.com-rjbrandt5.warc.gz	0
-tntstudios1	gallery.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	gallery.me.com-tntstudios1.warc.gz	0
-tntstudios1	homepage.mac.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	homepage.mac.com-tntstudios1.warc.gz	0
-tntstudios1	public.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	public.me.com-tntstudios1.warc.gz	0
-tntstudios1	web.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	web.me.com-tntstudios1.warc.gz	0
-vspa	gallery.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	gallery.me.com-vspa.warc.gz	0
-vspa	homepage.mac.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	homepage.mac.com-vspa.warc.gz	0
-vspa	public.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	public.me.com-vspa.warc.gz	0
-vspa	web.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	web.me.com-vspa.warc.gz	0
-wtroppe	gallery.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	gallery.me.com-wtroppe.warc.gz	0
-wtroppe	homepage.mac.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	homepage.mac.com-wtroppe.warc.gz	0
-wtroppe	public.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	public.me.com-wtroppe.warc.gz	0
-wtroppe	web.me.com		archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	web.me.com-wtroppe.warc.gz	0
+fastfocus	gallery.me.com	2012-04-01 12:48:25	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	gallery.me.com-fastfocus.warc.gz	19512166
+fastfocus	homepage.mac.com	2012-04-01 12:48:26	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	homepage.mac.com-fastfocus.warc.gz	7906
+fastfocus	public.me.com	2012-04-01 12:47:40	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	public.me.com-fastfocus.warc.gz	271413699
+fastfocus	web.me.com	2012-04-01 12:40:34	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	web.me.com-fastfocus.warc.gz	32661829
+hirokani	gallery.me.com	2012-04-01 13:01:07	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	gallery.me.com-hirokani.warc.gz	5860
+hirokani	homepage.mac.com	2012-04-01 13:02:31	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	homepage.mac.com-hirokani.warc.gz	6383695
+hirokani	public.me.com	2012-04-01 13:01:06	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	public.me.com-hirokani.warc.gz	1916
+hirokani	web.me.com	2012-04-01 13:01:06	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	web.me.com-hirokani.warc.gz	45344
+killeris	gallery.me.com	2012-04-01 12:29:15	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	gallery.me.com-killeris.warc.gz	485074483
+killeris	homepage.mac.com	2012-04-01 12:29:16	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	homepage.mac.com-killeris.warc.gz	4905
+killeris	public.me.com	2012-04-01 12:18:28	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	public.me.com-killeris.warc.gz	3365
+killeris	web.me.com	2012-04-01 12:18:26	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	web.me.com-killeris.warc.gz	3256032
+rjbrandt5	gallery.me.com	2012-04-01 13:01:00	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	gallery.me.com-rjbrandt5.warc.gz	251955560
+rjbrandt5	homepage.mac.com	2012-04-01 13:01:00	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	homepage.mac.com-rjbrandt5.warc.gz	4908
+rjbrandt5	public.me.com	2012-04-01 12:59:34	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	public.me.com-rjbrandt5.warc.gz	423730664
+rjbrandt5	web.me.com	2012-04-01 12:51:09	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	web.me.com-rjbrandt5.warc.gz	30055822
+tntstudios1	gallery.me.com	2012-04-01 12:49:43	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	gallery.me.com-tntstudios1.warc.gz	9265577
+tntstudios1	homepage.mac.com	2012-04-01 12:49:43	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	homepage.mac.com-tntstudios1.warc.gz	4914
+tntstudios1	public.me.com	2012-04-01 12:49:38	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	public.me.com-tntstudios1.warc.gz	1926
+tntstudios1	web.me.com	2012-04-01 12:49:38	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	web.me.com-tntstudios1.warc.gz	13899631
+vspa	gallery.me.com	2012-04-01 12:49:46	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	gallery.me.com-vspa.warc.gz	8338
+vspa	homepage.mac.com	2012-04-01 12:49:46	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	homepage.mac.com-vspa.warc.gz	5144
+vspa	public.me.com	2012-04-01 12:49:45	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	public.me.com-vspa.warc.gz	1903
+vspa	web.me.com	2012-04-01 12:49:45	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	web.me.com-vspa.warc.gz	17676
+wtroppe	gallery.me.com	2012-04-01 14:06:42	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	gallery.me.com-wtroppe.warc.gz	236597259
+wtroppe	homepage.mac.com	2012-04-01 14:06:43	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	homepage.mac.com-wtroppe.warc.gz	4905
+wtroppe	public.me.com	2012-04-01 14:05:20	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	public.me.com-wtroppe.warc.gz	2046802170
+wtroppe	web.me.com	2012-04-01 13:13:42	archiveteam-mobileme-hero-268x	archiveteam-mobileme-hero-268x-2688.tar	web.me.com-wtroppe.warc.gz	466656707

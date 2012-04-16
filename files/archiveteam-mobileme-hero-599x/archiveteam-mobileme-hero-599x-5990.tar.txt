@@ -1,12 +1,12 @@
-comero	gallery.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	gallery.me.com-comero.warc.gz	0
-comero	homepage.mac.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	homepage.mac.com-comero.warc.gz	0
-comero	public.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	public.me.com-comero.warc.gz	0
-comero	web.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	web.me.com-comero.warc.gz	0
-greg.boggs	gallery.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	gallery.me.com-greg.boggs.warc.gz	0
-greg.boggs	homepage.mac.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	homepage.mac.com-greg.boggs.warc.gz	0
-greg.boggs	public.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	public.me.com-greg.boggs.warc.gz	0
-greg.boggs	web.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	web.me.com-greg.boggs.warc.gz	0
-petersegerer	gallery.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	gallery.me.com-petersegerer.warc.gz	0
-petersegerer	homepage.mac.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	homepage.mac.com-petersegerer.warc.gz	0
-petersegerer	public.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	public.me.com-petersegerer.warc.gz	0
-petersegerer	web.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	web.me.com-petersegerer.warc.gz	0
+comero	gallery.me.com	2012-04-10 12:43:10	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	gallery.me.com-comero.warc.gz	5028
+comero	homepage.mac.com	2012-04-10 12:43:21	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	homepage.mac.com-comero.warc.gz	404246
+comero	public.me.com	2012-04-10 12:43:09	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	public.me.com-comero.warc.gz	3318
+comero	web.me.com	2012-04-10 12:43:09	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	web.me.com-comero.warc.gz	578303
+greg.boggs	gallery.me.com	2012-04-10 15:46:37	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	gallery.me.com-greg.boggs.warc.gz	2353790877
+greg.boggs	homepage.mac.com	2012-04-10 15:46:41	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	homepage.mac.com-greg.boggs.warc.gz	88381
+greg.boggs	public.me.com	2012-04-10 14:45:53	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	public.me.com-greg.boggs.warc.gz	2911866539
+greg.boggs	web.me.com	2012-04-10 13:32:20	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	web.me.com-greg.boggs.warc.gz	1139843469
+petersegerer	gallery.me.com	2012-04-10 12:47:56	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	gallery.me.com-petersegerer.warc.gz	4256
+petersegerer	homepage.mac.com	2012-04-10 12:47:56	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	homepage.mac.com-petersegerer.warc.gz	4926
+petersegerer	public.me.com	2012-04-10 12:47:54	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	public.me.com-petersegerer.warc.gz	1920
+petersegerer	web.me.com	2012-04-10 12:47:51	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5990.tar	web.me.com-petersegerer.warc.gz	20233711

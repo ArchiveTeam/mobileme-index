@@ -1,24 +1,24 @@
-carlonardozza	gallery.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	gallery.me.com-carlonardozza.warc.gz	0
-carlonardozza	homepage.mac.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	homepage.mac.com-carlonardozza.warc.gz	0
-carlonardozza	public.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	public.me.com-carlonardozza.warc.gz	0
-carlonardozza	web.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	web.me.com-carlonardozza.warc.gz	0
-dirk.stegemann	gallery.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	gallery.me.com-dirk.stegemann.warc.gz	0
-dirk.stegemann	homepage.mac.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	homepage.mac.com-dirk.stegemann.warc.gz	0
-dirk.stegemann	public.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	public.me.com-dirk.stegemann.warc.gz	0
-dirk.stegemann	web.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	web.me.com-dirk.stegemann.warc.gz	0
-efranconi	gallery.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	gallery.me.com-efranconi.warc.gz	0
-efranconi	homepage.mac.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	homepage.mac.com-efranconi.warc.gz	0
-efranconi	public.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	public.me.com-efranconi.warc.gz	0
-efranconi	web.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	web.me.com-efranconi.warc.gz	0
-j.schlegel	gallery.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	gallery.me.com-j.schlegel.warc.gz	0
-j.schlegel	homepage.mac.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	homepage.mac.com-j.schlegel.warc.gz	0
-j.schlegel	public.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	public.me.com-j.schlegel.warc.gz	0
-j.schlegel	web.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	web.me.com-j.schlegel.warc.gz	0
-kathrynmarks	gallery.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	gallery.me.com-kathrynmarks.warc.gz	0
-kathrynmarks	homepage.mac.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	homepage.mac.com-kathrynmarks.warc.gz	0
-kathrynmarks	public.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	public.me.com-kathrynmarks.warc.gz	0
-kathrynmarks	web.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	web.me.com-kathrynmarks.warc.gz	0
-prasarnmitr	gallery.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	gallery.me.com-prasarnmitr.warc.gz	0
-prasarnmitr	homepage.mac.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	homepage.mac.com-prasarnmitr.warc.gz	0
-prasarnmitr	public.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	public.me.com-prasarnmitr.warc.gz	0
-prasarnmitr	web.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	web.me.com-prasarnmitr.warc.gz	0
+carlonardozza	gallery.me.com	2012-04-08 02:03:03	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	gallery.me.com-carlonardozza.warc.gz	4281
+carlonardozza	homepage.mac.com	2012-04-08 02:03:03	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	homepage.mac.com-carlonardozza.warc.gz	4931
+carlonardozza	public.me.com	2012-04-08 02:03:02	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	public.me.com-carlonardozza.warc.gz	1929
+carlonardozza	web.me.com	2012-04-08 02:03:02	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	web.me.com-carlonardozza.warc.gz	35702839
+dirk.stegemann	gallery.me.com	2012-04-07 19:41:51	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	gallery.me.com-dirk.stegemann.warc.gz	515595960
+dirk.stegemann	homepage.mac.com	2012-04-07 19:42:05	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	homepage.mac.com-dirk.stegemann.warc.gz	177232
+dirk.stegemann	public.me.com	2012-04-07 19:24:20	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	public.me.com-dirk.stegemann.warc.gz	142132045
+dirk.stegemann	web.me.com	2012-04-07 19:17:12	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	web.me.com-dirk.stegemann.warc.gz	4373714
+efranconi	gallery.me.com	2012-04-07 20:04:19	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	gallery.me.com-efranconi.warc.gz	291099667
+efranconi	homepage.mac.com	2012-04-07 20:04:19	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	homepage.mac.com-efranconi.warc.gz	4913
+efranconi	public.me.com	2012-04-07 19:54:04	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	public.me.com-efranconi.warc.gz	1915
+efranconi	web.me.com	2012-04-07 19:54:03	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	web.me.com-efranconi.warc.gz	28365037
+j.schlegel	gallery.me.com	2012-04-08 04:28:08	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	gallery.me.com-j.schlegel.warc.gz	716664099
+j.schlegel	homepage.mac.com	2012-04-08 04:28:18	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	homepage.mac.com-j.schlegel.warc.gz	101478
+j.schlegel	public.me.com	2012-04-08 04:08:35	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	public.me.com-j.schlegel.warc.gz	3351
+j.schlegel	web.me.com	2012-04-08 04:08:33	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	web.me.com-j.schlegel.warc.gz	1092960812
+kathrynmarks	gallery.me.com	2012-04-07 21:26:49	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	gallery.me.com-kathrynmarks.warc.gz	12379
+kathrynmarks	homepage.mac.com	2012-04-07 21:26:50	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	homepage.mac.com-kathrynmarks.warc.gz	7180
+kathrynmarks	public.me.com	2012-04-07 21:26:47	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	public.me.com-kathrynmarks.warc.gz	1927
+kathrynmarks	web.me.com	2012-04-07 21:26:47	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	web.me.com-kathrynmarks.warc.gz	22596
+prasarnmitr	gallery.me.com	2012-04-08 01:56:55	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	gallery.me.com-prasarnmitr.warc.gz	709850760
+prasarnmitr	homepage.mac.com	2012-04-08 01:57:00	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	homepage.mac.com-prasarnmitr.warc.gz	101263
+prasarnmitr	public.me.com	2012-04-08 01:23:30	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	public.me.com-prasarnmitr.warc.gz	1927
+prasarnmitr	web.me.com	2012-04-08 01:23:27	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5086.tar	web.me.com-prasarnmitr.warc.gz	1040526129

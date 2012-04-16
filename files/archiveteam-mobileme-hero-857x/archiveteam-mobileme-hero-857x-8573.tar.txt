@@ -1,0 +1,16 @@
+applex2	gallery.me.com	2012-04-15 16:21:18	archiveteam-mobileme-hero-857x	archiveteam-mobileme-hero-857x-8573.tar	gallery.me.com-applex2.warc.gz	8349
+applex2	homepage.mac.com	2012-04-15 16:21:19	archiveteam-mobileme-hero-857x	archiveteam-mobileme-hero-857x-8573.tar	homepage.mac.com-applex2.warc.gz	5144
+applex2	public.me.com	2012-04-15 16:21:18	archiveteam-mobileme-hero-857x	archiveteam-mobileme-hero-857x-8573.tar	public.me.com-applex2.warc.gz	1910
+applex2	web.me.com	2012-04-15 16:21:17	archiveteam-mobileme-hero-857x	archiveteam-mobileme-hero-857x-8573.tar	web.me.com-applex2.warc.gz	17677
+chasm	gallery.me.com	2012-04-15 19:27:42	archiveteam-mobileme-hero-857x	archiveteam-mobileme-hero-857x-8573.tar	gallery.me.com-chasm.warc.gz	1505046220
+chasm	homepage.mac.com	2012-04-15 19:28:18	archiveteam-mobileme-hero-857x	archiveteam-mobileme-hero-857x-8573.tar	homepage.mac.com-chasm.warc.gz	114900
+chasm	public.me.com	2012-04-15 19:00:41	archiveteam-mobileme-hero-857x	archiveteam-mobileme-hero-857x-8573.tar	public.me.com-chasm.warc.gz	1506869707
+chasm	web.me.com	2012-04-15 18:26:04	archiveteam-mobileme-hero-857x	archiveteam-mobileme-hero-857x-8573.tar	web.me.com-chasm.warc.gz	6192968831
+olilan	gallery.me.com	2012-04-15 16:27:49	archiveteam-mobileme-hero-857x	archiveteam-mobileme-hero-857x-8573.tar	gallery.me.com-olilan.warc.gz	145206
+olilan	homepage.mac.com	2012-04-15 16:27:49	archiveteam-mobileme-hero-857x	archiveteam-mobileme-hero-857x-8573.tar	homepage.mac.com-olilan.warc.gz	4906
+olilan	public.me.com	2012-04-15 16:27:47	archiveteam-mobileme-hero-857x	archiveteam-mobileme-hero-857x-8573.tar	public.me.com-olilan.warc.gz	1914
+olilan	web.me.com	2012-04-15 16:27:46	archiveteam-mobileme-hero-857x	archiveteam-mobileme-hero-857x-8573.tar	web.me.com-olilan.warc.gz	13828796
+p_okada	gallery.me.com	2012-04-15 16:25:22	archiveteam-mobileme-hero-857x	archiveteam-mobileme-hero-857x-8573.tar	gallery.me.com-p_okada.warc.gz	198009
+p_okada	homepage.mac.com	2012-04-15 16:25:26	archiveteam-mobileme-hero-857x	archiveteam-mobileme-hero-857x-8573.tar	homepage.mac.com-p_okada.warc.gz	6025
+p_okada	public.me.com	2012-04-15 16:25:20	archiveteam-mobileme-hero-857x	archiveteam-mobileme-hero-857x-8573.tar	public.me.com-p_okada.warc.gz	1917
+p_okada	web.me.com	2012-04-15 16:25:20	archiveteam-mobileme-hero-857x	archiveteam-mobileme-hero-857x-8573.tar	web.me.com-p_okada.warc.gz	2781046

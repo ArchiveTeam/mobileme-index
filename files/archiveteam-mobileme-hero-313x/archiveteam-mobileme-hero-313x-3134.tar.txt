@@ -1,28 +1,28 @@
-campaneros	gallery.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	gallery.me.com-campaneros.warc.gz	0
-campaneros	homepage.mac.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	homepage.mac.com-campaneros.warc.gz	0
-campaneros	public.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	public.me.com-campaneros.warc.gz	0
-campaneros	web.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	web.me.com-campaneros.warc.gz	0
-exit98	gallery.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	gallery.me.com-exit98.warc.gz	0
-exit98	homepage.mac.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	homepage.mac.com-exit98.warc.gz	0
-exit98	public.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	public.me.com-exit98.warc.gz	0
-exit98	web.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	web.me.com-exit98.warc.gz	0
-jrgarcia012	gallery.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	gallery.me.com-jrgarcia012.warc.gz	0
-jrgarcia012	homepage.mac.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	homepage.mac.com-jrgarcia012.warc.gz	0
-jrgarcia012	public.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	public.me.com-jrgarcia012.warc.gz	0
-jrgarcia012	web.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	web.me.com-jrgarcia012.warc.gz	0
-kindermagic	gallery.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	gallery.me.com-kindermagic.warc.gz	0
-kindermagic	homepage.mac.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	homepage.mac.com-kindermagic.warc.gz	0
-kindermagic	public.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	public.me.com-kindermagic.warc.gz	0
-kindermagic	web.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	web.me.com-kindermagic.warc.gz	0
-lewishollywood	gallery.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	gallery.me.com-lewishollywood.warc.gz	0
-lewishollywood	homepage.mac.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	homepage.mac.com-lewishollywood.warc.gz	0
-lewishollywood	public.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	public.me.com-lewishollywood.warc.gz	0
-lewishollywood	web.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	web.me.com-lewishollywood.warc.gz	0
-pedro.vallera.pepe	gallery.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	gallery.me.com-pedro.vallera.pepe.warc.gz	0
-pedro.vallera.pepe	homepage.mac.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	homepage.mac.com-pedro.vallera.pepe.warc.gz	0
-pedro.vallera.pepe	public.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	public.me.com-pedro.vallera.pepe.warc.gz	0
-pedro.vallera.pepe	web.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	web.me.com-pedro.vallera.pepe.warc.gz	0
-ramputh	gallery.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	gallery.me.com-ramputh.warc.gz	0
-ramputh	homepage.mac.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	homepage.mac.com-ramputh.warc.gz	0
-ramputh	public.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	public.me.com-ramputh.warc.gz	0
-ramputh	web.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	web.me.com-ramputh.warc.gz	0
+campaneros	gallery.me.com	2012-04-02 16:36:59	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	gallery.me.com-campaneros.warc.gz	5036
+campaneros	homepage.mac.com	2012-04-02 16:36:59	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	homepage.mac.com-campaneros.warc.gz	4911
+campaneros	public.me.com	2012-04-02 16:36:55	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	public.me.com-campaneros.warc.gz	1917
+campaneros	web.me.com	2012-04-02 16:36:54	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	web.me.com-campaneros.warc.gz	234847667
+exit98	gallery.me.com	2012-04-02 17:56:02	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	gallery.me.com-exit98.warc.gz	1514186876
+exit98	homepage.mac.com	2012-04-02 17:56:06	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	homepage.mac.com-exit98.warc.gz	96867
+exit98	public.me.com	2012-04-02 17:18:58	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	public.me.com-exit98.warc.gz	68924809
+exit98	web.me.com	2012-04-02 17:17:41	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	web.me.com-exit98.warc.gz	709503300
+jrgarcia012	gallery.me.com	2012-04-02 16:04:12	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	gallery.me.com-jrgarcia012.warc.gz	101215734
+jrgarcia012	homepage.mac.com	2012-04-02 16:04:12	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	homepage.mac.com-jrgarcia012.warc.gz	4924
+jrgarcia012	public.me.com	2012-04-02 16:01:41	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	public.me.com-jrgarcia012.warc.gz	1926
+jrgarcia012	web.me.com	2012-04-02 16:01:40	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	web.me.com-jrgarcia012.warc.gz	11828288
+kindermagic	gallery.me.com	2012-04-02 15:33:40	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	gallery.me.com-kindermagic.warc.gz	12324
+kindermagic	homepage.mac.com	2012-04-02 15:33:41	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	homepage.mac.com-kindermagic.warc.gz	7155
+kindermagic	public.me.com	2012-04-02 15:33:40	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	public.me.com-kindermagic.warc.gz	1924
+kindermagic	web.me.com	2012-04-02 15:33:39	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	web.me.com-kindermagic.warc.gz	22505
+lewishollywood	gallery.me.com	2012-04-02 15:58:12	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	gallery.me.com-lewishollywood.warc.gz	55431
+lewishollywood	homepage.mac.com	2012-04-02 15:58:13	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	homepage.mac.com-lewishollywood.warc.gz	4933
+lewishollywood	public.me.com	2012-04-02 15:58:10	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	public.me.com-lewishollywood.warc.gz	50104
+lewishollywood	web.me.com	2012-04-02 15:58:09	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	web.me.com-lewishollywood.warc.gz	91043832
+pedro.vallera.pepe	gallery.me.com	2012-04-02 22:35:40	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	gallery.me.com-pedro.vallera.pepe.warc.gz	2425625477
+pedro.vallera.pepe	homepage.mac.com	2012-04-02 22:35:42	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	homepage.mac.com-pedro.vallera.pepe.warc.gz	37014
+pedro.vallera.pepe	public.me.com	2012-04-02 21:24:51	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	public.me.com-pedro.vallera.pepe.warc.gz	1932
+pedro.vallera.pepe	web.me.com	2012-04-02 21:24:02	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	web.me.com-pedro.vallera.pepe.warc.gz	2629152805
+ramputh	gallery.me.com	2012-04-02 15:36:19	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	gallery.me.com-ramputh.warc.gz	64712238
+ramputh	homepage.mac.com	2012-04-02 15:36:21	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	homepage.mac.com-ramputh.warc.gz	4900
+ramputh	public.me.com	2012-04-02 15:34:46	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	public.me.com-ramputh.warc.gz	1914
+ramputh	web.me.com	2012-04-02 15:34:45	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3134.tar	web.me.com-ramputh.warc.gz	2419413

@@ -1,12 +1,12 @@
-lynnrosenthal	gallery.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	gallery.me.com-lynnrosenthal.warc.gz	0
-lynnrosenthal	homepage.mac.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	homepage.mac.com-lynnrosenthal.warc.gz	0
-lynnrosenthal	public.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	public.me.com-lynnrosenthal.warc.gz	0
-lynnrosenthal	web.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	web.me.com-lynnrosenthal.warc.gz	0
-pastorchrisonelife	gallery.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	gallery.me.com-pastorchrisonelife.warc.gz	0
-pastorchrisonelife	homepage.mac.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	homepage.mac.com-pastorchrisonelife.warc.gz	0
-pastorchrisonelife	public.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	public.me.com-pastorchrisonelife.warc.gz	0
-pastorchrisonelife	web.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	web.me.com-pastorchrisonelife.warc.gz	0
-zuikou	gallery.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	gallery.me.com-zuikou.warc.gz	0
-zuikou	homepage.mac.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	homepage.mac.com-zuikou.warc.gz	0
-zuikou	public.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	public.me.com-zuikou.warc.gz	0
-zuikou	web.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	web.me.com-zuikou.warc.gz	0
+lynnrosenthal	gallery.me.com	2012-04-02 10:54:05	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	gallery.me.com-lynnrosenthal.warc.gz	14264
+lynnrosenthal	homepage.mac.com	2012-04-02 10:54:07	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	homepage.mac.com-lynnrosenthal.warc.gz	4937
+lynnrosenthal	public.me.com	2012-04-02 10:54:03	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	public.me.com-lynnrosenthal.warc.gz	4707292783
+lynnrosenthal	web.me.com	2012-04-02 09:31:03	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	web.me.com-lynnrosenthal.warc.gz	6911427
+pastorchrisonelife	gallery.me.com	2012-04-02 09:29:23	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	gallery.me.com-pastorchrisonelife.warc.gz	4294
+pastorchrisonelife	homepage.mac.com	2012-04-02 09:29:23	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	homepage.mac.com-pastorchrisonelife.warc.gz	4932
+pastorchrisonelife	public.me.com	2012-04-02 09:29:22	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	public.me.com-pastorchrisonelife.warc.gz	1932
+pastorchrisonelife	web.me.com	2012-04-02 09:29:22	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	web.me.com-pastorchrisonelife.warc.gz	528322814
+zuikou	gallery.me.com	2012-04-02 09:23:11	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	gallery.me.com-zuikou.warc.gz	5152
+zuikou	homepage.mac.com	2012-04-02 09:23:13	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	homepage.mac.com-zuikou.warc.gz	41311
+zuikou	public.me.com	2012-04-02 09:23:10	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	public.me.com-zuikou.warc.gz	3347
+zuikou	web.me.com	2012-04-02 09:22:49	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2906.tar	web.me.com-zuikou.warc.gz	3110366449

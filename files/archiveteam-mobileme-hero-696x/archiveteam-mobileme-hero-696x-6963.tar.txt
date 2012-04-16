@@ -1,12 +1,12 @@
-marythew	gallery.me.com		archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	gallery.me.com-marythew.warc.gz	0
-marythew	homepage.mac.com		archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	homepage.mac.com-marythew.warc.gz	0
-marythew	public.me.com		archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	public.me.com-marythew.warc.gz	0
-marythew	web.me.com		archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	web.me.com-marythew.warc.gz	0
-mlmenezes	gallery.me.com		archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	gallery.me.com-mlmenezes.warc.gz	0
-mlmenezes	homepage.mac.com		archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	homepage.mac.com-mlmenezes.warc.gz	0
-mlmenezes	public.me.com		archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	public.me.com-mlmenezes.warc.gz	0
-mlmenezes	web.me.com		archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	web.me.com-mlmenezes.warc.gz	0
-reelmagik1	gallery.me.com		archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	gallery.me.com-reelmagik1.warc.gz	0
-reelmagik1	homepage.mac.com		archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	homepage.mac.com-reelmagik1.warc.gz	0
-reelmagik1	public.me.com		archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	public.me.com-reelmagik1.warc.gz	0
-reelmagik1	web.me.com		archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	web.me.com-reelmagik1.warc.gz	0
+marythew	gallery.me.com	2012-04-12 17:04:57	archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	gallery.me.com-marythew.warc.gz	5262
+marythew	homepage.mac.com	2012-04-12 17:04:57	archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	homepage.mac.com-marythew.warc.gz	4917
+marythew	public.me.com	2012-04-12 17:04:55	archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	public.me.com-marythew.warc.gz	1920
+marythew	web.me.com	2012-04-12 17:04:55	archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	web.me.com-marythew.warc.gz	4474637
+mlmenezes	gallery.me.com	2012-04-12 21:04:32	archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	gallery.me.com-mlmenezes.warc.gz	2308411785
+mlmenezes	homepage.mac.com	2012-04-12 21:04:33	archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	homepage.mac.com-mlmenezes.warc.gz	4911
+mlmenezes	public.me.com	2012-04-12 18:46:04	archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	public.me.com-mlmenezes.warc.gz	772157933
+mlmenezes	web.me.com	2012-04-12 18:12:01	archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	web.me.com-mlmenezes.warc.gz	144326478
+reelmagik1	gallery.me.com	2012-04-12 17:00:38	archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	gallery.me.com-reelmagik1.warc.gz	667818348
+reelmagik1	homepage.mac.com	2012-04-12 17:00:47	archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	homepage.mac.com-reelmagik1.warc.gz	105133
+reelmagik1	public.me.com	2012-04-12 16:28:29	archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	public.me.com-reelmagik1.warc.gz	249590449
+reelmagik1	web.me.com	2012-04-12 16:06:22	archiveteam-mobileme-hero-696x	archiveteam-mobileme-hero-696x-6963.tar	web.me.com-reelmagik1.warc.gz	300557089

@@ -1,8 +1,8 @@
-elisk	gallery.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2370.tar	gallery.me.com-elisk.warc.gz	0
-elisk	homepage.mac.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2370.tar	homepage.mac.com-elisk.warc.gz	0
-elisk	public.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2370.tar	public.me.com-elisk.warc.gz	0
-elisk	web.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2370.tar	web.me.com-elisk.warc.gz	0
-liuseism	gallery.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2370.tar	gallery.me.com-liuseism.warc.gz	0
-liuseism	homepage.mac.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2370.tar	homepage.mac.com-liuseism.warc.gz	0
-liuseism	public.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2370.tar	public.me.com-liuseism.warc.gz	0
-liuseism	web.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2370.tar	web.me.com-liuseism.warc.gz	0
+elisk	gallery.me.com	2012-03-31 08:00:53	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2370.tar	gallery.me.com-elisk.warc.gz	4995
+elisk	homepage.mac.com	2012-03-31 08:00:53	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2370.tar	homepage.mac.com-elisk.warc.gz	4882
+elisk	public.me.com	2012-03-31 08:00:53	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2370.tar	public.me.com-elisk.warc.gz	1908
+elisk	web.me.com	2012-03-31 08:00:52	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2370.tar	web.me.com-elisk.warc.gz	49292845
+liuseism	gallery.me.com	2012-03-31 09:39:35	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2370.tar	gallery.me.com-liuseism.warc.gz	5839
+liuseism	homepage.mac.com	2012-03-31 09:39:58	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2370.tar	homepage.mac.com-liuseism.warc.gz	1392130
+liuseism	public.me.com	2012-03-31 09:39:34	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2370.tar	public.me.com-liuseism.warc.gz	5956383846
+liuseism	web.me.com	2012-03-31 08:01:00	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2370.tar	web.me.com-liuseism.warc.gz	365745

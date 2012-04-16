@@ -1,8 +1,8 @@
-hootmarlar	gallery.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3892.tar	gallery.me.com-hootmarlar.warc.gz	0
-hootmarlar	homepage.mac.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3892.tar	homepage.mac.com-hootmarlar.warc.gz	0
-hootmarlar	public.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3892.tar	public.me.com-hootmarlar.warc.gz	0
-hootmarlar	web.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3892.tar	web.me.com-hootmarlar.warc.gz	0
-teamkids	gallery.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3892.tar	gallery.me.com-teamkids.warc.gz	0
-teamkids	homepage.mac.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3892.tar	homepage.mac.com-teamkids.warc.gz	0
-teamkids	public.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3892.tar	public.me.com-teamkids.warc.gz	0
-teamkids	web.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3892.tar	web.me.com-teamkids.warc.gz	0
+hootmarlar	gallery.me.com	2012-04-04 12:52:54	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3892.tar	gallery.me.com-hootmarlar.warc.gz	134456563
+hootmarlar	homepage.mac.com	2012-04-04 12:55:09	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3892.tar	homepage.mac.com-hootmarlar.warc.gz	1230569
+hootmarlar	public.me.com	2012-04-04 12:51:27	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3892.tar	public.me.com-hootmarlar.warc.gz	1920
+hootmarlar	web.me.com	2012-04-04 12:51:26	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3892.tar	web.me.com-hootmarlar.warc.gz	917808
+teamkids	gallery.me.com	2012-04-04 17:00:45	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3892.tar	gallery.me.com-teamkids.warc.gz	3548773042
+teamkids	homepage.mac.com	2012-04-04 17:00:49	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3892.tar	homepage.mac.com-teamkids.warc.gz	36923
+teamkids	public.me.com	2012-04-04 14:34:19	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3892.tar	public.me.com-teamkids.warc.gz	3418
+teamkids	web.me.com	2012-04-04 14:34:07	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3892.tar	web.me.com-teamkids.warc.gz	1372523432

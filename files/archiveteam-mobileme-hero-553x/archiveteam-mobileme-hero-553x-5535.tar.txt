@@ -1,12 +1,12 @@
-damon248	gallery.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	gallery.me.com-damon248.warc.gz	0
-damon248	homepage.mac.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	homepage.mac.com-damon248.warc.gz	0
-damon248	public.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	public.me.com-damon248.warc.gz	0
-damon248	web.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	web.me.com-damon248.warc.gz	0
-minaboh	gallery.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	gallery.me.com-minaboh.warc.gz	0
-minaboh	homepage.mac.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	homepage.mac.com-minaboh.warc.gz	0
-minaboh	public.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	public.me.com-minaboh.warc.gz	0
-minaboh	web.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	web.me.com-minaboh.warc.gz	0
-msblucow	gallery.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	gallery.me.com-msblucow.warc.gz	0
-msblucow	homepage.mac.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	homepage.mac.com-msblucow.warc.gz	0
-msblucow	public.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	public.me.com-msblucow.warc.gz	0
-msblucow	web.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	web.me.com-msblucow.warc.gz	0
+damon248	gallery.me.com	2012-04-09 11:55:46	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	gallery.me.com-damon248.warc.gz	29625049
+damon248	homepage.mac.com	2012-04-09 11:55:57	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	homepage.mac.com-damon248.warc.gz	490254
+damon248	public.me.com	2012-04-09 11:55:18	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	public.me.com-damon248.warc.gz	2016073760
+damon248	web.me.com	2012-04-09 11:23:26	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	web.me.com-damon248.warc.gz	591940598
+minaboh	gallery.me.com	2012-04-09 11:56:26	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	gallery.me.com-minaboh.warc.gz	5058
+minaboh	homepage.mac.com	2012-04-09 11:56:27	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	homepage.mac.com-minaboh.warc.gz	4896
+minaboh	public.me.com	2012-04-09 11:56:26	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	public.me.com-minaboh.warc.gz	1913
+minaboh	web.me.com	2012-04-09 11:56:26	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	web.me.com-minaboh.warc.gz	1821712
+msblucow	gallery.me.com	2012-04-09 15:41:26	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	gallery.me.com-msblucow.warc.gz	7917607988
+msblucow	homepage.mac.com	2012-04-09 15:41:52	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	homepage.mac.com-msblucow.warc.gz	638796
+msblucow	public.me.com	2012-04-09 13:46:45	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	public.me.com-msblucow.warc.gz	5615986341
+msblucow	web.me.com	2012-04-09 12:09:11	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5535.tar	web.me.com-msblucow.warc.gz	102947755

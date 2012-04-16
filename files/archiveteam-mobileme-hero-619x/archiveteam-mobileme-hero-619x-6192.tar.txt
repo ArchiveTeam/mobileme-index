@@ -1,24 +1,24 @@
-bruceg1	gallery.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	gallery.me.com-bruceg1.warc.gz	0
-bruceg1	homepage.mac.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	homepage.mac.com-bruceg1.warc.gz	0
-bruceg1	public.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	public.me.com-bruceg1.warc.gz	0
-bruceg1	web.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	web.me.com-bruceg1.warc.gz	0
-claudiasalinas	gallery.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	gallery.me.com-claudiasalinas.warc.gz	0
-claudiasalinas	homepage.mac.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	homepage.mac.com-claudiasalinas.warc.gz	0
-claudiasalinas	public.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	public.me.com-claudiasalinas.warc.gz	0
-claudiasalinas	web.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	web.me.com-claudiasalinas.warc.gz	0
-cpdcc	gallery.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	gallery.me.com-cpdcc.warc.gz	0
-cpdcc	homepage.mac.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	homepage.mac.com-cpdcc.warc.gz	0
-cpdcc	public.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	public.me.com-cpdcc.warc.gz	0
-cpdcc	web.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	web.me.com-cpdcc.warc.gz	0
-just.j	gallery.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	gallery.me.com-just.j.warc.gz	0
-just.j	homepage.mac.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	homepage.mac.com-just.j.warc.gz	0
-just.j	public.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	public.me.com-just.j.warc.gz	0
-just.j	web.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	web.me.com-just.j.warc.gz	0
-mariusz.busilo	gallery.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	gallery.me.com-mariusz.busilo.warc.gz	0
-mariusz.busilo	homepage.mac.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	homepage.mac.com-mariusz.busilo.warc.gz	0
-mariusz.busilo	public.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	public.me.com-mariusz.busilo.warc.gz	0
-mariusz.busilo	web.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	web.me.com-mariusz.busilo.warc.gz	0
-martinhing	gallery.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	gallery.me.com-martinhing.warc.gz	0
-martinhing	homepage.mac.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	homepage.mac.com-martinhing.warc.gz	0
-martinhing	public.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	public.me.com-martinhing.warc.gz	0
-martinhing	web.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	web.me.com-martinhing.warc.gz	0
+bruceg1	gallery.me.com	2012-04-11 03:37:55	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	gallery.me.com-bruceg1.warc.gz	43602205
+bruceg1	homepage.mac.com	2012-04-11 03:37:56	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	homepage.mac.com-bruceg1.warc.gz	7808
+bruceg1	public.me.com	2012-04-11 03:36:31	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	public.me.com-bruceg1.warc.gz	11096439
+bruceg1	web.me.com	2012-04-11 03:36:11	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	web.me.com-bruceg1.warc.gz	61964222
+claudiasalinas	gallery.me.com	2012-04-11 03:29:14	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	gallery.me.com-claudiasalinas.warc.gz	5699
+claudiasalinas	homepage.mac.com	2012-04-11 03:29:14	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	homepage.mac.com-claudiasalinas.warc.gz	4938
+claudiasalinas	public.me.com	2012-04-11 03:29:13	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	public.me.com-claudiasalinas.warc.gz	1927
+claudiasalinas	web.me.com	2012-04-11 03:29:13	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	web.me.com-claudiasalinas.warc.gz	13273709
+cpdcc	gallery.me.com	2012-04-11 03:01:42	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	gallery.me.com-cpdcc.warc.gz	253242501
+cpdcc	homepage.mac.com	2012-04-11 03:01:42	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	homepage.mac.com-cpdcc.warc.gz	4879
+cpdcc	public.me.com	2012-04-11 02:55:40	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	public.me.com-cpdcc.warc.gz	2835708402
+cpdcc	web.me.com	2012-04-11 00:43:50	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	web.me.com-cpdcc.warc.gz	366827112
+just.j	gallery.me.com	2012-04-11 03:52:31	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	gallery.me.com-just.j.warc.gz	144904712
+just.j	homepage.mac.com	2012-04-11 03:52:33	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	homepage.mac.com-just.j.warc.gz	36870
+just.j	public.me.com	2012-04-11 03:49:20	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	public.me.com-just.j.warc.gz	1918
+just.j	web.me.com	2012-04-11 03:49:19	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	web.me.com-just.j.warc.gz	306622264
+mariusz.busilo	gallery.me.com	2012-04-11 03:03:11	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	gallery.me.com-mariusz.busilo.warc.gz	18763183
+mariusz.busilo	homepage.mac.com	2012-04-11 03:03:11	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	homepage.mac.com-mariusz.busilo.warc.gz	4933
+mariusz.busilo	public.me.com	2012-04-11 03:02:15	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	public.me.com-mariusz.busilo.warc.gz	1928
+mariusz.busilo	web.me.com	2012-04-11 03:02:14	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	web.me.com-mariusz.busilo.warc.gz	989457
+martinhing	gallery.me.com	2012-04-11 03:25:38	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	gallery.me.com-martinhing.warc.gz	218474220
+martinhing	homepage.mac.com	2012-04-11 03:25:39	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	homepage.mac.com-martinhing.warc.gz	4922
+martinhing	public.me.com	2012-04-11 03:18:42	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	public.me.com-martinhing.warc.gz	1923
+martinhing	web.me.com	2012-04-11 03:18:42	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6192.tar	web.me.com-martinhing.warc.gz	44964501

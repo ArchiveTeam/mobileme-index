@@ -1,12 +1,12 @@
-bnscott	gallery.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	gallery.me.com-bnscott.warc.gz	0
-bnscott	homepage.mac.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	homepage.mac.com-bnscott.warc.gz	0
-bnscott	public.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	public.me.com-bnscott.warc.gz	0
-bnscott	web.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	web.me.com-bnscott.warc.gz	0
-curtiswebb	gallery.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	gallery.me.com-curtiswebb.warc.gz	0
-curtiswebb	homepage.mac.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	homepage.mac.com-curtiswebb.warc.gz	0
-curtiswebb	public.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	public.me.com-curtiswebb.warc.gz	0
-curtiswebb	web.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	web.me.com-curtiswebb.warc.gz	0
-lauriesanders	gallery.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	gallery.me.com-lauriesanders.warc.gz	0
-lauriesanders	homepage.mac.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	homepage.mac.com-lauriesanders.warc.gz	0
-lauriesanders	public.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	public.me.com-lauriesanders.warc.gz	0
-lauriesanders	web.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	web.me.com-lauriesanders.warc.gz	0
+bnscott	gallery.me.com	2012-04-12 23:30:59	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	gallery.me.com-bnscott.warc.gz	4234
+bnscott	homepage.mac.com	2012-04-12 23:30:59	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	homepage.mac.com-bnscott.warc.gz	4887
+bnscott	public.me.com	2012-04-12 23:30:59	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	public.me.com-bnscott.warc.gz	3328
+bnscott	web.me.com	2012-04-12 23:30:58	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	web.me.com-bnscott.warc.gz	1140907
+curtiswebb	gallery.me.com	2012-04-13 01:23:49	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	gallery.me.com-curtiswebb.warc.gz	4550933130
+curtiswebb	homepage.mac.com	2012-04-13 01:23:49	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	homepage.mac.com-curtiswebb.warc.gz	4905
+curtiswebb	public.me.com	2012-04-13 00:12:04	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	public.me.com-curtiswebb.warc.gz	60792827
+curtiswebb	web.me.com	2012-04-13 00:09:04	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	web.me.com-curtiswebb.warc.gz	810066564
+lauriesanders	gallery.me.com	2012-04-12 23:30:30	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	gallery.me.com-lauriesanders.warc.gz	5043
+lauriesanders	homepage.mac.com	2012-04-12 23:30:30	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	homepage.mac.com-lauriesanders.warc.gz	4936
+lauriesanders	public.me.com	2012-04-12 23:30:29	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	public.me.com-lauriesanders.warc.gz	1924
+lauriesanders	web.me.com	2012-04-12 23:30:28	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7046.tar	web.me.com-lauriesanders.warc.gz	5862154

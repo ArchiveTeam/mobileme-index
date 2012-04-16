@@ -1,8 +1,8 @@
-jtrey31	gallery.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3036.tar	gallery.me.com-jtrey31.warc.gz	0
-jtrey31	homepage.mac.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3036.tar	homepage.mac.com-jtrey31.warc.gz	0
-jtrey31	public.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3036.tar	public.me.com-jtrey31.warc.gz	0
-jtrey31	web.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3036.tar	web.me.com-jtrey31.warc.gz	0
-yoshiji1	gallery.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3036.tar	gallery.me.com-yoshiji1.warc.gz	0
-yoshiji1	homepage.mac.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3036.tar	homepage.mac.com-yoshiji1.warc.gz	0
-yoshiji1	public.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3036.tar	public.me.com-yoshiji1.warc.gz	0
-yoshiji1	web.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3036.tar	web.me.com-yoshiji1.warc.gz	0
+jtrey31	gallery.me.com	2012-04-02 17:08:31	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3036.tar	gallery.me.com-jtrey31.warc.gz	560897477
+jtrey31	homepage.mac.com	2012-04-02 17:08:31	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3036.tar	homepage.mac.com-jtrey31.warc.gz	7867
+jtrey31	public.me.com	2012-04-02 16:49:53	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3036.tar	public.me.com-jtrey31.warc.gz	4628218870
+jtrey31	web.me.com	2012-04-02 15:05:59	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3036.tar	web.me.com-jtrey31.warc.gz	130724768
+yoshiji1	gallery.me.com	2012-04-02 15:00:48	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3036.tar	gallery.me.com-yoshiji1.warc.gz	14476377
+yoshiji1	homepage.mac.com	2012-04-02 15:00:56	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3036.tar	homepage.mac.com-yoshiji1.warc.gz	158188
+yoshiji1	public.me.com	2012-04-02 15:00:24	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3036.tar	public.me.com-yoshiji1.warc.gz	1025222192
+yoshiji1	web.me.com	2012-04-02 14:41:23	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3036.tar	web.me.com-yoshiji1.warc.gz	142115

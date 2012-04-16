@@ -1,16 +1,16 @@
-dkolinac	gallery.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	gallery.me.com-dkolinac.warc.gz	0
-dkolinac	homepage.mac.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	homepage.mac.com-dkolinac.warc.gz	0
-dkolinac	public.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	public.me.com-dkolinac.warc.gz	0
-dkolinac	web.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	web.me.com-dkolinac.warc.gz	0
-hendelar	gallery.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	gallery.me.com-hendelar.warc.gz	0
-hendelar	homepage.mac.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	homepage.mac.com-hendelar.warc.gz	0
-hendelar	public.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	public.me.com-hendelar.warc.gz	0
-hendelar	web.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	web.me.com-hendelar.warc.gz	0
-michael.pinkowski	gallery.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	gallery.me.com-michael.pinkowski.warc.gz	0
-michael.pinkowski	homepage.mac.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	homepage.mac.com-michael.pinkowski.warc.gz	0
-michael.pinkowski	public.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	public.me.com-michael.pinkowski.warc.gz	0
-michael.pinkowski	web.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	web.me.com-michael.pinkowski.warc.gz	0
-thomas.vertommen	gallery.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	gallery.me.com-thomas.vertommen.warc.gz	0
-thomas.vertommen	homepage.mac.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	homepage.mac.com-thomas.vertommen.warc.gz	0
-thomas.vertommen	public.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	public.me.com-thomas.vertommen.warc.gz	0
-thomas.vertommen	web.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	web.me.com-thomas.vertommen.warc.gz	0
+dkolinac	gallery.me.com	2012-04-07 22:26:05	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	gallery.me.com-dkolinac.warc.gz	3755178135
+dkolinac	homepage.mac.com	2012-04-07 22:26:06	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	homepage.mac.com-dkolinac.warc.gz	7886
+dkolinac	public.me.com	2012-04-07 21:29:04	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	public.me.com-dkolinac.warc.gz	558910533
+dkolinac	web.me.com	2012-04-07 21:16:12	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	web.me.com-dkolinac.warc.gz	479683603
+hendelar	gallery.me.com	2012-04-07 20:54:57	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	gallery.me.com-hendelar.warc.gz	37248603
+hendelar	homepage.mac.com	2012-04-07 20:54:58	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	homepage.mac.com-hendelar.warc.gz	4918
+hendelar	public.me.com	2012-04-07 20:54:11	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	public.me.com-hendelar.warc.gz	1918
+hendelar	web.me.com	2012-04-07 20:54:10	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	web.me.com-hendelar.warc.gz	54497241
+michael.pinkowski	gallery.me.com	2012-04-07 20:42:10	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	gallery.me.com-michael.pinkowski.warc.gz	4301
+michael.pinkowski	homepage.mac.com	2012-04-07 20:42:10	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	homepage.mac.com-michael.pinkowski.warc.gz	4952
+michael.pinkowski	public.me.com	2012-04-07 20:42:09	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	public.me.com-michael.pinkowski.warc.gz	1936
+michael.pinkowski	web.me.com	2012-04-07 20:42:09	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	web.me.com-michael.pinkowski.warc.gz	36881
+thomas.vertommen	gallery.me.com	2012-04-07 20:42:05	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	gallery.me.com-thomas.vertommen.warc.gz	563161438
+thomas.vertommen	homepage.mac.com	2012-04-07 20:42:06	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	homepage.mac.com-thomas.vertommen.warc.gz	4948
+thomas.vertommen	public.me.com	2012-04-07 20:34:35	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	public.me.com-thomas.vertommen.warc.gz	1933
+thomas.vertommen	web.me.com	2012-04-07 20:34:34	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4990.tar	web.me.com-thomas.vertommen.warc.gz	5635674

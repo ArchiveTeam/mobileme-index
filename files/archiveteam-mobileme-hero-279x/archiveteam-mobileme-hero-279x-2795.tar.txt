@@ -1,24 +1,24 @@
-alisdairjones	gallery.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	gallery.me.com-alisdairjones.warc.gz	0
-alisdairjones	homepage.mac.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	homepage.mac.com-alisdairjones.warc.gz	0
-alisdairjones	public.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	public.me.com-alisdairjones.warc.gz	0
-alisdairjones	web.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	web.me.com-alisdairjones.warc.gz	0
-carstenborch	gallery.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	gallery.me.com-carstenborch.warc.gz	0
-carstenborch	homepage.mac.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	homepage.mac.com-carstenborch.warc.gz	0
-carstenborch	public.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	public.me.com-carstenborch.warc.gz	0
-carstenborch	web.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	web.me.com-carstenborch.warc.gz	0
-monkeybane	gallery.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	gallery.me.com-monkeybane.warc.gz	0
-monkeybane	homepage.mac.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	homepage.mac.com-monkeybane.warc.gz	0
-monkeybane	public.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	public.me.com-monkeybane.warc.gz	0
-monkeybane	web.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	web.me.com-monkeybane.warc.gz	0
-piustien	gallery.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	gallery.me.com-piustien.warc.gz	0
-piustien	homepage.mac.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	homepage.mac.com-piustien.warc.gz	0
-piustien	public.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	public.me.com-piustien.warc.gz	0
-piustien	web.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	web.me.com-piustien.warc.gz	0
-psgagnon	gallery.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	gallery.me.com-psgagnon.warc.gz	0
-psgagnon	homepage.mac.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	homepage.mac.com-psgagnon.warc.gz	0
-psgagnon	public.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	public.me.com-psgagnon.warc.gz	0
-psgagnon	web.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	web.me.com-psgagnon.warc.gz	0
-renulf	gallery.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	gallery.me.com-renulf.warc.gz	0
-renulf	homepage.mac.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	homepage.mac.com-renulf.warc.gz	0
-renulf	public.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	public.me.com-renulf.warc.gz	0
-renulf	web.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	web.me.com-renulf.warc.gz	0
+alisdairjones	gallery.me.com	2012-04-02 01:01:44	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	gallery.me.com-alisdairjones.warc.gz	1945555335
+alisdairjones	homepage.mac.com	2012-04-02 01:01:53	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	homepage.mac.com-alisdairjones.warc.gz	90945
+alisdairjones	public.me.com	2012-04-01 23:05:22	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	public.me.com-alisdairjones.warc.gz	4103842426
+alisdairjones	web.me.com	2012-04-01 22:03:52	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	web.me.com-alisdairjones.warc.gz	364005745
+carstenborch	gallery.me.com	2012-04-01 21:29:20	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	gallery.me.com-carstenborch.warc.gz	4265
+carstenborch	homepage.mac.com	2012-04-01 21:29:20	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	homepage.mac.com-carstenborch.warc.gz	4921
+carstenborch	public.me.com	2012-04-01 21:29:19	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	public.me.com-carstenborch.warc.gz	1931
+carstenborch	web.me.com	2012-04-01 21:29:19	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	web.me.com-carstenborch.warc.gz	3190746
+monkeybane	gallery.me.com	2012-04-01 20:27:42	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	gallery.me.com-monkeybane.warc.gz	12330
+monkeybane	homepage.mac.com	2012-04-01 20:27:43	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	homepage.mac.com-monkeybane.warc.gz	7155
+monkeybane	public.me.com	2012-04-01 20:27:39	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	public.me.com-monkeybane.warc.gz	1924
+monkeybane	web.me.com	2012-04-01 20:27:38	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	web.me.com-monkeybane.warc.gz	22503
+piustien	gallery.me.com	2012-04-01 21:24:59	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	gallery.me.com-piustien.warc.gz	389090461
+piustien	homepage.mac.com	2012-04-01 21:25:13	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	homepage.mac.com-piustien.warc.gz	139374
+piustien	public.me.com	2012-04-01 21:02:04	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	public.me.com-piustien.warc.gz	209780174
+piustien	web.me.com	2012-04-01 20:54:36	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	web.me.com-piustien.warc.gz	58565623
+psgagnon	gallery.me.com	2012-04-01 20:30:59	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	gallery.me.com-psgagnon.warc.gz	5215
+psgagnon	homepage.mac.com	2012-04-01 20:31:00	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	homepage.mac.com-psgagnon.warc.gz	7774
+psgagnon	public.me.com	2012-04-01 20:30:57	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	public.me.com-psgagnon.warc.gz	93272508
+psgagnon	web.me.com	2012-04-01 20:28:02	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	web.me.com-psgagnon.warc.gz	94917
+renulf	gallery.me.com	2012-04-01 20:33:21	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	gallery.me.com-renulf.warc.gz	4231
+renulf	homepage.mac.com	2012-04-01 20:33:24	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	homepage.mac.com-renulf.warc.gz	54133
+renulf	public.me.com	2012-04-01 20:33:20	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	public.me.com-renulf.warc.gz	1915
+renulf	web.me.com	2012-04-01 20:33:19	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2795.tar	web.me.com-renulf.warc.gz	1959226

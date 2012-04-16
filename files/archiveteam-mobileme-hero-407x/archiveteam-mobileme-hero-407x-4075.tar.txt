@@ -1,8 +1,8 @@
-blossom66	gallery.me.com		archiveteam-mobileme-hero-407x	archiveteam-mobileme-hero-407x-4075.tar	gallery.me.com-blossom66.warc.gz	0
-blossom66	homepage.mac.com		archiveteam-mobileme-hero-407x	archiveteam-mobileme-hero-407x-4075.tar	homepage.mac.com-blossom66.warc.gz	0
-blossom66	public.me.com		archiveteam-mobileme-hero-407x	archiveteam-mobileme-hero-407x-4075.tar	public.me.com-blossom66.warc.gz	0
-blossom66	web.me.com		archiveteam-mobileme-hero-407x	archiveteam-mobileme-hero-407x-4075.tar	web.me.com-blossom66.warc.gz	0
-hockeyumpire	gallery.me.com		archiveteam-mobileme-hero-407x	archiveteam-mobileme-hero-407x-4075.tar	gallery.me.com-hockeyumpire.warc.gz	0
-hockeyumpire	homepage.mac.com		archiveteam-mobileme-hero-407x	archiveteam-mobileme-hero-407x-4075.tar	homepage.mac.com-hockeyumpire.warc.gz	0
-hockeyumpire	public.me.com		archiveteam-mobileme-hero-407x	archiveteam-mobileme-hero-407x-4075.tar	public.me.com-hockeyumpire.warc.gz	0
-hockeyumpire	web.me.com		archiveteam-mobileme-hero-407x	archiveteam-mobileme-hero-407x-4075.tar	web.me.com-hockeyumpire.warc.gz	0
+blossom66	gallery.me.com	2012-04-05 03:46:16	archiveteam-mobileme-hero-407x	archiveteam-mobileme-hero-407x-4075.tar	gallery.me.com-blossom66.warc.gz	5459990759
+blossom66	homepage.mac.com	2012-04-05 03:46:18	archiveteam-mobileme-hero-407x	archiveteam-mobileme-hero-407x-4075.tar	homepage.mac.com-blossom66.warc.gz	4920
+blossom66	public.me.com	2012-04-05 01:46:52	archiveteam-mobileme-hero-407x	archiveteam-mobileme-hero-407x-4075.tar	public.me.com-blossom66.warc.gz	628552332
+blossom66	web.me.com	2012-04-05 01:36:29	archiveteam-mobileme-hero-407x	archiveteam-mobileme-hero-407x-4075.tar	web.me.com-blossom66.warc.gz	53824441
+hockeyumpire	gallery.me.com	2012-04-05 01:20:04	archiveteam-mobileme-hero-407x	archiveteam-mobileme-hero-407x-4075.tar	gallery.me.com-hockeyumpire.warc.gz	12331
+hockeyumpire	homepage.mac.com	2012-04-05 01:20:04	archiveteam-mobileme-hero-407x	archiveteam-mobileme-hero-407x-4075.tar	homepage.mac.com-hockeyumpire.warc.gz	7160
+hockeyumpire	public.me.com	2012-04-05 01:20:03	archiveteam-mobileme-hero-407x	archiveteam-mobileme-hero-407x-4075.tar	public.me.com-hockeyumpire.warc.gz	1928
+hockeyumpire	web.me.com	2012-04-05 01:20:03	archiveteam-mobileme-hero-407x	archiveteam-mobileme-hero-407x-4075.tar	web.me.com-hockeyumpire.warc.gz	22496

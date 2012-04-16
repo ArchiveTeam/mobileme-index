@@ -1,12 +1,12 @@
-jeffin	gallery.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	gallery.me.com-jeffin.warc.gz	0
-jeffin	homepage.mac.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	homepage.mac.com-jeffin.warc.gz	0
-jeffin	public.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	public.me.com-jeffin.warc.gz	0
-jeffin	web.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	web.me.com-jeffin.warc.gz	0
-mkirkendoll	gallery.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	gallery.me.com-mkirkendoll.warc.gz	0
-mkirkendoll	homepage.mac.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	homepage.mac.com-mkirkendoll.warc.gz	0
-mkirkendoll	public.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	public.me.com-mkirkendoll.warc.gz	0
-mkirkendoll	web.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	web.me.com-mkirkendoll.warc.gz	0
-pontecorvo1	gallery.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	gallery.me.com-pontecorvo1.warc.gz	0
-pontecorvo1	homepage.mac.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	homepage.mac.com-pontecorvo1.warc.gz	0
-pontecorvo1	public.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	public.me.com-pontecorvo1.warc.gz	0
-pontecorvo1	web.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	web.me.com-pontecorvo1.warc.gz	0
+jeffin	gallery.me.com	2012-04-11 14:52:16	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	gallery.me.com-jeffin.warc.gz	172715091
+jeffin	homepage.mac.com	2012-04-11 14:52:41	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	homepage.mac.com-jeffin.warc.gz	510673
+jeffin	public.me.com	2012-04-11 14:46:24	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	public.me.com-jeffin.warc.gz	3322
+jeffin	web.me.com	2012-04-11 14:46:23	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	web.me.com-jeffin.warc.gz	430883137
+mkirkendoll	gallery.me.com	2012-04-11 16:54:56	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	gallery.me.com-mkirkendoll.warc.gz	235893612
+mkirkendoll	homepage.mac.com	2012-04-11 16:54:56	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	homepage.mac.com-mkirkendoll.warc.gz	4909
+mkirkendoll	public.me.com	2012-04-11 16:47:08	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	public.me.com-mkirkendoll.warc.gz	1932
+mkirkendoll	web.me.com	2012-04-11 16:47:07	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	web.me.com-mkirkendoll.warc.gz	1094879318
+pontecorvo1	gallery.me.com	2012-04-11 14:22:42	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	gallery.me.com-pontecorvo1.warc.gz	59364816
+pontecorvo1	homepage.mac.com	2012-04-11 14:22:45	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	homepage.mac.com-pontecorvo1.warc.gz	54871
+pontecorvo1	public.me.com	2012-04-11 14:16:49	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	public.me.com-pontecorvo1.warc.gz	3541867033
+pontecorvo1	web.me.com	2012-04-11 13:09:51	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6458.tar	web.me.com-pontecorvo1.warc.gz	25625102

@@ -1,12 +1,12 @@
-sschwartz	gallery.me.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	gallery.me.com-sschwartz.warc.gz	0
-sschwartz	homepage.mac.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	homepage.mac.com-sschwartz.warc.gz	0
-sschwartz	public.me.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	public.me.com-sschwartz.warc.gz	0
-sschwartz	web.me.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	web.me.com-sschwartz.warc.gz	0
-touloumtzoglou	gallery.me.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	gallery.me.com-touloumtzoglou.warc.gz	0
-touloumtzoglou	homepage.mac.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	homepage.mac.com-touloumtzoglou.warc.gz	0
-touloumtzoglou	public.me.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	public.me.com-touloumtzoglou.warc.gz	0
-touloumtzoglou	web.me.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	web.me.com-touloumtzoglou.warc.gz	0
-wcouncil1	gallery.me.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	gallery.me.com-wcouncil1.warc.gz	0
-wcouncil1	homepage.mac.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	homepage.mac.com-wcouncil1.warc.gz	0
-wcouncil1	public.me.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	public.me.com-wcouncil1.warc.gz	0
-wcouncil1	web.me.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	web.me.com-wcouncil1.warc.gz	0
+sschwartz	gallery.me.com	2012-04-13 10:01:43	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	gallery.me.com-sschwartz.warc.gz	3118919518
+sschwartz	homepage.mac.com	2012-04-13 10:02:27	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	homepage.mac.com-sschwartz.warc.gz	729971
+sschwartz	public.me.com	2012-04-13 09:27:03	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	public.me.com-sschwartz.warc.gz	1920
+sschwartz	web.me.com	2012-04-13 09:27:03	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	web.me.com-sschwartz.warc.gz	95356233
+touloumtzoglou	gallery.me.com	2012-04-13 09:17:49	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	gallery.me.com-touloumtzoglou.warc.gz	580049485
+touloumtzoglou	homepage.mac.com	2012-04-13 09:17:50	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	homepage.mac.com-touloumtzoglou.warc.gz	7863
+touloumtzoglou	public.me.com	2012-04-13 09:01:11	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	public.me.com-touloumtzoglou.warc.gz	75532829
+touloumtzoglou	web.me.com	2012-04-13 08:59:09	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	web.me.com-touloumtzoglou.warc.gz	599870155
+wcouncil1	gallery.me.com	2012-04-13 08:26:41	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	gallery.me.com-wcouncil1.warc.gz	8349
+wcouncil1	homepage.mac.com	2012-04-13 08:26:42	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	homepage.mac.com-wcouncil1.warc.gz	5172
+wcouncil1	public.me.com	2012-04-13 08:26:40	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	public.me.com-wcouncil1.warc.gz	1916
+wcouncil1	web.me.com	2012-04-13 08:26:40	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7244.tar	web.me.com-wcouncil1.warc.gz	17683

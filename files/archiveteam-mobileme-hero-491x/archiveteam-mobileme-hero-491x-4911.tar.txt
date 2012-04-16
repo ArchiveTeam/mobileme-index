@@ -1,8 +1,8 @@
-capitanmac	gallery.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4911.tar	gallery.me.com-capitanmac.warc.gz	0
-capitanmac	homepage.mac.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4911.tar	homepage.mac.com-capitanmac.warc.gz	0
-capitanmac	public.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4911.tar	public.me.com-capitanmac.warc.gz	0
-capitanmac	web.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4911.tar	web.me.com-capitanmac.warc.gz	0
-le_grand	gallery.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4911.tar	gallery.me.com-le_grand.warc.gz	0
-le_grand	homepage.mac.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4911.tar	homepage.mac.com-le_grand.warc.gz	0
-le_grand	public.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4911.tar	public.me.com-le_grand.warc.gz	0
-le_grand	web.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4911.tar	web.me.com-le_grand.warc.gz	0
+capitanmac	gallery.me.com	2012-04-07 17:44:59	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4911.tar	gallery.me.com-capitanmac.warc.gz	331479205
+capitanmac	homepage.mac.com	2012-04-07 17:45:00	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4911.tar	homepage.mac.com-capitanmac.warc.gz	4923
+capitanmac	public.me.com	2012-04-07 17:36:50	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4911.tar	public.me.com-capitanmac.warc.gz	463697510
+capitanmac	web.me.com	2012-04-07 17:24:11	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4911.tar	web.me.com-capitanmac.warc.gz	121692438
+le_grand	gallery.me.com	2012-04-07 17:10:40	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4911.tar	gallery.me.com-le_grand.warc.gz	3566105
+le_grand	homepage.mac.com	2012-04-07 17:10:50	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4911.tar	homepage.mac.com-le_grand.warc.gz	163478
+le_grand	public.me.com	2012-04-07 17:10:26	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4911.tar	public.me.com-le_grand.warc.gz	3831767599
+le_grand	web.me.com	2012-04-07 15:37:28	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4911.tar	web.me.com-le_grand.warc.gz	16407545

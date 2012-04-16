@@ -1,8 +1,8 @@
-a.yates	gallery.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6559.tar	gallery.me.com-a.yates.warc.gz	0
-a.yates	homepage.mac.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6559.tar	homepage.mac.com-a.yates.warc.gz	0
-a.yates	public.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6559.tar	public.me.com-a.yates.warc.gz	0
-a.yates	web.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6559.tar	web.me.com-a.yates.warc.gz	0
-xhennebel	gallery.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6559.tar	gallery.me.com-xhennebel.warc.gz	0
-xhennebel	homepage.mac.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6559.tar	homepage.mac.com-xhennebel.warc.gz	0
-xhennebel	public.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6559.tar	public.me.com-xhennebel.warc.gz	0
-xhennebel	web.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6559.tar	web.me.com-xhennebel.warc.gz	0
+a.yates	gallery.me.com	2012-04-12 04:44:09	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6559.tar	gallery.me.com-a.yates.warc.gz	5925756459
+a.yates	homepage.mac.com	2012-04-12 04:44:10	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6559.tar	homepage.mac.com-a.yates.warc.gz	4900
+a.yates	public.me.com	2012-04-11 16:19:51	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6559.tar	public.me.com-a.yates.warc.gz	1910
+a.yates	web.me.com	2012-04-11 16:19:51	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6559.tar	web.me.com-a.yates.warc.gz	75908706
+xhennebel	gallery.me.com	2012-04-11 16:03:10	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6559.tar	gallery.me.com-xhennebel.warc.gz	311129837
+xhennebel	homepage.mac.com	2012-04-11 16:03:10	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6559.tar	homepage.mac.com-xhennebel.warc.gz	4906
+xhennebel	public.me.com	2012-04-11 14:41:56	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6559.tar	public.me.com-xhennebel.warc.gz	3659964281
+xhennebel	web.me.com	2012-04-11 12:15:08	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6559.tar	web.me.com-xhennebel.warc.gz	125702416

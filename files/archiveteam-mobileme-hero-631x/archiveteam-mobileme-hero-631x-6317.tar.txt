@@ -1,20 +1,20 @@
-dstluka	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	gallery.me.com-dstluka.warc.gz	0
-dstluka	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	homepage.mac.com-dstluka.warc.gz	0
-dstluka	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	public.me.com-dstluka.warc.gz	0
-dstluka	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	web.me.com-dstluka.warc.gz	0
-frbrob	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	gallery.me.com-frbrob.warc.gz	0
-frbrob	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	homepage.mac.com-frbrob.warc.gz	0
-frbrob	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	public.me.com-frbrob.warc.gz	0
-frbrob	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	web.me.com-frbrob.warc.gz	0
-gsus08	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	gallery.me.com-gsus08.warc.gz	0
-gsus08	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	homepage.mac.com-gsus08.warc.gz	0
-gsus08	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	public.me.com-gsus08.warc.gz	0
-gsus08	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	web.me.com-gsus08.warc.gz	0
-mountainmediation	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	gallery.me.com-mountainmediation.warc.gz	0
-mountainmediation	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	homepage.mac.com-mountainmediation.warc.gz	0
-mountainmediation	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	public.me.com-mountainmediation.warc.gz	0
-mountainmediation	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	web.me.com-mountainmediation.warc.gz	0
-schanie	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	gallery.me.com-schanie.warc.gz	0
-schanie	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	homepage.mac.com-schanie.warc.gz	0
-schanie	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	public.me.com-schanie.warc.gz	0
-schanie	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	web.me.com-schanie.warc.gz	0
+dstluka	gallery.me.com	2012-04-11 11:01:15	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	gallery.me.com-dstluka.warc.gz	191664508
+dstluka	homepage.mac.com	2012-04-11 11:01:29	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	homepage.mac.com-dstluka.warc.gz	124325
+dstluka	public.me.com	2012-04-11 10:52:57	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	public.me.com-dstluka.warc.gz	1910
+dstluka	web.me.com	2012-04-11 10:52:43	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	web.me.com-dstluka.warc.gz	3575655502
+frbrob	gallery.me.com	2012-04-10 22:16:29	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	gallery.me.com-frbrob.warc.gz	4246
+frbrob	homepage.mac.com	2012-04-10 22:16:34	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	homepage.mac.com-frbrob.warc.gz	4914
+frbrob	public.me.com	2012-04-10 22:16:29	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	public.me.com-frbrob.warc.gz	1913
+frbrob	web.me.com	2012-04-10 22:16:28	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	web.me.com-frbrob.warc.gz	32727965
+gsus08	gallery.me.com	2012-04-10 23:22:43	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	gallery.me.com-gsus08.warc.gz	63856153
+gsus08	homepage.mac.com	2012-04-10 23:22:43	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	homepage.mac.com-gsus08.warc.gz	4884
+gsus08	public.me.com	2012-04-10 23:21:59	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	public.me.com-gsus08.warc.gz	1915
+gsus08	web.me.com	2012-04-10 23:21:58	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	web.me.com-gsus08.warc.gz	859552175
+mountainmediation	gallery.me.com	2012-04-10 23:27:02	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	gallery.me.com-mountainmediation.warc.gz	2321481
+mountainmediation	homepage.mac.com	2012-04-10 23:27:03	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	homepage.mac.com-mountainmediation.warc.gz	4948
+mountainmediation	public.me.com	2012-04-10 23:26:57	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	public.me.com-mountainmediation.warc.gz	1934
+mountainmediation	web.me.com	2012-04-10 23:26:57	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	web.me.com-mountainmediation.warc.gz	2950308
+schanie	gallery.me.com	2012-04-10 23:53:18	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	gallery.me.com-schanie.warc.gz	4836622
+schanie	homepage.mac.com	2012-04-10 23:53:19	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	homepage.mac.com-schanie.warc.gz	4897
+schanie	public.me.com	2012-04-10 23:53:01	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	public.me.com-schanie.warc.gz	1913
+schanie	web.me.com	2012-04-10 23:53:00	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6317.tar	web.me.com-schanie.warc.gz	19073881

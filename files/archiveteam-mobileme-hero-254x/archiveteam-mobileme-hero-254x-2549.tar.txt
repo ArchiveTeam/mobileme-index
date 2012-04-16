@@ -1,24 +1,24 @@
-c2036856010	gallery.me.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	gallery.me.com-c2036856010.warc.gz	0
-c2036856010	homepage.mac.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	homepage.mac.com-c2036856010.warc.gz	0
-c2036856010	public.me.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	public.me.com-c2036856010.warc.gz	0
-c2036856010	web.me.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	web.me.com-c2036856010.warc.gz	0
-fors	gallery.me.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	gallery.me.com-fors.warc.gz	0
-fors	homepage.mac.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	homepage.mac.com-fors.warc.gz	0
-fors	public.me.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	public.me.com-fors.warc.gz	0
-fors	web.me.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	web.me.com-fors.warc.gz	0
-ian_phillips	gallery.me.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	gallery.me.com-ian_phillips.warc.gz	0
-ian_phillips	homepage.mac.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	homepage.mac.com-ian_phillips.warc.gz	0
-ian_phillips	public.me.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	public.me.com-ian_phillips.warc.gz	0
-ian_phillips	web.me.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	web.me.com-ian_phillips.warc.gz	0
-larrymilburn1	gallery.me.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	gallery.me.com-larrymilburn1.warc.gz	0
-larrymilburn1	homepage.mac.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	homepage.mac.com-larrymilburn1.warc.gz	0
-larrymilburn1	public.me.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	public.me.com-larrymilburn1.warc.gz	0
-larrymilburn1	web.me.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	web.me.com-larrymilburn1.warc.gz	0
-ldpwedding	gallery.me.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	gallery.me.com-ldpwedding.warc.gz	0
-ldpwedding	homepage.mac.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	homepage.mac.com-ldpwedding.warc.gz	0
-ldpwedding	public.me.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	public.me.com-ldpwedding.warc.gz	0
-ldpwedding	web.me.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	web.me.com-ldpwedding.warc.gz	0
-silberling	gallery.me.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	gallery.me.com-silberling.warc.gz	0
-silberling	homepage.mac.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	homepage.mac.com-silberling.warc.gz	0
-silberling	public.me.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	public.me.com-silberling.warc.gz	0
-silberling	web.me.com		archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	web.me.com-silberling.warc.gz	0
+c2036856010	gallery.me.com	2012-03-31 21:03:03	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	gallery.me.com-c2036856010.warc.gz	8368
+c2036856010	homepage.mac.com	2012-03-31 21:03:03	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	homepage.mac.com-c2036856010.warc.gz	5180
+c2036856010	public.me.com	2012-03-31 21:03:02	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	public.me.com-c2036856010.warc.gz	1920
+c2036856010	web.me.com	2012-03-31 21:03:01	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	web.me.com-c2036856010.warc.gz	17765
+fors	gallery.me.com	2012-04-01 00:33:53	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	gallery.me.com-fors.warc.gz	4154161369
+fors	homepage.mac.com	2012-04-01 00:34:01	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	homepage.mac.com-fors.warc.gz	87828
+fors	public.me.com	2012-03-31 22:51:07	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	public.me.com-fors.warc.gz	15990
+fors	web.me.com	2012-03-31 22:50:26	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	web.me.com-fors.warc.gz	132599653
+ian_phillips	gallery.me.com	2012-03-31 21:19:31	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	gallery.me.com-ian_phillips.warc.gz	669839
+ian_phillips	homepage.mac.com	2012-03-31 21:19:32	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	homepage.mac.com-ian_phillips.warc.gz	4918
+ian_phillips	public.me.com	2012-03-31 21:19:23	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	public.me.com-ian_phillips.warc.gz	1917
+ian_phillips	web.me.com	2012-03-31 21:19:23	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	web.me.com-ian_phillips.warc.gz	2038982
+larrymilburn1	gallery.me.com	2012-03-31 21:56:15	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	gallery.me.com-larrymilburn1.warc.gz	4307
+larrymilburn1	homepage.mac.com	2012-03-31 21:56:20	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	homepage.mac.com-larrymilburn1.warc.gz	81075
+larrymilburn1	public.me.com	2012-03-31 21:56:14	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	public.me.com-larrymilburn1.warc.gz	1007141686
+larrymilburn1	web.me.com	2012-03-31 21:19:40	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	web.me.com-larrymilburn1.warc.gz	84678
+ldpwedding	gallery.me.com	2012-03-31 21:17:15	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	gallery.me.com-ldpwedding.warc.gz	357562435
+ldpwedding	homepage.mac.com	2012-03-31 21:17:16	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	homepage.mac.com-ldpwedding.warc.gz	4921
+ldpwedding	public.me.com	2012-03-31 21:13:54	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	public.me.com-ldpwedding.warc.gz	1923
+ldpwedding	web.me.com	2012-03-31 21:13:53	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	web.me.com-ldpwedding.warc.gz	70234946
+silberling	gallery.me.com	2012-03-31 21:56:24	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	gallery.me.com-silberling.warc.gz	8355
+silberling	homepage.mac.com	2012-03-31 21:56:24	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	homepage.mac.com-silberling.warc.gz	5175
+silberling	public.me.com	2012-03-31 21:56:23	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	public.me.com-silberling.warc.gz	1923
+silberling	web.me.com	2012-03-31 21:56:23	archiveteam-mobileme-hero-254x	archiveteam-mobileme-hero-254x-2549.tar	web.me.com-silberling.warc.gz	17727

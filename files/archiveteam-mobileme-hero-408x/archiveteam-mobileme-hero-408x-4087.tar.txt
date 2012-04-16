@@ -1,16 +1,16 @@
-benjamindalenye	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	gallery.me.com-benjamindalenye.warc.gz	0
-benjamindalenye	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	homepage.mac.com-benjamindalenye.warc.gz	0
-benjamindalenye	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	public.me.com-benjamindalenye.warc.gz	0
-benjamindalenye	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	web.me.com-benjamindalenye.warc.gz	0
-courbouleix.j	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	gallery.me.com-courbouleix.j.warc.gz	0
-courbouleix.j	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	homepage.mac.com-courbouleix.j.warc.gz	0
-courbouleix.j	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	public.me.com-courbouleix.j.warc.gz	0
-courbouleix.j	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	web.me.com-courbouleix.j.warc.gz	0
-nijikoto	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	gallery.me.com-nijikoto.warc.gz	0
-nijikoto	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	homepage.mac.com-nijikoto.warc.gz	0
-nijikoto	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	public.me.com-nijikoto.warc.gz	0
-nijikoto	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	web.me.com-nijikoto.warc.gz	0
-siegmanandsons	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	gallery.me.com-siegmanandsons.warc.gz	0
-siegmanandsons	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	homepage.mac.com-siegmanandsons.warc.gz	0
-siegmanandsons	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	public.me.com-siegmanandsons.warc.gz	0
-siegmanandsons	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	web.me.com-siegmanandsons.warc.gz	0
+benjamindalenye	gallery.me.com	2012-04-05 04:32:46	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	gallery.me.com-benjamindalenye.warc.gz	4288
+benjamindalenye	homepage.mac.com	2012-04-05 04:32:46	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	homepage.mac.com-benjamindalenye.warc.gz	4931
+benjamindalenye	public.me.com	2012-04-05 04:32:45	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	public.me.com-benjamindalenye.warc.gz	1926
+benjamindalenye	web.me.com	2012-04-05 04:32:45	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	web.me.com-benjamindalenye.warc.gz	9527689
+courbouleix.j	gallery.me.com	2012-04-05 05:26:22	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	gallery.me.com-courbouleix.j.warc.gz	612078620
+courbouleix.j	homepage.mac.com	2012-04-05 05:26:22	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	homepage.mac.com-courbouleix.j.warc.gz	4938
+courbouleix.j	public.me.com	2012-04-05 04:58:52	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	public.me.com-courbouleix.j.warc.gz	42160290
+courbouleix.j	web.me.com	2012-04-05 04:58:00	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	web.me.com-courbouleix.j.warc.gz	216621008
+nijikoto	gallery.me.com	2012-04-05 04:26:54	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	gallery.me.com-nijikoto.warc.gz	3321839760
+nijikoto	homepage.mac.com	2012-04-05 04:26:54	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	homepage.mac.com-nijikoto.warc.gz	4921
+nijikoto	public.me.com	2012-04-05 04:08:59	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	public.me.com-nijikoto.warc.gz	2150877
+nijikoto	web.me.com	2012-04-05 04:08:51	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	web.me.com-nijikoto.warc.gz	29196406
+siegmanandsons	gallery.me.com	2012-04-05 04:31:01	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	gallery.me.com-siegmanandsons.warc.gz	24767689
+siegmanandsons	homepage.mac.com	2012-04-05 04:31:01	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	homepage.mac.com-siegmanandsons.warc.gz	4943
+siegmanandsons	public.me.com	2012-04-05 04:28:39	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	public.me.com-siegmanandsons.warc.gz	27205882
+siegmanandsons	web.me.com	2012-04-05 04:28:08	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4087.tar	web.me.com-siegmanandsons.warc.gz	7651413

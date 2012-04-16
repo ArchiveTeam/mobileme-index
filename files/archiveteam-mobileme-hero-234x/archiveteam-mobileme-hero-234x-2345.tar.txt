@@ -1,20 +1,20 @@
-azuregate	gallery.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	gallery.me.com-azuregate.warc.gz	0
-azuregate	homepage.mac.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	homepage.mac.com-azuregate.warc.gz	0
-azuregate	public.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	public.me.com-azuregate.warc.gz	0
-azuregate	web.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	web.me.com-azuregate.warc.gz	0
-billblough	gallery.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	gallery.me.com-billblough.warc.gz	0
-billblough	homepage.mac.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	homepage.mac.com-billblough.warc.gz	0
-billblough	public.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	public.me.com-billblough.warc.gz	0
-billblough	web.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	web.me.com-billblough.warc.gz	0
-davidandjurga	gallery.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	gallery.me.com-davidandjurga.warc.gz	0
-davidandjurga	homepage.mac.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	homepage.mac.com-davidandjurga.warc.gz	0
-davidandjurga	public.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	public.me.com-davidandjurga.warc.gz	0
-davidandjurga	web.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	web.me.com-davidandjurga.warc.gz	0
-mkarim	gallery.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	gallery.me.com-mkarim.warc.gz	0
-mkarim	homepage.mac.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	homepage.mac.com-mkarim.warc.gz	0
-mkarim	public.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	public.me.com-mkarim.warc.gz	0
-mkarim	web.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	web.me.com-mkarim.warc.gz	0
-prashantm	gallery.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	gallery.me.com-prashantm.warc.gz	0
-prashantm	homepage.mac.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	homepage.mac.com-prashantm.warc.gz	0
-prashantm	public.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	public.me.com-prashantm.warc.gz	0
-prashantm	web.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	web.me.com-prashantm.warc.gz	0
+azuregate	gallery.me.com	2012-03-31 05:29:05	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	gallery.me.com-azuregate.warc.gz	94452651
+azuregate	homepage.mac.com	2012-03-31 05:29:05	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	homepage.mac.com-azuregate.warc.gz	4918
+azuregate	public.me.com	2012-03-31 05:27:32	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	public.me.com-azuregate.warc.gz	1916
+azuregate	web.me.com	2012-03-31 05:27:31	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	web.me.com-azuregate.warc.gz	172774588
+billblough	gallery.me.com	2012-03-31 06:33:34	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	gallery.me.com-billblough.warc.gz	2410945268
+billblough	homepage.mac.com	2012-03-31 06:33:37	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	homepage.mac.com-billblough.warc.gz	88674
+billblough	public.me.com	2012-03-31 06:04:33	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	public.me.com-billblough.warc.gz	256506614
+billblough	web.me.com	2012-03-31 05:58:46	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	web.me.com-billblough.warc.gz	432934676
+davidandjurga	gallery.me.com	2012-03-31 07:50:07	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	gallery.me.com-davidandjurga.warc.gz	1229285733
+davidandjurga	homepage.mac.com	2012-03-31 07:50:08	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	homepage.mac.com-davidandjurga.warc.gz	4945
+davidandjurga	public.me.com	2012-03-31 07:35:46	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	public.me.com-davidandjurga.warc.gz	1926
+davidandjurga	web.me.com	2012-03-31 07:35:45	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	web.me.com-davidandjurga.warc.gz	6201680
+mkarim	gallery.me.com	2012-03-31 05:43:34	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	gallery.me.com-mkarim.warc.gz	3200767
+mkarim	homepage.mac.com	2012-03-31 05:43:35	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	homepage.mac.com-mkarim.warc.gz	4912
+mkarim	public.me.com	2012-03-31 05:43:23	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	public.me.com-mkarim.warc.gz	1905
+mkarim	web.me.com	2012-03-31 05:43:23	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	web.me.com-mkarim.warc.gz	128120195
+prashantm	gallery.me.com	2012-03-31 05:43:51	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	gallery.me.com-prashantm.warc.gz	4247
+prashantm	homepage.mac.com	2012-03-31 05:43:51	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	homepage.mac.com-prashantm.warc.gz	4921
+prashantm	public.me.com	2012-03-31 05:43:50	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	public.me.com-prashantm.warc.gz	1913
+prashantm	web.me.com	2012-03-31 05:43:50	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2345.tar	web.me.com-prashantm.warc.gz	551490

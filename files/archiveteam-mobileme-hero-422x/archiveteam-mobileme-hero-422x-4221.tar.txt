@@ -1,28 +1,28 @@
-ben_chapman	gallery.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	gallery.me.com-ben_chapman.warc.gz	0
-ben_chapman	homepage.mac.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	homepage.mac.com-ben_chapman.warc.gz	0
-ben_chapman	public.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	public.me.com-ben_chapman.warc.gz	0
-ben_chapman	web.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	web.me.com-ben_chapman.warc.gz	0
-gauthey	gallery.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	gallery.me.com-gauthey.warc.gz	0
-gauthey	homepage.mac.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	homepage.mac.com-gauthey.warc.gz	0
-gauthey	public.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	public.me.com-gauthey.warc.gz	0
-gauthey	web.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	web.me.com-gauthey.warc.gz	0
-k_playground	gallery.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	gallery.me.com-k_playground.warc.gz	0
-k_playground	homepage.mac.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	homepage.mac.com-k_playground.warc.gz	0
-k_playground	public.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	public.me.com-k_playground.warc.gz	0
-k_playground	web.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	web.me.com-k_playground.warc.gz	0
-laurent.d.michel	gallery.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	gallery.me.com-laurent.d.michel.warc.gz	0
-laurent.d.michel	homepage.mac.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	homepage.mac.com-laurent.d.michel.warc.gz	0
-laurent.d.michel	public.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	public.me.com-laurent.d.michel.warc.gz	0
-laurent.d.michel	web.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	web.me.com-laurent.d.michel.warc.gz	0
-naomisaleawille	gallery.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	gallery.me.com-naomisaleawille.warc.gz	0
-naomisaleawille	homepage.mac.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	homepage.mac.com-naomisaleawille.warc.gz	0
-naomisaleawille	public.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	public.me.com-naomisaleawille.warc.gz	0
-naomisaleawille	web.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	web.me.com-naomisaleawille.warc.gz	0
-scottcongdon	gallery.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	gallery.me.com-scottcongdon.warc.gz	0
-scottcongdon	homepage.mac.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	homepage.mac.com-scottcongdon.warc.gz	0
-scottcongdon	public.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	public.me.com-scottcongdon.warc.gz	0
-scottcongdon	web.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	web.me.com-scottcongdon.warc.gz	0
-vicki.sidey	gallery.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	gallery.me.com-vicki.sidey.warc.gz	0
-vicki.sidey	homepage.mac.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	homepage.mac.com-vicki.sidey.warc.gz	0
-vicki.sidey	public.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	public.me.com-vicki.sidey.warc.gz	0
-vicki.sidey	web.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	web.me.com-vicki.sidey.warc.gz	0
+ben_chapman	gallery.me.com	2012-04-05 10:13:42	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	gallery.me.com-ben_chapman.warc.gz	5846
+ben_chapman	homepage.mac.com	2012-04-05 10:13:42	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	homepage.mac.com-ben_chapman.warc.gz	4930
+ben_chapman	public.me.com	2012-04-05 10:13:41	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	public.me.com-ben_chapman.warc.gz	1925
+ben_chapman	web.me.com	2012-04-05 10:13:41	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	web.me.com-ben_chapman.warc.gz	3317618
+gauthey	gallery.me.com	2012-04-05 09:48:59	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	gallery.me.com-gauthey.warc.gz	83267985
+gauthey	homepage.mac.com	2012-04-05 09:48:59	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	homepage.mac.com-gauthey.warc.gz	4917
+gauthey	public.me.com	2012-04-05 09:46:47	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	public.me.com-gauthey.warc.gz	1910
+gauthey	web.me.com	2012-04-05 09:46:46	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	web.me.com-gauthey.warc.gz	385182106
+k_playground	gallery.me.com	2012-04-05 09:49:02	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	gallery.me.com-k_playground.warc.gz	4311
+k_playground	homepage.mac.com	2012-04-05 09:50:40	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	homepage.mac.com-k_playground.warc.gz	9575823
+k_playground	public.me.com	2012-04-05 09:49:01	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	public.me.com-k_playground.warc.gz	1926
+k_playground	web.me.com	2012-04-05 09:49:01	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	web.me.com-k_playground.warc.gz	7452
+laurent.d.michel	gallery.me.com	2012-04-05 10:11:58	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	gallery.me.com-laurent.d.michel.warc.gz	313985470
+laurent.d.michel	homepage.mac.com	2012-04-05 10:11:58	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	homepage.mac.com-laurent.d.michel.warc.gz	4931
+laurent.d.michel	public.me.com	2012-04-05 10:07:36	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	public.me.com-laurent.d.michel.warc.gz	332456449
+laurent.d.michel	web.me.com	2012-04-05 10:00:25	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	web.me.com-laurent.d.michel.warc.gz	97597092
+naomisaleawille	gallery.me.com	2012-04-05 10:32:45	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	gallery.me.com-naomisaleawille.warc.gz	23848083
+naomisaleawille	homepage.mac.com	2012-04-05 10:32:45	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	homepage.mac.com-naomisaleawille.warc.gz	4937
+naomisaleawille	public.me.com	2012-04-05 10:31:17	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	public.me.com-naomisaleawille.warc.gz	1931
+naomisaleawille	web.me.com	2012-04-05 10:31:17	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	web.me.com-naomisaleawille.warc.gz	110655646
+scottcongdon	gallery.me.com	2012-04-05 11:34:36	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	gallery.me.com-scottcongdon.warc.gz	866352948
+scottcongdon	homepage.mac.com	2012-04-05 11:34:36	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	homepage.mac.com-scottcongdon.warc.gz	4918
+scottcongdon	public.me.com	2012-04-05 11:18:05	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	public.me.com-scottcongdon.warc.gz	1925
+scottcongdon	web.me.com	2012-04-05 11:17:56	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	web.me.com-scottcongdon.warc.gz	3176490510
+vicki.sidey	gallery.me.com	2012-04-05 10:12:50	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	gallery.me.com-vicki.sidey.warc.gz	5032
+vicki.sidey	homepage.mac.com	2012-04-05 10:12:51	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	homepage.mac.com-vicki.sidey.warc.gz	4938
+vicki.sidey	public.me.com	2012-04-05 10:12:50	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	public.me.com-vicki.sidey.warc.gz	1926
+vicki.sidey	web.me.com	2012-04-05 10:12:49	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4221.tar	web.me.com-vicki.sidey.warc.gz	3558235

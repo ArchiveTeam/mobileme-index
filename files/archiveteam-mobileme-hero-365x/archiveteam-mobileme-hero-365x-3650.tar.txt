@@ -1,16 +1,16 @@
-clairebarn	gallery.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	gallery.me.com-clairebarn.warc.gz	0
-clairebarn	homepage.mac.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	homepage.mac.com-clairebarn.warc.gz	0
-clairebarn	public.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	public.me.com-clairebarn.warc.gz	0
-clairebarn	web.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	web.me.com-clairebarn.warc.gz	0
-melissa.hampton	gallery.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	gallery.me.com-melissa.hampton.warc.gz	0
-melissa.hampton	homepage.mac.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	homepage.mac.com-melissa.hampton.warc.gz	0
-melissa.hampton	public.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	public.me.com-melissa.hampton.warc.gz	0
-melissa.hampton	web.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	web.me.com-melissa.hampton.warc.gz	0
-rhyslewis13	gallery.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	gallery.me.com-rhyslewis13.warc.gz	0
-rhyslewis13	homepage.mac.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	homepage.mac.com-rhyslewis13.warc.gz	0
-rhyslewis13	public.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	public.me.com-rhyslewis13.warc.gz	0
-rhyslewis13	web.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	web.me.com-rhyslewis13.warc.gz	0
-sbarrosjr	gallery.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	gallery.me.com-sbarrosjr.warc.gz	0
-sbarrosjr	homepage.mac.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	homepage.mac.com-sbarrosjr.warc.gz	0
-sbarrosjr	public.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	public.me.com-sbarrosjr.warc.gz	0
-sbarrosjr	web.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	web.me.com-sbarrosjr.warc.gz	0
+clairebarn	gallery.me.com	2012-04-04 03:28:01	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	gallery.me.com-clairebarn.warc.gz	2227047853
+clairebarn	homepage.mac.com	2012-04-04 03:28:21	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	homepage.mac.com-clairebarn.warc.gz	167893
+clairebarn	public.me.com	2012-04-04 01:57:04	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	public.me.com-clairebarn.warc.gz	1911
+clairebarn	web.me.com	2012-04-04 01:57:02	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	web.me.com-clairebarn.warc.gz	203975982
+melissa.hampton	gallery.me.com	2012-04-03 22:11:33	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	gallery.me.com-melissa.hampton.warc.gz	58783971
+melissa.hampton	homepage.mac.com	2012-04-03 22:11:33	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	homepage.mac.com-melissa.hampton.warc.gz	4919
+melissa.hampton	public.me.com	2012-04-03 22:09:38	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	public.me.com-melissa.hampton.warc.gz	74129
+melissa.hampton	web.me.com	2012-04-03 22:09:35	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	web.me.com-melissa.hampton.warc.gz	11141364
+rhyslewis13	gallery.me.com	2012-04-03 22:14:21	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	gallery.me.com-rhyslewis13.warc.gz	122797977
+rhyslewis13	homepage.mac.com	2012-04-03 22:14:22	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	homepage.mac.com-rhyslewis13.warc.gz	4941
+rhyslewis13	public.me.com	2012-04-03 22:12:19	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	public.me.com-rhyslewis13.warc.gz	1921
+rhyslewis13	web.me.com	2012-04-03 22:12:18	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	web.me.com-rhyslewis13.warc.gz	747251
+sbarrosjr	gallery.me.com	2012-04-04 01:20:01	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	gallery.me.com-sbarrosjr.warc.gz	1313657085
+sbarrosjr	homepage.mac.com	2012-04-04 01:20:04	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	homepage.mac.com-sbarrosjr.warc.gz	4901
+sbarrosjr	public.me.com	2012-04-03 23:50:09	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	public.me.com-sbarrosjr.warc.gz	1804773439
+sbarrosjr	web.me.com	2012-04-03 22:37:24	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3650.tar	web.me.com-sbarrosjr.warc.gz	178052220

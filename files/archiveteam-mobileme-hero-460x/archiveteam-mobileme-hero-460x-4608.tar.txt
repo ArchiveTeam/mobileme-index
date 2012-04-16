@@ -1,20 +1,20 @@
-a4architecture	gallery.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	gallery.me.com-a4architecture.warc.gz	0
-a4architecture	homepage.mac.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	homepage.mac.com-a4architecture.warc.gz	0
-a4architecture	public.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	public.me.com-a4architecture.warc.gz	0
-a4architecture	web.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	web.me.com-a4architecture.warc.gz	0
-c1700972114	gallery.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	gallery.me.com-c1700972114.warc.gz	0
-c1700972114	homepage.mac.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	homepage.mac.com-c1700972114.warc.gz	0
-c1700972114	public.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	public.me.com-c1700972114.warc.gz	0
-c1700972114	web.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	web.me.com-c1700972114.warc.gz	0
-frasermarshall	gallery.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	gallery.me.com-frasermarshall.warc.gz	0
-frasermarshall	homepage.mac.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	homepage.mac.com-frasermarshall.warc.gz	0
-frasermarshall	public.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	public.me.com-frasermarshall.warc.gz	0
-frasermarshall	web.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	web.me.com-frasermarshall.warc.gz	0
-jes.steen	gallery.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	gallery.me.com-jes.steen.warc.gz	0
-jes.steen	homepage.mac.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	homepage.mac.com-jes.steen.warc.gz	0
-jes.steen	public.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	public.me.com-jes.steen.warc.gz	0
-jes.steen	web.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	web.me.com-jes.steen.warc.gz	0
-lindygal224	gallery.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	gallery.me.com-lindygal224.warc.gz	0
-lindygal224	homepage.mac.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	homepage.mac.com-lindygal224.warc.gz	0
-lindygal224	public.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	public.me.com-lindygal224.warc.gz	0
-lindygal224	web.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	web.me.com-lindygal224.warc.gz	0
+a4architecture	gallery.me.com	2012-04-06 08:49:48	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	gallery.me.com-a4architecture.warc.gz	428356940
+a4architecture	homepage.mac.com	2012-04-06 08:49:48	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	homepage.mac.com-a4architecture.warc.gz	4942
+a4architecture	public.me.com	2012-04-06 08:40:46	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	public.me.com-a4architecture.warc.gz	1927
+a4architecture	web.me.com	2012-04-06 08:40:42	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	web.me.com-a4architecture.warc.gz	1151682527
+c1700972114	gallery.me.com	2012-04-06 07:35:40	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	gallery.me.com-c1700972114.warc.gz	8361
+c1700972114	homepage.mac.com	2012-04-06 07:35:40	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	homepage.mac.com-c1700972114.warc.gz	5187
+c1700972114	public.me.com	2012-04-06 07:35:39	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	public.me.com-c1700972114.warc.gz	1928
+c1700972114	web.me.com	2012-04-06 07:35:38	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	web.me.com-c1700972114.warc.gz	17748
+frasermarshall	gallery.me.com	2012-04-06 09:45:02	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	gallery.me.com-frasermarshall.warc.gz	3015260409
+frasermarshall	homepage.mac.com	2012-04-06 09:45:03	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	homepage.mac.com-frasermarshall.warc.gz	4945
+frasermarshall	public.me.com	2012-04-06 08:59:32	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	public.me.com-frasermarshall.warc.gz	1931
+frasermarshall	web.me.com	2012-04-06 08:59:31	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	web.me.com-frasermarshall.warc.gz	57503563
+jes.steen	gallery.me.com	2012-04-06 07:42:42	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	gallery.me.com-jes.steen.warc.gz	555588
+jes.steen	homepage.mac.com	2012-04-06 07:42:43	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	homepage.mac.com-jes.steen.warc.gz	4920
+jes.steen	public.me.com	2012-04-06 07:42:39	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	public.me.com-jes.steen.warc.gz	417431
+jes.steen	web.me.com	2012-04-06 07:42:37	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	web.me.com-jes.steen.warc.gz	11954974
+lindygal224	gallery.me.com	2012-04-06 07:40:50	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	gallery.me.com-lindygal224.warc.gz	35515314
+lindygal224	homepage.mac.com	2012-04-06 07:40:52	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	homepage.mac.com-lindygal224.warc.gz	78560
+lindygal224	public.me.com	2012-04-06 07:39:08	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	public.me.com-lindygal224.warc.gz	1930
+lindygal224	web.me.com	2012-04-06 07:39:08	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4608.tar	web.me.com-lindygal224.warc.gz	19676959

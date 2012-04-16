@@ -1,12 +1,12 @@
-cottagegarden	gallery.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	gallery.me.com-cottagegarden.warc.gz	0
-cottagegarden	homepage.mac.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	homepage.mac.com-cottagegarden.warc.gz	0
-cottagegarden	public.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	public.me.com-cottagegarden.warc.gz	0
-cottagegarden	web.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	web.me.com-cottagegarden.warc.gz	0
-d_dub2	gallery.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	gallery.me.com-d_dub2.warc.gz	0
-d_dub2	homepage.mac.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	homepage.mac.com-d_dub2.warc.gz	0
-d_dub2	public.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	public.me.com-d_dub2.warc.gz	0
-d_dub2	web.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	web.me.com-d_dub2.warc.gz	0
-francoispaul	gallery.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	gallery.me.com-francoispaul.warc.gz	0
-francoispaul	homepage.mac.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	homepage.mac.com-francoispaul.warc.gz	0
-francoispaul	public.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	public.me.com-francoispaul.warc.gz	0
-francoispaul	web.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	web.me.com-francoispaul.warc.gz	0
+cottagegarden	gallery.me.com	2012-04-03 14:49:50	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	gallery.me.com-cottagegarden.warc.gz	3868809072
+cottagegarden	homepage.mac.com	2012-04-03 14:49:51	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	homepage.mac.com-cottagegarden.warc.gz	4904
+cottagegarden	public.me.com	2012-04-03 14:19:55	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	public.me.com-cottagegarden.warc.gz	3353
+cottagegarden	web.me.com	2012-04-03 14:19:53	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	web.me.com-cottagegarden.warc.gz	1296841511
+d_dub2	gallery.me.com	2012-04-03 13:41:06	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	gallery.me.com-d_dub2.warc.gz	12297
+d_dub2	homepage.mac.com	2012-04-03 13:41:06	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	homepage.mac.com-d_dub2.warc.gz	7137
+d_dub2	public.me.com	2012-04-03 13:41:05	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	public.me.com-d_dub2.warc.gz	1912
+d_dub2	web.me.com	2012-04-03 13:41:05	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	web.me.com-d_dub2.warc.gz	22447
+francoispaul	gallery.me.com	2012-04-03 14:02:30	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	gallery.me.com-francoispaul.warc.gz	705422058
+francoispaul	homepage.mac.com	2012-04-03 14:02:30	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	homepage.mac.com-francoispaul.warc.gz	4929
+francoispaul	public.me.com	2012-04-03 13:56:15	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	public.me.com-francoispaul.warc.gz	517950273
+francoispaul	web.me.com	2012-04-03 13:44:13	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3455.tar	web.me.com-francoispaul.warc.gz	170020218

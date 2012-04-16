@@ -1,28 +1,28 @@
-bbiernat72	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	gallery.me.com-bbiernat72.warc.gz	0
-bbiernat72	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	homepage.mac.com-bbiernat72.warc.gz	0
-bbiernat72	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	public.me.com-bbiernat72.warc.gz	0
-bbiernat72	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	web.me.com-bbiernat72.warc.gz	0
-debbieclaussen	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	gallery.me.com-debbieclaussen.warc.gz	0
-debbieclaussen	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	homepage.mac.com-debbieclaussen.warc.gz	0
-debbieclaussen	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	public.me.com-debbieclaussen.warc.gz	0
-debbieclaussen	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	web.me.com-debbieclaussen.warc.gz	0
-gordonbest	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	gallery.me.com-gordonbest.warc.gz	0
-gordonbest	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	homepage.mac.com-gordonbest.warc.gz	0
-gordonbest	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	public.me.com-gordonbest.warc.gz	0
-gordonbest	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	web.me.com-gordonbest.warc.gz	0
-hupe	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	gallery.me.com-hupe.warc.gz	0
-hupe	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	homepage.mac.com-hupe.warc.gz	0
-hupe	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	public.me.com-hupe.warc.gz	0
-hupe	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	web.me.com-hupe.warc.gz	0
-johnbeggiato	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	gallery.me.com-johnbeggiato.warc.gz	0
-johnbeggiato	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	homepage.mac.com-johnbeggiato.warc.gz	0
-johnbeggiato	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	public.me.com-johnbeggiato.warc.gz	0
-johnbeggiato	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	web.me.com-johnbeggiato.warc.gz	0
-nnicholas4	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	gallery.me.com-nnicholas4.warc.gz	0
-nnicholas4	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	homepage.mac.com-nnicholas4.warc.gz	0
-nnicholas4	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	public.me.com-nnicholas4.warc.gz	0
-nnicholas4	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	web.me.com-nnicholas4.warc.gz	0
-yaasamardance	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	gallery.me.com-yaasamardance.warc.gz	0
-yaasamardance	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	homepage.mac.com-yaasamardance.warc.gz	0
-yaasamardance	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	public.me.com-yaasamardance.warc.gz	0
-yaasamardance	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	web.me.com-yaasamardance.warc.gz	0
+bbiernat72	gallery.me.com	2012-04-11 06:37:01	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	gallery.me.com-bbiernat72.warc.gz	4250
+bbiernat72	homepage.mac.com	2012-04-11 06:37:03	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	homepage.mac.com-bbiernat72.warc.gz	4914
+bbiernat72	public.me.com	2012-04-11 06:36:58	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	public.me.com-bbiernat72.warc.gz	1915
+bbiernat72	web.me.com	2012-04-11 06:36:53	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	web.me.com-bbiernat72.warc.gz	2860905
+debbieclaussen	gallery.me.com	2012-04-11 09:09:14	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	gallery.me.com-debbieclaussen.warc.gz	5036
+debbieclaussen	homepage.mac.com	2012-04-11 09:09:16	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	homepage.mac.com-debbieclaussen.warc.gz	4928
+debbieclaussen	public.me.com	2012-04-11 09:09:08	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	public.me.com-debbieclaussen.warc.gz	1916
+debbieclaussen	web.me.com	2012-04-11 09:09:02	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	web.me.com-debbieclaussen.warc.gz	8149382
+gordonbest	gallery.me.com	2012-04-11 09:04:33	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	gallery.me.com-gordonbest.warc.gz	207650876
+gordonbest	homepage.mac.com	2012-04-11 09:05:39	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	homepage.mac.com-gordonbest.warc.gz	968180
+gordonbest	public.me.com	2012-04-11 08:59:11	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	public.me.com-gordonbest.warc.gz	5209061
+gordonbest	web.me.com	2012-04-11 08:58:20	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	web.me.com-gordonbest.warc.gz	389205609
+hupe	gallery.me.com	2012-04-11 09:32:08	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	gallery.me.com-hupe.warc.gz	1469154078
+hupe	homepage.mac.com	2012-04-11 09:32:17	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	homepage.mac.com-hupe.warc.gz	36820
+hupe	public.me.com	2012-04-11 09:11:53	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	public.me.com-hupe.warc.gz	1908
+hupe	web.me.com	2012-04-11 09:11:47	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	web.me.com-hupe.warc.gz	5483664
+johnbeggiato	gallery.me.com	2012-04-11 08:12:23	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	gallery.me.com-johnbeggiato.warc.gz	125214794
+johnbeggiato	homepage.mac.com	2012-04-11 08:12:24	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	homepage.mac.com-johnbeggiato.warc.gz	4937
+johnbeggiato	public.me.com	2012-04-11 08:09:29	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	public.me.com-johnbeggiato.warc.gz	1926
+johnbeggiato	web.me.com	2012-04-11 08:08:47	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	web.me.com-johnbeggiato.warc.gz	179603388
+nnicholas4	gallery.me.com	2012-04-11 07:37:47	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	gallery.me.com-nnicholas4.warc.gz	1914513991
+nnicholas4	homepage.mac.com	2012-04-11 07:37:49	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	homepage.mac.com-nnicholas4.warc.gz	4918
+nnicholas4	public.me.com	2012-04-11 06:49:48	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	public.me.com-nnicholas4.warc.gz	1924
+nnicholas4	web.me.com	2012-04-11 06:49:36	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	web.me.com-nnicholas4.warc.gz	26528972
+yaasamardance	gallery.me.com	2012-04-11 06:40:06	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	gallery.me.com-yaasamardance.warc.gz	4272
+yaasamardance	homepage.mac.com	2012-04-11 06:40:08	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	homepage.mac.com-yaasamardance.warc.gz	4932
+yaasamardance	public.me.com	2012-04-11 06:40:05	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	public.me.com-yaasamardance.warc.gz	1924
+yaasamardance	web.me.com	2012-04-11 06:40:02	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6311.tar	web.me.com-yaasamardance.warc.gz	84523179

@@ -1,8 +1,8 @@
-ranierw	gallery.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7168.tar	gallery.me.com-ranierw.warc.gz	0
-ranierw	homepage.mac.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7168.tar	homepage.mac.com-ranierw.warc.gz	0
-ranierw	public.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7168.tar	public.me.com-ranierw.warc.gz	0
-ranierw	web.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7168.tar	web.me.com-ranierw.warc.gz	0
-scampana	gallery.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7168.tar	gallery.me.com-scampana.warc.gz	0
-scampana	homepage.mac.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7168.tar	homepage.mac.com-scampana.warc.gz	0
-scampana	public.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7168.tar	public.me.com-scampana.warc.gz	0
-scampana	web.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7168.tar	web.me.com-scampana.warc.gz	0
+ranierw	gallery.me.com	2012-04-13 01:27:12	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7168.tar	gallery.me.com-ranierw.warc.gz	365295082
+ranierw	homepage.mac.com	2012-04-13 01:27:12	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7168.tar	homepage.mac.com-ranierw.warc.gz	4892
+ranierw	public.me.com	2012-04-13 01:16:12	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7168.tar	public.me.com-ranierw.warc.gz	1913
+ranierw	web.me.com	2012-04-13 01:16:09	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7168.tar	web.me.com-ranierw.warc.gz	369299994
+scampana	gallery.me.com	2012-04-13 06:40:33	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7168.tar	gallery.me.com-scampana.warc.gz	4842116698
+scampana	homepage.mac.com	2012-04-13 06:40:33	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7168.tar	homepage.mac.com-scampana.warc.gz	4909
+scampana	public.me.com	2012-04-13 04:18:59	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7168.tar	public.me.com-scampana.warc.gz	1915
+scampana	web.me.com	2012-04-13 04:18:13	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7168.tar	web.me.com-scampana.warc.gz	1955839612

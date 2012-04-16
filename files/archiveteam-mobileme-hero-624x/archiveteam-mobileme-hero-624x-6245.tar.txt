@@ -1,12 +1,12 @@
-jr666	gallery.me.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	gallery.me.com-jr666.warc.gz	0
-jr666	homepage.mac.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	homepage.mac.com-jr666.warc.gz	0
-jr666	public.me.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	public.me.com-jr666.warc.gz	0
-jr666	web.me.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	web.me.com-jr666.warc.gz	0
-kittzmac	gallery.me.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	gallery.me.com-kittzmac.warc.gz	0
-kittzmac	homepage.mac.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	homepage.mac.com-kittzmac.warc.gz	0
-kittzmac	public.me.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	public.me.com-kittzmac.warc.gz	0
-kittzmac	web.me.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	web.me.com-kittzmac.warc.gz	0
-michaelbaine	gallery.me.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	gallery.me.com-michaelbaine.warc.gz	0
-michaelbaine	homepage.mac.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	homepage.mac.com-michaelbaine.warc.gz	0
-michaelbaine	public.me.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	public.me.com-michaelbaine.warc.gz	0
-michaelbaine	web.me.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	web.me.com-michaelbaine.warc.gz	0
+jr666	gallery.me.com	2012-04-11 06:10:08	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	gallery.me.com-jr666.warc.gz	3459740331
+jr666	homepage.mac.com	2012-04-11 06:10:09	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	homepage.mac.com-jr666.warc.gz	7847
+jr666	public.me.com	2012-04-11 05:01:41	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	public.me.com-jr666.warc.gz	1910
+jr666	web.me.com	2012-04-11 05:00:46	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	web.me.com-jr666.warc.gz	2993448254
+kittzmac	gallery.me.com	2012-04-11 02:28:53	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	gallery.me.com-kittzmac.warc.gz	65589708
+kittzmac	homepage.mac.com	2012-04-11 02:28:54	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	homepage.mac.com-kittzmac.warc.gz	4898
+kittzmac	public.me.com	2012-04-11 02:28:22	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	public.me.com-kittzmac.warc.gz	1919
+kittzmac	web.me.com	2012-04-11 02:28:21	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	web.me.com-kittzmac.warc.gz	22641118
+michaelbaine	gallery.me.com	2012-04-11 02:53:00	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	gallery.me.com-michaelbaine.warc.gz	401186420
+michaelbaine	homepage.mac.com	2012-04-11 02:53:00	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	homepage.mac.com-michaelbaine.warc.gz	4926
+michaelbaine	public.me.com	2012-04-11 02:45:40	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	public.me.com-michaelbaine.warc.gz	1925
+michaelbaine	web.me.com	2012-04-11 02:45:39	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6245.tar	web.me.com-michaelbaine.warc.gz	785071952

@@ -1,8 +1,8 @@
-being2010	gallery.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3405.tar	gallery.me.com-being2010.warc.gz	0
-being2010	homepage.mac.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3405.tar	homepage.mac.com-being2010.warc.gz	0
-being2010	public.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3405.tar	public.me.com-being2010.warc.gz	0
-being2010	web.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3405.tar	web.me.com-being2010.warc.gz	0
-timhyde1	gallery.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3405.tar	gallery.me.com-timhyde1.warc.gz	0
-timhyde1	homepage.mac.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3405.tar	homepage.mac.com-timhyde1.warc.gz	0
-timhyde1	public.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3405.tar	public.me.com-timhyde1.warc.gz	0
-timhyde1	web.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3405.tar	web.me.com-timhyde1.warc.gz	0
+being2010	gallery.me.com	2012-04-03 12:10:08	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3405.tar	gallery.me.com-being2010.warc.gz	144700453
+being2010	homepage.mac.com	2012-04-03 12:10:08	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3405.tar	homepage.mac.com-being2010.warc.gz	4914
+being2010	public.me.com	2012-04-03 12:07:14	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3405.tar	public.me.com-being2010.warc.gz	1912
+being2010	web.me.com	2012-04-03 12:07:13	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3405.tar	web.me.com-being2010.warc.gz	194634045
+timhyde1	gallery.me.com	2012-04-03 12:04:16	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3405.tar	gallery.me.com-timhyde1.warc.gz	3975135089
+timhyde1	homepage.mac.com	2012-04-03 12:04:16	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3405.tar	homepage.mac.com-timhyde1.warc.gz	4898
+timhyde1	public.me.com	2012-04-03 11:03:17	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3405.tar	public.me.com-timhyde1.warc.gz	74626973
+timhyde1	web.me.com	2012-04-03 11:01:28	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3405.tar	web.me.com-timhyde1.warc.gz	130089768

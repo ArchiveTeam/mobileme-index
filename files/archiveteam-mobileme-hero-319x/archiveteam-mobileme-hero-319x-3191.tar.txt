@@ -1,20 +1,20 @@
-cshelden	gallery.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	gallery.me.com-cshelden.warc.gz	0
-cshelden	homepage.mac.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	homepage.mac.com-cshelden.warc.gz	0
-cshelden	public.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	public.me.com-cshelden.warc.gz	0
-cshelden	web.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	web.me.com-cshelden.warc.gz	0
-freeburd	gallery.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	gallery.me.com-freeburd.warc.gz	0
-freeburd	homepage.mac.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	homepage.mac.com-freeburd.warc.gz	0
-freeburd	public.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	public.me.com-freeburd.warc.gz	0
-freeburd	web.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	web.me.com-freeburd.warc.gz	0
-james.whyte	gallery.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	gallery.me.com-james.whyte.warc.gz	0
-james.whyte	homepage.mac.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	homepage.mac.com-james.whyte.warc.gz	0
-james.whyte	public.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	public.me.com-james.whyte.warc.gz	0
-james.whyte	web.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	web.me.com-james.whyte.warc.gz	0
-jrsls	gallery.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	gallery.me.com-jrsls.warc.gz	0
-jrsls	homepage.mac.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	homepage.mac.com-jrsls.warc.gz	0
-jrsls	public.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	public.me.com-jrsls.warc.gz	0
-jrsls	web.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	web.me.com-jrsls.warc.gz	0
-lisakelleher	gallery.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	gallery.me.com-lisakelleher.warc.gz	0
-lisakelleher	homepage.mac.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	homepage.mac.com-lisakelleher.warc.gz	0
-lisakelleher	public.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	public.me.com-lisakelleher.warc.gz	0
-lisakelleher	web.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	web.me.com-lisakelleher.warc.gz	0
+cshelden	gallery.me.com	2012-04-03 00:16:58	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	gallery.me.com-cshelden.warc.gz	1279447328
+cshelden	homepage.mac.com	2012-04-03 00:16:58	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	homepage.mac.com-cshelden.warc.gz	4888
+cshelden	public.me.com	2012-04-02 23:40:43	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	public.me.com-cshelden.warc.gz	1916
+cshelden	web.me.com	2012-04-02 23:40:43	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	web.me.com-cshelden.warc.gz	67567009
+freeburd	gallery.me.com	2012-04-03 01:51:01	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	gallery.me.com-freeburd.warc.gz	1764217507
+freeburd	homepage.mac.com	2012-04-03 01:51:02	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	homepage.mac.com-freeburd.warc.gz	4894
+freeburd	public.me.com	2012-04-03 01:14:43	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	public.me.com-freeburd.warc.gz	381487272
+freeburd	web.me.com	2012-04-03 01:07:09	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	web.me.com-freeburd.warc.gz	838755132
+james.whyte	gallery.me.com	2012-04-03 00:45:20	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	gallery.me.com-james.whyte.warc.gz	398711282
+james.whyte	homepage.mac.com	2012-04-03 00:45:20	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	homepage.mac.com-james.whyte.warc.gz	4921
+james.whyte	public.me.com	2012-04-03 00:34:11	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	public.me.com-james.whyte.warc.gz	226880581
+james.whyte	web.me.com	2012-04-03 00:30:54	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	web.me.com-james.whyte.warc.gz	351607685
+jrsls	gallery.me.com	2012-04-02 23:10:51	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	gallery.me.com-jrsls.warc.gz	6039
+jrsls	homepage.mac.com	2012-04-02 23:10:52	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	homepage.mac.com-jrsls.warc.gz	4881
+jrsls	public.me.com	2012-04-02 23:10:50	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	public.me.com-jrsls.warc.gz	1911
+jrsls	web.me.com	2012-04-02 23:10:49	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	web.me.com-jrsls.warc.gz	24554695
+lisakelleher	gallery.me.com	2012-04-02 23:25:16	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	gallery.me.com-lisakelleher.warc.gz	31180638
+lisakelleher	homepage.mac.com	2012-04-02 23:25:16	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	homepage.mac.com-lisakelleher.warc.gz	4924
+lisakelleher	public.me.com	2012-04-02 23:25:02	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	public.me.com-lisakelleher.warc.gz	1926
+lisakelleher	web.me.com	2012-04-02 23:25:01	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3191.tar	web.me.com-lisakelleher.warc.gz	61378410

@@ -1,20 +1,20 @@
-a_evans	gallery.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	gallery.me.com-a_evans.warc.gz	0
-a_evans	homepage.mac.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	homepage.mac.com-a_evans.warc.gz	0
-a_evans	public.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	public.me.com-a_evans.warc.gz	0
-a_evans	web.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	web.me.com-a_evans.warc.gz	0
-dreamsoundstudio	gallery.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	gallery.me.com-dreamsoundstudio.warc.gz	0
-dreamsoundstudio	homepage.mac.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	homepage.mac.com-dreamsoundstudio.warc.gz	0
-dreamsoundstudio	public.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	public.me.com-dreamsoundstudio.warc.gz	0
-dreamsoundstudio	web.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	web.me.com-dreamsoundstudio.warc.gz	0
-hidenom	gallery.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	gallery.me.com-hidenom.warc.gz	0
-hidenom	homepage.mac.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	homepage.mac.com-hidenom.warc.gz	0
-hidenom	public.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	public.me.com-hidenom.warc.gz	0
-hidenom	web.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	web.me.com-hidenom.warc.gz	0
-prophboy	gallery.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	gallery.me.com-prophboy.warc.gz	0
-prophboy	homepage.mac.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	homepage.mac.com-prophboy.warc.gz	0
-prophboy	public.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	public.me.com-prophboy.warc.gz	0
-prophboy	web.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	web.me.com-prophboy.warc.gz	0
-yoshiie	gallery.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	gallery.me.com-yoshiie.warc.gz	0
-yoshiie	homepage.mac.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	homepage.mac.com-yoshiie.warc.gz	0
-yoshiie	public.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	public.me.com-yoshiie.warc.gz	0
-yoshiie	web.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	web.me.com-yoshiie.warc.gz	0
+a_evans	gallery.me.com	2012-04-13 17:31:02	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	gallery.me.com-a_evans.warc.gz	116853366
+a_evans	homepage.mac.com	2012-04-13 17:31:52	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	homepage.mac.com-a_evans.warc.gz	794576
+a_evans	public.me.com	2012-04-13 17:28:06	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	public.me.com-a_evans.warc.gz	1923
+a_evans	web.me.com	2012-04-13 17:28:01	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	web.me.com-a_evans.warc.gz	4223003253
+dreamsoundstudio	gallery.me.com	2012-04-13 12:17:08	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	gallery.me.com-dreamsoundstudio.warc.gz	5636
+dreamsoundstudio	homepage.mac.com	2012-04-13 12:17:09	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	homepage.mac.com-dreamsoundstudio.warc.gz	4931
+dreamsoundstudio	public.me.com	2012-04-13 12:17:07	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	public.me.com-dreamsoundstudio.warc.gz	1935
+dreamsoundstudio	web.me.com	2012-04-13 12:17:07	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	web.me.com-dreamsoundstudio.warc.gz	559801199
+hidenom	gallery.me.com	2012-04-13 12:17:21	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	gallery.me.com-hidenom.warc.gz	8347
+hidenom	homepage.mac.com	2012-04-13 12:17:21	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	homepage.mac.com-hidenom.warc.gz	5152
+hidenom	public.me.com	2012-04-13 12:17:21	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	public.me.com-hidenom.warc.gz	1914
+hidenom	web.me.com	2012-04-13 12:17:21	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	web.me.com-hidenom.warc.gz	17678
+prophboy	gallery.me.com	2012-04-13 12:17:19	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	gallery.me.com-prophboy.warc.gz	12336
+prophboy	homepage.mac.com	2012-04-13 12:17:19	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	homepage.mac.com-prophboy.warc.gz	7142
+prophboy	public.me.com	2012-04-13 12:17:18	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	public.me.com-prophboy.warc.gz	1923
+prophboy	web.me.com	2012-04-13 12:17:18	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	web.me.com-prophboy.warc.gz	22458
+yoshiie	gallery.me.com	2012-04-13 12:07:37	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	gallery.me.com-yoshiie.warc.gz	4240
+yoshiie	homepage.mac.com	2012-04-13 12:07:38	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	homepage.mac.com-yoshiie.warc.gz	41115
+yoshiie	public.me.com	2012-04-13 12:07:36	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	public.me.com-yoshiie.warc.gz	32946
+yoshiie	web.me.com	2012-04-13 12:07:34	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7405.tar	web.me.com-yoshiie.warc.gz	2893045

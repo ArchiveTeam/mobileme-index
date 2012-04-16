@@ -1,12 +1,12 @@
-dan.matthews	gallery.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	gallery.me.com-dan.matthews.warc.gz	0
-dan.matthews	homepage.mac.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	homepage.mac.com-dan.matthews.warc.gz	0
-dan.matthews	public.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	public.me.com-dan.matthews.warc.gz	0
-dan.matthews	web.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	web.me.com-dan.matthews.warc.gz	0
-lorraine.c	gallery.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	gallery.me.com-lorraine.c.warc.gz	0
-lorraine.c	homepage.mac.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	homepage.mac.com-lorraine.c.warc.gz	0
-lorraine.c	public.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	public.me.com-lorraine.c.warc.gz	0
-lorraine.c	web.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	web.me.com-lorraine.c.warc.gz	0
-renepiekarz	gallery.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	gallery.me.com-renepiekarz.warc.gz	0
-renepiekarz	homepage.mac.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	homepage.mac.com-renepiekarz.warc.gz	0
-renepiekarz	public.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	public.me.com-renepiekarz.warc.gz	0
-renepiekarz	web.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	web.me.com-renepiekarz.warc.gz	0
+dan.matthews	gallery.me.com	2012-04-01 22:06:09	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	gallery.me.com-dan.matthews.warc.gz	4481093450
+dan.matthews	homepage.mac.com	2012-04-01 22:06:10	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	homepage.mac.com-dan.matthews.warc.gz	4941
+dan.matthews	public.me.com	2012-04-01 20:11:05	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	public.me.com-dan.matthews.warc.gz	4388999131
+dan.matthews	web.me.com	2012-04-01 18:22:57	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	web.me.com-dan.matthews.warc.gz	31472670
+lorraine.c	gallery.me.com	2012-04-01 17:56:25	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	gallery.me.com-lorraine.c.warc.gz	510016719
+lorraine.c	homepage.mac.com	2012-04-01 17:56:25	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	homepage.mac.com-lorraine.c.warc.gz	4917
+lorraine.c	public.me.com	2012-04-01 17:40:01	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	public.me.com-lorraine.c.warc.gz	387600075
+lorraine.c	web.me.com	2012-04-01 17:19:47	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	web.me.com-lorraine.c.warc.gz	1409576247
+renepiekarz	gallery.me.com	2012-04-01 15:13:49	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	gallery.me.com-renepiekarz.warc.gz	4316
+renepiekarz	homepage.mac.com	2012-04-01 15:13:49	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	homepage.mac.com-renepiekarz.warc.gz	4938
+renepiekarz	public.me.com	2012-04-01 15:13:48	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	public.me.com-renepiekarz.warc.gz	1918
+renepiekarz	web.me.com	2012-04-01 15:13:47	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2762.tar	web.me.com-renepiekarz.warc.gz	32806714

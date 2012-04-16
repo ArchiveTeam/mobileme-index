@@ -1,12 +1,12 @@
-arnelygre	gallery.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	gallery.me.com-arnelygre.warc.gz	0
-arnelygre	homepage.mac.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	homepage.mac.com-arnelygre.warc.gz	0
-arnelygre	public.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	public.me.com-arnelygre.warc.gz	0
-arnelygre	web.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	web.me.com-arnelygre.warc.gz	0
-mklengel	gallery.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	gallery.me.com-mklengel.warc.gz	0
-mklengel	homepage.mac.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	homepage.mac.com-mklengel.warc.gz	0
-mklengel	public.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	public.me.com-mklengel.warc.gz	0
-mklengel	web.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	web.me.com-mklengel.warc.gz	0
-twaucoin	gallery.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	gallery.me.com-twaucoin.warc.gz	0
-twaucoin	homepage.mac.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	homepage.mac.com-twaucoin.warc.gz	0
-twaucoin	public.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	public.me.com-twaucoin.warc.gz	0
-twaucoin	web.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	web.me.com-twaucoin.warc.gz	0
+arnelygre	gallery.me.com	2012-04-04 11:28:33	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	gallery.me.com-arnelygre.warc.gz	2125634
+arnelygre	homepage.mac.com	2012-04-04 11:28:34	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	homepage.mac.com-arnelygre.warc.gz	4910
+arnelygre	public.me.com	2012-04-04 11:28:25	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	public.me.com-arnelygre.warc.gz	1913
+arnelygre	web.me.com	2012-04-04 11:28:25	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	web.me.com-arnelygre.warc.gz	278486
+mklengel	gallery.me.com	2012-04-04 13:49:30	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	gallery.me.com-mklengel.warc.gz	7735
+mklengel	homepage.mac.com	2012-04-04 13:49:30	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	homepage.mac.com-mklengel.warc.gz	4916
+mklengel	public.me.com	2012-04-04 13:49:27	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	public.me.com-mklengel.warc.gz	1912
+mklengel	web.me.com	2012-04-04 13:49:10	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	web.me.com-mklengel.warc.gz	5830981863
+twaucoin	gallery.me.com	2012-04-04 11:46:19	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	gallery.me.com-twaucoin.warc.gz	276405505
+twaucoin	homepage.mac.com	2012-04-04 11:46:24	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	homepage.mac.com-twaucoin.warc.gz	4907
+twaucoin	public.me.com	2012-04-04 11:38:50	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	public.me.com-twaucoin.warc.gz	1910
+twaucoin	web.me.com	2012-04-04 11:38:49	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3837.tar	web.me.com-twaucoin.warc.gz	184942807

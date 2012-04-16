@@ -1,8 +1,8 @@
-aolbrechts	gallery.me.com		archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2786.tar	gallery.me.com-aolbrechts.warc.gz	0
-aolbrechts	homepage.mac.com		archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2786.tar	homepage.mac.com-aolbrechts.warc.gz	0
-aolbrechts	public.me.com		archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2786.tar	public.me.com-aolbrechts.warc.gz	0
-aolbrechts	web.me.com		archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2786.tar	web.me.com-aolbrechts.warc.gz	0
-docpontow	gallery.me.com		archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2786.tar	gallery.me.com-docpontow.warc.gz	0
-docpontow	homepage.mac.com		archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2786.tar	homepage.mac.com-docpontow.warc.gz	0
-docpontow	public.me.com		archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2786.tar	public.me.com-docpontow.warc.gz	0
-docpontow	web.me.com		archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2786.tar	web.me.com-docpontow.warc.gz	0
+aolbrechts	gallery.me.com	2012-04-01 21:33:45	archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2786.tar	gallery.me.com-aolbrechts.warc.gz	438688243
+aolbrechts	homepage.mac.com	2012-04-01 21:33:45	archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2786.tar	homepage.mac.com-aolbrechts.warc.gz	4924
+aolbrechts	public.me.com	2012-04-01 21:11:11	archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2786.tar	public.me.com-aolbrechts.warc.gz	308655915
+aolbrechts	web.me.com	2012-04-01 21:02:06	archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2786.tar	web.me.com-aolbrechts.warc.gz	26627561
+docpontow	gallery.me.com	2012-04-01 23:58:33	archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2786.tar	gallery.me.com-docpontow.warc.gz	5628195416
+docpontow	homepage.mac.com	2012-04-01 23:58:34	archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2786.tar	homepage.mac.com-docpontow.warc.gz	4913
+docpontow	public.me.com	2012-04-01 21:50:26	archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2786.tar	public.me.com-docpontow.warc.gz	9912291
+docpontow	web.me.com	2012-04-01 21:50:16	archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2786.tar	web.me.com-docpontow.warc.gz	47545886

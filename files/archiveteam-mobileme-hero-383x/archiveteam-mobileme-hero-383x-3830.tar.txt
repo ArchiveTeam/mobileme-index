@@ -1,16 +1,16 @@
-asonny	gallery.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	gallery.me.com-asonny.warc.gz	0
-asonny	homepage.mac.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	homepage.mac.com-asonny.warc.gz	0
-asonny	public.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	public.me.com-asonny.warc.gz	0
-asonny	web.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	web.me.com-asonny.warc.gz	0
-kbowlin1	gallery.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	gallery.me.com-kbowlin1.warc.gz	0
-kbowlin1	homepage.mac.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	homepage.mac.com-kbowlin1.warc.gz	0
-kbowlin1	public.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	public.me.com-kbowlin1.warc.gz	0
-kbowlin1	web.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	web.me.com-kbowlin1.warc.gz	0
-sgodin	gallery.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	gallery.me.com-sgodin.warc.gz	0
-sgodin	homepage.mac.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	homepage.mac.com-sgodin.warc.gz	0
-sgodin	public.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	public.me.com-sgodin.warc.gz	0
-sgodin	web.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	web.me.com-sgodin.warc.gz	0
-turino	gallery.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	gallery.me.com-turino.warc.gz	0
-turino	homepage.mac.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	homepage.mac.com-turino.warc.gz	0
-turino	public.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	public.me.com-turino.warc.gz	0
-turino	web.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	web.me.com-turino.warc.gz	0
+asonny	gallery.me.com	2012-04-04 11:11:59	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	gallery.me.com-asonny.warc.gz	8329
+asonny	homepage.mac.com	2012-04-04 11:11:59	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	homepage.mac.com-asonny.warc.gz	5146
+asonny	public.me.com	2012-04-04 11:11:58	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	public.me.com-asonny.warc.gz	1902
+asonny	web.me.com	2012-04-04 11:11:57	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	web.me.com-asonny.warc.gz	17638
+kbowlin1	gallery.me.com	2012-04-04 13:34:25	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	gallery.me.com-kbowlin1.warc.gz	5173757002
+kbowlin1	homepage.mac.com	2012-04-04 13:34:25	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	homepage.mac.com-kbowlin1.warc.gz	4880
+kbowlin1	public.me.com	2012-04-04 12:00:39	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	public.me.com-kbowlin1.warc.gz	1911
+kbowlin1	web.me.com	2012-04-04 11:59:36	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	web.me.com-kbowlin1.warc.gz	563383107
+sgodin	gallery.me.com	2012-04-04 11:12:02	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	gallery.me.com-sgodin.warc.gz	8331
+sgodin	homepage.mac.com	2012-04-04 11:12:02	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	homepage.mac.com-sgodin.warc.gz	5150
+sgodin	public.me.com	2012-04-04 11:12:01	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	public.me.com-sgodin.warc.gz	1910
+sgodin	web.me.com	2012-04-04 11:12:01	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	web.me.com-sgodin.warc.gz	17652
+turino	gallery.me.com	2012-04-04 11:36:02	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	gallery.me.com-turino.warc.gz	4264
+turino	homepage.mac.com	2012-04-04 11:36:02	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	homepage.mac.com-turino.warc.gz	4900
+turino	public.me.com	2012-04-04 11:36:01	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	public.me.com-turino.warc.gz	1906
+turino	web.me.com	2012-04-04 11:36:00	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3830.tar	web.me.com-turino.warc.gz	346874569

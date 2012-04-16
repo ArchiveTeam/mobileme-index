@@ -1,20 +1,20 @@
-acarusbowker	gallery.me.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	gallery.me.com-acarusbowker.warc.gz	0
-acarusbowker	homepage.mac.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	homepage.mac.com-acarusbowker.warc.gz	0
-acarusbowker	public.me.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	public.me.com-acarusbowker.warc.gz	0
-acarusbowker	web.me.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	web.me.com-acarusbowker.warc.gz	0
-camiecrawford	gallery.me.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	gallery.me.com-camiecrawford.warc.gz	0
-camiecrawford	homepage.mac.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	homepage.mac.com-camiecrawford.warc.gz	0
-camiecrawford	public.me.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	public.me.com-camiecrawford.warc.gz	0
-camiecrawford	web.me.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	web.me.com-camiecrawford.warc.gz	0
-mgreischar	gallery.me.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	gallery.me.com-mgreischar.warc.gz	0
-mgreischar	homepage.mac.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	homepage.mac.com-mgreischar.warc.gz	0
-mgreischar	public.me.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	public.me.com-mgreischar.warc.gz	0
-mgreischar	web.me.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	web.me.com-mgreischar.warc.gz	0
-mj_08	gallery.me.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	gallery.me.com-mj_08.warc.gz	0
-mj_08	homepage.mac.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	homepage.mac.com-mj_08.warc.gz	0
-mj_08	public.me.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	public.me.com-mj_08.warc.gz	0
-mj_08	web.me.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	web.me.com-mj_08.warc.gz	0
-robert.slippens	gallery.me.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	gallery.me.com-robert.slippens.warc.gz	0
-robert.slippens	homepage.mac.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	homepage.mac.com-robert.slippens.warc.gz	0
-robert.slippens	public.me.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	public.me.com-robert.slippens.warc.gz	0
-robert.slippens	web.me.com		archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	web.me.com-robert.slippens.warc.gz	0
+acarusbowker	gallery.me.com	2012-04-09 04:52:43	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	gallery.me.com-acarusbowker.warc.gz	5296
+acarusbowker	homepage.mac.com	2012-04-09 04:52:43	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	homepage.mac.com-acarusbowker.warc.gz	4932
+acarusbowker	public.me.com	2012-04-09 04:52:42	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	public.me.com-acarusbowker.warc.gz	1922
+acarusbowker	web.me.com	2012-04-09 04:52:42	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	web.me.com-acarusbowker.warc.gz	18095681
+camiecrawford	gallery.me.com	2012-04-09 04:15:51	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	gallery.me.com-camiecrawford.warc.gz	1568086
+camiecrawford	homepage.mac.com	2012-04-09 04:15:51	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	homepage.mac.com-camiecrawford.warc.gz	4926
+camiecrawford	public.me.com	2012-04-09 04:15:36	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	public.me.com-camiecrawford.warc.gz	1927
+camiecrawford	web.me.com	2012-04-09 04:15:36	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	web.me.com-camiecrawford.warc.gz	32530245
+mgreischar	gallery.me.com	2012-04-09 06:19:15	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	gallery.me.com-mgreischar.warc.gz	4256
+mgreischar	homepage.mac.com	2012-04-09 06:19:16	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	homepage.mac.com-mgreischar.warc.gz	4929
+mgreischar	public.me.com	2012-04-09 06:19:14	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	public.me.com-mgreischar.warc.gz	1962880752
+mgreischar	web.me.com	2012-04-09 04:55:36	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	web.me.com-mgreischar.warc.gz	20911747
+mj_08	gallery.me.com	2012-04-09 04:47:19	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	gallery.me.com-mj_08.warc.gz	1180086233
+mj_08	homepage.mac.com	2012-04-09 04:47:20	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	homepage.mac.com-mj_08.warc.gz	4912
+mj_08	public.me.com	2012-04-09 04:28:37	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	public.me.com-mj_08.warc.gz	3438
+mj_08	web.me.com	2012-04-09 04:28:37	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	web.me.com-mj_08.warc.gz	424534925
+robert.slippens	gallery.me.com	2012-04-09 04:09:08	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	gallery.me.com-robert.slippens.warc.gz	866253647
+robert.slippens	homepage.mac.com	2012-04-09 04:09:08	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	homepage.mac.com-robert.slippens.warc.gz	4930
+robert.slippens	public.me.com	2012-04-09 04:03:39	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	public.me.com-robert.slippens.warc.gz	1931
+robert.slippens	web.me.com	2012-04-09 04:03:38	archiveteam-mobileme-hero-535x	archiveteam-mobileme-hero-535x-5353.tar	web.me.com-robert.slippens.warc.gz	4166185

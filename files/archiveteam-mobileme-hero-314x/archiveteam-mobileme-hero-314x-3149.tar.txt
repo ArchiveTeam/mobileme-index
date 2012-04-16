@@ -1,12 +1,12 @@
-a.rands	gallery.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	gallery.me.com-a.rands.warc.gz	0
-a.rands	homepage.mac.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	homepage.mac.com-a.rands.warc.gz	0
-a.rands	public.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	public.me.com-a.rands.warc.gz	0
-a.rands	web.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	web.me.com-a.rands.warc.gz	0
-g4scott	gallery.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	gallery.me.com-g4scott.warc.gz	0
-g4scott	homepage.mac.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	homepage.mac.com-g4scott.warc.gz	0
-g4scott	public.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	public.me.com-g4scott.warc.gz	0
-g4scott	web.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	web.me.com-g4scott.warc.gz	0
-tomhedeen	gallery.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	gallery.me.com-tomhedeen.warc.gz	0
-tomhedeen	homepage.mac.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	homepage.mac.com-tomhedeen.warc.gz	0
-tomhedeen	public.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	public.me.com-tomhedeen.warc.gz	0
-tomhedeen	web.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	web.me.com-tomhedeen.warc.gz	0
+a.rands	gallery.me.com	2012-04-02 17:50:11	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	gallery.me.com-a.rands.warc.gz	41842134
+a.rands	homepage.mac.com	2012-04-02 17:50:14	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	homepage.mac.com-a.rands.warc.gz	73757
+a.rands	public.me.com	2012-04-02 17:48:59	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	public.me.com-a.rands.warc.gz	1913
+a.rands	web.me.com	2012-04-02 17:48:58	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	web.me.com-a.rands.warc.gz	16767714
+g4scott	gallery.me.com	2012-04-02 17:33:31	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	gallery.me.com-g4scott.warc.gz	42869015
+g4scott	homepage.mac.com	2012-04-02 17:33:31	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	homepage.mac.com-g4scott.warc.gz	3342
+g4scott	public.me.com	2012-04-02 17:31:48	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	public.me.com-g4scott.warc.gz	45946842
+g4scott	web.me.com	2012-04-02 17:30:37	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	web.me.com-g4scott.warc.gz	1675486
+tomhedeen	gallery.me.com	2012-04-02 22:49:11	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	gallery.me.com-tomhedeen.warc.gz	3418425132
+tomhedeen	homepage.mac.com	2012-04-02 22:49:12	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	homepage.mac.com-tomhedeen.warc.gz	7877
+tomhedeen	public.me.com	2012-04-02 21:54:38	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	public.me.com-tomhedeen.warc.gz	163751553
+tomhedeen	web.me.com	2012-04-02 21:51:03	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3149.tar	web.me.com-tomhedeen.warc.gz	6608181548

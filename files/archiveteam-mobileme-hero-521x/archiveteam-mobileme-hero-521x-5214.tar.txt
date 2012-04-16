@@ -1,24 +1,24 @@
-coop1ss	gallery.me.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	gallery.me.com-coop1ss.warc.gz	0
-coop1ss	homepage.mac.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	homepage.mac.com-coop1ss.warc.gz	0
-coop1ss	public.me.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	public.me.com-coop1ss.warc.gz	0
-coop1ss	web.me.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	web.me.com-coop1ss.warc.gz	0
-gabecobas	gallery.me.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	gallery.me.com-gabecobas.warc.gz	0
-gabecobas	homepage.mac.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	homepage.mac.com-gabecobas.warc.gz	0
-gabecobas	public.me.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	public.me.com-gabecobas.warc.gz	0
-gabecobas	web.me.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	web.me.com-gabecobas.warc.gz	0
-gandalf55	gallery.me.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	gallery.me.com-gandalf55.warc.gz	0
-gandalf55	homepage.mac.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	homepage.mac.com-gandalf55.warc.gz	0
-gandalf55	public.me.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	public.me.com-gandalf55.warc.gz	0
-gandalf55	web.me.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	web.me.com-gandalf55.warc.gz	0
-purplecouch	gallery.me.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	gallery.me.com-purplecouch.warc.gz	0
-purplecouch	homepage.mac.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	homepage.mac.com-purplecouch.warc.gz	0
-purplecouch	public.me.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	public.me.com-purplecouch.warc.gz	0
-purplecouch	web.me.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	web.me.com-purplecouch.warc.gz	0
-smfoxmd	gallery.me.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	gallery.me.com-smfoxmd.warc.gz	0
-smfoxmd	homepage.mac.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	homepage.mac.com-smfoxmd.warc.gz	0
-smfoxmd	public.me.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	public.me.com-smfoxmd.warc.gz	0
-smfoxmd	web.me.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	web.me.com-smfoxmd.warc.gz	0
-whitebaracuda	gallery.me.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	gallery.me.com-whitebaracuda.warc.gz	0
-whitebaracuda	homepage.mac.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	homepage.mac.com-whitebaracuda.warc.gz	0
-whitebaracuda	public.me.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	public.me.com-whitebaracuda.warc.gz	0
-whitebaracuda	web.me.com		archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	web.me.com-whitebaracuda.warc.gz	0
+coop1ss	gallery.me.com	2012-04-08 18:30:27	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	gallery.me.com-coop1ss.warc.gz	230528
+coop1ss	homepage.mac.com	2012-04-08 18:30:30	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	homepage.mac.com-coop1ss.warc.gz	72885
+coop1ss	public.me.com	2012-04-08 18:30:24	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	public.me.com-coop1ss.warc.gz	1909
+coop1ss	web.me.com	2012-04-08 18:30:24	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	web.me.com-coop1ss.warc.gz	171303717
+gabecobas	gallery.me.com	2012-04-08 19:38:58	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	gallery.me.com-gabecobas.warc.gz	1229255874
+gabecobas	homepage.mac.com	2012-04-08 19:38:59	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	homepage.mac.com-gabecobas.warc.gz	4901
+gabecobas	public.me.com	2012-04-08 19:17:10	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	public.me.com-gabecobas.warc.gz	65055724
+gabecobas	web.me.com	2012-04-08 19:14:44	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	web.me.com-gabecobas.warc.gz	1114585863
+gandalf55	gallery.me.com	2012-04-08 22:11:45	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	gallery.me.com-gandalf55.warc.gz	4654144330
+gandalf55	homepage.mac.com	2012-04-08 22:11:46	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	homepage.mac.com-gandalf55.warc.gz	4899
+gandalf55	public.me.com	2012-04-08 21:02:50	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	public.me.com-gandalf55.warc.gz	8848952
+gandalf55	web.me.com	2012-04-08 21:02:13	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	web.me.com-gandalf55.warc.gz	2838917786
+purplecouch	gallery.me.com	2012-04-08 18:34:34	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	gallery.me.com-purplecouch.warc.gz	4298
+purplecouch	homepage.mac.com	2012-04-08 18:34:35	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	homepage.mac.com-purplecouch.warc.gz	4935
+purplecouch	public.me.com	2012-04-08 18:34:33	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	public.me.com-purplecouch.warc.gz	1926
+purplecouch	web.me.com	2012-04-08 18:34:33	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	web.me.com-purplecouch.warc.gz	53804783
+smfoxmd	gallery.me.com	2012-04-08 18:26:18	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	gallery.me.com-smfoxmd.warc.gz	1124631185
+smfoxmd	homepage.mac.com	2012-04-08 18:26:18	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	homepage.mac.com-smfoxmd.warc.gz	4915
+smfoxmd	public.me.com	2012-04-08 18:20:42	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	public.me.com-smfoxmd.warc.gz	1916
+smfoxmd	web.me.com	2012-04-08 18:20:41	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	web.me.com-smfoxmd.warc.gz	291874665
+whitebaracuda	gallery.me.com	2012-04-08 19:51:49	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	gallery.me.com-whitebaracuda.warc.gz	39154492
+whitebaracuda	homepage.mac.com	2012-04-08 19:51:49	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	homepage.mac.com-whitebaracuda.warc.gz	4934
+whitebaracuda	public.me.com	2012-04-08 19:50:52	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	public.me.com-whitebaracuda.warc.gz	1933
+whitebaracuda	web.me.com	2012-04-08 19:50:52	archiveteam-mobileme-hero-521x	archiveteam-mobileme-hero-521x-5214.tar	web.me.com-whitebaracuda.warc.gz	71532195

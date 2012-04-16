@@ -1,28 +1,28 @@
-ctingstrom	gallery.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	gallery.me.com-ctingstrom.warc.gz	0
-ctingstrom	homepage.mac.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	homepage.mac.com-ctingstrom.warc.gz	0
-ctingstrom	public.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	public.me.com-ctingstrom.warc.gz	0
-ctingstrom	web.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	web.me.com-ctingstrom.warc.gz	0
-gretasphere	gallery.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	gallery.me.com-gretasphere.warc.gz	0
-gretasphere	homepage.mac.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	homepage.mac.com-gretasphere.warc.gz	0
-gretasphere	public.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	public.me.com-gretasphere.warc.gz	0
-gretasphere	web.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	web.me.com-gretasphere.warc.gz	0
-jevar	gallery.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	gallery.me.com-jevar.warc.gz	0
-jevar	homepage.mac.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	homepage.mac.com-jevar.warc.gz	0
-jevar	public.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	public.me.com-jevar.warc.gz	0
-jevar	web.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	web.me.com-jevar.warc.gz	0
-john.w.washburn	gallery.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	gallery.me.com-john.w.washburn.warc.gz	0
-john.w.washburn	homepage.mac.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	homepage.mac.com-john.w.washburn.warc.gz	0
-john.w.washburn	public.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	public.me.com-john.w.washburn.warc.gz	0
-john.w.washburn	web.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	web.me.com-john.w.washburn.warc.gz	0
-mervyn.murray	gallery.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	gallery.me.com-mervyn.murray.warc.gz	0
-mervyn.murray	homepage.mac.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	homepage.mac.com-mervyn.murray.warc.gz	0
-mervyn.murray	public.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	public.me.com-mervyn.murray.warc.gz	0
-mervyn.murray	web.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	web.me.com-mervyn.murray.warc.gz	0
-teketebusinessgroup	gallery.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	gallery.me.com-teketebusinessgroup.warc.gz	0
-teketebusinessgroup	homepage.mac.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	homepage.mac.com-teketebusinessgroup.warc.gz	0
-teketebusinessgroup	public.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	public.me.com-teketebusinessgroup.warc.gz	0
-teketebusinessgroup	web.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	web.me.com-teketebusinessgroup.warc.gz	0
-vrhomes	gallery.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	gallery.me.com-vrhomes.warc.gz	0
-vrhomes	homepage.mac.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	homepage.mac.com-vrhomes.warc.gz	0
-vrhomes	public.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	public.me.com-vrhomes.warc.gz	0
-vrhomes	web.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	web.me.com-vrhomes.warc.gz	0
+ctingstrom	gallery.me.com	2012-04-06 12:35:45	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	gallery.me.com-ctingstrom.warc.gz	15176349
+ctingstrom	homepage.mac.com	2012-04-06 12:35:45	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	homepage.mac.com-ctingstrom.warc.gz	4899
+ctingstrom	public.me.com	2012-04-06 12:35:34	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	public.me.com-ctingstrom.warc.gz	1918
+ctingstrom	web.me.com	2012-04-06 12:35:33	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	web.me.com-ctingstrom.warc.gz	20095239
+gretasphere	gallery.me.com	2012-04-06 12:22:15	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	gallery.me.com-gretasphere.warc.gz	866781474
+gretasphere	homepage.mac.com	2012-04-06 12:22:19	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	homepage.mac.com-gretasphere.warc.gz	4919
+gretasphere	public.me.com	2012-04-06 12:08:13	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	public.me.com-gretasphere.warc.gz	1924
+gretasphere	web.me.com	2012-04-06 12:08:13	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	web.me.com-gretasphere.warc.gz	55388345
+jevar	gallery.me.com	2012-04-06 11:58:24	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	gallery.me.com-jevar.warc.gz	369578067
+jevar	homepage.mac.com	2012-04-06 11:58:24	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	homepage.mac.com-jevar.warc.gz	4901
+jevar	public.me.com	2012-04-06 11:49:21	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	public.me.com-jevar.warc.gz	49953633
+jevar	web.me.com	2012-04-06 11:48:03	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	web.me.com-jevar.warc.gz	1440899388
+john.w.washburn	gallery.me.com	2012-04-06 15:53:33	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	gallery.me.com-john.w.washburn.warc.gz	2601638869
+john.w.washburn	homepage.mac.com	2012-04-06 15:53:37	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	homepage.mac.com-john.w.washburn.warc.gz	93015
+john.w.washburn	public.me.com	2012-04-06 15:09:08	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	public.me.com-john.w.washburn.warc.gz	1937
+john.w.washburn	web.me.com	2012-04-06 15:08:35	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	web.me.com-john.w.washburn.warc.gz	1876511731
+mervyn.murray	gallery.me.com	2012-04-06 12:26:17	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	gallery.me.com-mervyn.murray.warc.gz	4304
+mervyn.murray	homepage.mac.com	2012-04-06 12:26:17	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	homepage.mac.com-mervyn.murray.warc.gz	4921
+mervyn.murray	public.me.com	2012-04-06 12:26:16	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	public.me.com-mervyn.murray.warc.gz	1927
+mervyn.murray	web.me.com	2012-04-06 12:26:15	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	web.me.com-mervyn.murray.warc.gz	18112879
+teketebusinessgroup	gallery.me.com	2012-04-06 12:39:48	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	gallery.me.com-teketebusinessgroup.warc.gz	4024565
+teketebusinessgroup	homepage.mac.com	2012-04-06 12:39:49	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	homepage.mac.com-teketebusinessgroup.warc.gz	4952
+teketebusinessgroup	public.me.com	2012-04-06 12:39:44	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	public.me.com-teketebusinessgroup.warc.gz	1945
+teketebusinessgroup	web.me.com	2012-04-06 12:39:44	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	web.me.com-teketebusinessgroup.warc.gz	22682230
+vrhomes	gallery.me.com	2012-04-06 11:58:26	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	gallery.me.com-vrhomes.warc.gz	8331
+vrhomes	homepage.mac.com	2012-04-06 11:58:26	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	homepage.mac.com-vrhomes.warc.gz	5162
+vrhomes	public.me.com	2012-04-06 11:58:25	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	public.me.com-vrhomes.warc.gz	1916
+vrhomes	web.me.com	2012-04-06 11:58:25	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4727.tar	web.me.com-vrhomes.warc.gz	17689

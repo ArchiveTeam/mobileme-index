@@ -1,8 +1,8 @@
-chriswarden	gallery.me.com		archiveteam-mobileme-hero-461x	archiveteam-mobileme-hero-461x-4611.tar	gallery.me.com-chriswarden.warc.gz	0
-chriswarden	homepage.mac.com		archiveteam-mobileme-hero-461x	archiveteam-mobileme-hero-461x-4611.tar	homepage.mac.com-chriswarden.warc.gz	0
-chriswarden	public.me.com		archiveteam-mobileme-hero-461x	archiveteam-mobileme-hero-461x-4611.tar	public.me.com-chriswarden.warc.gz	0
-chriswarden	web.me.com		archiveteam-mobileme-hero-461x	archiveteam-mobileme-hero-461x-4611.tar	web.me.com-chriswarden.warc.gz	0
-karladuterloo	gallery.me.com		archiveteam-mobileme-hero-461x	archiveteam-mobileme-hero-461x-4611.tar	gallery.me.com-karladuterloo.warc.gz	0
-karladuterloo	homepage.mac.com		archiveteam-mobileme-hero-461x	archiveteam-mobileme-hero-461x-4611.tar	homepage.mac.com-karladuterloo.warc.gz	0
-karladuterloo	public.me.com		archiveteam-mobileme-hero-461x	archiveteam-mobileme-hero-461x-4611.tar	public.me.com-karladuterloo.warc.gz	0
-karladuterloo	web.me.com		archiveteam-mobileme-hero-461x	archiveteam-mobileme-hero-461x-4611.tar	web.me.com-karladuterloo.warc.gz	0
+chriswarden	gallery.me.com	2012-04-06 09:53:10	archiveteam-mobileme-hero-461x	archiveteam-mobileme-hero-461x-4611.tar	gallery.me.com-chriswarden.warc.gz	445585996
+chriswarden	homepage.mac.com	2012-04-06 09:53:13	archiveteam-mobileme-hero-461x	archiveteam-mobileme-hero-461x-4611.tar	homepage.mac.com-chriswarden.warc.gz	72831
+chriswarden	public.me.com	2012-04-06 09:44:38	archiveteam-mobileme-hero-461x	archiveteam-mobileme-hero-461x-4611.tar	public.me.com-chriswarden.warc.gz	8561127790
+chriswarden	web.me.com	2012-04-06 08:13:51	archiveteam-mobileme-hero-461x	archiveteam-mobileme-hero-461x-4611.tar	web.me.com-chriswarden.warc.gz	190605654
+karladuterloo	gallery.me.com	2012-04-06 08:05:18	archiveteam-mobileme-hero-461x	archiveteam-mobileme-hero-461x-4611.tar	gallery.me.com-karladuterloo.warc.gz	6861
+karladuterloo	homepage.mac.com	2012-04-06 08:05:18	archiveteam-mobileme-hero-461x	archiveteam-mobileme-hero-461x-4611.tar	homepage.mac.com-karladuterloo.warc.gz	4930
+karladuterloo	public.me.com	2012-04-06 08:05:15	archiveteam-mobileme-hero-461x	archiveteam-mobileme-hero-461x-4611.tar	public.me.com-karladuterloo.warc.gz	1928
+karladuterloo	web.me.com	2012-04-06 08:05:15	archiveteam-mobileme-hero-461x	archiveteam-mobileme-hero-461x-4611.tar	web.me.com-karladuterloo.warc.gz	158359884

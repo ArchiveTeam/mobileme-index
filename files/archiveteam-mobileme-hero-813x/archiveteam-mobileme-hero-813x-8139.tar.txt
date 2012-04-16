@@ -1,0 +1,16 @@
+john250	gallery.me.com	2012-04-14 22:00:28	archiveteam-mobileme-hero-813x	archiveteam-mobileme-hero-813x-8139.tar	gallery.me.com-john250.warc.gz	3857710
+john250	homepage.mac.com	2012-04-14 22:00:43	archiveteam-mobileme-hero-813x	archiveteam-mobileme-hero-813x-8139.tar	homepage.mac.com-john250.warc.gz	706341
+john250	public.me.com	2012-04-14 22:00:22	archiveteam-mobileme-hero-813x	archiveteam-mobileme-hero-813x-8139.tar	public.me.com-john250.warc.gz	3374
+john250	web.me.com	2012-04-14 22:00:22	archiveteam-mobileme-hero-813x	archiveteam-mobileme-hero-813x-8139.tar	web.me.com-john250.warc.gz	9971499
+katiaporter	gallery.me.com	2012-04-14 23:41:28	archiveteam-mobileme-hero-813x	archiveteam-mobileme-hero-813x-8139.tar	gallery.me.com-katiaporter.warc.gz	430448074
+katiaporter	homepage.mac.com	2012-04-14 23:41:29	archiveteam-mobileme-hero-813x	archiveteam-mobileme-hero-813x-8139.tar	homepage.mac.com-katiaporter.warc.gz	9500
+katiaporter	public.me.com	2012-04-14 23:37:39	archiveteam-mobileme-hero-813x	archiveteam-mobileme-hero-813x-8139.tar	public.me.com-katiaporter.warc.gz	1928
+katiaporter	web.me.com	2012-04-14 23:37:38	archiveteam-mobileme-hero-813x	archiveteam-mobileme-hero-813x-8139.tar	web.me.com-katiaporter.warc.gz	833504012
+sebadaf	gallery.me.com	2012-04-14 23:11:30	archiveteam-mobileme-hero-813x	archiveteam-mobileme-hero-813x-8139.tar	gallery.me.com-sebadaf.warc.gz	2551500017
+sebadaf	homepage.mac.com	2012-04-14 23:11:31	archiveteam-mobileme-hero-813x	archiveteam-mobileme-hero-813x-8139.tar	homepage.mac.com-sebadaf.warc.gz	4888
+sebadaf	public.me.com	2012-04-14 22:29:31	archiveteam-mobileme-hero-813x	archiveteam-mobileme-hero-813x-8139.tar	public.me.com-sebadaf.warc.gz	1912
+sebadaf	web.me.com	2012-04-14 22:29:30	archiveteam-mobileme-hero-813x	archiveteam-mobileme-hero-813x-8139.tar	web.me.com-sebadaf.warc.gz	908844495
+thejlpgroup	gallery.me.com	2012-04-14 23:14:44	archiveteam-mobileme-hero-813x	archiveteam-mobileme-hero-813x-8139.tar	gallery.me.com-thejlpgroup.warc.gz	5902
+thejlpgroup	homepage.mac.com	2012-04-14 23:14:44	archiveteam-mobileme-hero-813x	archiveteam-mobileme-hero-813x-8139.tar	homepage.mac.com-thejlpgroup.warc.gz	4918
+thejlpgroup	public.me.com	2012-04-14 23:14:43	archiveteam-mobileme-hero-813x	archiveteam-mobileme-hero-813x-8139.tar	public.me.com-thejlpgroup.warc.gz	1930
+thejlpgroup	web.me.com	2012-04-14 23:14:43	archiveteam-mobileme-hero-813x	archiveteam-mobileme-hero-813x-8139.tar	web.me.com-thejlpgroup.warc.gz	37208354

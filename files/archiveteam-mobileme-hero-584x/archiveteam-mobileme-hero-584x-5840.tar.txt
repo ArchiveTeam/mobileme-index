@@ -1,16 +1,16 @@
-aproto	gallery.me.com		archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	gallery.me.com-aproto.warc.gz	0
-aproto	homepage.mac.com		archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	homepage.mac.com-aproto.warc.gz	0
-aproto	public.me.com		archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	public.me.com-aproto.warc.gz	0
-aproto	web.me.com		archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	web.me.com-aproto.warc.gz	0
-doestreich	gallery.me.com		archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	gallery.me.com-doestreich.warc.gz	0
-doestreich	homepage.mac.com		archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	homepage.mac.com-doestreich.warc.gz	0
-doestreich	public.me.com		archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	public.me.com-doestreich.warc.gz	0
-doestreich	web.me.com		archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	web.me.com-doestreich.warc.gz	0
-inthepiazza	gallery.me.com		archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	gallery.me.com-inthepiazza.warc.gz	0
-inthepiazza	homepage.mac.com		archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	homepage.mac.com-inthepiazza.warc.gz	0
-inthepiazza	public.me.com		archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	public.me.com-inthepiazza.warc.gz	0
-inthepiazza	web.me.com		archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	web.me.com-inthepiazza.warc.gz	0
-markacorson	gallery.me.com		archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	gallery.me.com-markacorson.warc.gz	0
-markacorson	homepage.mac.com		archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	homepage.mac.com-markacorson.warc.gz	0
-markacorson	public.me.com		archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	public.me.com-markacorson.warc.gz	0
-markacorson	web.me.com		archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	web.me.com-markacorson.warc.gz	0
+aproto	gallery.me.com	2012-04-10 08:30:37	archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	gallery.me.com-aproto.warc.gz	2032543473
+aproto	homepage.mac.com	2012-04-10 08:30:38	archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	homepage.mac.com-aproto.warc.gz	4904
+aproto	public.me.com	2012-04-10 07:58:51	archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	public.me.com-aproto.warc.gz	1751630867
+aproto	web.me.com	2012-04-10 07:24:13	archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	web.me.com-aproto.warc.gz	285013326
+doestreich	gallery.me.com	2012-04-10 05:26:32	archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	gallery.me.com-doestreich.warc.gz	697808553
+doestreich	homepage.mac.com	2012-04-10 05:26:32	archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	homepage.mac.com-doestreich.warc.gz	4928
+doestreich	public.me.com	2012-04-10 05:12:59	archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	public.me.com-doestreich.warc.gz	34295076
+doestreich	web.me.com	2012-04-10 05:11:37	archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	web.me.com-doestreich.warc.gz	260594211
+inthepiazza	gallery.me.com	2012-04-10 07:15:27	archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	gallery.me.com-inthepiazza.warc.gz	33556303
+inthepiazza	homepage.mac.com	2012-04-10 07:15:27	archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	homepage.mac.com-inthepiazza.warc.gz	4909
+inthepiazza	public.me.com	2012-04-10 07:14:39	archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	public.me.com-inthepiazza.warc.gz	1925
+inthepiazza	web.me.com	2012-04-10 07:14:32	archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	web.me.com-inthepiazza.warc.gz	544983408
+markacorson	gallery.me.com	2012-04-10 04:58:08	archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	gallery.me.com-markacorson.warc.gz	14545
+markacorson	homepage.mac.com	2012-04-10 04:58:11	archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	homepage.mac.com-markacorson.warc.gz	212611
+markacorson	public.me.com	2012-04-10 04:58:07	archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	public.me.com-markacorson.warc.gz	3474382
+markacorson	web.me.com	2012-04-10 04:57:57	archiveteam-mobileme-hero-584x	archiveteam-mobileme-hero-584x-5840.tar	web.me.com-markacorson.warc.gz	465075

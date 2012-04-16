@@ -1,12 +1,12 @@
-VA7BC	gallery.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	gallery.me.com-VA7BC.warc.gz	0
-VA7BC	homepage.mac.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	homepage.mac.com-VA7BC.warc.gz	0
-VA7BC	public.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	public.me.com-VA7BC.warc.gz	0
-VA7BC	web.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	web.me.com-VA7BC.warc.gz	0
-jdubbs	gallery.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	gallery.me.com-jdubbs.warc.gz	0
-jdubbs	homepage.mac.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	homepage.mac.com-jdubbs.warc.gz	0
-jdubbs	public.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	public.me.com-jdubbs.warc.gz	0
-jdubbs	web.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	web.me.com-jdubbs.warc.gz	0
-rthomasbr1	gallery.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	gallery.me.com-rthomasbr1.warc.gz	0
-rthomasbr1	homepage.mac.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	homepage.mac.com-rthomasbr1.warc.gz	0
-rthomasbr1	public.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	public.me.com-rthomasbr1.warc.gz	0
-rthomasbr1	web.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	web.me.com-rthomasbr1.warc.gz	0
+VA7BC	gallery.me.com	2012-04-06 09:20:14	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	gallery.me.com-VA7BC.warc.gz	8180
+VA7BC	homepage.mac.com	2012-04-06 09:20:16	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	homepage.mac.com-VA7BC.warc.gz	36890
+VA7BC	public.me.com	2012-04-06 09:20:13	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	public.me.com-VA7BC.warc.gz	17986104
+VA7BC	web.me.com	2012-04-06 09:19:47	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	web.me.com-VA7BC.warc.gz	19079502
+jdubbs	gallery.me.com	2012-04-06 13:22:10	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	gallery.me.com-jdubbs.warc.gz	1298187286
+jdubbs	homepage.mac.com	2012-04-06 13:22:10	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	homepage.mac.com-jdubbs.warc.gz	3792
+jdubbs	public.me.com	2012-04-06 12:49:17	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	public.me.com-jdubbs.warc.gz	15155
+jdubbs	web.me.com	2012-04-06 12:49:16	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	web.me.com-jdubbs.warc.gz	74425314
+rthomasbr1	gallery.me.com	2012-04-06 12:38:33	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	gallery.me.com-rthomasbr1.warc.gz	3885174030
+rthomasbr1	homepage.mac.com	2012-04-06 12:38:36	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	homepage.mac.com-rthomasbr1.warc.gz	76313
+rthomasbr1	public.me.com	2012-04-06 09:24:37	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	public.me.com-rthomasbr1.warc.gz	6424695
+rthomasbr1	web.me.com	2012-04-06 09:24:26	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4681.tar	web.me.com-rthomasbr1.warc.gz	6770845

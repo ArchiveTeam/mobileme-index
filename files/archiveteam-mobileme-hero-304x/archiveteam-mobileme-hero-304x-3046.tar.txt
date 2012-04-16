@@ -1,8 +1,8 @@
-manmademusic	gallery.me.com		archiveteam-mobileme-hero-304x	archiveteam-mobileme-hero-304x-3046.tar	gallery.me.com-manmademusic.warc.gz	0
-manmademusic	homepage.mac.com		archiveteam-mobileme-hero-304x	archiveteam-mobileme-hero-304x-3046.tar	homepage.mac.com-manmademusic.warc.gz	0
-manmademusic	public.me.com		archiveteam-mobileme-hero-304x	archiveteam-mobileme-hero-304x-3046.tar	public.me.com-manmademusic.warc.gz	0
-manmademusic	web.me.com		archiveteam-mobileme-hero-304x	archiveteam-mobileme-hero-304x-3046.tar	web.me.com-manmademusic.warc.gz	0
-scott.pierson	gallery.me.com		archiveteam-mobileme-hero-304x	archiveteam-mobileme-hero-304x-3046.tar	gallery.me.com-scott.pierson.warc.gz	0
-scott.pierson	homepage.mac.com		archiveteam-mobileme-hero-304x	archiveteam-mobileme-hero-304x-3046.tar	homepage.mac.com-scott.pierson.warc.gz	0
-scott.pierson	public.me.com		archiveteam-mobileme-hero-304x	archiveteam-mobileme-hero-304x-3046.tar	public.me.com-scott.pierson.warc.gz	0
-scott.pierson	web.me.com		archiveteam-mobileme-hero-304x	archiveteam-mobileme-hero-304x-3046.tar	web.me.com-scott.pierson.warc.gz	0
+manmademusic	gallery.me.com	2012-04-02 18:03:45	archiveteam-mobileme-hero-304x	archiveteam-mobileme-hero-304x-3046.tar	gallery.me.com-manmademusic.warc.gz	971566651
+manmademusic	homepage.mac.com	2012-04-02 18:03:55	archiveteam-mobileme-hero-304x	archiveteam-mobileme-hero-304x-3046.tar	homepage.mac.com-manmademusic.warc.gz	281686
+manmademusic	public.me.com	2012-04-02 17:49:05	archiveteam-mobileme-hero-304x	archiveteam-mobileme-hero-304x-3046.tar	public.me.com-manmademusic.warc.gz	2488656793
+manmademusic	web.me.com	2012-04-02 17:06:37	archiveteam-mobileme-hero-304x	archiveteam-mobileme-hero-304x-3046.tar	web.me.com-manmademusic.warc.gz	1023906622
+scott.pierson	gallery.me.com	2012-04-02 16:35:47	archiveteam-mobileme-hero-304x	archiveteam-mobileme-hero-304x-3046.tar	gallery.me.com-scott.pierson.warc.gz	303253846
+scott.pierson	homepage.mac.com	2012-04-02 16:35:47	archiveteam-mobileme-hero-304x	archiveteam-mobileme-hero-304x-3046.tar	homepage.mac.com-scott.pierson.warc.gz	4932
+scott.pierson	public.me.com	2012-04-02 16:34:11	archiveteam-mobileme-hero-304x	archiveteam-mobileme-hero-304x-3046.tar	public.me.com-scott.pierson.warc.gz	27079545
+scott.pierson	web.me.com	2012-04-02 16:33:48	archiveteam-mobileme-hero-304x	archiveteam-mobileme-hero-304x-3046.tar	web.me.com-scott.pierson.warc.gz	362489238

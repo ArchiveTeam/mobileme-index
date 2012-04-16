@@ -1,24 +1,24 @@
-c191712551	gallery.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	gallery.me.com-c191712551.warc.gz	0
-c191712551	homepage.mac.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	homepage.mac.com-c191712551.warc.gz	0
-c191712551	public.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	public.me.com-c191712551.warc.gz	0
-c191712551	web.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	web.me.com-c191712551.warc.gz	0
-chrismeredith	gallery.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	gallery.me.com-chrismeredith.warc.gz	0
-chrismeredith	homepage.mac.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	homepage.mac.com-chrismeredith.warc.gz	0
-chrismeredith	public.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	public.me.com-chrismeredith.warc.gz	0
-chrismeredith	web.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	web.me.com-chrismeredith.warc.gz	0
-d4fingers	gallery.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	gallery.me.com-d4fingers.warc.gz	0
-d4fingers	homepage.mac.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	homepage.mac.com-d4fingers.warc.gz	0
-d4fingers	public.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	public.me.com-d4fingers.warc.gz	0
-d4fingers	web.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	web.me.com-d4fingers.warc.gz	0
-jenkins08	gallery.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	gallery.me.com-jenkins08.warc.gz	0
-jenkins08	homepage.mac.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	homepage.mac.com-jenkins08.warc.gz	0
-jenkins08	public.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	public.me.com-jenkins08.warc.gz	0
-jenkins08	web.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	web.me.com-jenkins08.warc.gz	0
-rjwolf73	gallery.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	gallery.me.com-rjwolf73.warc.gz	0
-rjwolf73	homepage.mac.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	homepage.mac.com-rjwolf73.warc.gz	0
-rjwolf73	public.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	public.me.com-rjwolf73.warc.gz	0
-rjwolf73	web.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	web.me.com-rjwolf73.warc.gz	0
-saturn3	gallery.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	gallery.me.com-saturn3.warc.gz	0
-saturn3	homepage.mac.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	homepage.mac.com-saturn3.warc.gz	0
-saturn3	public.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	public.me.com-saturn3.warc.gz	0
-saturn3	web.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	web.me.com-saturn3.warc.gz	0
+c191712551	gallery.me.com	2012-04-13 10:25:06	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	gallery.me.com-c191712551.warc.gz	8361
+c191712551	homepage.mac.com	2012-04-13 10:25:07	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	homepage.mac.com-c191712551.warc.gz	5181
+c191712551	public.me.com	2012-04-13 10:25:05	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	public.me.com-c191712551.warc.gz	1918
+c191712551	web.me.com	2012-04-13 10:25:04	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	web.me.com-c191712551.warc.gz	17731
+chrismeredith	gallery.me.com	2012-04-13 14:58:36	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	gallery.me.com-chrismeredith.warc.gz	8045343977
+chrismeredith	homepage.mac.com	2012-04-13 14:58:47	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	homepage.mac.com-chrismeredith.warc.gz	101212
+chrismeredith	public.me.com	2012-04-13 11:57:05	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	public.me.com-chrismeredith.warc.gz	1935
+chrismeredith	web.me.com	2012-04-13 11:57:03	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	web.me.com-chrismeredith.warc.gz	628038454
+d4fingers	gallery.me.com	2012-04-13 10:24:55	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	gallery.me.com-d4fingers.warc.gz	31971707
+d4fingers	homepage.mac.com	2012-04-13 10:24:56	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	homepage.mac.com-d4fingers.warc.gz	4918
+d4fingers	public.me.com	2012-04-13 10:23:43	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	public.me.com-d4fingers.warc.gz	1912
+d4fingers	web.me.com	2012-04-13 10:23:37	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	web.me.com-d4fingers.warc.gz	2152181397
+jenkins08	gallery.me.com	2012-04-13 08:54:35	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	gallery.me.com-jenkins08.warc.gz	60239115
+jenkins08	homepage.mac.com	2012-04-13 08:54:35	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	homepage.mac.com-jenkins08.warc.gz	4904
+jenkins08	public.me.com	2012-04-13 08:51:59	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	public.me.com-jenkins08.warc.gz	1921
+jenkins08	web.me.com	2012-04-13 08:51:59	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	web.me.com-jenkins08.warc.gz	5036392
+rjwolf73	gallery.me.com	2012-04-13 10:32:59	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	gallery.me.com-rjwolf73.warc.gz	8362
+rjwolf73	homepage.mac.com	2012-04-13 10:32:59	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	homepage.mac.com-rjwolf73.warc.gz	5155
+rjwolf73	public.me.com	2012-04-13 10:32:57	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	public.me.com-rjwolf73.warc.gz	1913
+rjwolf73	web.me.com	2012-04-13 10:32:57	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	web.me.com-rjwolf73.warc.gz	17742
+saturn3	gallery.me.com	2012-04-13 10:32:54	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	gallery.me.com-saturn3.warc.gz	7037372
+saturn3	homepage.mac.com	2012-04-13 10:32:54	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	homepage.mac.com-saturn3.warc.gz	4880
+saturn3	public.me.com	2012-04-13 10:32:33	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	public.me.com-saturn3.warc.gz	1917
+saturn3	web.me.com	2012-04-13 10:32:31	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7361.tar	web.me.com-saturn3.warc.gz	88547086

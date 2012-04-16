@@ -1,16 +1,16 @@
-c248985657	gallery.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	gallery.me.com-c248985657.warc.gz	0
-c248985657	homepage.mac.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	homepage.mac.com-c248985657.warc.gz	0
-c248985657	public.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	public.me.com-c248985657.warc.gz	0
-c248985657	web.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	web.me.com-c248985657.warc.gz	0
-lta	gallery.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	gallery.me.com-lta.warc.gz	0
-lta	homepage.mac.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	homepage.mac.com-lta.warc.gz	0
-lta	public.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	public.me.com-lta.warc.gz	0
-lta	web.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	web.me.com-lta.warc.gz	0
-tayadelacruz	gallery.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	gallery.me.com-tayadelacruz.warc.gz	0
-tayadelacruz	homepage.mac.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	homepage.mac.com-tayadelacruz.warc.gz	0
-tayadelacruz	public.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	public.me.com-tayadelacruz.warc.gz	0
-tayadelacruz	web.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	web.me.com-tayadelacruz.warc.gz	0
-tscottgrif	gallery.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	gallery.me.com-tscottgrif.warc.gz	0
-tscottgrif	homepage.mac.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	homepage.mac.com-tscottgrif.warc.gz	0
-tscottgrif	public.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	public.me.com-tscottgrif.warc.gz	0
-tscottgrif	web.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	web.me.com-tscottgrif.warc.gz	0
+c248985657	gallery.me.com	2012-03-30 16:13:44	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	gallery.me.com-c248985657.warc.gz	8355
+c248985657	homepage.mac.com	2012-03-30 16:13:44	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	homepage.mac.com-c248985657.warc.gz	5184
+c248985657	public.me.com	2012-03-30 16:13:44	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	public.me.com-c248985657.warc.gz	1917
+c248985657	web.me.com	2012-03-30 16:13:44	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	web.me.com-c248985657.warc.gz	17735
+lta	gallery.me.com	2012-03-30 17:07:03	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	gallery.me.com-lta.warc.gz	3957819193
+lta	homepage.mac.com	2012-03-30 17:07:04	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	homepage.mac.com-lta.warc.gz	4880
+lta	public.me.com	2012-03-30 16:25:35	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	public.me.com-lta.warc.gz	369693722
+lta	web.me.com	2012-03-30 16:20:04	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	web.me.com-lta.warc.gz	31703663
+tayadelacruz	gallery.me.com	2012-03-30 16:13:41	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	gallery.me.com-tayadelacruz.warc.gz	5775
+tayadelacruz	homepage.mac.com	2012-03-30 16:13:41	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	homepage.mac.com-tayadelacruz.warc.gz	4940
+tayadelacruz	public.me.com	2012-03-30 16:13:40	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	public.me.com-tayadelacruz.warc.gz	1043967
+tayadelacruz	web.me.com	2012-03-30 16:13:38	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	web.me.com-tayadelacruz.warc.gz	930123
+tscottgrif	gallery.me.com	2012-03-30 16:13:43	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	gallery.me.com-tscottgrif.warc.gz	8353
+tscottgrif	homepage.mac.com	2012-03-30 16:13:43	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	homepage.mac.com-tscottgrif.warc.gz	5181
+tscottgrif	public.me.com	2012-03-30 16:13:42	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	public.me.com-tscottgrif.warc.gz	1917
+tscottgrif	web.me.com	2012-03-30 16:13:42	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2181.tar	web.me.com-tscottgrif.warc.gz	17763

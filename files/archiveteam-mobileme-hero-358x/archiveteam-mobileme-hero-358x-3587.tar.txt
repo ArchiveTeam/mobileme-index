@@ -1,16 +1,16 @@
-chumpboy	gallery.me.com		archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	gallery.me.com-chumpboy.warc.gz	0
-chumpboy	homepage.mac.com		archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	homepage.mac.com-chumpboy.warc.gz	0
-chumpboy	public.me.com		archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	public.me.com-chumpboy.warc.gz	0
-chumpboy	web.me.com		archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	web.me.com-chumpboy.warc.gz	0
-drlowers	gallery.me.com		archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	gallery.me.com-drlowers.warc.gz	0
-drlowers	homepage.mac.com		archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	homepage.mac.com-drlowers.warc.gz	0
-drlowers	public.me.com		archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	public.me.com-drlowers.warc.gz	0
-drlowers	web.me.com		archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	web.me.com-drlowers.warc.gz	0
-jamoutinc	gallery.me.com		archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	gallery.me.com-jamoutinc.warc.gz	0
-jamoutinc	homepage.mac.com		archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	homepage.mac.com-jamoutinc.warc.gz	0
-jamoutinc	public.me.com		archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	public.me.com-jamoutinc.warc.gz	0
-jamoutinc	web.me.com		archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	web.me.com-jamoutinc.warc.gz	0
-maryannebilham	gallery.me.com		archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	gallery.me.com-maryannebilham.warc.gz	0
-maryannebilham	homepage.mac.com		archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	homepage.mac.com-maryannebilham.warc.gz	0
-maryannebilham	public.me.com		archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	public.me.com-maryannebilham.warc.gz	0
-maryannebilham	web.me.com		archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	web.me.com-maryannebilham.warc.gz	0
+chumpboy	gallery.me.com	2012-04-03 21:52:23	archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	gallery.me.com-chumpboy.warc.gz	2266208696
+chumpboy	homepage.mac.com	2012-04-03 21:52:37	archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	homepage.mac.com-chumpboy.warc.gz	219125
+chumpboy	public.me.com	2012-04-03 20:57:02	archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	public.me.com-chumpboy.warc.gz	1916
+chumpboy	web.me.com	2012-04-03 20:56:31	archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	web.me.com-chumpboy.warc.gz	1965786668
+drlowers	gallery.me.com	2012-04-03 19:12:42	archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	gallery.me.com-drlowers.warc.gz	1175767
+drlowers	homepage.mac.com	2012-04-03 19:12:43	archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	homepage.mac.com-drlowers.warc.gz	4898
+drlowers	public.me.com	2012-04-03 19:12:39	archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	public.me.com-drlowers.warc.gz	1917
+drlowers	web.me.com	2012-04-03 19:12:37	archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	web.me.com-drlowers.warc.gz	1266295
+jamoutinc	gallery.me.com	2012-04-03 21:55:17	archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	gallery.me.com-jamoutinc.warc.gz	11673800
+jamoutinc	homepage.mac.com	2012-04-03 21:55:17	archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	homepage.mac.com-jamoutinc.warc.gz	4904
+jamoutinc	public.me.com	2012-04-03 21:54:30	archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	public.me.com-jamoutinc.warc.gz	3319
+jamoutinc	web.me.com	2012-04-03 21:54:29	archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	web.me.com-jamoutinc.warc.gz	13023195
+maryannebilham	gallery.me.com	2012-04-03 23:01:33	archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	gallery.me.com-maryannebilham.warc.gz	30982148
+maryannebilham	homepage.mac.com	2012-04-03 23:01:35	archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	homepage.mac.com-maryannebilham.warc.gz	4916
+maryannebilham	public.me.com	2012-04-03 23:00:41	archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	public.me.com-maryannebilham.warc.gz	1934
+maryannebilham	web.me.com	2012-04-03 23:00:39	archiveteam-mobileme-hero-358x	archiveteam-mobileme-hero-358x-3587.tar	web.me.com-maryannebilham.warc.gz	291950523

@@ -1,24 +1,24 @@
-cedar_grove_school	gallery.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	gallery.me.com-cedar_grove_school.warc.gz	0
-cedar_grove_school	homepage.mac.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	homepage.mac.com-cedar_grove_school.warc.gz	0
-cedar_grove_school	public.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	public.me.com-cedar_grove_school.warc.gz	0
-cedar_grove_school	web.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	web.me.com-cedar_grove_school.warc.gz	0
-dfaitt	gallery.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	gallery.me.com-dfaitt.warc.gz	0
-dfaitt	homepage.mac.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	homepage.mac.com-dfaitt.warc.gz	0
-dfaitt	public.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	public.me.com-dfaitt.warc.gz	0
-dfaitt	web.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	web.me.com-dfaitt.warc.gz	0
-feeder_goldfish	gallery.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	gallery.me.com-feeder_goldfish.warc.gz	0
-feeder_goldfish	homepage.mac.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	homepage.mac.com-feeder_goldfish.warc.gz	0
-feeder_goldfish	public.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	public.me.com-feeder_goldfish.warc.gz	0
-feeder_goldfish	web.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	web.me.com-feeder_goldfish.warc.gz	0
-katherineamills	gallery.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	gallery.me.com-katherineamills.warc.gz	0
-katherineamills	homepage.mac.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	homepage.mac.com-katherineamills.warc.gz	0
-katherineamills	public.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	public.me.com-katherineamills.warc.gz	0
-katherineamills	web.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	web.me.com-katherineamills.warc.gz	0
-ksteele	gallery.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	gallery.me.com-ksteele.warc.gz	0
-ksteele	homepage.mac.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	homepage.mac.com-ksteele.warc.gz	0
-ksteele	public.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	public.me.com-ksteele.warc.gz	0
-ksteele	web.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	web.me.com-ksteele.warc.gz	0
-laurent.subias	gallery.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	gallery.me.com-laurent.subias.warc.gz	0
-laurent.subias	homepage.mac.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	homepage.mac.com-laurent.subias.warc.gz	0
-laurent.subias	public.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	public.me.com-laurent.subias.warc.gz	0
-laurent.subias	web.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	web.me.com-laurent.subias.warc.gz	0
+cedar_grove_school	gallery.me.com	2012-04-05 21:11:08	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	gallery.me.com-cedar_grove_school.warc.gz	4359
+cedar_grove_school	homepage.mac.com	2012-04-05 21:11:08	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	homepage.mac.com-cedar_grove_school.warc.gz	4956
+cedar_grove_school	public.me.com	2012-04-05 21:11:07	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	public.me.com-cedar_grove_school.warc.gz	1942
+cedar_grove_school	web.me.com	2012-04-05 21:11:07	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	web.me.com-cedar_grove_school.warc.gz	7545
+dfaitt	gallery.me.com	2012-04-05 23:12:52	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	gallery.me.com-dfaitt.warc.gz	1526332647
+dfaitt	homepage.mac.com	2012-04-05 23:12:52	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	homepage.mac.com-dfaitt.warc.gz	4907
+dfaitt	public.me.com	2012-04-05 22:16:18	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	public.me.com-dfaitt.warc.gz	15191
+dfaitt	web.me.com	2012-04-05 22:16:16	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	web.me.com-dfaitt.warc.gz	115993176
+feeder_goldfish	gallery.me.com	2012-04-05 20:49:23	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	gallery.me.com-feeder_goldfish.warc.gz	1569924166
+feeder_goldfish	homepage.mac.com	2012-04-05 20:49:39	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	homepage.mac.com-feeder_goldfish.warc.gz	149882
+feeder_goldfish	public.me.com	2012-04-05 19:52:44	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	public.me.com-feeder_goldfish.warc.gz	1935
+feeder_goldfish	web.me.com	2012-04-05 19:52:42	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	web.me.com-feeder_goldfish.warc.gz	96205206
+katherineamills	gallery.me.com	2012-04-05 21:11:04	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	gallery.me.com-katherineamills.warc.gz	5726
+katherineamills	homepage.mac.com	2012-04-05 21:11:04	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	homepage.mac.com-katherineamills.warc.gz	4933
+katherineamills	public.me.com	2012-04-05 21:11:02	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	public.me.com-katherineamills.warc.gz	1929
+katherineamills	web.me.com	2012-04-05 21:11:01	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	web.me.com-katherineamills.warc.gz	43636307
+ksteele	gallery.me.com	2012-04-05 21:35:53	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	gallery.me.com-ksteele.warc.gz	645471387
+ksteele	homepage.mac.com	2012-04-05 21:35:53	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	homepage.mac.com-ksteele.warc.gz	4915
+ksteele	public.me.com	2012-04-05 21:13:18	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	public.me.com-ksteele.warc.gz	4942743
+ksteele	web.me.com	2012-04-05 21:12:38	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	web.me.com-ksteele.warc.gz	6462498
+laurent.subias	gallery.me.com	2012-04-05 21:51:44	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	gallery.me.com-laurent.subias.warc.gz	248181658
+laurent.subias	homepage.mac.com	2012-04-05 21:51:45	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	homepage.mac.com-laurent.subias.warc.gz	4927
+laurent.subias	public.me.com	2012-04-05 21:49:11	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	public.me.com-laurent.subias.warc.gz	95497993
+laurent.subias	web.me.com	2012-04-05 21:44:36	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4427.tar	web.me.com-laurent.subias.warc.gz	149397723

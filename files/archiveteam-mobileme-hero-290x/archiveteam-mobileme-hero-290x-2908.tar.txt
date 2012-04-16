@@ -1,20 +1,20 @@
-ahasselwander	gallery.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	gallery.me.com-ahasselwander.warc.gz	0
-ahasselwander	homepage.mac.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	homepage.mac.com-ahasselwander.warc.gz	0
-ahasselwander	public.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	public.me.com-ahasselwander.warc.gz	0
-ahasselwander	web.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	web.me.com-ahasselwander.warc.gz	0
-caseyfitz2	gallery.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	gallery.me.com-caseyfitz2.warc.gz	0
-caseyfitz2	homepage.mac.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	homepage.mac.com-caseyfitz2.warc.gz	0
-caseyfitz2	public.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	public.me.com-caseyfitz2.warc.gz	0
-caseyfitz2	web.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	web.me.com-caseyfitz2.warc.gz	0
-cristina.sudo	gallery.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	gallery.me.com-cristina.sudo.warc.gz	0
-cristina.sudo	homepage.mac.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	homepage.mac.com-cristina.sudo.warc.gz	0
-cristina.sudo	public.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	public.me.com-cristina.sudo.warc.gz	0
-cristina.sudo	web.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	web.me.com-cristina.sudo.warc.gz	0
-kayokodoi	gallery.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	gallery.me.com-kayokodoi.warc.gz	0
-kayokodoi	homepage.mac.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	homepage.mac.com-kayokodoi.warc.gz	0
-kayokodoi	public.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	public.me.com-kayokodoi.warc.gz	0
-kayokodoi	web.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	web.me.com-kayokodoi.warc.gz	0
-vonchurch	gallery.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	gallery.me.com-vonchurch.warc.gz	0
-vonchurch	homepage.mac.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	homepage.mac.com-vonchurch.warc.gz	0
-vonchurch	public.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	public.me.com-vonchurch.warc.gz	0
-vonchurch	web.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	web.me.com-vonchurch.warc.gz	0
+ahasselwander	gallery.me.com	2012-04-02 10:03:42	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	gallery.me.com-ahasselwander.warc.gz	12322
+ahasselwander	homepage.mac.com	2012-04-02 10:03:42	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	homepage.mac.com-ahasselwander.warc.gz	7172
+ahasselwander	public.me.com	2012-04-02 10:03:41	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	public.me.com-ahasselwander.warc.gz	1918
+ahasselwander	web.me.com	2012-04-02 10:03:41	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	web.me.com-ahasselwander.warc.gz	22471
+caseyfitz2	gallery.me.com	2012-04-02 10:57:20	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	gallery.me.com-caseyfitz2.warc.gz	2005908312
+caseyfitz2	homepage.mac.com	2012-04-02 10:57:21	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	homepage.mac.com-caseyfitz2.warc.gz	4925
+caseyfitz2	public.me.com	2012-04-02 10:39:32	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	public.me.com-caseyfitz2.warc.gz	1923
+caseyfitz2	web.me.com	2012-04-02 10:39:31	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	web.me.com-caseyfitz2.warc.gz	201787236
+cristina.sudo	gallery.me.com	2012-04-02 10:03:39	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	gallery.me.com-cristina.sudo.warc.gz	1685642030
+cristina.sudo	homepage.mac.com	2012-04-02 10:03:39	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	homepage.mac.com-cristina.sudo.warc.gz	4926
+cristina.sudo	public.me.com	2012-04-02 09:32:55	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	public.me.com-cristina.sudo.warc.gz	1928
+cristina.sudo	web.me.com	2012-04-02 09:32:46	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	web.me.com-cristina.sudo.warc.gz	751000900
+kayokodoi	gallery.me.com	2012-04-02 10:09:25	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	gallery.me.com-kayokodoi.warc.gz	8343
+kayokodoi	homepage.mac.com	2012-04-02 10:09:25	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	homepage.mac.com-kayokodoi.warc.gz	5176
+kayokodoi	public.me.com	2012-04-02 10:09:25	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	public.me.com-kayokodoi.warc.gz	1912
+kayokodoi	web.me.com	2012-04-02 10:09:24	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	web.me.com-kayokodoi.warc.gz	17671
+vonchurch	gallery.me.com	2012-04-02 10:09:23	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	gallery.me.com-vonchurch.warc.gz	219284705
+vonchurch	homepage.mac.com	2012-04-02 10:09:23	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	homepage.mac.com-vonchurch.warc.gz	4920
+vonchurch	public.me.com	2012-04-02 10:08:04	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	public.me.com-vonchurch.warc.gz	199355331
+vonchurch	web.me.com	2012-04-02 10:03:57	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2908.tar	web.me.com-vonchurch.warc.gz	435968

@@ -1,16 +1,16 @@
-cornerstone.pictures	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	gallery.me.com-cornerstone.pictures.warc.gz	0
-cornerstone.pictures	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	homepage.mac.com-cornerstone.pictures.warc.gz	0
-cornerstone.pictures	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	public.me.com-cornerstone.pictures.warc.gz	0
-cornerstone.pictures	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	web.me.com-cornerstone.pictures.warc.gz	0
-itstotallyyou	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	gallery.me.com-itstotallyyou.warc.gz	0
-itstotallyyou	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	homepage.mac.com-itstotallyyou.warc.gz	0
-itstotallyyou	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	public.me.com-itstotallyyou.warc.gz	0
-itstotallyyou	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	web.me.com-itstotallyyou.warc.gz	0
-mgauger	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	gallery.me.com-mgauger.warc.gz	0
-mgauger	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	homepage.mac.com-mgauger.warc.gz	0
-mgauger	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	public.me.com-mgauger.warc.gz	0
-mgauger	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	web.me.com-mgauger.warc.gz	0
-theresaleary	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	gallery.me.com-theresaleary.warc.gz	0
-theresaleary	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	homepage.mac.com-theresaleary.warc.gz	0
-theresaleary	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	public.me.com-theresaleary.warc.gz	0
-theresaleary	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	web.me.com-theresaleary.warc.gz	0
+cornerstone.pictures	gallery.me.com	2012-04-10 23:31:38	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	gallery.me.com-cornerstone.pictures.warc.gz	865237336
+cornerstone.pictures	homepage.mac.com	2012-04-10 23:31:42	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	homepage.mac.com-cornerstone.pictures.warc.gz	118630
+cornerstone.pictures	public.me.com	2012-04-10 22:56:06	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	public.me.com-cornerstone.pictures.warc.gz	1940
+cornerstone.pictures	web.me.com	2012-04-10 22:55:51	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	web.me.com-cornerstone.pictures.warc.gz	4430805616
+itstotallyyou	gallery.me.com	2012-04-10 21:28:10	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	gallery.me.com-itstotallyyou.warc.gz	4267
+itstotallyyou	homepage.mac.com	2012-04-10 21:28:10	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	homepage.mac.com-itstotallyyou.warc.gz	4923
+itstotallyyou	public.me.com	2012-04-10 21:28:09	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	public.me.com-itstotallyyou.warc.gz	1567749199
+itstotallyyou	web.me.com	2012-04-10 20:56:59	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	web.me.com-itstotallyyou.warc.gz	2000352
+mgauger	gallery.me.com	2012-04-10 20:54:59	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	gallery.me.com-mgauger.warc.gz	5678
+mgauger	homepage.mac.com	2012-04-10 20:55:59	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	homepage.mac.com-mgauger.warc.gz	954911
+mgauger	public.me.com	2012-04-10 20:54:58	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	public.me.com-mgauger.warc.gz	1915
+mgauger	web.me.com	2012-04-10 20:54:58	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	web.me.com-mgauger.warc.gz	6658295
+theresaleary	gallery.me.com	2012-04-10 20:56:12	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	gallery.me.com-theresaleary.warc.gz	5041
+theresaleary	homepage.mac.com	2012-04-10 20:56:13	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	homepage.mac.com-theresaleary.warc.gz	4934
+theresaleary	public.me.com	2012-04-10 20:56:12	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	public.me.com-theresaleary.warc.gz	1932
+theresaleary	web.me.com	2012-04-10 20:56:11	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6124.tar	web.me.com-theresaleary.warc.gz	207353

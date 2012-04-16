@@ -1,24 +1,24 @@
-fiquet	gallery.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	gallery.me.com-fiquet.warc.gz	0
-fiquet	homepage.mac.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	homepage.mac.com-fiquet.warc.gz	0
-fiquet	public.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	public.me.com-fiquet.warc.gz	0
-fiquet	web.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	web.me.com-fiquet.warc.gz	0
-guybrush.m	gallery.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	gallery.me.com-guybrush.m.warc.gz	0
-guybrush.m	homepage.mac.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	homepage.mac.com-guybrush.m.warc.gz	0
-guybrush.m	public.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	public.me.com-guybrush.m.warc.gz	0
-guybrush.m	web.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	web.me.com-guybrush.m.warc.gz	0
-jamesrmarshall	gallery.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	gallery.me.com-jamesrmarshall.warc.gz	0
-jamesrmarshall	homepage.mac.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	homepage.mac.com-jamesrmarshall.warc.gz	0
-jamesrmarshall	public.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	public.me.com-jamesrmarshall.warc.gz	0
-jamesrmarshall	web.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	web.me.com-jamesrmarshall.warc.gz	0
-konstantinepinteris	gallery.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	gallery.me.com-konstantinepinteris.warc.gz	0
-konstantinepinteris	homepage.mac.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	homepage.mac.com-konstantinepinteris.warc.gz	0
-konstantinepinteris	public.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	public.me.com-konstantinepinteris.warc.gz	0
-konstantinepinteris	web.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	web.me.com-konstantinepinteris.warc.gz	0
-n.schnaubelt	gallery.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	gallery.me.com-n.schnaubelt.warc.gz	0
-n.schnaubelt	homepage.mac.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	homepage.mac.com-n.schnaubelt.warc.gz	0
-n.schnaubelt	public.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	public.me.com-n.schnaubelt.warc.gz	0
-n.schnaubelt	web.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	web.me.com-n.schnaubelt.warc.gz	0
-rosetjau	gallery.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	gallery.me.com-rosetjau.warc.gz	0
-rosetjau	homepage.mac.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	homepage.mac.com-rosetjau.warc.gz	0
-rosetjau	public.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	public.me.com-rosetjau.warc.gz	0
-rosetjau	web.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	web.me.com-rosetjau.warc.gz	0
+fiquet	gallery.me.com	2012-04-03 18:36:33	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	gallery.me.com-fiquet.warc.gz	214365033
+fiquet	homepage.mac.com	2012-04-03 18:36:36	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	homepage.mac.com-fiquet.warc.gz	3536
+fiquet	public.me.com	2012-04-03 18:29:46	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	public.me.com-fiquet.warc.gz	3465
+fiquet	web.me.com	2012-04-03 18:29:44	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	web.me.com-fiquet.warc.gz	325540407
+guybrush.m	gallery.me.com	2012-04-03 20:09:13	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	gallery.me.com-guybrush.m.warc.gz	367269306
+guybrush.m	homepage.mac.com	2012-04-03 20:09:14	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	homepage.mac.com-guybrush.m.warc.gz	4907
+guybrush.m	public.me.com	2012-04-03 19:57:38	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	public.me.com-guybrush.m.warc.gz	1872068125
+guybrush.m	web.me.com	2012-04-03 19:21:38	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	web.me.com-guybrush.m.warc.gz	26329542
+jamesrmarshall	gallery.me.com	2012-04-03 17:59:00	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	gallery.me.com-jamesrmarshall.warc.gz	12338
+jamesrmarshall	homepage.mac.com	2012-04-03 17:59:01	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	homepage.mac.com-jamesrmarshall.warc.gz	7160
+jamesrmarshall	public.me.com	2012-04-03 17:59:00	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	public.me.com-jamesrmarshall.warc.gz	1930
+jamesrmarshall	web.me.com	2012-04-03 17:58:59	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	web.me.com-jamesrmarshall.warc.gz	22478
+konstantinepinteris	gallery.me.com	2012-04-03 19:16:09	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	gallery.me.com-konstantinepinteris.warc.gz	1160035139
+konstantinepinteris	homepage.mac.com	2012-04-03 19:16:41	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	homepage.mac.com-konstantinepinteris.warc.gz	507270
+konstantinepinteris	public.me.com	2012-04-03 19:04:21	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	public.me.com-konstantinepinteris.warc.gz	825143035
+konstantinepinteris	web.me.com	2012-04-03 18:43:56	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	web.me.com-konstantinepinteris.warc.gz	146178369
+n.schnaubelt	gallery.me.com	2012-04-03 17:58:29	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	gallery.me.com-n.schnaubelt.warc.gz	118895639
+n.schnaubelt	homepage.mac.com	2012-04-03 17:58:29	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	homepage.mac.com-n.schnaubelt.warc.gz	4936
+n.schnaubelt	public.me.com	2012-04-03 17:57:44	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	public.me.com-n.schnaubelt.warc.gz	1922
+n.schnaubelt	web.me.com	2012-04-03 17:57:44	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	web.me.com-n.schnaubelt.warc.gz	121079550
+rosetjau	gallery.me.com	2012-04-03 17:58:57	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	gallery.me.com-rosetjau.warc.gz	4247
+rosetjau	homepage.mac.com	2012-04-03 17:58:57	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	homepage.mac.com-rosetjau.warc.gz	4914
+rosetjau	public.me.com	2012-04-03 17:58:57	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	public.me.com-rosetjau.warc.gz	14259342
+rosetjau	web.me.com	2012-04-03 17:58:46	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3544.tar	web.me.com-rosetjau.warc.gz	8022759

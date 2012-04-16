@@ -1,24 +1,24 @@
-exclusivlife	gallery.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	gallery.me.com-exclusivlife.warc.gz	0
-exclusivlife	homepage.mac.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	homepage.mac.com-exclusivlife.warc.gz	0
-exclusivlife	public.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	public.me.com-exclusivlife.warc.gz	0
-exclusivlife	web.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	web.me.com-exclusivlife.warc.gz	0
-l.persson	gallery.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	gallery.me.com-l.persson.warc.gz	0
-l.persson	homepage.mac.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	homepage.mac.com-l.persson.warc.gz	0
-l.persson	public.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	public.me.com-l.persson.warc.gz	0
-l.persson	web.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	web.me.com-l.persson.warc.gz	0
-loisbernstein	gallery.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	gallery.me.com-loisbernstein.warc.gz	0
-loisbernstein	homepage.mac.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	homepage.mac.com-loisbernstein.warc.gz	0
-loisbernstein	public.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	public.me.com-loisbernstein.warc.gz	0
-loisbernstein	web.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	web.me.com-loisbernstein.warc.gz	0
-maxjenius	gallery.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	gallery.me.com-maxjenius.warc.gz	0
-maxjenius	homepage.mac.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	homepage.mac.com-maxjenius.warc.gz	0
-maxjenius	public.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	public.me.com-maxjenius.warc.gz	0
-maxjenius	web.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	web.me.com-maxjenius.warc.gz	0
-simon.gregson	gallery.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	gallery.me.com-simon.gregson.warc.gz	0
-simon.gregson	homepage.mac.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	homepage.mac.com-simon.gregson.warc.gz	0
-simon.gregson	public.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	public.me.com-simon.gregson.warc.gz	0
-simon.gregson	web.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	web.me.com-simon.gregson.warc.gz	0
-toiat	gallery.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	gallery.me.com-toiat.warc.gz	0
-toiat	homepage.mac.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	homepage.mac.com-toiat.warc.gz	0
-toiat	public.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	public.me.com-toiat.warc.gz	0
-toiat	web.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	web.me.com-toiat.warc.gz	0
+exclusivlife	gallery.me.com	2012-04-05 14:25:44	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	gallery.me.com-exclusivlife.warc.gz	8367
+exclusivlife	homepage.mac.com	2012-04-05 14:25:45	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	homepage.mac.com-exclusivlife.warc.gz	5179
+exclusivlife	public.me.com	2012-04-05 14:25:44	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	public.me.com-exclusivlife.warc.gz	1928
+exclusivlife	web.me.com	2012-04-05 14:25:43	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	web.me.com-exclusivlife.warc.gz	17735
+l.persson	gallery.me.com	2012-04-05 14:26:15	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	gallery.me.com-l.persson.warc.gz	4255
+l.persson	homepage.mac.com	2012-04-05 14:26:15	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	homepage.mac.com-l.persson.warc.gz	4913
+l.persson	public.me.com	2012-04-05 14:26:14	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	public.me.com-l.persson.warc.gz	1920
+l.persson	web.me.com	2012-04-05 14:26:14	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	web.me.com-l.persson.warc.gz	631309
+loisbernstein	gallery.me.com	2012-04-05 15:53:31	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	gallery.me.com-loisbernstein.warc.gz	1720896940
+loisbernstein	homepage.mac.com	2012-04-05 15:53:32	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	homepage.mac.com-loisbernstein.warc.gz	4933
+loisbernstein	public.me.com	2012-04-05 15:05:51	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	public.me.com-loisbernstein.warc.gz	1925
+loisbernstein	web.me.com	2012-04-05 15:05:49	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	web.me.com-loisbernstein.warc.gz	356627301
+maxjenius	gallery.me.com	2012-04-05 16:46:33	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	gallery.me.com-maxjenius.warc.gz	230185335
+maxjenius	homepage.mac.com	2012-04-05 16:46:33	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	homepage.mac.com-maxjenius.warc.gz	7884
+maxjenius	public.me.com	2012-04-05 16:41:25	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	public.me.com-maxjenius.warc.gz	2186202168
+maxjenius	web.me.com	2012-04-05 15:55:20	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	web.me.com-maxjenius.warc.gz	14485087
+simon.gregson	gallery.me.com	2012-04-05 14:39:06	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	gallery.me.com-simon.gregson.warc.gz	24428191
+simon.gregson	homepage.mac.com	2012-04-05 14:39:09	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	homepage.mac.com-simon.gregson.warc.gz	4926
+simon.gregson	public.me.com	2012-04-05 14:38:37	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	public.me.com-simon.gregson.warc.gz	1926
+simon.gregson	web.me.com	2012-04-05 14:38:37	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	web.me.com-simon.gregson.warc.gz	63920462
+toiat	gallery.me.com	2012-04-05 14:31:57	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	gallery.me.com-toiat.warc.gz	6131
+toiat	homepage.mac.com	2012-04-05 14:32:03	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	homepage.mac.com-toiat.warc.gz	248588
+toiat	public.me.com	2012-04-05 14:31:56	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	public.me.com-toiat.warc.gz	1907
+toiat	web.me.com	2012-04-05 14:31:56	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4314.tar	web.me.com-toiat.warc.gz	12749179

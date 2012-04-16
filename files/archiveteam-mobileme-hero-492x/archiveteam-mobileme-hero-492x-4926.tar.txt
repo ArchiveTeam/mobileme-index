@@ -1,36 +1,36 @@
-chip0	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	gallery.me.com-chip0.warc.gz	0
-chip0	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	homepage.mac.com-chip0.warc.gz	0
-chip0	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	public.me.com-chip0.warc.gz	0
-chip0	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	web.me.com-chip0.warc.gz	0
-dsurles	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	gallery.me.com-dsurles.warc.gz	0
-dsurles	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	homepage.mac.com-dsurles.warc.gz	0
-dsurles	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	public.me.com-dsurles.warc.gz	0
-dsurles	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	web.me.com-dsurles.warc.gz	0
-kaleaharan	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	gallery.me.com-kaleaharan.warc.gz	0
-kaleaharan	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	homepage.mac.com-kaleaharan.warc.gz	0
-kaleaharan	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	public.me.com-kaleaharan.warc.gz	0
-kaleaharan	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	web.me.com-kaleaharan.warc.gz	0
-mwatstein	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	gallery.me.com-mwatstein.warc.gz	0
-mwatstein	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	homepage.mac.com-mwatstein.warc.gz	0
-mwatstein	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	public.me.com-mwatstein.warc.gz	0
-mwatstein	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	web.me.com-mwatstein.warc.gz	0
-nojishumpei	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	gallery.me.com-nojishumpei.warc.gz	0
-nojishumpei	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	homepage.mac.com-nojishumpei.warc.gz	0
-nojishumpei	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	public.me.com-nojishumpei.warc.gz	0
-nojishumpei	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	web.me.com-nojishumpei.warc.gz	0
-pk245	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	gallery.me.com-pk245.warc.gz	0
-pk245	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	homepage.mac.com-pk245.warc.gz	0
-pk245	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	public.me.com-pk245.warc.gz	0
-pk245	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	web.me.com-pk245.warc.gz	0
-psychiclover	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	gallery.me.com-psychiclover.warc.gz	0
-psychiclover	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	homepage.mac.com-psychiclover.warc.gz	0
-psychiclover	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	public.me.com-psychiclover.warc.gz	0
-psychiclover	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	web.me.com-psychiclover.warc.gz	0
-quizmaster	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	gallery.me.com-quizmaster.warc.gz	0
-quizmaster	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	homepage.mac.com-quizmaster.warc.gz	0
-quizmaster	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	public.me.com-quizmaster.warc.gz	0
-quizmaster	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	web.me.com-quizmaster.warc.gz	0
-stephenburks1	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	gallery.me.com-stephenburks1.warc.gz	0
-stephenburks1	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	homepage.mac.com-stephenburks1.warc.gz	0
-stephenburks1	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	public.me.com-stephenburks1.warc.gz	0
-stephenburks1	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	web.me.com-stephenburks1.warc.gz	0
+chip0	gallery.me.com	2012-04-07 16:34:37	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	gallery.me.com-chip0.warc.gz	5117
+chip0	homepage.mac.com	2012-04-07 16:34:37	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	homepage.mac.com-chip0.warc.gz	4902
+chip0	public.me.com	2012-04-07 16:34:36	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	public.me.com-chip0.warc.gz	1900
+chip0	web.me.com	2012-04-07 16:34:36	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	web.me.com-chip0.warc.gz	47741
+dsurles	gallery.me.com	2012-04-07 16:34:08	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	gallery.me.com-dsurles.warc.gz	41906220
+dsurles	homepage.mac.com	2012-04-07 16:34:21	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	homepage.mac.com-dsurles.warc.gz	352507
+dsurles	public.me.com	2012-04-07 16:33:50	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	public.me.com-dsurles.warc.gz	1403658
+dsurles	web.me.com	2012-04-07 16:33:44	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	web.me.com-dsurles.warc.gz	22508613
+kaleaharan	gallery.me.com	2012-04-07 16:34:29	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	gallery.me.com-kaleaharan.warc.gz	4248
+kaleaharan	homepage.mac.com	2012-04-07 16:34:29	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	homepage.mac.com-kaleaharan.warc.gz	4918
+kaleaharan	public.me.com	2012-04-07 16:34:28	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	public.me.com-kaleaharan.warc.gz	1924
+kaleaharan	web.me.com	2012-04-07 16:34:27	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	web.me.com-kaleaharan.warc.gz	5257810
+mwatstein	gallery.me.com	2012-04-07 18:59:50	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	gallery.me.com-mwatstein.warc.gz	1312040031
+mwatstein	homepage.mac.com	2012-04-07 18:59:50	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	homepage.mac.com-mwatstein.warc.gz	9664
+mwatstein	public.me.com	2012-04-07 18:26:29	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	public.me.com-mwatstein.warc.gz	5688706654
+mwatstein	web.me.com	2012-04-07 16:58:10	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	web.me.com-mwatstein.warc.gz	465653576
+nojishumpei	gallery.me.com	2012-04-07 16:34:31	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	gallery.me.com-nojishumpei.warc.gz	12329
+nojishumpei	homepage.mac.com	2012-04-07 16:34:32	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	homepage.mac.com-nojishumpei.warc.gz	7170
+nojishumpei	public.me.com	2012-04-07 16:34:31	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	public.me.com-nojishumpei.warc.gz	1926
+nojishumpei	web.me.com	2012-04-07 16:34:31	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	web.me.com-nojishumpei.warc.gz	22498
+pk245	gallery.me.com	2012-04-07 16:34:39	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	gallery.me.com-pk245.warc.gz	8325
+pk245	homepage.mac.com	2012-04-07 16:34:39	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	homepage.mac.com-pk245.warc.gz	5148
+pk245	public.me.com	2012-04-07 16:34:39	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	public.me.com-pk245.warc.gz	1909
+pk245	web.me.com	2012-04-07 16:34:38	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	web.me.com-pk245.warc.gz	17660
+psychiclover	gallery.me.com	2012-04-07 15:40:07	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	gallery.me.com-psychiclover.warc.gz	8356
+psychiclover	homepage.mac.com	2012-04-07 15:40:07	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	homepage.mac.com-psychiclover.warc.gz	5172
+psychiclover	public.me.com	2012-04-07 15:40:06	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	public.me.com-psychiclover.warc.gz	1933
+psychiclover	web.me.com	2012-04-07 15:40:06	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	web.me.com-psychiclover.warc.gz	17729
+quizmaster	gallery.me.com	2012-04-07 16:34:41	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	gallery.me.com-quizmaster.warc.gz	12337
+quizmaster	homepage.mac.com	2012-04-07 16:34:42	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	homepage.mac.com-quizmaster.warc.gz	7150
+quizmaster	public.me.com	2012-04-07 16:34:41	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	public.me.com-quizmaster.warc.gz	1927
+quizmaster	web.me.com	2012-04-07 16:34:41	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	web.me.com-quizmaster.warc.gz	22462
+stephenburks1	gallery.me.com	2012-04-07 16:29:01	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	gallery.me.com-stephenburks1.warc.gz	1314892345
+stephenburks1	homepage.mac.com	2012-04-07 16:29:01	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	homepage.mac.com-stephenburks1.warc.gz	4939
+stephenburks1	public.me.com	2012-04-07 16:00:39	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	public.me.com-stephenburks1.warc.gz	114833739
+stephenburks1	web.me.com	2012-04-07 15:59:21	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4926.tar	web.me.com-stephenburks1.warc.gz	246525477

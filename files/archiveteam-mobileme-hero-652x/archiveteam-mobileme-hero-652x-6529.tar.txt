@@ -1,24 +1,24 @@
-alexvillasenor	gallery.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	gallery.me.com-alexvillasenor.warc.gz	0
-alexvillasenor	homepage.mac.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	homepage.mac.com-alexvillasenor.warc.gz	0
-alexvillasenor	public.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	public.me.com-alexvillasenor.warc.gz	0
-alexvillasenor	web.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	web.me.com-alexvillasenor.warc.gz	0
-gauthiersteve	gallery.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	gallery.me.com-gauthiersteve.warc.gz	0
-gauthiersteve	homepage.mac.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	homepage.mac.com-gauthiersteve.warc.gz	0
-gauthiersteve	public.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	public.me.com-gauthiersteve.warc.gz	0
-gauthiersteve	web.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	web.me.com-gauthiersteve.warc.gz	0
-jamestownsend	gallery.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	gallery.me.com-jamestownsend.warc.gz	0
-jamestownsend	homepage.mac.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	homepage.mac.com-jamestownsend.warc.gz	0
-jamestownsend	public.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	public.me.com-jamestownsend.warc.gz	0
-jamestownsend	web.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	web.me.com-jamestownsend.warc.gz	0
-jonassacks	gallery.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	gallery.me.com-jonassacks.warc.gz	0
-jonassacks	homepage.mac.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	homepage.mac.com-jonassacks.warc.gz	0
-jonassacks	public.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	public.me.com-jonassacks.warc.gz	0
-jonassacks	web.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	web.me.com-jonassacks.warc.gz	0
-rpmelp	gallery.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	gallery.me.com-rpmelp.warc.gz	0
-rpmelp	homepage.mac.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	homepage.mac.com-rpmelp.warc.gz	0
-rpmelp	public.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	public.me.com-rpmelp.warc.gz	0
-rpmelp	web.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	web.me.com-rpmelp.warc.gz	0
-timothy.isaacs	gallery.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	gallery.me.com-timothy.isaacs.warc.gz	0
-timothy.isaacs	homepage.mac.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	homepage.mac.com-timothy.isaacs.warc.gz	0
-timothy.isaacs	public.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	public.me.com-timothy.isaacs.warc.gz	0
-timothy.isaacs	web.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	web.me.com-timothy.isaacs.warc.gz	0
+alexvillasenor	gallery.me.com	2012-04-11 21:32:06	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	gallery.me.com-alexvillasenor.warc.gz	1633108834
+alexvillasenor	homepage.mac.com	2012-04-11 21:32:06	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	homepage.mac.com-alexvillasenor.warc.gz	4917
+alexvillasenor	public.me.com	2012-04-11 18:20:00	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	public.me.com-alexvillasenor.warc.gz	502247296
+alexvillasenor	web.me.com	2012-04-11 18:16:54	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	web.me.com-alexvillasenor.warc.gz	993443112
+gauthiersteve	gallery.me.com	2012-04-12 00:20:47	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	gallery.me.com-gauthiersteve.warc.gz	471851032
+gauthiersteve	homepage.mac.com	2012-04-12 00:21:04	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	homepage.mac.com-gauthiersteve.warc.gz	303663
+gauthiersteve	public.me.com	2012-04-11 22:53:55	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	public.me.com-gauthiersteve.warc.gz	3055181
+gauthiersteve	web.me.com	2012-04-11 22:53:48	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	web.me.com-gauthiersteve.warc.gz	525309717
+jamestownsend	gallery.me.com	2012-04-11 22:01:00	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	gallery.me.com-jamestownsend.warc.gz	135913334
+jamestownsend	homepage.mac.com	2012-04-11 22:01:06	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	homepage.mac.com-jamestownsend.warc.gz	112723
+jamestownsend	public.me.com	2012-04-11 21:42:10	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	public.me.com-jamestownsend.warc.gz	299373575
+jamestownsend	web.me.com	2012-04-11 21:32:51	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	web.me.com-jamestownsend.warc.gz	1666335
+jonassacks	gallery.me.com	2012-04-11 22:39:19	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	gallery.me.com-jonassacks.warc.gz	248238511
+jonassacks	homepage.mac.com	2012-04-11 22:39:20	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	homepage.mac.com-jonassacks.warc.gz	4930
+jonassacks	public.me.com	2012-04-11 22:02:15	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	public.me.com-jonassacks.warc.gz	1925
+jonassacks	web.me.com	2012-04-11 22:02:14	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	web.me.com-jonassacks.warc.gz	6498841
+rpmelp	gallery.me.com	2012-04-11 17:26:59	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	gallery.me.com-rpmelp.warc.gz	4242
+rpmelp	homepage.mac.com	2012-04-11 17:26:59	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	homepage.mac.com-rpmelp.warc.gz	4882
+rpmelp	public.me.com	2012-04-11 17:26:58	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	public.me.com-rpmelp.warc.gz	1914
+rpmelp	web.me.com	2012-04-11 17:26:58	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	web.me.com-rpmelp.warc.gz	2088792
+timothy.isaacs	gallery.me.com	2012-04-11 17:39:55	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	gallery.me.com-timothy.isaacs.warc.gz	5141
+timothy.isaacs	homepage.mac.com	2012-04-11 17:39:56	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	homepage.mac.com-timothy.isaacs.warc.gz	4929
+timothy.isaacs	public.me.com	2012-04-11 17:39:53	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	public.me.com-timothy.isaacs.warc.gz	4586279
+timothy.isaacs	web.me.com	2012-04-11 17:39:48	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6529.tar	web.me.com-timothy.isaacs.warc.gz	49768999

@@ -1,8 +1,8 @@
-mfimia	gallery.me.com		archiveteam-mobileme-hero-387x	archiveteam-mobileme-hero-387x-3876.tar	gallery.me.com-mfimia.warc.gz	0
-mfimia	homepage.mac.com		archiveteam-mobileme-hero-387x	archiveteam-mobileme-hero-387x-3876.tar	homepage.mac.com-mfimia.warc.gz	0
-mfimia	public.me.com		archiveteam-mobileme-hero-387x	archiveteam-mobileme-hero-387x-3876.tar	public.me.com-mfimia.warc.gz	0
-mfimia	web.me.com		archiveteam-mobileme-hero-387x	archiveteam-mobileme-hero-387x-3876.tar	web.me.com-mfimia.warc.gz	0
-slidinghill	gallery.me.com		archiveteam-mobileme-hero-387x	archiveteam-mobileme-hero-387x-3876.tar	gallery.me.com-slidinghill.warc.gz	0
-slidinghill	homepage.mac.com		archiveteam-mobileme-hero-387x	archiveteam-mobileme-hero-387x-3876.tar	homepage.mac.com-slidinghill.warc.gz	0
-slidinghill	public.me.com		archiveteam-mobileme-hero-387x	archiveteam-mobileme-hero-387x-3876.tar	public.me.com-slidinghill.warc.gz	0
-slidinghill	web.me.com		archiveteam-mobileme-hero-387x	archiveteam-mobileme-hero-387x-3876.tar	web.me.com-slidinghill.warc.gz	0
+mfimia	gallery.me.com	2012-04-04 13:55:55	archiveteam-mobileme-hero-387x	archiveteam-mobileme-hero-387x-3876.tar	gallery.me.com-mfimia.warc.gz	7811785
+mfimia	homepage.mac.com	2012-04-04 13:55:55	archiveteam-mobileme-hero-387x	archiveteam-mobileme-hero-387x-3876.tar	homepage.mac.com-mfimia.warc.gz	4876
+mfimia	public.me.com	2012-04-04 13:55:30	archiveteam-mobileme-hero-387x	archiveteam-mobileme-hero-387x-3876.tar	public.me.com-mfimia.warc.gz	1911
+mfimia	web.me.com	2012-04-04 13:55:30	archiveteam-mobileme-hero-387x	archiveteam-mobileme-hero-387x-3876.tar	web.me.com-mfimia.warc.gz	693220723
+slidinghill	gallery.me.com	2012-04-04 16:27:39	archiveteam-mobileme-hero-387x	archiveteam-mobileme-hero-387x-3876.tar	gallery.me.com-slidinghill.warc.gz	4077640940
+slidinghill	homepage.mac.com	2012-04-04 16:27:40	archiveteam-mobileme-hero-387x	archiveteam-mobileme-hero-387x-3876.tar	homepage.mac.com-slidinghill.warc.gz	4912
+slidinghill	public.me.com	2012-04-04 16:03:42	archiveteam-mobileme-hero-387x	archiveteam-mobileme-hero-387x-3876.tar	public.me.com-slidinghill.warc.gz	4204659872
+slidinghill	web.me.com	2012-04-04 14:46:32	archiveteam-mobileme-hero-387x	archiveteam-mobileme-hero-387x-3876.tar	web.me.com-slidinghill.warc.gz	2850516405

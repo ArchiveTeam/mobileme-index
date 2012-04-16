@@ -1,20 +1,20 @@
-ccoronel	gallery.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	gallery.me.com-ccoronel.warc.gz	0
-ccoronel	homepage.mac.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	homepage.mac.com-ccoronel.warc.gz	0
-ccoronel	public.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	public.me.com-ccoronel.warc.gz	0
-ccoronel	web.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	web.me.com-ccoronel.warc.gz	0
-gildow	gallery.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	gallery.me.com-gildow.warc.gz	0
-gildow	homepage.mac.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	homepage.mac.com-gildow.warc.gz	0
-gildow	public.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	public.me.com-gildow.warc.gz	0
-gildow	web.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	web.me.com-gildow.warc.gz	0
-guidovallino	gallery.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	gallery.me.com-guidovallino.warc.gz	0
-guidovallino	homepage.mac.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	homepage.mac.com-guidovallino.warc.gz	0
-guidovallino	public.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	public.me.com-guidovallino.warc.gz	0
-guidovallino	web.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	web.me.com-guidovallino.warc.gz	0
-iwgogogo	gallery.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	gallery.me.com-iwgogogo.warc.gz	0
-iwgogogo	homepage.mac.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	homepage.mac.com-iwgogogo.warc.gz	0
-iwgogogo	public.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	public.me.com-iwgogogo.warc.gz	0
-iwgogogo	web.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	web.me.com-iwgogogo.warc.gz	0
-richardgaccione	gallery.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	gallery.me.com-richardgaccione.warc.gz	0
-richardgaccione	homepage.mac.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	homepage.mac.com-richardgaccione.warc.gz	0
-richardgaccione	public.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	public.me.com-richardgaccione.warc.gz	0
-richardgaccione	web.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	web.me.com-richardgaccione.warc.gz	0
+ccoronel	gallery.me.com	2012-04-11 00:26:57	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	gallery.me.com-ccoronel.warc.gz	4239
+ccoronel	homepage.mac.com	2012-04-11 00:26:58	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	homepage.mac.com-ccoronel.warc.gz	4905
+ccoronel	public.me.com	2012-04-11 00:26:57	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	public.me.com-ccoronel.warc.gz	1911
+ccoronel	web.me.com	2012-04-11 00:26:56	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	web.me.com-ccoronel.warc.gz	7383
+gildow	gallery.me.com	2012-04-11 00:56:33	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	gallery.me.com-gildow.warc.gz	299210342
+gildow	homepage.mac.com	2012-04-11 00:57:00	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	homepage.mac.com-gildow.warc.gz	545487
+gildow	public.me.com	2012-04-11 00:35:36	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	public.me.com-gildow.warc.gz	352920
+gildow	web.me.com	2012-04-11 00:35:34	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	web.me.com-gildow.warc.gz	22094299
+guidovallino	gallery.me.com	2012-04-11 00:28:49	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	gallery.me.com-guidovallino.warc.gz	17146134
+guidovallino	homepage.mac.com	2012-04-11 00:28:53	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	homepage.mac.com-guidovallino.warc.gz	78610
+guidovallino	public.me.com	2012-04-11 00:27:25	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	public.me.com-guidovallino.warc.gz	1926
+guidovallino	web.me.com	2012-04-11 00:27:25	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	web.me.com-guidovallino.warc.gz	982570
+iwgogogo	gallery.me.com	2012-04-11 00:57:58	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	gallery.me.com-iwgogogo.warc.gz	4255
+iwgogogo	homepage.mac.com	2012-04-11 00:58:30	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	homepage.mac.com-iwgogogo.warc.gz	591808
+iwgogogo	public.me.com	2012-04-11 00:57:58	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	public.me.com-iwgogogo.warc.gz	38566759
+iwgogogo	web.me.com	2012-04-11 00:57:02	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	web.me.com-iwgogogo.warc.gz	7403
+richardgaccione	gallery.me.com	2012-04-11 03:25:11	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	gallery.me.com-richardgaccione.warc.gz	4572280177
+richardgaccione	homepage.mac.com	2012-04-11 03:25:11	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	homepage.mac.com-richardgaccione.warc.gz	4941
+richardgaccione	public.me.com	2012-04-11 01:15:49	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	public.me.com-richardgaccione.warc.gz	867553193
+richardgaccione	web.me.com	2012-04-11 01:06:13	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6179.tar	web.me.com-richardgaccione.warc.gz	20890712

@@ -1,8 +1,8 @@
-asebon	gallery.me.com		archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3596.tar	gallery.me.com-asebon.warc.gz	0
-asebon	homepage.mac.com		archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3596.tar	homepage.mac.com-asebon.warc.gz	0
-asebon	public.me.com		archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3596.tar	public.me.com-asebon.warc.gz	0
-asebon	web.me.com		archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3596.tar	web.me.com-asebon.warc.gz	0
-trainwithyo	gallery.me.com		archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3596.tar	gallery.me.com-trainwithyo.warc.gz	0
-trainwithyo	homepage.mac.com		archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3596.tar	homepage.mac.com-trainwithyo.warc.gz	0
-trainwithyo	public.me.com		archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3596.tar	public.me.com-trainwithyo.warc.gz	0
-trainwithyo	web.me.com		archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3596.tar	web.me.com-trainwithyo.warc.gz	0
+asebon	gallery.me.com	2012-04-03 20:34:40	archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3596.tar	gallery.me.com-asebon.warc.gz	8335
+asebon	homepage.mac.com	2012-04-03 20:34:41	archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3596.tar	homepage.mac.com-asebon.warc.gz	5157
+asebon	public.me.com	2012-04-03 20:34:40	archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3596.tar	public.me.com-asebon.warc.gz	1910
+asebon	web.me.com	2012-04-03 20:34:39	archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3596.tar	web.me.com-asebon.warc.gz	17704
+trainwithyo	gallery.me.com	2012-04-03 23:24:17	archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3596.tar	gallery.me.com-trainwithyo.warc.gz	5086747077
+trainwithyo	homepage.mac.com	2012-04-03 23:24:18	archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3596.tar	homepage.mac.com-trainwithyo.warc.gz	4925
+trainwithyo	public.me.com	2012-04-03 22:07:35	archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3596.tar	public.me.com-trainwithyo.warc.gz	239264
+trainwithyo	web.me.com	2012-04-03 22:06:49	archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3596.tar	web.me.com-trainwithyo.warc.gz	1216031548

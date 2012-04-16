@@ -1,28 +1,28 @@
-agbals	gallery.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	gallery.me.com-agbals.warc.gz	0
-agbals	homepage.mac.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	homepage.mac.com-agbals.warc.gz	0
-agbals	public.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	public.me.com-agbals.warc.gz	0
-agbals	web.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	web.me.com-agbals.warc.gz	0
-crburns	gallery.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	gallery.me.com-crburns.warc.gz	0
-crburns	homepage.mac.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	homepage.mac.com-crburns.warc.gz	0
-crburns	public.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	public.me.com-crburns.warc.gz	0
-crburns	web.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	web.me.com-crburns.warc.gz	0
-ellenmccullough	gallery.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	gallery.me.com-ellenmccullough.warc.gz	0
-ellenmccullough	homepage.mac.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	homepage.mac.com-ellenmccullough.warc.gz	0
-ellenmccullough	public.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	public.me.com-ellenmccullough.warc.gz	0
-ellenmccullough	web.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	web.me.com-ellenmccullough.warc.gz	0
-jessica.varlet	gallery.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	gallery.me.com-jessica.varlet.warc.gz	0
-jessica.varlet	homepage.mac.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	homepage.mac.com-jessica.varlet.warc.gz	0
-jessica.varlet	public.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	public.me.com-jessica.varlet.warc.gz	0
-jessica.varlet	web.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	web.me.com-jessica.varlet.warc.gz	0
-julien.vache	gallery.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	gallery.me.com-julien.vache.warc.gz	0
-julien.vache	homepage.mac.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	homepage.mac.com-julien.vache.warc.gz	0
-julien.vache	public.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	public.me.com-julien.vache.warc.gz	0
-julien.vache	web.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	web.me.com-julien.vache.warc.gz	0
-jwlii	gallery.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	gallery.me.com-jwlii.warc.gz	0
-jwlii	homepage.mac.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	homepage.mac.com-jwlii.warc.gz	0
-jwlii	public.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	public.me.com-jwlii.warc.gz	0
-jwlii	web.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	web.me.com-jwlii.warc.gz	0
-lsulliv1	gallery.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	gallery.me.com-lsulliv1.warc.gz	0
-lsulliv1	homepage.mac.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	homepage.mac.com-lsulliv1.warc.gz	0
-lsulliv1	public.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	public.me.com-lsulliv1.warc.gz	0
-lsulliv1	web.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	web.me.com-lsulliv1.warc.gz	0
+agbals	gallery.me.com	2012-04-11 12:38:50	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	gallery.me.com-agbals.warc.gz	4232
+agbals	homepage.mac.com	2012-04-11 12:38:52	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	homepage.mac.com-agbals.warc.gz	4896
+agbals	public.me.com	2012-04-11 12:38:47	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	public.me.com-agbals.warc.gz	5049399
+agbals	web.me.com	2012-04-11 12:38:38	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	web.me.com-agbals.warc.gz	941310
+crburns	gallery.me.com	2012-04-11 12:10:34	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	gallery.me.com-crburns.warc.gz	521777608
+crburns	homepage.mac.com	2012-04-11 12:10:34	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	homepage.mac.com-crburns.warc.gz	4903
+crburns	public.me.com	2012-04-11 12:03:36	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	public.me.com-crburns.warc.gz	920695310
+crburns	web.me.com	2012-04-11 11:43:48	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	web.me.com-crburns.warc.gz	8867850
+ellenmccullough	gallery.me.com	2012-04-11 12:12:14	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	gallery.me.com-ellenmccullough.warc.gz	5039
+ellenmccullough	homepage.mac.com	2012-04-11 12:12:15	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	homepage.mac.com-ellenmccullough.warc.gz	4935
+ellenmccullough	public.me.com	2012-04-11 12:12:14	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	public.me.com-ellenmccullough.warc.gz	1918
+ellenmccullough	web.me.com	2012-04-11 12:12:13	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	web.me.com-ellenmccullough.warc.gz	4707290
+jessica.varlet	gallery.me.com	2012-04-11 13:16:43	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	gallery.me.com-jessica.varlet.warc.gz	1318730626
+jessica.varlet	homepage.mac.com	2012-04-11 13:16:43	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	homepage.mac.com-jessica.varlet.warc.gz	4929
+jessica.varlet	public.me.com	2012-04-11 13:09:03	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	public.me.com-jessica.varlet.warc.gz	1931
+jessica.varlet	web.me.com	2012-04-11 13:09:02	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	web.me.com-jessica.varlet.warc.gz	136824043
+julien.vache	gallery.me.com	2012-04-11 12:41:23	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	gallery.me.com-julien.vache.warc.gz	27454893
+julien.vache	homepage.mac.com	2012-04-11 12:41:23	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	homepage.mac.com-julien.vache.warc.gz	4931
+julien.vache	public.me.com	2012-04-11 12:40:45	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	public.me.com-julien.vache.warc.gz	126196393
+julien.vache	web.me.com	2012-04-11 12:39:31	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	web.me.com-julien.vache.warc.gz	24757184
+jwlii	gallery.me.com	2012-04-11 12:38:14	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	gallery.me.com-jwlii.warc.gz	489147544
+jwlii	homepage.mac.com	2012-04-11 12:38:14	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	homepage.mac.com-jwlii.warc.gz	4897
+jwlii	public.me.com	2012-04-11 12:27:52	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	public.me.com-jwlii.warc.gz	218964379
+jwlii	web.me.com	2012-04-11 12:27:07	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	web.me.com-jwlii.warc.gz	408831984
+lsulliv1	gallery.me.com	2012-04-11 15:45:59	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	gallery.me.com-lsulliv1.warc.gz	4193575928
+lsulliv1	homepage.mac.com	2012-04-11 15:46:04	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	homepage.mac.com-lsulliv1.warc.gz	176424
+lsulliv1	public.me.com	2012-04-11 14:20:48	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	public.me.com-lsulliv1.warc.gz	313381823
+lsulliv1	web.me.com	2012-04-11 14:17:47	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6438.tar	web.me.com-lsulliv1.warc.gz	2231990494

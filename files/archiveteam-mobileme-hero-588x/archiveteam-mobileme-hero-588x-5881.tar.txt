@@ -1,16 +1,16 @@
-harloween	gallery.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	gallery.me.com-harloween.warc.gz	0
-harloween	homepage.mac.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	homepage.mac.com-harloween.warc.gz	0
-harloween	public.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	public.me.com-harloween.warc.gz	0
-harloween	web.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	web.me.com-harloween.warc.gz	0
-johnson_chiu	gallery.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	gallery.me.com-johnson_chiu.warc.gz	0
-johnson_chiu	homepage.mac.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	homepage.mac.com-johnson_chiu.warc.gz	0
-johnson_chiu	public.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	public.me.com-johnson_chiu.warc.gz	0
-johnson_chiu	web.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	web.me.com-johnson_chiu.warc.gz	0
-m.laubsch	gallery.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	gallery.me.com-m.laubsch.warc.gz	0
-m.laubsch	homepage.mac.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	homepage.mac.com-m.laubsch.warc.gz	0
-m.laubsch	public.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	public.me.com-m.laubsch.warc.gz	0
-m.laubsch	web.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	web.me.com-m.laubsch.warc.gz	0
-ssmcc58	gallery.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	gallery.me.com-ssmcc58.warc.gz	0
-ssmcc58	homepage.mac.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	homepage.mac.com-ssmcc58.warc.gz	0
-ssmcc58	public.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	public.me.com-ssmcc58.warc.gz	0
-ssmcc58	web.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	web.me.com-ssmcc58.warc.gz	0
+harloween	gallery.me.com	2012-04-10 09:48:57	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	gallery.me.com-harloween.warc.gz	1104136498
+harloween	homepage.mac.com	2012-04-10 09:48:57	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	homepage.mac.com-harloween.warc.gz	4894
+harloween	public.me.com	2012-04-10 09:34:38	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	public.me.com-harloween.warc.gz	1914
+harloween	web.me.com	2012-04-10 09:34:37	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	web.me.com-harloween.warc.gz	202334263
+johnson_chiu	gallery.me.com	2012-04-10 08:12:06	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	gallery.me.com-johnson_chiu.warc.gz	56209993
+johnson_chiu	homepage.mac.com	2012-04-10 08:12:06	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	homepage.mac.com-johnson_chiu.warc.gz	4944
+johnson_chiu	public.me.com	2012-04-10 08:11:47	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	public.me.com-johnson_chiu.warc.gz	524407896
+johnson_chiu	web.me.com	2012-04-10 07:51:32	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	web.me.com-johnson_chiu.warc.gz	518325518
+m.laubsch	gallery.me.com	2012-04-10 09:24:25	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	gallery.me.com-m.laubsch.warc.gz	2224897926
+m.laubsch	homepage.mac.com	2012-04-10 09:24:25	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	homepage.mac.com-m.laubsch.warc.gz	4919
+m.laubsch	public.me.com	2012-04-10 08:49:40	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	public.me.com-m.laubsch.warc.gz	16808
+m.laubsch	web.me.com	2012-04-10 08:49:21	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	web.me.com-m.laubsch.warc.gz	410783721
+ssmcc58	gallery.me.com	2012-04-10 07:45:12	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	gallery.me.com-ssmcc58.warc.gz	8333
+ssmcc58	homepage.mac.com	2012-04-10 07:45:14	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	homepage.mac.com-ssmcc58.warc.gz	5155
+ssmcc58	public.me.com	2012-04-10 07:45:09	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	public.me.com-ssmcc58.warc.gz	1909
+ssmcc58	web.me.com	2012-04-10 07:45:09	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5881.tar	web.me.com-ssmcc58.warc.gz	17687

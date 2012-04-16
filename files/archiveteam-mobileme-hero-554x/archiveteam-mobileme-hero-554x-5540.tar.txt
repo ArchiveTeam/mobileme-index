@@ -1,8 +1,8 @@
-tobyoliver	gallery.me.com		archiveteam-mobileme-hero-554x	archiveteam-mobileme-hero-554x-5540.tar	gallery.me.com-tobyoliver.warc.gz	0
-tobyoliver	homepage.mac.com		archiveteam-mobileme-hero-554x	archiveteam-mobileme-hero-554x-5540.tar	homepage.mac.com-tobyoliver.warc.gz	0
-tobyoliver	public.me.com		archiveteam-mobileme-hero-554x	archiveteam-mobileme-hero-554x-5540.tar	public.me.com-tobyoliver.warc.gz	0
-tobyoliver	web.me.com		archiveteam-mobileme-hero-554x	archiveteam-mobileme-hero-554x-5540.tar	web.me.com-tobyoliver.warc.gz	0
-virgillund	gallery.me.com		archiveteam-mobileme-hero-554x	archiveteam-mobileme-hero-554x-5540.tar	gallery.me.com-virgillund.warc.gz	0
-virgillund	homepage.mac.com		archiveteam-mobileme-hero-554x	archiveteam-mobileme-hero-554x-5540.tar	homepage.mac.com-virgillund.warc.gz	0
-virgillund	public.me.com		archiveteam-mobileme-hero-554x	archiveteam-mobileme-hero-554x-5540.tar	public.me.com-virgillund.warc.gz	0
-virgillund	web.me.com		archiveteam-mobileme-hero-554x	archiveteam-mobileme-hero-554x-5540.tar	web.me.com-virgillund.warc.gz	0
+tobyoliver	gallery.me.com	2012-04-09 14:54:42	archiveteam-mobileme-hero-554x	archiveteam-mobileme-hero-554x-5540.tar	gallery.me.com-tobyoliver.warc.gz	205806870
+tobyoliver	homepage.mac.com	2012-04-09 14:54:43	archiveteam-mobileme-hero-554x	archiveteam-mobileme-hero-554x-5540.tar	homepage.mac.com-tobyoliver.warc.gz	4923
+tobyoliver	public.me.com	2012-04-09 14:48:45	archiveteam-mobileme-hero-554x	archiveteam-mobileme-hero-554x-5540.tar	public.me.com-tobyoliver.warc.gz	2797602000
+tobyoliver	web.me.com	2012-04-09 14:00:57	archiveteam-mobileme-hero-554x	archiveteam-mobileme-hero-554x-5540.tar	web.me.com-tobyoliver.warc.gz	97700985
+virgillund	gallery.me.com	2012-04-09 15:57:36	archiveteam-mobileme-hero-554x	archiveteam-mobileme-hero-554x-5540.tar	gallery.me.com-virgillund.warc.gz	10902914
+virgillund	homepage.mac.com	2012-04-09 15:57:37	archiveteam-mobileme-hero-554x	archiveteam-mobileme-hero-554x-5540.tar	homepage.mac.com-virgillund.warc.gz	4931
+virgillund	public.me.com	2012-04-09 15:56:57	archiveteam-mobileme-hero-554x	archiveteam-mobileme-hero-554x-5540.tar	public.me.com-virgillund.warc.gz	743350980
+virgillund	web.me.com	2012-04-09 15:26:51	archiveteam-mobileme-hero-554x	archiveteam-mobileme-hero-554x-5540.tar	web.me.com-virgillund.warc.gz	731865772

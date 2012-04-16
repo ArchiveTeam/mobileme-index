@@ -1,20 +1,20 @@
-alands	gallery.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	gallery.me.com-alands.warc.gz	0
-alands	homepage.mac.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	homepage.mac.com-alands.warc.gz	0
-alands	public.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	public.me.com-alands.warc.gz	0
-alands	web.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	web.me.com-alands.warc.gz	0
-baiaz	gallery.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	gallery.me.com-baiaz.warc.gz	0
-baiaz	homepage.mac.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	homepage.mac.com-baiaz.warc.gz	0
-baiaz	public.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	public.me.com-baiaz.warc.gz	0
-baiaz	web.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	web.me.com-baiaz.warc.gz	0
-chonacky	gallery.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	gallery.me.com-chonacky.warc.gz	0
-chonacky	homepage.mac.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	homepage.mac.com-chonacky.warc.gz	0
-chonacky	public.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	public.me.com-chonacky.warc.gz	0
-chonacky	web.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	web.me.com-chonacky.warc.gz	0
-janetonline	gallery.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	gallery.me.com-janetonline.warc.gz	0
-janetonline	homepage.mac.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	homepage.mac.com-janetonline.warc.gz	0
-janetonline	public.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	public.me.com-janetonline.warc.gz	0
-janetonline	web.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	web.me.com-janetonline.warc.gz	0
-t_w_r	gallery.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	gallery.me.com-t_w_r.warc.gz	0
-t_w_r	homepage.mac.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	homepage.mac.com-t_w_r.warc.gz	0
-t_w_r	public.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	public.me.com-t_w_r.warc.gz	0
-t_w_r	web.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	web.me.com-t_w_r.warc.gz	0
+alands	gallery.me.com	2012-04-09 22:50:30	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	gallery.me.com-alands.warc.gz	6899347
+alands	homepage.mac.com	2012-04-09 22:50:32	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	homepage.mac.com-alands.warc.gz	36891
+alands	public.me.com	2012-04-09 22:50:10	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	public.me.com-alands.warc.gz	1900
+alands	web.me.com	2012-04-09 22:50:10	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	web.me.com-alands.warc.gz	2881739
+baiaz	gallery.me.com	2012-04-09 22:49:17	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	gallery.me.com-baiaz.warc.gz	3149835486
+baiaz	homepage.mac.com	2012-04-09 22:49:17	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	homepage.mac.com-baiaz.warc.gz	4899
+baiaz	public.me.com	2012-04-09 21:47:21	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	public.me.com-baiaz.warc.gz	1909
+baiaz	web.me.com	2012-04-09 21:47:20	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	web.me.com-baiaz.warc.gz	87937950
+chonacky	gallery.me.com	2012-04-09 21:29:08	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	gallery.me.com-chonacky.warc.gz	5177
+chonacky	homepage.mac.com	2012-04-09 21:29:10	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	homepage.mac.com-chonacky.warc.gz	85628
+chonacky	public.me.com	2012-04-09 21:29:07	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	public.me.com-chonacky.warc.gz	3433
+chonacky	web.me.com	2012-04-09 21:29:06	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	web.me.com-chonacky.warc.gz	294392
+janetonline	gallery.me.com	2012-04-09 23:38:15	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	gallery.me.com-janetonline.warc.gz	1325491146
+janetonline	homepage.mac.com	2012-04-09 23:38:16	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	homepage.mac.com-janetonline.warc.gz	4922
+janetonline	public.me.com	2012-04-09 23:15:40	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	public.me.com-janetonline.warc.gz	148867001
+janetonline	web.me.com	2012-04-09 23:12:06	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	web.me.com-janetonline.warc.gz	383372781
+t_w_r	gallery.me.com	2012-04-09 22:50:39	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	gallery.me.com-t_w_r.warc.gz	8335
+t_w_r	homepage.mac.com	2012-04-09 22:50:39	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	homepage.mac.com-t_w_r.warc.gz	5149
+t_w_r	public.me.com	2012-04-09 22:50:38	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	public.me.com-t_w_r.warc.gz	1915
+t_w_r	web.me.com	2012-04-09 22:50:38	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5673.tar	web.me.com-t_w_r.warc.gz	17646

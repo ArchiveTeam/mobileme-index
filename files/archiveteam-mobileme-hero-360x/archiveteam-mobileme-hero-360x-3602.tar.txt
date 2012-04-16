@@ -1,32 +1,32 @@
-c993021964	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	gallery.me.com-c993021964.warc.gz	0
-c993021964	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	homepage.mac.com-c993021964.warc.gz	0
-c993021964	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	public.me.com-c993021964.warc.gz	0
-c993021964	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	web.me.com-c993021964.warc.gz	0
-cederman	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	gallery.me.com-cederman.warc.gz	0
-cederman	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	homepage.mac.com-cederman.warc.gz	0
-cederman	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	public.me.com-cederman.warc.gz	0
-cederman	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	web.me.com-cederman.warc.gz	0
-gdoerrhoefer	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	gallery.me.com-gdoerrhoefer.warc.gz	0
-gdoerrhoefer	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	homepage.mac.com-gdoerrhoefer.warc.gz	0
-gdoerrhoefer	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	public.me.com-gdoerrhoefer.warc.gz	0
-gdoerrhoefer	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	web.me.com-gdoerrhoefer.warc.gz	0
-janvanotten	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	gallery.me.com-janvanotten.warc.gz	0
-janvanotten	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	homepage.mac.com-janvanotten.warc.gz	0
-janvanotten	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	public.me.com-janvanotten.warc.gz	0
-janvanotten	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	web.me.com-janvanotten.warc.gz	0
-jgranger	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	gallery.me.com-jgranger.warc.gz	0
-jgranger	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	homepage.mac.com-jgranger.warc.gz	0
-jgranger	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	public.me.com-jgranger.warc.gz	0
-jgranger	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	web.me.com-jgranger.warc.gz	0
-monnetdavid	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	gallery.me.com-monnetdavid.warc.gz	0
-monnetdavid	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	homepage.mac.com-monnetdavid.warc.gz	0
-monnetdavid	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	public.me.com-monnetdavid.warc.gz	0
-monnetdavid	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	web.me.com-monnetdavid.warc.gz	0
-pong36	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	gallery.me.com-pong36.warc.gz	0
-pong36	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	homepage.mac.com-pong36.warc.gz	0
-pong36	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	public.me.com-pong36.warc.gz	0
-pong36	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	web.me.com-pong36.warc.gz	0
-tigna	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	gallery.me.com-tigna.warc.gz	0
-tigna	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	homepage.mac.com-tigna.warc.gz	0
-tigna	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	public.me.com-tigna.warc.gz	0
-tigna	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	web.me.com-tigna.warc.gz	0
+c993021964	gallery.me.com	2012-04-03 21:33:30	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	gallery.me.com-c993021964.warc.gz	8373
+c993021964	homepage.mac.com	2012-04-03 21:33:30	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	homepage.mac.com-c993021964.warc.gz	5181
+c993021964	public.me.com	2012-04-03 21:33:29	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	public.me.com-c993021964.warc.gz	1914
+c993021964	web.me.com	2012-04-03 21:33:29	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	web.me.com-c993021964.warc.gz	17742
+cederman	gallery.me.com	2012-04-03 21:28:55	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	gallery.me.com-cederman.warc.gz	2001725067
+cederman	homepage.mac.com	2012-04-03 21:28:57	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	homepage.mac.com-cederman.warc.gz	54641
+cederman	public.me.com	2012-04-03 21:06:15	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	public.me.com-cederman.warc.gz	1915
+cederman	web.me.com	2012-04-03 21:06:14	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	web.me.com-cederman.warc.gz	8155465
+gdoerrhoefer	gallery.me.com	2012-04-03 21:33:14	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	gallery.me.com-gdoerrhoefer.warc.gz	34155662
+gdoerrhoefer	homepage.mac.com	2012-04-03 21:33:27	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	homepage.mac.com-gdoerrhoefer.warc.gz	236241
+gdoerrhoefer	public.me.com	2012-04-03 21:31:19	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	public.me.com-gdoerrhoefer.warc.gz	1926
+gdoerrhoefer	web.me.com	2012-04-03 21:31:18	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	web.me.com-gdoerrhoefer.warc.gz	35750589
+janvanotten	gallery.me.com	2012-04-03 21:34:55	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	gallery.me.com-janvanotten.warc.gz	4309
+janvanotten	homepage.mac.com	2012-04-03 21:34:55	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	homepage.mac.com-janvanotten.warc.gz	4934
+janvanotten	public.me.com	2012-04-03 21:34:54	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	public.me.com-janvanotten.warc.gz	1929
+janvanotten	web.me.com	2012-04-03 21:34:54	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	web.me.com-janvanotten.warc.gz	10386713
+jgranger	gallery.me.com	2012-04-03 23:54:00	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	gallery.me.com-jgranger.warc.gz	29273021
+jgranger	homepage.mac.com	2012-04-03 23:54:05	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	homepage.mac.com-jgranger.warc.gz	112734
+jgranger	public.me.com	2012-04-03 23:53:06	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	public.me.com-jgranger.warc.gz	5371208580
+jgranger	web.me.com	2012-04-03 21:47:16	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	web.me.com-jgranger.warc.gz	60519252
+monnetdavid	gallery.me.com	2012-04-03 21:02:40	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	gallery.me.com-monnetdavid.warc.gz	4259
+monnetdavid	homepage.mac.com	2012-04-03 21:02:40	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	homepage.mac.com-monnetdavid.warc.gz	4916
+monnetdavid	public.me.com	2012-04-03 21:02:40	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	public.me.com-monnetdavid.warc.gz	1922
+monnetdavid	web.me.com	2012-04-03 21:02:39	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	web.me.com-monnetdavid.warc.gz	2640733
+pong36	gallery.me.com	2012-04-03 21:01:27	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	gallery.me.com-pong36.warc.gz	1343717864
+pong36	homepage.mac.com	2012-04-03 21:01:28	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	homepage.mac.com-pong36.warc.gz	4892
+pong36	public.me.com	2012-04-03 20:17:37	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	public.me.com-pong36.warc.gz	85830314
+pong36	web.me.com	2012-04-03 20:15:45	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	web.me.com-pong36.warc.gz	193060756
+tigna	gallery.me.com	2012-04-03 21:39:44	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	gallery.me.com-tigna.warc.gz	220072670
+tigna	homepage.mac.com	2012-04-03 21:39:45	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	homepage.mac.com-tigna.warc.gz	7806
+tigna	public.me.com	2012-04-03 21:35:38	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	public.me.com-tigna.warc.gz	3866
+tigna	web.me.com	2012-04-03 21:35:37	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3602.tar	web.me.com-tigna.warc.gz	1816309

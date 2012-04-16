@@ -1,20 +1,20 @@
-bulia	gallery.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	gallery.me.com-bulia.warc.gz	0
-bulia	homepage.mac.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	homepage.mac.com-bulia.warc.gz	0
-bulia	public.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	public.me.com-bulia.warc.gz	0
-bulia	web.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	web.me.com-bulia.warc.gz	0
-michaelltd	gallery.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	gallery.me.com-michaelltd.warc.gz	0
-michaelltd	homepage.mac.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	homepage.mac.com-michaelltd.warc.gz	0
-michaelltd	public.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	public.me.com-michaelltd.warc.gz	0
-michaelltd	web.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	web.me.com-michaelltd.warc.gz	0
-rjpbrown	gallery.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	gallery.me.com-rjpbrown.warc.gz	0
-rjpbrown	homepage.mac.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	homepage.mac.com-rjpbrown.warc.gz	0
-rjpbrown	public.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	public.me.com-rjpbrown.warc.gz	0
-rjpbrown	web.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	web.me.com-rjpbrown.warc.gz	0
-steveschneider	gallery.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	gallery.me.com-steveschneider.warc.gz	0
-steveschneider	homepage.mac.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	homepage.mac.com-steveschneider.warc.gz	0
-steveschneider	public.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	public.me.com-steveschneider.warc.gz	0
-steveschneider	web.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	web.me.com-steveschneider.warc.gz	0
-symko	gallery.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	gallery.me.com-symko.warc.gz	0
-symko	homepage.mac.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	homepage.mac.com-symko.warc.gz	0
-symko	public.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	public.me.com-symko.warc.gz	0
-symko	web.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	web.me.com-symko.warc.gz	0
+bulia	gallery.me.com	2012-04-09 00:02:32	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	gallery.me.com-bulia.warc.gz	4255
+bulia	homepage.mac.com	2012-04-09 00:02:32	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	homepage.mac.com-bulia.warc.gz	4888
+bulia	public.me.com	2012-04-09 00:02:32	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	public.me.com-bulia.warc.gz	1909
+bulia	web.me.com	2012-04-09 00:02:31	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	web.me.com-bulia.warc.gz	7438
+michaelltd	gallery.me.com	2012-04-09 00:03:47	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	gallery.me.com-michaelltd.warc.gz	26048636
+michaelltd	homepage.mac.com	2012-04-09 00:03:47	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	homepage.mac.com-michaelltd.warc.gz	3541
+michaelltd	public.me.com	2012-04-09 00:02:47	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	public.me.com-michaelltd.warc.gz	3342
+michaelltd	web.me.com	2012-04-09 00:02:46	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	web.me.com-michaelltd.warc.gz	360159
+rjpbrown	gallery.me.com	2012-04-09 00:42:41	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	gallery.me.com-rjpbrown.warc.gz	683009671
+rjpbrown	homepage.mac.com	2012-04-09 00:42:43	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	homepage.mac.com-rjpbrown.warc.gz	58058
+rjpbrown	public.me.com	2012-04-09 00:34:08	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	public.me.com-rjpbrown.warc.gz	725711611
+rjpbrown	web.me.com	2012-04-09 00:19:49	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	web.me.com-rjpbrown.warc.gz	153166138
+steveschneider	gallery.me.com	2012-04-08 23:36:03	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	gallery.me.com-steveschneider.warc.gz	97903844
+steveschneider	homepage.mac.com	2012-04-08 23:36:03	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	homepage.mac.com-steveschneider.warc.gz	4938
+steveschneider	public.me.com	2012-04-08 23:35:12	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	public.me.com-steveschneider.warc.gz	1923
+steveschneider	web.me.com	2012-04-08 23:35:09	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	web.me.com-steveschneider.warc.gz	676933861
+symko	gallery.me.com	2012-04-09 00:02:29	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	gallery.me.com-symko.warc.gz	290433145
+symko	homepage.mac.com	2012-04-09 00:02:29	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	homepage.mac.com-symko.warc.gz	4902
+symko	public.me.com	2012-04-08 23:58:32	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	public.me.com-symko.warc.gz	3602
+symko	web.me.com	2012-04-08 23:58:30	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5260.tar	web.me.com-symko.warc.gz	1807541329

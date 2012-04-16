@@ -1,12 +1,12 @@
-miller_live	gallery.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	gallery.me.com-miller_live.warc.gz	0
-miller_live	homepage.mac.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	homepage.mac.com-miller_live.warc.gz	0
-miller_live	public.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	public.me.com-miller_live.warc.gz	0
-miller_live	web.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	web.me.com-miller_live.warc.gz	0
-rtbent	gallery.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	gallery.me.com-rtbent.warc.gz	0
-rtbent	homepage.mac.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	homepage.mac.com-rtbent.warc.gz	0
-rtbent	public.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	public.me.com-rtbent.warc.gz	0
-rtbent	web.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	web.me.com-rtbent.warc.gz	0
-vsofranko	gallery.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	gallery.me.com-vsofranko.warc.gz	0
-vsofranko	homepage.mac.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	homepage.mac.com-vsofranko.warc.gz	0
-vsofranko	public.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	public.me.com-vsofranko.warc.gz	0
-vsofranko	web.me.com		archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	web.me.com-vsofranko.warc.gz	0
+miller_live	gallery.me.com	2012-03-30 10:11:15	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	gallery.me.com-miller_live.warc.gz	12312
+miller_live	homepage.mac.com	2012-03-30 10:11:16	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	homepage.mac.com-miller_live.warc.gz	7161
+miller_live	public.me.com	2012-03-30 10:11:13	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	public.me.com-miller_live.warc.gz	1919
+miller_live	web.me.com	2012-03-30 10:11:12	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	web.me.com-miller_live.warc.gz	22563
+rtbent	gallery.me.com	2012-03-30 17:59:09	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	gallery.me.com-rtbent.warc.gz	3672840306
+rtbent	homepage.mac.com	2012-03-30 17:59:10	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	homepage.mac.com-rtbent.warc.gz	4906
+rtbent	public.me.com	2012-03-30 11:42:18	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	public.me.com-rtbent.warc.gz	1906
+rtbent	web.me.com	2012-03-30 11:42:16	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	web.me.com-rtbent.warc.gz	1187910479
+vsofranko	gallery.me.com	2012-03-30 10:14:58	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	gallery.me.com-vsofranko.warc.gz	4250
+vsofranko	homepage.mac.com	2012-03-30 10:14:58	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	homepage.mac.com-vsofranko.warc.gz	4910
+vsofranko	public.me.com	2012-03-30 10:14:58	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	public.me.com-vsofranko.warc.gz	1920
+vsofranko	web.me.com	2012-03-30 10:14:57	archiveteam-mobileme-hero-218x	archiveteam-mobileme-hero-218x-2187.tar	web.me.com-vsofranko.warc.gz	2017650

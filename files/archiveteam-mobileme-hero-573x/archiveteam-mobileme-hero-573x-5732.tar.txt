@@ -1,20 +1,20 @@
-a.althani	gallery.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	gallery.me.com-a.althani.warc.gz	0
-a.althani	homepage.mac.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	homepage.mac.com-a.althani.warc.gz	0
-a.althani	public.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	public.me.com-a.althani.warc.gz	0
-a.althani	web.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	web.me.com-a.althani.warc.gz	0
-beeyl	gallery.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	gallery.me.com-beeyl.warc.gz	0
-beeyl	homepage.mac.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	homepage.mac.com-beeyl.warc.gz	0
-beeyl	public.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	public.me.com-beeyl.warc.gz	0
-beeyl	web.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	web.me.com-beeyl.warc.gz	0
-chrisakins	gallery.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	gallery.me.com-chrisakins.warc.gz	0
-chrisakins	homepage.mac.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	homepage.mac.com-chrisakins.warc.gz	0
-chrisakins	public.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	public.me.com-chrisakins.warc.gz	0
-chrisakins	web.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	web.me.com-chrisakins.warc.gz	0
-kylecopeland	gallery.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	gallery.me.com-kylecopeland.warc.gz	0
-kylecopeland	homepage.mac.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	homepage.mac.com-kylecopeland.warc.gz	0
-kylecopeland	public.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	public.me.com-kylecopeland.warc.gz	0
-kylecopeland	web.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	web.me.com-kylecopeland.warc.gz	0
-petermellalieu	gallery.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	gallery.me.com-petermellalieu.warc.gz	0
-petermellalieu	homepage.mac.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	homepage.mac.com-petermellalieu.warc.gz	0
-petermellalieu	public.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	public.me.com-petermellalieu.warc.gz	0
-petermellalieu	web.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	web.me.com-petermellalieu.warc.gz	0
+a.althani	gallery.me.com	2012-04-09 23:34:07	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	gallery.me.com-a.althani.warc.gz	4241
+a.althani	homepage.mac.com	2012-04-09 23:34:07	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	homepage.mac.com-a.althani.warc.gz	4912
+a.althani	public.me.com	2012-04-09 23:34:06	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	public.me.com-a.althani.warc.gz	3469
+a.althani	web.me.com	2012-04-09 23:34:05	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	web.me.com-a.althani.warc.gz	1701774
+beeyl	gallery.me.com	2012-04-09 23:34:15	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	gallery.me.com-beeyl.warc.gz	1257078
+beeyl	homepage.mac.com	2012-04-09 23:34:17	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	homepage.mac.com-beeyl.warc.gz	63598
+beeyl	public.me.com	2012-04-09 23:34:11	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	public.me.com-beeyl.warc.gz	1910
+beeyl	web.me.com	2012-04-09 23:34:11	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	web.me.com-beeyl.warc.gz	57712
+chrisakins	gallery.me.com	2012-04-09 23:42:52	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	gallery.me.com-chrisakins.warc.gz	78870907
+chrisakins	homepage.mac.com	2012-04-09 23:42:52	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	homepage.mac.com-chrisakins.warc.gz	4918
+chrisakins	public.me.com	2012-04-09 23:38:46	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	public.me.com-chrisakins.warc.gz	1913
+chrisakins	web.me.com	2012-04-09 23:38:46	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	web.me.com-chrisakins.warc.gz	20390689
+kylecopeland	gallery.me.com	2012-04-10 03:16:56	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	gallery.me.com-kylecopeland.warc.gz	261245559
+kylecopeland	homepage.mac.com	2012-04-10 03:16:56	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	homepage.mac.com-kylecopeland.warc.gz	3417
+kylecopeland	public.me.com	2012-04-10 03:11:24	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	public.me.com-kylecopeland.warc.gz	30765724
+kylecopeland	web.me.com	2012-04-10 03:09:02	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	web.me.com-kylecopeland.warc.gz	244235673
+petermellalieu	gallery.me.com	2012-04-10 02:52:20	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	gallery.me.com-petermellalieu.warc.gz	2687493067
+petermellalieu	homepage.mac.com	2012-04-10 02:52:20	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	homepage.mac.com-petermellalieu.warc.gz	4931
+petermellalieu	public.me.com	2012-04-10 00:47:31	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	public.me.com-petermellalieu.warc.gz	125492337
+petermellalieu	web.me.com	2012-04-10 00:43:29	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5732.tar	web.me.com-petermellalieu.warc.gz	1120826753

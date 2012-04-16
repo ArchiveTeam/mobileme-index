@@ -1,16 +1,16 @@
-c1335346770	gallery.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	gallery.me.com-c1335346770.warc.gz	0
-c1335346770	homepage.mac.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	homepage.mac.com-c1335346770.warc.gz	0
-c1335346770	public.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	public.me.com-c1335346770.warc.gz	0
-c1335346770	web.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	web.me.com-c1335346770.warc.gz	0
-glennrdavis	gallery.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	gallery.me.com-glennrdavis.warc.gz	0
-glennrdavis	homepage.mac.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	homepage.mac.com-glennrdavis.warc.gz	0
-glennrdavis	public.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	public.me.com-glennrdavis.warc.gz	0
-glennrdavis	web.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	web.me.com-glennrdavis.warc.gz	0
-hwzoet	gallery.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	gallery.me.com-hwzoet.warc.gz	0
-hwzoet	homepage.mac.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	homepage.mac.com-hwzoet.warc.gz	0
-hwzoet	public.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	public.me.com-hwzoet.warc.gz	0
-hwzoet	web.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	web.me.com-hwzoet.warc.gz	0
-zhsbulldogband	gallery.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	gallery.me.com-zhsbulldogband.warc.gz	0
-zhsbulldogband	homepage.mac.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	homepage.mac.com-zhsbulldogband.warc.gz	0
-zhsbulldogband	public.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	public.me.com-zhsbulldogband.warc.gz	0
-zhsbulldogband	web.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	web.me.com-zhsbulldogband.warc.gz	0
+c1335346770	gallery.me.com	2012-04-12 08:04:58	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	gallery.me.com-c1335346770.warc.gz	8372
+c1335346770	homepage.mac.com	2012-04-12 08:04:58	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	homepage.mac.com-c1335346770.warc.gz	5198
+c1335346770	public.me.com	2012-04-12 08:04:58	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	public.me.com-c1335346770.warc.gz	1933
+c1335346770	web.me.com	2012-04-12 08:04:57	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	web.me.com-c1335346770.warc.gz	17787
+glennrdavis	gallery.me.com	2012-04-12 08:15:36	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	gallery.me.com-glennrdavis.warc.gz	344454398
+glennrdavis	homepage.mac.com	2012-04-12 08:15:37	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	homepage.mac.com-glennrdavis.warc.gz	4933
+glennrdavis	public.me.com	2012-04-12 08:06:47	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	public.me.com-glennrdavis.warc.gz	1926
+glennrdavis	web.me.com	2012-04-12 08:06:46	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	web.me.com-glennrdavis.warc.gz	5933804
+hwzoet	gallery.me.com	2012-04-12 08:04:02	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	gallery.me.com-hwzoet.warc.gz	2691009730
+hwzoet	homepage.mac.com	2012-04-12 08:04:02	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	homepage.mac.com-hwzoet.warc.gz	4897
+hwzoet	public.me.com	2012-04-12 07:27:37	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	public.me.com-hwzoet.warc.gz	469793238
+hwzoet	web.me.com	2012-04-12 07:15:26	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	web.me.com-hwzoet.warc.gz	995296564
+zhsbulldogband	gallery.me.com	2012-04-12 08:04:56	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	gallery.me.com-zhsbulldogband.warc.gz	62207803
+zhsbulldogband	homepage.mac.com	2012-04-12 08:04:56	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	homepage.mac.com-zhsbulldogband.warc.gz	4937
+zhsbulldogband	public.me.com	2012-04-12 08:04:19	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	public.me.com-zhsbulldogband.warc.gz	1938
+zhsbulldogband	web.me.com	2012-04-12 08:04:18	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6672.tar	web.me.com-zhsbulldogband.warc.gz	595086

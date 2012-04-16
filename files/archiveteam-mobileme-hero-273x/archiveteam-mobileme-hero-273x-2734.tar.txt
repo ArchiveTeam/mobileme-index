@@ -1,12 +1,12 @@
-afif.tabish	gallery.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	gallery.me.com-afif.tabish.warc.gz	0
-afif.tabish	homepage.mac.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	homepage.mac.com-afif.tabish.warc.gz	0
-afif.tabish	public.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	public.me.com-afif.tabish.warc.gz	0
-afif.tabish	web.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	web.me.com-afif.tabish.warc.gz	0
-samanthalockwood	gallery.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	gallery.me.com-samanthalockwood.warc.gz	0
-samanthalockwood	homepage.mac.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	homepage.mac.com-samanthalockwood.warc.gz	0
-samanthalockwood	public.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	public.me.com-samanthalockwood.warc.gz	0
-samanthalockwood	web.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	web.me.com-samanthalockwood.warc.gz	0
-sbertoluzzi	gallery.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	gallery.me.com-sbertoluzzi.warc.gz	0
-sbertoluzzi	homepage.mac.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	homepage.mac.com-sbertoluzzi.warc.gz	0
-sbertoluzzi	public.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	public.me.com-sbertoluzzi.warc.gz	0
-sbertoluzzi	web.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	web.me.com-sbertoluzzi.warc.gz	0
+afif.tabish	gallery.me.com	2012-04-01 15:47:22	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	gallery.me.com-afif.tabish.warc.gz	12348
+afif.tabish	homepage.mac.com	2012-04-01 15:47:23	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	homepage.mac.com-afif.tabish.warc.gz	7155
+afif.tabish	public.me.com	2012-04-01 15:47:20	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	public.me.com-afif.tabish.warc.gz	1922
+afif.tabish	web.me.com	2012-04-01 15:47:19	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	web.me.com-afif.tabish.warc.gz	22519
+samanthalockwood	gallery.me.com	2012-04-01 15:47:09	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	gallery.me.com-samanthalockwood.warc.gz	12372
+samanthalockwood	homepage.mac.com	2012-04-01 15:47:10	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	homepage.mac.com-samanthalockwood.warc.gz	7164
+samanthalockwood	public.me.com	2012-04-01 15:47:06	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	public.me.com-samanthalockwood.warc.gz	1935
+samanthalockwood	web.me.com	2012-04-01 15:47:05	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	web.me.com-samanthalockwood.warc.gz	22520
+sbertoluzzi	gallery.me.com	2012-04-01 18:49:52	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	gallery.me.com-sbertoluzzi.warc.gz	440728900
+sbertoluzzi	homepage.mac.com	2012-04-01 18:51:41	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	homepage.mac.com-sbertoluzzi.warc.gz	1922093
+sbertoluzzi	public.me.com	2012-04-01 18:28:41	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	public.me.com-sbertoluzzi.warc.gz	5353388252
+sbertoluzzi	web.me.com	2012-04-01 15:52:49	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2734.tar	web.me.com-sbertoluzzi.warc.gz	8399982

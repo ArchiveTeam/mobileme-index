@@ -1,24 +1,24 @@
-ClanMacUG	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	gallery.me.com-ClanMacUG.warc.gz	0
-ClanMacUG	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	homepage.mac.com-ClanMacUG.warc.gz	0
-ClanMacUG	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	public.me.com-ClanMacUG.warc.gz	0
-ClanMacUG	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	web.me.com-ClanMacUG.warc.gz	0
-bleeb1	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	gallery.me.com-bleeb1.warc.gz	0
-bleeb1	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	homepage.mac.com-bleeb1.warc.gz	0
-bleeb1	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	public.me.com-bleeb1.warc.gz	0
-bleeb1	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	web.me.com-bleeb1.warc.gz	0
-chellis	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	gallery.me.com-chellis.warc.gz	0
-chellis	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	homepage.mac.com-chellis.warc.gz	0
-chellis	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	public.me.com-chellis.warc.gz	0
-chellis	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	web.me.com-chellis.warc.gz	0
-evilmadman	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	gallery.me.com-evilmadman.warc.gz	0
-evilmadman	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	homepage.mac.com-evilmadman.warc.gz	0
-evilmadman	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	public.me.com-evilmadman.warc.gz	0
-evilmadman	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	web.me.com-evilmadman.warc.gz	0
-motomailhq	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	gallery.me.com-motomailhq.warc.gz	0
-motomailhq	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	homepage.mac.com-motomailhq.warc.gz	0
-motomailhq	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	public.me.com-motomailhq.warc.gz	0
-motomailhq	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	web.me.com-motomailhq.warc.gz	0
-samosia1	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	gallery.me.com-samosia1.warc.gz	0
-samosia1	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	homepage.mac.com-samosia1.warc.gz	0
-samosia1	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	public.me.com-samosia1.warc.gz	0
-samosia1	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	web.me.com-samosia1.warc.gz	0
+ClanMacUG	gallery.me.com	2012-04-03 21:45:03	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	gallery.me.com-ClanMacUG.warc.gz	4310
+ClanMacUG	homepage.mac.com	2012-04-03 21:45:03	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	homepage.mac.com-ClanMacUG.warc.gz	7994
+ClanMacUG	public.me.com	2012-04-03 21:45:02	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	public.me.com-ClanMacUG.warc.gz	1913
+ClanMacUG	web.me.com	2012-04-03 21:45:01	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	web.me.com-ClanMacUG.warc.gz	3352219
+bleeb1	gallery.me.com	2012-04-03 21:25:02	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	gallery.me.com-bleeb1.warc.gz	41608881
+bleeb1	homepage.mac.com	2012-04-03 21:25:02	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	homepage.mac.com-bleeb1.warc.gz	4904
+bleeb1	public.me.com	2012-04-03 21:23:35	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	public.me.com-bleeb1.warc.gz	1914
+bleeb1	web.me.com	2012-04-03 21:23:35	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	web.me.com-bleeb1.warc.gz	72028610
+chellis	gallery.me.com	2012-04-03 21:15:39	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	gallery.me.com-chellis.warc.gz	4280
+chellis	homepage.mac.com	2012-04-03 21:15:56	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	homepage.mac.com-chellis.warc.gz	1328174
+chellis	public.me.com	2012-04-03 21:15:39	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	public.me.com-chellis.warc.gz	1915
+chellis	web.me.com	2012-04-03 21:15:38	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	web.me.com-chellis.warc.gz	7411
+evilmadman	gallery.me.com	2012-04-03 21:25:04	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	gallery.me.com-evilmadman.warc.gz	4278
+evilmadman	homepage.mac.com	2012-04-03 21:25:45	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	homepage.mac.com-evilmadman.warc.gz	51737802
+evilmadman	public.me.com	2012-04-03 21:25:04	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	public.me.com-evilmadman.warc.gz	1923
+evilmadman	web.me.com	2012-04-03 21:25:04	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	web.me.com-evilmadman.warc.gz	7419
+motomailhq	gallery.me.com	2012-04-03 21:43:41	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	gallery.me.com-motomailhq.warc.gz	85199193
+motomailhq	homepage.mac.com	2012-04-03 21:43:49	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	homepage.mac.com-motomailhq.warc.gz	143889
+motomailhq	public.me.com	2012-04-03 21:40:35	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	public.me.com-motomailhq.warc.gz	1848866
+motomailhq	web.me.com	2012-04-03 21:40:29	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	web.me.com-motomailhq.warc.gz	471395601
+samosia1	gallery.me.com	2012-04-03 23:06:04	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	gallery.me.com-samosia1.warc.gz	48684464
+samosia1	homepage.mac.com	2012-04-03 23:06:04	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	homepage.mac.com-samosia1.warc.gz	4896
+samosia1	public.me.com	2012-04-03 23:03:13	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	public.me.com-samosia1.warc.gz	88303469
+samosia1	web.me.com	2012-04-03 22:59:56	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3603.tar	web.me.com-samosia1.warc.gz	4504032829

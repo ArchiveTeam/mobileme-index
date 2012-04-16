@@ -1,28 +1,28 @@
-ais4action	gallery.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	gallery.me.com-ais4action.warc.gz	0
-ais4action	homepage.mac.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	homepage.mac.com-ais4action.warc.gz	0
-ais4action	public.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	public.me.com-ais4action.warc.gz	0
-ais4action	web.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	web.me.com-ais4action.warc.gz	0
-gloriaschmidt	gallery.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	gallery.me.com-gloriaschmidt.warc.gz	0
-gloriaschmidt	homepage.mac.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	homepage.mac.com-gloriaschmidt.warc.gz	0
-gloriaschmidt	public.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	public.me.com-gloriaschmidt.warc.gz	0
-gloriaschmidt	web.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	web.me.com-gloriaschmidt.warc.gz	0
-jaimeleebarr	gallery.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	gallery.me.com-jaimeleebarr.warc.gz	0
-jaimeleebarr	homepage.mac.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	homepage.mac.com-jaimeleebarr.warc.gz	0
-jaimeleebarr	public.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	public.me.com-jaimeleebarr.warc.gz	0
-jaimeleebarr	web.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	web.me.com-jaimeleebarr.warc.gz	0
-katsutoshiharada	gallery.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	gallery.me.com-katsutoshiharada.warc.gz	0
-katsutoshiharada	homepage.mac.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	homepage.mac.com-katsutoshiharada.warc.gz	0
-katsutoshiharada	public.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	public.me.com-katsutoshiharada.warc.gz	0
-katsutoshiharada	web.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	web.me.com-katsutoshiharada.warc.gz	0
-lfuller	gallery.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	gallery.me.com-lfuller.warc.gz	0
-lfuller	homepage.mac.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	homepage.mac.com-lfuller.warc.gz	0
-lfuller	public.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	public.me.com-lfuller.warc.gz	0
-lfuller	web.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	web.me.com-lfuller.warc.gz	0
-magoo253	gallery.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	gallery.me.com-magoo253.warc.gz	0
-magoo253	homepage.mac.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	homepage.mac.com-magoo253.warc.gz	0
-magoo253	public.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	public.me.com-magoo253.warc.gz	0
-magoo253	web.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	web.me.com-magoo253.warc.gz	0
-nelsondc	gallery.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	gallery.me.com-nelsondc.warc.gz	0
-nelsondc	homepage.mac.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	homepage.mac.com-nelsondc.warc.gz	0
-nelsondc	public.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	public.me.com-nelsondc.warc.gz	0
-nelsondc	web.me.com		archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	web.me.com-nelsondc.warc.gz	0
+ais4action	gallery.me.com	2012-04-02 13:01:03	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	gallery.me.com-ais4action.warc.gz	3088783610
+ais4action	homepage.mac.com	2012-04-02 13:01:04	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	homepage.mac.com-ais4action.warc.gz	4893
+ais4action	public.me.com	2012-04-02 12:15:37	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	public.me.com-ais4action.warc.gz	8076487437
+ais4action	web.me.com	2012-04-02 10:42:31	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	web.me.com-ais4action.warc.gz	1058526631
+gloriaschmidt	gallery.me.com	2012-04-02 09:21:27	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	gallery.me.com-gloriaschmidt.warc.gz	579419130
+gloriaschmidt	homepage.mac.com	2012-04-02 09:21:27	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	homepage.mac.com-gloriaschmidt.warc.gz	4910
+gloriaschmidt	public.me.com	2012-04-02 09:07:44	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	public.me.com-gloriaschmidt.warc.gz	23683141
+gloriaschmidt	web.me.com	2012-04-02 09:07:05	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	web.me.com-gloriaschmidt.warc.gz	54984475
+jaimeleebarr	gallery.me.com	2012-04-02 09:23:27	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	gallery.me.com-jaimeleebarr.warc.gz	8715361
+jaimeleebarr	homepage.mac.com	2012-04-02 09:23:27	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	homepage.mac.com-jaimeleebarr.warc.gz	4925
+jaimeleebarr	public.me.com	2012-04-02 09:22:47	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	public.me.com-jaimeleebarr.warc.gz	1930
+jaimeleebarr	web.me.com	2012-04-02 09:22:47	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	web.me.com-jaimeleebarr.warc.gz	3671963
+katsutoshiharada	gallery.me.com	2012-04-02 09:21:32	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	gallery.me.com-katsutoshiharada.warc.gz	12369
+katsutoshiharada	homepage.mac.com	2012-04-02 09:21:32	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	homepage.mac.com-katsutoshiharada.warc.gz	7173
+katsutoshiharada	public.me.com	2012-04-02 09:21:31	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	public.me.com-katsutoshiharada.warc.gz	1939
+katsutoshiharada	web.me.com	2012-04-02 09:21:29	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	web.me.com-katsutoshiharada.warc.gz	22553
+lfuller	gallery.me.com	2012-04-02 09:21:34	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	gallery.me.com-lfuller.warc.gz	8326
+lfuller	homepage.mac.com	2012-04-02 09:21:34	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	homepage.mac.com-lfuller.warc.gz	5165
+lfuller	public.me.com	2012-04-02 09:21:34	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	public.me.com-lfuller.warc.gz	1916
+lfuller	web.me.com	2012-04-02 09:21:33	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	web.me.com-lfuller.warc.gz	17660
+magoo253	gallery.me.com	2012-04-02 09:37:29	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	gallery.me.com-magoo253.warc.gz	12314
+magoo253	homepage.mac.com	2012-04-02 09:37:29	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	homepage.mac.com-magoo253.warc.gz	7147
+magoo253	public.me.com	2012-04-02 09:37:28	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	public.me.com-magoo253.warc.gz	1914
+magoo253	web.me.com	2012-04-02 09:37:27	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	web.me.com-magoo253.warc.gz	22421
+nelsondc	gallery.me.com	2012-04-02 09:37:24	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	gallery.me.com-nelsondc.warc.gz	34594130
+nelsondc	homepage.mac.com	2012-04-02 09:37:24	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	homepage.mac.com-nelsondc.warc.gz	4883
+nelsondc	public.me.com	2012-04-02 09:35:45	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	public.me.com-nelsondc.warc.gz	1918
+nelsondc	web.me.com	2012-04-02 09:35:44	archiveteam-mobileme-hero-296x	archiveteam-mobileme-hero-296x-2963.tar	web.me.com-nelsondc.warc.gz	558662702

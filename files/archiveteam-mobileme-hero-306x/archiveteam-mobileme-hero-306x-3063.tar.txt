@@ -1,24 +1,24 @@
-epicdream	gallery.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	gallery.me.com-epicdream.warc.gz	0
-epicdream	homepage.mac.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	homepage.mac.com-epicdream.warc.gz	0
-epicdream	public.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	public.me.com-epicdream.warc.gz	0
-epicdream	web.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	web.me.com-epicdream.warc.gz	0
-juliancrabb	gallery.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	gallery.me.com-juliancrabb.warc.gz	0
-juliancrabb	homepage.mac.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	homepage.mac.com-juliancrabb.warc.gz	0
-juliancrabb	public.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	public.me.com-juliancrabb.warc.gz	0
-juliancrabb	web.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	web.me.com-juliancrabb.warc.gz	0
-rilliard	gallery.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	gallery.me.com-rilliard.warc.gz	0
-rilliard	homepage.mac.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	homepage.mac.com-rilliard.warc.gz	0
-rilliard	public.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	public.me.com-rilliard.warc.gz	0
-rilliard	web.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	web.me.com-rilliard.warc.gz	0
-sakerk	gallery.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	gallery.me.com-sakerk.warc.gz	0
-sakerk	homepage.mac.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	homepage.mac.com-sakerk.warc.gz	0
-sakerk	public.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	public.me.com-sakerk.warc.gz	0
-sakerk	web.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	web.me.com-sakerk.warc.gz	0
-thekirkmanator	gallery.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	gallery.me.com-thekirkmanator.warc.gz	0
-thekirkmanator	homepage.mac.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	homepage.mac.com-thekirkmanator.warc.gz	0
-thekirkmanator	public.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	public.me.com-thekirkmanator.warc.gz	0
-thekirkmanator	web.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	web.me.com-thekirkmanator.warc.gz	0
-zachrisson	gallery.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	gallery.me.com-zachrisson.warc.gz	0
-zachrisson	homepage.mac.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	homepage.mac.com-zachrisson.warc.gz	0
-zachrisson	public.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	public.me.com-zachrisson.warc.gz	0
-zachrisson	web.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	web.me.com-zachrisson.warc.gz	0
+epicdream	gallery.me.com	2012-04-02 17:10:33	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	gallery.me.com-epicdream.warc.gz	48348640
+epicdream	homepage.mac.com	2012-04-02 17:10:36	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	homepage.mac.com-epicdream.warc.gz	78577
+epicdream	public.me.com	2012-04-02 17:08:41	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	public.me.com-epicdream.warc.gz	2827378
+epicdream	web.me.com	2012-04-02 17:08:30	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	web.me.com-epicdream.warc.gz	475308511
+juliancrabb	gallery.me.com	2012-04-02 16:11:20	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	gallery.me.com-juliancrabb.warc.gz	2390251
+juliancrabb	homepage.mac.com	2012-04-02 16:11:20	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	homepage.mac.com-juliancrabb.warc.gz	4919
+juliancrabb	public.me.com	2012-04-02 16:11:10	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	public.me.com-juliancrabb.warc.gz	519998593
+juliancrabb	web.me.com	2012-04-02 15:58:55	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	web.me.com-juliancrabb.warc.gz	25596417
+rilliard	gallery.me.com	2012-04-02 15:56:49	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	gallery.me.com-rilliard.warc.gz	6015
+rilliard	homepage.mac.com	2012-04-02 15:56:57	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	homepage.mac.com-rilliard.warc.gz	135010
+rilliard	public.me.com	2012-04-02 15:56:48	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	public.me.com-rilliard.warc.gz	1909
+rilliard	web.me.com	2012-04-02 15:56:48	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	web.me.com-rilliard.warc.gz	43092538
+sakerk	gallery.me.com	2012-04-02 15:45:26	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	gallery.me.com-sakerk.warc.gz	178571141
+sakerk	homepage.mac.com	2012-04-02 15:45:27	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	homepage.mac.com-sakerk.warc.gz	4894
+sakerk	public.me.com	2012-04-02 15:43:49	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	public.me.com-sakerk.warc.gz	29287
+sakerk	web.me.com	2012-04-02 15:43:48	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	web.me.com-sakerk.warc.gz	4063041
+thekirkmanator	gallery.me.com	2012-04-02 18:57:33	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	gallery.me.com-thekirkmanator.warc.gz	4918505400
+thekirkmanator	homepage.mac.com	2012-04-02 18:57:35	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	homepage.mac.com-thekirkmanator.warc.gz	4942
+thekirkmanator	public.me.com	2012-04-02 18:21:57	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	public.me.com-thekirkmanator.warc.gz	1486150427
+thekirkmanator	web.me.com	2012-04-02 17:42:39	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	web.me.com-thekirkmanator.warc.gz	2304163191
+zachrisson	gallery.me.com	2012-04-02 16:24:58	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	gallery.me.com-zachrisson.warc.gz	19312893
+zachrisson	homepage.mac.com	2012-04-02 16:24:58	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	homepage.mac.com-zachrisson.warc.gz	4904
+zachrisson	public.me.com	2012-04-02 16:24:17	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	public.me.com-zachrisson.warc.gz	185351705
+zachrisson	web.me.com	2012-04-02 16:20:10	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3063.tar	web.me.com-zachrisson.warc.gz	42036280

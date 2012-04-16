@@ -1,28 +1,28 @@
-a_imper	gallery.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	gallery.me.com-a_imper.warc.gz	0
-a_imper	homepage.mac.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	homepage.mac.com-a_imper.warc.gz	0
-a_imper	public.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	public.me.com-a_imper.warc.gz	0
-a_imper	web.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	web.me.com-a_imper.warc.gz	0
-bc2mc3	gallery.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	gallery.me.com-bc2mc3.warc.gz	0
-bc2mc3	homepage.mac.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	homepage.mac.com-bc2mc3.warc.gz	0
-bc2mc3	public.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	public.me.com-bc2mc3.warc.gz	0
-bc2mc3	web.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	web.me.com-bc2mc3.warc.gz	0
-jackdesrocher	gallery.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	gallery.me.com-jackdesrocher.warc.gz	0
-jackdesrocher	homepage.mac.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	homepage.mac.com-jackdesrocher.warc.gz	0
-jackdesrocher	public.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	public.me.com-jackdesrocher.warc.gz	0
-jackdesrocher	web.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	web.me.com-jackdesrocher.warc.gz	0
-jorgecortell	gallery.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	gallery.me.com-jorgecortell.warc.gz	0
-jorgecortell	homepage.mac.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	homepage.mac.com-jorgecortell.warc.gz	0
-jorgecortell	public.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	public.me.com-jorgecortell.warc.gz	0
-jorgecortell	web.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	web.me.com-jorgecortell.warc.gz	0
-louiscsmith	gallery.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	gallery.me.com-louiscsmith.warc.gz	0
-louiscsmith	homepage.mac.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	homepage.mac.com-louiscsmith.warc.gz	0
-louiscsmith	public.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	public.me.com-louiscsmith.warc.gz	0
-louiscsmith	web.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	web.me.com-louiscsmith.warc.gz	0
-mikeeyes1	gallery.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	gallery.me.com-mikeeyes1.warc.gz	0
-mikeeyes1	homepage.mac.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	homepage.mac.com-mikeeyes1.warc.gz	0
-mikeeyes1	public.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	public.me.com-mikeeyes1.warc.gz	0
-mikeeyes1	web.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	web.me.com-mikeeyes1.warc.gz	0
-muzziciano	gallery.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	gallery.me.com-muzziciano.warc.gz	0
-muzziciano	homepage.mac.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	homepage.mac.com-muzziciano.warc.gz	0
-muzziciano	public.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	public.me.com-muzziciano.warc.gz	0
-muzziciano	web.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	web.me.com-muzziciano.warc.gz	0
+a_imper	gallery.me.com	2012-04-01 04:32:29	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	gallery.me.com-a_imper.warc.gz	5924
+a_imper	homepage.mac.com	2012-04-01 04:32:57	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	homepage.mac.com-a_imper.warc.gz	1102217
+a_imper	public.me.com	2012-04-01 04:32:29	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	public.me.com-a_imper.warc.gz	1907
+a_imper	web.me.com	2012-04-01 04:32:29	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	web.me.com-a_imper.warc.gz	42957690
+bc2mc3	gallery.me.com	2012-04-01 04:49:47	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	gallery.me.com-bc2mc3.warc.gz	437220195
+bc2mc3	homepage.mac.com	2012-04-01 04:49:47	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	homepage.mac.com-bc2mc3.warc.gz	4910
+bc2mc3	public.me.com	2012-04-01 04:41:52	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	public.me.com-bc2mc3.warc.gz	3417
+bc2mc3	web.me.com	2012-04-01 04:41:45	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	web.me.com-bc2mc3.warc.gz	52923486
+jackdesrocher	gallery.me.com	2012-04-01 04:33:01	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	gallery.me.com-jackdesrocher.warc.gz	12357
+jackdesrocher	homepage.mac.com	2012-04-01 04:33:01	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	homepage.mac.com-jackdesrocher.warc.gz	7164
+jackdesrocher	public.me.com	2012-04-01 04:33:01	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	public.me.com-jackdesrocher.warc.gz	1928
+jackdesrocher	web.me.com	2012-04-01 04:33:01	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	web.me.com-jackdesrocher.warc.gz	22548
+jorgecortell	gallery.me.com	2012-04-01 05:07:19	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	gallery.me.com-jorgecortell.warc.gz	4998
+jorgecortell	homepage.mac.com	2012-04-01 05:07:19	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	homepage.mac.com-jorgecortell.warc.gz	4935
+jorgecortell	public.me.com	2012-04-01 05:07:18	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	public.me.com-jorgecortell.warc.gz	85955423
+jorgecortell	web.me.com	2012-04-01 05:05:40	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	web.me.com-jorgecortell.warc.gz	53994383
+louiscsmith	gallery.me.com	2012-04-01 04:55:59	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	gallery.me.com-louiscsmith.warc.gz	4260
+louiscsmith	homepage.mac.com	2012-04-01 04:55:59	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	homepage.mac.com-louiscsmith.warc.gz	4933
+louiscsmith	public.me.com	2012-04-01 04:55:58	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	public.me.com-louiscsmith.warc.gz	1930
+louiscsmith	web.me.com	2012-04-01 04:55:58	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	web.me.com-louiscsmith.warc.gz	16880916
+mikeeyes1	gallery.me.com	2012-04-01 06:45:36	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	gallery.me.com-mikeeyes1.warc.gz	4993304159
+mikeeyes1	homepage.mac.com	2012-04-01 06:45:37	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	homepage.mac.com-mikeeyes1.warc.gz	36906
+mikeeyes1	public.me.com	2012-04-01 05:51:49	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	public.me.com-mikeeyes1.warc.gz	1918
+mikeeyes1	web.me.com	2012-04-01 05:51:29	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	web.me.com-mikeeyes1.warc.gz	1517306504
+muzziciano	gallery.me.com	2012-04-01 04:33:03	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	gallery.me.com-muzziciano.warc.gz	12344
+muzziciano	homepage.mac.com	2012-04-01 04:33:03	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	homepage.mac.com-muzziciano.warc.gz	7172
+muzziciano	public.me.com	2012-04-01 04:33:02	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	public.me.com-muzziciano.warc.gz	1923
+muzziciano	web.me.com	2012-04-01 04:33:02	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2609.tar	web.me.com-muzziciano.warc.gz	22517

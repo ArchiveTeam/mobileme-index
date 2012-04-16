@@ -1,24 +1,24 @@
-dmanklug	gallery.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	gallery.me.com-dmanklug.warc.gz	0
-dmanklug	homepage.mac.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	homepage.mac.com-dmanklug.warc.gz	0
-dmanklug	public.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	public.me.com-dmanklug.warc.gz	0
-dmanklug	web.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	web.me.com-dmanklug.warc.gz	0
-dorothymorse	gallery.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	gallery.me.com-dorothymorse.warc.gz	0
-dorothymorse	homepage.mac.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	homepage.mac.com-dorothymorse.warc.gz	0
-dorothymorse	public.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	public.me.com-dorothymorse.warc.gz	0
-dorothymorse	web.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	web.me.com-dorothymorse.warc.gz	0
-jeremygoldman	gallery.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	gallery.me.com-jeremygoldman.warc.gz	0
-jeremygoldman	homepage.mac.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	homepage.mac.com-jeremygoldman.warc.gz	0
-jeremygoldman	public.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	public.me.com-jeremygoldman.warc.gz	0
-jeremygoldman	web.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	web.me.com-jeremygoldman.warc.gz	0
-marlajake	gallery.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	gallery.me.com-marlajake.warc.gz	0
-marlajake	homepage.mac.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	homepage.mac.com-marlajake.warc.gz	0
-marlajake	public.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	public.me.com-marlajake.warc.gz	0
-marlajake	web.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	web.me.com-marlajake.warc.gz	0
-meflett	gallery.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	gallery.me.com-meflett.warc.gz	0
-meflett	homepage.mac.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	homepage.mac.com-meflett.warc.gz	0
-meflett	public.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	public.me.com-meflett.warc.gz	0
-meflett	web.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	web.me.com-meflett.warc.gz	0
-unlandable	gallery.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	gallery.me.com-unlandable.warc.gz	0
-unlandable	homepage.mac.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	homepage.mac.com-unlandable.warc.gz	0
-unlandable	public.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	public.me.com-unlandable.warc.gz	0
-unlandable	web.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	web.me.com-unlandable.warc.gz	0
+dmanklug	gallery.me.com	2012-04-02 10:45:50	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	gallery.me.com-dmanklug.warc.gz	1573150742
+dmanklug	homepage.mac.com	2012-04-02 10:45:57	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	homepage.mac.com-dmanklug.warc.gz	135881
+dmanklug	public.me.com	2012-04-02 10:25:02	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	public.me.com-dmanklug.warc.gz	3917
+dmanklug	web.me.com	2012-04-02 10:24:59	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	web.me.com-dmanklug.warc.gz	721202949
+dorothymorse	gallery.me.com	2012-04-02 09:08:42	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	gallery.me.com-dorothymorse.warc.gz	5817
+dorothymorse	homepage.mac.com	2012-04-02 09:08:47	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	homepage.mac.com-dorothymorse.warc.gz	95357
+dorothymorse	public.me.com	2012-04-02 09:08:41	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	public.me.com-dorothymorse.warc.gz	1933
+dorothymorse	web.me.com	2012-04-02 09:08:40	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	web.me.com-dorothymorse.warc.gz	96044922
+jeremygoldman	gallery.me.com	2012-04-02 08:58:26	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	gallery.me.com-jeremygoldman.warc.gz	4684052
+jeremygoldman	homepage.mac.com	2012-04-02 08:58:26	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	homepage.mac.com-jeremygoldman.warc.gz	4931
+jeremygoldman	public.me.com	2012-04-02 08:58:21	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	public.me.com-jeremygoldman.warc.gz	1932
+jeremygoldman	web.me.com	2012-04-02 08:58:20	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	web.me.com-jeremygoldman.warc.gz	25939521
+marlajake	gallery.me.com	2012-04-02 09:12:26	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	gallery.me.com-marlajake.warc.gz	5342564
+marlajake	homepage.mac.com	2012-04-02 09:12:26	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	homepage.mac.com-marlajake.warc.gz	4916
+marlajake	public.me.com	2012-04-02 09:12:21	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	public.me.com-marlajake.warc.gz	90811052
+marlajake	web.me.com	2012-04-02 09:09:37	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	web.me.com-marlajake.warc.gz	3852135
+meflett	gallery.me.com	2012-04-02 09:15:54	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	gallery.me.com-meflett.warc.gz	59500646
+meflett	homepage.mac.com	2012-04-02 09:15:54	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	homepage.mac.com-meflett.warc.gz	4895
+meflett	public.me.com	2012-04-02 09:15:12	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	public.me.com-meflett.warc.gz	1907
+meflett	web.me.com	2012-04-02 09:15:11	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	web.me.com-meflett.warc.gz	19390150
+unlandable	gallery.me.com	2012-04-02 09:57:51	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	gallery.me.com-unlandable.warc.gz	1825545644
+unlandable	homepage.mac.com	2012-04-02 09:57:51	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	homepage.mac.com-unlandable.warc.gz	4930
+unlandable	public.me.com	2012-04-02 09:21:24	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	public.me.com-unlandable.warc.gz	1915
+unlandable	web.me.com	2012-04-02 09:21:24	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2903.tar	web.me.com-unlandable.warc.gz	68553909

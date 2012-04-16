@@ -1,24 +1,24 @@
-crossfire	gallery.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	gallery.me.com-crossfire.warc.gz	0
-crossfire	homepage.mac.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	homepage.mac.com-crossfire.warc.gz	0
-crossfire	public.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	public.me.com-crossfire.warc.gz	0
-crossfire	web.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	web.me.com-crossfire.warc.gz	0
-identitequebecoise	gallery.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	gallery.me.com-identitequebecoise.warc.gz	0
-identitequebecoise	homepage.mac.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	homepage.mac.com-identitequebecoise.warc.gz	0
-identitequebecoise	public.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	public.me.com-identitequebecoise.warc.gz	0
-identitequebecoise	web.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	web.me.com-identitequebecoise.warc.gz	0
-keigaiseiun	gallery.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	gallery.me.com-keigaiseiun.warc.gz	0
-keigaiseiun	homepage.mac.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	homepage.mac.com-keigaiseiun.warc.gz	0
-keigaiseiun	public.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	public.me.com-keigaiseiun.warc.gz	0
-keigaiseiun	web.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	web.me.com-keigaiseiun.warc.gz	0
-leung.kwok	gallery.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	gallery.me.com-leung.kwok.warc.gz	0
-leung.kwok	homepage.mac.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	homepage.mac.com-leung.kwok.warc.gz	0
-leung.kwok	public.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	public.me.com-leung.kwok.warc.gz	0
-leung.kwok	web.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	web.me.com-leung.kwok.warc.gz	0
-luckyluckyjim	gallery.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	gallery.me.com-luckyluckyjim.warc.gz	0
-luckyluckyjim	homepage.mac.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	homepage.mac.com-luckyluckyjim.warc.gz	0
-luckyluckyjim	public.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	public.me.com-luckyluckyjim.warc.gz	0
-luckyluckyjim	web.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	web.me.com-luckyluckyjim.warc.gz	0
-marvv	gallery.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	gallery.me.com-marvv.warc.gz	0
-marvv	homepage.mac.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	homepage.mac.com-marvv.warc.gz	0
-marvv	public.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	public.me.com-marvv.warc.gz	0
-marvv	web.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	web.me.com-marvv.warc.gz	0
+crossfire	gallery.me.com	2012-04-02 13:39:21	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	gallery.me.com-crossfire.warc.gz	10585554
+crossfire	homepage.mac.com	2012-04-02 13:39:22	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	homepage.mac.com-crossfire.warc.gz	4906
+crossfire	public.me.com	2012-04-02 13:38:43	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	public.me.com-crossfire.warc.gz	3330
+crossfire	web.me.com	2012-04-02 13:38:42	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	web.me.com-crossfire.warc.gz	14006063
+identitequebecoise	gallery.me.com	2012-04-02 12:46:06	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	gallery.me.com-identitequebecoise.warc.gz	12369
+identitequebecoise	homepage.mac.com	2012-04-02 12:46:06	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	homepage.mac.com-identitequebecoise.warc.gz	7179
+identitequebecoise	public.me.com	2012-04-02 12:46:05	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	public.me.com-identitequebecoise.warc.gz	1937
+identitequebecoise	web.me.com	2012-04-02 12:46:05	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	web.me.com-identitequebecoise.warc.gz	22521
+keigaiseiun	gallery.me.com	2012-04-02 13:49:11	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	gallery.me.com-keigaiseiun.warc.gz	145190209
+keigaiseiun	homepage.mac.com	2012-04-02 13:49:12	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	homepage.mac.com-keigaiseiun.warc.gz	4927
+keigaiseiun	public.me.com	2012-04-02 13:42:32	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	public.me.com-keigaiseiun.warc.gz	1921
+keigaiseiun	web.me.com	2012-04-02 13:42:31	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	web.me.com-keigaiseiun.warc.gz	15141014
+leung.kwok	gallery.me.com	2012-04-02 13:35:56	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	gallery.me.com-leung.kwok.warc.gz	277589884
+leung.kwok	homepage.mac.com	2012-04-02 13:36:05	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	homepage.mac.com-leung.kwok.warc.gz	109582
+leung.kwok	public.me.com	2012-04-02 13:30:55	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	public.me.com-leung.kwok.warc.gz	3338
+leung.kwok	web.me.com	2012-04-02 13:30:51	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	web.me.com-leung.kwok.warc.gz	536702253
+luckyluckyjim	gallery.me.com	2012-04-02 15:15:09	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	gallery.me.com-luckyluckyjim.warc.gz	1351673048
+luckyluckyjim	homepage.mac.com	2012-04-02 15:15:11	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	homepage.mac.com-luckyluckyjim.warc.gz	36930
+luckyluckyjim	public.me.com	2012-04-02 14:36:14	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	public.me.com-luckyluckyjim.warc.gz	1924
+luckyluckyjim	web.me.com	2012-04-02 14:36:03	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	web.me.com-luckyluckyjim.warc.gz	767663662
+marvv	gallery.me.com	2012-04-02 16:33:52	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	gallery.me.com-marvv.warc.gz	4999
+marvv	homepage.mac.com	2012-04-02 16:33:55	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	homepage.mac.com-marvv.warc.gz	68860
+marvv	public.me.com	2012-04-02 16:33:50	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	public.me.com-marvv.warc.gz	4167758401
+marvv	web.me.com	2012-04-02 15:16:22	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3028.tar	web.me.com-marvv.warc.gz	5678834

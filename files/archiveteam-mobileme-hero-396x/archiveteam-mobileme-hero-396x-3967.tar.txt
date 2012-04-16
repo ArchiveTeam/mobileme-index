@@ -1,8 +1,8 @@
-hisiamone	gallery.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3967.tar	gallery.me.com-hisiamone.warc.gz	0
-hisiamone	homepage.mac.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3967.tar	homepage.mac.com-hisiamone.warc.gz	0
-hisiamone	public.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3967.tar	public.me.com-hisiamone.warc.gz	0
-hisiamone	web.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3967.tar	web.me.com-hisiamone.warc.gz	0
-rholladay	gallery.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3967.tar	gallery.me.com-rholladay.warc.gz	0
-rholladay	homepage.mac.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3967.tar	homepage.mac.com-rholladay.warc.gz	0
-rholladay	public.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3967.tar	public.me.com-rholladay.warc.gz	0
-rholladay	web.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3967.tar	web.me.com-rholladay.warc.gz	0
+hisiamone	gallery.me.com	2012-04-04 21:33:55	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3967.tar	gallery.me.com-hisiamone.warc.gz	2728534818
+hisiamone	homepage.mac.com	2012-04-04 21:34:00	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3967.tar	homepage.mac.com-hisiamone.warc.gz	1092222
+hisiamone	public.me.com	2012-04-04 20:43:41	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3967.tar	public.me.com-hisiamone.warc.gz	5064295616
+hisiamone	web.me.com	2012-04-04 19:22:21	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3967.tar	web.me.com-hisiamone.warc.gz	2095899839
+rholladay	gallery.me.com	2012-04-04 18:25:34	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3967.tar	gallery.me.com-rholladay.warc.gz	64138753
+rholladay	homepage.mac.com	2012-04-04 18:25:34	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3967.tar	homepage.mac.com-rholladay.warc.gz	4923
+rholladay	public.me.com	2012-04-04 18:24:27	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3967.tar	public.me.com-rholladay.warc.gz	1916
+rholladay	web.me.com	2012-04-04 18:24:25	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3967.tar	web.me.com-rholladay.warc.gz	41691879

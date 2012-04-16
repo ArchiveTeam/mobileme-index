@@ -1,24 +1,24 @@
-josef.gevers	gallery.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	gallery.me.com-josef.gevers.warc.gz	0
-josef.gevers	homepage.mac.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	homepage.mac.com-josef.gevers.warc.gz	0
-josef.gevers	public.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	public.me.com-josef.gevers.warc.gz	0
-josef.gevers	web.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	web.me.com-josef.gevers.warc.gz	0
-nicholasngn	gallery.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	gallery.me.com-nicholasngn.warc.gz	0
-nicholasngn	homepage.mac.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	homepage.mac.com-nicholasngn.warc.gz	0
-nicholasngn	public.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	public.me.com-nicholasngn.warc.gz	0
-nicholasngn	web.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	web.me.com-nicholasngn.warc.gz	0
-quinandryan	gallery.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	gallery.me.com-quinandryan.warc.gz	0
-quinandryan	homepage.mac.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	homepage.mac.com-quinandryan.warc.gz	0
-quinandryan	public.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	public.me.com-quinandryan.warc.gz	0
-quinandryan	web.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	web.me.com-quinandryan.warc.gz	0
-rachelseldin	gallery.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	gallery.me.com-rachelseldin.warc.gz	0
-rachelseldin	homepage.mac.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	homepage.mac.com-rachelseldin.warc.gz	0
-rachelseldin	public.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	public.me.com-rachelseldin.warc.gz	0
-rachelseldin	web.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	web.me.com-rachelseldin.warc.gz	0
-selliot	gallery.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	gallery.me.com-selliot.warc.gz	0
-selliot	homepage.mac.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	homepage.mac.com-selliot.warc.gz	0
-selliot	public.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	public.me.com-selliot.warc.gz	0
-selliot	web.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	web.me.com-selliot.warc.gz	0
-xxtremehybridxx	gallery.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	gallery.me.com-xxtremehybridxx.warc.gz	0
-xxtremehybridxx	homepage.mac.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	homepage.mac.com-xxtremehybridxx.warc.gz	0
-xxtremehybridxx	public.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	public.me.com-xxtremehybridxx.warc.gz	0
-xxtremehybridxx	web.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	web.me.com-xxtremehybridxx.warc.gz	0
+josef.gevers	gallery.me.com	2012-04-05 04:32:51	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	gallery.me.com-josef.gevers.warc.gz	4311
+josef.gevers	homepage.mac.com	2012-04-05 04:32:51	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	homepage.mac.com-josef.gevers.warc.gz	4928
+josef.gevers	public.me.com	2012-04-05 04:32:50	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	public.me.com-josef.gevers.warc.gz	1930
+josef.gevers	web.me.com	2012-04-05 04:32:50	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	web.me.com-josef.gevers.warc.gz	79230801
+nicholasngn	gallery.me.com	2012-04-05 04:32:54	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	gallery.me.com-nicholasngn.warc.gz	12345
+nicholasngn	homepage.mac.com	2012-04-05 04:32:55	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	homepage.mac.com-nicholasngn.warc.gz	7167
+nicholasngn	public.me.com	2012-04-05 04:32:54	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	public.me.com-nicholasngn.warc.gz	1918
+nicholasngn	web.me.com	2012-04-05 04:32:53	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	web.me.com-nicholasngn.warc.gz	22508
+quinandryan	gallery.me.com	2012-04-05 04:26:39	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	gallery.me.com-quinandryan.warc.gz	1351253567
+quinandryan	homepage.mac.com	2012-04-05 04:26:39	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	homepage.mac.com-quinandryan.warc.gz	4912
+quinandryan	public.me.com	2012-04-05 04:12:58	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	public.me.com-quinandryan.warc.gz	156735353
+quinandryan	web.me.com	2012-04-05 04:11:58	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	web.me.com-quinandryan.warc.gz	206817975
+rachelseldin	gallery.me.com	2012-04-05 04:33:11	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	gallery.me.com-rachelseldin.warc.gz	4298
+rachelseldin	homepage.mac.com	2012-04-05 04:33:11	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	homepage.mac.com-rachelseldin.warc.gz	4928
+rachelseldin	public.me.com	2012-04-05 04:33:10	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	public.me.com-rachelseldin.warc.gz	1926
+rachelseldin	web.me.com	2012-04-05 04:33:10	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	web.me.com-rachelseldin.warc.gz	1001545
+selliot	gallery.me.com	2012-04-05 03:46:16	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	gallery.me.com-selliot.warc.gz	50762606
+selliot	homepage.mac.com	2012-04-05 03:46:16	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	homepage.mac.com-selliot.warc.gz	4910
+selliot	public.me.com	2012-04-05 03:45:43	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	public.me.com-selliot.warc.gz	1909
+selliot	web.me.com	2012-04-05 03:45:43	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	web.me.com-selliot.warc.gz	11745538
+xxtremehybridxx	gallery.me.com	2012-04-05 06:00:51	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	gallery.me.com-xxtremehybridxx.warc.gz	4746736473
+xxtremehybridxx	homepage.mac.com	2012-04-05 06:00:51	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	homepage.mac.com-xxtremehybridxx.warc.gz	4924
+xxtremehybridxx	public.me.com	2012-04-05 04:47:16	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	public.me.com-xxtremehybridxx.warc.gz	311665097
+xxtremehybridxx	web.me.com	2012-04-05 04:40:09	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4115.tar	web.me.com-xxtremehybridxx.warc.gz	25137917

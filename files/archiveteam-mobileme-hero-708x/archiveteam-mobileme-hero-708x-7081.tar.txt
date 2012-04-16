@@ -1,20 +1,20 @@
-antoinesaker	gallery.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	gallery.me.com-antoinesaker.warc.gz	0
-antoinesaker	homepage.mac.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	homepage.mac.com-antoinesaker.warc.gz	0
-antoinesaker	public.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	public.me.com-antoinesaker.warc.gz	0
-antoinesaker	web.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	web.me.com-antoinesaker.warc.gz	0
-companyfabric	gallery.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	gallery.me.com-companyfabric.warc.gz	0
-companyfabric	homepage.mac.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	homepage.mac.com-companyfabric.warc.gz	0
-companyfabric	public.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	public.me.com-companyfabric.warc.gz	0
-companyfabric	web.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	web.me.com-companyfabric.warc.gz	0
-dvac	gallery.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	gallery.me.com-dvac.warc.gz	0
-dvac	homepage.mac.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	homepage.mac.com-dvac.warc.gz	0
-dvac	public.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	public.me.com-dvac.warc.gz	0
-dvac	web.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	web.me.com-dvac.warc.gz	0
-hoshino	gallery.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	gallery.me.com-hoshino.warc.gz	0
-hoshino	homepage.mac.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	homepage.mac.com-hoshino.warc.gz	0
-hoshino	public.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	public.me.com-hoshino.warc.gz	0
-hoshino	web.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	web.me.com-hoshino.warc.gz	0
-huestegge	gallery.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	gallery.me.com-huestegge.warc.gz	0
-huestegge	homepage.mac.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	homepage.mac.com-huestegge.warc.gz	0
-huestegge	public.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	public.me.com-huestegge.warc.gz	0
-huestegge	web.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	web.me.com-huestegge.warc.gz	0
+antoinesaker	gallery.me.com	2012-04-13 00:11:19	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	gallery.me.com-antoinesaker.warc.gz	5675
+antoinesaker	homepage.mac.com	2012-04-13 00:11:19	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	homepage.mac.com-antoinesaker.warc.gz	4935
+antoinesaker	public.me.com	2012-04-13 00:11:18	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	public.me.com-antoinesaker.warc.gz	1921
+antoinesaker	web.me.com	2012-04-13 00:11:18	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	web.me.com-antoinesaker.warc.gz	39764907
+companyfabric	gallery.me.com	2012-04-13 03:22:37	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	gallery.me.com-companyfabric.warc.gz	4268
+companyfabric	homepage.mac.com	2012-04-13 03:22:37	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	homepage.mac.com-companyfabric.warc.gz	4939
+companyfabric	public.me.com	2012-04-13 03:22:37	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	public.me.com-companyfabric.warc.gz	5073651825
+companyfabric	web.me.com	2012-04-13 01:37:00	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	web.me.com-companyfabric.warc.gz	16296816
+dvac	gallery.me.com	2012-04-13 01:33:03	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	gallery.me.com-dvac.warc.gz	4997
+dvac	homepage.mac.com	2012-04-13 01:33:03	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	homepage.mac.com-dvac.warc.gz	4895
+dvac	public.me.com	2012-04-13 01:33:01	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	public.me.com-dvac.warc.gz	1906
+dvac	web.me.com	2012-04-13 01:32:57	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	web.me.com-dvac.warc.gz	2951963320
+hoshino	gallery.me.com	2012-04-13 00:44:34	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	gallery.me.com-hoshino.warc.gz	258590551
+hoshino	homepage.mac.com	2012-04-13 00:44:48	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	homepage.mac.com-hoshino.warc.gz	119689
+hoshino	public.me.com	2012-04-13 00:28:34	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	public.me.com-hoshino.warc.gz	1915
+hoshino	web.me.com	2012-04-13 00:28:33	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	web.me.com-hoshino.warc.gz	111063019
+huestegge	gallery.me.com	2012-04-13 00:55:44	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	gallery.me.com-huestegge.warc.gz	284583753
+huestegge	homepage.mac.com	2012-04-13 00:56:26	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	homepage.mac.com-huestegge.warc.gz	600851
+huestegge	public.me.com	2012-04-13 00:46:57	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	public.me.com-huestegge.warc.gz	1920
+huestegge	web.me.com	2012-04-13 00:46:57	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7081.tar	web.me.com-huestegge.warc.gz	31051937

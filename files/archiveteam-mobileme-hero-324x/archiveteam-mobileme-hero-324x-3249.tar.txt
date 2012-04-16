@@ -1,20 +1,20 @@
-dwsteiner	gallery.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	gallery.me.com-dwsteiner.warc.gz	0
-dwsteiner	homepage.mac.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	homepage.mac.com-dwsteiner.warc.gz	0
-dwsteiner	public.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	public.me.com-dwsteiner.warc.gz	0
-dwsteiner	web.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	web.me.com-dwsteiner.warc.gz	0
-pohl.pmc	gallery.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	gallery.me.com-pohl.pmc.warc.gz	0
-pohl.pmc	homepage.mac.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	homepage.mac.com-pohl.pmc.warc.gz	0
-pohl.pmc	public.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	public.me.com-pohl.pmc.warc.gz	0
-pohl.pmc	web.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	web.me.com-pohl.pmc.warc.gz	0
-skoolcraft	gallery.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	gallery.me.com-skoolcraft.warc.gz	0
-skoolcraft	homepage.mac.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	homepage.mac.com-skoolcraft.warc.gz	0
-skoolcraft	public.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	public.me.com-skoolcraft.warc.gz	0
-skoolcraft	web.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	web.me.com-skoolcraft.warc.gz	0
-szmigiel	gallery.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	gallery.me.com-szmigiel.warc.gz	0
-szmigiel	homepage.mac.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	homepage.mac.com-szmigiel.warc.gz	0
-szmigiel	public.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	public.me.com-szmigiel.warc.gz	0
-szmigiel	web.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	web.me.com-szmigiel.warc.gz	0
-victoria_davies	gallery.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	gallery.me.com-victoria_davies.warc.gz	0
-victoria_davies	homepage.mac.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	homepage.mac.com-victoria_davies.warc.gz	0
-victoria_davies	public.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	public.me.com-victoria_davies.warc.gz	0
-victoria_davies	web.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	web.me.com-victoria_davies.warc.gz	0
+dwsteiner	gallery.me.com	2012-04-03 03:42:06	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	gallery.me.com-dwsteiner.warc.gz	236096402
+dwsteiner	homepage.mac.com	2012-04-03 03:42:06	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	homepage.mac.com-dwsteiner.warc.gz	4915
+dwsteiner	public.me.com	2012-04-03 03:36:12	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	public.me.com-dwsteiner.warc.gz	613700170
+dwsteiner	web.me.com	2012-04-03 03:28:22	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	web.me.com-dwsteiner.warc.gz	280824821
+pohl.pmc	gallery.me.com	2012-04-03 04:47:22	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	gallery.me.com-pohl.pmc.warc.gz	2754673846
+pohl.pmc	homepage.mac.com	2012-04-03 04:47:22	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	homepage.mac.com-pohl.pmc.warc.gz	7875
+pohl.pmc	public.me.com	2012-04-03 04:11:41	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	public.me.com-pohl.pmc.warc.gz	41243647
+pohl.pmc	web.me.com	2012-04-03 04:11:29	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	web.me.com-pohl.pmc.warc.gz	13129889
+skoolcraft	gallery.me.com	2012-04-03 04:06:39	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	gallery.me.com-skoolcraft.warc.gz	43710965
+skoolcraft	homepage.mac.com	2012-04-03 04:06:39	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	homepage.mac.com-skoolcraft.warc.gz	4913
+skoolcraft	public.me.com	2012-04-03 04:05:38	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	public.me.com-skoolcraft.warc.gz	739664232
+skoolcraft	web.me.com	2012-04-03 03:55:31	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	web.me.com-skoolcraft.warc.gz	10520315
+szmigiel	gallery.me.com	2012-04-03 03:42:39	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	gallery.me.com-szmigiel.warc.gz	123219
+szmigiel	homepage.mac.com	2012-04-03 03:42:56	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	homepage.mac.com-szmigiel.warc.gz	285241
+szmigiel	public.me.com	2012-04-03 03:42:37	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	public.me.com-szmigiel.warc.gz	1919
+szmigiel	web.me.com	2012-04-03 03:42:37	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	web.me.com-szmigiel.warc.gz	10767945
+victoria_davies	gallery.me.com	2012-04-03 03:53:19	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	gallery.me.com-victoria_davies.warc.gz	5175
+victoria_davies	homepage.mac.com	2012-04-03 03:53:19	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	homepage.mac.com-victoria_davies.warc.gz	4943
+victoria_davies	public.me.com	2012-04-03 03:53:18	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	public.me.com-victoria_davies.warc.gz	1931
+victoria_davies	web.me.com	2012-04-03 03:53:17	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3249.tar	web.me.com-victoria_davies.warc.gz	70437619

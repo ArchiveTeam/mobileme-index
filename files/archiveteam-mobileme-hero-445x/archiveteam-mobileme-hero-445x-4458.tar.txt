@@ -1,24 +1,24 @@
-cjkm1016	gallery.me.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	gallery.me.com-cjkm1016.warc.gz	0
-cjkm1016	homepage.mac.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	homepage.mac.com-cjkm1016.warc.gz	0
-cjkm1016	public.me.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	public.me.com-cjkm1016.warc.gz	0
-cjkm1016	web.me.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	web.me.com-cjkm1016.warc.gz	0
-eseiter	gallery.me.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	gallery.me.com-eseiter.warc.gz	0
-eseiter	homepage.mac.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	homepage.mac.com-eseiter.warc.gz	0
-eseiter	public.me.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	public.me.com-eseiter.warc.gz	0
-eseiter	web.me.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	web.me.com-eseiter.warc.gz	0
-fig.llc.interactive	gallery.me.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	gallery.me.com-fig.llc.interactive.warc.gz	0
-fig.llc.interactive	homepage.mac.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	homepage.mac.com-fig.llc.interactive.warc.gz	0
-fig.llc.interactive	public.me.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	public.me.com-fig.llc.interactive.warc.gz	0
-fig.llc.interactive	web.me.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	web.me.com-fig.llc.interactive.warc.gz	0
-nkokot	gallery.me.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	gallery.me.com-nkokot.warc.gz	0
-nkokot	homepage.mac.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	homepage.mac.com-nkokot.warc.gz	0
-nkokot	public.me.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	public.me.com-nkokot.warc.gz	0
-nkokot	web.me.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	web.me.com-nkokot.warc.gz	0
-rhvfd13	gallery.me.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	gallery.me.com-rhvfd13.warc.gz	0
-rhvfd13	homepage.mac.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	homepage.mac.com-rhvfd13.warc.gz	0
-rhvfd13	public.me.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	public.me.com-rhvfd13.warc.gz	0
-rhvfd13	web.me.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	web.me.com-rhvfd13.warc.gz	0
-tinturierclaude.	gallery.me.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	gallery.me.com-tinturierclaude..warc.gz	0
-tinturierclaude.	homepage.mac.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	homepage.mac.com-tinturierclaude..warc.gz	0
-tinturierclaude.	public.me.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	public.me.com-tinturierclaude..warc.gz	0
-tinturierclaude.	web.me.com		archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	web.me.com-tinturierclaude..warc.gz	0
+cjkm1016	gallery.me.com	2012-04-06 01:24:12	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	gallery.me.com-cjkm1016.warc.gz	3999178456
+cjkm1016	homepage.mac.com	2012-04-06 01:24:13	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	homepage.mac.com-cjkm1016.warc.gz	4917
+cjkm1016	public.me.com	2012-04-05 23:58:17	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	public.me.com-cjkm1016.warc.gz	3403
+cjkm1016	web.me.com	2012-04-05 23:58:11	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	web.me.com-cjkm1016.warc.gz	657322831
+eseiter	gallery.me.com	2012-04-05 22:35:45	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	gallery.me.com-eseiter.warc.gz	140786
+eseiter	homepage.mac.com	2012-04-05 22:35:46	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	homepage.mac.com-eseiter.warc.gz	4886
+eseiter	public.me.com	2012-04-05 22:35:44	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	public.me.com-eseiter.warc.gz	264833
+eseiter	web.me.com	2012-04-05 22:35:43	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	web.me.com-eseiter.warc.gz	57560
+fig.llc.interactive	gallery.me.com	2012-04-05 22:35:34	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	gallery.me.com-fig.llc.interactive.warc.gz	12359
+fig.llc.interactive	homepage.mac.com	2012-04-05 22:35:34	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	homepage.mac.com-fig.llc.interactive.warc.gz	7189
+fig.llc.interactive	public.me.com	2012-04-05 22:35:34	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	public.me.com-fig.llc.interactive.warc.gz	1937
+fig.llc.interactive	web.me.com	2012-04-05 22:35:33	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	web.me.com-fig.llc.interactive.warc.gz	22566
+nkokot	gallery.me.com	2012-04-05 22:35:37	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	gallery.me.com-nkokot.warc.gz	12323
+nkokot	homepage.mac.com	2012-04-05 22:35:37	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	homepage.mac.com-nkokot.warc.gz	7146
+nkokot	public.me.com	2012-04-05 22:35:36	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	public.me.com-nkokot.warc.gz	1906
+nkokot	web.me.com	2012-04-05 22:35:36	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	web.me.com-nkokot.warc.gz	22440
+rhvfd13	gallery.me.com	2012-04-05 22:35:31	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	gallery.me.com-rhvfd13.warc.gz	8330
+rhvfd13	homepage.mac.com	2012-04-05 22:35:32	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	homepage.mac.com-rhvfd13.warc.gz	5165
+rhvfd13	public.me.com	2012-04-05 22:35:31	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	public.me.com-rhvfd13.warc.gz	1906
+rhvfd13	web.me.com	2012-04-05 22:35:30	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	web.me.com-rhvfd13.warc.gz	17640
+tinturierclaude.	gallery.me.com	2012-04-05 22:35:39	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	gallery.me.com-tinturierclaude..warc.gz	8388
+tinturierclaude.	homepage.mac.com	2012-04-05 22:35:39	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	homepage.mac.com-tinturierclaude..warc.gz	5173
+tinturierclaude.	public.me.com	2012-04-05 22:35:38	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	public.me.com-tinturierclaude..warc.gz	1931
+tinturierclaude.	web.me.com	2012-04-05 22:35:38	archiveteam-mobileme-hero-445x	archiveteam-mobileme-hero-445x-4458.tar	web.me.com-tinturierclaude..warc.gz	17783

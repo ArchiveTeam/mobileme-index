@@ -1,20 +1,20 @@
-beaumarc	gallery.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	gallery.me.com-beaumarc.warc.gz	0
-beaumarc	homepage.mac.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	homepage.mac.com-beaumarc.warc.gz	0
-beaumarc	public.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	public.me.com-beaumarc.warc.gz	0
-beaumarc	web.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	web.me.com-beaumarc.warc.gz	0
-cnr1089	gallery.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	gallery.me.com-cnr1089.warc.gz	0
-cnr1089	homepage.mac.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	homepage.mac.com-cnr1089.warc.gz	0
-cnr1089	public.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	public.me.com-cnr1089.warc.gz	0
-cnr1089	web.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	web.me.com-cnr1089.warc.gz	0
-lindsayrd	gallery.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	gallery.me.com-lindsayrd.warc.gz	0
-lindsayrd	homepage.mac.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	homepage.mac.com-lindsayrd.warc.gz	0
-lindsayrd	public.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	public.me.com-lindsayrd.warc.gz	0
-lindsayrd	web.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	web.me.com-lindsayrd.warc.gz	0
-polthorn	gallery.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	gallery.me.com-polthorn.warc.gz	0
-polthorn	homepage.mac.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	homepage.mac.com-polthorn.warc.gz	0
-polthorn	public.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	public.me.com-polthorn.warc.gz	0
-polthorn	web.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	web.me.com-polthorn.warc.gz	0
-rich.mcmullin	gallery.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	gallery.me.com-rich.mcmullin.warc.gz	0
-rich.mcmullin	homepage.mac.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	homepage.mac.com-rich.mcmullin.warc.gz	0
-rich.mcmullin	public.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	public.me.com-rich.mcmullin.warc.gz	0
-rich.mcmullin	web.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	web.me.com-rich.mcmullin.warc.gz	0
+beaumarc	gallery.me.com	2012-04-09 09:53:41	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	gallery.me.com-beaumarc.warc.gz	14501261
+beaumarc	homepage.mac.com	2012-04-09 09:53:41	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	homepage.mac.com-beaumarc.warc.gz	4913
+beaumarc	public.me.com	2012-04-09 09:53:29	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	public.me.com-beaumarc.warc.gz	1003123159
+beaumarc	web.me.com	2012-04-09 09:49:08	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	web.me.com-beaumarc.warc.gz	70500
+cnr1089	gallery.me.com	2012-04-09 14:16:18	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	gallery.me.com-cnr1089.warc.gz	4643032897
+cnr1089	homepage.mac.com	2012-04-09 14:18:23	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	homepage.mac.com-cnr1089.warc.gz	2505822
+cnr1089	public.me.com	2012-04-09 13:15:13	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	public.me.com-cnr1089.warc.gz	23862
+cnr1089	web.me.com	2012-04-09 13:14:02	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	web.me.com-cnr1089.warc.gz	3140377962
+lindsayrd	gallery.me.com	2012-04-09 08:55:36	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	gallery.me.com-lindsayrd.warc.gz	421903495
+lindsayrd	homepage.mac.com	2012-04-09 08:55:36	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	homepage.mac.com-lindsayrd.warc.gz	4926
+lindsayrd	public.me.com	2012-04-09 08:49:27	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	public.me.com-lindsayrd.warc.gz	1923
+lindsayrd	web.me.com	2012-04-09 08:49:26	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	web.me.com-lindsayrd.warc.gz	34286756
+polthorn	gallery.me.com	2012-04-09 09:48:54	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	gallery.me.com-polthorn.warc.gz	744333883
+polthorn	homepage.mac.com	2012-04-09 09:48:54	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	homepage.mac.com-polthorn.warc.gz	3369
+polthorn	public.me.com	2012-04-09 09:15:32	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	public.me.com-polthorn.warc.gz	1906
+polthorn	web.me.com	2012-04-09 09:15:27	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	web.me.com-polthorn.warc.gz	235046167
+rich.mcmullin	gallery.me.com	2012-04-09 08:46:28	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	gallery.me.com-rich.mcmullin.warc.gz	5344
+rich.mcmullin	homepage.mac.com	2012-04-09 08:46:29	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	homepage.mac.com-rich.mcmullin.warc.gz	7911
+rich.mcmullin	public.me.com	2012-04-09 08:46:28	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	public.me.com-rich.mcmullin.warc.gz	1928
+rich.mcmullin	web.me.com	2012-04-09 08:46:27	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5509.tar	web.me.com-rich.mcmullin.warc.gz	6052963

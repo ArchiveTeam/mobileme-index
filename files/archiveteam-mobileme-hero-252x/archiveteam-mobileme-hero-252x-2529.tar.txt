@@ -1,16 +1,16 @@
-kathyz111	gallery.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	gallery.me.com-kathyz111.warc.gz	0
-kathyz111	homepage.mac.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	homepage.mac.com-kathyz111.warc.gz	0
-kathyz111	public.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	public.me.com-kathyz111.warc.gz	0
-kathyz111	web.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	web.me.com-kathyz111.warc.gz	0
-martyyounkin	gallery.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	gallery.me.com-martyyounkin.warc.gz	0
-martyyounkin	homepage.mac.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	homepage.mac.com-martyyounkin.warc.gz	0
-martyyounkin	public.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	public.me.com-martyyounkin.warc.gz	0
-martyyounkin	web.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	web.me.com-martyyounkin.warc.gz	0
-tpetrey	gallery.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	gallery.me.com-tpetrey.warc.gz	0
-tpetrey	homepage.mac.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	homepage.mac.com-tpetrey.warc.gz	0
-tpetrey	public.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	public.me.com-tpetrey.warc.gz	0
-tpetrey	web.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	web.me.com-tpetrey.warc.gz	0
-vernierengine	gallery.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	gallery.me.com-vernierengine.warc.gz	0
-vernierengine	homepage.mac.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	homepage.mac.com-vernierengine.warc.gz	0
-vernierengine	public.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	public.me.com-vernierengine.warc.gz	0
-vernierengine	web.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	web.me.com-vernierengine.warc.gz	0
+kathyz111	gallery.me.com	2012-03-31 21:40:44	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	gallery.me.com-kathyz111.warc.gz	4239
+kathyz111	homepage.mac.com	2012-03-31 21:40:44	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	homepage.mac.com-kathyz111.warc.gz	4932
+kathyz111	public.me.com	2012-03-31 21:40:43	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	public.me.com-kathyz111.warc.gz	1919
+kathyz111	web.me.com	2012-03-31 21:40:43	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	web.me.com-kathyz111.warc.gz	13023012
+martyyounkin	gallery.me.com	2012-03-31 21:39:26	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	gallery.me.com-martyyounkin.warc.gz	4269
+martyyounkin	homepage.mac.com	2012-03-31 21:39:26	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	homepage.mac.com-martyyounkin.warc.gz	4913
+martyyounkin	public.me.com	2012-03-31 21:39:25	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	public.me.com-martyyounkin.warc.gz	1940
+martyyounkin	web.me.com	2012-03-31 21:39:25	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	web.me.com-martyyounkin.warc.gz	6641593
+tpetrey	gallery.me.com	2012-03-31 22:07:32	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	gallery.me.com-tpetrey.warc.gz	2126282731
+tpetrey	homepage.mac.com	2012-03-31 22:07:32	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	homepage.mac.com-tpetrey.warc.gz	4910
+tpetrey	public.me.com	2012-03-31 21:48:05	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	public.me.com-tpetrey.warc.gz	131002562
+tpetrey	web.me.com	2012-03-31 21:45:53	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	web.me.com-tpetrey.warc.gz	112537151
+vernierengine	gallery.me.com	2012-03-31 23:00:21	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	gallery.me.com-vernierengine.warc.gz	3061663975
+vernierengine	homepage.mac.com	2012-03-31 23:00:29	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	homepage.mac.com-vernierengine.warc.gz	206154
+vernierengine	public.me.com	2012-03-31 22:32:51	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	public.me.com-vernierengine.warc.gz	1927
+vernierengine	web.me.com	2012-03-31 22:32:51	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2529.tar	web.me.com-vernierengine.warc.gz	1263902148

@@ -1,16 +1,16 @@
-billsnook	gallery.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	gallery.me.com-billsnook.warc.gz	0
-billsnook	homepage.mac.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	homepage.mac.com-billsnook.warc.gz	0
-billsnook	public.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	public.me.com-billsnook.warc.gz	0
-billsnook	web.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	web.me.com-billsnook.warc.gz	0
-joe.schwyter	gallery.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	gallery.me.com-joe.schwyter.warc.gz	0
-joe.schwyter	homepage.mac.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	homepage.mac.com-joe.schwyter.warc.gz	0
-joe.schwyter	public.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	public.me.com-joe.schwyter.warc.gz	0
-joe.schwyter	web.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	web.me.com-joe.schwyter.warc.gz	0
-ryanhalliday	gallery.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	gallery.me.com-ryanhalliday.warc.gz	0
-ryanhalliday	homepage.mac.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	homepage.mac.com-ryanhalliday.warc.gz	0
-ryanhalliday	public.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	public.me.com-ryanhalliday.warc.gz	0
-ryanhalliday	web.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	web.me.com-ryanhalliday.warc.gz	0
-stefbila	gallery.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	gallery.me.com-stefbila.warc.gz	0
-stefbila	homepage.mac.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	homepage.mac.com-stefbila.warc.gz	0
-stefbila	public.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	public.me.com-stefbila.warc.gz	0
-stefbila	web.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	web.me.com-stefbila.warc.gz	0
+billsnook	gallery.me.com	2012-04-04 05:16:00	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	gallery.me.com-billsnook.warc.gz	4235
+billsnook	homepage.mac.com	2012-04-04 05:16:00	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	homepage.mac.com-billsnook.warc.gz	3695
+billsnook	public.me.com	2012-04-04 05:15:58	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	public.me.com-billsnook.warc.gz	245472
+billsnook	web.me.com	2012-04-04 05:15:34	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	web.me.com-billsnook.warc.gz	7450
+joe.schwyter	gallery.me.com	2012-04-04 09:24:11	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	gallery.me.com-joe.schwyter.warc.gz	74710385
+joe.schwyter	homepage.mac.com	2012-04-04 09:24:16	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	homepage.mac.com-joe.schwyter.warc.gz	75576
+joe.schwyter	public.me.com	2012-04-04 09:22:08	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	public.me.com-joe.schwyter.warc.gz	3877986305
+joe.schwyter	web.me.com	2012-04-04 08:24:57	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	web.me.com-joe.schwyter.warc.gz	52869414
+ryanhalliday	gallery.me.com	2012-04-04 08:19:39	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	gallery.me.com-ryanhalliday.warc.gz	48721744
+ryanhalliday	homepage.mac.com	2012-04-04 08:19:39	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	homepage.mac.com-ryanhalliday.warc.gz	4908
+ryanhalliday	public.me.com	2012-04-04 08:18:01	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	public.me.com-ryanhalliday.warc.gz	130827149
+ryanhalliday	web.me.com	2012-04-04 08:12:10	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	web.me.com-ryanhalliday.warc.gz	4913520
+stefbila	gallery.me.com	2012-04-04 08:09:18	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	gallery.me.com-stefbila.warc.gz	607489934
+stefbila	homepage.mac.com	2012-04-04 08:09:20	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	homepage.mac.com-stefbila.warc.gz	4909
+stefbila	public.me.com	2012-04-04 07:56:59	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	public.me.com-stefbila.warc.gz	239284222
+stefbila	web.me.com	2012-04-04 07:46:24	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3755.tar	web.me.com-stefbila.warc.gz	2520861982

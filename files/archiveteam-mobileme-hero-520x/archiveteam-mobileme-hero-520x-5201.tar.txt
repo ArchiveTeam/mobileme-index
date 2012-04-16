@@ -1,16 +1,16 @@
-nancybillings	gallery.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	gallery.me.com-nancybillings.warc.gz	0
-nancybillings	homepage.mac.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	homepage.mac.com-nancybillings.warc.gz	0
-nancybillings	public.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	public.me.com-nancybillings.warc.gz	0
-nancybillings	web.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	web.me.com-nancybillings.warc.gz	0
-sahlman	gallery.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	gallery.me.com-sahlman.warc.gz	0
-sahlman	homepage.mac.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	homepage.mac.com-sahlman.warc.gz	0
-sahlman	public.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	public.me.com-sahlman.warc.gz	0
-sahlman	web.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	web.me.com-sahlman.warc.gz	0
-terre.en.vue	gallery.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	gallery.me.com-terre.en.vue.warc.gz	0
-terre.en.vue	homepage.mac.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	homepage.mac.com-terre.en.vue.warc.gz	0
-terre.en.vue	public.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	public.me.com-terre.en.vue.warc.gz	0
-terre.en.vue	web.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	web.me.com-terre.en.vue.warc.gz	0
-tokyo_geelong	gallery.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	gallery.me.com-tokyo_geelong.warc.gz	0
-tokyo_geelong	homepage.mac.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	homepage.mac.com-tokyo_geelong.warc.gz	0
-tokyo_geelong	public.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	public.me.com-tokyo_geelong.warc.gz	0
-tokyo_geelong	web.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	web.me.com-tokyo_geelong.warc.gz	0
+nancybillings	gallery.me.com	2012-04-08 20:34:26	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	gallery.me.com-nancybillings.warc.gz	1149023
+nancybillings	homepage.mac.com	2012-04-08 20:34:26	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	homepage.mac.com-nancybillings.warc.gz	4908
+nancybillings	public.me.com	2012-04-08 20:34:23	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	public.me.com-nancybillings.warc.gz	1928
+nancybillings	web.me.com	2012-04-08 20:34:21	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	web.me.com-nancybillings.warc.gz	11394078
+sahlman	gallery.me.com	2012-04-08 20:32:17	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	gallery.me.com-sahlman.warc.gz	575756010
+sahlman	homepage.mac.com	2012-04-08 20:32:17	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	homepage.mac.com-sahlman.warc.gz	4895
+sahlman	public.me.com	2012-04-08 20:16:51	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	public.me.com-sahlman.warc.gz	369463717
+sahlman	web.me.com	2012-04-08 20:14:05	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	web.me.com-sahlman.warc.gz	94943921
+terre.en.vue	gallery.me.com	2012-04-08 21:52:53	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	gallery.me.com-terre.en.vue.warc.gz	825603827
+terre.en.vue	homepage.mac.com	2012-04-08 21:52:53	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	homepage.mac.com-terre.en.vue.warc.gz	4923
+terre.en.vue	public.me.com	2012-04-08 21:34:58	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	public.me.com-terre.en.vue.warc.gz	2209859321
+terre.en.vue	web.me.com	2012-04-08 21:01:07	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	web.me.com-terre.en.vue.warc.gz	446890483
+tokyo_geelong	gallery.me.com	2012-04-08 20:04:28	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	gallery.me.com-tokyo_geelong.warc.gz	8372
+tokyo_geelong	homepage.mac.com	2012-04-08 20:04:28	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	homepage.mac.com-tokyo_geelong.warc.gz	5196
+tokyo_geelong	public.me.com	2012-04-08 20:04:28	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	public.me.com-tokyo_geelong.warc.gz	1931
+tokyo_geelong	web.me.com	2012-04-08 20:04:27	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5201.tar	web.me.com-tokyo_geelong.warc.gz	17779

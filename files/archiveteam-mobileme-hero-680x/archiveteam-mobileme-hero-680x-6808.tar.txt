@@ -1,32 +1,32 @@
-bublio	gallery.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	gallery.me.com-bublio.warc.gz	0
-bublio	homepage.mac.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	homepage.mac.com-bublio.warc.gz	0
-bublio	public.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	public.me.com-bublio.warc.gz	0
-bublio	web.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	web.me.com-bublio.warc.gz	0
-elainedeatherage	gallery.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	gallery.me.com-elainedeatherage.warc.gz	0
-elainedeatherage	homepage.mac.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	homepage.mac.com-elainedeatherage.warc.gz	0
-elainedeatherage	public.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	public.me.com-elainedeatherage.warc.gz	0
-elainedeatherage	web.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	web.me.com-elainedeatherage.warc.gz	0
-larastjohn	gallery.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	gallery.me.com-larastjohn.warc.gz	0
-larastjohn	homepage.mac.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	homepage.mac.com-larastjohn.warc.gz	0
-larastjohn	public.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	public.me.com-larastjohn.warc.gz	0
-larastjohn	web.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	web.me.com-larastjohn.warc.gz	0
-mgambuzza	gallery.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	gallery.me.com-mgambuzza.warc.gz	0
-mgambuzza	homepage.mac.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	homepage.mac.com-mgambuzza.warc.gz	0
-mgambuzza	public.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	public.me.com-mgambuzza.warc.gz	0
-mgambuzza	web.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	web.me.com-mgambuzza.warc.gz	0
-mogulme	gallery.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	gallery.me.com-mogulme.warc.gz	0
-mogulme	homepage.mac.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	homepage.mac.com-mogulme.warc.gz	0
-mogulme	public.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	public.me.com-mogulme.warc.gz	0
-mogulme	web.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	web.me.com-mogulme.warc.gz	0
-nil_by_mouth	gallery.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	gallery.me.com-nil_by_mouth.warc.gz	0
-nil_by_mouth	homepage.mac.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	homepage.mac.com-nil_by_mouth.warc.gz	0
-nil_by_mouth	public.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	public.me.com-nil_by_mouth.warc.gz	0
-nil_by_mouth	web.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	web.me.com-nil_by_mouth.warc.gz	0
-richmondschool	gallery.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	gallery.me.com-richmondschool.warc.gz	0
-richmondschool	homepage.mac.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	homepage.mac.com-richmondschool.warc.gz	0
-richmondschool	public.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	public.me.com-richmondschool.warc.gz	0
-richmondschool	web.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	web.me.com-richmondschool.warc.gz	0
-zchadfield	gallery.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	gallery.me.com-zchadfield.warc.gz	0
-zchadfield	homepage.mac.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	homepage.mac.com-zchadfield.warc.gz	0
-zchadfield	public.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	public.me.com-zchadfield.warc.gz	0
-zchadfield	web.me.com		archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	web.me.com-zchadfield.warc.gz	0
+bublio	gallery.me.com	2012-04-12 08:19:58	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	gallery.me.com-bublio.warc.gz	195422766
+bublio	homepage.mac.com	2012-04-12 08:19:58	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	homepage.mac.com-bublio.warc.gz	4887
+bublio	public.me.com	2012-04-12 08:13:23	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	public.me.com-bublio.warc.gz	1917
+bublio	web.me.com	2012-04-12 08:13:22	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	web.me.com-bublio.warc.gz	4738570
+elainedeatherage	gallery.me.com	2012-04-12 11:19:43	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	gallery.me.com-elainedeatherage.warc.gz	501280498
+elainedeatherage	homepage.mac.com	2012-04-12 11:19:44	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	homepage.mac.com-elainedeatherage.warc.gz	4918
+elainedeatherage	public.me.com	2012-04-12 10:48:42	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	public.me.com-elainedeatherage.warc.gz	693630656
+elainedeatherage	web.me.com	2012-04-12 10:29:16	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	web.me.com-elainedeatherage.warc.gz	1690472068
+larastjohn	gallery.me.com	2012-04-12 13:14:35	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	gallery.me.com-larastjohn.warc.gz	7046730
+larastjohn	homepage.mac.com	2012-04-12 13:14:36	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	homepage.mac.com-larastjohn.warc.gz	4905
+larastjohn	public.me.com	2012-04-12 13:14:03	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	public.me.com-larastjohn.warc.gz	1933
+larastjohn	web.me.com	2012-04-12 13:14:01	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	web.me.com-larastjohn.warc.gz	148884927
+mgambuzza	gallery.me.com	2012-04-12 13:18:50	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	gallery.me.com-mgambuzza.warc.gz	614398
+mgambuzza	homepage.mac.com	2012-04-12 13:18:51	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	homepage.mac.com-mgambuzza.warc.gz	7716
+mgambuzza	public.me.com	2012-04-12 13:18:46	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	public.me.com-mgambuzza.warc.gz	66130269
+mgambuzza	web.me.com	2012-04-12 13:14:44	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	web.me.com-mgambuzza.warc.gz	57823
+mogulme	gallery.me.com	2012-04-12 14:15:14	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	gallery.me.com-mogulme.warc.gz	34551219
+mogulme	homepage.mac.com	2012-04-12 14:15:14	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	homepage.mac.com-mogulme.warc.gz	4893
+mogulme	public.me.com	2012-04-12 14:14:27	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	public.me.com-mogulme.warc.gz	278074405
+mogulme	web.me.com	2012-04-12 13:55:14	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	web.me.com-mogulme.warc.gz	423080810
+nil_by_mouth	gallery.me.com	2012-04-12 11:41:09	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	gallery.me.com-nil_by_mouth.warc.gz	4288
+nil_by_mouth	homepage.mac.com	2012-04-12 11:41:11	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	homepage.mac.com-nil_by_mouth.warc.gz	55305
+nil_by_mouth	public.me.com	2012-04-12 11:41:07	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	public.me.com-nil_by_mouth.warc.gz	354474178
+nil_by_mouth	web.me.com	2012-04-12 11:21:31	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	web.me.com-nil_by_mouth.warc.gz	60461187
+richmondschool	gallery.me.com	2012-04-12 12:05:36	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	gallery.me.com-richmondschool.warc.gz	4283
+richmondschool	homepage.mac.com	2012-04-12 12:05:36	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	homepage.mac.com-richmondschool.warc.gz	4946
+richmondschool	public.me.com	2012-04-12 12:05:35	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	public.me.com-richmondschool.warc.gz	1929
+richmondschool	web.me.com	2012-04-12 12:05:31	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	web.me.com-richmondschool.warc.gz	126930819
+zchadfield	gallery.me.com	2012-04-12 13:26:59	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	gallery.me.com-zchadfield.warc.gz	5714
+zchadfield	homepage.mac.com	2012-04-12 13:26:59	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	homepage.mac.com-zchadfield.warc.gz	4912
+zchadfield	public.me.com	2012-04-12 13:26:57	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	public.me.com-zchadfield.warc.gz	1928
+zchadfield	web.me.com	2012-04-12 13:26:57	archiveteam-mobileme-hero-680x	archiveteam-mobileme-hero-680x-6808.tar	web.me.com-zchadfield.warc.gz	12394327

@@ -1,12 +1,12 @@
-craglake	gallery.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	gallery.me.com-craglake.warc.gz	0
-craglake	homepage.mac.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	homepage.mac.com-craglake.warc.gz	0
-craglake	public.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	public.me.com-craglake.warc.gz	0
-craglake	web.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	web.me.com-craglake.warc.gz	0
-erikamyrill	gallery.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	gallery.me.com-erikamyrill.warc.gz	0
-erikamyrill	homepage.mac.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	homepage.mac.com-erikamyrill.warc.gz	0
-erikamyrill	public.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	public.me.com-erikamyrill.warc.gz	0
-erikamyrill	web.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	web.me.com-erikamyrill.warc.gz	0
-zsproductions	gallery.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	gallery.me.com-zsproductions.warc.gz	0
-zsproductions	homepage.mac.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	homepage.mac.com-zsproductions.warc.gz	0
-zsproductions	public.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	public.me.com-zsproductions.warc.gz	0
-zsproductions	web.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	web.me.com-zsproductions.warc.gz	0
+craglake	gallery.me.com	2012-04-06 14:32:10	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	gallery.me.com-craglake.warc.gz	3175956155
+craglake	homepage.mac.com	2012-04-06 14:32:11	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	homepage.mac.com-craglake.warc.gz	4895
+craglake	public.me.com	2012-04-06 13:19:05	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	public.me.com-craglake.warc.gz	304463447
+craglake	web.me.com	2012-04-06 13:12:35	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	web.me.com-craglake.warc.gz	5499383
+erikamyrill	gallery.me.com	2012-04-06 12:35:53	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	gallery.me.com-erikamyrill.warc.gz	8372
+erikamyrill	homepage.mac.com	2012-04-06 12:35:53	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	homepage.mac.com-erikamyrill.warc.gz	5189
+erikamyrill	public.me.com	2012-04-06 12:35:52	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	public.me.com-erikamyrill.warc.gz	1925
+erikamyrill	web.me.com	2012-04-06 12:35:52	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	web.me.com-erikamyrill.warc.gz	17740
+zsproductions	gallery.me.com	2012-04-06 13:11:34	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	gallery.me.com-zsproductions.warc.gz	186139975
+zsproductions	homepage.mac.com	2012-04-06 13:11:40	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	homepage.mac.com-zsproductions.warc.gz	106788
+zsproductions	public.me.com	2012-04-06 13:07:48	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	public.me.com-zsproductions.warc.gz	1930
+zsproductions	web.me.com	2012-04-06 13:07:46	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4700.tar	web.me.com-zsproductions.warc.gz	945795237

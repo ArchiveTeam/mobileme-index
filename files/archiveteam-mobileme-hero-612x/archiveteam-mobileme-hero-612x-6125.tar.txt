@@ -1,16 +1,16 @@
-gmcp	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	gallery.me.com-gmcp.warc.gz	0
-gmcp	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	homepage.mac.com-gmcp.warc.gz	0
-gmcp	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	public.me.com-gmcp.warc.gz	0
-gmcp	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	web.me.com-gmcp.warc.gz	0
-ibeb	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	gallery.me.com-ibeb.warc.gz	0
-ibeb	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	homepage.mac.com-ibeb.warc.gz	0
-ibeb	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	public.me.com-ibeb.warc.gz	0
-ibeb	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	web.me.com-ibeb.warc.gz	0
-lsettlemeyer	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	gallery.me.com-lsettlemeyer.warc.gz	0
-lsettlemeyer	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	homepage.mac.com-lsettlemeyer.warc.gz	0
-lsettlemeyer	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	public.me.com-lsettlemeyer.warc.gz	0
-lsettlemeyer	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	web.me.com-lsettlemeyer.warc.gz	0
-swvaleting	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	gallery.me.com-swvaleting.warc.gz	0
-swvaleting	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	homepage.mac.com-swvaleting.warc.gz	0
-swvaleting	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	public.me.com-swvaleting.warc.gz	0
-swvaleting	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	web.me.com-swvaleting.warc.gz	0
+gmcp	gallery.me.com	2012-04-10 23:07:47	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	gallery.me.com-gmcp.warc.gz	7724846886
+gmcp	homepage.mac.com	2012-04-10 23:07:51	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	homepage.mac.com-gmcp.warc.gz	4877
+gmcp	public.me.com	2012-04-10 20:08:01	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	public.me.com-gmcp.warc.gz	1901
+gmcp	web.me.com	2012-04-10 20:07:57	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	web.me.com-gmcp.warc.gz	1693636884
+ibeb	gallery.me.com	2012-04-10 18:39:08	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	gallery.me.com-ibeb.warc.gz	699673909
+ibeb	homepage.mac.com	2012-04-10 18:39:13	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	homepage.mac.com-ibeb.warc.gz	99330
+ibeb	public.me.com	2012-04-10 18:19:37	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	public.me.com-ibeb.warc.gz	1899
+ibeb	web.me.com	2012-04-10 18:19:36	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	web.me.com-ibeb.warc.gz	68099436
+lsettlemeyer	gallery.me.com	2012-04-10 18:06:55	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	gallery.me.com-lsettlemeyer.warc.gz	4253
+lsettlemeyer	homepage.mac.com	2012-04-10 18:06:55	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	homepage.mac.com-lsettlemeyer.warc.gz	4929
+lsettlemeyer	public.me.com	2012-04-10 18:06:54	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	public.me.com-lsettlemeyer.warc.gz	1937134
+lsettlemeyer	web.me.com	2012-04-10 18:06:38	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	web.me.com-lsettlemeyer.warc.gz	4592407
+swvaleting	gallery.me.com	2012-04-10 18:02:27	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	gallery.me.com-swvaleting.warc.gz	4251
+swvaleting	homepage.mac.com	2012-04-10 18:02:27	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	homepage.mac.com-swvaleting.warc.gz	4905
+swvaleting	public.me.com	2012-04-10 18:02:26	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	public.me.com-swvaleting.warc.gz	1927
+swvaleting	web.me.com	2012-04-10 18:02:25	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6125.tar	web.me.com-swvaleting.warc.gz	13148598

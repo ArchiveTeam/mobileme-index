@@ -1,12 +1,12 @@
-atlantafca	gallery.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	gallery.me.com-atlantafca.warc.gz	0
-atlantafca	homepage.mac.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	homepage.mac.com-atlantafca.warc.gz	0
-atlantafca	public.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	public.me.com-atlantafca.warc.gz	0
-atlantafca	web.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	web.me.com-atlantafca.warc.gz	0
-hart.bezner	gallery.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	gallery.me.com-hart.bezner.warc.gz	0
-hart.bezner	homepage.mac.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	homepage.mac.com-hart.bezner.warc.gz	0
-hart.bezner	public.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	public.me.com-hart.bezner.warc.gz	0
-hart.bezner	web.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	web.me.com-hart.bezner.warc.gz	0
-kvmuizk	gallery.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	gallery.me.com-kvmuizk.warc.gz	0
-kvmuizk	homepage.mac.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	homepage.mac.com-kvmuizk.warc.gz	0
-kvmuizk	public.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	public.me.com-kvmuizk.warc.gz	0
-kvmuizk	web.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	web.me.com-kvmuizk.warc.gz	0
+atlantafca	gallery.me.com	2012-04-13 07:29:26	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	gallery.me.com-atlantafca.warc.gz	4267351476
+atlantafca	homepage.mac.com	2012-04-13 07:29:26	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	homepage.mac.com-atlantafca.warc.gz	4914
+atlantafca	public.me.com	2012-04-13 06:43:53	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	public.me.com-atlantafca.warc.gz	1918
+atlantafca	web.me.com	2012-04-13 06:43:51	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	web.me.com-atlantafca.warc.gz	1002184273
+hart.bezner	gallery.me.com	2012-04-13 06:18:11	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	gallery.me.com-hart.bezner.warc.gz	5107
+hart.bezner	homepage.mac.com	2012-04-13 06:21:00	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	homepage.mac.com-hart.bezner.warc.gz	26222447
+hart.bezner	public.me.com	2012-04-13 06:18:10	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	public.me.com-hart.bezner.warc.gz	3342
+hart.bezner	web.me.com	2012-04-13 06:18:08	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	web.me.com-hart.bezner.warc.gz	64660051
+kvmuizk	gallery.me.com	2012-04-13 06:03:12	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	gallery.me.com-kvmuizk.warc.gz	8352
+kvmuizk	homepage.mac.com	2012-04-13 06:03:12	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	homepage.mac.com-kvmuizk.warc.gz	5170
+kvmuizk	public.me.com	2012-04-13 06:03:11	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	public.me.com-kvmuizk.warc.gz	1913
+kvmuizk	web.me.com	2012-04-13 06:03:10	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7185.tar	web.me.com-kvmuizk.warc.gz	17752

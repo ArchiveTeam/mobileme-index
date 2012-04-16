@@ -1,16 +1,16 @@
-a.czotzki	gallery.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	gallery.me.com-a.czotzki.warc.gz	0
-a.czotzki	homepage.mac.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	homepage.mac.com-a.czotzki.warc.gz	0
-a.czotzki	public.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	public.me.com-a.czotzki.warc.gz	0
-a.czotzki	web.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	web.me.com-a.czotzki.warc.gz	0
-ramismidi	gallery.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	gallery.me.com-ramismidi.warc.gz	0
-ramismidi	homepage.mac.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	homepage.mac.com-ramismidi.warc.gz	0
-ramismidi	public.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	public.me.com-ramismidi.warc.gz	0
-ramismidi	web.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	web.me.com-ramismidi.warc.gz	0
-rycardo	gallery.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	gallery.me.com-rycardo.warc.gz	0
-rycardo	homepage.mac.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	homepage.mac.com-rycardo.warc.gz	0
-rycardo	public.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	public.me.com-rycardo.warc.gz	0
-rycardo	web.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	web.me.com-rycardo.warc.gz	0
-sayres	gallery.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	gallery.me.com-sayres.warc.gz	0
-sayres	homepage.mac.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	homepage.mac.com-sayres.warc.gz	0
-sayres	public.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	public.me.com-sayres.warc.gz	0
-sayres	web.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	web.me.com-sayres.warc.gz	0
+a.czotzki	gallery.me.com	2012-04-07 15:02:52	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	gallery.me.com-a.czotzki.warc.gz	25193710
+a.czotzki	homepage.mac.com	2012-04-07 15:02:52	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	homepage.mac.com-a.czotzki.warc.gz	4908
+a.czotzki	public.me.com	2012-04-07 15:01:36	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	public.me.com-a.czotzki.warc.gz	15305
+a.czotzki	web.me.com	2012-04-07 15:01:35	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	web.me.com-a.czotzki.warc.gz	3198378
+ramismidi	gallery.me.com	2012-04-07 16:50:22	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	gallery.me.com-ramismidi.warc.gz	4041774212
+ramismidi	homepage.mac.com	2012-04-07 16:50:23	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	homepage.mac.com-ramismidi.warc.gz	7881
+ramismidi	public.me.com	2012-04-07 16:03:42	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	public.me.com-ramismidi.warc.gz	3381
+ramismidi	web.me.com	2012-04-07 16:03:39	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	web.me.com-ramismidi.warc.gz	995271297
+rycardo	gallery.me.com	2012-04-07 15:34:36	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	gallery.me.com-rycardo.warc.gz	18478664
+rycardo	homepage.mac.com	2012-04-07 15:34:38	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	homepage.mac.com-rycardo.warc.gz	36892
+rycardo	public.me.com	2012-04-07 15:34:10	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	public.me.com-rycardo.warc.gz	2018581160
+rycardo	web.me.com	2012-04-07 15:13:52	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	web.me.com-rycardo.warc.gz	498521097
+sayres	gallery.me.com	2012-04-07 13:32:49	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	gallery.me.com-sayres.warc.gz	327095900
+sayres	homepage.mac.com	2012-04-07 13:32:49	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	homepage.mac.com-sayres.warc.gz	9392
+sayres	public.me.com	2012-04-07 13:29:58	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	public.me.com-sayres.warc.gz	1908
+sayres	web.me.com	2012-04-07 13:29:58	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4906.tar	web.me.com-sayres.warc.gz	20192262

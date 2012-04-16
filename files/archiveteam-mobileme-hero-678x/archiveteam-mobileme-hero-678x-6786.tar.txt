@@ -1,16 +1,16 @@
-did78	gallery.me.com		archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	gallery.me.com-did78.warc.gz	0
-did78	homepage.mac.com		archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	homepage.mac.com-did78.warc.gz	0
-did78	public.me.com		archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	public.me.com-did78.warc.gz	0
-did78	web.me.com		archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	web.me.com-did78.warc.gz	0
-eddyp	gallery.me.com		archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	gallery.me.com-eddyp.warc.gz	0
-eddyp	homepage.mac.com		archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	homepage.mac.com-eddyp.warc.gz	0
-eddyp	public.me.com		archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	public.me.com-eddyp.warc.gz	0
-eddyp	web.me.com		archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	web.me.com-eddyp.warc.gz	0
-seiya_ig	gallery.me.com		archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	gallery.me.com-seiya_ig.warc.gz	0
-seiya_ig	homepage.mac.com		archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	homepage.mac.com-seiya_ig.warc.gz	0
-seiya_ig	public.me.com		archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	public.me.com-seiya_ig.warc.gz	0
-seiya_ig	web.me.com		archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	web.me.com-seiya_ig.warc.gz	0
-tracy.ng	gallery.me.com		archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	gallery.me.com-tracy.ng.warc.gz	0
-tracy.ng	homepage.mac.com		archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	homepage.mac.com-tracy.ng.warc.gz	0
-tracy.ng	public.me.com		archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	public.me.com-tracy.ng.warc.gz	0
-tracy.ng	web.me.com		archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	web.me.com-tracy.ng.warc.gz	0
+did78	gallery.me.com	2012-04-12 12:58:05	archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	gallery.me.com-did78.warc.gz	6114575816
+did78	homepage.mac.com	2012-04-12 12:58:05	archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	homepage.mac.com-did78.warc.gz	4874
+did78	public.me.com	2012-04-12 11:05:26	archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	public.me.com-did78.warc.gz	1244383093
+did78	web.me.com	2012-04-12 10:48:51	archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	web.me.com-did78.warc.gz	133175684
+eddyp	gallery.me.com	2012-04-12 10:47:21	archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	gallery.me.com-eddyp.warc.gz	161395933
+eddyp	homepage.mac.com	2012-04-12 10:47:34	archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	homepage.mac.com-eddyp.warc.gz	705221
+eddyp	public.me.com	2012-04-12 10:43:39	archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	public.me.com-eddyp.warc.gz	69470105
+eddyp	web.me.com	2012-04-12 10:41:45	archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	web.me.com-eddyp.warc.gz	38769226
+seiya_ig	gallery.me.com	2012-04-12 10:24:46	archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	gallery.me.com-seiya_ig.warc.gz	5389
+seiya_ig	homepage.mac.com	2012-04-12 10:24:48	archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	homepage.mac.com-seiya_ig.warc.gz	41288
+seiya_ig	public.me.com	2012-04-12 10:24:45	archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	public.me.com-seiya_ig.warc.gz	567596
+seiya_ig	web.me.com	2012-04-12 10:23:55	archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	web.me.com-seiya_ig.warc.gz	33203
+tracy.ng	gallery.me.com	2012-04-12 10:39:51	archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	gallery.me.com-tracy.ng.warc.gz	250066573
+tracy.ng	homepage.mac.com	2012-04-12 10:40:04	archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	homepage.mac.com-tracy.ng.warc.gz	960724
+tracy.ng	public.me.com	2012-04-12 10:33:13	archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	public.me.com-tracy.ng.warc.gz	1919
+tracy.ng	web.me.com	2012-04-12 10:33:12	archiveteam-mobileme-hero-678x	archiveteam-mobileme-hero-678x-6786.tar	web.me.com-tracy.ng.warc.gz	43996164

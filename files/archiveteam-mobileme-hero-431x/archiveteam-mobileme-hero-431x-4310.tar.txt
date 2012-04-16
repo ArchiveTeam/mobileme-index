@@ -1,12 +1,12 @@
-azcummins	gallery.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	gallery.me.com-azcummins.warc.gz	0
-azcummins	homepage.mac.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	homepage.mac.com-azcummins.warc.gz	0
-azcummins	public.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	public.me.com-azcummins.warc.gz	0
-azcummins	web.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	web.me.com-azcummins.warc.gz	0
-bernardrolland	gallery.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	gallery.me.com-bernardrolland.warc.gz	0
-bernardrolland	homepage.mac.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	homepage.mac.com-bernardrolland.warc.gz	0
-bernardrolland	public.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	public.me.com-bernardrolland.warc.gz	0
-bernardrolland	web.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	web.me.com-bernardrolland.warc.gz	0
-kkincer1	gallery.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	gallery.me.com-kkincer1.warc.gz	0
-kkincer1	homepage.mac.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	homepage.mac.com-kkincer1.warc.gz	0
-kkincer1	public.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	public.me.com-kkincer1.warc.gz	0
-kkincer1	web.me.com		archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	web.me.com-kkincer1.warc.gz	0
+azcummins	gallery.me.com	2012-04-05 16:34:43	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	gallery.me.com-azcummins.warc.gz	39149721
+azcummins	homepage.mac.com	2012-04-05 16:34:46	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	homepage.mac.com-azcummins.warc.gz	80843
+azcummins	public.me.com	2012-04-05 16:32:47	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	public.me.com-azcummins.warc.gz	2283644491
+azcummins	web.me.com	2012-04-05 15:53:55	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	web.me.com-azcummins.warc.gz	297082673
+bernardrolland	gallery.me.com	2012-04-05 15:49:01	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	gallery.me.com-bernardrolland.warc.gz	3730881801
+bernardrolland	homepage.mac.com	2012-04-05 15:49:08	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	homepage.mac.com-bernardrolland.warc.gz	141136
+bernardrolland	public.me.com	2012-04-05 15:05:54	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	public.me.com-bernardrolland.warc.gz	1928
+bernardrolland	web.me.com	2012-04-05 15:05:53	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	web.me.com-bernardrolland.warc.gz	34705256
+kkincer1	gallery.me.com	2012-04-05 15:02:08	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	gallery.me.com-kkincer1.warc.gz	4287
+kkincer1	homepage.mac.com	2012-04-05 15:02:08	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	homepage.mac.com-kkincer1.warc.gz	4915
+kkincer1	public.me.com	2012-04-05 15:02:07	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	public.me.com-kkincer1.warc.gz	1915
+kkincer1	web.me.com	2012-04-05 15:02:07	archiveteam-mobileme-hero-431x	archiveteam-mobileme-hero-431x-4310.tar	web.me.com-kkincer1.warc.gz	99751604

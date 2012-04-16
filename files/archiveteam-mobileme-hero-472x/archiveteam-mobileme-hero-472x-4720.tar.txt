@@ -1,16 +1,16 @@
-c1854523133	gallery.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	gallery.me.com-c1854523133.warc.gz	0
-c1854523133	homepage.mac.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	homepage.mac.com-c1854523133.warc.gz	0
-c1854523133	public.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	public.me.com-c1854523133.warc.gz	0
-c1854523133	web.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	web.me.com-c1854523133.warc.gz	0
-josefa	gallery.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	gallery.me.com-josefa.warc.gz	0
-josefa	homepage.mac.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	homepage.mac.com-josefa.warc.gz	0
-josefa	public.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	public.me.com-josefa.warc.gz	0
-josefa	web.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	web.me.com-josefa.warc.gz	0
-reneero	gallery.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	gallery.me.com-reneero.warc.gz	0
-reneero	homepage.mac.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	homepage.mac.com-reneero.warc.gz	0
-reneero	public.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	public.me.com-reneero.warc.gz	0
-reneero	web.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	web.me.com-reneero.warc.gz	0
-wonger	gallery.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	gallery.me.com-wonger.warc.gz	0
-wonger	homepage.mac.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	homepage.mac.com-wonger.warc.gz	0
-wonger	public.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	public.me.com-wonger.warc.gz	0
-wonger	web.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	web.me.com-wonger.warc.gz	0
+c1854523133	gallery.me.com	2012-04-06 13:34:02	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	gallery.me.com-c1854523133.warc.gz	8365
+c1854523133	homepage.mac.com	2012-04-06 13:34:02	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	homepage.mac.com-c1854523133.warc.gz	5189
+c1854523133	public.me.com	2012-04-06 13:34:01	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	public.me.com-c1854523133.warc.gz	1928
+c1854523133	web.me.com	2012-04-06 13:34:01	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	web.me.com-c1854523133.warc.gz	17689
+josefa	gallery.me.com	2012-04-06 13:54:47	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	gallery.me.com-josefa.warc.gz	397262311
+josefa	homepage.mac.com	2012-04-06 13:54:47	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	homepage.mac.com-josefa.warc.gz	4911
+josefa	public.me.com	2012-04-06 13:47:03	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	public.me.com-josefa.warc.gz	3622
+josefa	web.me.com	2012-04-06 13:47:02	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	web.me.com-josefa.warc.gz	152693356
+reneero	gallery.me.com	2012-04-06 13:33:59	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	gallery.me.com-reneero.warc.gz	102682138
+reneero	homepage.mac.com	2012-04-06 13:34:00	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	homepage.mac.com-reneero.warc.gz	57656
+reneero	public.me.com	2012-04-06 13:33:23	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	public.me.com-reneero.warc.gz	2808190480
+reneero	web.me.com	2012-04-06 12:52:32	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	web.me.com-reneero.warc.gz	57501
+wonger	gallery.me.com	2012-04-06 15:06:38	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	gallery.me.com-wonger.warc.gz	2166306047
+wonger	homepage.mac.com	2012-04-06 15:07:36	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	homepage.mac.com-wonger.warc.gz	1269939
+wonger	public.me.com	2012-04-06 14:34:26	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	public.me.com-wonger.warc.gz	375235575
+wonger	web.me.com	2012-04-06 14:24:02	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4720.tar	web.me.com-wonger.warc.gz	393007775

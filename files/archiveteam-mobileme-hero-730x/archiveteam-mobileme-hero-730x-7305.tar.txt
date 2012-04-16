@@ -1,12 +1,12 @@
-husuesong	gallery.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	gallery.me.com-husuesong.warc.gz	0
-husuesong	homepage.mac.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	homepage.mac.com-husuesong.warc.gz	0
-husuesong	public.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	public.me.com-husuesong.warc.gz	0
-husuesong	web.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	web.me.com-husuesong.warc.gz	0
-mikefried	gallery.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	gallery.me.com-mikefried.warc.gz	0
-mikefried	homepage.mac.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	homepage.mac.com-mikefried.warc.gz	0
-mikefried	public.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	public.me.com-mikefried.warc.gz	0
-mikefried	web.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	web.me.com-mikefried.warc.gz	0
-tylerbrobinson	gallery.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	gallery.me.com-tylerbrobinson.warc.gz	0
-tylerbrobinson	homepage.mac.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	homepage.mac.com-tylerbrobinson.warc.gz	0
-tylerbrobinson	public.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	public.me.com-tylerbrobinson.warc.gz	0
-tylerbrobinson	web.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	web.me.com-tylerbrobinson.warc.gz	0
+husuesong	gallery.me.com	2012-04-13 10:56:52	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	gallery.me.com-husuesong.warc.gz	5170
+husuesong	homepage.mac.com	2012-04-13 10:56:57	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	homepage.mac.com-husuesong.warc.gz	50327
+husuesong	public.me.com	2012-04-13 10:56:51	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	public.me.com-husuesong.warc.gz	7572
+husuesong	web.me.com	2012-04-13 10:56:50	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	web.me.com-husuesong.warc.gz	39716
+mikefried	gallery.me.com	2012-04-13 12:37:27	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	gallery.me.com-mikefried.warc.gz	2522971
+mikefried	homepage.mac.com	2012-04-13 12:37:28	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	homepage.mac.com-mikefried.warc.gz	4922
+mikefried	public.me.com	2012-04-13 12:37:22	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	public.me.com-mikefried.warc.gz	3331569734
+mikefried	web.me.com	2012-04-13 11:24:15	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	web.me.com-mikefried.warc.gz	691534864
+tylerbrobinson	gallery.me.com	2012-04-13 11:07:48	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	gallery.me.com-tylerbrobinson.warc.gz	17981734
+tylerbrobinson	homepage.mac.com	2012-04-13 11:07:50	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	homepage.mac.com-tylerbrobinson.warc.gz	4927
+tylerbrobinson	public.me.com	2012-04-13 11:07:27	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	public.me.com-tylerbrobinson.warc.gz	140004670
+tylerbrobinson	web.me.com	2012-04-13 11:06:32	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7305.tar	web.me.com-tylerbrobinson.warc.gz	157099298

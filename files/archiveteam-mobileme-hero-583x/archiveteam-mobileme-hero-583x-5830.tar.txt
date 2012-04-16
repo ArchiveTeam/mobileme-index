@@ -1,8 +1,8 @@
-laurabown	gallery.me.com		archiveteam-mobileme-hero-583x	archiveteam-mobileme-hero-583x-5830.tar	gallery.me.com-laurabown.warc.gz	0
-laurabown	homepage.mac.com		archiveteam-mobileme-hero-583x	archiveteam-mobileme-hero-583x-5830.tar	homepage.mac.com-laurabown.warc.gz	0
-laurabown	public.me.com		archiveteam-mobileme-hero-583x	archiveteam-mobileme-hero-583x-5830.tar	public.me.com-laurabown.warc.gz	0
-laurabown	web.me.com		archiveteam-mobileme-hero-583x	archiveteam-mobileme-hero-583x-5830.tar	web.me.com-laurabown.warc.gz	0
-salcin	gallery.me.com		archiveteam-mobileme-hero-583x	archiveteam-mobileme-hero-583x-5830.tar	gallery.me.com-salcin.warc.gz	0
-salcin	homepage.mac.com		archiveteam-mobileme-hero-583x	archiveteam-mobileme-hero-583x-5830.tar	homepage.mac.com-salcin.warc.gz	0
-salcin	public.me.com		archiveteam-mobileme-hero-583x	archiveteam-mobileme-hero-583x-5830.tar	public.me.com-salcin.warc.gz	0
-salcin	web.me.com		archiveteam-mobileme-hero-583x	archiveteam-mobileme-hero-583x-5830.tar	web.me.com-salcin.warc.gz	0
+laurabown	gallery.me.com	2012-04-10 07:37:32	archiveteam-mobileme-hero-583x	archiveteam-mobileme-hero-583x-5830.tar	gallery.me.com-laurabown.warc.gz	3577803058
+laurabown	homepage.mac.com	2012-04-10 07:37:33	archiveteam-mobileme-hero-583x	archiveteam-mobileme-hero-583x-5830.tar	homepage.mac.com-laurabown.warc.gz	4913
+laurabown	public.me.com	2012-04-10 04:01:56	archiveteam-mobileme-hero-583x	archiveteam-mobileme-hero-583x-5830.tar	public.me.com-laurabown.warc.gz	1917
+laurabown	web.me.com	2012-04-10 04:01:29	archiveteam-mobileme-hero-583x	archiveteam-mobileme-hero-583x-5830.tar	web.me.com-laurabown.warc.gz	3609566044
+salcin	gallery.me.com	2012-04-09 22:36:39	archiveteam-mobileme-hero-583x	archiveteam-mobileme-hero-583x-5830.tar	gallery.me.com-salcin.warc.gz	4228
+salcin	homepage.mac.com	2012-04-09 22:36:44	archiveteam-mobileme-hero-583x	archiveteam-mobileme-hero-583x-5830.tar	homepage.mac.com-salcin.warc.gz	80755
+salcin	public.me.com	2012-04-09 22:36:37	archiveteam-mobileme-hero-583x	archiveteam-mobileme-hero-583x-5830.tar	public.me.com-salcin.warc.gz	1914
+salcin	web.me.com	2012-04-09 22:36:37	archiveteam-mobileme-hero-583x	archiveteam-mobileme-hero-583x-5830.tar	web.me.com-salcin.warc.gz	509234

@@ -1,8 +1,8 @@
-cksalon	gallery.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4866.tar	gallery.me.com-cksalon.warc.gz	0
-cksalon	homepage.mac.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4866.tar	homepage.mac.com-cksalon.warc.gz	0
-cksalon	public.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4866.tar	public.me.com-cksalon.warc.gz	0
-cksalon	web.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4866.tar	web.me.com-cksalon.warc.gz	0
-tech_lyon	gallery.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4866.tar	gallery.me.com-tech_lyon.warc.gz	0
-tech_lyon	homepage.mac.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4866.tar	homepage.mac.com-tech_lyon.warc.gz	0
-tech_lyon	public.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4866.tar	public.me.com-tech_lyon.warc.gz	0
-tech_lyon	web.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4866.tar	web.me.com-tech_lyon.warc.gz	0
+cksalon	gallery.me.com	2012-04-07 08:32:08	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4866.tar	gallery.me.com-cksalon.warc.gz	2519715837
+cksalon	homepage.mac.com	2012-04-07 08:32:08	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4866.tar	homepage.mac.com-cksalon.warc.gz	4915
+cksalon	public.me.com	2012-04-07 08:01:29	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4866.tar	public.me.com-cksalon.warc.gz	1908
+cksalon	web.me.com	2012-04-07 08:01:29	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4866.tar	web.me.com-cksalon.warc.gz	635805650
+tech_lyon	gallery.me.com	2012-04-07 07:25:52	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4866.tar	gallery.me.com-tech_lyon.warc.gz	4978
+tech_lyon	homepage.mac.com	2012-04-07 07:25:52	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4866.tar	homepage.mac.com-tech_lyon.warc.gz	4906
+tech_lyon	public.me.com	2012-04-07 07:25:51	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4866.tar	public.me.com-tech_lyon.warc.gz	1919
+tech_lyon	web.me.com	2012-04-07 07:25:48	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4866.tar	web.me.com-tech_lyon.warc.gz	3359670712

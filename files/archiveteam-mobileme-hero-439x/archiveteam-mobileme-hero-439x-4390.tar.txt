@@ -1,12 +1,12 @@
-ipraisenworship	gallery.me.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	gallery.me.com-ipraisenworship.warc.gz	0
-ipraisenworship	homepage.mac.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	homepage.mac.com-ipraisenworship.warc.gz	0
-ipraisenworship	public.me.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	public.me.com-ipraisenworship.warc.gz	0
-ipraisenworship	web.me.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	web.me.com-ipraisenworship.warc.gz	0
-keithjochim	gallery.me.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	gallery.me.com-keithjochim.warc.gz	0
-keithjochim	homepage.mac.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	homepage.mac.com-keithjochim.warc.gz	0
-keithjochim	public.me.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	public.me.com-keithjochim.warc.gz	0
-keithjochim	web.me.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	web.me.com-keithjochim.warc.gz	0
-rodneystephens	gallery.me.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	gallery.me.com-rodneystephens.warc.gz	0
-rodneystephens	homepage.mac.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	homepage.mac.com-rodneystephens.warc.gz	0
-rodneystephens	public.me.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	public.me.com-rodneystephens.warc.gz	0
-rodneystephens	web.me.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	web.me.com-rodneystephens.warc.gz	0
+ipraisenworship	gallery.me.com	2012-04-05 13:50:22	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	gallery.me.com-ipraisenworship.warc.gz	4343
+ipraisenworship	homepage.mac.com	2012-04-05 13:50:23	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	homepage.mac.com-ipraisenworship.warc.gz	4939
+ipraisenworship	public.me.com	2012-04-05 13:50:21	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	public.me.com-ipraisenworship.warc.gz	15352470
+ipraisenworship	web.me.com	2012-04-05 13:50:14	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	web.me.com-ipraisenworship.warc.gz	18112671
+keithjochim	gallery.me.com	2012-04-05 22:23:27	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	gallery.me.com-keithjochim.warc.gz	7129171743
+keithjochim	homepage.mac.com	2012-04-05 22:23:36	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	homepage.mac.com-keithjochim.warc.gz	189412
+keithjochim	public.me.com	2012-04-05 14:52:36	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	public.me.com-keithjochim.warc.gz	56651731
+keithjochim	web.me.com	2012-04-05 14:52:09	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	web.me.com-keithjochim.warc.gz	66300784
+rodneystephens	gallery.me.com	2012-04-05 14:16:37	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	gallery.me.com-rodneystephens.warc.gz	76300222
+rodneystephens	homepage.mac.com	2012-04-05 14:16:37	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	homepage.mac.com-rodneystephens.warc.gz	4944
+rodneystephens	public.me.com	2012-04-05 14:14:52	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	public.me.com-rodneystephens.warc.gz	418044010
+rodneystephens	web.me.com	2012-04-05 14:01:25	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4390.tar	web.me.com-rodneystephens.warc.gz	129419729

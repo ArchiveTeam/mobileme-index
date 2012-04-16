@@ -1,12 +1,12 @@
-celyss	gallery.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	gallery.me.com-celyss.warc.gz	0
-celyss	homepage.mac.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	homepage.mac.com-celyss.warc.gz	0
-celyss	public.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	public.me.com-celyss.warc.gz	0
-celyss	web.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	web.me.com-celyss.warc.gz	0
-duffyunc	gallery.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	gallery.me.com-duffyunc.warc.gz	0
-duffyunc	homepage.mac.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	homepage.mac.com-duffyunc.warc.gz	0
-duffyunc	public.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	public.me.com-duffyunc.warc.gz	0
-duffyunc	web.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	web.me.com-duffyunc.warc.gz	0
-keyji	gallery.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	gallery.me.com-keyji.warc.gz	0
-keyji	homepage.mac.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	homepage.mac.com-keyji.warc.gz	0
-keyji	public.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	public.me.com-keyji.warc.gz	0
-keyji	web.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	web.me.com-keyji.warc.gz	0
+celyss	gallery.me.com	2012-04-10 03:13:24	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	gallery.me.com-celyss.warc.gz	904403293
+celyss	homepage.mac.com	2012-04-10 03:13:25	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	homepage.mac.com-celyss.warc.gz	7819
+celyss	public.me.com	2012-04-10 02:54:08	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	public.me.com-celyss.warc.gz	308448238
+celyss	web.me.com	2012-04-10 02:51:49	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	web.me.com-celyss.warc.gz	49236923
+duffyunc	gallery.me.com	2012-04-10 05:46:13	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	gallery.me.com-duffyunc.warc.gz	6046776684
+duffyunc	homepage.mac.com	2012-04-10 05:46:18	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	homepage.mac.com-duffyunc.warc.gz	160149
+duffyunc	public.me.com	2012-04-10 04:15:14	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	public.me.com-duffyunc.warc.gz	1921
+duffyunc	web.me.com	2012-04-10 04:14:59	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	web.me.com-duffyunc.warc.gz	1550748944
+keyji	gallery.me.com	2012-04-10 02:44:52	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	gallery.me.com-keyji.warc.gz	425851228
+keyji	homepage.mac.com	2012-04-10 02:44:53	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	homepage.mac.com-keyji.warc.gz	4882
+keyji	public.me.com	2012-04-10 02:42:15	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	public.me.com-keyji.warc.gz	3370
+keyji	web.me.com	2012-04-10 02:42:15	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5792.tar	web.me.com-keyji.warc.gz	5786046

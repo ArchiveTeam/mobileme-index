@@ -1,16 +1,16 @@
-byomtov	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	gallery.me.com-byomtov.warc.gz	0
-byomtov	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	homepage.mac.com-byomtov.warc.gz	0
-byomtov	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	public.me.com-byomtov.warc.gz	0
-byomtov	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	web.me.com-byomtov.warc.gz	0
-joss_me2001	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	gallery.me.com-joss_me2001.warc.gz	0
-joss_me2001	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	homepage.mac.com-joss_me2001.warc.gz	0
-joss_me2001	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	public.me.com-joss_me2001.warc.gz	0
-joss_me2001	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	web.me.com-joss_me2001.warc.gz	0
-sandrashorland	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	gallery.me.com-sandrashorland.warc.gz	0
-sandrashorland	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	homepage.mac.com-sandrashorland.warc.gz	0
-sandrashorland	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	public.me.com-sandrashorland.warc.gz	0
-sandrashorland	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	web.me.com-sandrashorland.warc.gz	0
-scaronpub	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	gallery.me.com-scaronpub.warc.gz	0
-scaronpub	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	homepage.mac.com-scaronpub.warc.gz	0
-scaronpub	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	public.me.com-scaronpub.warc.gz	0
-scaronpub	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	web.me.com-scaronpub.warc.gz	0
+byomtov	gallery.me.com	2012-04-07 17:08:11	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	gallery.me.com-byomtov.warc.gz	11761006
+byomtov	homepage.mac.com	2012-04-07 17:08:11	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	homepage.mac.com-byomtov.warc.gz	4913
+byomtov	public.me.com	2012-04-07 17:07:58	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	public.me.com-byomtov.warc.gz	1910
+byomtov	web.me.com	2012-04-07 17:07:57	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	web.me.com-byomtov.warc.gz	1455229
+joss_me2001	gallery.me.com	2012-04-07 16:50:41	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	gallery.me.com-joss_me2001.warc.gz	9016833
+joss_me2001	homepage.mac.com	2012-04-07 16:50:42	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	homepage.mac.com-joss_me2001.warc.gz	4934
+joss_me2001	public.me.com	2012-04-07 16:50:29	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	public.me.com-joss_me2001.warc.gz	1934
+joss_me2001	web.me.com	2012-04-07 16:50:27	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	web.me.com-joss_me2001.warc.gz	284773139
+sandrashorland	gallery.me.com	2012-04-07 19:07:49	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	gallery.me.com-sandrashorland.warc.gz	2123360702
+sandrashorland	homepage.mac.com	2012-04-07 19:07:54	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	homepage.mac.com-sandrashorland.warc.gz	96802
+sandrashorland	public.me.com	2012-04-07 18:30:13	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	public.me.com-sandrashorland.warc.gz	86523630
+sandrashorland	web.me.com	2012-04-07 18:24:51	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	web.me.com-sandrashorland.warc.gz	1358649815
+scaronpub	gallery.me.com	2012-04-07 17:07:22	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	gallery.me.com-scaronpub.warc.gz	787368040
+scaronpub	homepage.mac.com	2012-04-07 17:07:23	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	homepage.mac.com-scaronpub.warc.gz	7885
+scaronpub	public.me.com	2012-04-07 16:57:24	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	public.me.com-scaronpub.warc.gz	1914
+scaronpub	web.me.com	2012-04-07 16:57:24	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4929.tar	web.me.com-scaronpub.warc.gz	207342423

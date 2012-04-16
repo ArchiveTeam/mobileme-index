@@ -1,20 +1,20 @@
-byront	gallery.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	gallery.me.com-byront.warc.gz	0
-byront	homepage.mac.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	homepage.mac.com-byront.warc.gz	0
-byront	public.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	public.me.com-byront.warc.gz	0
-byront	web.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	web.me.com-byront.warc.gz	0
-olsoncarl	gallery.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	gallery.me.com-olsoncarl.warc.gz	0
-olsoncarl	homepage.mac.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	homepage.mac.com-olsoncarl.warc.gz	0
-olsoncarl	public.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	public.me.com-olsoncarl.warc.gz	0
-olsoncarl	web.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	web.me.com-olsoncarl.warc.gz	0
-pietenlies	gallery.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	gallery.me.com-pietenlies.warc.gz	0
-pietenlies	homepage.mac.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	homepage.mac.com-pietenlies.warc.gz	0
-pietenlies	public.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	public.me.com-pietenlies.warc.gz	0
-pietenlies	web.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	web.me.com-pietenlies.warc.gz	0
-rmcgugins	gallery.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	gallery.me.com-rmcgugins.warc.gz	0
-rmcgugins	homepage.mac.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	homepage.mac.com-rmcgugins.warc.gz	0
-rmcgugins	public.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	public.me.com-rmcgugins.warc.gz	0
-rmcgugins	web.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	web.me.com-rmcgugins.warc.gz	0
-urs7000	gallery.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	gallery.me.com-urs7000.warc.gz	0
-urs7000	homepage.mac.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	homepage.mac.com-urs7000.warc.gz	0
-urs7000	public.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	public.me.com-urs7000.warc.gz	0
-urs7000	web.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	web.me.com-urs7000.warc.gz	0
+byront	gallery.me.com	2012-04-11 09:43:20	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	gallery.me.com-byront.warc.gz	524163055
+byront	homepage.mac.com	2012-04-11 09:43:21	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	homepage.mac.com-byront.warc.gz	9404
+byront	public.me.com	2012-04-11 09:38:30	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	public.me.com-byront.warc.gz	160952269
+byront	web.me.com	2012-04-11 09:33:19	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	web.me.com-byront.warc.gz	2738092597
+olsoncarl	gallery.me.com	2012-04-11 10:12:16	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	gallery.me.com-olsoncarl.warc.gz	1745029989
+olsoncarl	homepage.mac.com	2012-04-11 10:12:18	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	homepage.mac.com-olsoncarl.warc.gz	49446
+olsoncarl	public.me.com	2012-04-11 09:54:45	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	public.me.com-olsoncarl.warc.gz	1917
+olsoncarl	web.me.com	2012-04-11 09:54:45	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	web.me.com-olsoncarl.warc.gz	28463273
+pietenlies	gallery.me.com	2012-04-11 08:59:51	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	gallery.me.com-pietenlies.warc.gz	3115504
+pietenlies	homepage.mac.com	2012-04-11 08:59:56	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	homepage.mac.com-pietenlies.warc.gz	76939
+pietenlies	public.me.com	2012-04-11 08:59:46	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	public.me.com-pietenlies.warc.gz	1917
+pietenlies	web.me.com	2012-04-11 08:59:45	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	web.me.com-pietenlies.warc.gz	1133135
+rmcgugins	gallery.me.com	2012-04-11 09:50:31	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	gallery.me.com-rmcgugins.warc.gz	53714930
+rmcgugins	homepage.mac.com	2012-04-11 09:50:32	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	homepage.mac.com-rmcgugins.warc.gz	7086
+rmcgugins	public.me.com	2012-04-11 09:47:29	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	public.me.com-rmcgugins.warc.gz	1908
+rmcgugins	web.me.com	2012-04-11 09:47:28	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	web.me.com-rmcgugins.warc.gz	57172472
+urs7000	gallery.me.com	2012-04-11 09:00:01	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	gallery.me.com-urs7000.warc.gz	5648
+urs7000	homepage.mac.com	2012-04-11 09:00:01	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	homepage.mac.com-urs7000.warc.gz	4912
+urs7000	public.me.com	2012-04-11 09:00:00	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	public.me.com-urs7000.warc.gz	1912
+urs7000	web.me.com	2012-04-11 09:00:00	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6321.tar	web.me.com-urs7000.warc.gz	45293

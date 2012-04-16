@@ -1,12 +1,12 @@
-c1101865395	gallery.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	gallery.me.com-c1101865395.warc.gz	0
-c1101865395	homepage.mac.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	homepage.mac.com-c1101865395.warc.gz	0
-c1101865395	public.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	public.me.com-c1101865395.warc.gz	0
-c1101865395	web.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	web.me.com-c1101865395.warc.gz	0
-dansflb	gallery.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	gallery.me.com-dansflb.warc.gz	0
-dansflb	homepage.mac.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	homepage.mac.com-dansflb.warc.gz	0
-dansflb	public.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	public.me.com-dansflb.warc.gz	0
-dansflb	web.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	web.me.com-dansflb.warc.gz	0
-hcrjwood	gallery.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	gallery.me.com-hcrjwood.warc.gz	0
-hcrjwood	homepage.mac.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	homepage.mac.com-hcrjwood.warc.gz	0
-hcrjwood	public.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	public.me.com-hcrjwood.warc.gz	0
-hcrjwood	web.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	web.me.com-hcrjwood.warc.gz	0
+c1101865395	gallery.me.com	2012-04-09 15:46:10	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	gallery.me.com-c1101865395.warc.gz	8377
+c1101865395	homepage.mac.com	2012-04-09 15:46:11	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	homepage.mac.com-c1101865395.warc.gz	5194
+c1101865395	public.me.com	2012-04-09 15:46:10	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	public.me.com-c1101865395.warc.gz	1924
+c1101865395	web.me.com	2012-04-09 15:46:10	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	web.me.com-c1101865395.warc.gz	17705
+dansflb	gallery.me.com	2012-04-09 17:38:44	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	gallery.me.com-dansflb.warc.gz	6130802480
+dansflb	homepage.mac.com	2012-04-09 17:38:45	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	homepage.mac.com-dansflb.warc.gz	4904
+dansflb	public.me.com	2012-04-09 16:32:59	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	public.me.com-dansflb.warc.gz	3324
+dansflb	web.me.com	2012-04-09 16:32:58	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	web.me.com-dansflb.warc.gz	215772065
+hcrjwood	gallery.me.com	2012-04-09 16:16:08	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	gallery.me.com-hcrjwood.warc.gz	683429988
+hcrjwood	homepage.mac.com	2012-04-09 16:16:08	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	homepage.mac.com-hcrjwood.warc.gz	7855
+hcrjwood	public.me.com	2012-04-09 16:09:40	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	public.me.com-hcrjwood.warc.gz	1178968227
+hcrjwood	web.me.com	2012-04-09 16:02:12	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5565.tar	web.me.com-hcrjwood.warc.gz	659337786

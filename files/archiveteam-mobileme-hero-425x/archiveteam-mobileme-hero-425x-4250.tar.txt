@@ -1,12 +1,12 @@
-fcshark	gallery.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	gallery.me.com-fcshark.warc.gz	0
-fcshark	homepage.mac.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	homepage.mac.com-fcshark.warc.gz	0
-fcshark	public.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	public.me.com-fcshark.warc.gz	0
-fcshark	web.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	web.me.com-fcshark.warc.gz	0
-mcrich11	gallery.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	gallery.me.com-mcrich11.warc.gz	0
-mcrich11	homepage.mac.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	homepage.mac.com-mcrich11.warc.gz	0
-mcrich11	public.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	public.me.com-mcrich11.warc.gz	0
-mcrich11	web.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	web.me.com-mcrich11.warc.gz	0
-raydi2	gallery.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	gallery.me.com-raydi2.warc.gz	0
-raydi2	homepage.mac.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	homepage.mac.com-raydi2.warc.gz	0
-raydi2	public.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	public.me.com-raydi2.warc.gz	0
-raydi2	web.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	web.me.com-raydi2.warc.gz	0
+fcshark	gallery.me.com	2012-04-05 11:03:38	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	gallery.me.com-fcshark.warc.gz	21367205
+fcshark	homepage.mac.com	2012-04-05 11:03:39	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	homepage.mac.com-fcshark.warc.gz	4886
+fcshark	public.me.com	2012-04-05 11:03:22	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	public.me.com-fcshark.warc.gz	62209486
+fcshark	web.me.com	2012-04-05 11:01:09	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	web.me.com-fcshark.warc.gz	22535609
+mcrich11	gallery.me.com	2012-04-05 11:08:53	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	gallery.me.com-mcrich11.warc.gz	4267
+mcrich11	homepage.mac.com	2012-04-05 11:08:53	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	homepage.mac.com-mcrich11.warc.gz	4916
+mcrich11	public.me.com	2012-04-05 11:08:52	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	public.me.com-mcrich11.warc.gz	787142
+mcrich11	web.me.com	2012-04-05 11:08:49	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	web.me.com-mcrich11.warc.gz	31327800
+raydi2	gallery.me.com	2012-04-05 13:09:38	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	gallery.me.com-raydi2.warc.gz	5577120151
+raydi2	homepage.mac.com	2012-04-05 13:09:38	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	homepage.mac.com-raydi2.warc.gz	4887
+raydi2	public.me.com	2012-04-05 11:45:37	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	public.me.com-raydi2.warc.gz	1909
+raydi2	web.me.com	2012-04-05 11:45:33	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4250.tar	web.me.com-raydi2.warc.gz	1222054854

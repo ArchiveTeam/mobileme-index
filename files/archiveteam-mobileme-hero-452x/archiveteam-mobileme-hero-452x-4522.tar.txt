@@ -1,16 +1,16 @@
-amcolwill	gallery.me.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	gallery.me.com-amcolwill.warc.gz	0
-amcolwill	homepage.mac.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	homepage.mac.com-amcolwill.warc.gz	0
-amcolwill	public.me.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	public.me.com-amcolwill.warc.gz	0
-amcolwill	web.me.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	web.me.com-amcolwill.warc.gz	0
-fsauer65	gallery.me.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	gallery.me.com-fsauer65.warc.gz	0
-fsauer65	homepage.mac.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	homepage.mac.com-fsauer65.warc.gz	0
-fsauer65	public.me.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	public.me.com-fsauer65.warc.gz	0
-fsauer65	web.me.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	web.me.com-fsauer65.warc.gz	0
-furthurmoe	gallery.me.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	gallery.me.com-furthurmoe.warc.gz	0
-furthurmoe	homepage.mac.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	homepage.mac.com-furthurmoe.warc.gz	0
-furthurmoe	public.me.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	public.me.com-furthurmoe.warc.gz	0
-furthurmoe	web.me.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	web.me.com-furthurmoe.warc.gz	0
-rnreagan	gallery.me.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	gallery.me.com-rnreagan.warc.gz	0
-rnreagan	homepage.mac.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	homepage.mac.com-rnreagan.warc.gz	0
-rnreagan	public.me.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	public.me.com-rnreagan.warc.gz	0
-rnreagan	web.me.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	web.me.com-rnreagan.warc.gz	0
+amcolwill	gallery.me.com	2012-04-06 05:19:43	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	gallery.me.com-amcolwill.warc.gz	54334610
+amcolwill	homepage.mac.com	2012-04-06 05:19:43	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	homepage.mac.com-amcolwill.warc.gz	4897
+amcolwill	public.me.com	2012-04-06 05:19:11	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	public.me.com-amcolwill.warc.gz	1912
+amcolwill	web.me.com	2012-04-06 05:19:11	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	web.me.com-amcolwill.warc.gz	13368914
+fsauer65	gallery.me.com	2012-04-06 05:04:15	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	gallery.me.com-fsauer65.warc.gz	38705960
+fsauer65	homepage.mac.com	2012-04-06 05:04:17	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	homepage.mac.com-fsauer65.warc.gz	84368
+fsauer65	public.me.com	2012-04-06 05:03:36	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	public.me.com-fsauer65.warc.gz	23622274
+fsauer65	web.me.com	2012-04-06 05:03:28	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	web.me.com-fsauer65.warc.gz	56216326
+furthurmoe	gallery.me.com	2012-04-06 05:16:24	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	gallery.me.com-furthurmoe.warc.gz	156171132
+furthurmoe	homepage.mac.com	2012-04-06 05:16:28	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	homepage.mac.com-furthurmoe.warc.gz	152134
+furthurmoe	public.me.com	2012-04-06 05:15:35	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	public.me.com-furthurmoe.warc.gz	1119596987
+furthurmoe	web.me.com	2012-04-06 05:04:36	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	web.me.com-furthurmoe.warc.gz	763593
+rnreagan	gallery.me.com	2012-04-06 05:37:28	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	gallery.me.com-rnreagan.warc.gz	1873479860
+rnreagan	homepage.mac.com	2012-04-06 05:37:28	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	homepage.mac.com-rnreagan.warc.gz	4905
+rnreagan	public.me.com	2012-04-06 05:27:42	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	public.me.com-rnreagan.warc.gz	170326
+rnreagan	web.me.com	2012-04-06 05:27:41	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4522.tar	web.me.com-rnreagan.warc.gz	1236173050

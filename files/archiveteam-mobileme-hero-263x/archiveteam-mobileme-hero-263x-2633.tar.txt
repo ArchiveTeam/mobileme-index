@@ -1,20 +1,20 @@
-anita_miller	gallery.me.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	gallery.me.com-anita_miller.warc.gz	0
-anita_miller	homepage.mac.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	homepage.mac.com-anita_miller.warc.gz	0
-anita_miller	public.me.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	public.me.com-anita_miller.warc.gz	0
-anita_miller	web.me.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	web.me.com-anita_miller.warc.gz	0
-cutterheadmastering	gallery.me.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	gallery.me.com-cutterheadmastering.warc.gz	0
-cutterheadmastering	homepage.mac.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	homepage.mac.com-cutterheadmastering.warc.gz	0
-cutterheadmastering	public.me.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	public.me.com-cutterheadmastering.warc.gz	0
-cutterheadmastering	web.me.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	web.me.com-cutterheadmastering.warc.gz	0
-hansmanshoven	gallery.me.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	gallery.me.com-hansmanshoven.warc.gz	0
-hansmanshoven	homepage.mac.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	homepage.mac.com-hansmanshoven.warc.gz	0
-hansmanshoven	public.me.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	public.me.com-hansmanshoven.warc.gz	0
-hansmanshoven	web.me.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	web.me.com-hansmanshoven.warc.gz	0
-john.r.finnegan	gallery.me.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	gallery.me.com-john.r.finnegan.warc.gz	0
-john.r.finnegan	homepage.mac.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	homepage.mac.com-john.r.finnegan.warc.gz	0
-john.r.finnegan	public.me.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	public.me.com-john.r.finnegan.warc.gz	0
-john.r.finnegan	web.me.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	web.me.com-john.r.finnegan.warc.gz	0
-ronnywalter	gallery.me.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	gallery.me.com-ronnywalter.warc.gz	0
-ronnywalter	homepage.mac.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	homepage.mac.com-ronnywalter.warc.gz	0
-ronnywalter	public.me.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	public.me.com-ronnywalter.warc.gz	0
-ronnywalter	web.me.com		archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	web.me.com-ronnywalter.warc.gz	0
+anita_miller	gallery.me.com	2012-03-31 17:08:50	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	gallery.me.com-anita_miller.warc.gz	4354
+anita_miller	homepage.mac.com	2012-03-31 17:08:50	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	homepage.mac.com-anita_miller.warc.gz	4931
+anita_miller	public.me.com	2012-03-31 17:08:48	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	public.me.com-anita_miller.warc.gz	1929
+anita_miller	web.me.com	2012-03-31 17:08:48	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	web.me.com-anita_miller.warc.gz	482814
+cutterheadmastering	gallery.me.com	2012-03-31 17:19:00	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	gallery.me.com-cutterheadmastering.warc.gz	4338
+cutterheadmastering	homepage.mac.com	2012-03-31 17:19:00	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	homepage.mac.com-cutterheadmastering.warc.gz	4939
+cutterheadmastering	public.me.com	2012-03-31 17:18:59	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	public.me.com-cutterheadmastering.warc.gz	1935
+cutterheadmastering	web.me.com	2012-03-31 17:18:59	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	web.me.com-cutterheadmastering.warc.gz	2656028
+hansmanshoven	gallery.me.com	2012-04-01 09:03:58	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	gallery.me.com-hansmanshoven.warc.gz	2546511285
+hansmanshoven	homepage.mac.com	2012-04-01 09:03:59	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	homepage.mac.com-hansmanshoven.warc.gz	4945
+hansmanshoven	public.me.com	2012-04-01 06:20:36	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	public.me.com-hansmanshoven.warc.gz	109330132
+hansmanshoven	web.me.com	2012-04-01 06:19:10	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	web.me.com-hansmanshoven.warc.gz	3635688067
+john.r.finnegan	gallery.me.com	2012-03-31 19:22:24	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	gallery.me.com-john.r.finnegan.warc.gz	769194017
+john.r.finnegan	homepage.mac.com	2012-03-31 19:22:24	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	homepage.mac.com-john.r.finnegan.warc.gz	4949
+john.r.finnegan	public.me.com	2012-03-31 17:24:03	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	public.me.com-john.r.finnegan.warc.gz	3367
+john.r.finnegan	web.me.com	2012-03-31 17:23:56	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	web.me.com-john.r.finnegan.warc.gz	8228390
+ronnywalter	gallery.me.com	2012-03-31 22:43:43	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	gallery.me.com-ronnywalter.warc.gz	1007829912
+ronnywalter	homepage.mac.com	2012-03-31 22:44:00	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	homepage.mac.com-ronnywalter.warc.gz	4941
+ronnywalter	public.me.com	2012-03-31 21:10:56	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	public.me.com-ronnywalter.warc.gz	179101767
+ronnywalter	web.me.com	2012-03-31 20:40:15	archiveteam-mobileme-hero-263x	archiveteam-mobileme-hero-263x-2633.tar	web.me.com-ronnywalter.warc.gz	223455967

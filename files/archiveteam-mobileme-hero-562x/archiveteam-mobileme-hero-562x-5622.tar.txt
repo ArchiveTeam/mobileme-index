@@ -1,24 +1,24 @@
-aaronherrmann	gallery.me.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	gallery.me.com-aaronherrmann.warc.gz	0
-aaronherrmann	homepage.mac.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	homepage.mac.com-aaronherrmann.warc.gz	0
-aaronherrmann	public.me.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	public.me.com-aaronherrmann.warc.gz	0
-aaronherrmann	web.me.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	web.me.com-aaronherrmann.warc.gz	0
-akosimon	gallery.me.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	gallery.me.com-akosimon.warc.gz	0
-akosimon	homepage.mac.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	homepage.mac.com-akosimon.warc.gz	0
-akosimon	public.me.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	public.me.com-akosimon.warc.gz	0
-akosimon	web.me.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	web.me.com-akosimon.warc.gz	0
-guy.jenkins	gallery.me.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	gallery.me.com-guy.jenkins.warc.gz	0
-guy.jenkins	homepage.mac.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	homepage.mac.com-guy.jenkins.warc.gz	0
-guy.jenkins	public.me.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	public.me.com-guy.jenkins.warc.gz	0
-guy.jenkins	web.me.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	web.me.com-guy.jenkins.warc.gz	0
-jarobro	gallery.me.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	gallery.me.com-jarobro.warc.gz	0
-jarobro	homepage.mac.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	homepage.mac.com-jarobro.warc.gz	0
-jarobro	public.me.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	public.me.com-jarobro.warc.gz	0
-jarobro	web.me.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	web.me.com-jarobro.warc.gz	0
-predators94	gallery.me.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	gallery.me.com-predators94.warc.gz	0
-predators94	homepage.mac.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	homepage.mac.com-predators94.warc.gz	0
-predators94	public.me.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	public.me.com-predators94.warc.gz	0
-predators94	web.me.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	web.me.com-predators94.warc.gz	0
-teamnicholas	gallery.me.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	gallery.me.com-teamnicholas.warc.gz	0
-teamnicholas	homepage.mac.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	homepage.mac.com-teamnicholas.warc.gz	0
-teamnicholas	public.me.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	public.me.com-teamnicholas.warc.gz	0
-teamnicholas	web.me.com		archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	web.me.com-teamnicholas.warc.gz	0
+aaronherrmann	gallery.me.com	2012-04-09 19:07:34	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	gallery.me.com-aaronherrmann.warc.gz	89161715
+aaronherrmann	homepage.mac.com	2012-04-09 19:07:34	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	homepage.mac.com-aaronherrmann.warc.gz	4914
+aaronherrmann	public.me.com	2012-04-09 19:06:51	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	public.me.com-aaronherrmann.warc.gz	71534022
+aaronherrmann	web.me.com	2012-04-09 19:05:58	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	web.me.com-aaronherrmann.warc.gz	126758653
+akosimon	gallery.me.com	2012-04-09 19:32:39	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	gallery.me.com-akosimon.warc.gz	246127001
+akosimon	homepage.mac.com	2012-04-09 19:32:41	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	homepage.mac.com-akosimon.warc.gz	81390
+akosimon	public.me.com	2012-04-09 19:24:18	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	public.me.com-akosimon.warc.gz	1562621855
+akosimon	web.me.com	2012-04-09 19:10:40	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	web.me.com-akosimon.warc.gz	141686785
+guy.jenkins	gallery.me.com	2012-04-09 20:58:25	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	gallery.me.com-guy.jenkins.warc.gz	3793113286
+guy.jenkins	homepage.mac.com	2012-04-09 20:58:26	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	homepage.mac.com-guy.jenkins.warc.gz	8235
+guy.jenkins	public.me.com	2012-04-09 19:59:29	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	public.me.com-guy.jenkins.warc.gz	15427
+guy.jenkins	web.me.com	2012-04-09 19:59:28	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	web.me.com-guy.jenkins.warc.gz	161569346
+jarobro	gallery.me.com	2012-04-09 19:34:06	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	gallery.me.com-jarobro.warc.gz	4253
+jarobro	homepage.mac.com	2012-04-09 19:34:07	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	homepage.mac.com-jarobro.warc.gz	4892
+jarobro	public.me.com	2012-04-09 19:34:06	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	public.me.com-jarobro.warc.gz	1917
+jarobro	web.me.com	2012-04-09 19:34:06	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	web.me.com-jarobro.warc.gz	7123017
+predators94	gallery.me.com	2012-04-09 19:48:26	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	gallery.me.com-predators94.warc.gz	54431602
+predators94	homepage.mac.com	2012-04-09 19:48:26	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	homepage.mac.com-predators94.warc.gz	4912
+predators94	public.me.com	2012-04-09 19:46:43	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	public.me.com-predators94.warc.gz	3342
+predators94	web.me.com	2012-04-09 19:44:39	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	web.me.com-predators94.warc.gz	33764050
+teamnicholas	gallery.me.com	2012-04-09 19:03:30	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	gallery.me.com-teamnicholas.warc.gz	12338
+teamnicholas	homepage.mac.com	2012-04-09 19:03:30	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	homepage.mac.com-teamnicholas.warc.gz	7164
+teamnicholas	public.me.com	2012-04-09 19:03:30	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	public.me.com-teamnicholas.warc.gz	1920
+teamnicholas	web.me.com	2012-04-09 19:03:30	archiveteam-mobileme-hero-562x	archiveteam-mobileme-hero-562x-5622.tar	web.me.com-teamnicholas.warc.gz	22495

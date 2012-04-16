@@ -1,8 +1,8 @@
-ao3111	gallery.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5044.tar	gallery.me.com-ao3111.warc.gz	0
-ao3111	homepage.mac.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5044.tar	homepage.mac.com-ao3111.warc.gz	0
-ao3111	public.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5044.tar	public.me.com-ao3111.warc.gz	0
-ao3111	web.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5044.tar	web.me.com-ao3111.warc.gz	0
-hallhutchison	gallery.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5044.tar	gallery.me.com-hallhutchison.warc.gz	0
-hallhutchison	homepage.mac.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5044.tar	homepage.mac.com-hallhutchison.warc.gz	0
-hallhutchison	public.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5044.tar	public.me.com-hallhutchison.warc.gz	0
-hallhutchison	web.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5044.tar	web.me.com-hallhutchison.warc.gz	0
+ao3111	gallery.me.com	2012-04-07 23:10:29	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5044.tar	gallery.me.com-ao3111.warc.gz	8316
+ao3111	homepage.mac.com	2012-04-07 23:10:29	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5044.tar	homepage.mac.com-ao3111.warc.gz	5162
+ao3111	public.me.com	2012-04-07 23:10:28	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5044.tar	public.me.com-ao3111.warc.gz	1902
+ao3111	web.me.com	2012-04-07 23:10:28	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5044.tar	web.me.com-ao3111.warc.gz	17655
+hallhutchison	gallery.me.com	2012-04-08 01:16:02	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5044.tar	gallery.me.com-hallhutchison.warc.gz	5117069700
+hallhutchison	homepage.mac.com	2012-04-08 01:16:04	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5044.tar	homepage.mac.com-hallhutchison.warc.gz	126091
+hallhutchison	public.me.com	2012-04-08 00:09:53	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5044.tar	public.me.com-hallhutchison.warc.gz	5170316750
+hallhutchison	web.me.com	2012-04-07 23:15:13	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5044.tar	web.me.com-hallhutchison.warc.gz	16490290

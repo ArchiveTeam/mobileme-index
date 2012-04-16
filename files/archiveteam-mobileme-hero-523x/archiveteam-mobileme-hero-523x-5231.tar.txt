@@ -1,24 +1,24 @@
-barrett.allison	gallery.me.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	gallery.me.com-barrett.allison.warc.gz	0
-barrett.allison	homepage.mac.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	homepage.mac.com-barrett.allison.warc.gz	0
-barrett.allison	public.me.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	public.me.com-barrett.allison.warc.gz	0
-barrett.allison	web.me.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	web.me.com-barrett.allison.warc.gz	0
-depo	gallery.me.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	gallery.me.com-depo.warc.gz	0
-depo	homepage.mac.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	homepage.mac.com-depo.warc.gz	0
-depo	public.me.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	public.me.com-depo.warc.gz	0
-depo	web.me.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	web.me.com-depo.warc.gz	0
-ed20xx	gallery.me.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	gallery.me.com-ed20xx.warc.gz	0
-ed20xx	homepage.mac.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	homepage.mac.com-ed20xx.warc.gz	0
-ed20xx	public.me.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	public.me.com-ed20xx.warc.gz	0
-ed20xx	web.me.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	web.me.com-ed20xx.warc.gz	0
-lindahurtado	gallery.me.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	gallery.me.com-lindahurtado.warc.gz	0
-lindahurtado	homepage.mac.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	homepage.mac.com-lindahurtado.warc.gz	0
-lindahurtado	public.me.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	public.me.com-lindahurtado.warc.gz	0
-lindahurtado	web.me.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	web.me.com-lindahurtado.warc.gz	0
-michelle_massey	gallery.me.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	gallery.me.com-michelle_massey.warc.gz	0
-michelle_massey	homepage.mac.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	homepage.mac.com-michelle_massey.warc.gz	0
-michelle_massey	public.me.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	public.me.com-michelle_massey.warc.gz	0
-michelle_massey	web.me.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	web.me.com-michelle_massey.warc.gz	0
-xgdeem	gallery.me.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	gallery.me.com-xgdeem.warc.gz	0
-xgdeem	homepage.mac.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	homepage.mac.com-xgdeem.warc.gz	0
-xgdeem	public.me.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	public.me.com-xgdeem.warc.gz	0
-xgdeem	web.me.com		archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	web.me.com-xgdeem.warc.gz	0
+barrett.allison	gallery.me.com	2012-04-08 22:55:48	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	gallery.me.com-barrett.allison.warc.gz	3991411094
+barrett.allison	homepage.mac.com	2012-04-08 22:55:49	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	homepage.mac.com-barrett.allison.warc.gz	4946
+barrett.allison	public.me.com	2012-04-08 20:49:00	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	public.me.com-barrett.allison.warc.gz	1926
+barrett.allison	web.me.com	2012-04-08 20:48:00	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	web.me.com-barrett.allison.warc.gz	1449180140
+depo	gallery.me.com	2012-04-08 18:55:18	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	gallery.me.com-depo.warc.gz	4208
+depo	homepage.mac.com	2012-04-08 18:55:18	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	homepage.mac.com-depo.warc.gz	4899
+depo	public.me.com	2012-04-08 18:55:17	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	public.me.com-depo.warc.gz	1907
+depo	web.me.com	2012-04-08 18:55:16	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	web.me.com-depo.warc.gz	10206848
+ed20xx	gallery.me.com	2012-04-08 19:17:39	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	gallery.me.com-ed20xx.warc.gz	8330
+ed20xx	homepage.mac.com	2012-04-08 19:17:39	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	homepage.mac.com-ed20xx.warc.gz	5163
+ed20xx	public.me.com	2012-04-08 19:17:38	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	public.me.com-ed20xx.warc.gz	1911
+ed20xx	web.me.com	2012-04-08 19:17:38	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	web.me.com-ed20xx.warc.gz	17673
+lindahurtado	gallery.me.com	2012-04-08 19:17:36	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	gallery.me.com-lindahurtado.warc.gz	1408028148
+lindahurtado	homepage.mac.com	2012-04-08 19:17:37	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	homepage.mac.com-lindahurtado.warc.gz	4933
+lindahurtado	public.me.com	2012-04-08 19:06:09	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	public.me.com-lindahurtado.warc.gz	1929
+lindahurtado	web.me.com	2012-04-08 19:06:09	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	web.me.com-lindahurtado.warc.gz	255226592
+michelle_massey	gallery.me.com	2012-04-08 18:56:48	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	gallery.me.com-michelle_massey.warc.gz	5566
+michelle_massey	homepage.mac.com	2012-04-08 18:56:49	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	homepage.mac.com-michelle_massey.warc.gz	4929
+michelle_massey	public.me.com	2012-04-08 18:56:47	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	public.me.com-michelle_massey.warc.gz	1931
+michelle_massey	web.me.com	2012-04-08 18:56:45	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	web.me.com-michelle_massey.warc.gz	19678895
+xgdeem	gallery.me.com	2012-04-08 18:55:23	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	gallery.me.com-xgdeem.warc.gz	12325
+xgdeem	homepage.mac.com	2012-04-08 18:55:23	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	homepage.mac.com-xgdeem.warc.gz	7132
+xgdeem	public.me.com	2012-04-08 18:55:21	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	public.me.com-xgdeem.warc.gz	1910
+xgdeem	web.me.com	2012-04-08 18:55:21	archiveteam-mobileme-hero-523x	archiveteam-mobileme-hero-523x-5231.tar	web.me.com-xgdeem.warc.gz	22478

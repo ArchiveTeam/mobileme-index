@@ -1,20 +1,20 @@
-funato	gallery.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	gallery.me.com-funato.warc.gz	0
-funato	homepage.mac.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	homepage.mac.com-funato.warc.gz	0
-funato	public.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	public.me.com-funato.warc.gz	0
-funato	web.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	web.me.com-funato.warc.gz	0
-gregzilm	gallery.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	gallery.me.com-gregzilm.warc.gz	0
-gregzilm	homepage.mac.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	homepage.mac.com-gregzilm.warc.gz	0
-gregzilm	public.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	public.me.com-gregzilm.warc.gz	0
-gregzilm	web.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	web.me.com-gregzilm.warc.gz	0
-j.p.richard	gallery.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	gallery.me.com-j.p.richard.warc.gz	0
-j.p.richard	homepage.mac.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	homepage.mac.com-j.p.richard.warc.gz	0
-j.p.richard	public.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	public.me.com-j.p.richard.warc.gz	0
-j.p.richard	web.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	web.me.com-j.p.richard.warc.gz	0
-jabiddle	gallery.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	gallery.me.com-jabiddle.warc.gz	0
-jabiddle	homepage.mac.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	homepage.mac.com-jabiddle.warc.gz	0
-jabiddle	public.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	public.me.com-jabiddle.warc.gz	0
-jabiddle	web.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	web.me.com-jabiddle.warc.gz	0
-lukesares	gallery.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	gallery.me.com-lukesares.warc.gz	0
-lukesares	homepage.mac.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	homepage.mac.com-lukesares.warc.gz	0
-lukesares	public.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	public.me.com-lukesares.warc.gz	0
-lukesares	web.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	web.me.com-lukesares.warc.gz	0
+funato	gallery.me.com	2012-04-01 01:45:12	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	gallery.me.com-funato.warc.gz	41963424
+funato	homepage.mac.com	2012-04-01 01:47:58	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	homepage.mac.com-funato.warc.gz	10336566
+funato	public.me.com	2012-04-01 01:44:44	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	public.me.com-funato.warc.gz	1906
+funato	web.me.com	2012-04-01 01:44:43	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	web.me.com-funato.warc.gz	68918
+gregzilm	gallery.me.com	2012-04-01 01:15:59	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	gallery.me.com-gregzilm.warc.gz	12343
+gregzilm	homepage.mac.com	2012-04-01 01:15:59	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	homepage.mac.com-gregzilm.warc.gz	7140
+gregzilm	public.me.com	2012-04-01 01:15:58	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	public.me.com-gregzilm.warc.gz	1917
+gregzilm	web.me.com	2012-04-01 01:15:58	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	web.me.com-gregzilm.warc.gz	22492
+j.p.richard	gallery.me.com	2012-04-01 05:10:30	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	gallery.me.com-j.p.richard.warc.gz	6995046575
+j.p.richard	homepage.mac.com	2012-04-01 05:10:31	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	homepage.mac.com-j.p.richard.warc.gz	4933
+j.p.richard	public.me.com	2012-04-01 03:01:41	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	public.me.com-j.p.richard.warc.gz	1926
+j.p.richard	web.me.com	2012-04-01 03:01:14	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	web.me.com-j.p.richard.warc.gz	1237233328
+jabiddle	gallery.me.com	2012-04-01 01:44:34	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	gallery.me.com-jabiddle.warc.gz	428870567
+jabiddle	homepage.mac.com	2012-04-01 01:44:37	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	homepage.mac.com-jabiddle.warc.gz	4892
+jabiddle	public.me.com	2012-04-01 01:29:18	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	public.me.com-jabiddle.warc.gz	1917
+jabiddle	web.me.com	2012-04-01 01:29:17	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	web.me.com-jabiddle.warc.gz	112733607
+lukesares	gallery.me.com	2012-04-01 01:15:56	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	gallery.me.com-lukesares.warc.gz	41401719
+lukesares	homepage.mac.com	2012-04-01 01:15:57	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	homepage.mac.com-lukesares.warc.gz	4904
+lukesares	public.me.com	2012-04-01 01:14:57	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	public.me.com-lukesares.warc.gz	2212371151
+lukesares	web.me.com	2012-04-01 00:40:41	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2598.tar	web.me.com-lukesares.warc.gz	71815089

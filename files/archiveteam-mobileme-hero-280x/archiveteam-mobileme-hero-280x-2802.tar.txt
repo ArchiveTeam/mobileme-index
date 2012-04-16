@@ -1,16 +1,16 @@
-may.yan	gallery.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	gallery.me.com-may.yan.warc.gz	0
-may.yan	homepage.mac.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	homepage.mac.com-may.yan.warc.gz	0
-may.yan	public.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	public.me.com-may.yan.warc.gz	0
-may.yan	web.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	web.me.com-may.yan.warc.gz	0
-nadia.mac	gallery.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	gallery.me.com-nadia.mac.warc.gz	0
-nadia.mac	homepage.mac.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	homepage.mac.com-nadia.mac.warc.gz	0
-nadia.mac	public.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	public.me.com-nadia.mac.warc.gz	0
-nadia.mac	web.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	web.me.com-nadia.mac.warc.gz	0
-playvaplayve	gallery.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	gallery.me.com-playvaplayve.warc.gz	0
-playvaplayve	homepage.mac.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	homepage.mac.com-playvaplayve.warc.gz	0
-playvaplayve	public.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	public.me.com-playvaplayve.warc.gz	0
-playvaplayve	web.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	web.me.com-playvaplayve.warc.gz	0
-taraju	gallery.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	gallery.me.com-taraju.warc.gz	0
-taraju	homepage.mac.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	homepage.mac.com-taraju.warc.gz	0
-taraju	public.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	public.me.com-taraju.warc.gz	0
-taraju	web.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	web.me.com-taraju.warc.gz	0
+may.yan	gallery.me.com	2012-04-01 20:02:55	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	gallery.me.com-may.yan.warc.gz	5018
+may.yan	homepage.mac.com	2012-04-01 20:03:18	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	homepage.mac.com-may.yan.warc.gz	419677
+may.yan	public.me.com	2012-04-01 20:02:55	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	public.me.com-may.yan.warc.gz	135468381
+may.yan	web.me.com	2012-04-01 19:58:24	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	web.me.com-may.yan.warc.gz	28848
+nadia.mac	gallery.me.com	2012-04-01 20:21:47	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	gallery.me.com-nadia.mac.warc.gz	4275
+nadia.mac	homepage.mac.com	2012-04-01 20:21:47	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	homepage.mac.com-nadia.mac.warc.gz	4911
+nadia.mac	public.me.com	2012-04-01 20:21:46	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	public.me.com-nadia.mac.warc.gz	1919
+nadia.mac	web.me.com	2012-04-01 20:21:45	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	web.me.com-nadia.mac.warc.gz	120342827
+playvaplayve	gallery.me.com	2012-04-01 19:58:19	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	gallery.me.com-playvaplayve.warc.gz	299310787
+playvaplayve	homepage.mac.com	2012-04-01 19:58:22	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	homepage.mac.com-playvaplayve.warc.gz	101507
+playvaplayve	public.me.com	2012-04-01 19:49:15	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	public.me.com-playvaplayve.warc.gz	1921
+playvaplayve	web.me.com	2012-04-01 19:49:14	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	web.me.com-playvaplayve.warc.gz	4016800
+taraju	gallery.me.com	2012-04-02 02:33:46	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	gallery.me.com-taraju.warc.gz	6609968859
+taraju	homepage.mac.com	2012-04-02 02:33:46	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	homepage.mac.com-taraju.warc.gz	4882
+taraju	public.me.com	2012-04-01 21:37:42	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	public.me.com-taraju.warc.gz	9278
+taraju	web.me.com	2012-04-01 21:37:14	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2802.tar	web.me.com-taraju.warc.gz	288014459

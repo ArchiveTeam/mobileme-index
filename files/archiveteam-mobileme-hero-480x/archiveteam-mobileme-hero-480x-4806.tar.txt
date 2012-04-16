@@ -1,12 +1,12 @@
-kurtsyurt	gallery.me.com		archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	gallery.me.com-kurtsyurt.warc.gz	0
-kurtsyurt	homepage.mac.com		archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	homepage.mac.com-kurtsyurt.warc.gz	0
-kurtsyurt	public.me.com		archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	public.me.com-kurtsyurt.warc.gz	0
-kurtsyurt	web.me.com		archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	web.me.com-kurtsyurt.warc.gz	0
-shimizu.k	gallery.me.com		archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	gallery.me.com-shimizu.k.warc.gz	0
-shimizu.k	homepage.mac.com		archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	homepage.mac.com-shimizu.k.warc.gz	0
-shimizu.k	public.me.com		archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	public.me.com-shimizu.k.warc.gz	0
-shimizu.k	web.me.com		archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	web.me.com-shimizu.k.warc.gz	0
-vincec	gallery.me.com		archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	gallery.me.com-vincec.warc.gz	0
-vincec	homepage.mac.com		archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	homepage.mac.com-vincec.warc.gz	0
-vincec	public.me.com		archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	public.me.com-vincec.warc.gz	0
-vincec	web.me.com		archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	web.me.com-vincec.warc.gz	0
+kurtsyurt	gallery.me.com	2012-04-06 13:55:58	archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	gallery.me.com-kurtsyurt.warc.gz	4260
+kurtsyurt	homepage.mac.com	2012-04-06 13:56:01	archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	homepage.mac.com-kurtsyurt.warc.gz	4915
+kurtsyurt	public.me.com	2012-04-06 13:55:57	archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	public.me.com-kurtsyurt.warc.gz	1915
+kurtsyurt	web.me.com	2012-04-06 13:55:55	archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	web.me.com-kurtsyurt.warc.gz	11536011
+shimizu.k	gallery.me.com	2012-04-06 13:43:24	archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	gallery.me.com-shimizu.k.warc.gz	4260
+shimizu.k	homepage.mac.com	2012-04-06 13:43:24	archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	homepage.mac.com-shimizu.k.warc.gz	4922
+shimizu.k	public.me.com	2012-04-06 13:43:22	archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	public.me.com-shimizu.k.warc.gz	1920
+shimizu.k	web.me.com	2012-04-06 13:43:22	archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	web.me.com-shimizu.k.warc.gz	21084459
+vincec	gallery.me.com	2012-04-06 21:12:53	archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	gallery.me.com-vincec.warc.gz	4121399066
+vincec	homepage.mac.com	2012-04-06 21:12:58	archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	homepage.mac.com-vincec.warc.gz	71097
+vincec	public.me.com	2012-04-06 19:08:52	archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	public.me.com-vincec.warc.gz	5854112437
+vincec	web.me.com	2012-04-06 16:43:15	archiveteam-mobileme-hero-480x	archiveteam-mobileme-hero-480x-4806.tar	web.me.com-vincec.warc.gz	2613367848

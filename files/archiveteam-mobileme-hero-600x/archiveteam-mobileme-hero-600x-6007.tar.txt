@@ -1,24 +1,24 @@
-bromptonhouse	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	gallery.me.com-bromptonhouse.warc.gz	0
-bromptonhouse	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	homepage.mac.com-bromptonhouse.warc.gz	0
-bromptonhouse	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	public.me.com-bromptonhouse.warc.gz	0
-bromptonhouse	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	web.me.com-bromptonhouse.warc.gz	0
-polarmedia	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	gallery.me.com-polarmedia.warc.gz	0
-polarmedia	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	homepage.mac.com-polarmedia.warc.gz	0
-polarmedia	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	public.me.com-polarmedia.warc.gz	0
-polarmedia	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	web.me.com-polarmedia.warc.gz	0
-srramsey	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	gallery.me.com-srramsey.warc.gz	0
-srramsey	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	homepage.mac.com-srramsey.warc.gz	0
-srramsey	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	public.me.com-srramsey.warc.gz	0
-srramsey	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	web.me.com-srramsey.warc.gz	0
-sthaines	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	gallery.me.com-sthaines.warc.gz	0
-sthaines	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	homepage.mac.com-sthaines.warc.gz	0
-sthaines	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	public.me.com-sthaines.warc.gz	0
-sthaines	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	web.me.com-sthaines.warc.gz	0
-weaper	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	gallery.me.com-weaper.warc.gz	0
-weaper	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	homepage.mac.com-weaper.warc.gz	0
-weaper	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	public.me.com-weaper.warc.gz	0
-weaper	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	web.me.com-weaper.warc.gz	0
-willminey	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	gallery.me.com-willminey.warc.gz	0
-willminey	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	homepage.mac.com-willminey.warc.gz	0
-willminey	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	public.me.com-willminey.warc.gz	0
-willminey	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	web.me.com-willminey.warc.gz	0
+bromptonhouse	gallery.me.com	2012-04-10 17:45:57	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	gallery.me.com-bromptonhouse.warc.gz	5050
+bromptonhouse	homepage.mac.com	2012-04-10 17:45:57	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	homepage.mac.com-bromptonhouse.warc.gz	4912
+bromptonhouse	public.me.com	2012-04-10 17:45:56	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	public.me.com-bromptonhouse.warc.gz	1926
+bromptonhouse	web.me.com	2012-04-10 17:45:55	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	web.me.com-bromptonhouse.warc.gz	685108416
+polarmedia	gallery.me.com	2012-04-10 17:46:02	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	gallery.me.com-polarmedia.warc.gz	4992
+polarmedia	homepage.mac.com	2012-04-10 17:46:05	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	homepage.mac.com-polarmedia.warc.gz	37006
+polarmedia	public.me.com	2012-04-10 17:46:02	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	public.me.com-polarmedia.warc.gz	1921
+polarmedia	web.me.com	2012-04-10 17:46:01	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	web.me.com-polarmedia.warc.gz	28940
+srramsey	gallery.me.com	2012-04-10 11:03:18	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	gallery.me.com-srramsey.warc.gz	6563
+srramsey	homepage.mac.com	2012-04-10 11:03:19	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	homepage.mac.com-srramsey.warc.gz	7854
+srramsey	public.me.com	2012-04-10 11:03:15	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	public.me.com-srramsey.warc.gz	499108084
+srramsey	web.me.com	2012-04-10 11:00:49	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	web.me.com-srramsey.warc.gz	391065580
+sthaines	gallery.me.com	2012-04-10 17:35:30	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	gallery.me.com-sthaines.warc.gz	157342064
+sthaines	homepage.mac.com	2012-04-10 17:35:37	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	homepage.mac.com-sthaines.warc.gz	49752
+sthaines	public.me.com	2012-04-10 17:25:46	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	public.me.com-sthaines.warc.gz	1912
+sthaines	web.me.com	2012-04-10 17:25:45	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	web.me.com-sthaines.warc.gz	55928737
+weaper	gallery.me.com	2012-04-10 17:19:14	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	gallery.me.com-weaper.warc.gz	4240
+weaper	homepage.mac.com	2012-04-10 17:19:14	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	homepage.mac.com-weaper.warc.gz	4901
+weaper	public.me.com	2012-04-10 17:19:13	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	public.me.com-weaper.warc.gz	1916
+weaper	web.me.com	2012-04-10 17:19:11	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	web.me.com-weaper.warc.gz	2002813112
+willminey	gallery.me.com	2012-04-10 18:02:59	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	gallery.me.com-willminey.warc.gz	285477580
+willminey	homepage.mac.com	2012-04-10 18:02:59	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	homepage.mac.com-willminey.warc.gz	4926
+willminey	public.me.com	2012-04-10 17:56:06	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	public.me.com-willminey.warc.gz	1921
+willminey	web.me.com	2012-04-10 17:56:05	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6007.tar	web.me.com-willminey.warc.gz	288209363

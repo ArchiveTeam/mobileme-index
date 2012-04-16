@@ -1,20 +1,20 @@
-bobbi.mears	gallery.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	gallery.me.com-bobbi.mears.warc.gz	0
-bobbi.mears	homepage.mac.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	homepage.mac.com-bobbi.mears.warc.gz	0
-bobbi.mears	public.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	public.me.com-bobbi.mears.warc.gz	0
-bobbi.mears	web.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	web.me.com-bobbi.mears.warc.gz	0
-ddhw	gallery.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	gallery.me.com-ddhw.warc.gz	0
-ddhw	homepage.mac.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	homepage.mac.com-ddhw.warc.gz	0
-ddhw	public.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	public.me.com-ddhw.warc.gz	0
-ddhw	web.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	web.me.com-ddhw.warc.gz	0
-lachyogafreising	gallery.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	gallery.me.com-lachyogafreising.warc.gz	0
-lachyogafreising	homepage.mac.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	homepage.mac.com-lachyogafreising.warc.gz	0
-lachyogafreising	public.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	public.me.com-lachyogafreising.warc.gz	0
-lachyogafreising	web.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	web.me.com-lachyogafreising.warc.gz	0
-mikedodge	gallery.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	gallery.me.com-mikedodge.warc.gz	0
-mikedodge	homepage.mac.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	homepage.mac.com-mikedodge.warc.gz	0
-mikedodge	public.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	public.me.com-mikedodge.warc.gz	0
-mikedodge	web.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	web.me.com-mikedodge.warc.gz	0
-robinlair	gallery.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	gallery.me.com-robinlair.warc.gz	0
-robinlair	homepage.mac.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	homepage.mac.com-robinlair.warc.gz	0
-robinlair	public.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	public.me.com-robinlair.warc.gz	0
-robinlair	web.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	web.me.com-robinlair.warc.gz	0
+bobbi.mears	gallery.me.com	2012-04-09 10:10:45	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	gallery.me.com-bobbi.mears.warc.gz	53941
+bobbi.mears	homepage.mac.com	2012-04-09 10:10:45	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	homepage.mac.com-bobbi.mears.warc.gz	4921
+bobbi.mears	public.me.com	2012-04-09 10:10:41	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	public.me.com-bobbi.mears.warc.gz	2152251003
+bobbi.mears	web.me.com	2012-04-09 09:24:07	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	web.me.com-bobbi.mears.warc.gz	165439134
+ddhw	gallery.me.com	2012-04-09 08:33:19	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	gallery.me.com-ddhw.warc.gz	4265
+ddhw	homepage.mac.com	2012-04-09 08:33:19	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	homepage.mac.com-ddhw.warc.gz	4889
+ddhw	public.me.com	2012-04-09 08:33:18	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	public.me.com-ddhw.warc.gz	1910
+ddhw	web.me.com	2012-04-09 08:33:17	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	web.me.com-ddhw.warc.gz	5261300
+lachyogafreising	gallery.me.com	2012-04-09 06:20:31	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	gallery.me.com-lachyogafreising.warc.gz	4288
+lachyogafreising	homepage.mac.com	2012-04-09 06:20:31	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	homepage.mac.com-lachyogafreising.warc.gz	4930
+lachyogafreising	public.me.com	2012-04-09 06:20:30	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	public.me.com-lachyogafreising.warc.gz	1934
+lachyogafreising	web.me.com	2012-04-09 06:20:29	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	web.me.com-lachyogafreising.warc.gz	868460
+mikedodge	gallery.me.com	2012-04-09 08:29:37	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	gallery.me.com-mikedodge.warc.gz	2299484373
+mikedodge	homepage.mac.com	2012-04-09 08:29:37	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	homepage.mac.com-mikedodge.warc.gz	4928
+mikedodge	public.me.com	2012-04-09 07:21:43	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	public.me.com-mikedodge.warc.gz	1924
+mikedodge	web.me.com	2012-04-09 07:21:41	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	web.me.com-mikedodge.warc.gz	933611038
+robinlair	gallery.me.com	2012-04-09 06:19:41	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	gallery.me.com-robinlair.warc.gz	773793815
+robinlair	homepage.mac.com	2012-04-09 06:19:41	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	homepage.mac.com-robinlair.warc.gz	4920
+robinlair	public.me.com	2012-04-09 05:21:11	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	public.me.com-robinlair.warc.gz	1915
+robinlair	web.me.com	2012-04-09 05:21:11	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5415.tar	web.me.com-robinlair.warc.gz	25804520

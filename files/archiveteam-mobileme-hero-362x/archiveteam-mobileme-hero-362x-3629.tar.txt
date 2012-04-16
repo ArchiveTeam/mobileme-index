@@ -1,12 +1,12 @@
-ekita	gallery.me.com		archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	gallery.me.com-ekita.warc.gz	0
-ekita	homepage.mac.com		archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	homepage.mac.com-ekita.warc.gz	0
-ekita	public.me.com		archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	public.me.com-ekita.warc.gz	0
-ekita	web.me.com		archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	web.me.com-ekita.warc.gz	0
-hirefishbrain	gallery.me.com		archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	gallery.me.com-hirefishbrain.warc.gz	0
-hirefishbrain	homepage.mac.com		archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	homepage.mac.com-hirefishbrain.warc.gz	0
-hirefishbrain	public.me.com		archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	public.me.com-hirefishbrain.warc.gz	0
-hirefishbrain	web.me.com		archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	web.me.com-hirefishbrain.warc.gz	0
-ronaldmueller	gallery.me.com		archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	gallery.me.com-ronaldmueller.warc.gz	0
-ronaldmueller	homepage.mac.com		archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	homepage.mac.com-ronaldmueller.warc.gz	0
-ronaldmueller	public.me.com		archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	public.me.com-ronaldmueller.warc.gz	0
-ronaldmueller	web.me.com		archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	web.me.com-ronaldmueller.warc.gz	0
+ekita	gallery.me.com	2012-04-03 21:03:43	archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	gallery.me.com-ekita.warc.gz	4655004
+ekita	homepage.mac.com	2012-04-03 21:03:44	archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	homepage.mac.com-ekita.warc.gz	4877
+ekita	public.me.com	2012-04-03 21:03:36	archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	public.me.com-ekita.warc.gz	1907
+ekita	web.me.com	2012-04-03 21:03:36	archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	web.me.com-ekita.warc.gz	402181280
+hirefishbrain	gallery.me.com	2012-04-03 21:26:24	archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	gallery.me.com-hirefishbrain.warc.gz	347838917
+hirefishbrain	homepage.mac.com	2012-04-03 21:26:32	archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	homepage.mac.com-hirefishbrain.warc.gz	125603
+hirefishbrain	public.me.com	2012-04-03 21:13:08	archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	public.me.com-hirefishbrain.warc.gz	1928
+hirefishbrain	web.me.com	2012-04-03 21:13:08	archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	web.me.com-hirefishbrain.warc.gz	266053384
+ronaldmueller	gallery.me.com	2012-04-04 01:47:04	archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	gallery.me.com-ronaldmueller.warc.gz	3791163706
+ronaldmueller	homepage.mac.com	2012-04-04 01:47:05	archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	homepage.mac.com-ronaldmueller.warc.gz	3940
+ronaldmueller	public.me.com	2012-04-03 23:53:03	archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	public.me.com-ronaldmueller.warc.gz	176739579
+ronaldmueller	web.me.com	2012-04-03 23:51:06	archiveteam-mobileme-hero-362x	archiveteam-mobileme-hero-362x-3629.tar	web.me.com-ronaldmueller.warc.gz	1080359616

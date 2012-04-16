@@ -1,8 +1,8 @@
-haleyeah64	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4338.tar	gallery.me.com-haleyeah64.warc.gz	0
-haleyeah64	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4338.tar	homepage.mac.com-haleyeah64.warc.gz	0
-haleyeah64	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4338.tar	public.me.com-haleyeah64.warc.gz	0
-haleyeah64	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4338.tar	web.me.com-haleyeah64.warc.gz	0
-tm510a	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4338.tar	gallery.me.com-tm510a.warc.gz	0
-tm510a	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4338.tar	homepage.mac.com-tm510a.warc.gz	0
-tm510a	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4338.tar	public.me.com-tm510a.warc.gz	0
-tm510a	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4338.tar	web.me.com-tm510a.warc.gz	0
+haleyeah64	gallery.me.com	2012-04-05 18:43:31	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4338.tar	gallery.me.com-haleyeah64.warc.gz	3642356447
+haleyeah64	homepage.mac.com	2012-04-05 18:43:31	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4338.tar	homepage.mac.com-haleyeah64.warc.gz	7185
+haleyeah64	public.me.com	2012-04-05 17:32:10	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4338.tar	public.me.com-haleyeah64.warc.gz	83769272
+haleyeah64	web.me.com	2012-04-05 17:31:07	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4338.tar	web.me.com-haleyeah64.warc.gz	3607711595
+tm510a	gallery.me.com	2012-04-05 15:01:25	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4338.tar	gallery.me.com-tm510a.warc.gz	4188680
+tm510a	homepage.mac.com	2012-04-05 15:01:25	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4338.tar	homepage.mac.com-tm510a.warc.gz	4899
+tm510a	public.me.com	2012-04-05 15:01:16	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4338.tar	public.me.com-tm510a.warc.gz	89530830
+tm510a	web.me.com	2012-04-05 14:59:13	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4338.tar	web.me.com-tm510a.warc.gz	82675488

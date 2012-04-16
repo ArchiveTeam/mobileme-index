@@ -1,16 +1,16 @@
-huckfam	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	gallery.me.com-huckfam.warc.gz	0
-huckfam	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	homepage.mac.com-huckfam.warc.gz	0
-huckfam	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	public.me.com-huckfam.warc.gz	0
-huckfam	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	web.me.com-huckfam.warc.gz	0
-j.s.martin	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	gallery.me.com-j.s.martin.warc.gz	0
-j.s.martin	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	homepage.mac.com-j.s.martin.warc.gz	0
-j.s.martin	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	public.me.com-j.s.martin.warc.gz	0
-j.s.martin	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	web.me.com-j.s.martin.warc.gz	0
-klkluge	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	gallery.me.com-klkluge.warc.gz	0
-klkluge	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	homepage.mac.com-klkluge.warc.gz	0
-klkluge	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	public.me.com-klkluge.warc.gz	0
-klkluge	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	web.me.com-klkluge.warc.gz	0
-samlimstudio	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	gallery.me.com-samlimstudio.warc.gz	0
-samlimstudio	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	homepage.mac.com-samlimstudio.warc.gz	0
-samlimstudio	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	public.me.com-samlimstudio.warc.gz	0
-samlimstudio	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	web.me.com-samlimstudio.warc.gz	0
+huckfam	gallery.me.com	2012-04-03 14:40:23	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	gallery.me.com-huckfam.warc.gz	8337
+huckfam	homepage.mac.com	2012-04-03 14:40:23	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	homepage.mac.com-huckfam.warc.gz	5154
+huckfam	public.me.com	2012-04-03 14:40:22	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	public.me.com-huckfam.warc.gz	1917
+huckfam	web.me.com	2012-04-03 14:40:22	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	web.me.com-huckfam.warc.gz	17700
+j.s.martin	gallery.me.com	2012-04-03 17:46:02	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	gallery.me.com-j.s.martin.warc.gz	3867577184
+j.s.martin	homepage.mac.com	2012-04-03 17:46:02	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	homepage.mac.com-j.s.martin.warc.gz	4923
+j.s.martin	public.me.com	2012-04-03 16:03:09	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	public.me.com-j.s.martin.warc.gz	1923
+j.s.martin	web.me.com	2012-04-03 16:01:39	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	web.me.com-j.s.martin.warc.gz	1501333900
+klkluge	gallery.me.com	2012-04-03 14:40:20	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	gallery.me.com-klkluge.warc.gz	310647712
+klkluge	homepage.mac.com	2012-04-03 14:40:20	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	homepage.mac.com-klkluge.warc.gz	4885
+klkluge	public.me.com	2012-04-03 14:38:48	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	public.me.com-klkluge.warc.gz	18384
+klkluge	web.me.com	2012-04-03 14:38:46	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	web.me.com-klkluge.warc.gz	226171348
+samlimstudio	gallery.me.com	2012-04-03 14:29:09	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	gallery.me.com-samlimstudio.warc.gz	5362
+samlimstudio	homepage.mac.com	2012-04-03 14:29:09	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	homepage.mac.com-samlimstudio.warc.gz	4930
+samlimstudio	public.me.com	2012-04-03 14:29:07	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	public.me.com-samlimstudio.warc.gz	1922
+samlimstudio	web.me.com	2012-04-03 14:29:07	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3512.tar	web.me.com-samlimstudio.warc.gz	7326764

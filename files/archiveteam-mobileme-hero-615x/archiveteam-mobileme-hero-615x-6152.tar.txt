@@ -1,16 +1,16 @@
-djtoddy	gallery.me.com		archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	gallery.me.com-djtoddy.warc.gz	0
-djtoddy	homepage.mac.com		archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	homepage.mac.com-djtoddy.warc.gz	0
-djtoddy	public.me.com		archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	public.me.com-djtoddy.warc.gz	0
-djtoddy	web.me.com		archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	web.me.com-djtoddy.warc.gz	0
-jenniferrushjacobs	gallery.me.com		archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	gallery.me.com-jenniferrushjacobs.warc.gz	0
-jenniferrushjacobs	homepage.mac.com		archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	homepage.mac.com-jenniferrushjacobs.warc.gz	0
-jenniferrushjacobs	public.me.com		archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	public.me.com-jenniferrushjacobs.warc.gz	0
-jenniferrushjacobs	web.me.com		archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	web.me.com-jenniferrushjacobs.warc.gz	0
-patrickschmidtz	gallery.me.com		archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	gallery.me.com-patrickschmidtz.warc.gz	0
-patrickschmidtz	homepage.mac.com		archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	homepage.mac.com-patrickschmidtz.warc.gz	0
-patrickschmidtz	public.me.com		archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	public.me.com-patrickschmidtz.warc.gz	0
-patrickschmidtz	web.me.com		archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	web.me.com-patrickschmidtz.warc.gz	0
-zarashi	gallery.me.com		archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	gallery.me.com-zarashi.warc.gz	0
-zarashi	homepage.mac.com		archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	homepage.mac.com-zarashi.warc.gz	0
-zarashi	public.me.com		archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	public.me.com-zarashi.warc.gz	0
-zarashi	web.me.com		archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	web.me.com-zarashi.warc.gz	0
+djtoddy	gallery.me.com	2012-04-11 00:47:26	archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	gallery.me.com-djtoddy.warc.gz	3277079431
+djtoddy	homepage.mac.com	2012-04-11 00:47:26	archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	homepage.mac.com-djtoddy.warc.gz	4893
+djtoddy	public.me.com	2012-04-10 23:39:10	archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	public.me.com-djtoddy.warc.gz	1918
+djtoddy	web.me.com	2012-04-10 23:39:08	archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	web.me.com-djtoddy.warc.gz	719237618
+jenniferrushjacobs	gallery.me.com	2012-04-10 23:29:01	archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	gallery.me.com-jenniferrushjacobs.warc.gz	12355
+jenniferrushjacobs	homepage.mac.com	2012-04-10 23:29:01	archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	homepage.mac.com-jenniferrushjacobs.warc.gz	7174
+jenniferrushjacobs	public.me.com	2012-04-10 23:28:58	archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	public.me.com-jenniferrushjacobs.warc.gz	1945
+jenniferrushjacobs	web.me.com	2012-04-10 23:28:58	archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	web.me.com-jenniferrushjacobs.warc.gz	22537
+patrickschmidtz	gallery.me.com	2012-04-11 00:58:07	archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	gallery.me.com-patrickschmidtz.warc.gz	5064
+patrickschmidtz	homepage.mac.com	2012-04-11 00:58:07	archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	homepage.mac.com-patrickschmidtz.warc.gz	4945
+patrickschmidtz	public.me.com	2012-04-11 00:58:06	archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	public.me.com-patrickschmidtz.warc.gz	1930
+patrickschmidtz	web.me.com	2012-04-11 00:58:06	archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	web.me.com-patrickschmidtz.warc.gz	99059602
+zarashi	gallery.me.com	2012-04-11 01:28:09	archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	gallery.me.com-zarashi.warc.gz	4248
+zarashi	homepage.mac.com	2012-04-11 01:28:09	archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	homepage.mac.com-zarashi.warc.gz	4898
+zarashi	public.me.com	2012-04-11 01:28:09	archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	public.me.com-zarashi.warc.gz	203665197
+zarashi	web.me.com	2012-04-11 00:59:52	archiveteam-mobileme-hero-615x	archiveteam-mobileme-hero-615x-6152.tar	web.me.com-zarashi.warc.gz	21823464

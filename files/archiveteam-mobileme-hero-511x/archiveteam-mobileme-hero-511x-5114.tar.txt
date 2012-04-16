@@ -1,8 +1,8 @@
-macgreg	gallery.me.com		archiveteam-mobileme-hero-511x	archiveteam-mobileme-hero-511x-5114.tar	gallery.me.com-macgreg.warc.gz	0
-macgreg	homepage.mac.com		archiveteam-mobileme-hero-511x	archiveteam-mobileme-hero-511x-5114.tar	homepage.mac.com-macgreg.warc.gz	0
-macgreg	public.me.com		archiveteam-mobileme-hero-511x	archiveteam-mobileme-hero-511x-5114.tar	public.me.com-macgreg.warc.gz	0
-macgreg	web.me.com		archiveteam-mobileme-hero-511x	archiveteam-mobileme-hero-511x-5114.tar	web.me.com-macgreg.warc.gz	0
-ngpcreative	gallery.me.com		archiveteam-mobileme-hero-511x	archiveteam-mobileme-hero-511x-5114.tar	gallery.me.com-ngpcreative.warc.gz	0
-ngpcreative	homepage.mac.com		archiveteam-mobileme-hero-511x	archiveteam-mobileme-hero-511x-5114.tar	homepage.mac.com-ngpcreative.warc.gz	0
-ngpcreative	public.me.com		archiveteam-mobileme-hero-511x	archiveteam-mobileme-hero-511x-5114.tar	public.me.com-ngpcreative.warc.gz	0
-ngpcreative	web.me.com		archiveteam-mobileme-hero-511x	archiveteam-mobileme-hero-511x-5114.tar	web.me.com-ngpcreative.warc.gz	0
+macgreg	gallery.me.com	2012-04-08 01:11:50	archiveteam-mobileme-hero-511x	archiveteam-mobileme-hero-511x-5114.tar	gallery.me.com-macgreg.warc.gz	5904
+macgreg	homepage.mac.com	2012-04-08 01:11:50	archiveteam-mobileme-hero-511x	archiveteam-mobileme-hero-511x-5114.tar	homepage.mac.com-macgreg.warc.gz	4891
+macgreg	public.me.com	2012-04-08 01:11:48	archiveteam-mobileme-hero-511x	archiveteam-mobileme-hero-511x-5114.tar	public.me.com-macgreg.warc.gz	630101532
+macgreg	web.me.com	2012-04-08 01:07:59	archiveteam-mobileme-hero-511x	archiveteam-mobileme-hero-511x-5114.tar	web.me.com-macgreg.warc.gz	186223046
+ngpcreative	gallery.me.com	2012-04-08 04:35:24	archiveteam-mobileme-hero-511x	archiveteam-mobileme-hero-511x-5114.tar	gallery.me.com-ngpcreative.warc.gz	3369162065
+ngpcreative	homepage.mac.com	2012-04-08 04:35:24	archiveteam-mobileme-hero-511x	archiveteam-mobileme-hero-511x-5114.tar	homepage.mac.com-ngpcreative.warc.gz	4914
+ngpcreative	public.me.com	2012-04-08 03:22:47	archiveteam-mobileme-hero-511x	archiveteam-mobileme-hero-511x-5114.tar	public.me.com-ngpcreative.warc.gz	1923
+ngpcreative	web.me.com	2012-04-08 03:22:39	archiveteam-mobileme-hero-511x	archiveteam-mobileme-hero-511x-5114.tar	web.me.com-ngpcreative.warc.gz	747181781

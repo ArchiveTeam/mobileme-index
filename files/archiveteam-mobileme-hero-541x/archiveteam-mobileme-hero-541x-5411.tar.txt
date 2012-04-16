@@ -1,12 +1,12 @@
-jamiebutcher	gallery.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	gallery.me.com-jamiebutcher.warc.gz	0
-jamiebutcher	homepage.mac.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	homepage.mac.com-jamiebutcher.warc.gz	0
-jamiebutcher	public.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	public.me.com-jamiebutcher.warc.gz	0
-jamiebutcher	web.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	web.me.com-jamiebutcher.warc.gz	0
-l.acalet	gallery.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	gallery.me.com-l.acalet.warc.gz	0
-l.acalet	homepage.mac.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	homepage.mac.com-l.acalet.warc.gz	0
-l.acalet	public.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	public.me.com-l.acalet.warc.gz	0
-l.acalet	web.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	web.me.com-l.acalet.warc.gz	0
-vincent.dimaggio	gallery.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	gallery.me.com-vincent.dimaggio.warc.gz	0
-vincent.dimaggio	homepage.mac.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	homepage.mac.com-vincent.dimaggio.warc.gz	0
-vincent.dimaggio	public.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	public.me.com-vincent.dimaggio.warc.gz	0
-vincent.dimaggio	web.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	web.me.com-vincent.dimaggio.warc.gz	0
+jamiebutcher	gallery.me.com	2012-04-09 07:11:06	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	gallery.me.com-jamiebutcher.warc.gz	894227
+jamiebutcher	homepage.mac.com	2012-04-09 07:11:06	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	homepage.mac.com-jamiebutcher.warc.gz	4938
+jamiebutcher	public.me.com	2012-04-09 07:11:03	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	public.me.com-jamiebutcher.warc.gz	1927
+jamiebutcher	web.me.com	2012-04-09 07:11:03	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	web.me.com-jamiebutcher.warc.gz	15983241
+l.acalet	gallery.me.com	2012-04-09 07:40:26	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	gallery.me.com-l.acalet.warc.gz	1918688694
+l.acalet	homepage.mac.com	2012-04-09 07:40:27	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	homepage.mac.com-l.acalet.warc.gz	4910
+l.acalet	public.me.com	2012-04-09 07:18:43	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	public.me.com-l.acalet.warc.gz	1917
+l.acalet	web.me.com	2012-04-09 07:18:42	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	web.me.com-l.acalet.warc.gz	41194376
+vincent.dimaggio	gallery.me.com	2012-04-09 09:00:33	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	gallery.me.com-vincent.dimaggio.warc.gz	27947337
+vincent.dimaggio	homepage.mac.com	2012-04-09 09:00:33	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	homepage.mac.com-vincent.dimaggio.warc.gz	4925
+vincent.dimaggio	public.me.com	2012-04-09 09:00:06	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	public.me.com-vincent.dimaggio.warc.gz	4718878494
+vincent.dimaggio	web.me.com	2012-04-09 07:40:49	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5411.tar	web.me.com-vincent.dimaggio.warc.gz	1558289

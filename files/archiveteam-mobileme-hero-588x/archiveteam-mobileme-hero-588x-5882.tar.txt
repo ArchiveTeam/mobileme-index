@@ -1,12 +1,12 @@
-dddouthit	gallery.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	gallery.me.com-dddouthit.warc.gz	0
-dddouthit	homepage.mac.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	homepage.mac.com-dddouthit.warc.gz	0
-dddouthit	public.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	public.me.com-dddouthit.warc.gz	0
-dddouthit	web.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	web.me.com-dddouthit.warc.gz	0
-johnrettenmayer	gallery.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	gallery.me.com-johnrettenmayer.warc.gz	0
-johnrettenmayer	homepage.mac.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	homepage.mac.com-johnrettenmayer.warc.gz	0
-johnrettenmayer	public.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	public.me.com-johnrettenmayer.warc.gz	0
-johnrettenmayer	web.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	web.me.com-johnrettenmayer.warc.gz	0
-melvin.dillon	gallery.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	gallery.me.com-melvin.dillon.warc.gz	0
-melvin.dillon	homepage.mac.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	homepage.mac.com-melvin.dillon.warc.gz	0
-melvin.dillon	public.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	public.me.com-melvin.dillon.warc.gz	0
-melvin.dillon	web.me.com		archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	web.me.com-melvin.dillon.warc.gz	0
+dddouthit	gallery.me.com	2012-04-10 04:57:22	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	gallery.me.com-dddouthit.warc.gz	4237
+dddouthit	homepage.mac.com	2012-04-10 04:57:29	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	homepage.mac.com-dddouthit.warc.gz	112156
+dddouthit	public.me.com	2012-04-10 04:57:22	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	public.me.com-dddouthit.warc.gz	1908
+dddouthit	web.me.com	2012-04-10 04:57:21	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	web.me.com-dddouthit.warc.gz	7396
+johnrettenmayer	gallery.me.com	2012-04-10 05:35:40	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	gallery.me.com-johnrettenmayer.warc.gz	545788009
+johnrettenmayer	homepage.mac.com	2012-04-10 05:35:41	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	homepage.mac.com-johnrettenmayer.warc.gz	4918
+johnrettenmayer	public.me.com	2012-04-10 05:16:41	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	public.me.com-johnrettenmayer.warc.gz	238386495
+johnrettenmayer	web.me.com	2012-04-10 05:08:08	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	web.me.com-johnrettenmayer.warc.gz	390224047
+melvin.dillon	gallery.me.com	2012-04-10 09:43:47	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	gallery.me.com-melvin.dillon.warc.gz	2939248002
+melvin.dillon	homepage.mac.com	2012-04-10 09:43:53	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	homepage.mac.com-melvin.dillon.warc.gz	4933
+melvin.dillon	public.me.com	2012-04-10 07:50:46	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	public.me.com-melvin.dillon.warc.gz	971328311
+melvin.dillon	web.me.com	2012-04-10 07:07:48	archiveteam-mobileme-hero-588x	archiveteam-mobileme-hero-588x-5882.tar	web.me.com-melvin.dillon.warc.gz	1110650007

@@ -1,8 +1,8 @@
-frankdegraeve	gallery.me.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2831.tar	gallery.me.com-frankdegraeve.warc.gz	0
-frankdegraeve	homepage.mac.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2831.tar	homepage.mac.com-frankdegraeve.warc.gz	0
-frankdegraeve	public.me.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2831.tar	public.me.com-frankdegraeve.warc.gz	0
-frankdegraeve	web.me.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2831.tar	web.me.com-frankdegraeve.warc.gz	0
-towsontheatre	gallery.me.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2831.tar	gallery.me.com-towsontheatre.warc.gz	0
-towsontheatre	homepage.mac.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2831.tar	homepage.mac.com-towsontheatre.warc.gz	0
-towsontheatre	public.me.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2831.tar	public.me.com-towsontheatre.warc.gz	0
-towsontheatre	web.me.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2831.tar	web.me.com-towsontheatre.warc.gz	0
+frankdegraeve	gallery.me.com	2012-04-02 03:42:50	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2831.tar	gallery.me.com-frankdegraeve.warc.gz	12347
+frankdegraeve	homepage.mac.com	2012-04-02 03:42:50	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2831.tar	homepage.mac.com-frankdegraeve.warc.gz	7172
+frankdegraeve	public.me.com	2012-04-02 03:42:49	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2831.tar	public.me.com-frankdegraeve.warc.gz	1925
+frankdegraeve	web.me.com	2012-04-02 03:42:49	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2831.tar	web.me.com-frankdegraeve.warc.gz	22543
+towsontheatre	gallery.me.com	2012-04-02 04:55:33	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2831.tar	gallery.me.com-towsontheatre.warc.gz	2980191026
+towsontheatre	homepage.mac.com	2012-04-02 04:55:35	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2831.tar	homepage.mac.com-towsontheatre.warc.gz	95746
+towsontheatre	public.me.com	2012-04-02 04:13:16	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2831.tar	public.me.com-towsontheatre.warc.gz	1384661094
+towsontheatre	web.me.com	2012-04-02 04:00:39	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2831.tar	web.me.com-towsontheatre.warc.gz	153808826

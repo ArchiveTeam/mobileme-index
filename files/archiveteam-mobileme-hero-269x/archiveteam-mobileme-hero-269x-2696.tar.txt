@@ -1,8 +1,8 @@
-beelee1113	gallery.me.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2696.tar	gallery.me.com-beelee1113.warc.gz	0
-beelee1113	homepage.mac.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2696.tar	homepage.mac.com-beelee1113.warc.gz	0
-beelee1113	public.me.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2696.tar	public.me.com-beelee1113.warc.gz	0
-beelee1113	web.me.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2696.tar	web.me.com-beelee1113.warc.gz	0
-stephendonahue	gallery.me.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2696.tar	gallery.me.com-stephendonahue.warc.gz	0
-stephendonahue	homepage.mac.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2696.tar	homepage.mac.com-stephendonahue.warc.gz	0
-stephendonahue	public.me.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2696.tar	public.me.com-stephendonahue.warc.gz	0
-stephendonahue	web.me.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2696.tar	web.me.com-stephendonahue.warc.gz	0
+beelee1113	gallery.me.com	2012-04-01 13:14:41	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2696.tar	gallery.me.com-beelee1113.warc.gz	1201738119
+beelee1113	homepage.mac.com	2012-04-01 13:14:42	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2696.tar	homepage.mac.com-beelee1113.warc.gz	4901
+beelee1113	public.me.com	2012-04-01 12:24:44	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2696.tar	public.me.com-beelee1113.warc.gz	1918
+beelee1113	web.me.com	2012-04-01 12:24:43	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2696.tar	web.me.com-beelee1113.warc.gz	39411010
+stephendonahue	gallery.me.com	2012-04-01 15:20:15	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2696.tar	gallery.me.com-stephendonahue.warc.gz	83732993
+stephendonahue	homepage.mac.com	2012-04-01 15:20:15	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2696.tar	homepage.mac.com-stephendonahue.warc.gz	4920
+stephendonahue	public.me.com	2012-04-01 15:16:42	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2696.tar	public.me.com-stephendonahue.warc.gz	4691352055
+stephendonahue	web.me.com	2012-04-01 13:17:24	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2696.tar	web.me.com-stephendonahue.warc.gz	5937994

@@ -1,4 +1,4 @@
-num	gallery.me.com		archiveteam-mobileme-hero-558x	archiveteam-mobileme-hero-558x-5586.tar	gallery.me.com-num.warc.gz	0
-num	homepage.mac.com		archiveteam-mobileme-hero-558x	archiveteam-mobileme-hero-558x-5586.tar	homepage.mac.com-num.warc.gz	0
-num	public.me.com		archiveteam-mobileme-hero-558x	archiveteam-mobileme-hero-558x-5586.tar	public.me.com-num.warc.gz	0
-num	web.me.com		archiveteam-mobileme-hero-558x	archiveteam-mobileme-hero-558x-5586.tar	web.me.com-num.warc.gz	0
+num	gallery.me.com	2012-04-09 18:17:35	archiveteam-mobileme-hero-558x	archiveteam-mobileme-hero-558x-5586.tar	gallery.me.com-num.warc.gz	5269343905
+num	homepage.mac.com	2012-04-09 18:17:39	archiveteam-mobileme-hero-558x	archiveteam-mobileme-hero-558x-5586.tar	homepage.mac.com-num.warc.gz	36785
+num	public.me.com	2012-04-09 15:55:21	archiveteam-mobileme-hero-558x	archiveteam-mobileme-hero-558x-5586.tar	public.me.com-num.warc.gz	1899
+num	web.me.com	2012-04-09 15:55:19	archiveteam-mobileme-hero-558x	archiveteam-mobileme-hero-558x-5586.tar	web.me.com-num.warc.gz	1348336908

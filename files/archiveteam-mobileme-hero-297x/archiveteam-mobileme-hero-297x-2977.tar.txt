@@ -1,12 +1,12 @@
-james.walls	gallery.me.com		archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	gallery.me.com-james.walls.warc.gz	0
-james.walls	homepage.mac.com		archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	homepage.mac.com-james.walls.warc.gz	0
-james.walls	public.me.com		archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	public.me.com-james.walls.warc.gz	0
-james.walls	web.me.com		archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	web.me.com-james.walls.warc.gz	0
-mikedcurtis	gallery.me.com		archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	gallery.me.com-mikedcurtis.warc.gz	0
-mikedcurtis	homepage.mac.com		archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	homepage.mac.com-mikedcurtis.warc.gz	0
-mikedcurtis	public.me.com		archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	public.me.com-mikedcurtis.warc.gz	0
-mikedcurtis	web.me.com		archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	web.me.com-mikedcurtis.warc.gz	0
-otacorbd	gallery.me.com		archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	gallery.me.com-otacorbd.warc.gz	0
-otacorbd	homepage.mac.com		archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	homepage.mac.com-otacorbd.warc.gz	0
-otacorbd	public.me.com		archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	public.me.com-otacorbd.warc.gz	0
-otacorbd	web.me.com		archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	web.me.com-otacorbd.warc.gz	0
+james.walls	gallery.me.com	2012-04-02 09:32:49	archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	gallery.me.com-james.walls.warc.gz	578695
+james.walls	homepage.mac.com	2012-04-02 09:32:49	archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	homepage.mac.com-james.walls.warc.gz	4918
+james.walls	public.me.com	2012-04-02 09:32:47	archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	public.me.com-james.walls.warc.gz	3338
+james.walls	web.me.com	2012-04-02 09:32:46	archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	web.me.com-james.walls.warc.gz	108981
+mikedcurtis	gallery.me.com	2012-04-02 14:00:58	archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	gallery.me.com-mikedcurtis.warc.gz	7295480289
+mikedcurtis	homepage.mac.com	2012-04-02 14:01:03	archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	homepage.mac.com-mikedcurtis.warc.gz	104482
+mikedcurtis	public.me.com	2012-04-02 11:31:21	archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	public.me.com-mikedcurtis.warc.gz	3467532284
+mikedcurtis	web.me.com	2012-04-02 10:26:38	archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	web.me.com-mikedcurtis.warc.gz	1063689402
+otacorbd	gallery.me.com	2012-04-02 09:32:37	archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	gallery.me.com-otacorbd.warc.gz	3153153530
+otacorbd	homepage.mac.com	2012-04-02 09:32:37	archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	homepage.mac.com-otacorbd.warc.gz	4901
+otacorbd	public.me.com	2012-04-02 08:59:04	archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	public.me.com-otacorbd.warc.gz	264584
+otacorbd	web.me.com	2012-04-02 08:59:02	archiveteam-mobileme-hero-297x	archiveteam-mobileme-hero-297x-2977.tar	web.me.com-otacorbd.warc.gz	12455533

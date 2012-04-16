@@ -1,16 +1,16 @@
-cnfbardepp	gallery.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	gallery.me.com-cnfbardepp.warc.gz	0
-cnfbardepp	homepage.mac.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	homepage.mac.com-cnfbardepp.warc.gz	0
-cnfbardepp	public.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	public.me.com-cnfbardepp.warc.gz	0
-cnfbardepp	web.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	web.me.com-cnfbardepp.warc.gz	0
-lfenstad	gallery.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	gallery.me.com-lfenstad.warc.gz	0
-lfenstad	homepage.mac.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	homepage.mac.com-lfenstad.warc.gz	0
-lfenstad	public.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	public.me.com-lfenstad.warc.gz	0
-lfenstad	web.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	web.me.com-lfenstad.warc.gz	0
-richardbolt	gallery.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	gallery.me.com-richardbolt.warc.gz	0
-richardbolt	homepage.mac.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	homepage.mac.com-richardbolt.warc.gz	0
-richardbolt	public.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	public.me.com-richardbolt.warc.gz	0
-richardbolt	web.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	web.me.com-richardbolt.warc.gz	0
-stefaneisele	gallery.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	gallery.me.com-stefaneisele.warc.gz	0
-stefaneisele	homepage.mac.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	homepage.mac.com-stefaneisele.warc.gz	0
-stefaneisele	public.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	public.me.com-stefaneisele.warc.gz	0
-stefaneisele	web.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	web.me.com-stefaneisele.warc.gz	0
+cnfbardepp	gallery.me.com	2012-04-05 06:15:59	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	gallery.me.com-cnfbardepp.warc.gz	1433051710
+cnfbardepp	homepage.mac.com	2012-04-05 06:16:05	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	homepage.mac.com-cnfbardepp.warc.gz	142148
+cnfbardepp	public.me.com	2012-04-05 05:59:01	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	public.me.com-cnfbardepp.warc.gz	3438516
+cnfbardepp	web.me.com	2012-04-05 05:58:54	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	web.me.com-cnfbardepp.warc.gz	94906431
+lfenstad	gallery.me.com	2012-04-05 07:46:42	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	gallery.me.com-lfenstad.warc.gz	48709357
+lfenstad	homepage.mac.com	2012-04-05 07:46:43	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	homepage.mac.com-lfenstad.warc.gz	4918
+lfenstad	public.me.com	2012-04-05 07:45:11	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	public.me.com-lfenstad.warc.gz	61466032
+lfenstad	web.me.com	2012-04-05 07:43:55	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	web.me.com-lfenstad.warc.gz	5602057376
+richardbolt	gallery.me.com	2012-04-05 05:41:50	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	gallery.me.com-richardbolt.warc.gz	12333
+richardbolt	homepage.mac.com	2012-04-05 05:41:50	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	homepage.mac.com-richardbolt.warc.gz	7170
+richardbolt	public.me.com	2012-04-05 05:41:50	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	public.me.com-richardbolt.warc.gz	1925
+richardbolt	web.me.com	2012-04-05 05:41:49	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	web.me.com-richardbolt.warc.gz	22479
+stefaneisele	gallery.me.com	2012-04-05 05:41:48	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	gallery.me.com-stefaneisele.warc.gz	5227
+stefaneisele	homepage.mac.com	2012-04-05 05:41:48	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	homepage.mac.com-stefaneisele.warc.gz	4921
+stefaneisele	public.me.com	2012-04-05 05:41:45	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	public.me.com-stefaneisele.warc.gz	3494
+stefaneisele	web.me.com	2012-04-05 05:41:42	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4149.tar	web.me.com-stefaneisele.warc.gz	317101163

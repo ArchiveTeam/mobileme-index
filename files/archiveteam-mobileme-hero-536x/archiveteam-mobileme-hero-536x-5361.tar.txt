@@ -1,24 +1,24 @@
-ballroom_blitz	gallery.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	gallery.me.com-ballroom_blitz.warc.gz	0
-ballroom_blitz	homepage.mac.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	homepage.mac.com-ballroom_blitz.warc.gz	0
-ballroom_blitz	public.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	public.me.com-ballroom_blitz.warc.gz	0
-ballroom_blitz	web.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	web.me.com-ballroom_blitz.warc.gz	0
-bfthompson	gallery.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	gallery.me.com-bfthompson.warc.gz	0
-bfthompson	homepage.mac.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	homepage.mac.com-bfthompson.warc.gz	0
-bfthompson	public.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	public.me.com-bfthompson.warc.gz	0
-bfthompson	web.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	web.me.com-bfthompson.warc.gz	0
-corporativo.orion	gallery.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	gallery.me.com-corporativo.orion.warc.gz	0
-corporativo.orion	homepage.mac.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	homepage.mac.com-corporativo.orion.warc.gz	0
-corporativo.orion	public.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	public.me.com-corporativo.orion.warc.gz	0
-corporativo.orion	web.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	web.me.com-corporativo.orion.warc.gz	0
-lizkay	gallery.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	gallery.me.com-lizkay.warc.gz	0
-lizkay	homepage.mac.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	homepage.mac.com-lizkay.warc.gz	0
-lizkay	public.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	public.me.com-lizkay.warc.gz	0
-lizkay	web.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	web.me.com-lizkay.warc.gz	0
-skip2	gallery.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	gallery.me.com-skip2.warc.gz	0
-skip2	homepage.mac.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	homepage.mac.com-skip2.warc.gz	0
-skip2	public.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	public.me.com-skip2.warc.gz	0
-skip2	web.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	web.me.com-skip2.warc.gz	0
-stlnoregrets	gallery.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	gallery.me.com-stlnoregrets.warc.gz	0
-stlnoregrets	homepage.mac.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	homepage.mac.com-stlnoregrets.warc.gz	0
-stlnoregrets	public.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	public.me.com-stlnoregrets.warc.gz	0
-stlnoregrets	web.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	web.me.com-stlnoregrets.warc.gz	0
+ballroom_blitz	gallery.me.com	2012-04-09 05:04:30	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	gallery.me.com-ballroom_blitz.warc.gz	841465048
+ballroom_blitz	homepage.mac.com	2012-04-09 05:04:30	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	homepage.mac.com-ballroom_blitz.warc.gz	4945
+ballroom_blitz	public.me.com	2012-04-09 04:59:42	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	public.me.com-ballroom_blitz.warc.gz	1930
+ballroom_blitz	web.me.com	2012-04-09 04:59:42	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	web.me.com-ballroom_blitz.warc.gz	14146787
+bfthompson	gallery.me.com	2012-04-09 05:13:17	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	gallery.me.com-bfthompson.warc.gz	24658884
+bfthompson	homepage.mac.com	2012-04-09 05:13:19	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	homepage.mac.com-bfthompson.warc.gz	41556
+bfthompson	public.me.com	2012-04-09 05:12:43	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	public.me.com-bfthompson.warc.gz	57811693
+bfthompson	web.me.com	2012-04-09 05:11:34	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	web.me.com-bfthompson.warc.gz	84693266
+corporativo.orion	gallery.me.com	2012-04-09 05:28:13	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	gallery.me.com-corporativo.orion.warc.gz	47167258
+corporativo.orion	homepage.mac.com	2012-04-09 05:28:13	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	homepage.mac.com-corporativo.orion.warc.gz	4934
+corporativo.orion	public.me.com	2012-04-09 05:26:47	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	public.me.com-corporativo.orion.warc.gz	1928
+corporativo.orion	web.me.com	2012-04-09 05:26:47	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	web.me.com-corporativo.orion.warc.gz	7128928
+lizkay	gallery.me.com	2012-04-09 05:28:15	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	gallery.me.com-lizkay.warc.gz	12335
+lizkay	homepage.mac.com	2012-04-09 05:28:15	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	homepage.mac.com-lizkay.warc.gz	7160
+lizkay	public.me.com	2012-04-09 05:28:14	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	public.me.com-lizkay.warc.gz	1914
+lizkay	web.me.com	2012-04-09 05:28:14	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	web.me.com-lizkay.warc.gz	22489
+skip2	gallery.me.com	2012-04-09 05:25:19	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	gallery.me.com-skip2.warc.gz	369243298
+skip2	homepage.mac.com	2012-04-09 05:25:23	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	homepage.mac.com-skip2.warc.gz	137981
+skip2	public.me.com	2012-04-09 05:15:57	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	public.me.com-skip2.warc.gz	1913
+skip2	web.me.com	2012-04-09 05:15:57	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	web.me.com-skip2.warc.gz	18187579
+stlnoregrets	gallery.me.com	2012-04-09 06:43:06	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	gallery.me.com-stlnoregrets.warc.gz	2741536251
+stlnoregrets	homepage.mac.com	2012-04-09 06:43:07	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	homepage.mac.com-stlnoregrets.warc.gz	7927
+stlnoregrets	public.me.com	2012-04-09 06:12:52	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	public.me.com-stlnoregrets.warc.gz	39296352
+stlnoregrets	web.me.com	2012-04-09 06:12:01	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5361.tar	web.me.com-stlnoregrets.warc.gz	3723516187

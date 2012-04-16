@@ -1,8 +1,8 @@
-maxbrooks	gallery.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6556.tar	gallery.me.com-maxbrooks.warc.gz	0
-maxbrooks	homepage.mac.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6556.tar	homepage.mac.com-maxbrooks.warc.gz	0
-maxbrooks	public.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6556.tar	public.me.com-maxbrooks.warc.gz	0
-maxbrooks	web.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6556.tar	web.me.com-maxbrooks.warc.gz	0
-thereddings	gallery.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6556.tar	gallery.me.com-thereddings.warc.gz	0
-thereddings	homepage.mac.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6556.tar	homepage.mac.com-thereddings.warc.gz	0
-thereddings	public.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6556.tar	public.me.com-thereddings.warc.gz	0
-thereddings	web.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6556.tar	web.me.com-thereddings.warc.gz	0
+maxbrooks	gallery.me.com	2012-04-12 03:38:32	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6556.tar	gallery.me.com-maxbrooks.warc.gz	4078441
+maxbrooks	homepage.mac.com	2012-04-12 03:38:33	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6556.tar	homepage.mac.com-maxbrooks.warc.gz	4920
+maxbrooks	public.me.com	2012-04-12 03:38:06	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6556.tar	public.me.com-maxbrooks.warc.gz	7106299563
+maxbrooks	web.me.com	2012-04-12 00:53:10	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6556.tar	web.me.com-maxbrooks.warc.gz	279431089
+thereddings	gallery.me.com	2012-04-12 00:49:42	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6556.tar	gallery.me.com-thereddings.warc.gz	1248077676
+thereddings	homepage.mac.com	2012-04-12 00:49:46	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6556.tar	homepage.mac.com-thereddings.warc.gz	108725
+thereddings	public.me.com	2012-04-11 20:58:31	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6556.tar	public.me.com-thereddings.warc.gz	1921
+thereddings	web.me.com	2012-04-11 20:58:22	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6556.tar	web.me.com-thereddings.warc.gz	369557890

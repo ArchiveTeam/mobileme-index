@@ -1,24 +1,24 @@
-danlobl	gallery.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	gallery.me.com-danlobl.warc.gz	0
-danlobl	homepage.mac.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	homepage.mac.com-danlobl.warc.gz	0
-danlobl	public.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	public.me.com-danlobl.warc.gz	0
-danlobl	web.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	web.me.com-danlobl.warc.gz	0
-guesth	gallery.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	gallery.me.com-guesth.warc.gz	0
-guesth	homepage.mac.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	homepage.mac.com-guesth.warc.gz	0
-guesth	public.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	public.me.com-guesth.warc.gz	0
-guesth	web.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	web.me.com-guesth.warc.gz	0
-jmcifonie	gallery.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	gallery.me.com-jmcifonie.warc.gz	0
-jmcifonie	homepage.mac.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	homepage.mac.com-jmcifonie.warc.gz	0
-jmcifonie	public.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	public.me.com-jmcifonie.warc.gz	0
-jmcifonie	web.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	web.me.com-jmcifonie.warc.gz	0
-paulam3	gallery.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	gallery.me.com-paulam3.warc.gz	0
-paulam3	homepage.mac.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	homepage.mac.com-paulam3.warc.gz	0
-paulam3	public.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	public.me.com-paulam3.warc.gz	0
-paulam3	web.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	web.me.com-paulam3.warc.gz	0
-rileyemma	gallery.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	gallery.me.com-rileyemma.warc.gz	0
-rileyemma	homepage.mac.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	homepage.mac.com-rileyemma.warc.gz	0
-rileyemma	public.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	public.me.com-rileyemma.warc.gz	0
-rileyemma	web.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	web.me.com-rileyemma.warc.gz	0
-sarah.chandler	gallery.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	gallery.me.com-sarah.chandler.warc.gz	0
-sarah.chandler	homepage.mac.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	homepage.mac.com-sarah.chandler.warc.gz	0
-sarah.chandler	public.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	public.me.com-sarah.chandler.warc.gz	0
-sarah.chandler	web.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	web.me.com-sarah.chandler.warc.gz	0
+danlobl	gallery.me.com	2012-04-05 08:13:42	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	gallery.me.com-danlobl.warc.gz	2874986592
+danlobl	homepage.mac.com	2012-04-05 08:13:48	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	homepage.mac.com-danlobl.warc.gz	103091
+danlobl	public.me.com	2012-04-05 07:21:56	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	public.me.com-danlobl.warc.gz	1084490502
+danlobl	web.me.com	2012-04-05 07:12:47	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	web.me.com-danlobl.warc.gz	7206198
+guesth	gallery.me.com	2012-04-05 07:08:45	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	gallery.me.com-guesth.warc.gz	5117
+guesth	homepage.mac.com	2012-04-05 07:08:45	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	homepage.mac.com-guesth.warc.gz	4909
+guesth	public.me.com	2012-04-05 07:08:42	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	public.me.com-guesth.warc.gz	1911
+guesth	web.me.com	2012-04-05 07:08:41	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	web.me.com-guesth.warc.gz	127874947
+jmcifonie	gallery.me.com	2012-04-05 08:24:22	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	gallery.me.com-jmcifonie.warc.gz	28824003
+jmcifonie	homepage.mac.com	2012-04-05 08:24:22	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	homepage.mac.com-jmcifonie.warc.gz	4902
+jmcifonie	public.me.com	2012-04-05 08:23:30	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	public.me.com-jmcifonie.warc.gz	1919
+jmcifonie	web.me.com	2012-04-05 08:23:29	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	web.me.com-jmcifonie.warc.gz	153623750
+paulam3	gallery.me.com	2012-04-05 08:17:48	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	gallery.me.com-paulam3.warc.gz	4234
+paulam3	homepage.mac.com	2012-04-05 08:17:48	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	homepage.mac.com-paulam3.warc.gz	4915
+paulam3	public.me.com	2012-04-05 08:17:47	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	public.me.com-paulam3.warc.gz	1904
+paulam3	web.me.com	2012-04-05 08:17:46	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	web.me.com-paulam3.warc.gz	6772144
+rileyemma	gallery.me.com	2012-04-05 08:26:22	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	gallery.me.com-rileyemma.warc.gz	4303
+rileyemma	homepage.mac.com	2012-04-05 08:26:22	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	homepage.mac.com-rileyemma.warc.gz	4916
+rileyemma	public.me.com	2012-04-05 08:26:21	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	public.me.com-rileyemma.warc.gz	1917
+rileyemma	web.me.com	2012-04-05 08:26:20	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	web.me.com-rileyemma.warc.gz	1096052
+sarah.chandler	gallery.me.com	2012-04-05 08:46:32	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	gallery.me.com-sarah.chandler.warc.gz	9060722
+sarah.chandler	homepage.mac.com	2012-04-05 08:46:53	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	homepage.mac.com-sarah.chandler.warc.gz	279934
+sarah.chandler	public.me.com	2012-04-05 08:44:50	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	public.me.com-sarah.chandler.warc.gz	7576305
+sarah.chandler	web.me.com	2012-04-05 08:44:34	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4173.tar	web.me.com-sarah.chandler.warc.gz	55154043

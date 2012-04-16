@@ -1,16 +1,16 @@
-dbedwell	gallery.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	gallery.me.com-dbedwell.warc.gz	0
-dbedwell	homepage.mac.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	homepage.mac.com-dbedwell.warc.gz	0
-dbedwell	public.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	public.me.com-dbedwell.warc.gz	0
-dbedwell	web.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	web.me.com-dbedwell.warc.gz	0
-dloughna	gallery.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	gallery.me.com-dloughna.warc.gz	0
-dloughna	homepage.mac.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	homepage.mac.com-dloughna.warc.gz	0
-dloughna	public.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	public.me.com-dloughna.warc.gz	0
-dloughna	web.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	web.me.com-dloughna.warc.gz	0
-sgmcairns	gallery.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	gallery.me.com-sgmcairns.warc.gz	0
-sgmcairns	homepage.mac.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	homepage.mac.com-sgmcairns.warc.gz	0
-sgmcairns	public.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	public.me.com-sgmcairns.warc.gz	0
-sgmcairns	web.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	web.me.com-sgmcairns.warc.gz	0
-wakehamtrust	gallery.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	gallery.me.com-wakehamtrust.warc.gz	0
-wakehamtrust	homepage.mac.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	homepage.mac.com-wakehamtrust.warc.gz	0
-wakehamtrust	public.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	public.me.com-wakehamtrust.warc.gz	0
-wakehamtrust	web.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	web.me.com-wakehamtrust.warc.gz	0
+dbedwell	gallery.me.com	2012-04-10 15:17:25	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	gallery.me.com-dbedwell.warc.gz	6908227
+dbedwell	homepage.mac.com	2012-04-10 15:17:25	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	homepage.mac.com-dbedwell.warc.gz	4899
+dbedwell	public.me.com	2012-04-10 15:17:16	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	public.me.com-dbedwell.warc.gz	1913
+dbedwell	web.me.com	2012-04-10 15:17:16	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	web.me.com-dbedwell.warc.gz	106762711
+dloughna	gallery.me.com	2012-04-10 16:30:45	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	gallery.me.com-dloughna.warc.gz	4493257733
+dloughna	homepage.mac.com	2012-04-10 16:30:50	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	homepage.mac.com-dloughna.warc.gz	108128
+dloughna	public.me.com	2012-04-10 15:45:20	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	public.me.com-dloughna.warc.gz	285214575
+dloughna	web.me.com	2012-04-10 15:41:37	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	web.me.com-dloughna.warc.gz	333780986
+sgmcairns	gallery.me.com	2012-04-10 15:14:05	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	gallery.me.com-sgmcairns.warc.gz	13187089
+sgmcairns	homepage.mac.com	2012-04-10 15:14:05	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	homepage.mac.com-sgmcairns.warc.gz	4909
+sgmcairns	public.me.com	2012-04-10 15:13:42	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	public.me.com-sgmcairns.warc.gz	3026031
+sgmcairns	web.me.com	2012-04-10 15:13:26	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	web.me.com-sgmcairns.warc.gz	141962133
+wakehamtrust	gallery.me.com	2012-04-10 15:09:59	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	gallery.me.com-wakehamtrust.warc.gz	4274
+wakehamtrust	homepage.mac.com	2012-04-10 15:10:00	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	homepage.mac.com-wakehamtrust.warc.gz	4917
+wakehamtrust	public.me.com	2012-04-10 15:09:59	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	public.me.com-wakehamtrust.warc.gz	1925
+wakehamtrust	web.me.com	2012-04-10 15:09:59	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5998.tar	web.me.com-wakehamtrust.warc.gz	233993

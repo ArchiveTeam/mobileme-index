@@ -1,28 +1,28 @@
-brianbiegel	gallery.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	gallery.me.com-brianbiegel.warc.gz	0
-brianbiegel	homepage.mac.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	homepage.mac.com-brianbiegel.warc.gz	0
-brianbiegel	public.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	public.me.com-brianbiegel.warc.gz	0
-brianbiegel	web.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	web.me.com-brianbiegel.warc.gz	0
-bspoll	gallery.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	gallery.me.com-bspoll.warc.gz	0
-bspoll	homepage.mac.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	homepage.mac.com-bspoll.warc.gz	0
-bspoll	public.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	public.me.com-bspoll.warc.gz	0
-bspoll	web.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	web.me.com-bspoll.warc.gz	0
-cvanriper	gallery.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	gallery.me.com-cvanriper.warc.gz	0
-cvanriper	homepage.mac.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	homepage.mac.com-cvanriper.warc.gz	0
-cvanriper	public.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	public.me.com-cvanriper.warc.gz	0
-cvanriper	web.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	web.me.com-cvanriper.warc.gz	0
-reinholdmack	gallery.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	gallery.me.com-reinholdmack.warc.gz	0
-reinholdmack	homepage.mac.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	homepage.mac.com-reinholdmack.warc.gz	0
-reinholdmack	public.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	public.me.com-reinholdmack.warc.gz	0
-reinholdmack	web.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	web.me.com-reinholdmack.warc.gz	0
-roberto.schurmann	gallery.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	gallery.me.com-roberto.schurmann.warc.gz	0
-roberto.schurmann	homepage.mac.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	homepage.mac.com-roberto.schurmann.warc.gz	0
-roberto.schurmann	public.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	public.me.com-roberto.schurmann.warc.gz	0
-roberto.schurmann	web.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	web.me.com-roberto.schurmann.warc.gz	0
-seanislive	gallery.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	gallery.me.com-seanislive.warc.gz	0
-seanislive	homepage.mac.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	homepage.mac.com-seanislive.warc.gz	0
-seanislive	public.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	public.me.com-seanislive.warc.gz	0
-seanislive	web.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	web.me.com-seanislive.warc.gz	0
-steve.cornet	gallery.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	gallery.me.com-steve.cornet.warc.gz	0
-steve.cornet	homepage.mac.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	homepage.mac.com-steve.cornet.warc.gz	0
-steve.cornet	public.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	public.me.com-steve.cornet.warc.gz	0
-steve.cornet	web.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	web.me.com-steve.cornet.warc.gz	0
+brianbiegel	gallery.me.com	2012-04-10 04:08:51	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	gallery.me.com-brianbiegel.warc.gz	4285
+brianbiegel	homepage.mac.com	2012-04-10 04:08:51	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	homepage.mac.com-brianbiegel.warc.gz	4898
+brianbiegel	public.me.com	2012-04-10 04:08:49	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	public.me.com-brianbiegel.warc.gz	1929
+brianbiegel	web.me.com	2012-04-10 04:08:48	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	web.me.com-brianbiegel.warc.gz	177528284
+bspoll	gallery.me.com	2012-04-10 05:04:02	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	gallery.me.com-bspoll.warc.gz	1506444875
+bspoll	homepage.mac.com	2012-04-10 05:04:05	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	homepage.mac.com-bspoll.warc.gz	61355
+bspoll	public.me.com	2012-04-10 04:40:53	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	public.me.com-bspoll.warc.gz	332459069
+bspoll	web.me.com	2012-04-10 04:30:03	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	web.me.com-bspoll.warc.gz	627103753
+cvanriper	gallery.me.com	2012-04-10 04:04:01	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	gallery.me.com-cvanriper.warc.gz	699206920
+cvanriper	homepage.mac.com	2012-04-10 04:04:08	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	homepage.mac.com-cvanriper.warc.gz	117442
+cvanriper	public.me.com	2012-04-10 03:41:29	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	public.me.com-cvanriper.warc.gz	306877
+cvanriper	web.me.com	2012-04-10 03:41:26	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	web.me.com-cvanriper.warc.gz	119831782
+reinholdmack	gallery.me.com	2012-04-10 03:28:07	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	gallery.me.com-reinholdmack.warc.gz	24358200
+reinholdmack	homepage.mac.com	2012-04-10 03:28:08	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	homepage.mac.com-reinholdmack.warc.gz	4903
+reinholdmack	public.me.com	2012-04-10 03:26:51	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	public.me.com-reinholdmack.warc.gz	272730902
+reinholdmack	web.me.com	2012-04-10 03:25:39	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	web.me.com-reinholdmack.warc.gz	11363752
+roberto.schurmann	gallery.me.com	2012-04-10 03:22:25	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	gallery.me.com-roberto.schurmann.warc.gz	107815958
+roberto.schurmann	homepage.mac.com	2012-04-10 03:22:25	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	homepage.mac.com-roberto.schurmann.warc.gz	4937
+roberto.schurmann	public.me.com	2012-04-10 03:16:58	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	public.me.com-roberto.schurmann.warc.gz	188113
+roberto.schurmann	web.me.com	2012-04-10 03:16:57	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	web.me.com-roberto.schurmann.warc.gz	3130918
+seanislive	gallery.me.com	2012-04-10 03:28:11	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	gallery.me.com-seanislive.warc.gz	8365
+seanislive	homepage.mac.com	2012-04-10 03:28:11	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	homepage.mac.com-seanislive.warc.gz	5177
+seanislive	public.me.com	2012-04-10 03:28:10	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	public.me.com-seanislive.warc.gz	1922
+seanislive	web.me.com	2012-04-10 03:28:09	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	web.me.com-seanislive.warc.gz	17696
+steve.cornet	gallery.me.com	2012-04-10 03:15:33	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	gallery.me.com-steve.cornet.warc.gz	595609241
+steve.cornet	homepage.mac.com	2012-04-10 03:15:38	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	homepage.mac.com-steve.cornet.warc.gz	76197
+steve.cornet	public.me.com	2012-04-10 02:56:30	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	public.me.com-steve.cornet.warc.gz	10834431
+steve.cornet	web.me.com	2012-04-10 02:56:08	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5767.tar	web.me.com-steve.cornet.warc.gz	13489179

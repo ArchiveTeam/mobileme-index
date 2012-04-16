@@ -1,24 +1,24 @@
-aureetmax	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	gallery.me.com-aureetmax.warc.gz	0
-aureetmax	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	homepage.mac.com-aureetmax.warc.gz	0
-aureetmax	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	public.me.com-aureetmax.warc.gz	0
-aureetmax	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	web.me.com-aureetmax.warc.gz	0
-jessica.vaughan	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	gallery.me.com-jessica.vaughan.warc.gz	0
-jessica.vaughan	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	homepage.mac.com-jessica.vaughan.warc.gz	0
-jessica.vaughan	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	public.me.com-jessica.vaughan.warc.gz	0
-jessica.vaughan	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	web.me.com-jessica.vaughan.warc.gz	0
-jpcoudert	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	gallery.me.com-jpcoudert.warc.gz	0
-jpcoudert	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	homepage.mac.com-jpcoudert.warc.gz	0
-jpcoudert	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	public.me.com-jpcoudert.warc.gz	0
-jpcoudert	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	web.me.com-jpcoudert.warc.gz	0
-neil.lipscomb	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	gallery.me.com-neil.lipscomb.warc.gz	0
-neil.lipscomb	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	homepage.mac.com-neil.lipscomb.warc.gz	0
-neil.lipscomb	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	public.me.com-neil.lipscomb.warc.gz	0
-neil.lipscomb	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	web.me.com-neil.lipscomb.warc.gz	0
-rcgi	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	gallery.me.com-rcgi.warc.gz	0
-rcgi	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	homepage.mac.com-rcgi.warc.gz	0
-rcgi	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	public.me.com-rcgi.warc.gz	0
-rcgi	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	web.me.com-rcgi.warc.gz	0
-vpal	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	gallery.me.com-vpal.warc.gz	0
-vpal	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	homepage.mac.com-vpal.warc.gz	0
-vpal	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	public.me.com-vpal.warc.gz	0
-vpal	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	web.me.com-vpal.warc.gz	0
+aureetmax	gallery.me.com	2012-04-10 22:28:55	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	gallery.me.com-aureetmax.warc.gz	8339
+aureetmax	homepage.mac.com	2012-04-10 22:28:55	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	homepage.mac.com-aureetmax.warc.gz	5157
+aureetmax	public.me.com	2012-04-10 22:28:53	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	public.me.com-aureetmax.warc.gz	1918
+aureetmax	web.me.com	2012-04-10 22:28:53	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	web.me.com-aureetmax.warc.gz	17737
+jessica.vaughan	gallery.me.com	2012-04-10 22:28:51	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	gallery.me.com-jessica.vaughan.warc.gz	70067583
+jessica.vaughan	homepage.mac.com	2012-04-10 22:28:51	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	homepage.mac.com-jessica.vaughan.warc.gz	4950
+jessica.vaughan	public.me.com	2012-04-10 22:28:04	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	public.me.com-jessica.vaughan.warc.gz	1929
+jessica.vaughan	web.me.com	2012-04-10 22:28:03	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	web.me.com-jessica.vaughan.warc.gz	554782178
+jpcoudert	gallery.me.com	2012-04-10 23:20:18	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	gallery.me.com-jpcoudert.warc.gz	3551563235
+jpcoudert	homepage.mac.com	2012-04-10 23:20:18	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	homepage.mac.com-jpcoudert.warc.gz	4905
+jpcoudert	public.me.com	2012-04-10 23:01:23	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	public.me.com-jpcoudert.warc.gz	1914
+jpcoudert	web.me.com	2012-04-10 23:01:22	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	web.me.com-jpcoudert.warc.gz	179397119
+neil.lipscomb	gallery.me.com	2012-04-10 22:10:21	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	gallery.me.com-neil.lipscomb.warc.gz	4988
+neil.lipscomb	homepage.mac.com	2012-04-10 22:10:21	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	homepage.mac.com-neil.lipscomb.warc.gz	4928
+neil.lipscomb	public.me.com	2012-04-10 22:10:20	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	public.me.com-neil.lipscomb.warc.gz	1928
+neil.lipscomb	web.me.com	2012-04-10 22:10:19	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	web.me.com-neil.lipscomb.warc.gz	103131656
+rcgi	gallery.me.com	2012-04-10 22:33:00	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	gallery.me.com-rcgi.warc.gz	4226
+rcgi	homepage.mac.com	2012-04-10 22:33:00	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	homepage.mac.com-rcgi.warc.gz	4894
+rcgi	public.me.com	2012-04-10 22:32:57	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	public.me.com-rcgi.warc.gz	1905
+rcgi	web.me.com	2012-04-10 22:32:57	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	web.me.com-rcgi.warc.gz	449498
+vpal	gallery.me.com	2012-04-10 22:32:28	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	gallery.me.com-vpal.warc.gz	381149610
+vpal	homepage.mac.com	2012-04-10 22:32:28	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	homepage.mac.com-vpal.warc.gz	4889
+vpal	public.me.com	2012-04-10 22:29:23	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	public.me.com-vpal.warc.gz	4329
+vpal	web.me.com	2012-04-10 22:29:22	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6121.tar	web.me.com-vpal.warc.gz	23341693

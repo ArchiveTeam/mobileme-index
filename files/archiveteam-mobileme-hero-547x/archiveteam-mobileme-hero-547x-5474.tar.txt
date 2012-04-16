@@ -1,12 +1,12 @@
-alexandermcdougall	gallery.me.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	gallery.me.com-alexandermcdougall.warc.gz	0
-alexandermcdougall	homepage.mac.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	homepage.mac.com-alexandermcdougall.warc.gz	0
-alexandermcdougall	public.me.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	public.me.com-alexandermcdougall.warc.gz	0
-alexandermcdougall	web.me.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	web.me.com-alexandermcdougall.warc.gz	0
-jamessanders1	gallery.me.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	gallery.me.com-jamessanders1.warc.gz	0
-jamessanders1	homepage.mac.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	homepage.mac.com-jamessanders1.warc.gz	0
-jamessanders1	public.me.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	public.me.com-jamessanders1.warc.gz	0
-jamessanders1	web.me.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	web.me.com-jamessanders1.warc.gz	0
-mneren	gallery.me.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	gallery.me.com-mneren.warc.gz	0
-mneren	homepage.mac.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	homepage.mac.com-mneren.warc.gz	0
-mneren	public.me.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	public.me.com-mneren.warc.gz	0
-mneren	web.me.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	web.me.com-mneren.warc.gz	0
+alexandermcdougall	gallery.me.com	2012-04-09 12:27:23	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	gallery.me.com-alexandermcdougall.warc.gz	3121499284
+alexandermcdougall	homepage.mac.com	2012-04-09 12:27:23	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	homepage.mac.com-alexandermcdougall.warc.gz	4955
+alexandermcdougall	public.me.com	2012-04-09 11:49:59	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	public.me.com-alexandermcdougall.warc.gz	1939
+alexandermcdougall	web.me.com	2012-04-09 11:49:59	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	web.me.com-alexandermcdougall.warc.gz	18507982
+jamessanders1	gallery.me.com	2012-04-09 11:43:57	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	gallery.me.com-jamessanders1.warc.gz	4274
+jamessanders1	homepage.mac.com	2012-04-09 11:43:58	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	homepage.mac.com-jamessanders1.warc.gz	37022
+jamessanders1	public.me.com	2012-04-09 11:43:56	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	public.me.com-jamessanders1.warc.gz	121879842
+jamessanders1	web.me.com	2012-04-09 11:40:52	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	web.me.com-jamessanders1.warc.gz	1569773
+mneren	gallery.me.com	2012-04-09 11:40:32	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	gallery.me.com-mneren.warc.gz	2235798597
+mneren	homepage.mac.com	2012-04-09 11:40:34	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	homepage.mac.com-mneren.warc.gz	62009
+mneren	public.me.com	2012-04-09 11:03:23	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	public.me.com-mneren.warc.gz	1910
+mneren	web.me.com	2012-04-09 11:03:21	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5474.tar	web.me.com-mneren.warc.gz	366322076

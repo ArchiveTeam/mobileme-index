@@ -1,8 +1,8 @@
-fritz.pirnik	gallery.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5995.tar	gallery.me.com-fritz.pirnik.warc.gz	0
-fritz.pirnik	homepage.mac.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5995.tar	homepage.mac.com-fritz.pirnik.warc.gz	0
-fritz.pirnik	public.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5995.tar	public.me.com-fritz.pirnik.warc.gz	0
-fritz.pirnik	web.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5995.tar	web.me.com-fritz.pirnik.warc.gz	0
-mlrimer1	gallery.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5995.tar	gallery.me.com-mlrimer1.warc.gz	0
-mlrimer1	homepage.mac.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5995.tar	homepage.mac.com-mlrimer1.warc.gz	0
-mlrimer1	public.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5995.tar	public.me.com-mlrimer1.warc.gz	0
-mlrimer1	web.me.com		archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5995.tar	web.me.com-mlrimer1.warc.gz	0
+fritz.pirnik	gallery.me.com	2012-04-10 16:05:10	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5995.tar	gallery.me.com-fritz.pirnik.warc.gz	715387946
+fritz.pirnik	homepage.mac.com	2012-04-10 16:05:21	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5995.tar	homepage.mac.com-fritz.pirnik.warc.gz	254020
+fritz.pirnik	public.me.com	2012-04-10 15:51:16	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5995.tar	public.me.com-fritz.pirnik.warc.gz	17040646
+fritz.pirnik	web.me.com	2012-04-10 15:50:50	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5995.tar	web.me.com-fritz.pirnik.warc.gz	5901254
+mlrimer1	gallery.me.com	2012-04-10 15:49:10	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5995.tar	gallery.me.com-mlrimer1.warc.gz	2478548995
+mlrimer1	homepage.mac.com	2012-04-10 15:49:10	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5995.tar	homepage.mac.com-mlrimer1.warc.gz	4913
+mlrimer1	public.me.com	2012-04-10 15:02:50	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5995.tar	public.me.com-mlrimer1.warc.gz	1554969546
+mlrimer1	web.me.com	2012-04-10 14:48:26	archiveteam-mobileme-hero-599x	archiveteam-mobileme-hero-599x-5995.tar	web.me.com-mlrimer1.warc.gz	188264657

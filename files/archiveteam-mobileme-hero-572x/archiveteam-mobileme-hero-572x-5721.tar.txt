@@ -1,28 +1,28 @@
-benassouline	gallery.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	gallery.me.com-benassouline.warc.gz	0
-benassouline	homepage.mac.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	homepage.mac.com-benassouline.warc.gz	0
-benassouline	public.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	public.me.com-benassouline.warc.gz	0
-benassouline	web.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	web.me.com-benassouline.warc.gz	0
-bldowner	gallery.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	gallery.me.com-bldowner.warc.gz	0
-bldowner	homepage.mac.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	homepage.mac.com-bldowner.warc.gz	0
-bldowner	public.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	public.me.com-bldowner.warc.gz	0
-bldowner	web.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	web.me.com-bldowner.warc.gz	0
-figsfollies	gallery.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	gallery.me.com-figsfollies.warc.gz	0
-figsfollies	homepage.mac.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	homepage.mac.com-figsfollies.warc.gz	0
-figsfollies	public.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	public.me.com-figsfollies.warc.gz	0
-figsfollies	web.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	web.me.com-figsfollies.warc.gz	0
-hamiel	gallery.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	gallery.me.com-hamiel.warc.gz	0
-hamiel	homepage.mac.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	homepage.mac.com-hamiel.warc.gz	0
-hamiel	public.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	public.me.com-hamiel.warc.gz	0
-hamiel	web.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	web.me.com-hamiel.warc.gz	0
-ruthjulia	gallery.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	gallery.me.com-ruthjulia.warc.gz	0
-ruthjulia	homepage.mac.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	homepage.mac.com-ruthjulia.warc.gz	0
-ruthjulia	public.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	public.me.com-ruthjulia.warc.gz	0
-ruthjulia	web.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	web.me.com-ruthjulia.warc.gz	0
-tony_mattern	gallery.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	gallery.me.com-tony_mattern.warc.gz	0
-tony_mattern	homepage.mac.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	homepage.mac.com-tony_mattern.warc.gz	0
-tony_mattern	public.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	public.me.com-tony_mattern.warc.gz	0
-tony_mattern	web.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	web.me.com-tony_mattern.warc.gz	0
-vainherococoa	gallery.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	gallery.me.com-vainherococoa.warc.gz	0
-vainherococoa	homepage.mac.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	homepage.mac.com-vainherococoa.warc.gz	0
-vainherococoa	public.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	public.me.com-vainherococoa.warc.gz	0
-vainherococoa	web.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	web.me.com-vainherococoa.warc.gz	0
+benassouline	gallery.me.com	2012-04-10 02:05:55	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	gallery.me.com-benassouline.warc.gz	4281
+benassouline	homepage.mac.com	2012-04-10 02:05:56	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	homepage.mac.com-benassouline.warc.gz	4928
+benassouline	public.me.com	2012-04-10 02:05:55	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	public.me.com-benassouline.warc.gz	1921
+benassouline	web.me.com	2012-04-10 02:05:54	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	web.me.com-benassouline.warc.gz	64645670
+bldowner	gallery.me.com	2012-04-10 00:05:54	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	gallery.me.com-bldowner.warc.gz	341002594
+bldowner	homepage.mac.com	2012-04-10 00:05:54	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	homepage.mac.com-bldowner.warc.gz	4909
+bldowner	public.me.com	2012-04-09 23:59:08	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	public.me.com-bldowner.warc.gz	1912
+bldowner	web.me.com	2012-04-09 23:59:08	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	web.me.com-bldowner.warc.gz	5357592
+figsfollies	gallery.me.com	2012-04-10 02:34:47	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	gallery.me.com-figsfollies.warc.gz	382449569
+figsfollies	homepage.mac.com	2012-04-10 02:34:47	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	homepage.mac.com-figsfollies.warc.gz	4930
+figsfollies	public.me.com	2012-04-10 02:31:48	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	public.me.com-figsfollies.warc.gz	1919
+figsfollies	web.me.com	2012-04-10 02:31:48	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	web.me.com-figsfollies.warc.gz	4697771
+hamiel	gallery.me.com	2012-04-10 01:57:26	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	gallery.me.com-hamiel.warc.gz	1025693155
+hamiel	homepage.mac.com	2012-04-10 01:57:30	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	homepage.mac.com-hamiel.warc.gz	36869
+hamiel	public.me.com	2012-04-10 01:13:44	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	public.me.com-hamiel.warc.gz	3708
+hamiel	web.me.com	2012-04-10 01:13:37	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	web.me.com-hamiel.warc.gz	1480403749
+ruthjulia	gallery.me.com	2012-04-10 02:31:23	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	gallery.me.com-ruthjulia.warc.gz	108440511
+ruthjulia	homepage.mac.com	2012-04-10 02:31:23	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	homepage.mac.com-ruthjulia.warc.gz	4923
+ruthjulia	public.me.com	2012-04-10 02:25:04	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	public.me.com-ruthjulia.warc.gz	1922
+ruthjulia	web.me.com	2012-04-10 02:25:03	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	web.me.com-ruthjulia.warc.gz	72592879
+tony_mattern	gallery.me.com	2012-04-09 23:58:25	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	gallery.me.com-tony_mattern.warc.gz	548853566
+tony_mattern	homepage.mac.com	2012-04-09 23:58:25	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	homepage.mac.com-tony_mattern.warc.gz	4935
+tony_mattern	public.me.com	2012-04-09 23:32:02	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	public.me.com-tony_mattern.warc.gz	3402
+tony_mattern	web.me.com	2012-04-09 23:32:01	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	web.me.com-tony_mattern.warc.gz	30243828
+vainherococoa	gallery.me.com	2012-04-10 00:17:15	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	gallery.me.com-vainherococoa.warc.gz	219834211
+vainherococoa	homepage.mac.com	2012-04-10 00:17:15	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	homepage.mac.com-vainherococoa.warc.gz	4928
+vainherococoa	public.me.com	2012-04-10 00:13:40	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	public.me.com-vainherococoa.warc.gz	1928
+vainherococoa	web.me.com	2012-04-10 00:13:40	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5721.tar	web.me.com-vainherococoa.warc.gz	104810441

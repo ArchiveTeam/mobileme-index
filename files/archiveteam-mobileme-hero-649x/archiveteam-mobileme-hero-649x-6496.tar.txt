@@ -1,12 +1,12 @@
-ecobuilder	gallery.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	gallery.me.com-ecobuilder.warc.gz	0
-ecobuilder	homepage.mac.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	homepage.mac.com-ecobuilder.warc.gz	0
-ecobuilder	public.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	public.me.com-ecobuilder.warc.gz	0
-ecobuilder	web.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	web.me.com-ecobuilder.warc.gz	0
-merwynt	gallery.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	gallery.me.com-merwynt.warc.gz	0
-merwynt	homepage.mac.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	homepage.mac.com-merwynt.warc.gz	0
-merwynt	public.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	public.me.com-merwynt.warc.gz	0
-merwynt	web.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	web.me.com-merwynt.warc.gz	0
-rsburkett	gallery.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	gallery.me.com-rsburkett.warc.gz	0
-rsburkett	homepage.mac.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	homepage.mac.com-rsburkett.warc.gz	0
-rsburkett	public.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	public.me.com-rsburkett.warc.gz	0
-rsburkett	web.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	web.me.com-rsburkett.warc.gz	0
+ecobuilder	gallery.me.com	2012-04-11 17:29:32	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	gallery.me.com-ecobuilder.warc.gz	394391351
+ecobuilder	homepage.mac.com	2012-04-11 17:29:33	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	homepage.mac.com-ecobuilder.warc.gz	4898
+ecobuilder	public.me.com	2012-04-11 17:21:44	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	public.me.com-ecobuilder.warc.gz	1921
+ecobuilder	web.me.com	2012-04-11 17:21:36	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	web.me.com-ecobuilder.warc.gz	213596450
+merwynt	gallery.me.com	2012-04-11 17:00:49	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	gallery.me.com-merwynt.warc.gz	1570214840
+merwynt	homepage.mac.com	2012-04-11 17:00:49	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	homepage.mac.com-merwynt.warc.gz	4887
+merwynt	public.me.com	2012-04-11 16:01:24	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	public.me.com-merwynt.warc.gz	1615002689
+merwynt	web.me.com	2012-04-11 15:34:56	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	web.me.com-merwynt.warc.gz	376364575
+rsburkett	gallery.me.com	2012-04-11 20:09:29	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	gallery.me.com-rsburkett.warc.gz	1427406262
+rsburkett	homepage.mac.com	2012-04-11 20:09:29	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	homepage.mac.com-rsburkett.warc.gz	4921
+rsburkett	public.me.com	2012-04-11 17:47:15	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	public.me.com-rsburkett.warc.gz	1919
+rsburkett	web.me.com	2012-04-11 17:47:15	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6496.tar	web.me.com-rsburkett.warc.gz	416313368

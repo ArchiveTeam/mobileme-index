@@ -1,16 +1,16 @@
-bob.terhune	gallery.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	gallery.me.com-bob.terhune.warc.gz	0
-bob.terhune	homepage.mac.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	homepage.mac.com-bob.terhune.warc.gz	0
-bob.terhune	public.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	public.me.com-bob.terhune.warc.gz	0
-bob.terhune	web.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	web.me.com-bob.terhune.warc.gz	0
-ed.duval	gallery.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	gallery.me.com-ed.duval.warc.gz	0
-ed.duval	homepage.mac.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	homepage.mac.com-ed.duval.warc.gz	0
-ed.duval	public.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	public.me.com-ed.duval.warc.gz	0
-ed.duval	web.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	web.me.com-ed.duval.warc.gz	0
-maddenradiodisaster	gallery.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	gallery.me.com-maddenradiodisaster.warc.gz	0
-maddenradiodisaster	homepage.mac.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	homepage.mac.com-maddenradiodisaster.warc.gz	0
-maddenradiodisaster	public.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	public.me.com-maddenradiodisaster.warc.gz	0
-maddenradiodisaster	web.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	web.me.com-maddenradiodisaster.warc.gz	0
-polepoletimes	gallery.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	gallery.me.com-polepoletimes.warc.gz	0
-polepoletimes	homepage.mac.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	homepage.mac.com-polepoletimes.warc.gz	0
-polepoletimes	public.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	public.me.com-polepoletimes.warc.gz	0
-polepoletimes	web.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	web.me.com-polepoletimes.warc.gz	0
+bob.terhune	gallery.me.com	2012-04-09 22:41:05	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	gallery.me.com-bob.terhune.warc.gz	12339
+bob.terhune	homepage.mac.com	2012-04-09 22:41:05	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	homepage.mac.com-bob.terhune.warc.gz	7155
+bob.terhune	public.me.com	2012-04-09 22:41:04	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	public.me.com-bob.terhune.warc.gz	1917
+bob.terhune	web.me.com	2012-04-09 22:41:04	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	web.me.com-bob.terhune.warc.gz	22534
+ed.duval	gallery.me.com	2012-04-09 22:39:40	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	gallery.me.com-ed.duval.warc.gz	4211541486
+ed.duval	homepage.mac.com	2012-04-09 22:39:41	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	homepage.mac.com-ed.duval.warc.gz	4902
+ed.duval	public.me.com	2012-04-09 21:11:06	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	public.me.com-ed.duval.warc.gz	1921
+ed.duval	web.me.com	2012-04-09 21:11:06	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	web.me.com-ed.duval.warc.gz	34872890
+maddenradiodisaster	gallery.me.com	2012-04-09 23:44:26	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	gallery.me.com-maddenradiodisaster.warc.gz	4309
+maddenradiodisaster	homepage.mac.com	2012-04-09 23:44:27	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	homepage.mac.com-maddenradiodisaster.warc.gz	7911
+maddenradiodisaster	public.me.com	2012-04-09 23:44:25	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	public.me.com-maddenradiodisaster.warc.gz	1782675252
+maddenradiodisaster	web.me.com	2012-04-09 23:22:22	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	web.me.com-maddenradiodisaster.warc.gz	4279431964
+polepoletimes	gallery.me.com	2012-04-09 22:41:03	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	gallery.me.com-polepoletimes.warc.gz	5091
+polepoletimes	homepage.mac.com	2012-04-09 22:41:03	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	homepage.mac.com-polepoletimes.warc.gz	4932
+polepoletimes	public.me.com	2012-04-09 22:41:02	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	public.me.com-polepoletimes.warc.gz	1928
+polepoletimes	web.me.com	2012-04-09 22:41:02	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5675.tar	web.me.com-polepoletimes.warc.gz	6132906

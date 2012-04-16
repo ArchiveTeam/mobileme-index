@@ -1,12 +1,12 @@
-julieaconner	gallery.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	gallery.me.com-julieaconner.warc.gz	0
-julieaconner	homepage.mac.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	homepage.mac.com-julieaconner.warc.gz	0
-julieaconner	public.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	public.me.com-julieaconner.warc.gz	0
-julieaconner	web.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	web.me.com-julieaconner.warc.gz	0
-michaelboss	gallery.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	gallery.me.com-michaelboss.warc.gz	0
-michaelboss	homepage.mac.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	homepage.mac.com-michaelboss.warc.gz	0
-michaelboss	public.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	public.me.com-michaelboss.warc.gz	0
-michaelboss	web.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	web.me.com-michaelboss.warc.gz	0
-rorsten	gallery.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	gallery.me.com-rorsten.warc.gz	0
-rorsten	homepage.mac.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	homepage.mac.com-rorsten.warc.gz	0
-rorsten	public.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	public.me.com-rorsten.warc.gz	0
-rorsten	web.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	web.me.com-rorsten.warc.gz	0
+julieaconner	gallery.me.com	2012-04-05 13:59:38	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	gallery.me.com-julieaconner.warc.gz	949628142
+julieaconner	homepage.mac.com	2012-04-05 13:59:44	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	homepage.mac.com-julieaconner.warc.gz	175073
+julieaconner	public.me.com	2012-04-05 13:41:22	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	public.me.com-julieaconner.warc.gz	3561410427
+julieaconner	web.me.com	2012-04-05 12:10:04	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	web.me.com-julieaconner.warc.gz	521626840
+michaelboss	gallery.me.com	2012-04-05 11:42:18	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	gallery.me.com-michaelboss.warc.gz	662955170
+michaelboss	homepage.mac.com	2012-04-05 11:42:19	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	homepage.mac.com-michaelboss.warc.gz	204546
+michaelboss	public.me.com	2012-04-05 11:34:04	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	public.me.com-michaelboss.warc.gz	1923
+michaelboss	web.me.com	2012-04-05 11:34:01	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	web.me.com-michaelboss.warc.gz	1427594823
+rorsten	gallery.me.com	2012-04-05 11:00:38	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	gallery.me.com-rorsten.warc.gz	19410402
+rorsten	homepage.mac.com	2012-04-05 11:00:42	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	homepage.mac.com-rorsten.warc.gz	104669
+rorsten	public.me.com	2012-04-05 11:00:20	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	public.me.com-rorsten.warc.gz	1900
+rorsten	web.me.com	2012-04-05 11:00:20	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4268.tar	web.me.com-rorsten.warc.gz	79217

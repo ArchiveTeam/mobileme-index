@@ -1,16 +1,16 @@
-brdiamond	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	gallery.me.com-brdiamond.warc.gz	0
-brdiamond	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	homepage.mac.com-brdiamond.warc.gz	0
-brdiamond	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	public.me.com-brdiamond.warc.gz	0
-brdiamond	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	web.me.com-brdiamond.warc.gz	0
-geoffrey.berck	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	gallery.me.com-geoffrey.berck.warc.gz	0
-geoffrey.berck	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	homepage.mac.com-geoffrey.berck.warc.gz	0
-geoffrey.berck	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	public.me.com-geoffrey.berck.warc.gz	0
-geoffrey.berck	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	web.me.com-geoffrey.berck.warc.gz	0
-melanieaswell	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	gallery.me.com-melanieaswell.warc.gz	0
-melanieaswell	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	homepage.mac.com-melanieaswell.warc.gz	0
-melanieaswell	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	public.me.com-melanieaswell.warc.gz	0
-melanieaswell	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	web.me.com-melanieaswell.warc.gz	0
-whereistheedge	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	gallery.me.com-whereistheedge.warc.gz	0
-whereistheedge	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	homepage.mac.com-whereistheedge.warc.gz	0
-whereistheedge	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	public.me.com-whereistheedge.warc.gz	0
-whereistheedge	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	web.me.com-whereistheedge.warc.gz	0
+brdiamond	gallery.me.com	2012-04-04 14:40:54	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	gallery.me.com-brdiamond.warc.gz	3388172
+brdiamond	homepage.mac.com	2012-04-04 14:40:55	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	homepage.mac.com-brdiamond.warc.gz	4915
+brdiamond	public.me.com	2012-04-04 14:40:45	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	public.me.com-brdiamond.warc.gz	1922
+brdiamond	web.me.com	2012-04-04 14:40:44	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	web.me.com-brdiamond.warc.gz	5080927
+geoffrey.berck	gallery.me.com	2012-04-04 22:34:06	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	gallery.me.com-geoffrey.berck.warc.gz	6603169157
+geoffrey.berck	homepage.mac.com	2012-04-04 22:34:07	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	homepage.mac.com-geoffrey.berck.warc.gz	4944
+geoffrey.berck	public.me.com	2012-04-04 17:33:31	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	public.me.com-geoffrey.berck.warc.gz	1927
+geoffrey.berck	web.me.com	2012-04-04 17:33:20	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	web.me.com-geoffrey.berck.warc.gz	279935503
+melanieaswell	gallery.me.com	2012-04-04 15:35:06	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	gallery.me.com-melanieaswell.warc.gz	6465
+melanieaswell	homepage.mac.com	2012-04-04 15:35:07	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	homepage.mac.com-melanieaswell.warc.gz	4934
+melanieaswell	public.me.com	2012-04-04 15:35:04	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	public.me.com-melanieaswell.warc.gz	3343
+melanieaswell	web.me.com	2012-04-04 15:35:03	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	web.me.com-melanieaswell.warc.gz	5959833
+whereistheedge	gallery.me.com	2012-04-04 15:32:45	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	gallery.me.com-whereistheedge.warc.gz	5659
+whereistheedge	homepage.mac.com	2012-04-04 15:32:49	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	homepage.mac.com-whereistheedge.warc.gz	84067
+whereistheedge	public.me.com	2012-04-04 15:32:42	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	public.me.com-whereistheedge.warc.gz	1931
+whereistheedge	web.me.com	2012-04-04 15:32:36	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3984.tar	web.me.com-whereistheedge.warc.gz	273283134

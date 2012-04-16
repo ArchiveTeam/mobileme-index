@@ -1,16 +1,16 @@
-matthew_sylvester	gallery.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	gallery.me.com-matthew_sylvester.warc.gz	0
-matthew_sylvester	homepage.mac.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	homepage.mac.com-matthew_sylvester.warc.gz	0
-matthew_sylvester	public.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	public.me.com-matthew_sylvester.warc.gz	0
-matthew_sylvester	web.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	web.me.com-matthew_sylvester.warc.gz	0
-neilbradley	gallery.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	gallery.me.com-neilbradley.warc.gz	0
-neilbradley	homepage.mac.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	homepage.mac.com-neilbradley.warc.gz	0
-neilbradley	public.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	public.me.com-neilbradley.warc.gz	0
-neilbradley	web.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	web.me.com-neilbradley.warc.gz	0
-oacc	gallery.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	gallery.me.com-oacc.warc.gz	0
-oacc	homepage.mac.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	homepage.mac.com-oacc.warc.gz	0
-oacc	public.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	public.me.com-oacc.warc.gz	0
-oacc	web.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	web.me.com-oacc.warc.gz	0
-thebayers	gallery.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	gallery.me.com-thebayers.warc.gz	0
-thebayers	homepage.mac.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	homepage.mac.com-thebayers.warc.gz	0
-thebayers	public.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	public.me.com-thebayers.warc.gz	0
-thebayers	web.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	web.me.com-thebayers.warc.gz	0
+matthew_sylvester	gallery.me.com	2012-04-10 06:56:01	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	gallery.me.com-matthew_sylvester.warc.gz	1082517
+matthew_sylvester	homepage.mac.com	2012-04-10 06:56:20	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	homepage.mac.com-matthew_sylvester.warc.gz	407399
+matthew_sylvester	public.me.com	2012-04-10 06:55:55	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	public.me.com-matthew_sylvester.warc.gz	224942
+matthew_sylvester	web.me.com	2012-04-10 06:55:53	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	web.me.com-matthew_sylvester.warc.gz	13136943
+neilbradley	gallery.me.com	2012-04-10 06:15:17	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	gallery.me.com-neilbradley.warc.gz	7092
+neilbradley	homepage.mac.com	2012-04-10 06:15:18	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	homepage.mac.com-neilbradley.warc.gz	4911
+neilbradley	public.me.com	2012-04-10 06:15:14	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	public.me.com-neilbradley.warc.gz	5501646
+neilbradley	web.me.com	2012-04-10 06:15:09	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	web.me.com-neilbradley.warc.gz	59260349
+oacc	gallery.me.com	2012-04-10 06:52:40	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	gallery.me.com-oacc.warc.gz	418286
+oacc	homepage.mac.com	2012-04-10 06:52:41	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	homepage.mac.com-oacc.warc.gz	7781
+oacc	public.me.com	2012-04-10 06:52:35	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	public.me.com-oacc.warc.gz	266029965
+oacc	web.me.com	2012-04-10 06:47:57	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	web.me.com-oacc.warc.gz	1562006282
+thebayers	gallery.me.com	2012-04-10 09:11:37	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	gallery.me.com-thebayers.warc.gz	2334325443
+thebayers	homepage.mac.com	2012-04-10 09:11:37	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	homepage.mac.com-thebayers.warc.gz	4901
+thebayers	public.me.com	2012-04-10 08:44:01	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	public.me.com-thebayers.warc.gz	5178578422
+thebayers	web.me.com	2012-04-10 06:57:55	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5859.tar	web.me.com-thebayers.warc.gz	11300606

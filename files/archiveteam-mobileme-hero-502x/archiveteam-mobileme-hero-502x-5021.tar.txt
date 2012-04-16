@@ -1,4 +1,4 @@
-cseran	gallery.me.com		archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5021.tar	gallery.me.com-cseran.warc.gz	0
-cseran	homepage.mac.com		archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5021.tar	homepage.mac.com-cseran.warc.gz	0
-cseran	public.me.com		archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5021.tar	public.me.com-cseran.warc.gz	0
-cseran	web.me.com		archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5021.tar	web.me.com-cseran.warc.gz	0
+cseran	gallery.me.com	2012-04-08 00:13:57	archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5021.tar	gallery.me.com-cseran.warc.gz	6051619751
+cseran	homepage.mac.com	2012-04-08 00:13:58	archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5021.tar	homepage.mac.com-cseran.warc.gz	52088
+cseran	public.me.com	2012-04-07 23:33:23	archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5021.tar	public.me.com-cseran.warc.gz	1908
+cseran	web.me.com	2012-04-07 23:33:23	archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5021.tar	web.me.com-cseran.warc.gz	365056477

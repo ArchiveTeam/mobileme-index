@@ -1,20 +1,20 @@
-d.strieder	gallery.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	gallery.me.com-d.strieder.warc.gz	0
-d.strieder	homepage.mac.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	homepage.mac.com-d.strieder.warc.gz	0
-d.strieder	public.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	public.me.com-d.strieder.warc.gz	0
-d.strieder	web.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	web.me.com-d.strieder.warc.gz	0
-garagemba	gallery.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	gallery.me.com-garagemba.warc.gz	0
-garagemba	homepage.mac.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	homepage.mac.com-garagemba.warc.gz	0
-garagemba	public.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	public.me.com-garagemba.warc.gz	0
-garagemba	web.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	web.me.com-garagemba.warc.gz	0
-jamali	gallery.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	gallery.me.com-jamali.warc.gz	0
-jamali	homepage.mac.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	homepage.mac.com-jamali.warc.gz	0
-jamali	public.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	public.me.com-jamali.warc.gz	0
-jamali	web.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	web.me.com-jamali.warc.gz	0
-maxpower01	gallery.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	gallery.me.com-maxpower01.warc.gz	0
-maxpower01	homepage.mac.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	homepage.mac.com-maxpower01.warc.gz	0
-maxpower01	public.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	public.me.com-maxpower01.warc.gz	0
-maxpower01	web.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	web.me.com-maxpower01.warc.gz	0
-roselitwak	gallery.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	gallery.me.com-roselitwak.warc.gz	0
-roselitwak	homepage.mac.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	homepage.mac.com-roselitwak.warc.gz	0
-roselitwak	public.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	public.me.com-roselitwak.warc.gz	0
-roselitwak	web.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	web.me.com-roselitwak.warc.gz	0
+d.strieder	gallery.me.com	2012-03-30 17:01:46	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	gallery.me.com-d.strieder.warc.gz	8356
+d.strieder	homepage.mac.com	2012-03-30 17:01:46	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	homepage.mac.com-d.strieder.warc.gz	5182
+d.strieder	public.me.com	2012-03-30 17:01:45	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	public.me.com-d.strieder.warc.gz	1914
+d.strieder	web.me.com	2012-03-30 17:01:45	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	web.me.com-d.strieder.warc.gz	17726
+garagemba	gallery.me.com	2012-03-30 16:58:59	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	gallery.me.com-garagemba.warc.gz	1272070317
+garagemba	homepage.mac.com	2012-03-30 16:59:00	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	homepage.mac.com-garagemba.warc.gz	4906
+garagemba	public.me.com	2012-03-30 16:25:26	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	public.me.com-garagemba.warc.gz	4147
+garagemba	web.me.com	2012-03-30 16:24:53	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	web.me.com-garagemba.warc.gz	1360467235
+jamali	gallery.me.com	2012-03-30 18:12:44	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	gallery.me.com-jamali.warc.gz	509992576
+jamali	homepage.mac.com	2012-03-30 18:12:44	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	homepage.mac.com-jamali.warc.gz	4914
+jamali	public.me.com	2012-03-30 18:09:56	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	public.me.com-jamali.warc.gz	2661069512
+jamali	web.me.com	2012-03-30 17:26:36	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	web.me.com-jamali.warc.gz	158794039
+maxpower01	gallery.me.com	2012-03-30 16:59:56	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	gallery.me.com-maxpower01.warc.gz	1367920
+maxpower01	homepage.mac.com	2012-03-30 17:00:04	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	homepage.mac.com-maxpower01.warc.gz	114349
+maxpower01	public.me.com	2012-03-30 16:59:51	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	public.me.com-maxpower01.warc.gz	2709234
+maxpower01	web.me.com	2012-03-30 16:59:46	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	web.me.com-maxpower01.warc.gz	2565241
+roselitwak	gallery.me.com	2012-03-30 17:01:44	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	gallery.me.com-roselitwak.warc.gz	4267
+roselitwak	homepage.mac.com	2012-03-30 17:01:44	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	homepage.mac.com-roselitwak.warc.gz	4926
+roselitwak	public.me.com	2012-03-30 17:01:43	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	public.me.com-roselitwak.warc.gz	1917
+roselitwak	web.me.com	2012-03-30 17:01:43	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2191.tar	web.me.com-roselitwak.warc.gz	6812283

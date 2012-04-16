@@ -1,24 +1,24 @@
-damienmacaluso	gallery.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	gallery.me.com-damienmacaluso.warc.gz	0
-damienmacaluso	homepage.mac.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	homepage.mac.com-damienmacaluso.warc.gz	0
-damienmacaluso	public.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	public.me.com-damienmacaluso.warc.gz	0
-damienmacaluso	web.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	web.me.com-damienmacaluso.warc.gz	0
-gardner	gallery.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	gallery.me.com-gardner.warc.gz	0
-gardner	homepage.mac.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	homepage.mac.com-gardner.warc.gz	0
-gardner	public.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	public.me.com-gardner.warc.gz	0
-gardner	web.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	web.me.com-gardner.warc.gz	0
-gemmadriver	gallery.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	gallery.me.com-gemmadriver.warc.gz	0
-gemmadriver	homepage.mac.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	homepage.mac.com-gemmadriver.warc.gz	0
-gemmadriver	public.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	public.me.com-gemmadriver.warc.gz	0
-gemmadriver	web.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	web.me.com-gemmadriver.warc.gz	0
-juliakoeglmeier	gallery.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	gallery.me.com-juliakoeglmeier.warc.gz	0
-juliakoeglmeier	homepage.mac.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	homepage.mac.com-juliakoeglmeier.warc.gz	0
-juliakoeglmeier	public.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	public.me.com-juliakoeglmeier.warc.gz	0
-juliakoeglmeier	web.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	web.me.com-juliakoeglmeier.warc.gz	0
-mrolsal	gallery.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	gallery.me.com-mrolsal.warc.gz	0
-mrolsal	homepage.mac.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	homepage.mac.com-mrolsal.warc.gz	0
-mrolsal	public.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	public.me.com-mrolsal.warc.gz	0
-mrolsal	web.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	web.me.com-mrolsal.warc.gz	0
-pammauch	gallery.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	gallery.me.com-pammauch.warc.gz	0
-pammauch	homepage.mac.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	homepage.mac.com-pammauch.warc.gz	0
-pammauch	public.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	public.me.com-pammauch.warc.gz	0
-pammauch	web.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	web.me.com-pammauch.warc.gz	0
+damienmacaluso	gallery.me.com	2012-04-13 16:17:01	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	gallery.me.com-damienmacaluso.warc.gz	5865
+damienmacaluso	homepage.mac.com	2012-04-13 16:17:06	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	homepage.mac.com-damienmacaluso.warc.gz	98701
+damienmacaluso	public.me.com	2012-04-13 16:16:58	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	public.me.com-damienmacaluso.warc.gz	1928
+damienmacaluso	web.me.com	2012-04-13 16:16:54	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	web.me.com-damienmacaluso.warc.gz	620723436
+gardner	gallery.me.com	2012-04-13 14:57:34	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	gallery.me.com-gardner.warc.gz	222140920
+gardner	homepage.mac.com	2012-04-13 14:58:07	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	homepage.mac.com-gardner.warc.gz	754824
+gardner	public.me.com	2012-04-13 14:49:35	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	public.me.com-gardner.warc.gz	22365
+gardner	web.me.com	2012-04-13 14:49:34	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	web.me.com-gardner.warc.gz	2882845
+gemmadriver	gallery.me.com	2012-04-13 15:27:48	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	gallery.me.com-gemmadriver.warc.gz	4257
+gemmadriver	homepage.mac.com	2012-04-13 15:27:48	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	homepage.mac.com-gemmadriver.warc.gz	4916
+gemmadriver	public.me.com	2012-04-13 15:27:45	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	public.me.com-gemmadriver.warc.gz	1929
+gemmadriver	web.me.com	2012-04-13 15:27:45	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	web.me.com-gemmadriver.warc.gz	7389
+juliakoeglmeier	gallery.me.com	2012-04-13 15:27:41	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	gallery.me.com-juliakoeglmeier.warc.gz	1276853776
+juliakoeglmeier	homepage.mac.com	2012-04-13 15:27:41	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	homepage.mac.com-juliakoeglmeier.warc.gz	4943
+juliakoeglmeier	public.me.com	2012-04-13 15:00:22	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	public.me.com-juliakoeglmeier.warc.gz	1929
+juliakoeglmeier	web.me.com	2012-04-13 15:00:21	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	web.me.com-juliakoeglmeier.warc.gz	12475028
+mrolsal	gallery.me.com	2012-04-13 18:47:25	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	gallery.me.com-mrolsal.warc.gz	7138611019
+mrolsal	homepage.mac.com	2012-04-13 18:47:25	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	homepage.mac.com-mrolsal.warc.gz	4914
+mrolsal	public.me.com	2012-04-13 16:40:30	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	public.me.com-mrolsal.warc.gz	3374
+mrolsal	web.me.com	2012-04-13 16:40:30	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	web.me.com-mrolsal.warc.gz	92602967
+pammauch	gallery.me.com	2012-04-13 16:20:38	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	gallery.me.com-pammauch.warc.gz	19944757
+pammauch	homepage.mac.com	2012-04-13 16:20:39	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	homepage.mac.com-pammauch.warc.gz	4910
+pammauch	public.me.com	2012-04-13 16:19:11	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	public.me.com-pammauch.warc.gz	1913
+pammauch	web.me.com	2012-04-13 16:19:11	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7433.tar	web.me.com-pammauch.warc.gz	17824394

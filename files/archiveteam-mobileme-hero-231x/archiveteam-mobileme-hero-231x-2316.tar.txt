@@ -1,8 +1,8 @@
-linuxinu	gallery.me.com		archiveteam-mobileme-hero-231x	archiveteam-mobileme-hero-231x-2316.tar	gallery.me.com-linuxinu.warc.gz	0
-linuxinu	homepage.mac.com		archiveteam-mobileme-hero-231x	archiveteam-mobileme-hero-231x-2316.tar	homepage.mac.com-linuxinu.warc.gz	0
-linuxinu	public.me.com		archiveteam-mobileme-hero-231x	archiveteam-mobileme-hero-231x-2316.tar	public.me.com-linuxinu.warc.gz	0
-linuxinu	web.me.com		archiveteam-mobileme-hero-231x	archiveteam-mobileme-hero-231x-2316.tar	web.me.com-linuxinu.warc.gz	0
-stephen_houghton	gallery.me.com		archiveteam-mobileme-hero-231x	archiveteam-mobileme-hero-231x-2316.tar	gallery.me.com-stephen_houghton.warc.gz	0
-stephen_houghton	homepage.mac.com		archiveteam-mobileme-hero-231x	archiveteam-mobileme-hero-231x-2316.tar	homepage.mac.com-stephen_houghton.warc.gz	0
-stephen_houghton	public.me.com		archiveteam-mobileme-hero-231x	archiveteam-mobileme-hero-231x-2316.tar	public.me.com-stephen_houghton.warc.gz	0
-stephen_houghton	web.me.com		archiveteam-mobileme-hero-231x	archiveteam-mobileme-hero-231x-2316.tar	web.me.com-stephen_houghton.warc.gz	0
+linuxinu	gallery.me.com	2012-03-31 01:44:26	archiveteam-mobileme-hero-231x	archiveteam-mobileme-hero-231x-2316.tar	gallery.me.com-linuxinu.warc.gz	711070653
+linuxinu	homepage.mac.com	2012-03-31 01:44:26	archiveteam-mobileme-hero-231x	archiveteam-mobileme-hero-231x-2316.tar	homepage.mac.com-linuxinu.warc.gz	4899
+linuxinu	public.me.com	2012-03-31 01:15:41	archiveteam-mobileme-hero-231x	archiveteam-mobileme-hero-231x-2316.tar	public.me.com-linuxinu.warc.gz	139022586
+linuxinu	web.me.com	2012-03-31 01:06:21	archiveteam-mobileme-hero-231x	archiveteam-mobileme-hero-231x-2316.tar	web.me.com-linuxinu.warc.gz	582697978
+stephen_houghton	gallery.me.com	2012-03-31 05:56:26	archiveteam-mobileme-hero-231x	archiveteam-mobileme-hero-231x-2316.tar	gallery.me.com-stephen_houghton.warc.gz	3348791899
+stephen_houghton	homepage.mac.com	2012-03-31 05:56:26	archiveteam-mobileme-hero-231x	archiveteam-mobileme-hero-231x-2316.tar	homepage.mac.com-stephen_houghton.warc.gz	4935
+stephen_houghton	public.me.com	2012-03-31 03:32:53	archiveteam-mobileme-hero-231x	archiveteam-mobileme-hero-231x-2316.tar	public.me.com-stephen_houghton.warc.gz	1933
+stephen_houghton	web.me.com	2012-03-31 03:32:40	archiveteam-mobileme-hero-231x	archiveteam-mobileme-hero-231x-2316.tar	web.me.com-stephen_houghton.warc.gz	796311880

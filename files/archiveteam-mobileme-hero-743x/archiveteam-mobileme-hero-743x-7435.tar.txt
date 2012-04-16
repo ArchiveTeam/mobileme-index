@@ -1,28 +1,28 @@
-decomeet	gallery.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	gallery.me.com-decomeet.warc.gz	0
-decomeet	homepage.mac.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	homepage.mac.com-decomeet.warc.gz	0
-decomeet	public.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	public.me.com-decomeet.warc.gz	0
-decomeet	web.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	web.me.com-decomeet.warc.gz	0
-egoo	gallery.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	gallery.me.com-egoo.warc.gz	0
-egoo	homepage.mac.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	homepage.mac.com-egoo.warc.gz	0
-egoo	public.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	public.me.com-egoo.warc.gz	0
-egoo	web.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	web.me.com-egoo.warc.gz	0
-glen.golightly	gallery.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	gallery.me.com-glen.golightly.warc.gz	0
-glen.golightly	homepage.mac.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	homepage.mac.com-glen.golightly.warc.gz	0
-glen.golightly	public.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	public.me.com-glen.golightly.warc.gz	0
-glen.golightly	web.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	web.me.com-glen.golightly.warc.gz	0
-hendrikvw	gallery.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	gallery.me.com-hendrikvw.warc.gz	0
-hendrikvw	homepage.mac.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	homepage.mac.com-hendrikvw.warc.gz	0
-hendrikvw	public.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	public.me.com-hendrikvw.warc.gz	0
-hendrikvw	web.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	web.me.com-hendrikvw.warc.gz	0
-jperk	gallery.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	gallery.me.com-jperk.warc.gz	0
-jperk	homepage.mac.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	homepage.mac.com-jperk.warc.gz	0
-jperk	public.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	public.me.com-jperk.warc.gz	0
-jperk	web.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	web.me.com-jperk.warc.gz	0
-terrellgibbs	gallery.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	gallery.me.com-terrellgibbs.warc.gz	0
-terrellgibbs	homepage.mac.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	homepage.mac.com-terrellgibbs.warc.gz	0
-terrellgibbs	public.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	public.me.com-terrellgibbs.warc.gz	0
-terrellgibbs	web.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	web.me.com-terrellgibbs.warc.gz	0
-themuzzys	gallery.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	gallery.me.com-themuzzys.warc.gz	0
-themuzzys	homepage.mac.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	homepage.mac.com-themuzzys.warc.gz	0
-themuzzys	public.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	public.me.com-themuzzys.warc.gz	0
-themuzzys	web.me.com		archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	web.me.com-themuzzys.warc.gz	0
+decomeet	gallery.me.com	2012-04-13 17:24:18	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	gallery.me.com-decomeet.warc.gz	54965095
+decomeet	homepage.mac.com	2012-04-13 17:24:18	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	homepage.mac.com-decomeet.warc.gz	4886
+decomeet	public.me.com	2012-04-13 17:23:27	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	public.me.com-decomeet.warc.gz	1914
+decomeet	web.me.com	2012-04-13 17:23:27	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	web.me.com-decomeet.warc.gz	1408426
+egoo	gallery.me.com	2012-04-13 15:55:13	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	gallery.me.com-egoo.warc.gz	208003027
+egoo	homepage.mac.com	2012-04-13 15:55:13	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	homepage.mac.com-egoo.warc.gz	4895
+egoo	public.me.com	2012-04-13 15:47:16	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	public.me.com-egoo.warc.gz	1903
+egoo	web.me.com	2012-04-13 15:47:10	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	web.me.com-egoo.warc.gz	252409280
+glen.golightly	gallery.me.com	2012-04-13 15:19:55	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	gallery.me.com-glen.golightly.warc.gz	1148798949
+glen.golightly	homepage.mac.com	2012-04-13 15:19:55	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	homepage.mac.com-glen.golightly.warc.gz	4931
+glen.golightly	public.me.com	2012-04-13 14:58:29	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	public.me.com-glen.golightly.warc.gz	1928
+glen.golightly	web.me.com	2012-04-13 14:58:29	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	web.me.com-glen.golightly.warc.gz	3526567
+hendrikvw	gallery.me.com	2012-04-13 17:19:56	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	gallery.me.com-hendrikvw.warc.gz	830672433
+hendrikvw	homepage.mac.com	2012-04-13 17:19:57	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	homepage.mac.com-hendrikvw.warc.gz	4928
+hendrikvw	public.me.com	2012-04-13 16:34:35	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	public.me.com-hendrikvw.warc.gz	1918
+hendrikvw	web.me.com	2012-04-13 16:34:30	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	web.me.com-hendrikvw.warc.gz	759221037
+jperk	gallery.me.com	2012-04-13 18:34:27	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	gallery.me.com-jperk.warc.gz	1445511203
+jperk	homepage.mac.com	2012-04-13 18:34:32	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	homepage.mac.com-jperk.warc.gz	74706
+jperk	public.me.com	2012-04-13 18:05:24	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	public.me.com-jperk.warc.gz	37555899
+jperk	web.me.com	2012-04-13 18:05:01	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	web.me.com-jperk.warc.gz	257303225
+terrellgibbs	gallery.me.com	2012-04-13 17:55:34	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	gallery.me.com-terrellgibbs.warc.gz	347413861
+terrellgibbs	homepage.mac.com	2012-04-13 17:55:34	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	homepage.mac.com-terrellgibbs.warc.gz	4918
+terrellgibbs	public.me.com	2012-04-13 17:32:37	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	public.me.com-terrellgibbs.warc.gz	27176
+terrellgibbs	web.me.com	2012-04-13 17:32:35	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	web.me.com-terrellgibbs.warc.gz	21871613
+themuzzys	gallery.me.com	2012-04-13 17:23:03	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	gallery.me.com-themuzzys.warc.gz	4264
+themuzzys	homepage.mac.com	2012-04-13 17:23:03	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	homepage.mac.com-themuzzys.warc.gz	4923
+themuzzys	public.me.com	2012-04-13 17:23:03	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	public.me.com-themuzzys.warc.gz	1914
+themuzzys	web.me.com	2012-04-13 17:23:02	archiveteam-mobileme-hero-743x	archiveteam-mobileme-hero-743x-7435.tar	web.me.com-themuzzys.warc.gz	11009067

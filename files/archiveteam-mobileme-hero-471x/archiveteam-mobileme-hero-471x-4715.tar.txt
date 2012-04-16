@@ -1,4 +1,4 @@
-p.forti	gallery.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4715.tar	gallery.me.com-p.forti.warc.gz	0
-p.forti	homepage.mac.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4715.tar	homepage.mac.com-p.forti.warc.gz	0
-p.forti	public.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4715.tar	public.me.com-p.forti.warc.gz	0
-p.forti	web.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4715.tar	web.me.com-p.forti.warc.gz	0
+p.forti	gallery.me.com	2012-04-06 15:08:02	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4715.tar	gallery.me.com-p.forti.warc.gz	3463433358
+p.forti	homepage.mac.com	2012-04-06 15:08:02	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4715.tar	homepage.mac.com-p.forti.warc.gz	4908
+p.forti	public.me.com	2012-04-06 13:43:31	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4715.tar	public.me.com-p.forti.warc.gz	1907
+p.forti	web.me.com	2012-04-06 13:42:40	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4715.tar	web.me.com-p.forti.warc.gz	1957317752

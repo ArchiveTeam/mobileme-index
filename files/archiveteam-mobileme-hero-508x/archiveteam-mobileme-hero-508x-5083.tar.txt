@@ -1,12 +1,12 @@
-leifskartland	gallery.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	gallery.me.com-leifskartland.warc.gz	0
-leifskartland	homepage.mac.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	homepage.mac.com-leifskartland.warc.gz	0
-leifskartland	public.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	public.me.com-leifskartland.warc.gz	0
-leifskartland	web.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	web.me.com-leifskartland.warc.gz	0
-mattconz	gallery.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	gallery.me.com-mattconz.warc.gz	0
-mattconz	homepage.mac.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	homepage.mac.com-mattconz.warc.gz	0
-mattconz	public.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	public.me.com-mattconz.warc.gz	0
-mattconz	web.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	web.me.com-mattconz.warc.gz	0
-rossmanion	gallery.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	gallery.me.com-rossmanion.warc.gz	0
-rossmanion	homepage.mac.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	homepage.mac.com-rossmanion.warc.gz	0
-rossmanion	public.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	public.me.com-rossmanion.warc.gz	0
-rossmanion	web.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	web.me.com-rossmanion.warc.gz	0
+leifskartland	gallery.me.com	2012-04-08 03:08:44	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	gallery.me.com-leifskartland.warc.gz	22576803
+leifskartland	homepage.mac.com	2012-04-08 03:08:44	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	homepage.mac.com-leifskartland.warc.gz	4930
+leifskartland	public.me.com	2012-04-08 03:07:34	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	public.me.com-leifskartland.warc.gz	3470022793
+leifskartland	web.me.com	2012-04-08 01:03:50	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	web.me.com-leifskartland.warc.gz	1750401881
+mattconz	gallery.me.com	2012-04-08 00:22:58	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	gallery.me.com-mattconz.warc.gz	5155
+mattconz	homepage.mac.com	2012-04-08 00:22:59	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	homepage.mac.com-mattconz.warc.gz	3603
+mattconz	public.me.com	2012-04-08 00:22:57	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	public.me.com-mattconz.warc.gz	933058353
+mattconz	web.me.com	2012-04-08 00:12:01	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	web.me.com-mattconz.warc.gz	42485980
+rossmanion	gallery.me.com	2012-04-08 00:06:13	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	gallery.me.com-rossmanion.warc.gz	4300
+rossmanion	homepage.mac.com	2012-04-08 00:06:13	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	homepage.mac.com-rossmanion.warc.gz	4896
+rossmanion	public.me.com	2012-04-08 00:06:12	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	public.me.com-rossmanion.warc.gz	1919
+rossmanion	web.me.com	2012-04-08 00:06:12	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5083.tar	web.me.com-rossmanion.warc.gz	33125344

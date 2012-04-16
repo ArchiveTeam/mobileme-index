@@ -1,12 +1,12 @@
-adricheboy	gallery.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	gallery.me.com-adricheboy.warc.gz	0
-adricheboy	homepage.mac.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	homepage.mac.com-adricheboy.warc.gz	0
-adricheboy	public.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	public.me.com-adricheboy.warc.gz	0
-adricheboy	web.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	web.me.com-adricheboy.warc.gz	0
-prestinari	gallery.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	gallery.me.com-prestinari.warc.gz	0
-prestinari	homepage.mac.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	homepage.mac.com-prestinari.warc.gz	0
-prestinari	public.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	public.me.com-prestinari.warc.gz	0
-prestinari	web.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	web.me.com-prestinari.warc.gz	0
-zobenica	gallery.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	gallery.me.com-zobenica.warc.gz	0
-zobenica	homepage.mac.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	homepage.mac.com-zobenica.warc.gz	0
-zobenica	public.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	public.me.com-zobenica.warc.gz	0
-zobenica	web.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	web.me.com-zobenica.warc.gz	0
+adricheboy	gallery.me.com	2012-04-11 11:44:27	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	gallery.me.com-adricheboy.warc.gz	8371
+adricheboy	homepage.mac.com	2012-04-11 11:44:27	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	homepage.mac.com-adricheboy.warc.gz	5180
+adricheboy	public.me.com	2012-04-11 11:44:26	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	public.me.com-adricheboy.warc.gz	1918
+adricheboy	web.me.com	2012-04-11 11:44:25	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	web.me.com-adricheboy.warc.gz	17753
+prestinari	gallery.me.com	2012-04-11 14:04:27	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	gallery.me.com-prestinari.warc.gz	6873
+prestinari	homepage.mac.com	2012-04-11 14:04:28	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	homepage.mac.com-prestinari.warc.gz	7873
+prestinari	public.me.com	2012-04-11 14:04:23	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	public.me.com-prestinari.warc.gz	4958174821
+prestinari	web.me.com	2012-04-11 11:45:25	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	web.me.com-prestinari.warc.gz	1800469
+zobenica	gallery.me.com	2012-04-11 11:44:22	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	gallery.me.com-zobenica.warc.gz	4250270
+zobenica	homepage.mac.com	2012-04-11 11:44:22	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	homepage.mac.com-zobenica.warc.gz	4921
+zobenica	public.me.com	2012-04-11 11:44:06	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	public.me.com-zobenica.warc.gz	797593807
+zobenica	web.me.com	2012-04-11 11:26:37	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6410.tar	web.me.com-zobenica.warc.gz	404795800

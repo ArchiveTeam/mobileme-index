@@ -1,16 +1,16 @@
-allenblocker	gallery.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	gallery.me.com-allenblocker.warc.gz	0
-allenblocker	homepage.mac.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	homepage.mac.com-allenblocker.warc.gz	0
-allenblocker	public.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	public.me.com-allenblocker.warc.gz	0
-allenblocker	web.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	web.me.com-allenblocker.warc.gz	0
-cherylkochbryan	gallery.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	gallery.me.com-cherylkochbryan.warc.gz	0
-cherylkochbryan	homepage.mac.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	homepage.mac.com-cherylkochbryan.warc.gz	0
-cherylkochbryan	public.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	public.me.com-cherylkochbryan.warc.gz	0
-cherylkochbryan	web.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	web.me.com-cherylkochbryan.warc.gz	0
-istu	gallery.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	gallery.me.com-istu.warc.gz	0
-istu	homepage.mac.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	homepage.mac.com-istu.warc.gz	0
-istu	public.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	public.me.com-istu.warc.gz	0
-istu	web.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	web.me.com-istu.warc.gz	0
-nathanheimer	gallery.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	gallery.me.com-nathanheimer.warc.gz	0
-nathanheimer	homepage.mac.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	homepage.mac.com-nathanheimer.warc.gz	0
-nathanheimer	public.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	public.me.com-nathanheimer.warc.gz	0
-nathanheimer	web.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	web.me.com-nathanheimer.warc.gz	0
+allenblocker	gallery.me.com	2012-04-07 06:09:32	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	gallery.me.com-allenblocker.warc.gz	4965
+allenblocker	homepage.mac.com	2012-04-07 06:09:33	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	homepage.mac.com-allenblocker.warc.gz	4903
+allenblocker	public.me.com	2012-04-07 06:09:31	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	public.me.com-allenblocker.warc.gz	15358613
+allenblocker	web.me.com	2012-04-07 06:08:28	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	web.me.com-allenblocker.warc.gz	1880938103
+cherylkochbryan	gallery.me.com	2012-04-07 03:17:59	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	gallery.me.com-cherylkochbryan.warc.gz	170106
+cherylkochbryan	homepage.mac.com	2012-04-07 03:18:04	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	homepage.mac.com-cherylkochbryan.warc.gz	62971
+cherylkochbryan	public.me.com	2012-04-07 03:17:56	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	public.me.com-cherylkochbryan.warc.gz	1932
+cherylkochbryan	web.me.com	2012-04-07 03:17:54	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	web.me.com-cherylkochbryan.warc.gz	210350960
+istu	gallery.me.com	2012-04-07 04:41:47	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	gallery.me.com-istu.warc.gz	1475015822
+istu	homepage.mac.com	2012-04-07 04:41:52	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	homepage.mac.com-istu.warc.gz	6001
+istu	public.me.com	2012-04-07 04:11:27	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	public.me.com-istu.warc.gz	642353183
+istu	web.me.com	2012-04-07 03:49:19	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	web.me.com-istu.warc.gz	657867518
+nathanheimer	gallery.me.com	2012-04-07 04:47:02	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	gallery.me.com-nathanheimer.warc.gz	4258
+nathanheimer	homepage.mac.com	2012-04-07 04:47:03	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	homepage.mac.com-nathanheimer.warc.gz	4934
+nathanheimer	public.me.com	2012-04-07 04:47:02	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	public.me.com-nathanheimer.warc.gz	1922
+nathanheimer	web.me.com	2012-04-07 04:47:01	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4850.tar	web.me.com-nathanheimer.warc.gz	30456273

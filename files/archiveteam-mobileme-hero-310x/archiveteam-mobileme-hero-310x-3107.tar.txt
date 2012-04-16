@@ -1,24 +1,24 @@
-bechsteinb	gallery.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	gallery.me.com-bechsteinb.warc.gz	0
-bechsteinb	homepage.mac.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	homepage.mac.com-bechsteinb.warc.gz	0
-bechsteinb	public.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	public.me.com-bechsteinb.warc.gz	0
-bechsteinb	web.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	web.me.com-bechsteinb.warc.gz	0
-lh20041002162312	gallery.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	gallery.me.com-lh20041002162312.warc.gz	0
-lh20041002162312	homepage.mac.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	homepage.mac.com-lh20041002162312.warc.gz	0
-lh20041002162312	public.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	public.me.com-lh20041002162312.warc.gz	0
-lh20041002162312	web.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	web.me.com-lh20041002162312.warc.gz	0
-sending.postcards	gallery.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	gallery.me.com-sending.postcards.warc.gz	0
-sending.postcards	homepage.mac.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	homepage.mac.com-sending.postcards.warc.gz	0
-sending.postcards	public.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	public.me.com-sending.postcards.warc.gz	0
-sending.postcards	web.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	web.me.com-sending.postcards.warc.gz	0
-smasker01	gallery.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	gallery.me.com-smasker01.warc.gz	0
-smasker01	homepage.mac.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	homepage.mac.com-smasker01.warc.gz	0
-smasker01	public.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	public.me.com-smasker01.warc.gz	0
-smasker01	web.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	web.me.com-smasker01.warc.gz	0
-terrirolland	gallery.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	gallery.me.com-terrirolland.warc.gz	0
-terrirolland	homepage.mac.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	homepage.mac.com-terrirolland.warc.gz	0
-terrirolland	public.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	public.me.com-terrirolland.warc.gz	0
-terrirolland	web.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	web.me.com-terrirolland.warc.gz	0
-thevideoguide	gallery.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	gallery.me.com-thevideoguide.warc.gz	0
-thevideoguide	homepage.mac.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	homepage.mac.com-thevideoguide.warc.gz	0
-thevideoguide	public.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	public.me.com-thevideoguide.warc.gz	0
-thevideoguide	web.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	web.me.com-thevideoguide.warc.gz	0
+bechsteinb	gallery.me.com	2012-04-02 15:51:58	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	gallery.me.com-bechsteinb.warc.gz	5700
+bechsteinb	homepage.mac.com	2012-04-02 15:52:13	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	homepage.mac.com-bechsteinb.warc.gz	149650
+bechsteinb	public.me.com	2012-04-02 15:51:54	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	public.me.com-bechsteinb.warc.gz	6560386
+bechsteinb	web.me.com	2012-04-02 15:51:35	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	web.me.com-bechsteinb.warc.gz	4437735
+lh20041002162312	gallery.me.com	2012-04-02 19:28:30	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	gallery.me.com-lh20041002162312.warc.gz	8375
+lh20041002162312	homepage.mac.com	2012-04-02 19:28:30	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	homepage.mac.com-lh20041002162312.warc.gz	5188
+lh20041002162312	public.me.com	2012-04-02 19:28:29	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	public.me.com-lh20041002162312.warc.gz	1933
+lh20041002162312	web.me.com	2012-04-02 19:28:28	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	web.me.com-lh20041002162312.warc.gz	17812
+sending.postcards	gallery.me.com	2012-04-02 20:53:54	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	gallery.me.com-sending.postcards.warc.gz	1397277002
+sending.postcards	homepage.mac.com	2012-04-02 20:53:55	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	homepage.mac.com-sending.postcards.warc.gz	4937
+sending.postcards	public.me.com	2012-04-02 19:57:34	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	public.me.com-sending.postcards.warc.gz	1936
+sending.postcards	web.me.com	2012-04-02 19:57:34	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	web.me.com-sending.postcards.warc.gz	70215777
+smasker01	gallery.me.com	2012-04-02 19:28:13	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	gallery.me.com-smasker01.warc.gz	760753957
+smasker01	homepage.mac.com	2012-04-02 19:28:23	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	homepage.mac.com-smasker01.warc.gz	108713
+smasker01	public.me.com	2012-04-02 18:29:27	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	public.me.com-smasker01.warc.gz	2246575195
+smasker01	web.me.com	2012-04-02 17:35:57	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	web.me.com-smasker01.warc.gz	568781646
+terrirolland	gallery.me.com	2012-04-02 19:37:02	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	gallery.me.com-terrirolland.warc.gz	5145
+terrirolland	homepage.mac.com	2012-04-02 19:37:03	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	homepage.mac.com-terrirolland.warc.gz	4925
+terrirolland	public.me.com	2012-04-02 19:37:00	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	public.me.com-terrirolland.warc.gz	1927
+terrirolland	web.me.com	2012-04-02 19:36:59	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	web.me.com-terrirolland.warc.gz	67012532
+thevideoguide	gallery.me.com	2012-04-02 15:58:20	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	gallery.me.com-thevideoguide.warc.gz	4308
+thevideoguide	homepage.mac.com	2012-04-02 15:58:20	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	homepage.mac.com-thevideoguide.warc.gz	4908
+thevideoguide	public.me.com	2012-04-02 15:58:18	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	public.me.com-thevideoguide.warc.gz	1928
+thevideoguide	web.me.com	2012-04-02 15:58:18	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3107.tar	web.me.com-thevideoguide.warc.gz	5224691

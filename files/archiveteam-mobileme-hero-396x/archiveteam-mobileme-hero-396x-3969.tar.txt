@@ -1,8 +1,8 @@
-hp3ba	gallery.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3969.tar	gallery.me.com-hp3ba.warc.gz	0
-hp3ba	homepage.mac.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3969.tar	homepage.mac.com-hp3ba.warc.gz	0
-hp3ba	public.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3969.tar	public.me.com-hp3ba.warc.gz	0
-hp3ba	web.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3969.tar	web.me.com-hp3ba.warc.gz	0
-kaz78	gallery.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3969.tar	gallery.me.com-kaz78.warc.gz	0
-kaz78	homepage.mac.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3969.tar	homepage.mac.com-kaz78.warc.gz	0
-kaz78	public.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3969.tar	public.me.com-kaz78.warc.gz	0
-kaz78	web.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3969.tar	web.me.com-kaz78.warc.gz	0
+hp3ba	gallery.me.com	2012-04-04 21:40:58	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3969.tar	gallery.me.com-hp3ba.warc.gz	526422269
+hp3ba	homepage.mac.com	2012-04-04 21:40:58	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3969.tar	homepage.mac.com-hp3ba.warc.gz	4893
+hp3ba	public.me.com	2012-04-04 21:25:37	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3969.tar	public.me.com-hp3ba.warc.gz	1907
+hp3ba	web.me.com	2012-04-04 21:25:33	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3969.tar	web.me.com-hp3ba.warc.gz	513824047
+kaz78	gallery.me.com	2012-04-04 20:46:06	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3969.tar	gallery.me.com-kaz78.warc.gz	5097676
+kaz78	homepage.mac.com	2012-04-04 20:46:07	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3969.tar	homepage.mac.com-kaz78.warc.gz	7856
+kaz78	public.me.com	2012-04-04 20:45:43	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3969.tar	public.me.com-kaz78.warc.gz	1906
+kaz78	web.me.com	2012-04-04 20:44:09	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3969.tar	web.me.com-kaz78.warc.gz	3449902577

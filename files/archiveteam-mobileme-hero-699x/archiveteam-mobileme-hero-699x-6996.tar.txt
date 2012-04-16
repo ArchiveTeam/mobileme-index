@@ -1,12 +1,12 @@
-haydenjudd	gallery.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	gallery.me.com-haydenjudd.warc.gz	0
-haydenjudd	homepage.mac.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	homepage.mac.com-haydenjudd.warc.gz	0
-haydenjudd	public.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	public.me.com-haydenjudd.warc.gz	0
-haydenjudd	web.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	web.me.com-haydenjudd.warc.gz	0
-joshfryer	gallery.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	gallery.me.com-joshfryer.warc.gz	0
-joshfryer	homepage.mac.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	homepage.mac.com-joshfryer.warc.gz	0
-joshfryer	public.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	public.me.com-joshfryer.warc.gz	0
-joshfryer	web.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	web.me.com-joshfryer.warc.gz	0
-takano.masahiro	gallery.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	gallery.me.com-takano.masahiro.warc.gz	0
-takano.masahiro	homepage.mac.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	homepage.mac.com-takano.masahiro.warc.gz	0
-takano.masahiro	public.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	public.me.com-takano.masahiro.warc.gz	0
-takano.masahiro	web.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	web.me.com-takano.masahiro.warc.gz	0
+haydenjudd	gallery.me.com	2012-04-12 21:24:07	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	gallery.me.com-haydenjudd.warc.gz	335031176
+haydenjudd	homepage.mac.com	2012-04-12 21:24:07	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	homepage.mac.com-haydenjudd.warc.gz	4925
+haydenjudd	public.me.com	2012-04-12 21:19:23	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	public.me.com-haydenjudd.warc.gz	552094578
+haydenjudd	web.me.com	2012-04-12 20:51:55	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	web.me.com-haydenjudd.warc.gz	264664187
+joshfryer	gallery.me.com	2012-04-12 21:57:33	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	gallery.me.com-joshfryer.warc.gz	681284231
+joshfryer	homepage.mac.com	2012-04-12 21:57:33	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	homepage.mac.com-joshfryer.warc.gz	4924
+joshfryer	public.me.com	2012-04-12 21:38:38	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	public.me.com-joshfryer.warc.gz	463321929
+joshfryer	web.me.com	2012-04-12 21:25:47	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	web.me.com-joshfryer.warc.gz	8048773
+takano.masahiro	gallery.me.com	2012-04-12 22:44:46	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	gallery.me.com-takano.masahiro.warc.gz	3109238390
+takano.masahiro	homepage.mac.com	2012-04-12 22:44:51	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	homepage.mac.com-takano.masahiro.warc.gz	108299
+takano.masahiro	public.me.com	2012-04-12 22:01:39	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	public.me.com-takano.masahiro.warc.gz	3346
+takano.masahiro	web.me.com	2012-04-12 22:01:38	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6996.tar	web.me.com-takano.masahiro.warc.gz	26111907

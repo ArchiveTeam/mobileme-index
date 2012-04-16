@@ -1,16 +1,16 @@
-lh20041221212055	gallery.me.com		archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	gallery.me.com-lh20041221212055.warc.gz	0
-lh20041221212055	homepage.mac.com		archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	homepage.mac.com-lh20041221212055.warc.gz	0
-lh20041221212055	public.me.com		archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	public.me.com-lh20041221212055.warc.gz	0
-lh20041221212055	web.me.com		archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	web.me.com-lh20041221212055.warc.gz	0
-silvagrist1	gallery.me.com		archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	gallery.me.com-silvagrist1.warc.gz	0
-silvagrist1	homepage.mac.com		archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	homepage.mac.com-silvagrist1.warc.gz	0
-silvagrist1	public.me.com		archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	public.me.com-silvagrist1.warc.gz	0
-silvagrist1	web.me.com		archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	web.me.com-silvagrist1.warc.gz	0
-teaeye	gallery.me.com		archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	gallery.me.com-teaeye.warc.gz	0
-teaeye	homepage.mac.com		archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	homepage.mac.com-teaeye.warc.gz	0
-teaeye	public.me.com		archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	public.me.com-teaeye.warc.gz	0
-teaeye	web.me.com		archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	web.me.com-teaeye.warc.gz	0
-thomasappleton	gallery.me.com		archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	gallery.me.com-thomasappleton.warc.gz	0
-thomasappleton	homepage.mac.com		archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	homepage.mac.com-thomasappleton.warc.gz	0
-thomasappleton	public.me.com		archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	public.me.com-thomasappleton.warc.gz	0
-thomasappleton	web.me.com		archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	web.me.com-thomasappleton.warc.gz	0
+lh20041221212055	gallery.me.com	2012-04-12 03:50:44	archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	gallery.me.com-lh20041221212055.warc.gz	8386
+lh20041221212055	homepage.mac.com	2012-04-12 03:50:44	archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	homepage.mac.com-lh20041221212055.warc.gz	5203
+lh20041221212055	public.me.com	2012-04-12 03:50:43	archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	public.me.com-lh20041221212055.warc.gz	1934
+lh20041221212055	web.me.com	2012-04-12 03:50:43	archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	web.me.com-lh20041221212055.warc.gz	17798
+silvagrist1	gallery.me.com	2012-04-12 03:50:33	archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	gallery.me.com-silvagrist1.warc.gz	839215113
+silvagrist1	homepage.mac.com	2012-04-12 03:50:41	archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	homepage.mac.com-silvagrist1.warc.gz	148131
+silvagrist1	public.me.com	2012-04-12 02:36:05	archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	public.me.com-silvagrist1.warc.gz	15662
+silvagrist1	web.me.com	2012-04-12 02:36:03	archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	web.me.com-silvagrist1.warc.gz	68347062
+teaeye	gallery.me.com	2012-04-12 05:22:20	archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	gallery.me.com-teaeye.warc.gz	14720729
+teaeye	homepage.mac.com	2012-04-12 05:22:22	archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	homepage.mac.com-teaeye.warc.gz	36827
+teaeye	public.me.com	2012-04-12 05:21:57	archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	public.me.com-teaeye.warc.gz	1908
+teaeye	web.me.com	2012-04-12 05:21:42	archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	web.me.com-teaeye.warc.gz	7627876083
+thomasappleton	gallery.me.com	2012-04-12 03:56:43	archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	gallery.me.com-thomasappleton.warc.gz	10624875
+thomasappleton	homepage.mac.com	2012-04-12 03:56:43	archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	homepage.mac.com-thomasappleton.warc.gz	4909
+thomasappleton	public.me.com	2012-04-12 03:55:58	archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	public.me.com-thomasappleton.warc.gz	1922
+thomasappleton	web.me.com	2012-04-12 03:55:53	archiveteam-mobileme-hero-660x	archiveteam-mobileme-hero-660x-6605.tar	web.me.com-thomasappleton.warc.gz	24998787

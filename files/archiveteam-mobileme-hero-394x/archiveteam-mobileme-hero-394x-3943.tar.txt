@@ -1,12 +1,12 @@
-a.leclaire	gallery.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	gallery.me.com-a.leclaire.warc.gz	0
-a.leclaire	homepage.mac.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	homepage.mac.com-a.leclaire.warc.gz	0
-a.leclaire	public.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	public.me.com-a.leclaire.warc.gz	0
-a.leclaire	web.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	web.me.com-a.leclaire.warc.gz	0
-sheppy	gallery.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	gallery.me.com-sheppy.warc.gz	0
-sheppy	homepage.mac.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	homepage.mac.com-sheppy.warc.gz	0
-sheppy	public.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	public.me.com-sheppy.warc.gz	0
-sheppy	web.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	web.me.com-sheppy.warc.gz	0
-timpatterson2	gallery.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	gallery.me.com-timpatterson2.warc.gz	0
-timpatterson2	homepage.mac.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	homepage.mac.com-timpatterson2.warc.gz	0
-timpatterson2	public.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	public.me.com-timpatterson2.warc.gz	0
-timpatterson2	web.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	web.me.com-timpatterson2.warc.gz	0
+a.leclaire	gallery.me.com	2012-04-04 18:58:25	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	gallery.me.com-a.leclaire.warc.gz	462983198
+a.leclaire	homepage.mac.com	2012-04-04 18:58:26	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	homepage.mac.com-a.leclaire.warc.gz	4913
+a.leclaire	public.me.com	2012-04-04 18:41:09	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	public.me.com-a.leclaire.warc.gz	1913
+a.leclaire	web.me.com	2012-04-04 18:41:08	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	web.me.com-a.leclaire.warc.gz	83535214
+sheppy	gallery.me.com	2012-04-04 20:10:12	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	gallery.me.com-sheppy.warc.gz	1803118390
+sheppy	homepage.mac.com	2012-04-04 20:10:17	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	homepage.mac.com-sheppy.warc.gz	145639
+sheppy	public.me.com	2012-04-04 19:47:09	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	public.me.com-sheppy.warc.gz	3321
+sheppy	web.me.com	2012-04-04 19:46:52	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	web.me.com-sheppy.warc.gz	993963264
+timpatterson2	gallery.me.com	2012-04-04 19:10:42	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	gallery.me.com-timpatterson2.warc.gz	195265239
+timpatterson2	homepage.mac.com	2012-04-04 19:10:43	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	homepage.mac.com-timpatterson2.warc.gz	7881
+timpatterson2	public.me.com	2012-04-04 19:09:50	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	public.me.com-timpatterson2.warc.gz	1929
+timpatterson2	web.me.com	2012-04-04 19:09:49	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3943.tar	web.me.com-timpatterson2.warc.gz	805250873

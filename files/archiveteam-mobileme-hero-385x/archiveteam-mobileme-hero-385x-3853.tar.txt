@@ -1,16 +1,16 @@
-birdyharrison	gallery.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	gallery.me.com-birdyharrison.warc.gz	0
-birdyharrison	homepage.mac.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	homepage.mac.com-birdyharrison.warc.gz	0
-birdyharrison	public.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	public.me.com-birdyharrison.warc.gz	0
-birdyharrison	web.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	web.me.com-birdyharrison.warc.gz	0
-famillebeber	gallery.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	gallery.me.com-famillebeber.warc.gz	0
-famillebeber	homepage.mac.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	homepage.mac.com-famillebeber.warc.gz	0
-famillebeber	public.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	public.me.com-famillebeber.warc.gz	0
-famillebeber	web.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	web.me.com-famillebeber.warc.gz	0
-ndurbin	gallery.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	gallery.me.com-ndurbin.warc.gz	0
-ndurbin	homepage.mac.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	homepage.mac.com-ndurbin.warc.gz	0
-ndurbin	public.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	public.me.com-ndurbin.warc.gz	0
-ndurbin	web.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	web.me.com-ndurbin.warc.gz	0
-roninaoshi	gallery.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	gallery.me.com-roninaoshi.warc.gz	0
-roninaoshi	homepage.mac.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	homepage.mac.com-roninaoshi.warc.gz	0
-roninaoshi	public.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	public.me.com-roninaoshi.warc.gz	0
-roninaoshi	web.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	web.me.com-roninaoshi.warc.gz	0
+birdyharrison	gallery.me.com	2012-04-04 11:35:06	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	gallery.me.com-birdyharrison.warc.gz	16847248
+birdyharrison	homepage.mac.com	2012-04-04 11:35:07	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	homepage.mac.com-birdyharrison.warc.gz	4923
+birdyharrison	public.me.com	2012-04-04 11:34:52	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	public.me.com-birdyharrison.warc.gz	1926
+birdyharrison	web.me.com	2012-04-04 11:34:51	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	web.me.com-birdyharrison.warc.gz	8107738
+famillebeber	gallery.me.com	2012-04-04 14:50:21	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	gallery.me.com-famillebeber.warc.gz	1049191511
+famillebeber	homepage.mac.com	2012-04-04 14:50:21	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	homepage.mac.com-famillebeber.warc.gz	4940
+famillebeber	public.me.com	2012-04-04 14:09:35	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	public.me.com-famillebeber.warc.gz	23578934
+famillebeber	web.me.com	2012-04-04 14:07:37	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	web.me.com-famillebeber.warc.gz	1989885136
+ndurbin	gallery.me.com	2012-04-04 10:46:48	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	gallery.me.com-ndurbin.warc.gz	1297181244
+ndurbin	homepage.mac.com	2012-04-04 10:48:05	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	homepage.mac.com-ndurbin.warc.gz	1002297
+ndurbin	public.me.com	2012-04-04 10:09:35	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	public.me.com-ndurbin.warc.gz	1908
+ndurbin	web.me.com	2012-04-04 10:09:08	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	web.me.com-ndurbin.warc.gz	1144074637
+roninaoshi	gallery.me.com	2012-04-04 11:32:21	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	gallery.me.com-roninaoshi.warc.gz	873731670
+roninaoshi	homepage.mac.com	2012-04-04 11:32:21	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	homepage.mac.com-roninaoshi.warc.gz	4924
+roninaoshi	public.me.com	2012-04-04 11:11:42	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	public.me.com-roninaoshi.warc.gz	1911
+roninaoshi	web.me.com	2012-04-04 11:11:40	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3853.tar	web.me.com-roninaoshi.warc.gz	395413462

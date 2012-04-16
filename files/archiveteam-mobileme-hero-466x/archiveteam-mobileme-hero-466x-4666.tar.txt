@@ -1,12 +1,12 @@
-diktracy	gallery.me.com		archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	gallery.me.com-diktracy.warc.gz	0
-diktracy	homepage.mac.com		archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	homepage.mac.com-diktracy.warc.gz	0
-diktracy	public.me.com		archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	public.me.com-diktracy.warc.gz	0
-diktracy	web.me.com		archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	web.me.com-diktracy.warc.gz	0
-frankstapleton	gallery.me.com		archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	gallery.me.com-frankstapleton.warc.gz	0
-frankstapleton	homepage.mac.com		archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	homepage.mac.com-frankstapleton.warc.gz	0
-frankstapleton	public.me.com		archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	public.me.com-frankstapleton.warc.gz	0
-frankstapleton	web.me.com		archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	web.me.com-frankstapleton.warc.gz	0
-ml.robert	gallery.me.com		archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	gallery.me.com-ml.robert.warc.gz	0
-ml.robert	homepage.mac.com		archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	homepage.mac.com-ml.robert.warc.gz	0
-ml.robert	public.me.com		archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	public.me.com-ml.robert.warc.gz	0
-ml.robert	web.me.com		archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	web.me.com-ml.robert.warc.gz	0
+diktracy	gallery.me.com	2012-04-06 09:02:30	archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	gallery.me.com-diktracy.warc.gz	991991674
+diktracy	homepage.mac.com	2012-04-06 09:02:30	archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	homepage.mac.com-diktracy.warc.gz	4917
+diktracy	public.me.com	2012-04-06 08:44:50	archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	public.me.com-diktracy.warc.gz	711198317
+diktracy	web.me.com	2012-04-06 08:37:04	archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	web.me.com-diktracy.warc.gz	29512131
+frankstapleton	gallery.me.com	2012-04-06 08:29:09	archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	gallery.me.com-frankstapleton.warc.gz	903147390
+frankstapleton	homepage.mac.com	2012-04-06 08:29:12	archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	homepage.mac.com-frankstapleton.warc.gz	210103
+frankstapleton	public.me.com	2012-04-06 08:17:21	archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	public.me.com-frankstapleton.warc.gz	1932
+frankstapleton	web.me.com	2012-04-06 08:17:11	archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	web.me.com-frankstapleton.warc.gz	1069975037
+ml.robert	gallery.me.com	2012-04-06 12:05:43	archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	gallery.me.com-ml.robert.warc.gz	2470344639
+ml.robert	homepage.mac.com	2012-04-06 12:05:44	archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	homepage.mac.com-ml.robert.warc.gz	4919
+ml.robert	public.me.com	2012-04-06 10:57:26	archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	public.me.com-ml.robert.warc.gz	217686386
+ml.robert	web.me.com	2012-04-06 10:49:37	archiveteam-mobileme-hero-466x	archiveteam-mobileme-hero-466x-4666.tar	web.me.com-ml.robert.warc.gz	1428671009

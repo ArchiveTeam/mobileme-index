@@ -1,16 +1,16 @@
-chipv	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	gallery.me.com-chipv.warc.gz	0
-chipv	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	homepage.mac.com-chipv.warc.gz	0
-chipv	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	public.me.com-chipv.warc.gz	0
-chipv	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	web.me.com-chipv.warc.gz	0
-dcurren	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	gallery.me.com-dcurren.warc.gz	0
-dcurren	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	homepage.mac.com-dcurren.warc.gz	0
-dcurren	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	public.me.com-dcurren.warc.gz	0
-dcurren	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	web.me.com-dcurren.warc.gz	0
-jagphotography	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	gallery.me.com-jagphotography.warc.gz	0
-jagphotography	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	homepage.mac.com-jagphotography.warc.gz	0
-jagphotography	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	public.me.com-jagphotography.warc.gz	0
-jagphotography	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	web.me.com-jagphotography.warc.gz	0
-mysmallworld	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	gallery.me.com-mysmallworld.warc.gz	0
-mysmallworld	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	homepage.mac.com-mysmallworld.warc.gz	0
-mysmallworld	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	public.me.com-mysmallworld.warc.gz	0
-mysmallworld	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	web.me.com-mysmallworld.warc.gz	0
+chipv	gallery.me.com	2012-04-01 00:49:37	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	gallery.me.com-chipv.warc.gz	479705259
+chipv	homepage.mac.com	2012-04-01 00:49:51	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	homepage.mac.com-chipv.warc.gz	7708
+chipv	public.me.com	2012-04-01 00:28:36	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	public.me.com-chipv.warc.gz	4823281514
+chipv	web.me.com	2012-03-31 21:07:35	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	web.me.com-chipv.warc.gz	5307003
+dcurren	gallery.me.com	2012-03-31 17:24:49	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	gallery.me.com-dcurren.warc.gz	70191
+dcurren	homepage.mac.com	2012-03-31 17:24:49	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	homepage.mac.com-dcurren.warc.gz	4915
+dcurren	public.me.com	2012-03-31 17:24:42	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	public.me.com-dcurren.warc.gz	1915
+dcurren	web.me.com	2012-03-31 17:24:42	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	web.me.com-dcurren.warc.gz	115736013
+jagphotography	gallery.me.com	2012-03-31 21:04:54	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	gallery.me.com-jagphotography.warc.gz	5725
+jagphotography	homepage.mac.com	2012-03-31 21:04:55	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	homepage.mac.com-jagphotography.warc.gz	7880
+jagphotography	public.me.com	2012-03-31 21:04:50	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	public.me.com-jagphotography.warc.gz	441353087
+jagphotography	web.me.com	2012-03-31 19:56:12	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	web.me.com-jagphotography.warc.gz	49098459
+mysmallworld	gallery.me.com	2012-03-31 19:16:17	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	gallery.me.com-mysmallworld.warc.gz	780841673
+mysmallworld	homepage.mac.com	2012-03-31 19:16:31	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	homepage.mac.com-mysmallworld.warc.gz	101926
+mysmallworld	public.me.com	2012-03-31 18:30:13	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	public.me.com-mysmallworld.warc.gz	303119
+mysmallworld	web.me.com	2012-03-31 18:29:28	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2615.tar	web.me.com-mysmallworld.warc.gz	81074666

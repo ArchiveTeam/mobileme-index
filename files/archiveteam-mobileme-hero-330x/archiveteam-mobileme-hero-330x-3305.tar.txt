@@ -1,12 +1,12 @@
-jujuhearts	gallery.me.com		archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	gallery.me.com-jujuhearts.warc.gz	0
-jujuhearts	homepage.mac.com		archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	homepage.mac.com-jujuhearts.warc.gz	0
-jujuhearts	public.me.com		archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	public.me.com-jujuhearts.warc.gz	0
-jujuhearts	web.me.com		archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	web.me.com-jujuhearts.warc.gz	0
-mathieutroquier	gallery.me.com		archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	gallery.me.com-mathieutroquier.warc.gz	0
-mathieutroquier	homepage.mac.com		archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	homepage.mac.com-mathieutroquier.warc.gz	0
-mathieutroquier	public.me.com		archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	public.me.com-mathieutroquier.warc.gz	0
-mathieutroquier	web.me.com		archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	web.me.com-mathieutroquier.warc.gz	0
-teklajmotto	gallery.me.com		archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	gallery.me.com-teklajmotto.warc.gz	0
-teklajmotto	homepage.mac.com		archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	homepage.mac.com-teklajmotto.warc.gz	0
-teklajmotto	public.me.com		archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	public.me.com-teklajmotto.warc.gz	0
-teklajmotto	web.me.com		archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	web.me.com-teklajmotto.warc.gz	0
+jujuhearts	gallery.me.com	2012-04-03 07:03:53	archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	gallery.me.com-jujuhearts.warc.gz	643420704
+jujuhearts	homepage.mac.com	2012-04-03 07:03:54	archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	homepage.mac.com-jujuhearts.warc.gz	7854
+jujuhearts	public.me.com	2012-04-03 06:57:44	archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	public.me.com-jujuhearts.warc.gz	2125556501
+jujuhearts	web.me.com	2012-04-03 06:14:24	archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	web.me.com-jujuhearts.warc.gz	261122
+mathieutroquier	gallery.me.com	2012-04-03 04:48:41	archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	gallery.me.com-mathieutroquier.warc.gz	4315
+mathieutroquier	homepage.mac.com	2012-04-03 04:48:41	archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	homepage.mac.com-mathieutroquier.warc.gz	4940
+mathieutroquier	public.me.com	2012-04-03 04:48:40	archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	public.me.com-mathieutroquier.warc.gz	1933
+mathieutroquier	web.me.com	2012-04-03 04:48:38	archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	web.me.com-mathieutroquier.warc.gz	1401320299
+teklajmotto	gallery.me.com	2012-04-03 06:13:53	archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	gallery.me.com-teklajmotto.warc.gz	444227494
+teklajmotto	homepage.mac.com	2012-04-03 06:14:13	archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	homepage.mac.com-teklajmotto.warc.gz	257768
+teklajmotto	public.me.com	2012-04-03 06:03:16	archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	public.me.com-teklajmotto.warc.gz	1880149971
+teklajmotto	web.me.com	2012-04-03 05:23:08	archiveteam-mobileme-hero-330x	archiveteam-mobileme-hero-330x-3305.tar	web.me.com-teklajmotto.warc.gz	370881982

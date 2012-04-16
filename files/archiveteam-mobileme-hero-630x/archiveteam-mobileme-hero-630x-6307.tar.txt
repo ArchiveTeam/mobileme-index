@@ -1,20 +1,20 @@
-billphotog	gallery.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	gallery.me.com-billphotog.warc.gz	0
-billphotog	homepage.mac.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	homepage.mac.com-billphotog.warc.gz	0
-billphotog	public.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	public.me.com-billphotog.warc.gz	0
-billphotog	web.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	web.me.com-billphotog.warc.gz	0
-escandonr	gallery.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	gallery.me.com-escandonr.warc.gz	0
-escandonr	homepage.mac.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	homepage.mac.com-escandonr.warc.gz	0
-escandonr	public.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	public.me.com-escandonr.warc.gz	0
-escandonr	web.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	web.me.com-escandonr.warc.gz	0
-hellerm	gallery.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	gallery.me.com-hellerm.warc.gz	0
-hellerm	homepage.mac.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	homepage.mac.com-hellerm.warc.gz	0
-hellerm	public.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	public.me.com-hellerm.warc.gz	0
-hellerm	web.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	web.me.com-hellerm.warc.gz	0
-thegn	gallery.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	gallery.me.com-thegn.warc.gz	0
-thegn	homepage.mac.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	homepage.mac.com-thegn.warc.gz	0
-thegn	public.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	public.me.com-thegn.warc.gz	0
-thegn	web.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	web.me.com-thegn.warc.gz	0
-zratabot	gallery.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	gallery.me.com-zratabot.warc.gz	0
-zratabot	homepage.mac.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	homepage.mac.com-zratabot.warc.gz	0
-zratabot	public.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	public.me.com-zratabot.warc.gz	0
-zratabot	web.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	web.me.com-zratabot.warc.gz	0
+billphotog	gallery.me.com	2012-04-11 03:04:15	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	gallery.me.com-billphotog.warc.gz	4253
+billphotog	homepage.mac.com	2012-04-11 03:04:17	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	homepage.mac.com-billphotog.warc.gz	4923
+billphotog	public.me.com	2012-04-11 03:04:09	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	public.me.com-billphotog.warc.gz	1926
+billphotog	web.me.com	2012-04-11 03:03:30	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	web.me.com-billphotog.warc.gz	36231530
+escandonr	gallery.me.com	2012-04-11 09:09:28	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	gallery.me.com-escandonr.warc.gz	4464733823
+escandonr	homepage.mac.com	2012-04-11 09:09:30	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	homepage.mac.com-escandonr.warc.gz	4916
+escandonr	public.me.com	2012-04-11 07:08:47	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	public.me.com-escandonr.warc.gz	693629568
+escandonr	web.me.com	2012-04-11 06:53:51	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	web.me.com-escandonr.warc.gz	1573326308
+hellerm	gallery.me.com	2012-04-11 04:28:48	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	gallery.me.com-hellerm.warc.gz	5099
+hellerm	homepage.mac.com	2012-04-11 04:28:56	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	homepage.mac.com-hellerm.warc.gz	79426
+hellerm	public.me.com	2012-04-11 04:28:42	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	public.me.com-hellerm.warc.gz	1908
+hellerm	web.me.com	2012-04-11 04:28:24	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	web.me.com-hellerm.warc.gz	124077898
+thegn	gallery.me.com	2012-04-11 03:24:18	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	gallery.me.com-thegn.warc.gz	92880122
+thegn	homepage.mac.com	2012-04-11 03:24:19	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	homepage.mac.com-thegn.warc.gz	4894
+thegn	public.me.com	2012-04-11 03:19:40	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	public.me.com-thegn.warc.gz	1907
+thegn	web.me.com	2012-04-11 03:19:29	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	web.me.com-thegn.warc.gz	91428715
+zratabot	gallery.me.com	2012-04-11 04:11:03	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	gallery.me.com-zratabot.warc.gz	5013
+zratabot	homepage.mac.com	2012-04-11 04:11:05	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	homepage.mac.com-zratabot.warc.gz	4892
+zratabot	public.me.com	2012-04-11 04:11:01	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	public.me.com-zratabot.warc.gz	1913
+zratabot	web.me.com	2012-04-11 04:10:54	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6307.tar	web.me.com-zratabot.warc.gz	18619159

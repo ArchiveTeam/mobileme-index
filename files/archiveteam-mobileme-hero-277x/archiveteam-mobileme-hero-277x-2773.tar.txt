@@ -1,12 +1,12 @@
-andykirk	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	gallery.me.com-andykirk.warc.gz	0
-andykirk	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	homepage.mac.com-andykirk.warc.gz	0
-andykirk	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	public.me.com-andykirk.warc.gz	0
-andykirk	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	web.me.com-andykirk.warc.gz	0
-jmalm	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	gallery.me.com-jmalm.warc.gz	0
-jmalm	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	homepage.mac.com-jmalm.warc.gz	0
-jmalm	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	public.me.com-jmalm.warc.gz	0
-jmalm	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	web.me.com-jmalm.warc.gz	0
-ohbrown	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	gallery.me.com-ohbrown.warc.gz	0
-ohbrown	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	homepage.mac.com-ohbrown.warc.gz	0
-ohbrown	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	public.me.com-ohbrown.warc.gz	0
-ohbrown	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	web.me.com-ohbrown.warc.gz	0
+andykirk	gallery.me.com	2012-04-01 22:56:40	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	gallery.me.com-andykirk.warc.gz	6283755
+andykirk	homepage.mac.com	2012-04-01 22:56:41	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	homepage.mac.com-andykirk.warc.gz	4905
+andykirk	public.me.com	2012-04-01 22:56:36	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	public.me.com-andykirk.warc.gz	7427422241
+andykirk	web.me.com	2012-04-01 22:00:12	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	web.me.com-andykirk.warc.gz	42702047
+jmalm	gallery.me.com	2012-04-01 21:45:27	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	gallery.me.com-jmalm.warc.gz	479853991
+jmalm	homepage.mac.com	2012-04-01 21:45:40	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	homepage.mac.com-jmalm.warc.gz	212086
+jmalm	public.me.com	2012-04-01 21:34:46	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	public.me.com-jmalm.warc.gz	283743268
+jmalm	web.me.com	2012-04-01 21:32:13	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	web.me.com-jmalm.warc.gz	34622674
+ohbrown	gallery.me.com	2012-04-01 21:24:55	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	gallery.me.com-ohbrown.warc.gz	11577461
+ohbrown	homepage.mac.com	2012-04-01 21:24:55	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	homepage.mac.com-ohbrown.warc.gz	4910
+ohbrown	public.me.com	2012-04-01 21:24:40	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	public.me.com-ohbrown.warc.gz	1912
+ohbrown	web.me.com	2012-04-01 21:24:39	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2773.tar	web.me.com-ohbrown.warc.gz	552381003

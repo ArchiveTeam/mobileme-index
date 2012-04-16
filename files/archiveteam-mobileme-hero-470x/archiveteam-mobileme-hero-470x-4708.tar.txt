@@ -1,24 +1,24 @@
-cvnewton	gallery.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	gallery.me.com-cvnewton.warc.gz	0
-cvnewton	homepage.mac.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	homepage.mac.com-cvnewton.warc.gz	0
-cvnewton	public.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	public.me.com-cvnewton.warc.gz	0
-cvnewton	web.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	web.me.com-cvnewton.warc.gz	0
-david455129	gallery.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	gallery.me.com-david455129.warc.gz	0
-david455129	homepage.mac.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	homepage.mac.com-david455129.warc.gz	0
-david455129	public.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	public.me.com-david455129.warc.gz	0
-david455129	web.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	web.me.com-david455129.warc.gz	0
-etms49	gallery.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	gallery.me.com-etms49.warc.gz	0
-etms49	homepage.mac.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	homepage.mac.com-etms49.warc.gz	0
-etms49	public.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	public.me.com-etms49.warc.gz	0
-etms49	web.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	web.me.com-etms49.warc.gz	0
-fritten	gallery.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	gallery.me.com-fritten.warc.gz	0
-fritten	homepage.mac.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	homepage.mac.com-fritten.warc.gz	0
-fritten	public.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	public.me.com-fritten.warc.gz	0
-fritten	web.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	web.me.com-fritten.warc.gz	0
-mcbennett1	gallery.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	gallery.me.com-mcbennett1.warc.gz	0
-mcbennett1	homepage.mac.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	homepage.mac.com-mcbennett1.warc.gz	0
-mcbennett1	public.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	public.me.com-mcbennett1.warc.gz	0
-mcbennett1	web.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	web.me.com-mcbennett1.warc.gz	0
-rnaone	gallery.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	gallery.me.com-rnaone.warc.gz	0
-rnaone	homepage.mac.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	homepage.mac.com-rnaone.warc.gz	0
-rnaone	public.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	public.me.com-rnaone.warc.gz	0
-rnaone	web.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	web.me.com-rnaone.warc.gz	0
+cvnewton	gallery.me.com	2012-04-06 14:12:47	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	gallery.me.com-cvnewton.warc.gz	2883035476
+cvnewton	homepage.mac.com	2012-04-06 14:12:50	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	homepage.mac.com-cvnewton.warc.gz	9367
+cvnewton	public.me.com	2012-04-06 13:19:08	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	public.me.com-cvnewton.warc.gz	1923
+cvnewton	web.me.com	2012-04-06 13:19:07	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	web.me.com-cvnewton.warc.gz	718754538
+david455129	gallery.me.com	2012-04-06 12:22:06	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	gallery.me.com-david455129.warc.gz	48684
+david455129	homepage.mac.com	2012-04-06 12:22:06	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	homepage.mac.com-david455129.warc.gz	4911
+david455129	public.me.com	2012-04-06 12:22:03	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	public.me.com-david455129.warc.gz	1927
+david455129	web.me.com	2012-04-06 12:22:03	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	web.me.com-david455129.warc.gz	1188875
+etms49	gallery.me.com	2012-04-06 12:21:13	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	gallery.me.com-etms49.warc.gz	4307
+etms49	homepage.mac.com	2012-04-06 12:21:13	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	homepage.mac.com-etms49.warc.gz	4884
+etms49	public.me.com	2012-04-06 12:21:11	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	public.me.com-etms49.warc.gz	1908
+etms49	web.me.com	2012-04-06 12:21:11	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	web.me.com-etms49.warc.gz	1373618
+fritten	gallery.me.com	2012-04-06 14:42:33	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	gallery.me.com-fritten.warc.gz	299112353
+fritten	homepage.mac.com	2012-04-06 14:42:34	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	homepage.mac.com-fritten.warc.gz	4902
+fritten	public.me.com	2012-04-06 14:35:14	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	public.me.com-fritten.warc.gz	3476
+fritten	web.me.com	2012-04-06 14:35:13	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	web.me.com-fritten.warc.gz	52798225
+mcbennett1	gallery.me.com	2012-04-06 12:33:20	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	gallery.me.com-mcbennett1.warc.gz	115054576
+mcbennett1	homepage.mac.com	2012-04-06 12:33:22	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	homepage.mac.com-mcbennett1.warc.gz	4923
+mcbennett1	public.me.com	2012-04-06 12:26:13	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	public.me.com-mcbennett1.warc.gz	1920
+mcbennett1	web.me.com	2012-04-06 12:26:12	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	web.me.com-mcbennett1.warc.gz	198577133
+rnaone	gallery.me.com	2012-04-06 12:20:20	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	gallery.me.com-rnaone.warc.gz	5791
+rnaone	homepage.mac.com	2012-04-06 12:20:20	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	homepage.mac.com-rnaone.warc.gz	7853
+rnaone	public.me.com	2012-04-06 12:20:18	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	public.me.com-rnaone.warc.gz	8894
+rnaone	web.me.com	2012-04-06 12:20:16	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4708.tar	web.me.com-rnaone.warc.gz	33528733

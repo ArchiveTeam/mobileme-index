@@ -1,16 +1,16 @@
-jimstringfellow	gallery.me.com		archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	gallery.me.com-jimstringfellow.warc.gz	0
-jimstringfellow	homepage.mac.com		archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	homepage.mac.com-jimstringfellow.warc.gz	0
-jimstringfellow	public.me.com		archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	public.me.com-jimstringfellow.warc.gz	0
-jimstringfellow	web.me.com		archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	web.me.com-jimstringfellow.warc.gz	0
-mielaum	gallery.me.com		archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	gallery.me.com-mielaum.warc.gz	0
-mielaum	homepage.mac.com		archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	homepage.mac.com-mielaum.warc.gz	0
-mielaum	public.me.com		archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	public.me.com-mielaum.warc.gz	0
-mielaum	web.me.com		archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	web.me.com-mielaum.warc.gz	0
-s.asada	gallery.me.com		archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	gallery.me.com-s.asada.warc.gz	0
-s.asada	homepage.mac.com		archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	homepage.mac.com-s.asada.warc.gz	0
-s.asada	public.me.com		archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	public.me.com-s.asada.warc.gz	0
-s.asada	web.me.com		archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	web.me.com-s.asada.warc.gz	0
-teoriaope	gallery.me.com		archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	gallery.me.com-teoriaope.warc.gz	0
-teoriaope	homepage.mac.com		archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	homepage.mac.com-teoriaope.warc.gz	0
-teoriaope	public.me.com		archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	public.me.com-teoriaope.warc.gz	0
-teoriaope	web.me.com		archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	web.me.com-teoriaope.warc.gz	0
+jimstringfellow	gallery.me.com	2012-04-12 18:33:19	archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	gallery.me.com-jimstringfellow.warc.gz	4280
+jimstringfellow	homepage.mac.com	2012-04-12 18:33:20	archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	homepage.mac.com-jimstringfellow.warc.gz	4944
+jimstringfellow	public.me.com	2012-04-12 18:33:17	archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	public.me.com-jimstringfellow.warc.gz	251557434
+jimstringfellow	web.me.com	2012-04-12 18:23:17	archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	web.me.com-jimstringfellow.warc.gz	7991864468
+mielaum	gallery.me.com	2012-04-12 11:02:26	archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	gallery.me.com-mielaum.warc.gz	4802316
+mielaum	homepage.mac.com	2012-04-12 11:02:30	archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	homepage.mac.com-mielaum.warc.gz	36865
+mielaum	public.me.com	2012-04-12 11:01:00	archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	public.me.com-mielaum.warc.gz	1909
+mielaum	web.me.com	2012-04-12 11:01:00	archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	web.me.com-mielaum.warc.gz	28045850
+s.asada	gallery.me.com	2012-04-12 11:22:08	archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	gallery.me.com-s.asada.warc.gz	5859
+s.asada	homepage.mac.com	2012-04-12 11:22:08	archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	homepage.mac.com-s.asada.warc.gz	4884
+s.asada	public.me.com	2012-04-12 11:22:07	archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	public.me.com-s.asada.warc.gz	1912
+s.asada	web.me.com	2012-04-12 11:22:06	archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	web.me.com-s.asada.warc.gz	4227215
+teoriaope	gallery.me.com	2012-04-12 11:20:22	archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	gallery.me.com-teoriaope.warc.gz	204605595
+teoriaope	homepage.mac.com	2012-04-12 11:20:23	archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	homepage.mac.com-teoriaope.warc.gz	3510
+teoriaope	public.me.com	2012-04-12 11:17:16	archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	public.me.com-teoriaope.warc.gz	1917
+teoriaope	web.me.com	2012-04-12 11:17:15	archiveteam-mobileme-hero-691x	archiveteam-mobileme-hero-691x-6916.tar	web.me.com-teoriaope.warc.gz	64043630

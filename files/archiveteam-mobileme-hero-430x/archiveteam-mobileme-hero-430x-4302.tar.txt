@@ -1,20 +1,20 @@
-blaiseb	gallery.me.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	gallery.me.com-blaiseb.warc.gz	0
-blaiseb	homepage.mac.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	homepage.mac.com-blaiseb.warc.gz	0
-blaiseb	public.me.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	public.me.com-blaiseb.warc.gz	0
-blaiseb	web.me.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	web.me.com-blaiseb.warc.gz	0
-kennethcallan	gallery.me.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	gallery.me.com-kennethcallan.warc.gz	0
-kennethcallan	homepage.mac.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	homepage.mac.com-kennethcallan.warc.gz	0
-kennethcallan	public.me.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	public.me.com-kennethcallan.warc.gz	0
-kennethcallan	web.me.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	web.me.com-kennethcallan.warc.gz	0
-mehranj	gallery.me.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	gallery.me.com-mehranj.warc.gz	0
-mehranj	homepage.mac.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	homepage.mac.com-mehranj.warc.gz	0
-mehranj	public.me.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	public.me.com-mehranj.warc.gz	0
-mehranj	web.me.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	web.me.com-mehranj.warc.gz	0
-propsons	gallery.me.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	gallery.me.com-propsons.warc.gz	0
-propsons	homepage.mac.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	homepage.mac.com-propsons.warc.gz	0
-propsons	public.me.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	public.me.com-propsons.warc.gz	0
-propsons	web.me.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	web.me.com-propsons.warc.gz	0
-randychristofferson	gallery.me.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	gallery.me.com-randychristofferson.warc.gz	0
-randychristofferson	homepage.mac.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	homepage.mac.com-randychristofferson.warc.gz	0
-randychristofferson	public.me.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	public.me.com-randychristofferson.warc.gz	0
-randychristofferson	web.me.com		archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	web.me.com-randychristofferson.warc.gz	0
+blaiseb	gallery.me.com	2012-04-05 16:04:43	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	gallery.me.com-blaiseb.warc.gz	1028598454
+blaiseb	homepage.mac.com	2012-04-05 16:05:58	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	homepage.mac.com-blaiseb.warc.gz	2290793
+blaiseb	public.me.com	2012-04-05 15:24:09	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	public.me.com-blaiseb.warc.gz	5957175536
+blaiseb	web.me.com	2012-04-05 12:38:47	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	web.me.com-blaiseb.warc.gz	69844684
+kennethcallan	gallery.me.com	2012-04-05 12:21:17	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	gallery.me.com-kennethcallan.warc.gz	4301
+kennethcallan	homepage.mac.com	2012-04-05 12:21:20	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	homepage.mac.com-kennethcallan.warc.gz	68283
+kennethcallan	public.me.com	2012-04-05 12:21:16	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	public.me.com-kennethcallan.warc.gz	336123
+kennethcallan	web.me.com	2012-04-05 12:21:12	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	web.me.com-kennethcallan.warc.gz	7476
+mehranj	gallery.me.com	2012-04-05 12:21:08	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	gallery.me.com-mehranj.warc.gz	247456198
+mehranj	homepage.mac.com	2012-04-05 12:21:08	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	homepage.mac.com-mehranj.warc.gz	4903
+mehranj	public.me.com	2012-04-05 12:13:19	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	public.me.com-mehranj.warc.gz	40973937
+mehranj	web.me.com	2012-04-05 12:10:53	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	web.me.com-mehranj.warc.gz	241487765
+propsons	gallery.me.com	2012-04-05 08:08:03	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	gallery.me.com-propsons.warc.gz	1434279799
+propsons	homepage.mac.com	2012-04-05 08:08:05	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	homepage.mac.com-propsons.warc.gz	4888
+propsons	public.me.com	2012-04-05 07:24:11	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	public.me.com-propsons.warc.gz	293041094
+propsons	web.me.com	2012-04-05 07:21:34	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	web.me.com-propsons.warc.gz	37940761
+randychristofferson	gallery.me.com	2012-04-05 11:53:08	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	gallery.me.com-randychristofferson.warc.gz	206341
+randychristofferson	homepage.mac.com	2012-04-05 11:53:09	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	homepage.mac.com-randychristofferson.warc.gz	4935
+randychristofferson	public.me.com	2012-04-05 11:53:05	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	public.me.com-randychristofferson.warc.gz	1941
+randychristofferson	web.me.com	2012-04-05 11:52:55	archiveteam-mobileme-hero-430x	archiveteam-mobileme-hero-430x-4302.tar	web.me.com-randychristofferson.warc.gz	1205640651

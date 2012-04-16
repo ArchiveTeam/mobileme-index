@@ -1,8 +1,8 @@
-fotoroots	gallery.me.com		archiveteam-mobileme-hero-671x	archiveteam-mobileme-hero-671x-6713.tar	gallery.me.com-fotoroots.warc.gz	0
-fotoroots	homepage.mac.com		archiveteam-mobileme-hero-671x	archiveteam-mobileme-hero-671x-6713.tar	homepage.mac.com-fotoroots.warc.gz	0
-fotoroots	public.me.com		archiveteam-mobileme-hero-671x	archiveteam-mobileme-hero-671x-6713.tar	public.me.com-fotoroots.warc.gz	0
-fotoroots	web.me.com		archiveteam-mobileme-hero-671x	archiveteam-mobileme-hero-671x-6713.tar	web.me.com-fotoroots.warc.gz	0
-roxy_art	gallery.me.com		archiveteam-mobileme-hero-671x	archiveteam-mobileme-hero-671x-6713.tar	gallery.me.com-roxy_art.warc.gz	0
-roxy_art	homepage.mac.com		archiveteam-mobileme-hero-671x	archiveteam-mobileme-hero-671x-6713.tar	homepage.mac.com-roxy_art.warc.gz	0
-roxy_art	public.me.com		archiveteam-mobileme-hero-671x	archiveteam-mobileme-hero-671x-6713.tar	public.me.com-roxy_art.warc.gz	0
-roxy_art	web.me.com		archiveteam-mobileme-hero-671x	archiveteam-mobileme-hero-671x-6713.tar	web.me.com-roxy_art.warc.gz	0
+fotoroots	gallery.me.com	2012-04-12 08:38:59	archiveteam-mobileme-hero-671x	archiveteam-mobileme-hero-671x-6713.tar	gallery.me.com-fotoroots.warc.gz	265012362
+fotoroots	homepage.mac.com	2012-04-12 08:39:00	archiveteam-mobileme-hero-671x	archiveteam-mobileme-hero-671x-6713.tar	homepage.mac.com-fotoroots.warc.gz	4914
+fotoroots	public.me.com	2012-04-12 08:36:53	archiveteam-mobileme-hero-671x	archiveteam-mobileme-hero-671x-6713.tar	public.me.com-fotoroots.warc.gz	1979673635
+fotoroots	web.me.com	2012-04-12 07:54:56	archiveteam-mobileme-hero-671x	archiveteam-mobileme-hero-671x-6713.tar	web.me.com-fotoroots.warc.gz	2707250
+roxy_art	gallery.me.com	2012-04-12 09:38:14	archiveteam-mobileme-hero-671x	archiveteam-mobileme-hero-671x-6713.tar	gallery.me.com-roxy_art.warc.gz	1657102136
+roxy_art	homepage.mac.com	2012-04-12 09:38:14	archiveteam-mobileme-hero-671x	archiveteam-mobileme-hero-671x-6713.tar	homepage.mac.com-roxy_art.warc.gz	4898
+roxy_art	public.me.com	2012-04-12 09:21:06	archiveteam-mobileme-hero-671x	archiveteam-mobileme-hero-671x-6713.tar	public.me.com-roxy_art.warc.gz	51956506
+roxy_art	web.me.com	2012-04-12 09:19:31	archiveteam-mobileme-hero-671x	archiveteam-mobileme-hero-671x-6713.tar	web.me.com-roxy_art.warc.gz	369502523

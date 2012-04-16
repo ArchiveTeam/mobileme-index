@@ -1,20 +1,20 @@
-awakeningspace	gallery.me.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	gallery.me.com-awakeningspace.warc.gz	0
-awakeningspace	homepage.mac.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	homepage.mac.com-awakeningspace.warc.gz	0
-awakeningspace	public.me.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	public.me.com-awakeningspace.warc.gz	0
-awakeningspace	web.me.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	web.me.com-awakeningspace.warc.gz	0
-calderksmiller	gallery.me.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	gallery.me.com-calderksmiller.warc.gz	0
-calderksmiller	homepage.mac.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	homepage.mac.com-calderksmiller.warc.gz	0
-calderksmiller	public.me.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	public.me.com-calderksmiller.warc.gz	0
-calderksmiller	web.me.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	web.me.com-calderksmiller.warc.gz	0
-jaconnell	gallery.me.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	gallery.me.com-jaconnell.warc.gz	0
-jaconnell	homepage.mac.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	homepage.mac.com-jaconnell.warc.gz	0
-jaconnell	public.me.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	public.me.com-jaconnell.warc.gz	0
-jaconnell	web.me.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	web.me.com-jaconnell.warc.gz	0
-peteromlin	gallery.me.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	gallery.me.com-peteromlin.warc.gz	0
-peteromlin	homepage.mac.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	homepage.mac.com-peteromlin.warc.gz	0
-peteromlin	public.me.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	public.me.com-peteromlin.warc.gz	0
-peteromlin	web.me.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	web.me.com-peteromlin.warc.gz	0
-victorco	gallery.me.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	gallery.me.com-victorco.warc.gz	0
-victorco	homepage.mac.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	homepage.mac.com-victorco.warc.gz	0
-victorco	public.me.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	public.me.com-victorco.warc.gz	0
-victorco	web.me.com		archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	web.me.com-victorco.warc.gz	0
+awakeningspace	gallery.me.com	2012-04-05 08:42:13	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	gallery.me.com-awakeningspace.warc.gz	4997
+awakeningspace	homepage.mac.com	2012-04-05 08:42:15	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	homepage.mac.com-awakeningspace.warc.gz	54040
+awakeningspace	public.me.com	2012-04-05 08:42:12	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	public.me.com-awakeningspace.warc.gz	1928
+awakeningspace	web.me.com	2012-04-05 08:42:12	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	web.me.com-awakeningspace.warc.gz	5271725
+calderksmiller	gallery.me.com	2012-04-05 08:09:14	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	gallery.me.com-calderksmiller.warc.gz	4272
+calderksmiller	homepage.mac.com	2012-04-05 08:09:14	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	homepage.mac.com-calderksmiller.warc.gz	4933
+calderksmiller	public.me.com	2012-04-05 08:09:13	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	public.me.com-calderksmiller.warc.gz	1932
+calderksmiller	web.me.com	2012-04-05 08:09:13	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	web.me.com-calderksmiller.warc.gz	11284663
+jaconnell	gallery.me.com	2012-04-05 08:40:09	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	gallery.me.com-jaconnell.warc.gz	2038716815
+jaconnell	homepage.mac.com	2012-04-05 08:40:09	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	homepage.mac.com-jaconnell.warc.gz	4920
+jaconnell	public.me.com	2012-04-05 08:15:51	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	public.me.com-jaconnell.warc.gz	398415179
+jaconnell	web.me.com	2012-04-05 08:12:39	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	web.me.com-jaconnell.warc.gz	15672245
+peteromlin	gallery.me.com	2012-04-05 09:02:03	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	gallery.me.com-peteromlin.warc.gz	178333452
+peteromlin	homepage.mac.com	2012-04-05 09:02:03	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	homepage.mac.com-peteromlin.warc.gz	4927
+peteromlin	public.me.com	2012-04-05 08:59:12	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	public.me.com-peteromlin.warc.gz	1426752247
+peteromlin	web.me.com	2012-04-05 08:46:57	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	web.me.com-peteromlin.warc.gz	27512039
+victorco	gallery.me.com	2012-04-05 09:07:56	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	gallery.me.com-victorco.warc.gz	4251
+victorco	homepage.mac.com	2012-04-05 09:07:57	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	homepage.mac.com-victorco.warc.gz	4917
+victorco	public.me.com	2012-04-05 09:07:55	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	public.me.com-victorco.warc.gz	637388687
+victorco	web.me.com	2012-04-05 09:04:30	archiveteam-mobileme-hero-418x	archiveteam-mobileme-hero-418x-4181.tar	web.me.com-victorco.warc.gz	2853415

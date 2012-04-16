@@ -1,8 +1,8 @@
-crodgers2	gallery.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7040.tar	gallery.me.com-crodgers2.warc.gz	0
-crodgers2	homepage.mac.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7040.tar	homepage.mac.com-crodgers2.warc.gz	0
-crodgers2	public.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7040.tar	public.me.com-crodgers2.warc.gz	0
-crodgers2	web.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7040.tar	web.me.com-crodgers2.warc.gz	0
-kensisland	gallery.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7040.tar	gallery.me.com-kensisland.warc.gz	0
-kensisland	homepage.mac.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7040.tar	homepage.mac.com-kensisland.warc.gz	0
-kensisland	public.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7040.tar	public.me.com-kensisland.warc.gz	0
-kensisland	web.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7040.tar	web.me.com-kensisland.warc.gz	0
+crodgers2	gallery.me.com	2012-04-12 23:34:47	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7040.tar	gallery.me.com-crodgers2.warc.gz	1208551
+crodgers2	homepage.mac.com	2012-04-12 23:34:47	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7040.tar	homepage.mac.com-crodgers2.warc.gz	4907
+crodgers2	public.me.com	2012-04-12 23:34:45	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7040.tar	public.me.com-crodgers2.warc.gz	1918
+crodgers2	web.me.com	2012-04-12 23:34:45	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7040.tar	web.me.com-crodgers2.warc.gz	21589473
+kensisland	gallery.me.com	2012-04-13 00:54:56	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7040.tar	gallery.me.com-kensisland.warc.gz	391607970
+kensisland	homepage.mac.com	2012-04-13 00:54:56	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7040.tar	homepage.mac.com-kensisland.warc.gz	4916
+kensisland	public.me.com	2012-04-13 00:48:15	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7040.tar	public.me.com-kensisland.warc.gz	1918
+kensisland	web.me.com	2012-04-13 00:47:12	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7040.tar	web.me.com-kensisland.warc.gz	4103999045

@@ -1,22 +1,22 @@
-davideabate	gallery.me.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	gallery.me.com-davideabate.warc.gz	0
-davideabate	homepage.mac.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	homepage.mac.com-davideabate.warc.gz	0
-davideabate	public.me.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	public.me.com-davideabate.warc.gz	0
-davideabate	web.me.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	web.me.com-davideabate.warc.gz	0
-doug_a	gallery.me.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	gallery.me.com-doug_a.warc.gz	0
-doug_a	web.me.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	web.me.com-doug_a.warc.gz	0
-dr.cohen	gallery.me.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	gallery.me.com-dr.cohen.warc.gz	0
-dr.cohen	homepage.mac.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	homepage.mac.com-dr.cohen.warc.gz	0
-dr.cohen	public.me.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	public.me.com-dr.cohen.warc.gz	0
-dr.cohen	web.me.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	web.me.com-dr.cohen.warc.gz	0
-drecksack	gallery.me.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	gallery.me.com-drecksack.warc.gz	0
-drecksack	homepage.mac.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	homepage.mac.com-drecksack.warc.gz	0
-drecksack	public.me.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	public.me.com-drecksack.warc.gz	0
-drecksack	web.me.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	web.me.com-drecksack.warc.gz	0
-dt_pigulin_forest_ti	gallery.me.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	gallery.me.com-dt_pigulin_forest_ti.warc.gz	0
-dt_pigulin_forest_ti	homepage.mac.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	homepage.mac.com-dt_pigulin_forest_ti.warc.gz	0
-dt_pigulin_forest_ti	public.me.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	public.me.com-dt_pigulin_forest_ti.warc.gz	0
-dt_pigulin_forest_ti	web.me.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	web.me.com-dt_pigulin_forest_ti.warc.gz	0
-handrelay	gallery.me.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	gallery.me.com-handrelay.warc.gz	0
-handrelay	homepage.mac.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	homepage.mac.com-handrelay.warc.gz	0
-handrelay	public.me.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	public.me.com-handrelay.warc.gz	0
-handrelay	web.me.com		mobileme-hero-1333459612	mobileme-full-1333459612.tar	web.me.com-handrelay.warc.gz	0
+davideabate	gallery.me.com	2012-04-03 11:55:06	mobileme-hero-1333459612	mobileme-full-1333459612.tar	gallery.me.com-davideabate.warc.gz	5710
+davideabate	homepage.mac.com	2012-04-03 11:55:09	mobileme-hero-1333459612	mobileme-full-1333459612.tar	homepage.mac.com-davideabate.warc.gz	4932
+davideabate	public.me.com	2012-04-03 11:55:01	mobileme-hero-1333459612	mobileme-full-1333459612.tar	public.me.com-davideabate.warc.gz	1925
+davideabate	web.me.com	2012-04-03 11:54:59	mobileme-hero-1333459612	mobileme-full-1333459612.tar	web.me.com-davideabate.warc.gz	3181145
+doug_a	gallery.me.com	2012-04-03 12:40:15	mobileme-hero-1333459612	mobileme-full-1333459612.tar	gallery.me.com-doug_a.warc.gz	1030000745
+doug_a	web.me.com	2012-04-03 12:19:21	mobileme-hero-1333459612	mobileme-full-1333459612.tar	web.me.com-doug_a.warc.gz	104505259
+dr.cohen	gallery.me.com	2012-04-03 12:01:47	mobileme-hero-1333459612	mobileme-full-1333459612.tar	gallery.me.com-dr.cohen.warc.gz	4234
+dr.cohen	homepage.mac.com	2012-04-03 12:01:47	mobileme-hero-1333459612	mobileme-full-1333459612.tar	homepage.mac.com-dr.cohen.warc.gz	4891
+dr.cohen	public.me.com	2012-04-03 12:01:46	mobileme-hero-1333459612	mobileme-full-1333459612.tar	public.me.com-dr.cohen.warc.gz	1914
+dr.cohen	web.me.com	2012-04-03 12:01:46	mobileme-hero-1333459612	mobileme-full-1333459612.tar	web.me.com-dr.cohen.warc.gz	12149
+drecksack	gallery.me.com	2012-04-03 13:17:26	mobileme-hero-1333459612	mobileme-full-1333459612.tar	gallery.me.com-drecksack.warc.gz	8351
+drecksack	homepage.mac.com	2012-04-03 13:17:27	mobileme-hero-1333459612	mobileme-full-1333459612.tar	homepage.mac.com-drecksack.warc.gz	5176
+drecksack	public.me.com	2012-04-03 13:17:26	mobileme-hero-1333459612	mobileme-full-1333459612.tar	public.me.com-drecksack.warc.gz	1918
+drecksack	web.me.com	2012-04-03 13:17:25	mobileme-hero-1333459612	mobileme-full-1333459612.tar	web.me.com-drecksack.warc.gz	17707
+dt_pigulin_forest_ti	gallery.me.com	2012-04-03 12:00:13	mobileme-hero-1333459612	mobileme-full-1333459612.tar	gallery.me.com-dt_pigulin_forest_ti.warc.gz	8418
+dt_pigulin_forest_ti	homepage.mac.com	2012-04-03 12:00:13	mobileme-hero-1333459612	mobileme-full-1333459612.tar	homepage.mac.com-dt_pigulin_forest_ti.warc.gz	5230
+dt_pigulin_forest_ti	public.me.com	2012-04-03 12:00:12	mobileme-hero-1333459612	mobileme-full-1333459612.tar	public.me.com-dt_pigulin_forest_ti.warc.gz	1946
+dt_pigulin_forest_ti	web.me.com	2012-04-03 12:00:12	mobileme-hero-1333459612	mobileme-full-1333459612.tar	web.me.com-dt_pigulin_forest_ti.warc.gz	17835
+handrelay	gallery.me.com	2012-04-03 12:00:40	mobileme-hero-1333459612	mobileme-full-1333459612.tar	gallery.me.com-handrelay.warc.gz	221530550
+handrelay	homepage.mac.com	2012-04-03 12:00:43	mobileme-hero-1333459612	mobileme-full-1333459612.tar	homepage.mac.com-handrelay.warc.gz	247001
+handrelay	public.me.com	2012-04-03 11:59:58	mobileme-hero-1333459612	mobileme-full-1333459612.tar	public.me.com-handrelay.warc.gz	1923
+handrelay	web.me.com	2012-04-03 11:59:56	mobileme-hero-1333459612	mobileme-full-1333459612.tar	web.me.com-handrelay.warc.gz	14661129

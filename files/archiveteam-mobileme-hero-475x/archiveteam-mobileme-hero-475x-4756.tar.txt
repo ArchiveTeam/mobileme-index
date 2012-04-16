@@ -1,16 +1,16 @@
-burthorne	gallery.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	gallery.me.com-burthorne.warc.gz	0
-burthorne	homepage.mac.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	homepage.mac.com-burthorne.warc.gz	0
-burthorne	public.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	public.me.com-burthorne.warc.gz	0
-burthorne	web.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	web.me.com-burthorne.warc.gz	0
-gotsnarky	gallery.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	gallery.me.com-gotsnarky.warc.gz	0
-gotsnarky	homepage.mac.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	homepage.mac.com-gotsnarky.warc.gz	0
-gotsnarky	public.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	public.me.com-gotsnarky.warc.gz	0
-gotsnarky	web.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	web.me.com-gotsnarky.warc.gz	0
-islandtumble	gallery.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	gallery.me.com-islandtumble.warc.gz	0
-islandtumble	homepage.mac.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	homepage.mac.com-islandtumble.warc.gz	0
-islandtumble	public.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	public.me.com-islandtumble.warc.gz	0
-islandtumble	web.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	web.me.com-islandtumble.warc.gz	0
-katigirl	gallery.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	gallery.me.com-katigirl.warc.gz	0
-katigirl	homepage.mac.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	homepage.mac.com-katigirl.warc.gz	0
-katigirl	public.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	public.me.com-katigirl.warc.gz	0
-katigirl	web.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	web.me.com-katigirl.warc.gz	0
+burthorne	gallery.me.com	2012-04-06 17:51:26	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	gallery.me.com-burthorne.warc.gz	1206496783
+burthorne	homepage.mac.com	2012-04-06 17:51:30	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	homepage.mac.com-burthorne.warc.gz	90185
+burthorne	public.me.com	2012-04-06 17:30:32	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	public.me.com-burthorne.warc.gz	587616378
+burthorne	web.me.com	2012-04-06 17:16:30	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	web.me.com-burthorne.warc.gz	1276937344
+gotsnarky	gallery.me.com	2012-04-06 15:56:49	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	gallery.me.com-gotsnarky.warc.gz	342085482
+gotsnarky	homepage.mac.com	2012-04-06 15:56:49	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	homepage.mac.com-gotsnarky.warc.gz	4927
+gotsnarky	public.me.com	2012-04-06 15:34:32	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	public.me.com-gotsnarky.warc.gz	4681
+gotsnarky	web.me.com	2012-04-06 15:34:23	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	web.me.com-gotsnarky.warc.gz	1303313165
+islandtumble	gallery.me.com	2012-04-06 14:38:29	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	gallery.me.com-islandtumble.warc.gz	29047600
+islandtumble	homepage.mac.com	2012-04-06 14:38:32	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	homepage.mac.com-islandtumble.warc.gz	4914
+islandtumble	public.me.com	2012-04-06 14:38:17	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	public.me.com-islandtumble.warc.gz	1928
+islandtumble	web.me.com	2012-04-06 14:38:16	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	web.me.com-islandtumble.warc.gz	739278
+katigirl	gallery.me.com	2012-04-06 16:46:34	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	gallery.me.com-katigirl.warc.gz	1063078044
+katigirl	homepage.mac.com	2012-04-06 16:46:43	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	homepage.mac.com-katigirl.warc.gz	141689
+katigirl	public.me.com	2012-04-06 16:33:05	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	public.me.com-katigirl.warc.gz	1919
+katigirl	web.me.com	2012-04-06 16:33:03	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4756.tar	web.me.com-katigirl.warc.gz	579798423

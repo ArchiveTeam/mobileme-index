@@ -1,13 +1,13 @@
-abernardet	gallery.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	gallery.me.com-abernardet.warc.gz	0
-abernardet	homepage.mac.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	homepage.mac.com-abernardet.warc.gz	0
-abernardet	public.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	public.me.com-abernardet.warc.gz	0
-abernardet	web.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	web.me.com-abernardet.warc.gz	0
-carolemi	web.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	web.me.com-carolemi.warc.gz	0
-dustin770	gallery.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	gallery.me.com-dustin770.warc.gz	0
-dustin770	homepage.mac.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	homepage.mac.com-dustin770.warc.gz	0
-dustin770	public.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	public.me.com-dustin770.warc.gz	0
-dustin770	web.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	web.me.com-dustin770.warc.gz	0
-mhknight	gallery.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	gallery.me.com-mhknight.warc.gz	0
-mhknight	homepage.mac.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	homepage.mac.com-mhknight.warc.gz	0
-mhknight	public.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	public.me.com-mhknight.warc.gz	0
-mhknight	web.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	web.me.com-mhknight.warc.gz	0
+abernardet	gallery.me.com	2012-03-31 22:21:17	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	gallery.me.com-abernardet.warc.gz	12332
+abernardet	homepage.mac.com	2012-03-31 22:21:17	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	homepage.mac.com-abernardet.warc.gz	7149
+abernardet	public.me.com	2012-03-31 22:21:14	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	public.me.com-abernardet.warc.gz	1915
+abernardet	web.me.com	2012-03-31 22:21:13	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	web.me.com-abernardet.warc.gz	22410
+carolemi	web.me.com	2012-04-01 05:13:38	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	web.me.com-carolemi.warc.gz	3990932888
+dustin770	gallery.me.com	2012-04-13 04:05:39	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	gallery.me.com-dustin770.warc.gz	5040
+dustin770	homepage.mac.com	2012-04-13 04:05:49	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	homepage.mac.com-dustin770.warc.gz	123065
+dustin770	public.me.com	2012-04-13 04:05:39	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	public.me.com-dustin770.warc.gz	1917
+dustin770	web.me.com	2012-04-13 04:05:38	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	web.me.com-dustin770.warc.gz	52240
+mhknight	gallery.me.com	2012-03-31 22:21:08	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	gallery.me.com-mhknight.warc.gz	12326
+mhknight	homepage.mac.com	2012-03-31 22:21:09	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	homepage.mac.com-mhknight.warc.gz	7151
+mhknight	public.me.com	2012-03-31 22:21:06	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	public.me.com-mhknight.warc.gz	1917
+mhknight	web.me.com	2012-03-31 22:21:05	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7082.tar	web.me.com-mhknight.warc.gz	22488

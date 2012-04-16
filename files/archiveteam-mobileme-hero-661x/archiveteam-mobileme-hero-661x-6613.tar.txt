@@ -1,16 +1,16 @@
-alec.brennan	gallery.me.com		archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	gallery.me.com-alec.brennan.warc.gz	0
-alec.brennan	homepage.mac.com		archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	homepage.mac.com-alec.brennan.warc.gz	0
-alec.brennan	public.me.com		archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	public.me.com-alec.brennan.warc.gz	0
-alec.brennan	web.me.com		archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	web.me.com-alec.brennan.warc.gz	0
-drakevaliant	gallery.me.com		archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	gallery.me.com-drakevaliant.warc.gz	0
-drakevaliant	homepage.mac.com		archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	homepage.mac.com-drakevaliant.warc.gz	0
-drakevaliant	public.me.com		archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	public.me.com-drakevaliant.warc.gz	0
-drakevaliant	web.me.com		archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	web.me.com-drakevaliant.warc.gz	0
-kungurov	gallery.me.com		archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	gallery.me.com-kungurov.warc.gz	0
-kungurov	homepage.mac.com		archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	homepage.mac.com-kungurov.warc.gz	0
-kungurov	public.me.com		archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	public.me.com-kungurov.warc.gz	0
-kungurov	web.me.com		archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	web.me.com-kungurov.warc.gz	0
-nathaliehottua	gallery.me.com		archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	gallery.me.com-nathaliehottua.warc.gz	0
-nathaliehottua	homepage.mac.com		archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	homepage.mac.com-nathaliehottua.warc.gz	0
-nathaliehottua	public.me.com		archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	public.me.com-nathaliehottua.warc.gz	0
-nathaliehottua	web.me.com		archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	web.me.com-nathaliehottua.warc.gz	0
+alec.brennan	gallery.me.com	2012-04-12 03:56:39	archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	gallery.me.com-alec.brennan.warc.gz	1668786186
+alec.brennan	homepage.mac.com	2012-04-12 03:56:40	archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	homepage.mac.com-alec.brennan.warc.gz	4930
+alec.brennan	public.me.com	2012-04-12 00:13:13	archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	public.me.com-alec.brennan.warc.gz	17118139
+alec.brennan	web.me.com	2012-04-12 00:12:35	archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	web.me.com-alec.brennan.warc.gz	854176157
+drakevaliant	gallery.me.com	2012-04-12 03:56:43	archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	gallery.me.com-drakevaliant.warc.gz	12345
+drakevaliant	homepage.mac.com	2012-04-12 03:56:43	archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	homepage.mac.com-drakevaliant.warc.gz	7163
+drakevaliant	public.me.com	2012-04-12 03:56:42	archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	public.me.com-drakevaliant.warc.gz	1929
+drakevaliant	web.me.com	2012-04-12 03:56:42	archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	web.me.com-drakevaliant.warc.gz	22540
+kungurov	gallery.me.com	2012-04-12 05:39:55	archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	gallery.me.com-kungurov.warc.gz	2764251547
+kungurov	homepage.mac.com	2012-04-12 05:39:56	archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	homepage.mac.com-kungurov.warc.gz	4916
+kungurov	public.me.com	2012-04-12 04:11:39	archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	public.me.com-kungurov.warc.gz	3325
+kungurov	web.me.com	2012-04-12 04:11:38	archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	web.me.com-kungurov.warc.gz	41781197
+nathaliehottua	gallery.me.com	2012-04-11 23:26:39	archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	gallery.me.com-nathaliehottua.warc.gz	400383931
+nathaliehottua	homepage.mac.com	2012-04-11 23:26:39	archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	homepage.mac.com-nathaliehottua.warc.gz	4936
+nathaliehottua	public.me.com	2012-04-11 22:25:08	archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	public.me.com-nathaliehottua.warc.gz	1929
+nathaliehottua	web.me.com	2012-04-11 22:25:07	archiveteam-mobileme-hero-661x	archiveteam-mobileme-hero-661x-6613.tar	web.me.com-nathaliehottua.warc.gz	64258611

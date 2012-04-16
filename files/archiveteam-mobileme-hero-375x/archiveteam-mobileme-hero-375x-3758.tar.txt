@@ -1,28 +1,28 @@
-clabough	gallery.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	gallery.me.com-clabough.warc.gz	0
-clabough	homepage.mac.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	homepage.mac.com-clabough.warc.gz	0
-clabough	public.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	public.me.com-clabough.warc.gz	0
-clabough	web.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	web.me.com-clabough.warc.gz	0
-databank	gallery.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	gallery.me.com-databank.warc.gz	0
-databank	homepage.mac.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	homepage.mac.com-databank.warc.gz	0
-databank	public.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	public.me.com-databank.warc.gz	0
-databank	web.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	web.me.com-databank.warc.gz	0
-lindaakerhjelm	gallery.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	gallery.me.com-lindaakerhjelm.warc.gz	0
-lindaakerhjelm	homepage.mac.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	homepage.mac.com-lindaakerhjelm.warc.gz	0
-lindaakerhjelm	public.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	public.me.com-lindaakerhjelm.warc.gz	0
-lindaakerhjelm	web.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	web.me.com-lindaakerhjelm.warc.gz	0
-pbarnesmd	gallery.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	gallery.me.com-pbarnesmd.warc.gz	0
-pbarnesmd	homepage.mac.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	homepage.mac.com-pbarnesmd.warc.gz	0
-pbarnesmd	public.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	public.me.com-pbarnesmd.warc.gz	0
-pbarnesmd	web.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	web.me.com-pbarnesmd.warc.gz	0
-salmonico	gallery.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	gallery.me.com-salmonico.warc.gz	0
-salmonico	homepage.mac.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	homepage.mac.com-salmonico.warc.gz	0
-salmonico	public.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	public.me.com-salmonico.warc.gz	0
-salmonico	web.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	web.me.com-salmonico.warc.gz	0
-sethrobin	gallery.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	gallery.me.com-sethrobin.warc.gz	0
-sethrobin	homepage.mac.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	homepage.mac.com-sethrobin.warc.gz	0
-sethrobin	public.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	public.me.com-sethrobin.warc.gz	0
-sethrobin	web.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	web.me.com-sethrobin.warc.gz	0
-skraeft	gallery.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	gallery.me.com-skraeft.warc.gz	0
-skraeft	homepage.mac.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	homepage.mac.com-skraeft.warc.gz	0
-skraeft	public.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	public.me.com-skraeft.warc.gz	0
-skraeft	web.me.com		archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	web.me.com-skraeft.warc.gz	0
+clabough	gallery.me.com	2012-04-04 08:38:21	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	gallery.me.com-clabough.warc.gz	1348139027
+clabough	homepage.mac.com	2012-04-04 08:38:45	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	homepage.mac.com-clabough.warc.gz	317864
+clabough	public.me.com	2012-04-04 08:16:18	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	public.me.com-clabough.warc.gz	552089275
+clabough	web.me.com	2012-04-04 08:11:52	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	web.me.com-clabough.warc.gz	1291846959
+databank	gallery.me.com	2012-04-04 06:56:26	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	gallery.me.com-databank.warc.gz	4272
+databank	homepage.mac.com	2012-04-04 06:56:28	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	homepage.mac.com-databank.warc.gz	4908
+databank	public.me.com	2012-04-04 06:56:25	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	public.me.com-databank.warc.gz	1915
+databank	web.me.com	2012-04-04 06:56:24	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	web.me.com-databank.warc.gz	129886327
+lindaakerhjelm	gallery.me.com	2012-04-04 06:45:39	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	gallery.me.com-lindaakerhjelm.warc.gz	4297
+lindaakerhjelm	homepage.mac.com	2012-04-04 06:45:40	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	homepage.mac.com-lindaakerhjelm.warc.gz	4948
+lindaakerhjelm	public.me.com	2012-04-04 06:45:39	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	public.me.com-lindaakerhjelm.warc.gz	1931
+lindaakerhjelm	web.me.com	2012-04-04 06:45:39	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	web.me.com-lindaakerhjelm.warc.gz	4521068
+pbarnesmd	gallery.me.com	2012-04-04 07:03:21	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	gallery.me.com-pbarnesmd.warc.gz	396576379
+pbarnesmd	homepage.mac.com	2012-04-04 07:03:21	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	homepage.mac.com-pbarnesmd.warc.gz	4916
+pbarnesmd	public.me.com	2012-04-04 06:58:17	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	public.me.com-pbarnesmd.warc.gz	6454470
+pbarnesmd	web.me.com	2012-04-04 06:58:08	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	web.me.com-pbarnesmd.warc.gz	10480531
+salmonico	gallery.me.com	2012-04-04 07:03:52	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	gallery.me.com-salmonico.warc.gz	4274
+salmonico	homepage.mac.com	2012-04-04 07:03:53	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	homepage.mac.com-salmonico.warc.gz	4917
+salmonico	public.me.com	2012-04-04 07:03:52	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	public.me.com-salmonico.warc.gz	1916
+salmonico	web.me.com	2012-04-04 07:03:52	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	web.me.com-salmonico.warc.gz	1531092
+sethrobin	gallery.me.com	2012-04-04 07:26:40	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	gallery.me.com-sethrobin.warc.gz	10520881
+sethrobin	homepage.mac.com	2012-04-04 07:28:47	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	homepage.mac.com-sethrobin.warc.gz	1942826
+sethrobin	public.me.com	2012-04-04 07:26:31	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	public.me.com-sethrobin.warc.gz	575789392
+sethrobin	web.me.com	2012-04-04 07:04:58	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	web.me.com-sethrobin.warc.gz	3994045
+skraeft	gallery.me.com	2012-04-04 06:41:16	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	gallery.me.com-skraeft.warc.gz	7303
+skraeft	homepage.mac.com	2012-04-04 06:41:18	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	homepage.mac.com-skraeft.warc.gz	4909
+skraeft	public.me.com	2012-04-04 06:41:15	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	public.me.com-skraeft.warc.gz	458907
+skraeft	web.me.com	2012-04-04 06:41:13	archiveteam-mobileme-hero-375x	archiveteam-mobileme-hero-375x-3758.tar	web.me.com-skraeft.warc.gz	12876172

@@ -1,8 +1,8 @@
-atequiza	gallery.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5904.tar	gallery.me.com-atequiza.warc.gz	0
-atequiza	homepage.mac.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5904.tar	homepage.mac.com-atequiza.warc.gz	0
-atequiza	public.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5904.tar	public.me.com-atequiza.warc.gz	0
-atequiza	web.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5904.tar	web.me.com-atequiza.warc.gz	0
-valyer	gallery.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5904.tar	gallery.me.com-valyer.warc.gz	0
-valyer	homepage.mac.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5904.tar	homepage.mac.com-valyer.warc.gz	0
-valyer	public.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5904.tar	public.me.com-valyer.warc.gz	0
-valyer	web.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5904.tar	web.me.com-valyer.warc.gz	0
+atequiza	gallery.me.com	2012-04-10 11:06:15	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5904.tar	gallery.me.com-atequiza.warc.gz	957811098
+atequiza	homepage.mac.com	2012-04-10 11:13:47	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5904.tar	homepage.mac.com-atequiza.warc.gz	39067895
+atequiza	public.me.com	2012-04-10 10:50:28	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5904.tar	public.me.com-atequiza.warc.gz	4110101141
+atequiza	web.me.com	2012-04-10 10:19:57	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5904.tar	web.me.com-atequiza.warc.gz	540513197
+valyer	gallery.me.com	2012-04-10 09:34:50	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5904.tar	gallery.me.com-valyer.warc.gz	12328
+valyer	homepage.mac.com	2012-04-10 09:34:50	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5904.tar	homepage.mac.com-valyer.warc.gz	7142
+valyer	public.me.com	2012-04-10 09:34:49	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5904.tar	public.me.com-valyer.warc.gz	1914
+valyer	web.me.com	2012-04-10 09:34:49	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5904.tar	web.me.com-valyer.warc.gz	22479

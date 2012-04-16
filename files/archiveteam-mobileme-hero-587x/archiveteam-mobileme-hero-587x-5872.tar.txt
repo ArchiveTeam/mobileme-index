@@ -1,20 +1,20 @@
-drmanny	gallery.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	gallery.me.com-drmanny.warc.gz	0
-drmanny	homepage.mac.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	homepage.mac.com-drmanny.warc.gz	0
-drmanny	public.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	public.me.com-drmanny.warc.gz	0
-drmanny	web.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	web.me.com-drmanny.warc.gz	0
-eileenshepard	gallery.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	gallery.me.com-eileenshepard.warc.gz	0
-eileenshepard	homepage.mac.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	homepage.mac.com-eileenshepard.warc.gz	0
-eileenshepard	public.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	public.me.com-eileenshepard.warc.gz	0
-eileenshepard	web.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	web.me.com-eileenshepard.warc.gz	0
-ezekiellewis	gallery.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	gallery.me.com-ezekiellewis.warc.gz	0
-ezekiellewis	homepage.mac.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	homepage.mac.com-ezekiellewis.warc.gz	0
-ezekiellewis	public.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	public.me.com-ezekiellewis.warc.gz	0
-ezekiellewis	web.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	web.me.com-ezekiellewis.warc.gz	0
-kopman	gallery.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	gallery.me.com-kopman.warc.gz	0
-kopman	homepage.mac.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	homepage.mac.com-kopman.warc.gz	0
-kopman	public.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	public.me.com-kopman.warc.gz	0
-kopman	web.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	web.me.com-kopman.warc.gz	0
-pybus	gallery.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	gallery.me.com-pybus.warc.gz	0
-pybus	homepage.mac.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	homepage.mac.com-pybus.warc.gz	0
-pybus	public.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	public.me.com-pybus.warc.gz	0
-pybus	web.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	web.me.com-pybus.warc.gz	0
+drmanny	gallery.me.com	2012-04-10 09:38:09	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	gallery.me.com-drmanny.warc.gz	5035621610
+drmanny	homepage.mac.com	2012-04-10 09:38:13	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	homepage.mac.com-drmanny.warc.gz	73569
+drmanny	public.me.com	2012-04-10 07:59:29	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	public.me.com-drmanny.warc.gz	207335
+drmanny	web.me.com	2012-04-10 07:59:27	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	web.me.com-drmanny.warc.gz	119094192
+eileenshepard	gallery.me.com	2012-04-10 07:46:59	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	gallery.me.com-eileenshepard.warc.gz	702123933
+eileenshepard	homepage.mac.com	2012-04-10 07:46:59	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	homepage.mac.com-eileenshepard.warc.gz	4936
+eileenshepard	public.me.com	2012-04-10 07:31:05	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	public.me.com-eileenshepard.warc.gz	1922
+eileenshepard	web.me.com	2012-04-10 07:31:04	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	web.me.com-eileenshepard.warc.gz	86220883
+ezekiellewis	gallery.me.com	2012-04-10 07:47:23	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	gallery.me.com-ezekiellewis.warc.gz	4282
+ezekiellewis	homepage.mac.com	2012-04-10 07:47:23	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	homepage.mac.com-ezekiellewis.warc.gz	4933
+ezekiellewis	public.me.com	2012-04-10 07:47:22	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	public.me.com-ezekiellewis.warc.gz	3427
+ezekiellewis	web.me.com	2012-04-10 07:47:22	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	web.me.com-ezekiellewis.warc.gz	929456
+kopman	gallery.me.com	2012-04-10 07:11:59	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	gallery.me.com-kopman.warc.gz	5038
+kopman	homepage.mac.com	2012-04-10 07:11:59	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	homepage.mac.com-kopman.warc.gz	4902
+kopman	public.me.com	2012-04-10 07:11:58	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	public.me.com-kopman.warc.gz	261606372
+kopman	web.me.com	2012-04-10 07:08:14	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	web.me.com-kopman.warc.gz	33416841
+pybus	gallery.me.com	2012-04-10 07:19:03	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	gallery.me.com-pybus.warc.gz	16380113
+pybus	homepage.mac.com	2012-04-10 07:19:04	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	homepage.mac.com-pybus.warc.gz	4898
+pybus	public.me.com	2012-04-10 07:18:49	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	public.me.com-pybus.warc.gz	282373474
+pybus	web.me.com	2012-04-10 07:12:04	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5872.tar	web.me.com-pybus.warc.gz	121067

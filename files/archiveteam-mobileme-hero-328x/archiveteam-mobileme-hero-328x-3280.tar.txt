@@ -1,28 +1,28 @@
-c1248799346	gallery.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	gallery.me.com-c1248799346.warc.gz	0
-c1248799346	homepage.mac.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	homepage.mac.com-c1248799346.warc.gz	0
-c1248799346	public.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	public.me.com-c1248799346.warc.gz	0
-c1248799346	web.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	web.me.com-c1248799346.warc.gz	0
-edsafaris	gallery.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	gallery.me.com-edsafaris.warc.gz	0
-edsafaris	homepage.mac.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	homepage.mac.com-edsafaris.warc.gz	0
-edsafaris	public.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	public.me.com-edsafaris.warc.gz	0
-edsafaris	web.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	web.me.com-edsafaris.warc.gz	0
-gerald_hoefler	gallery.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	gallery.me.com-gerald_hoefler.warc.gz	0
-gerald_hoefler	homepage.mac.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	homepage.mac.com-gerald_hoefler.warc.gz	0
-gerald_hoefler	public.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	public.me.com-gerald_hoefler.warc.gz	0
-gerald_hoefler	web.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	web.me.com-gerald_hoefler.warc.gz	0
-gittens.sexton	gallery.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	gallery.me.com-gittens.sexton.warc.gz	0
-gittens.sexton	homepage.mac.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	homepage.mac.com-gittens.sexton.warc.gz	0
-gittens.sexton	public.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	public.me.com-gittens.sexton.warc.gz	0
-gittens.sexton	web.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	web.me.com-gittens.sexton.warc.gz	0
-lannyward	gallery.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	gallery.me.com-lannyward.warc.gz	0
-lannyward	homepage.mac.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	homepage.mac.com-lannyward.warc.gz	0
-lannyward	public.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	public.me.com-lannyward.warc.gz	0
-lannyward	web.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	web.me.com-lannyward.warc.gz	0
-mazzedance	gallery.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	gallery.me.com-mazzedance.warc.gz	0
-mazzedance	homepage.mac.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	homepage.mac.com-mazzedance.warc.gz	0
-mazzedance	public.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	public.me.com-mazzedance.warc.gz	0
-mazzedance	web.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	web.me.com-mazzedance.warc.gz	0
-teedub	gallery.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	gallery.me.com-teedub.warc.gz	0
-teedub	homepage.mac.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	homepage.mac.com-teedub.warc.gz	0
-teedub	public.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	public.me.com-teedub.warc.gz	0
-teedub	web.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	web.me.com-teedub.warc.gz	0
+c1248799346	gallery.me.com	2012-04-03 05:25:40	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	gallery.me.com-c1248799346.warc.gz	8352
+c1248799346	homepage.mac.com	2012-04-03 05:25:40	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	homepage.mac.com-c1248799346.warc.gz	5173
+c1248799346	public.me.com	2012-04-03 05:25:40	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	public.me.com-c1248799346.warc.gz	1921
+c1248799346	web.me.com	2012-04-03 05:25:40	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	web.me.com-c1248799346.warc.gz	17734
+edsafaris	gallery.me.com	2012-04-03 05:25:39	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	gallery.me.com-edsafaris.warc.gz	13274763
+edsafaris	homepage.mac.com	2012-04-03 05:25:39	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	homepage.mac.com-edsafaris.warc.gz	4902
+edsafaris	public.me.com	2012-04-03 05:25:28	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	public.me.com-edsafaris.warc.gz	1909
+edsafaris	web.me.com	2012-04-03 05:25:27	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	web.me.com-edsafaris.warc.gz	6716951
+gerald_hoefler	gallery.me.com	2012-04-03 06:05:00	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	gallery.me.com-gerald_hoefler.warc.gz	4963637885
+gerald_hoefler	homepage.mac.com	2012-04-03 06:05:40	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	homepage.mac.com-gerald_hoefler.warc.gz	1251057
+gerald_hoefler	public.me.com	2012-04-03 05:38:32	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	public.me.com-gerald_hoefler.warc.gz	16604882
+gerald_hoefler	web.me.com	2012-04-03 05:38:28	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	web.me.com-gerald_hoefler.warc.gz	1023684907
+gittens.sexton	gallery.me.com	2012-04-03 05:25:11	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	gallery.me.com-gittens.sexton.warc.gz	5175
+gittens.sexton	homepage.mac.com	2012-04-03 05:25:13	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	homepage.mac.com-gittens.sexton.warc.gz	448456
+gittens.sexton	public.me.com	2012-04-03 05:25:11	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	public.me.com-gittens.sexton.warc.gz	1926
+gittens.sexton	web.me.com	2012-04-03 05:25:11	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	web.me.com-gittens.sexton.warc.gz	2162516
+lannyward	gallery.me.com	2012-04-03 05:07:29	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	gallery.me.com-lannyward.warc.gz	9981056
+lannyward	homepage.mac.com	2012-04-03 05:07:33	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	homepage.mac.com-lannyward.warc.gz	317349
+lannyward	public.me.com	2012-04-03 05:07:26	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	public.me.com-lannyward.warc.gz	1923
+lannyward	web.me.com	2012-04-03 05:07:26	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	web.me.com-lannyward.warc.gz	11797634
+mazzedance	gallery.me.com	2012-04-03 05:25:00	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	gallery.me.com-mazzedance.warc.gz	148002
+mazzedance	homepage.mac.com	2012-04-03 05:25:00	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	homepage.mac.com-mazzedance.warc.gz	4918
+mazzedance	public.me.com	2012-04-03 05:24:59	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	public.me.com-mazzedance.warc.gz	1917
+mazzedance	web.me.com	2012-04-03 05:24:59	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	web.me.com-mazzedance.warc.gz	9140471
+teedub	gallery.me.com	2012-04-03 05:23:37	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	gallery.me.com-teedub.warc.gz	1665452319
+teedub	homepage.mac.com	2012-04-03 05:23:39	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	homepage.mac.com-teedub.warc.gz	83155
+teedub	public.me.com	2012-04-03 05:14:01	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	public.me.com-teedub.warc.gz	5375865
+teedub	web.me.com	2012-04-03 05:13:55	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3280.tar	web.me.com-teedub.warc.gz	69375840

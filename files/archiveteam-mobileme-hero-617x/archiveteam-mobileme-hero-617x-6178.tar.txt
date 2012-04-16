@@ -1,20 +1,20 @@
-artshare4	gallery.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	gallery.me.com-artshare4.warc.gz	0
-artshare4	homepage.mac.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	homepage.mac.com-artshare4.warc.gz	0
-artshare4	public.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	public.me.com-artshare4.warc.gz	0
-artshare4	web.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	web.me.com-artshare4.warc.gz	0
-hkhconstruction	gallery.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	gallery.me.com-hkhconstruction.warc.gz	0
-hkhconstruction	homepage.mac.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	homepage.mac.com-hkhconstruction.warc.gz	0
-hkhconstruction	public.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	public.me.com-hkhconstruction.warc.gz	0
-hkhconstruction	web.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	web.me.com-hkhconstruction.warc.gz	0
-jbeck2	gallery.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	gallery.me.com-jbeck2.warc.gz	0
-jbeck2	homepage.mac.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	homepage.mac.com-jbeck2.warc.gz	0
-jbeck2	public.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	public.me.com-jbeck2.warc.gz	0
-jbeck2	web.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	web.me.com-jbeck2.warc.gz	0
-perceptioncreative	gallery.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	gallery.me.com-perceptioncreative.warc.gz	0
-perceptioncreative	homepage.mac.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	homepage.mac.com-perceptioncreative.warc.gz	0
-perceptioncreative	public.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	public.me.com-perceptioncreative.warc.gz	0
-perceptioncreative	web.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	web.me.com-perceptioncreative.warc.gz	0
-sidari	gallery.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	gallery.me.com-sidari.warc.gz	0
-sidari	homepage.mac.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	homepage.mac.com-sidari.warc.gz	0
-sidari	public.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	public.me.com-sidari.warc.gz	0
-sidari	web.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	web.me.com-sidari.warc.gz	0
+artshare4	gallery.me.com	2012-04-10 19:20:28	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	gallery.me.com-artshare4.warc.gz	358908320
+artshare4	homepage.mac.com	2012-04-10 19:21:04	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	homepage.mac.com-artshare4.warc.gz	352791
+artshare4	public.me.com	2012-04-10 19:07:57	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	public.me.com-artshare4.warc.gz	1912
+artshare4	web.me.com	2012-04-10 19:07:42	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	web.me.com-artshare4.warc.gz	309113199
+hkhconstruction	gallery.me.com	2012-04-10 21:42:13	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	gallery.me.com-hkhconstruction.warc.gz	93352876
+hkhconstruction	homepage.mac.com	2012-04-10 21:42:14	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	homepage.mac.com-hkhconstruction.warc.gz	4930
+hkhconstruction	public.me.com	2012-04-10 21:38:22	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	public.me.com-hkhconstruction.warc.gz	1934
+hkhconstruction	web.me.com	2012-04-10 21:37:47	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	web.me.com-hkhconstruction.warc.gz	1106820559
+jbeck2	gallery.me.com	2012-04-10 18:28:27	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	gallery.me.com-jbeck2.warc.gz	8333
+jbeck2	homepage.mac.com	2012-04-10 18:28:28	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	homepage.mac.com-jbeck2.warc.gz	5151
+jbeck2	public.me.com	2012-04-10 18:28:26	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	public.me.com-jbeck2.warc.gz	1914
+jbeck2	web.me.com	2012-04-10 18:28:26	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	web.me.com-jbeck2.warc.gz	17701
+perceptioncreative	gallery.me.com	2012-04-10 18:35:04	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	gallery.me.com-perceptioncreative.warc.gz	4282
+perceptioncreative	homepage.mac.com	2012-04-10 18:35:04	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	homepage.mac.com-perceptioncreative.warc.gz	4928
+perceptioncreative	public.me.com	2012-04-10 18:35:03	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	public.me.com-perceptioncreative.warc.gz	4291
+perceptioncreative	web.me.com	2012-04-10 18:35:00	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	web.me.com-perceptioncreative.warc.gz	8410222
+sidari	gallery.me.com	2012-04-11 03:12:34	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	gallery.me.com-sidari.warc.gz	86195171
+sidari	homepage.mac.com	2012-04-11 03:12:35	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	homepage.mac.com-sidari.warc.gz	4889
+sidari	public.me.com	2012-04-11 03:08:35	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	public.me.com-sidari.warc.gz	56055
+sidari	web.me.com	2012-04-11 03:08:29	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6178.tar	web.me.com-sidari.warc.gz	2902113603

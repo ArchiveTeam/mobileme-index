@@ -1,12 +1,12 @@
-dwightrussell	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	gallery.me.com-dwightrussell.warc.gz	0
-dwightrussell	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	homepage.mac.com-dwightrussell.warc.gz	0
-dwightrussell	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	public.me.com-dwightrussell.warc.gz	0
-dwightrussell	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	web.me.com-dwightrussell.warc.gz	0
-lrmccallum	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	gallery.me.com-lrmccallum.warc.gz	0
-lrmccallum	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	homepage.mac.com-lrmccallum.warc.gz	0
-lrmccallum	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	public.me.com-lrmccallum.warc.gz	0
-lrmccallum	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	web.me.com-lrmccallum.warc.gz	0
-moby1	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	gallery.me.com-moby1.warc.gz	0
-moby1	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	homepage.mac.com-moby1.warc.gz	0
-moby1	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	public.me.com-moby1.warc.gz	0
-moby1	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	web.me.com-moby1.warc.gz	0
+dwightrussell	gallery.me.com	2012-04-06 23:38:00	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	gallery.me.com-dwightrussell.warc.gz	96593629
+dwightrussell	homepage.mac.com	2012-04-06 23:38:08	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	homepage.mac.com-dwightrussell.warc.gz	132198
+dwightrussell	public.me.com	2012-04-06 23:36:12	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	public.me.com-dwightrussell.warc.gz	1931
+dwightrussell	web.me.com	2012-04-06 23:36:11	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	web.me.com-dwightrussell.warc.gz	442861
+lrmccallum	gallery.me.com	2012-04-07 01:54:30	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	gallery.me.com-lrmccallum.warc.gz	4350665842
+lrmccallum	homepage.mac.com	2012-04-07 01:54:30	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	homepage.mac.com-lrmccallum.warc.gz	4928
+lrmccallum	public.me.com	2012-04-06 23:50:44	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	public.me.com-lrmccallum.warc.gz	1920
+lrmccallum	web.me.com	2012-04-06 23:50:44	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	web.me.com-lrmccallum.warc.gz	50572902
+moby1	gallery.me.com	2012-04-06 23:38:10	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	gallery.me.com-moby1.warc.gz	8334
+moby1	homepage.mac.com	2012-04-06 23:38:10	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	homepage.mac.com-moby1.warc.gz	5154
+moby1	public.me.com	2012-04-06 23:38:10	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	public.me.com-moby1.warc.gz	1911
+moby1	web.me.com	2012-04-06 23:38:09	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4835.tar	web.me.com-moby1.warc.gz	17657

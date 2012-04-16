@@ -1,8 +1,8 @@
-familiagutz	gallery.me.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4699.tar	gallery.me.com-familiagutz.warc.gz	0
-familiagutz	homepage.mac.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4699.tar	homepage.mac.com-familiagutz.warc.gz	0
-familiagutz	public.me.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4699.tar	public.me.com-familiagutz.warc.gz	0
-familiagutz	web.me.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4699.tar	web.me.com-familiagutz.warc.gz	0
-jcsatellite	gallery.me.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4699.tar	gallery.me.com-jcsatellite.warc.gz	0
-jcsatellite	homepage.mac.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4699.tar	homepage.mac.com-jcsatellite.warc.gz	0
-jcsatellite	public.me.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4699.tar	public.me.com-jcsatellite.warc.gz	0
-jcsatellite	web.me.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4699.tar	web.me.com-jcsatellite.warc.gz	0
+familiagutz	gallery.me.com	2012-04-06 14:29:53	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4699.tar	gallery.me.com-familiagutz.warc.gz	5864406353
+familiagutz	homepage.mac.com	2012-04-06 14:29:59	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4699.tar	homepage.mac.com-familiagutz.warc.gz	64771
+familiagutz	public.me.com	2012-04-06 12:50:31	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4699.tar	public.me.com-familiagutz.warc.gz	1923
+familiagutz	web.me.com	2012-04-06 12:50:00	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4699.tar	web.me.com-familiagutz.warc.gz	1206984305
+jcsatellite	gallery.me.com	2012-04-06 12:16:20	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4699.tar	gallery.me.com-jcsatellite.warc.gz	12312
+jcsatellite	homepage.mac.com	2012-04-06 12:16:20	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4699.tar	homepage.mac.com-jcsatellite.warc.gz	7166
+jcsatellite	public.me.com	2012-04-06 12:16:19	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4699.tar	public.me.com-jcsatellite.warc.gz	1923
+jcsatellite	web.me.com	2012-04-06 12:16:19	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4699.tar	web.me.com-jcsatellite.warc.gz	22481

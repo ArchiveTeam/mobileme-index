@@ -1,16 +1,16 @@
-edmaster922	gallery.me.com		archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	gallery.me.com-edmaster922.warc.gz	0
-edmaster922	homepage.mac.com		archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	homepage.mac.com-edmaster922.warc.gz	0
-edmaster922	public.me.com		archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	public.me.com-edmaster922.warc.gz	0
-edmaster922	web.me.com		archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	web.me.com-edmaster922.warc.gz	0
-fujiisan	gallery.me.com		archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	gallery.me.com-fujiisan.warc.gz	0
-fujiisan	homepage.mac.com		archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	homepage.mac.com-fujiisan.warc.gz	0
-fujiisan	public.me.com		archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	public.me.com-fujiisan.warc.gz	0
-fujiisan	web.me.com		archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	web.me.com-fujiisan.warc.gz	0
-julesdominguez	gallery.me.com		archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	gallery.me.com-julesdominguez.warc.gz	0
-julesdominguez	homepage.mac.com		archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	homepage.mac.com-julesdominguez.warc.gz	0
-julesdominguez	public.me.com		archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	public.me.com-julesdominguez.warc.gz	0
-julesdominguez	web.me.com		archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	web.me.com-julesdominguez.warc.gz	0
-mcmariano	gallery.me.com		archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	gallery.me.com-mcmariano.warc.gz	0
-mcmariano	homepage.mac.com		archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	homepage.mac.com-mcmariano.warc.gz	0
-mcmariano	public.me.com		archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	public.me.com-mcmariano.warc.gz	0
-mcmariano	web.me.com		archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	web.me.com-mcmariano.warc.gz	0
+edmaster922	gallery.me.com	2012-04-06 20:01:37	archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	gallery.me.com-edmaster922.warc.gz	3479066059
+edmaster922	homepage.mac.com	2012-04-06 20:01:37	archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	homepage.mac.com-edmaster922.warc.gz	4931
+edmaster922	public.me.com	2012-04-06 18:19:59	archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	public.me.com-edmaster922.warc.gz	4024
+edmaster922	web.me.com	2012-04-06 18:19:58	archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	web.me.com-edmaster922.warc.gz	74426402
+fujiisan	gallery.me.com	2012-04-06 17:20:35	archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	gallery.me.com-fujiisan.warc.gz	5027
+fujiisan	homepage.mac.com	2012-04-06 17:20:35	archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	homepage.mac.com-fujiisan.warc.gz	4917
+fujiisan	public.me.com	2012-04-06 17:20:34	archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	public.me.com-fujiisan.warc.gz	1921
+fujiisan	web.me.com	2012-04-06 17:20:34	archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	web.me.com-fujiisan.warc.gz	414809
+julesdominguez	gallery.me.com	2012-04-06 17:52:17	archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	gallery.me.com-julesdominguez.warc.gz	6254
+julesdominguez	homepage.mac.com	2012-04-06 17:52:18	archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	homepage.mac.com-julesdominguez.warc.gz	4931
+julesdominguez	public.me.com	2012-04-06 17:52:16	archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	public.me.com-julesdominguez.warc.gz	1927
+julesdominguez	web.me.com	2012-04-06 17:52:16	archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	web.me.com-julesdominguez.warc.gz	1094215343
+mcmariano	gallery.me.com	2012-04-06 18:13:16	archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	gallery.me.com-mcmariano.warc.gz	4272
+mcmariano	homepage.mac.com	2012-04-06 18:13:17	archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	homepage.mac.com-mcmariano.warc.gz	4905
+mcmariano	public.me.com	2012-04-06 18:13:16	archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	public.me.com-mcmariano.warc.gz	1918
+mcmariano	web.me.com	2012-04-06 18:13:15	archiveteam-mobileme-hero-479x	archiveteam-mobileme-hero-479x-4796.tar	web.me.com-mcmariano.warc.gz	237104649

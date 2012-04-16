@@ -1,16 +1,16 @@
-bwpuckett	gallery.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	gallery.me.com-bwpuckett.warc.gz	0
-bwpuckett	homepage.mac.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	homepage.mac.com-bwpuckett.warc.gz	0
-bwpuckett	public.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	public.me.com-bwpuckett.warc.gz	0
-bwpuckett	web.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	web.me.com-bwpuckett.warc.gz	0
-kiyomasa_t	gallery.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	gallery.me.com-kiyomasa_t.warc.gz	0
-kiyomasa_t	homepage.mac.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	homepage.mac.com-kiyomasa_t.warc.gz	0
-kiyomasa_t	public.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	public.me.com-kiyomasa_t.warc.gz	0
-kiyomasa_t	web.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	web.me.com-kiyomasa_t.warc.gz	0
-pilotroom	gallery.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	gallery.me.com-pilotroom.warc.gz	0
-pilotroom	homepage.mac.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	homepage.mac.com-pilotroom.warc.gz	0
-pilotroom	public.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	public.me.com-pilotroom.warc.gz	0
-pilotroom	web.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	web.me.com-pilotroom.warc.gz	0
-willi2002	gallery.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	gallery.me.com-willi2002.warc.gz	0
-willi2002	homepage.mac.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	homepage.mac.com-willi2002.warc.gz	0
-willi2002	public.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	public.me.com-willi2002.warc.gz	0
-willi2002	web.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	web.me.com-willi2002.warc.gz	0
+bwpuckett	gallery.me.com	2012-04-05 15:54:50	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	gallery.me.com-bwpuckett.warc.gz	836390513
+bwpuckett	homepage.mac.com	2012-04-05 15:54:51	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	homepage.mac.com-bwpuckett.warc.gz	4916
+bwpuckett	public.me.com	2012-04-05 15:31:57	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	public.me.com-bwpuckett.warc.gz	334924402
+bwpuckett	web.me.com	2012-04-05 15:24:57	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	web.me.com-bwpuckett.warc.gz	56921240
+kiyomasa_t	gallery.me.com	2012-04-05 15:20:27	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	gallery.me.com-kiyomasa_t.warc.gz	527296715
+kiyomasa_t	homepage.mac.com	2012-04-05 15:20:27	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	homepage.mac.com-kiyomasa_t.warc.gz	4918
+kiyomasa_t	public.me.com	2012-04-05 15:01:14	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	public.me.com-kiyomasa_t.warc.gz	2806067495
+kiyomasa_t	web.me.com	2012-04-05 13:26:20	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	web.me.com-kiyomasa_t.warc.gz	313786378
+pilotroom	gallery.me.com	2012-04-05 13:09:39	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	gallery.me.com-pilotroom.warc.gz	8340
+pilotroom	homepage.mac.com	2012-04-05 13:09:39	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	homepage.mac.com-pilotroom.warc.gz	5157
+pilotroom	public.me.com	2012-04-05 13:09:38	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	public.me.com-pilotroom.warc.gz	1907
+pilotroom	web.me.com	2012-04-05 13:09:37	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	web.me.com-pilotroom.warc.gz	17689
+willi2002	gallery.me.com	2012-04-05 15:20:30	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	gallery.me.com-willi2002.warc.gz	8353
+willi2002	homepage.mac.com	2012-04-05 15:20:30	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	homepage.mac.com-willi2002.warc.gz	5164
+willi2002	public.me.com	2012-04-05 15:20:29	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	public.me.com-willi2002.warc.gz	1916
+willi2002	web.me.com	2012-04-05 15:20:29	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4298.tar	web.me.com-willi2002.warc.gz	17683

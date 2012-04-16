@@ -1,16 +1,16 @@
-barelystable	gallery.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	gallery.me.com-barelystable.warc.gz	0
-barelystable	homepage.mac.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	homepage.mac.com-barelystable.warc.gz	0
-barelystable	public.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	public.me.com-barelystable.warc.gz	0
-barelystable	web.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	web.me.com-barelystable.warc.gz	0
-positivec	gallery.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	gallery.me.com-positivec.warc.gz	0
-positivec	homepage.mac.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	homepage.mac.com-positivec.warc.gz	0
-positivec	public.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	public.me.com-positivec.warc.gz	0
-positivec	web.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	web.me.com-positivec.warc.gz	0
-superfinedesign	gallery.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	gallery.me.com-superfinedesign.warc.gz	0
-superfinedesign	homepage.mac.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	homepage.mac.com-superfinedesign.warc.gz	0
-superfinedesign	public.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	public.me.com-superfinedesign.warc.gz	0
-superfinedesign	web.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	web.me.com-superfinedesign.warc.gz	0
-toolinism	gallery.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	gallery.me.com-toolinism.warc.gz	0
-toolinism	homepage.mac.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	homepage.mac.com-toolinism.warc.gz	0
-toolinism	public.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	public.me.com-toolinism.warc.gz	0
-toolinism	web.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	web.me.com-toolinism.warc.gz	0
+barelystable	gallery.me.com	2012-04-06 09:48:48	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	gallery.me.com-barelystable.warc.gz	12362
+barelystable	homepage.mac.com	2012-04-06 09:48:48	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	homepage.mac.com-barelystable.warc.gz	7172
+barelystable	public.me.com	2012-04-06 09:48:47	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	public.me.com-barelystable.warc.gz	1927
+barelystable	web.me.com	2012-04-06 09:48:47	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	web.me.com-barelystable.warc.gz	22548
+positivec	gallery.me.com	2012-04-06 10:32:01	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	gallery.me.com-positivec.warc.gz	2635636751
+positivec	homepage.mac.com	2012-04-06 10:32:01	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	homepage.mac.com-positivec.warc.gz	4911
+positivec	public.me.com	2012-04-06 10:01:32	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	public.me.com-positivec.warc.gz	1915
+positivec	web.me.com	2012-04-06 10:01:31	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	web.me.com-positivec.warc.gz	269099448
+superfinedesign	gallery.me.com	2012-04-06 11:00:26	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	gallery.me.com-superfinedesign.warc.gz	781221464
+superfinedesign	homepage.mac.com	2012-04-06 11:00:26	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	homepage.mac.com-superfinedesign.warc.gz	4946
+superfinedesign	public.me.com	2012-04-06 10:49:40	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	public.me.com-superfinedesign.warc.gz	1928
+superfinedesign	web.me.com	2012-04-06 10:49:40	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	web.me.com-superfinedesign.warc.gz	696783133
+toolinism	gallery.me.com	2012-04-06 10:33:07	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	gallery.me.com-toolinism.warc.gz	1702012
+toolinism	homepage.mac.com	2012-04-06 10:33:07	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	homepage.mac.com-toolinism.warc.gz	4908
+toolinism	public.me.com	2012-04-06 10:33:05	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	public.me.com-toolinism.warc.gz	1917
+toolinism	web.me.com	2012-04-06 10:33:05	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4633.tar	web.me.com-toolinism.warc.gz	5857670

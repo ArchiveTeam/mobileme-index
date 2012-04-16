@@ -1,8 +1,8 @@
-cobo	gallery.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7182.tar	gallery.me.com-cobo.warc.gz	0
-cobo	homepage.mac.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7182.tar	homepage.mac.com-cobo.warc.gz	0
-cobo	public.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7182.tar	public.me.com-cobo.warc.gz	0
-cobo	web.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7182.tar	web.me.com-cobo.warc.gz	0
-pascal2	gallery.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7182.tar	gallery.me.com-pascal2.warc.gz	0
-pascal2	homepage.mac.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7182.tar	homepage.mac.com-pascal2.warc.gz	0
-pascal2	public.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7182.tar	public.me.com-pascal2.warc.gz	0
-pascal2	web.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7182.tar	web.me.com-pascal2.warc.gz	0
+cobo	gallery.me.com	2012-04-13 05:13:08	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7182.tar	gallery.me.com-cobo.warc.gz	4217
+cobo	homepage.mac.com	2012-04-13 05:13:09	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7182.tar	homepage.mac.com-cobo.warc.gz	4893
+cobo	public.me.com	2012-04-13 05:13:08	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7182.tar	public.me.com-cobo.warc.gz	1903
+cobo	web.me.com	2012-04-13 05:13:07	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7182.tar	web.me.com-cobo.warc.gz	7390
+pascal2	gallery.me.com	2012-04-13 07:24:37	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7182.tar	gallery.me.com-pascal2.warc.gz	3236217090
+pascal2	homepage.mac.com	2012-04-13 07:24:40	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7182.tar	homepage.mac.com-pascal2.warc.gz	49286
+pascal2	public.me.com	2012-04-13 06:20:01	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7182.tar	public.me.com-pascal2.warc.gz	1915
+pascal2	web.me.com	2012-04-13 06:20:00	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7182.tar	web.me.com-pascal2.warc.gz	1770297742

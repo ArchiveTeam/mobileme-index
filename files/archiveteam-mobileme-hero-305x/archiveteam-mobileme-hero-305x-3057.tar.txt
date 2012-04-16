@@ -1,12 +1,12 @@
-bthomp	gallery.me.com		archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	gallery.me.com-bthomp.warc.gz	0
-bthomp	homepage.mac.com		archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	homepage.mac.com-bthomp.warc.gz	0
-bthomp	public.me.com		archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	public.me.com-bthomp.warc.gz	0
-bthomp	web.me.com		archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	web.me.com-bthomp.warc.gz	0
-dkudler	gallery.me.com		archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	gallery.me.com-dkudler.warc.gz	0
-dkudler	homepage.mac.com		archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	homepage.mac.com-dkudler.warc.gz	0
-dkudler	public.me.com		archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	public.me.com-dkudler.warc.gz	0
-dkudler	web.me.com		archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	web.me.com-dkudler.warc.gz	0
-pikethree	gallery.me.com		archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	gallery.me.com-pikethree.warc.gz	0
-pikethree	homepage.mac.com		archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	homepage.mac.com-pikethree.warc.gz	0
-pikethree	public.me.com		archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	public.me.com-pikethree.warc.gz	0
-pikethree	web.me.com		archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	web.me.com-pikethree.warc.gz	0
+bthomp	gallery.me.com	2012-04-02 14:14:48	archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	gallery.me.com-bthomp.warc.gz	5151
+bthomp	homepage.mac.com	2012-04-02 14:14:48	archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	homepage.mac.com-bthomp.warc.gz	4893
+bthomp	public.me.com	2012-04-02 14:14:47	archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	public.me.com-bthomp.warc.gz	420882542
+bthomp	web.me.com	2012-04-02 13:45:23	archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	web.me.com-bthomp.warc.gz	33051
+dkudler	gallery.me.com	2012-04-02 19:35:52	archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	gallery.me.com-dkudler.warc.gz	6253145673
+dkudler	homepage.mac.com	2012-04-02 19:37:13	archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	homepage.mac.com-dkudler.warc.gz	1180824
+dkudler	public.me.com	2012-04-02 15:38:47	archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	public.me.com-dkudler.warc.gz	1915
+dkudler	web.me.com	2012-04-02 15:38:46	archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	web.me.com-dkudler.warc.gz	342976414
+pikethree	gallery.me.com	2012-04-02 13:45:17	archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	gallery.me.com-pikethree.warc.gz	4277
+pikethree	homepage.mac.com	2012-04-02 13:45:17	archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	homepage.mac.com-pikethree.warc.gz	4926
+pikethree	public.me.com	2012-04-02 13:45:16	archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	public.me.com-pikethree.warc.gz	1920
+pikethree	web.me.com	2012-04-02 13:45:16	archiveteam-mobileme-hero-305x	archiveteam-mobileme-hero-305x-3057.tar	web.me.com-pikethree.warc.gz	3207949

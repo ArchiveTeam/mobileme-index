@@ -1,12 +1,12 @@
-johngc	gallery.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	gallery.me.com-johngc.warc.gz	0
-johngc	homepage.mac.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	homepage.mac.com-johngc.warc.gz	0
-johngc	public.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	public.me.com-johngc.warc.gz	0
-johngc	web.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	web.me.com-johngc.warc.gz	0
-no_3021	gallery.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	gallery.me.com-no_3021.warc.gz	0
-no_3021	homepage.mac.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	homepage.mac.com-no_3021.warc.gz	0
-no_3021	public.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	public.me.com-no_3021.warc.gz	0
-no_3021	web.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	web.me.com-no_3021.warc.gz	0
-tsaalfeld	gallery.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	gallery.me.com-tsaalfeld.warc.gz	0
-tsaalfeld	homepage.mac.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	homepage.mac.com-tsaalfeld.warc.gz	0
-tsaalfeld	public.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	public.me.com-tsaalfeld.warc.gz	0
-tsaalfeld	web.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	web.me.com-tsaalfeld.warc.gz	0
+johngc	gallery.me.com	2012-04-13 08:19:02	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	gallery.me.com-johngc.warc.gz	466307046
+johngc	homepage.mac.com	2012-04-13 08:19:02	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	homepage.mac.com-johngc.warc.gz	4896
+johngc	public.me.com	2012-04-13 08:04:03	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	public.me.com-johngc.warc.gz	1913
+johngc	web.me.com	2012-04-13 08:04:03	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	web.me.com-johngc.warc.gz	18972408
+no_3021	gallery.me.com	2012-04-13 06:27:47	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	gallery.me.com-no_3021.warc.gz	2744403606
+no_3021	homepage.mac.com	2012-04-13 06:27:48	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	homepage.mac.com-no_3021.warc.gz	4912
+no_3021	public.me.com	2012-04-13 05:14:26	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	public.me.com-no_3021.warc.gz	260719094
+no_3021	web.me.com	2012-04-13 05:09:57	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	web.me.com-no_3021.warc.gz	17669506
+tsaalfeld	gallery.me.com	2012-04-13 07:57:53	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	gallery.me.com-tsaalfeld.warc.gz	341421345
+tsaalfeld	homepage.mac.com	2012-04-13 07:57:53	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	homepage.mac.com-tsaalfeld.warc.gz	4915
+tsaalfeld	public.me.com	2012-04-13 07:47:38	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	public.me.com-tsaalfeld.warc.gz	1918
+tsaalfeld	web.me.com	2012-04-13 07:47:37	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7187.tar	web.me.com-tsaalfeld.warc.gz	661603681

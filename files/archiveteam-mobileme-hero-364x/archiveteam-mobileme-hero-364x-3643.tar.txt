@@ -1,28 +1,28 @@
-barlisbre	gallery.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	gallery.me.com-barlisbre.warc.gz	0
-barlisbre	homepage.mac.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	homepage.mac.com-barlisbre.warc.gz	0
-barlisbre	public.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	public.me.com-barlisbre.warc.gz	0
-barlisbre	web.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	web.me.com-barlisbre.warc.gz	0
-gregpremru	gallery.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	gallery.me.com-gregpremru.warc.gz	0
-gregpremru	homepage.mac.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	homepage.mac.com-gregpremru.warc.gz	0
-gregpremru	public.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	public.me.com-gregpremru.warc.gz	0
-gregpremru	web.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	web.me.com-gregpremru.warc.gz	0
-labrakeless	gallery.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	gallery.me.com-labrakeless.warc.gz	0
-labrakeless	homepage.mac.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	homepage.mac.com-labrakeless.warc.gz	0
-labrakeless	public.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	public.me.com-labrakeless.warc.gz	0
-labrakeless	web.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	web.me.com-labrakeless.warc.gz	0
-m.paul.adams	gallery.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	gallery.me.com-m.paul.adams.warc.gz	0
-m.paul.adams	homepage.mac.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	homepage.mac.com-m.paul.adams.warc.gz	0
-m.paul.adams	public.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	public.me.com-m.paul.adams.warc.gz	0
-m.paul.adams	web.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	web.me.com-m.paul.adams.warc.gz	0
-shaunron	gallery.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	gallery.me.com-shaunron.warc.gz	0
-shaunron	homepage.mac.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	homepage.mac.com-shaunron.warc.gz	0
-shaunron	public.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	public.me.com-shaunron.warc.gz	0
-shaunron	web.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	web.me.com-shaunron.warc.gz	0
-tabicat	gallery.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	gallery.me.com-tabicat.warc.gz	0
-tabicat	homepage.mac.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	homepage.mac.com-tabicat.warc.gz	0
-tabicat	public.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	public.me.com-tabicat.warc.gz	0
-tabicat	web.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	web.me.com-tabicat.warc.gz	0
-zappingstation	gallery.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	gallery.me.com-zappingstation.warc.gz	0
-zappingstation	homepage.mac.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	homepage.mac.com-zappingstation.warc.gz	0
-zappingstation	public.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	public.me.com-zappingstation.warc.gz	0
-zappingstation	web.me.com		archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	web.me.com-zappingstation.warc.gz	0
+barlisbre	gallery.me.com	2012-04-03 18:35:03	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	gallery.me.com-barlisbre.warc.gz	187261058
+barlisbre	homepage.mac.com	2012-04-03 18:35:08	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	homepage.mac.com-barlisbre.warc.gz	100810
+barlisbre	public.me.com	2012-04-03 18:28:33	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	public.me.com-barlisbre.warc.gz	865622
+barlisbre	web.me.com	2012-04-03 18:28:29	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	web.me.com-barlisbre.warc.gz	393640640
+gregpremru	gallery.me.com	2012-04-04 02:53:48	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	gallery.me.com-gregpremru.warc.gz	4250
+gregpremru	homepage.mac.com	2012-04-04 02:53:54	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	homepage.mac.com-gregpremru.warc.gz	100742
+gregpremru	public.me.com	2012-04-04 02:53:45	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	public.me.com-gregpremru.warc.gz	7367772
+gregpremru	web.me.com	2012-04-04 02:53:13	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	web.me.com-gregpremru.warc.gz	2990768477
+labrakeless	gallery.me.com	2012-04-03 17:45:20	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	gallery.me.com-labrakeless.warc.gz	134037
+labrakeless	homepage.mac.com	2012-04-03 17:45:20	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	homepage.mac.com-labrakeless.warc.gz	4927
+labrakeless	public.me.com	2012-04-03 17:45:18	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	public.me.com-labrakeless.warc.gz	1927
+labrakeless	web.me.com	2012-04-03 17:45:17	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	web.me.com-labrakeless.warc.gz	12260279
+m.paul.adams	gallery.me.com	2012-04-03 17:36:40	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	gallery.me.com-m.paul.adams.warc.gz	10343568
+m.paul.adams	homepage.mac.com	2012-04-03 17:36:41	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	homepage.mac.com-m.paul.adams.warc.gz	4939
+m.paul.adams	public.me.com	2012-04-03 17:36:03	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	public.me.com-m.paul.adams.warc.gz	2702635497
+m.paul.adams	web.me.com	2012-04-03 16:34:39	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	web.me.com-m.paul.adams.warc.gz	71397548
+shaunron	gallery.me.com	2012-04-03 17:59:26	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	gallery.me.com-shaunron.warc.gz	53027728
+shaunron	homepage.mac.com	2012-04-03 17:59:26	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	homepage.mac.com-shaunron.warc.gz	4899
+shaunron	public.me.com	2012-04-03 17:59:08	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	public.me.com-shaunron.warc.gz	1915
+shaunron	web.me.com	2012-04-03 17:59:07	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	web.me.com-shaunron.warc.gz	12723195
+tabicat	gallery.me.com	2012-04-03 17:50:04	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	gallery.me.com-tabicat.warc.gz	4275
+tabicat	homepage.mac.com	2012-04-03 17:50:04	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	homepage.mac.com-tabicat.warc.gz	4911
+tabicat	public.me.com	2012-04-03 17:50:03	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	public.me.com-tabicat.warc.gz	44734309
+tabicat	web.me.com	2012-04-03 17:48:33	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	web.me.com-tabicat.warc.gz	3033169
+zappingstation	gallery.me.com	2012-04-03 17:50:15	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	gallery.me.com-zappingstation.warc.gz	8374
+zappingstation	homepage.mac.com	2012-04-03 17:50:16	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	homepage.mac.com-zappingstation.warc.gz	5193
+zappingstation	public.me.com	2012-04-03 17:50:15	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	public.me.com-zappingstation.warc.gz	1924
+zappingstation	web.me.com	2012-04-03 17:50:12	archiveteam-mobileme-hero-364x	archiveteam-mobileme-hero-364x-3643.tar	web.me.com-zappingstation.warc.gz	17772

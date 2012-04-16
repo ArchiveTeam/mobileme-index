@@ -1,20 +1,20 @@
-denisvalente	gallery.me.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	gallery.me.com-denisvalente.warc.gz	0
-denisvalente	homepage.mac.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	homepage.mac.com-denisvalente.warc.gz	0
-denisvalente	public.me.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	public.me.com-denisvalente.warc.gz	0
-denisvalente	web.me.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	web.me.com-denisvalente.warc.gz	0
-ericconway	gallery.me.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	gallery.me.com-ericconway.warc.gz	0
-ericconway	homepage.mac.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	homepage.mac.com-ericconway.warc.gz	0
-ericconway	public.me.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	public.me.com-ericconway.warc.gz	0
-ericconway	web.me.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	web.me.com-ericconway.warc.gz	0
-kent.truog	gallery.me.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	gallery.me.com-kent.truog.warc.gz	0
-kent.truog	homepage.mac.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	homepage.mac.com-kent.truog.warc.gz	0
-kent.truog	public.me.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	public.me.com-kent.truog.warc.gz	0
-kent.truog	web.me.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	web.me.com-kent.truog.warc.gz	0
-ndhalpern	gallery.me.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	gallery.me.com-ndhalpern.warc.gz	0
-ndhalpern	homepage.mac.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	homepage.mac.com-ndhalpern.warc.gz	0
-ndhalpern	public.me.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	public.me.com-ndhalpern.warc.gz	0
-ndhalpern	web.me.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	web.me.com-ndhalpern.warc.gz	0
-yongxiaofeng	gallery.me.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	gallery.me.com-yongxiaofeng.warc.gz	0
-yongxiaofeng	homepage.mac.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	homepage.mac.com-yongxiaofeng.warc.gz	0
-yongxiaofeng	public.me.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	public.me.com-yongxiaofeng.warc.gz	0
-yongxiaofeng	web.me.com		archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	web.me.com-yongxiaofeng.warc.gz	0
+denisvalente	gallery.me.com	2012-03-31 01:04:57	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	gallery.me.com-denisvalente.warc.gz	4268
+denisvalente	homepage.mac.com	2012-03-31 01:04:58	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	homepage.mac.com-denisvalente.warc.gz	4916
+denisvalente	public.me.com	2012-03-31 01:04:57	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	public.me.com-denisvalente.warc.gz	1926
+denisvalente	web.me.com	2012-03-31 01:04:57	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	web.me.com-denisvalente.warc.gz	315797911
+ericconway	gallery.me.com	2012-03-31 01:01:09	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	gallery.me.com-ericconway.warc.gz	5268
+ericconway	homepage.mac.com	2012-03-31 01:01:10	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	homepage.mac.com-ericconway.warc.gz	6030
+ericconway	public.me.com	2012-03-31 01:01:08	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	public.me.com-ericconway.warc.gz	15121
+ericconway	web.me.com	2012-03-31 01:00:50	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	web.me.com-ericconway.warc.gz	2791530317
+kent.truog	gallery.me.com	2012-03-31 00:12:51	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	gallery.me.com-kent.truog.warc.gz	12339
+kent.truog	homepage.mac.com	2012-03-31 00:12:51	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	homepage.mac.com-kent.truog.warc.gz	7156
+kent.truog	public.me.com	2012-03-31 00:12:50	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	public.me.com-kent.truog.warc.gz	1916
+kent.truog	web.me.com	2012-03-31 00:12:50	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	web.me.com-kent.truog.warc.gz	22509
+ndhalpern	gallery.me.com	2012-03-31 00:12:48	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	gallery.me.com-ndhalpern.warc.gz	5388
+ndhalpern	homepage.mac.com	2012-03-31 00:12:49	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	homepage.mac.com-ndhalpern.warc.gz	36962
+ndhalpern	public.me.com	2012-03-31 00:12:47	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	public.me.com-ndhalpern.warc.gz	1914
+ndhalpern	web.me.com	2012-03-31 00:12:46	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	web.me.com-ndhalpern.warc.gz	2019841
+yongxiaofeng	gallery.me.com	2012-03-31 01:58:28	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	gallery.me.com-yongxiaofeng.warc.gz	158359135
+yongxiaofeng	homepage.mac.com	2012-03-31 01:58:28	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	homepage.mac.com-yongxiaofeng.warc.gz	3276
+yongxiaofeng	public.me.com	2012-03-31 01:51:18	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	public.me.com-yongxiaofeng.warc.gz	2984712424
+yongxiaofeng	web.me.com	2012-03-31 01:24:28	archiveteam-mobileme-hero-226x	archiveteam-mobileme-hero-226x-2263.tar	web.me.com-yongxiaofeng.warc.gz	324804178

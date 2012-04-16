@@ -1,12 +1,12 @@
-gerryott	gallery.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	gallery.me.com-gerryott.warc.gz	0
-gerryott	homepage.mac.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	homepage.mac.com-gerryott.warc.gz	0
-gerryott	public.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	public.me.com-gerryott.warc.gz	0
-gerryott	web.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	web.me.com-gerryott.warc.gz	0
-modgling	gallery.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	gallery.me.com-modgling.warc.gz	0
-modgling	homepage.mac.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	homepage.mac.com-modgling.warc.gz	0
-modgling	public.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	public.me.com-modgling.warc.gz	0
-modgling	web.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	web.me.com-modgling.warc.gz	0
-otterzone	gallery.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	gallery.me.com-otterzone.warc.gz	0
-otterzone	homepage.mac.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	homepage.mac.com-otterzone.warc.gz	0
-otterzone	public.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	public.me.com-otterzone.warc.gz	0
-otterzone	web.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	web.me.com-otterzone.warc.gz	0
+gerryott	gallery.me.com	2012-04-06 16:28:31	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	gallery.me.com-gerryott.warc.gz	423672564
+gerryott	homepage.mac.com	2012-04-06 16:28:32	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	homepage.mac.com-gerryott.warc.gz	4924
+gerryott	public.me.com	2012-04-06 16:22:52	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	public.me.com-gerryott.warc.gz	235714211
+gerryott	web.me.com	2012-04-06 16:15:11	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	web.me.com-gerryott.warc.gz	244233780
+modgling	gallery.me.com	2012-04-06 17:25:31	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	gallery.me.com-modgling.warc.gz	1397690742
+modgling	homepage.mac.com	2012-04-06 17:25:44	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	homepage.mac.com-modgling.warc.gz	218146
+modgling	public.me.com	2012-04-06 16:51:33	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	public.me.com-modgling.warc.gz	409257645
+modgling	web.me.com	2012-04-06 16:41:59	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	web.me.com-modgling.warc.gz	459210400
+otterzone	gallery.me.com	2012-04-06 18:01:11	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	gallery.me.com-otterzone.warc.gz	2192558380
+otterzone	homepage.mac.com	2012-04-06 18:01:12	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	homepage.mac.com-otterzone.warc.gz	4903
+otterzone	public.me.com	2012-04-06 17:47:17	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	public.me.com-otterzone.warc.gz	1917
+otterzone	web.me.com	2012-04-06 17:47:16	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4761.tar	web.me.com-otterzone.warc.gz	588500845

@@ -1,16 +1,16 @@
-ahgallagher	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	gallery.me.com-ahgallagher.warc.gz	0
-ahgallagher	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	homepage.mac.com-ahgallagher.warc.gz	0
-ahgallagher	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	public.me.com-ahgallagher.warc.gz	0
-ahgallagher	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	web.me.com-ahgallagher.warc.gz	0
-choijohn	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	gallery.me.com-choijohn.warc.gz	0
-choijohn	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	homepage.mac.com-choijohn.warc.gz	0
-choijohn	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	public.me.com-choijohn.warc.gz	0
-choijohn	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	web.me.com-choijohn.warc.gz	0
-thaneprince	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	gallery.me.com-thaneprince.warc.gz	0
-thaneprince	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	homepage.mac.com-thaneprince.warc.gz	0
-thaneprince	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	public.me.com-thaneprince.warc.gz	0
-thaneprince	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	web.me.com-thaneprince.warc.gz	0
-yurituma	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	gallery.me.com-yurituma.warc.gz	0
-yurituma	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	homepage.mac.com-yurituma.warc.gz	0
-yurituma	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	public.me.com-yurituma.warc.gz	0
-yurituma	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	web.me.com-yurituma.warc.gz	0
+ahgallagher	gallery.me.com	2012-04-05 17:43:02	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	gallery.me.com-ahgallagher.warc.gz	402084856
+ahgallagher	homepage.mac.com	2012-04-05 17:43:05	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	homepage.mac.com-ahgallagher.warc.gz	84357
+ahgallagher	public.me.com	2012-04-05 17:33:26	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	public.me.com-ahgallagher.warc.gz	153491253
+ahgallagher	web.me.com	2012-04-05 17:29:42	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	web.me.com-ahgallagher.warc.gz	303988202
+choijohn	gallery.me.com	2012-04-05 18:29:54	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	gallery.me.com-choijohn.warc.gz	52697655
+choijohn	homepage.mac.com	2012-04-05 18:29:56	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	homepage.mac.com-choijohn.warc.gz	36849
+choijohn	public.me.com	2012-04-05 18:27:49	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	public.me.com-choijohn.warc.gz	194388421
+choijohn	web.me.com	2012-04-05 18:17:57	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	web.me.com-choijohn.warc.gz	4081757862
+thaneprince	gallery.me.com	2012-04-05 17:19:03	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	gallery.me.com-thaneprince.warc.gz	4262
+thaneprince	homepage.mac.com	2012-04-05 17:19:03	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	homepage.mac.com-thaneprince.warc.gz	4925
+thaneprince	public.me.com	2012-04-05 17:19:02	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	public.me.com-thaneprince.warc.gz	1918
+thaneprince	web.me.com	2012-04-05 17:19:02	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	web.me.com-thaneprince.warc.gz	18318295
+yurituma	gallery.me.com	2012-04-05 17:16:54	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	gallery.me.com-yurituma.warc.gz	4277
+yurituma	homepage.mac.com	2012-04-05 17:16:57	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	homepage.mac.com-yurituma.warc.gz	4907
+yurituma	public.me.com	2012-04-05 17:16:52	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	public.me.com-yurituma.warc.gz	1919
+yurituma	web.me.com	2012-04-05 17:16:52	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4335.tar	web.me.com-yurituma.warc.gz	8801230

@@ -1,20 +1,20 @@
-ito_ya	gallery.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	gallery.me.com-ito_ya.warc.gz	0
-ito_ya	homepage.mac.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	homepage.mac.com-ito_ya.warc.gz	0
-ito_ya	public.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	public.me.com-ito_ya.warc.gz	0
-ito_ya	web.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	web.me.com-ito_ya.warc.gz	0
-kobler	gallery.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	gallery.me.com-kobler.warc.gz	0
-kobler	homepage.mac.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	homepage.mac.com-kobler.warc.gz	0
-kobler	public.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	public.me.com-kobler.warc.gz	0
-kobler	web.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	web.me.com-kobler.warc.gz	0
-maryjanico	gallery.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	gallery.me.com-maryjanico.warc.gz	0
-maryjanico	homepage.mac.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	homepage.mac.com-maryjanico.warc.gz	0
-maryjanico	public.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	public.me.com-maryjanico.warc.gz	0
-maryjanico	web.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	web.me.com-maryjanico.warc.gz	0
-robert.altham	gallery.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	gallery.me.com-robert.altham.warc.gz	0
-robert.altham	homepage.mac.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	homepage.mac.com-robert.altham.warc.gz	0
-robert.altham	public.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	public.me.com-robert.altham.warc.gz	0
-robert.altham	web.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	web.me.com-robert.altham.warc.gz	0
-tskeelspiggins	gallery.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	gallery.me.com-tskeelspiggins.warc.gz	0
-tskeelspiggins	homepage.mac.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	homepage.mac.com-tskeelspiggins.warc.gz	0
-tskeelspiggins	public.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	public.me.com-tskeelspiggins.warc.gz	0
-tskeelspiggins	web.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	web.me.com-tskeelspiggins.warc.gz	0
+ito_ya	gallery.me.com	2012-04-13 05:37:54	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	gallery.me.com-ito_ya.warc.gz	1822697
+ito_ya	homepage.mac.com	2012-04-13 05:37:57	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	homepage.mac.com-ito_ya.warc.gz	214583
+ito_ya	public.me.com	2012-04-13 05:37:49	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	public.me.com-ito_ya.warc.gz	5969015
+ito_ya	web.me.com	2012-04-13 05:35:50	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	web.me.com-ito_ya.warc.gz	188690193
+kobler	gallery.me.com	2012-04-13 04:45:50	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	gallery.me.com-kobler.warc.gz	5345
+kobler	homepage.mac.com	2012-04-13 04:45:51	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	homepage.mac.com-kobler.warc.gz	9596
+kobler	public.me.com	2012-04-13 04:45:49	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	public.me.com-kobler.warc.gz	1910
+kobler	web.me.com	2012-04-13 04:45:46	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	web.me.com-kobler.warc.gz	1200933865
+maryjanico	gallery.me.com	2012-04-13 05:40:24	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	gallery.me.com-maryjanico.warc.gz	4264
+maryjanico	homepage.mac.com	2012-04-13 05:40:24	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	homepage.mac.com-maryjanico.warc.gz	4916
+maryjanico	public.me.com	2012-04-13 05:40:23	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	public.me.com-maryjanico.warc.gz	1924
+maryjanico	web.me.com	2012-04-13 05:40:23	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	web.me.com-maryjanico.warc.gz	15407419
+robert.altham	gallery.me.com	2012-04-13 06:28:48	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	gallery.me.com-robert.altham.warc.gz	1966951800
+robert.altham	homepage.mac.com	2012-04-13 06:28:54	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	homepage.mac.com-robert.altham.warc.gz	107065
+robert.altham	public.me.com	2012-04-13 06:02:16	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	public.me.com-robert.altham.warc.gz	410556880
+robert.altham	web.me.com	2012-04-13 05:55:05	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	web.me.com-robert.altham.warc.gz	103043524
+tskeelspiggins	gallery.me.com	2012-04-13 05:17:08	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	gallery.me.com-tskeelspiggins.warc.gz	301672
+tskeelspiggins	homepage.mac.com	2012-04-13 05:17:08	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	homepage.mac.com-tskeelspiggins.warc.gz	4922
+tskeelspiggins	public.me.com	2012-04-13 05:16:54	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	public.me.com-tskeelspiggins.warc.gz	1931
+tskeelspiggins	web.me.com	2012-04-13 05:16:53	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7163.tar	web.me.com-tskeelspiggins.warc.gz	396843547

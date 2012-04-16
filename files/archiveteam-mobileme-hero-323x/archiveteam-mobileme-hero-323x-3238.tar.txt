@@ -1,24 +1,24 @@
-educolor	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	gallery.me.com-educolor.warc.gz	0
-educolor	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	homepage.mac.com-educolor.warc.gz	0
-educolor	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	public.me.com-educolor.warc.gz	0
-educolor	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	web.me.com-educolor.warc.gz	0
-fransdegroot	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	gallery.me.com-fransdegroot.warc.gz	0
-fransdegroot	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	homepage.mac.com-fransdegroot.warc.gz	0
-fransdegroot	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	public.me.com-fransdegroot.warc.gz	0
-fransdegroot	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	web.me.com-fransdegroot.warc.gz	0
-gapteam	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	gallery.me.com-gapteam.warc.gz	0
-gapteam	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	homepage.mac.com-gapteam.warc.gz	0
-gapteam	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	public.me.com-gapteam.warc.gz	0
-gapteam	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	web.me.com-gapteam.warc.gz	0
-gonzo2003	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	gallery.me.com-gonzo2003.warc.gz	0
-gonzo2003	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	homepage.mac.com-gonzo2003.warc.gz	0
-gonzo2003	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	public.me.com-gonzo2003.warc.gz	0
-gonzo2003	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	web.me.com-gonzo2003.warc.gz	0
-roseclegg	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	gallery.me.com-roseclegg.warc.gz	0
-roseclegg	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	homepage.mac.com-roseclegg.warc.gz	0
-roseclegg	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	public.me.com-roseclegg.warc.gz	0
-roseclegg	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	web.me.com-roseclegg.warc.gz	0
-twistedneg	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	gallery.me.com-twistedneg.warc.gz	0
-twistedneg	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	homepage.mac.com-twistedneg.warc.gz	0
-twistedneg	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	public.me.com-twistedneg.warc.gz	0
-twistedneg	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	web.me.com-twistedneg.warc.gz	0
+educolor	gallery.me.com	2012-04-03 01:01:02	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	gallery.me.com-educolor.warc.gz	72535983
+educolor	homepage.mac.com	2012-04-03 01:01:08	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	homepage.mac.com-educolor.warc.gz	155465
+educolor	public.me.com	2012-04-03 00:58:34	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	public.me.com-educolor.warc.gz	12256717
+educolor	web.me.com	2012-04-03 00:58:03	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	web.me.com-educolor.warc.gz	73283422
+fransdegroot	gallery.me.com	2012-04-03 03:30:53	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	gallery.me.com-fransdegroot.warc.gz	14624760
+fransdegroot	homepage.mac.com	2012-04-03 03:30:53	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	homepage.mac.com-fransdegroot.warc.gz	4906
+fransdegroot	public.me.com	2012-04-03 03:30:21	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	public.me.com-fransdegroot.warc.gz	1922
+fransdegroot	web.me.com	2012-04-03 03:29:57	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	web.me.com-fransdegroot.warc.gz	1387547106
+gapteam	gallery.me.com	2012-04-03 04:04:15	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	gallery.me.com-gapteam.warc.gz	5899
+gapteam	homepage.mac.com	2012-04-03 04:04:16	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	homepage.mac.com-gapteam.warc.gz	4910
+gapteam	public.me.com	2012-04-03 04:04:14	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	public.me.com-gapteam.warc.gz	187953739
+gapteam	web.me.com	2012-04-03 04:03:42	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	web.me.com-gapteam.warc.gz	710675604
+gonzo2003	gallery.me.com	2012-04-03 03:48:14	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	gallery.me.com-gonzo2003.warc.gz	359581315
+gonzo2003	homepage.mac.com	2012-04-03 03:48:14	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	homepage.mac.com-gonzo2003.warc.gz	4924
+gonzo2003	public.me.com	2012-04-03 03:41:20	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	public.me.com-gonzo2003.warc.gz	2984827
+gonzo2003	web.me.com	2012-04-03 03:41:10	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	web.me.com-gonzo2003.warc.gz	7645152
+roseclegg	gallery.me.com	2012-04-03 02:21:23	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	gallery.me.com-roseclegg.warc.gz	1483957554
+roseclegg	homepage.mac.com	2012-04-03 02:21:24	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	homepage.mac.com-roseclegg.warc.gz	4906
+roseclegg	public.me.com	2012-04-03 01:41:26	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	public.me.com-roseclegg.warc.gz	1913
+roseclegg	web.me.com	2012-04-03 01:41:25	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	web.me.com-roseclegg.warc.gz	484304615
+twistedneg	gallery.me.com	2012-04-03 03:39:11	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	gallery.me.com-twistedneg.warc.gz	5034
+twistedneg	homepage.mac.com	2012-04-03 03:39:14	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	homepage.mac.com-twistedneg.warc.gz	104563
+twistedneg	public.me.com	2012-04-03 03:39:11	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	public.me.com-twistedneg.warc.gz	1921
+twistedneg	web.me.com	2012-04-03 03:39:10	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3238.tar	web.me.com-twistedneg.warc.gz	45485861

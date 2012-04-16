@@ -1,8 +1,8 @@
-clementpinson	gallery.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4157.tar	gallery.me.com-clementpinson.warc.gz	0
-clementpinson	homepage.mac.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4157.tar	homepage.mac.com-clementpinson.warc.gz	0
-clementpinson	public.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4157.tar	public.me.com-clementpinson.warc.gz	0
-clementpinson	web.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4157.tar	web.me.com-clementpinson.warc.gz	0
-persistence_media	gallery.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4157.tar	gallery.me.com-persistence_media.warc.gz	0
-persistence_media	homepage.mac.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4157.tar	homepage.mac.com-persistence_media.warc.gz	0
-persistence_media	public.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4157.tar	public.me.com-persistence_media.warc.gz	0
-persistence_media	web.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4157.tar	web.me.com-persistence_media.warc.gz	0
+clementpinson	gallery.me.com	2012-04-05 08:02:09	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4157.tar	gallery.me.com-clementpinson.warc.gz	2229327871
+clementpinson	homepage.mac.com	2012-04-05 08:02:09	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4157.tar	homepage.mac.com-clementpinson.warc.gz	4932
+clementpinson	public.me.com	2012-04-05 07:40:19	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4157.tar	public.me.com-clementpinson.warc.gz	68816027
+clementpinson	web.me.com	2012-04-05 07:38:26	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4157.tar	web.me.com-clementpinson.warc.gz	13912290
+persistence_media	gallery.me.com	2012-04-05 07:35:02	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4157.tar	gallery.me.com-persistence_media.warc.gz	1101088660
+persistence_media	homepage.mac.com	2012-04-05 07:35:02	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4157.tar	homepage.mac.com-persistence_media.warc.gz	4951
+persistence_media	public.me.com	2012-04-05 07:21:30	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4157.tar	public.me.com-persistence_media.warc.gz	1402771958
+persistence_media	web.me.com	2012-04-05 06:48:48	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4157.tar	web.me.com-persistence_media.warc.gz	212587420

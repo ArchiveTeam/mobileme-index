@@ -1,8 +1,8 @@
-akfried	gallery.me.com		archiveteam-mobileme-hero-395x	archiveteam-mobileme-hero-395x-3950.tar	gallery.me.com-akfried.warc.gz	0
-akfried	homepage.mac.com		archiveteam-mobileme-hero-395x	archiveteam-mobileme-hero-395x-3950.tar	homepage.mac.com-akfried.warc.gz	0
-akfried	public.me.com		archiveteam-mobileme-hero-395x	archiveteam-mobileme-hero-395x-3950.tar	public.me.com-akfried.warc.gz	0
-akfried	web.me.com		archiveteam-mobileme-hero-395x	archiveteam-mobileme-hero-395x-3950.tar	web.me.com-akfried.warc.gz	0
-sytzemeijer	gallery.me.com		archiveteam-mobileme-hero-395x	archiveteam-mobileme-hero-395x-3950.tar	gallery.me.com-sytzemeijer.warc.gz	0
-sytzemeijer	homepage.mac.com		archiveteam-mobileme-hero-395x	archiveteam-mobileme-hero-395x-3950.tar	homepage.mac.com-sytzemeijer.warc.gz	0
-sytzemeijer	public.me.com		archiveteam-mobileme-hero-395x	archiveteam-mobileme-hero-395x-3950.tar	public.me.com-sytzemeijer.warc.gz	0
-sytzemeijer	web.me.com		archiveteam-mobileme-hero-395x	archiveteam-mobileme-hero-395x-3950.tar	web.me.com-sytzemeijer.warc.gz	0
+akfried	gallery.me.com	2012-04-04 20:31:45	archiveteam-mobileme-hero-395x	archiveteam-mobileme-hero-395x-3950.tar	gallery.me.com-akfried.warc.gz	4226005673
+akfried	homepage.mac.com	2012-04-04 20:31:45	archiveteam-mobileme-hero-395x	archiveteam-mobileme-hero-395x-3950.tar	homepage.mac.com-akfried.warc.gz	4887
+akfried	public.me.com	2012-04-04 19:35:06	archiveteam-mobileme-hero-395x	archiveteam-mobileme-hero-395x-3950.tar	public.me.com-akfried.warc.gz	1910
+akfried	web.me.com	2012-04-04 19:35:05	archiveteam-mobileme-hero-395x	archiveteam-mobileme-hero-395x-3950.tar	web.me.com-akfried.warc.gz	29047686
+sytzemeijer	gallery.me.com	2012-04-04 19:24:49	archiveteam-mobileme-hero-395x	archiveteam-mobileme-hero-395x-3950.tar	gallery.me.com-sytzemeijer.warc.gz	50854533
+sytzemeijer	homepage.mac.com	2012-04-04 19:24:49	archiveteam-mobileme-hero-395x	archiveteam-mobileme-hero-395x-3950.tar	homepage.mac.com-sytzemeijer.warc.gz	4929
+sytzemeijer	public.me.com	2012-04-04 19:22:42	archiveteam-mobileme-hero-395x	archiveteam-mobileme-hero-395x-3950.tar	public.me.com-sytzemeijer.warc.gz	1927
+sytzemeijer	web.me.com	2012-04-04 19:22:41	archiveteam-mobileme-hero-395x	archiveteam-mobileme-hero-395x-3950.tar	web.me.com-sytzemeijer.warc.gz	81769928

@@ -1,28 +1,28 @@
-cliffs_world	gallery.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	gallery.me.com-cliffs_world.warc.gz	0
-cliffs_world	homepage.mac.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	homepage.mac.com-cliffs_world.warc.gz	0
-cliffs_world	public.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	public.me.com-cliffs_world.warc.gz	0
-cliffs_world	web.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	web.me.com-cliffs_world.warc.gz	0
-clintbloom	gallery.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	gallery.me.com-clintbloom.warc.gz	0
-clintbloom	homepage.mac.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	homepage.mac.com-clintbloom.warc.gz	0
-clintbloom	public.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	public.me.com-clintbloom.warc.gz	0
-clintbloom	web.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	web.me.com-clintbloom.warc.gz	0
-lmacmac	gallery.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	gallery.me.com-lmacmac.warc.gz	0
-lmacmac	homepage.mac.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	homepage.mac.com-lmacmac.warc.gz	0
-lmacmac	public.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	public.me.com-lmacmac.warc.gz	0
-lmacmac	web.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	web.me.com-lmacmac.warc.gz	0
-mosesbarrios	gallery.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	gallery.me.com-mosesbarrios.warc.gz	0
-mosesbarrios	homepage.mac.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	homepage.mac.com-mosesbarrios.warc.gz	0
-mosesbarrios	public.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	public.me.com-mosesbarrios.warc.gz	0
-mosesbarrios	web.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	web.me.com-mosesbarrios.warc.gz	0
-pajaritoranch	gallery.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	gallery.me.com-pajaritoranch.warc.gz	0
-pajaritoranch	homepage.mac.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	homepage.mac.com-pajaritoranch.warc.gz	0
-pajaritoranch	public.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	public.me.com-pajaritoranch.warc.gz	0
-pajaritoranch	web.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	web.me.com-pajaritoranch.warc.gz	0
-tedregan1	gallery.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	gallery.me.com-tedregan1.warc.gz	0
-tedregan1	homepage.mac.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	homepage.mac.com-tedregan1.warc.gz	0
-tedregan1	public.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	public.me.com-tedregan1.warc.gz	0
-tedregan1	web.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	web.me.com-tedregan1.warc.gz	0
-voyagerradio	gallery.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	gallery.me.com-voyagerradio.warc.gz	0
-voyagerradio	homepage.mac.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	homepage.mac.com-voyagerradio.warc.gz	0
-voyagerradio	public.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	public.me.com-voyagerradio.warc.gz	0
-voyagerradio	web.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	web.me.com-voyagerradio.warc.gz	0
+cliffs_world	gallery.me.com	2012-04-13 11:36:59	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	gallery.me.com-cliffs_world.warc.gz	597281177
+cliffs_world	homepage.mac.com	2012-04-13 11:36:59	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	homepage.mac.com-cliffs_world.warc.gz	4941
+cliffs_world	public.me.com	2012-04-13 11:29:27	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	public.me.com-cliffs_world.warc.gz	1922
+cliffs_world	web.me.com	2012-04-13 11:29:24	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	web.me.com-cliffs_world.warc.gz	279713654
+clintbloom	gallery.me.com	2012-04-13 10:41:53	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	gallery.me.com-clintbloom.warc.gz	1970880455
+clintbloom	homepage.mac.com	2012-04-13 10:42:00	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	homepage.mac.com-clintbloom.warc.gz	135632
+clintbloom	public.me.com	2012-04-13 10:09:21	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	public.me.com-clintbloom.warc.gz	16327459
+clintbloom	web.me.com	2012-04-13 10:09:08	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	web.me.com-clintbloom.warc.gz	21896388
+lmacmac	gallery.me.com	2012-04-13 12:48:00	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	gallery.me.com-lmacmac.warc.gz	2369176868
+lmacmac	homepage.mac.com	2012-04-13 12:48:05	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	homepage.mac.com-lmacmac.warc.gz	88304
+lmacmac	public.me.com	2012-04-13 11:56:58	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	public.me.com-lmacmac.warc.gz	73095674
+lmacmac	web.me.com	2012-04-13 11:56:22	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	web.me.com-lmacmac.warc.gz	41696145
+mosesbarrios	gallery.me.com	2012-04-13 11:48:49	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	gallery.me.com-mosesbarrios.warc.gz	4270
+mosesbarrios	homepage.mac.com	2012-04-13 11:48:49	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	homepage.mac.com-mosesbarrios.warc.gz	4911
+mosesbarrios	public.me.com	2012-04-13 11:48:48	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	public.me.com-mosesbarrios.warc.gz	1925
+mosesbarrios	web.me.com	2012-04-13 11:48:47	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	web.me.com-mosesbarrios.warc.gz	307595226
+pajaritoranch	gallery.me.com	2012-04-13 10:00:48	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	gallery.me.com-pajaritoranch.warc.gz	32252028
+pajaritoranch	homepage.mac.com	2012-04-13 10:00:48	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	homepage.mac.com-pajaritoranch.warc.gz	4928
+pajaritoranch	public.me.com	2012-04-13 09:59:46	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	public.me.com-pajaritoranch.warc.gz	1934
+pajaritoranch	web.me.com	2012-04-13 09:59:45	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	web.me.com-pajaritoranch.warc.gz	47985074
+tedregan1	gallery.me.com	2012-04-13 09:54:22	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	gallery.me.com-tedregan1.warc.gz	310495148
+tedregan1	homepage.mac.com	2012-04-13 09:54:22	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	homepage.mac.com-tedregan1.warc.gz	4923
+tedregan1	public.me.com	2012-04-13 09:50:18	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	public.me.com-tedregan1.warc.gz	1920
+tedregan1	web.me.com	2012-04-13 09:50:17	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	web.me.com-tedregan1.warc.gz	427982
+voyagerradio	gallery.me.com	2012-04-13 09:54:26	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	gallery.me.com-voyagerradio.warc.gz	8376
+voyagerradio	homepage.mac.com	2012-04-13 09:54:26	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	homepage.mac.com-voyagerradio.warc.gz	5183
+voyagerradio	public.me.com	2012-04-13 09:54:25	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	public.me.com-voyagerradio.warc.gz	1927
+voyagerradio	web.me.com	2012-04-13 09:54:25	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7312.tar	web.me.com-voyagerradio.warc.gz	17771

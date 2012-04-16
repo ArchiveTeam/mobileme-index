@@ -1,20 +1,20 @@
-johan.gunnar.aredal	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	gallery.me.com-johan.gunnar.aredal.warc.gz	0
-johan.gunnar.aredal	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	homepage.mac.com-johan.gunnar.aredal.warc.gz	0
-johan.gunnar.aredal	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	public.me.com-johan.gunnar.aredal.warc.gz	0
-johan.gunnar.aredal	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	web.me.com-johan.gunnar.aredal.warc.gz	0
-klugpro	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	gallery.me.com-klugpro.warc.gz	0
-klugpro	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	homepage.mac.com-klugpro.warc.gz	0
-klugpro	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	public.me.com-klugpro.warc.gz	0
-klugpro	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	web.me.com-klugpro.warc.gz	0
-sjgill	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	gallery.me.com-sjgill.warc.gz	0
-sjgill	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	homepage.mac.com-sjgill.warc.gz	0
-sjgill	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	public.me.com-sjgill.warc.gz	0
-sjgill	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	web.me.com-sjgill.warc.gz	0
-tjersey50	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	gallery.me.com-tjersey50.warc.gz	0
-tjersey50	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	homepage.mac.com-tjersey50.warc.gz	0
-tjersey50	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	public.me.com-tjersey50.warc.gz	0
-tjersey50	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	web.me.com-tjersey50.warc.gz	0
-willmeades	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	gallery.me.com-willmeades.warc.gz	0
-willmeades	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	homepage.mac.com-willmeades.warc.gz	0
-willmeades	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	public.me.com-willmeades.warc.gz	0
-willmeades	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	web.me.com-willmeades.warc.gz	0
+johan.gunnar.aredal	gallery.me.com	2012-04-04 21:56:45	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	gallery.me.com-johan.gunnar.aredal.warc.gz	11171637
+johan.gunnar.aredal	homepage.mac.com	2012-04-04 21:56:45	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	homepage.mac.com-johan.gunnar.aredal.warc.gz	4937
+johan.gunnar.aredal	public.me.com	2012-04-04 21:56:20	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	public.me.com-johan.gunnar.aredal.warc.gz	3808
+johan.gunnar.aredal	web.me.com	2012-04-04 21:56:12	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	web.me.com-johan.gunnar.aredal.warc.gz	849131732
+klugpro	gallery.me.com	2012-04-04 22:00:37	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	gallery.me.com-klugpro.warc.gz	30302349
+klugpro	homepage.mac.com	2012-04-04 22:00:37	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	homepage.mac.com-klugpro.warc.gz	4896
+klugpro	public.me.com	2012-04-04 21:59:08	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	public.me.com-klugpro.warc.gz	1915
+klugpro	web.me.com	2012-04-04 21:59:08	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	web.me.com-klugpro.warc.gz	10420476
+sjgill	gallery.me.com	2012-04-04 21:16:06	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	gallery.me.com-sjgill.warc.gz	4255
+sjgill	homepage.mac.com	2012-04-04 21:16:06	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	homepage.mac.com-sjgill.warc.gz	7748
+sjgill	public.me.com	2012-04-04 21:16:05	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	public.me.com-sjgill.warc.gz	1913
+sjgill	web.me.com	2012-04-04 21:15:52	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	web.me.com-sjgill.warc.gz	3258250645
+tjersey50	gallery.me.com	2012-04-04 22:36:35	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	gallery.me.com-tjersey50.warc.gz	77862356
+tjersey50	homepage.mac.com	2012-04-04 22:36:40	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	homepage.mac.com-tjersey50.warc.gz	85886
+tjersey50	public.me.com	2012-04-04 22:34:30	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	public.me.com-tjersey50.warc.gz	1919
+tjersey50	web.me.com	2012-04-04 22:34:29	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	web.me.com-tjersey50.warc.gz	282452254
+willmeades	gallery.me.com	2012-04-04 22:10:50	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	gallery.me.com-willmeades.warc.gz	7717598
+willmeades	homepage.mac.com	2012-04-04 22:10:50	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	homepage.mac.com-willmeades.warc.gz	4897
+willmeades	public.me.com	2012-04-04 22:10:28	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	public.me.com-willmeades.warc.gz	1920
+willmeades	web.me.com	2012-04-04 22:10:28	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3983.tar	web.me.com-willmeades.warc.gz	83040909

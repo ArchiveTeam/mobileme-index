@@ -1,8 +1,8 @@
-dbjanish	gallery.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3138.tar	gallery.me.com-dbjanish.warc.gz	0
-dbjanish	homepage.mac.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3138.tar	homepage.mac.com-dbjanish.warc.gz	0
-dbjanish	public.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3138.tar	public.me.com-dbjanish.warc.gz	0
-dbjanish	web.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3138.tar	web.me.com-dbjanish.warc.gz	0
-stevehendrickson	gallery.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3138.tar	gallery.me.com-stevehendrickson.warc.gz	0
-stevehendrickson	homepage.mac.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3138.tar	homepage.mac.com-stevehendrickson.warc.gz	0
-stevehendrickson	public.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3138.tar	public.me.com-stevehendrickson.warc.gz	0
-stevehendrickson	web.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3138.tar	web.me.com-stevehendrickson.warc.gz	0
+dbjanish	gallery.me.com	2012-04-02 21:23:58	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3138.tar	gallery.me.com-dbjanish.warc.gz	563936599
+dbjanish	homepage.mac.com	2012-04-02 21:23:58	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3138.tar	homepage.mac.com-dbjanish.warc.gz	4917
+dbjanish	public.me.com	2012-04-02 21:01:17	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3138.tar	public.me.com-dbjanish.warc.gz	1918
+dbjanish	web.me.com	2012-04-02 21:01:16	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3138.tar	web.me.com-dbjanish.warc.gz	118728176
+stevehendrickson	gallery.me.com	2012-04-02 22:43:43	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3138.tar	gallery.me.com-stevehendrickson.warc.gz	2665068421
+stevehendrickson	homepage.mac.com	2012-04-02 22:43:44	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3138.tar	homepage.mac.com-stevehendrickson.warc.gz	7891
+stevehendrickson	public.me.com	2012-04-02 22:02:29	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3138.tar	public.me.com-stevehendrickson.warc.gz	318548855
+stevehendrickson	web.me.com	2012-04-02 21:59:44	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3138.tar	web.me.com-stevehendrickson.warc.gz	943718413

@@ -1,12 +1,12 @@
-dallydom	gallery.me.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	gallery.me.com-dallydom.warc.gz	0
-dallydom	homepage.mac.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	homepage.mac.com-dallydom.warc.gz	0
-dallydom	public.me.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	public.me.com-dallydom.warc.gz	0
-dallydom	web.me.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	web.me.com-dallydom.warc.gz	0
-mstaubitz	gallery.me.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	gallery.me.com-mstaubitz.warc.gz	0
-mstaubitz	homepage.mac.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	homepage.mac.com-mstaubitz.warc.gz	0
-mstaubitz	public.me.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	public.me.com-mstaubitz.warc.gz	0
-mstaubitz	web.me.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	web.me.com-mstaubitz.warc.gz	0
-trissmeyer	gallery.me.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	gallery.me.com-trissmeyer.warc.gz	0
-trissmeyer	homepage.mac.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	homepage.mac.com-trissmeyer.warc.gz	0
-trissmeyer	public.me.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	public.me.com-trissmeyer.warc.gz	0
-trissmeyer	web.me.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	web.me.com-trissmeyer.warc.gz	0
+dallydom	gallery.me.com	2012-04-07 19:15:32	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	gallery.me.com-dallydom.warc.gz	4246
+dallydom	homepage.mac.com	2012-04-07 19:15:32	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	homepage.mac.com-dallydom.warc.gz	4920
+dallydom	public.me.com	2012-04-07 19:15:32	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	public.me.com-dallydom.warc.gz	3329
+dallydom	web.me.com	2012-04-07 19:15:32	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	web.me.com-dallydom.warc.gz	17968521
+mstaubitz	gallery.me.com	2012-04-07 19:15:34	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	gallery.me.com-mstaubitz.warc.gz	12333
+mstaubitz	homepage.mac.com	2012-04-07 19:15:34	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	homepage.mac.com-mstaubitz.warc.gz	7154
+mstaubitz	public.me.com	2012-04-07 19:15:34	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	public.me.com-mstaubitz.warc.gz	1915
+mstaubitz	web.me.com	2012-04-07 19:15:34	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	web.me.com-mstaubitz.warc.gz	22530
+trissmeyer	gallery.me.com	2012-04-07 19:55:33	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	gallery.me.com-trissmeyer.warc.gz	4028168300
+trissmeyer	homepage.mac.com	2012-04-07 19:55:34	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	homepage.mac.com-trissmeyer.warc.gz	58924
+trissmeyer	public.me.com	2012-04-07 19:24:52	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	public.me.com-trissmeyer.warc.gz	187689789
+trissmeyer	web.me.com	2012-04-07 19:22:04	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4943.tar	web.me.com-trissmeyer.warc.gz	346037351

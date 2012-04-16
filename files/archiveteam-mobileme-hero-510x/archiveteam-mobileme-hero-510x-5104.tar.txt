@@ -1,32 +1,32 @@
-cstacks	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	gallery.me.com-cstacks.warc.gz	0
-cstacks	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	homepage.mac.com-cstacks.warc.gz	0
-cstacks	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	public.me.com-cstacks.warc.gz	0
-cstacks	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	web.me.com-cstacks.warc.gz	0
-cstaffa1	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	gallery.me.com-cstaffa1.warc.gz	0
-cstaffa1	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	homepage.mac.com-cstaffa1.warc.gz	0
-cstaffa1	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	public.me.com-cstaffa1.warc.gz	0
-cstaffa1	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	web.me.com-cstaffa1.warc.gz	0
-lmbutler11	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	gallery.me.com-lmbutler11.warc.gz	0
-lmbutler11	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	homepage.mac.com-lmbutler11.warc.gz	0
-lmbutler11	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	public.me.com-lmbutler11.warc.gz	0
-lmbutler11	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	web.me.com-lmbutler11.warc.gz	0
-mkcoffey	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	gallery.me.com-mkcoffey.warc.gz	0
-mkcoffey	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	homepage.mac.com-mkcoffey.warc.gz	0
-mkcoffey	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	public.me.com-mkcoffey.warc.gz	0
-mkcoffey	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	web.me.com-mkcoffey.warc.gz	0
-nfgarden	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	gallery.me.com-nfgarden.warc.gz	0
-nfgarden	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	homepage.mac.com-nfgarden.warc.gz	0
-nfgarden	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	public.me.com-nfgarden.warc.gz	0
-nfgarden	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	web.me.com-nfgarden.warc.gz	0
-richardperryman	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	gallery.me.com-richardperryman.warc.gz	0
-richardperryman	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	homepage.mac.com-richardperryman.warc.gz	0
-richardperryman	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	public.me.com-richardperryman.warc.gz	0
-richardperryman	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	web.me.com-richardperryman.warc.gz	0
-robincrosby	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	gallery.me.com-robincrosby.warc.gz	0
-robincrosby	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	homepage.mac.com-robincrosby.warc.gz	0
-robincrosby	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	public.me.com-robincrosby.warc.gz	0
-robincrosby	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	web.me.com-robincrosby.warc.gz	0
-voodoosmiller	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	gallery.me.com-voodoosmiller.warc.gz	0
-voodoosmiller	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	homepage.mac.com-voodoosmiller.warc.gz	0
-voodoosmiller	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	public.me.com-voodoosmiller.warc.gz	0
-voodoosmiller	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	web.me.com-voodoosmiller.warc.gz	0
+cstacks	gallery.me.com	2012-04-08 03:54:28	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	gallery.me.com-cstacks.warc.gz	4268747761
+cstacks	homepage.mac.com	2012-04-08 03:54:29	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	homepage.mac.com-cstacks.warc.gz	4906
+cstacks	public.me.com	2012-04-08 02:10:33	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	public.me.com-cstacks.warc.gz	1914
+cstacks	web.me.com	2012-04-08 02:10:27	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	web.me.com-cstacks.warc.gz	29623029
+cstaffa1	gallery.me.com	2012-04-08 01:45:45	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	gallery.me.com-cstaffa1.warc.gz	1084863178
+cstaffa1	homepage.mac.com	2012-04-08 01:45:46	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	homepage.mac.com-cstaffa1.warc.gz	4904
+cstaffa1	public.me.com	2012-04-08 00:52:46	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	public.me.com-cstaffa1.warc.gz	1911
+cstaffa1	web.me.com	2012-04-08 00:52:44	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	web.me.com-cstaffa1.warc.gz	408708574
+lmbutler11	gallery.me.com	2012-04-08 00:31:23	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	gallery.me.com-lmbutler11.warc.gz	13298285
+lmbutler11	homepage.mac.com	2012-04-08 00:31:24	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	homepage.mac.com-lmbutler11.warc.gz	4926
+lmbutler11	public.me.com	2012-04-08 00:31:06	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	public.me.com-lmbutler11.warc.gz	1926
+lmbutler11	web.me.com	2012-04-08 00:31:04	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	web.me.com-lmbutler11.warc.gz	377090292
+mkcoffey	gallery.me.com	2012-04-07 22:17:35	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	gallery.me.com-mkcoffey.warc.gz	4280
+mkcoffey	homepage.mac.com	2012-04-07 22:17:35	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	homepage.mac.com-mkcoffey.warc.gz	4898
+mkcoffey	public.me.com	2012-04-07 22:17:34	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	public.me.com-mkcoffey.warc.gz	1918
+mkcoffey	web.me.com	2012-04-07 22:17:33	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	web.me.com-mkcoffey.warc.gz	723732
+nfgarden	gallery.me.com	2012-04-08 01:45:51	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	gallery.me.com-nfgarden.warc.gz	8344
+nfgarden	homepage.mac.com	2012-04-08 01:45:51	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	homepage.mac.com-nfgarden.warc.gz	5163
+nfgarden	public.me.com	2012-04-08 01:45:50	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	public.me.com-nfgarden.warc.gz	1917
+nfgarden	web.me.com	2012-04-08 01:45:49	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	web.me.com-nfgarden.warc.gz	17764
+richardperryman	gallery.me.com	2012-04-07 22:08:35	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	gallery.me.com-richardperryman.warc.gz	5022
+richardperryman	homepage.mac.com	2012-04-07 22:08:35	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	homepage.mac.com-richardperryman.warc.gz	4936
+richardperryman	public.me.com	2012-04-07 22:08:34	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	public.me.com-richardperryman.warc.gz	1931
+richardperryman	web.me.com	2012-04-07 22:08:33	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	web.me.com-richardperryman.warc.gz	576122
+robincrosby	gallery.me.com	2012-04-08 01:49:14	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	gallery.me.com-robincrosby.warc.gz	5581
+robincrosby	homepage.mac.com	2012-04-08 01:49:15	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	homepage.mac.com-robincrosby.warc.gz	4923
+robincrosby	public.me.com	2012-04-08 01:49:12	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	public.me.com-robincrosby.warc.gz	1921
+robincrosby	web.me.com	2012-04-08 01:49:11	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	web.me.com-robincrosby.warc.gz	24770820
+voodoosmiller	gallery.me.com	2012-04-07 22:16:41	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	gallery.me.com-voodoosmiller.warc.gz	4258
+voodoosmiller	homepage.mac.com	2012-04-07 22:16:42	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	homepage.mac.com-voodoosmiller.warc.gz	4930
+voodoosmiller	public.me.com	2012-04-07 22:16:41	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	public.me.com-voodoosmiller.warc.gz	1919
+voodoosmiller	web.me.com	2012-04-07 22:16:40	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5104.tar	web.me.com-voodoosmiller.warc.gz	162452734

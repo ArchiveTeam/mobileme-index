@@ -1,8 +1,8 @@
-arjen_vanderree	gallery.me.com		archiveteam-mobileme-hero-709x	archiveteam-mobileme-hero-709x-7090.tar	gallery.me.com-arjen_vanderree.warc.gz	0
-arjen_vanderree	homepage.mac.com		archiveteam-mobileme-hero-709x	archiveteam-mobileme-hero-709x-7090.tar	homepage.mac.com-arjen_vanderree.warc.gz	0
-arjen_vanderree	public.me.com		archiveteam-mobileme-hero-709x	archiveteam-mobileme-hero-709x-7090.tar	public.me.com-arjen_vanderree.warc.gz	0
-arjen_vanderree	web.me.com		archiveteam-mobileme-hero-709x	archiveteam-mobileme-hero-709x-7090.tar	web.me.com-arjen_vanderree.warc.gz	0
-geirgj	gallery.me.com		archiveteam-mobileme-hero-709x	archiveteam-mobileme-hero-709x-7090.tar	gallery.me.com-geirgj.warc.gz	0
-geirgj	homepage.mac.com		archiveteam-mobileme-hero-709x	archiveteam-mobileme-hero-709x-7090.tar	homepage.mac.com-geirgj.warc.gz	0
-geirgj	public.me.com		archiveteam-mobileme-hero-709x	archiveteam-mobileme-hero-709x-7090.tar	public.me.com-geirgj.warc.gz	0
-geirgj	web.me.com		archiveteam-mobileme-hero-709x	archiveteam-mobileme-hero-709x-7090.tar	web.me.com-geirgj.warc.gz	0
+arjen_vanderree	gallery.me.com	2012-04-13 03:42:07	archiveteam-mobileme-hero-709x	archiveteam-mobileme-hero-709x-7090.tar	gallery.me.com-arjen_vanderree.warc.gz	638940909
+arjen_vanderree	homepage.mac.com	2012-04-13 03:42:07	archiveteam-mobileme-hero-709x	archiveteam-mobileme-hero-709x-7090.tar	homepage.mac.com-arjen_vanderree.warc.gz	3635
+arjen_vanderree	public.me.com	2012-04-13 03:32:20	archiveteam-mobileme-hero-709x	archiveteam-mobileme-hero-709x-7090.tar	public.me.com-arjen_vanderree.warc.gz	4838
+arjen_vanderree	web.me.com	2012-04-13 03:32:05	archiveteam-mobileme-hero-709x	archiveteam-mobileme-hero-709x-7090.tar	web.me.com-arjen_vanderree.warc.gz	3494530177
+geirgj	gallery.me.com	2012-04-13 02:30:58	archiveteam-mobileme-hero-709x	archiveteam-mobileme-hero-709x-7090.tar	gallery.me.com-geirgj.warc.gz	5024
+geirgj	homepage.mac.com	2012-04-13 02:30:58	archiveteam-mobileme-hero-709x	archiveteam-mobileme-hero-709x-7090.tar	homepage.mac.com-geirgj.warc.gz	4907
+geirgj	public.me.com	2012-04-13 02:30:57	archiveteam-mobileme-hero-709x	archiveteam-mobileme-hero-709x-7090.tar	public.me.com-geirgj.warc.gz	1918
+geirgj	web.me.com	2012-04-13 02:30:56	archiveteam-mobileme-hero-709x	archiveteam-mobileme-hero-709x-7090.tar	web.me.com-geirgj.warc.gz	811523788

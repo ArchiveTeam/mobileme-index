@@ -1,28 +1,28 @@
-andrew_emma	gallery.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	gallery.me.com-andrew_emma.warc.gz	0
-andrew_emma	homepage.mac.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	homepage.mac.com-andrew_emma.warc.gz	0
-andrew_emma	public.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	public.me.com-andrew_emma.warc.gz	0
-andrew_emma	web.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	web.me.com-andrew_emma.warc.gz	0
-benmcnully	gallery.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	gallery.me.com-benmcnully.warc.gz	0
-benmcnully	homepage.mac.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	homepage.mac.com-benmcnully.warc.gz	0
-benmcnully	public.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	public.me.com-benmcnully.warc.gz	0
-benmcnully	web.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	web.me.com-benmcnully.warc.gz	0
-glewmac	gallery.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	gallery.me.com-glewmac.warc.gz	0
-glewmac	homepage.mac.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	homepage.mac.com-glewmac.warc.gz	0
-glewmac	public.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	public.me.com-glewmac.warc.gz	0
-glewmac	web.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	web.me.com-glewmac.warc.gz	0
-jspiro	gallery.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	gallery.me.com-jspiro.warc.gz	0
-jspiro	homepage.mac.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	homepage.mac.com-jspiro.warc.gz	0
-jspiro	public.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	public.me.com-jspiro.warc.gz	0
-jspiro	web.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	web.me.com-jspiro.warc.gz	0
-natradapattykan	gallery.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	gallery.me.com-natradapattykan.warc.gz	0
-natradapattykan	homepage.mac.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	homepage.mac.com-natradapattykan.warc.gz	0
-natradapattykan	public.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	public.me.com-natradapattykan.warc.gz	0
-natradapattykan	web.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	web.me.com-natradapattykan.warc.gz	0
-rframpy	gallery.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	gallery.me.com-rframpy.warc.gz	0
-rframpy	homepage.mac.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	homepage.mac.com-rframpy.warc.gz	0
-rframpy	public.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	public.me.com-rframpy.warc.gz	0
-rframpy	web.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	web.me.com-rframpy.warc.gz	0
-stephan.r	gallery.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	gallery.me.com-stephan.r.warc.gz	0
-stephan.r	homepage.mac.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	homepage.mac.com-stephan.r.warc.gz	0
-stephan.r	public.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	public.me.com-stephan.r.warc.gz	0
-stephan.r	web.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	web.me.com-stephan.r.warc.gz	0
+andrew_emma	gallery.me.com	2012-04-12 11:05:42	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	gallery.me.com-andrew_emma.warc.gz	5765
+andrew_emma	homepage.mac.com	2012-04-12 11:05:43	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	homepage.mac.com-andrew_emma.warc.gz	7874
+andrew_emma	public.me.com	2012-04-12 11:05:41	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	public.me.com-andrew_emma.warc.gz	23633141
+andrew_emma	web.me.com	2012-04-12 11:05:35	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	web.me.com-andrew_emma.warc.gz	14071195
+benmcnully	gallery.me.com	2012-04-12 11:15:23	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	gallery.me.com-benmcnully.warc.gz	6548335
+benmcnully	homepage.mac.com	2012-04-12 11:15:23	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	homepage.mac.com-benmcnully.warc.gz	4915
+benmcnully	public.me.com	2012-04-12 11:15:07	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	public.me.com-benmcnully.warc.gz	363788914
+benmcnully	web.me.com	2012-04-12 11:09:05	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	web.me.com-benmcnully.warc.gz	132181621
+glewmac	gallery.me.com	2012-04-12 13:24:20	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	gallery.me.com-glewmac.warc.gz	2016912306
+glewmac	homepage.mac.com	2012-04-12 13:24:23	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	homepage.mac.com-glewmac.warc.gz	100899
+glewmac	public.me.com	2012-04-12 12:50:16	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	public.me.com-glewmac.warc.gz	1913
+glewmac	web.me.com	2012-04-12 12:48:41	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	web.me.com-glewmac.warc.gz	2319401539
+jspiro	gallery.me.com	2012-04-12 11:17:39	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	gallery.me.com-jspiro.warc.gz	20022275
+jspiro	homepage.mac.com	2012-04-12 11:17:44	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	homepage.mac.com-jspiro.warc.gz	705878
+jspiro	public.me.com	2012-04-12 11:16:06	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	public.me.com-jspiro.warc.gz	1912
+jspiro	web.me.com	2012-04-12 11:16:05	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	web.me.com-jspiro.warc.gz	1779841
+natradapattykan	gallery.me.com	2012-04-12 11:03:59	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	gallery.me.com-natradapattykan.warc.gz	4293
+natradapattykan	homepage.mac.com	2012-04-12 11:03:59	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	homepage.mac.com-natradapattykan.warc.gz	4940
+natradapattykan	public.me.com	2012-04-12 11:03:58	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	public.me.com-natradapattykan.warc.gz	1932
+natradapattykan	web.me.com	2012-04-12 11:03:57	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	web.me.com-natradapattykan.warc.gz	136016551
+rframpy	gallery.me.com	2012-04-12 10:48:37	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	gallery.me.com-rframpy.warc.gz	698684967
+rframpy	homepage.mac.com	2012-04-12 10:48:38	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	homepage.mac.com-rframpy.warc.gz	4911
+rframpy	public.me.com	2012-04-12 10:31:11	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	public.me.com-rframpy.warc.gz	31044746
+rframpy	web.me.com	2012-04-12 10:30:52	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	web.me.com-rframpy.warc.gz	85561249
+stephan.r	gallery.me.com	2012-04-12 10:19:12	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	gallery.me.com-stephan.r.warc.gz	5220
+stephan.r	homepage.mac.com	2012-04-12 10:19:12	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	homepage.mac.com-stephan.r.warc.gz	4911
+stephan.r	public.me.com	2012-04-12 10:19:11	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	public.me.com-stephan.r.warc.gz	1917
+stephan.r	web.me.com	2012-04-12 10:19:09	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6792.tar	web.me.com-stephan.r.warc.gz	5196755

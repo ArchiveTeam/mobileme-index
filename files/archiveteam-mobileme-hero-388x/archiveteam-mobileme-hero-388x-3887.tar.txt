@@ -1,8 +1,8 @@
-aaronmchone	gallery.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3887.tar	gallery.me.com-aaronmchone.warc.gz	0
-aaronmchone	homepage.mac.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3887.tar	homepage.mac.com-aaronmchone.warc.gz	0
-aaronmchone	public.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3887.tar	public.me.com-aaronmchone.warc.gz	0
-aaronmchone	web.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3887.tar	web.me.com-aaronmchone.warc.gz	0
-jheaps	gallery.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3887.tar	gallery.me.com-jheaps.warc.gz	0
-jheaps	homepage.mac.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3887.tar	homepage.mac.com-jheaps.warc.gz	0
-jheaps	public.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3887.tar	public.me.com-jheaps.warc.gz	0
-jheaps	web.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3887.tar	web.me.com-jheaps.warc.gz	0
+aaronmchone	gallery.me.com	2012-04-04 16:51:19	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3887.tar	gallery.me.com-aaronmchone.warc.gz	3792433491
+aaronmchone	homepage.mac.com	2012-04-04 16:51:19	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3887.tar	homepage.mac.com-aaronmchone.warc.gz	4926
+aaronmchone	public.me.com	2012-04-04 15:54:04	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3887.tar	public.me.com-aaronmchone.warc.gz	35269875
+aaronmchone	web.me.com	2012-04-04 15:53:16	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3887.tar	web.me.com-aaronmchone.warc.gz	1076058803
+jheaps	gallery.me.com	2012-04-04 14:45:19	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3887.tar	gallery.me.com-jheaps.warc.gz	686653151
+jheaps	homepage.mac.com	2012-04-04 14:45:19	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3887.tar	homepage.mac.com-jheaps.warc.gz	4887
+jheaps	public.me.com	2012-04-04 14:35:17	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3887.tar	public.me.com-jheaps.warc.gz	1917
+jheaps	web.me.com	2012-04-04 14:35:17	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3887.tar	web.me.com-jheaps.warc.gz	7935351

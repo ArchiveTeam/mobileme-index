@@ -1,28 +1,28 @@
-aaboyle	gallery.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	gallery.me.com-aaboyle.warc.gz	0
-aaboyle	homepage.mac.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	homepage.mac.com-aaboyle.warc.gz	0
-aaboyle	public.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	public.me.com-aaboyle.warc.gz	0
-aaboyle	web.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	web.me.com-aaboyle.warc.gz	0
-c257080008	gallery.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	gallery.me.com-c257080008.warc.gz	0
-c257080008	homepage.mac.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	homepage.mac.com-c257080008.warc.gz	0
-c257080008	public.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	public.me.com-c257080008.warc.gz	0
-c257080008	web.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	web.me.com-c257080008.warc.gz	0
-dirk.fleischmann	gallery.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	gallery.me.com-dirk.fleischmann.warc.gz	0
-dirk.fleischmann	homepage.mac.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	homepage.mac.com-dirk.fleischmann.warc.gz	0
-dirk.fleischmann	public.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	public.me.com-dirk.fleischmann.warc.gz	0
-dirk.fleischmann	web.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	web.me.com-dirk.fleischmann.warc.gz	0
-gregdean_prod.mgmt	gallery.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	gallery.me.com-gregdean_prod.mgmt.warc.gz	0
-gregdean_prod.mgmt	homepage.mac.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	homepage.mac.com-gregdean_prod.mgmt.warc.gz	0
-gregdean_prod.mgmt	public.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	public.me.com-gregdean_prod.mgmt.warc.gz	0
-gregdean_prod.mgmt	web.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	web.me.com-gregdean_prod.mgmt.warc.gz	0
-haroldlewis	gallery.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	gallery.me.com-haroldlewis.warc.gz	0
-haroldlewis	homepage.mac.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	homepage.mac.com-haroldlewis.warc.gz	0
-haroldlewis	public.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	public.me.com-haroldlewis.warc.gz	0
-haroldlewis	web.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	web.me.com-haroldlewis.warc.gz	0
-hi2yuko	gallery.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	gallery.me.com-hi2yuko.warc.gz	0
-hi2yuko	homepage.mac.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	homepage.mac.com-hi2yuko.warc.gz	0
-hi2yuko	public.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	public.me.com-hi2yuko.warc.gz	0
-hi2yuko	web.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	web.me.com-hi2yuko.warc.gz	0
-rfrear	gallery.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	gallery.me.com-rfrear.warc.gz	0
-rfrear	homepage.mac.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	homepage.mac.com-rfrear.warc.gz	0
-rfrear	public.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	public.me.com-rfrear.warc.gz	0
-rfrear	web.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	web.me.com-rfrear.warc.gz	0
+aaboyle	gallery.me.com	2012-04-13 13:55:34	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	gallery.me.com-aaboyle.warc.gz	229219881
+aaboyle	homepage.mac.com	2012-04-13 13:55:34	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	homepage.mac.com-aaboyle.warc.gz	4883
+aaboyle	public.me.com	2012-04-13 13:41:14	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	public.me.com-aaboyle.warc.gz	1907
+aaboyle	web.me.com	2012-04-13 13:41:13	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	web.me.com-aaboyle.warc.gz	346001779
+c257080008	gallery.me.com	2012-04-13 13:55:39	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	gallery.me.com-c257080008.warc.gz	8359
+c257080008	homepage.mac.com	2012-04-13 13:55:39	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	homepage.mac.com-c257080008.warc.gz	5169
+c257080008	public.me.com	2012-04-13 13:55:38	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	public.me.com-c257080008.warc.gz	1914
+c257080008	web.me.com	2012-04-13 13:55:37	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	web.me.com-c257080008.warc.gz	17741
+dirk.fleischmann	gallery.me.com	2012-04-13 18:01:13	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	gallery.me.com-dirk.fleischmann.warc.gz	210937022
+dirk.fleischmann	homepage.mac.com	2012-04-13 18:01:14	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	homepage.mac.com-dirk.fleischmann.warc.gz	4924
+dirk.fleischmann	public.me.com	2012-04-13 17:56:44	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	public.me.com-dirk.fleischmann.warc.gz	4369033412
+dirk.fleischmann	web.me.com	2012-04-13 16:04:49	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	web.me.com-dirk.fleischmann.warc.gz	790293072
+gregdean_prod.mgmt	gallery.me.com	2012-04-13 12:43:10	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	gallery.me.com-gregdean_prod.mgmt.warc.gz	4303
+gregdean_prod.mgmt	homepage.mac.com	2012-04-13 12:44:02	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	homepage.mac.com-gregdean_prod.mgmt.warc.gz	4890421
+gregdean_prod.mgmt	public.me.com	2012-04-13 12:43:09	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	public.me.com-gregdean_prod.mgmt.warc.gz	57644452
+gregdean_prod.mgmt	web.me.com	2012-04-13 12:40:20	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	web.me.com-gregdean_prod.mgmt.warc.gz	7541
+haroldlewis	gallery.me.com	2012-04-13 12:45:54	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	gallery.me.com-haroldlewis.warc.gz	867447
+haroldlewis	homepage.mac.com	2012-04-13 12:46:06	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	homepage.mac.com-haroldlewis.warc.gz	398677
+haroldlewis	public.me.com	2012-04-13 12:45:49	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	public.me.com-haroldlewis.warc.gz	19318719
+haroldlewis	web.me.com	2012-04-13 12:45:20	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	web.me.com-haroldlewis.warc.gz	891939
+hi2yuko	gallery.me.com	2012-04-13 15:07:51	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	gallery.me.com-hi2yuko.warc.gz	5409
+hi2yuko	homepage.mac.com	2012-04-13 15:07:51	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	homepage.mac.com-hi2yuko.warc.gz	4906
+hi2yuko	public.me.com	2012-04-13 15:07:49	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	public.me.com-hi2yuko.warc.gz	1913
+hi2yuko	web.me.com	2012-04-13 15:07:43	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	web.me.com-hi2yuko.warc.gz	132459933
+rfrear	gallery.me.com	2012-04-13 14:14:28	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	gallery.me.com-rfrear.warc.gz	142238365
+rfrear	homepage.mac.com	2012-04-13 14:14:29	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	homepage.mac.com-rfrear.warc.gz	4892
+rfrear	public.me.com	2012-04-13 14:03:54	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	public.me.com-rfrear.warc.gz	1916
+rfrear	web.me.com	2012-04-13 14:03:54	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7419.tar	web.me.com-rfrear.warc.gz	88977413

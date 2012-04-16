@@ -1,16 +1,16 @@
-aasb.cdl	gallery.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	gallery.me.com-aasb.cdl.warc.gz	0
-aasb.cdl	homepage.mac.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	homepage.mac.com-aasb.cdl.warc.gz	0
-aasb.cdl	public.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	public.me.com-aasb.cdl.warc.gz	0
-aasb.cdl	web.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	web.me.com-aasb.cdl.warc.gz	0
-gitana	gallery.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	gallery.me.com-gitana.warc.gz	0
-gitana	homepage.mac.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	homepage.mac.com-gitana.warc.gz	0
-gitana	public.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	public.me.com-gitana.warc.gz	0
-gitana	web.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	web.me.com-gitana.warc.gz	0
-regimentsdupasse	gallery.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	gallery.me.com-regimentsdupasse.warc.gz	0
-regimentsdupasse	homepage.mac.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	homepage.mac.com-regimentsdupasse.warc.gz	0
-regimentsdupasse	public.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	public.me.com-regimentsdupasse.warc.gz	0
-regimentsdupasse	web.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	web.me.com-regimentsdupasse.warc.gz	0
-xxshawnxx	gallery.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	gallery.me.com-xxshawnxx.warc.gz	0
-xxshawnxx	homepage.mac.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	homepage.mac.com-xxshawnxx.warc.gz	0
-xxshawnxx	public.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	public.me.com-xxshawnxx.warc.gz	0
-xxshawnxx	web.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	web.me.com-xxshawnxx.warc.gz	0
+aasb.cdl	gallery.me.com	2012-04-03 21:25:54	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	gallery.me.com-aasb.cdl.warc.gz	4235
+aasb.cdl	homepage.mac.com	2012-04-03 21:25:55	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	homepage.mac.com-aasb.cdl.warc.gz	4901
+aasb.cdl	public.me.com	2012-04-03 21:25:53	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	public.me.com-aasb.cdl.warc.gz	1913
+aasb.cdl	web.me.com	2012-04-03 21:25:48	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	web.me.com-aasb.cdl.warc.gz	474980547
+gitana	gallery.me.com	2012-04-04 01:17:09	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	gallery.me.com-gitana.warc.gz	4263
+gitana	homepage.mac.com	2012-04-04 01:17:10	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	homepage.mac.com-gitana.warc.gz	7817
+gitana	public.me.com	2012-04-04 01:17:07	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	public.me.com-gitana.warc.gz	5304339171
+gitana	web.me.com	2012-04-03 21:27:09	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	web.me.com-gitana.warc.gz	3552177
+regimentsdupasse	gallery.me.com	2012-04-03 20:42:53	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	gallery.me.com-regimentsdupasse.warc.gz	253564005
+regimentsdupasse	homepage.mac.com	2012-04-03 20:42:54	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	homepage.mac.com-regimentsdupasse.warc.gz	4931
+regimentsdupasse	public.me.com	2012-04-03 20:39:26	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	public.me.com-regimentsdupasse.warc.gz	31758296
+regimentsdupasse	web.me.com	2012-04-03 20:39:09	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	web.me.com-regimentsdupasse.warc.gz	448353518
+xxshawnxx	gallery.me.com	2012-04-03 19:31:05	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	gallery.me.com-xxshawnxx.warc.gz	46548417
+xxshawnxx	homepage.mac.com	2012-04-03 19:31:06	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	homepage.mac.com-xxshawnxx.warc.gz	7731
+xxshawnxx	public.me.com	2012-04-03 19:27:35	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	public.me.com-xxshawnxx.warc.gz	169379407
+xxshawnxx	web.me.com	2012-04-03 19:26:37	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3619.tar	web.me.com-xxshawnxx.warc.gz	18450365

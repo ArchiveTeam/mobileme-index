@@ -1,20 +1,20 @@
-ipod.hifi	gallery.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	gallery.me.com-ipod.hifi.warc.gz	0
-ipod.hifi	homepage.mac.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	homepage.mac.com-ipod.hifi.warc.gz	0
-ipod.hifi	public.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	public.me.com-ipod.hifi.warc.gz	0
-ipod.hifi	web.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	web.me.com-ipod.hifi.warc.gz	0
-jdex3	gallery.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	gallery.me.com-jdex3.warc.gz	0
-jdex3	homepage.mac.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	homepage.mac.com-jdex3.warc.gz	0
-jdex3	public.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	public.me.com-jdex3.warc.gz	0
-jdex3	web.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	web.me.com-jdex3.warc.gz	0
-maxinno2007	gallery.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	gallery.me.com-maxinno2007.warc.gz	0
-maxinno2007	homepage.mac.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	homepage.mac.com-maxinno2007.warc.gz	0
-maxinno2007	public.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	public.me.com-maxinno2007.warc.gz	0
-maxinno2007	web.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	web.me.com-maxinno2007.warc.gz	0
-terry.harrison	gallery.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	gallery.me.com-terry.harrison.warc.gz	0
-terry.harrison	homepage.mac.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	homepage.mac.com-terry.harrison.warc.gz	0
-terry.harrison	public.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	public.me.com-terry.harrison.warc.gz	0
-terry.harrison	web.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	web.me.com-terry.harrison.warc.gz	0
-tuohus7	gallery.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	gallery.me.com-tuohus7.warc.gz	0
-tuohus7	homepage.mac.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	homepage.mac.com-tuohus7.warc.gz	0
-tuohus7	public.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	public.me.com-tuohus7.warc.gz	0
-tuohus7	web.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	web.me.com-tuohus7.warc.gz	0
+ipod.hifi	gallery.me.com	2012-04-04 03:30:58	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	gallery.me.com-ipod.hifi.warc.gz	8351
+ipod.hifi	homepage.mac.com	2012-04-04 03:30:58	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	homepage.mac.com-ipod.hifi.warc.gz	5156
+ipod.hifi	public.me.com	2012-04-04 03:30:57	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	public.me.com-ipod.hifi.warc.gz	1909
+ipod.hifi	web.me.com	2012-04-04 03:30:57	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	web.me.com-ipod.hifi.warc.gz	17741
+jdex3	gallery.me.com	2012-04-04 05:20:17	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	gallery.me.com-jdex3.warc.gz	2128363017
+jdex3	homepage.mac.com	2012-04-04 05:20:18	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	homepage.mac.com-jdex3.warc.gz	4909
+jdex3	public.me.com	2012-04-04 04:53:23	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	public.me.com-jdex3.warc.gz	1910
+jdex3	web.me.com	2012-04-04 04:53:14	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	web.me.com-jdex3.warc.gz	892032840
+maxinno2007	gallery.me.com	2012-04-04 03:30:54	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	gallery.me.com-maxinno2007.warc.gz	476730232
+maxinno2007	homepage.mac.com	2012-04-04 03:30:56	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	homepage.mac.com-maxinno2007.warc.gz	54637
+maxinno2007	public.me.com	2012-04-04 03:21:10	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	public.me.com-maxinno2007.warc.gz	46886762
+maxinno2007	web.me.com	2012-04-04 03:20:23	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	web.me.com-maxinno2007.warc.gz	216782141
+terry.harrison	gallery.me.com	2012-04-04 04:13:34	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	gallery.me.com-terry.harrison.warc.gz	2177756868
+terry.harrison	homepage.mac.com	2012-04-04 04:13:34	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	homepage.mac.com-terry.harrison.warc.gz	4931
+terry.harrison	public.me.com	2012-04-04 03:40:13	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	public.me.com-terry.harrison.warc.gz	216139513
+terry.harrison	web.me.com	2012-04-04 03:39:00	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	web.me.com-terry.harrison.warc.gz	54108551
+tuohus7	gallery.me.com	2012-04-04 03:31:00	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	gallery.me.com-tuohus7.warc.gz	12298
+tuohus7	homepage.mac.com	2012-04-04 03:31:00	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	homepage.mac.com-tuohus7.warc.gz	7127
+tuohus7	public.me.com	2012-04-04 03:31:00	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	public.me.com-tuohus7.warc.gz	1908
+tuohus7	web.me.com	2012-04-04 03:30:59	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3687.tar	web.me.com-tuohus7.warc.gz	22418

@@ -1,20 +1,20 @@
-cjsigmund	gallery.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	gallery.me.com-cjsigmund.warc.gz	0
-cjsigmund	homepage.mac.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	homepage.mac.com-cjsigmund.warc.gz	0
-cjsigmund	public.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	public.me.com-cjsigmund.warc.gz	0
-cjsigmund	web.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	web.me.com-cjsigmund.warc.gz	0
-j.keuning	gallery.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	gallery.me.com-j.keuning.warc.gz	0
-j.keuning	homepage.mac.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	homepage.mac.com-j.keuning.warc.gz	0
-j.keuning	public.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	public.me.com-j.keuning.warc.gz	0
-j.keuning	web.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	web.me.com-j.keuning.warc.gz	0
-markl120	gallery.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	gallery.me.com-markl120.warc.gz	0
-markl120	homepage.mac.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	homepage.mac.com-markl120.warc.gz	0
-markl120	public.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	public.me.com-markl120.warc.gz	0
-markl120	web.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	web.me.com-markl120.warc.gz	0
-mwalk	gallery.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	gallery.me.com-mwalk.warc.gz	0
-mwalk	homepage.mac.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	homepage.mac.com-mwalk.warc.gz	0
-mwalk	public.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	public.me.com-mwalk.warc.gz	0
-mwalk	web.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	web.me.com-mwalk.warc.gz	0
-product1977	gallery.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	gallery.me.com-product1977.warc.gz	0
-product1977	homepage.mac.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	homepage.mac.com-product1977.warc.gz	0
-product1977	public.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	public.me.com-product1977.warc.gz	0
-product1977	web.me.com		archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	web.me.com-product1977.warc.gz	0
+cjsigmund	gallery.me.com	2012-04-05 10:41:54	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	gallery.me.com-cjsigmund.warc.gz	387761513
+cjsigmund	homepage.mac.com	2012-04-05 10:41:54	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	homepage.mac.com-cjsigmund.warc.gz	4922
+cjsigmund	public.me.com	2012-04-05 10:36:58	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	public.me.com-cjsigmund.warc.gz	1917
+cjsigmund	web.me.com	2012-04-05 10:36:58	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	web.me.com-cjsigmund.warc.gz	144949449
+j.keuning	gallery.me.com	2012-04-05 10:24:18	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	gallery.me.com-j.keuning.warc.gz	313376186
+j.keuning	homepage.mac.com	2012-04-05 10:24:24	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	homepage.mac.com-j.keuning.warc.gz	138516
+j.keuning	public.me.com	2012-04-05 10:16:40	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	public.me.com-j.keuning.warc.gz	1920
+j.keuning	web.me.com	2012-04-05 10:16:39	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	web.me.com-j.keuning.warc.gz	16881698
+markl120	gallery.me.com	2012-04-05 10:29:35	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	gallery.me.com-markl120.warc.gz	196240612
+markl120	homepage.mac.com	2012-04-05 10:29:35	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	homepage.mac.com-markl120.warc.gz	4913
+markl120	public.me.com	2012-04-05 10:28:28	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	public.me.com-markl120.warc.gz	1911
+markl120	web.me.com	2012-04-05 10:28:26	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	web.me.com-markl120.warc.gz	208958727
+mwalk	gallery.me.com	2012-04-05 10:53:08	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	gallery.me.com-mwalk.warc.gz	4260
+mwalk	homepage.mac.com	2012-04-05 10:53:08	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	homepage.mac.com-mwalk.warc.gz	4903
+mwalk	public.me.com	2012-04-05 10:53:07	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	public.me.com-mwalk.warc.gz	1913
+mwalk	web.me.com	2012-04-05 10:53:07	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	web.me.com-mwalk.warc.gz	103262762
+product1977	gallery.me.com	2012-04-05 13:06:16	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	gallery.me.com-product1977.warc.gz	2232422598
+product1977	homepage.mac.com	2012-04-05 13:06:16	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	homepage.mac.com-product1977.warc.gz	4914
+product1977	public.me.com	2012-04-05 11:47:52	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	public.me.com-product1977.warc.gz	3336
+product1977	web.me.com	2012-04-05 11:46:49	archiveteam-mobileme-hero-425x	archiveteam-mobileme-hero-425x-4253.tar	web.me.com-product1977.warc.gz	995639375

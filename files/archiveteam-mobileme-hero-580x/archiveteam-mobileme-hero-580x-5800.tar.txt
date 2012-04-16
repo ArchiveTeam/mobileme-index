@@ -1,12 +1,12 @@
-daniel.ek	gallery.me.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	gallery.me.com-daniel.ek.warc.gz	0
-daniel.ek	homepage.mac.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	homepage.mac.com-daniel.ek.warc.gz	0
-daniel.ek	public.me.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	public.me.com-daniel.ek.warc.gz	0
-daniel.ek	web.me.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	web.me.com-daniel.ek.warc.gz	0
-endres	gallery.me.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	gallery.me.com-endres.warc.gz	0
-endres	homepage.mac.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	homepage.mac.com-endres.warc.gz	0
-endres	public.me.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	public.me.com-endres.warc.gz	0
-endres	web.me.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	web.me.com-endres.warc.gz	0
-hectorjmedina	gallery.me.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	gallery.me.com-hectorjmedina.warc.gz	0
-hectorjmedina	homepage.mac.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	homepage.mac.com-hectorjmedina.warc.gz	0
-hectorjmedina	public.me.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	public.me.com-hectorjmedina.warc.gz	0
-hectorjmedina	web.me.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	web.me.com-hectorjmedina.warc.gz	0
+daniel.ek	gallery.me.com	2012-04-10 02:24:32	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	gallery.me.com-daniel.ek.warc.gz	12310
+daniel.ek	homepage.mac.com	2012-04-10 02:24:34	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	homepage.mac.com-daniel.ek.warc.gz	7145
+daniel.ek	public.me.com	2012-04-10 02:24:30	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	public.me.com-daniel.ek.warc.gz	1919
+daniel.ek	web.me.com	2012-04-10 02:24:27	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	web.me.com-daniel.ek.warc.gz	22411
+endres	gallery.me.com	2012-04-10 06:02:38	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	gallery.me.com-endres.warc.gz	2240908364
+endres	homepage.mac.com	2012-04-10 06:05:18	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	homepage.mac.com-endres.warc.gz	1751293
+endres	public.me.com	2012-04-10 04:15:11	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	public.me.com-endres.warc.gz	27665334
+endres	web.me.com	2012-04-10 04:11:35	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	web.me.com-endres.warc.gz	2037266190
+hectorjmedina	gallery.me.com	2012-04-10 02:24:38	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	gallery.me.com-hectorjmedina.warc.gz	8364
+hectorjmedina	homepage.mac.com	2012-04-10 02:24:38	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	homepage.mac.com-hectorjmedina.warc.gz	5170
+hectorjmedina	public.me.com	2012-04-10 02:24:37	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	public.me.com-hectorjmedina.warc.gz	1929
+hectorjmedina	web.me.com	2012-04-10 02:24:37	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5800.tar	web.me.com-hectorjmedina.warc.gz	17776

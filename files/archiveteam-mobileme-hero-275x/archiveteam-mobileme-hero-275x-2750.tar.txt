@@ -1,20 +1,20 @@
-insaneg33k	gallery.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	gallery.me.com-insaneg33k.warc.gz	0
-insaneg33k	homepage.mac.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	homepage.mac.com-insaneg33k.warc.gz	0
-insaneg33k	public.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	public.me.com-insaneg33k.warc.gz	0
-insaneg33k	web.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	web.me.com-insaneg33k.warc.gz	0
-pethers	gallery.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	gallery.me.com-pethers.warc.gz	0
-pethers	homepage.mac.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	homepage.mac.com-pethers.warc.gz	0
-pethers	public.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	public.me.com-pethers.warc.gz	0
-pethers	web.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	web.me.com-pethers.warc.gz	0
-pseudovague	gallery.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	gallery.me.com-pseudovague.warc.gz	0
-pseudovague	homepage.mac.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	homepage.mac.com-pseudovague.warc.gz	0
-pseudovague	public.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	public.me.com-pseudovague.warc.gz	0
-pseudovague	web.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	web.me.com-pseudovague.warc.gz	0
-svbc4817	gallery.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	gallery.me.com-svbc4817.warc.gz	0
-svbc4817	homepage.mac.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	homepage.mac.com-svbc4817.warc.gz	0
-svbc4817	public.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	public.me.com-svbc4817.warc.gz	0
-svbc4817	web.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	web.me.com-svbc4817.warc.gz	0
-ttorrison	gallery.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	gallery.me.com-ttorrison.warc.gz	0
-ttorrison	homepage.mac.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	homepage.mac.com-ttorrison.warc.gz	0
-ttorrison	public.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	public.me.com-ttorrison.warc.gz	0
-ttorrison	web.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	web.me.com-ttorrison.warc.gz	0
+insaneg33k	gallery.me.com	2012-04-01 19:05:31	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	gallery.me.com-insaneg33k.warc.gz	4290
+insaneg33k	homepage.mac.com	2012-04-01 19:05:32	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	homepage.mac.com-insaneg33k.warc.gz	4913
+insaneg33k	public.me.com	2012-04-01 19:05:30	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	public.me.com-insaneg33k.warc.gz	1918
+insaneg33k	web.me.com	2012-04-01 19:05:29	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	web.me.com-insaneg33k.warc.gz	4060918
+pethers	gallery.me.com	2012-04-01 20:33:28	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	gallery.me.com-pethers.warc.gz	323296092
+pethers	homepage.mac.com	2012-04-01 20:33:29	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	homepage.mac.com-pethers.warc.gz	3754
+pethers	public.me.com	2012-04-01 20:18:41	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	public.me.com-pethers.warc.gz	2160310658
+pethers	web.me.com	2012-04-01 19:07:20	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	web.me.com-pethers.warc.gz	2826015
+pseudovague	gallery.me.com	2012-04-01 15:53:07	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	gallery.me.com-pseudovague.warc.gz	5727
+pseudovague	homepage.mac.com	2012-04-01 15:53:12	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	homepage.mac.com-pseudovague.warc.gz	78704
+pseudovague	public.me.com	2012-04-01 15:53:06	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	public.me.com-pseudovague.warc.gz	1924
+pseudovague	web.me.com	2012-04-01 15:53:04	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	web.me.com-pseudovague.warc.gz	45266
+svbc4817	gallery.me.com	2012-04-01 15:52:54	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	gallery.me.com-svbc4817.warc.gz	5803
+svbc4817	homepage.mac.com	2012-04-01 15:52:54	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	homepage.mac.com-svbc4817.warc.gz	4914
+svbc4817	public.me.com	2012-04-01 15:52:51	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	public.me.com-svbc4817.warc.gz	1917
+svbc4817	web.me.com	2012-04-01 15:52:49	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	web.me.com-svbc4817.warc.gz	18343310
+ttorrison	gallery.me.com	2012-04-01 19:03:45	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	gallery.me.com-ttorrison.warc.gz	1601312625
+ttorrison	homepage.mac.com	2012-04-01 19:03:45	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	homepage.mac.com-ttorrison.warc.gz	4905
+ttorrison	public.me.com	2012-04-01 17:52:01	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	public.me.com-ttorrison.warc.gz	1907
+ttorrison	web.me.com	2012-04-01 17:51:48	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2750.tar	web.me.com-ttorrison.warc.gz	821983544

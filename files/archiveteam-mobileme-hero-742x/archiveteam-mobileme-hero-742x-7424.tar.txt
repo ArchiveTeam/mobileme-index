@@ -1,8 +1,8 @@
-alycemerrill	gallery.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7424.tar	gallery.me.com-alycemerrill.warc.gz	0
-alycemerrill	homepage.mac.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7424.tar	homepage.mac.com-alycemerrill.warc.gz	0
-alycemerrill	public.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7424.tar	public.me.com-alycemerrill.warc.gz	0
-alycemerrill	web.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7424.tar	web.me.com-alycemerrill.warc.gz	0
-johnsoderlund	gallery.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7424.tar	gallery.me.com-johnsoderlund.warc.gz	0
-johnsoderlund	homepage.mac.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7424.tar	homepage.mac.com-johnsoderlund.warc.gz	0
-johnsoderlund	public.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7424.tar	public.me.com-johnsoderlund.warc.gz	0
-johnsoderlund	web.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7424.tar	web.me.com-johnsoderlund.warc.gz	0
+alycemerrill	gallery.me.com	2012-04-13 18:22:51	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7424.tar	gallery.me.com-alycemerrill.warc.gz	2955581912
+alycemerrill	homepage.mac.com	2012-04-13 18:22:53	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7424.tar	homepage.mac.com-alycemerrill.warc.gz	49293
+alycemerrill	public.me.com	2012-04-13 16:47:33	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7424.tar	public.me.com-alycemerrill.warc.gz	1925
+alycemerrill	web.me.com	2012-04-13 16:47:30	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7424.tar	web.me.com-alycemerrill.warc.gz	511281490
+johnsoderlund	gallery.me.com	2012-04-13 16:11:32	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7424.tar	gallery.me.com-johnsoderlund.warc.gz	1146980352
+johnsoderlund	homepage.mac.com	2012-04-13 16:11:32	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7424.tar	homepage.mac.com-johnsoderlund.warc.gz	4936
+johnsoderlund	public.me.com	2012-04-13 16:04:38	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7424.tar	public.me.com-johnsoderlund.warc.gz	1929
+johnsoderlund	web.me.com	2012-04-13 16:04:38	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7424.tar	web.me.com-johnsoderlund.warc.gz	1344891

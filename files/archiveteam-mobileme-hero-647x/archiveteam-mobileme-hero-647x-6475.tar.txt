@@ -1,20 +1,20 @@
-c307777683	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	gallery.me.com-c307777683.warc.gz	0
-c307777683	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	homepage.mac.com-c307777683.warc.gz	0
-c307777683	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	public.me.com-c307777683.warc.gz	0
-c307777683	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	web.me.com-c307777683.warc.gz	0
-jsj	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	gallery.me.com-jsj.warc.gz	0
-jsj	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	homepage.mac.com-jsj.warc.gz	0
-jsj	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	public.me.com-jsj.warc.gz	0
-jsj	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	web.me.com-jsj.warc.gz	0
-maculfy	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	gallery.me.com-maculfy.warc.gz	0
-maculfy	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	homepage.mac.com-maculfy.warc.gz	0
-maculfy	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	public.me.com-maculfy.warc.gz	0
-maculfy	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	web.me.com-maculfy.warc.gz	0
-marcelodebreyne	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	gallery.me.com-marcelodebreyne.warc.gz	0
-marcelodebreyne	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	homepage.mac.com-marcelodebreyne.warc.gz	0
-marcelodebreyne	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	public.me.com-marcelodebreyne.warc.gz	0
-marcelodebreyne	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	web.me.com-marcelodebreyne.warc.gz	0
-missioncontrolhq	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	gallery.me.com-missioncontrolhq.warc.gz	0
-missioncontrolhq	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	homepage.mac.com-missioncontrolhq.warc.gz	0
-missioncontrolhq	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	public.me.com-missioncontrolhq.warc.gz	0
-missioncontrolhq	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	web.me.com-missioncontrolhq.warc.gz	0
+c307777683	gallery.me.com	2012-04-11 09:47:18	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	gallery.me.com-c307777683.warc.gz	8347
+c307777683	homepage.mac.com	2012-04-11 09:47:19	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	homepage.mac.com-c307777683.warc.gz	5179
+c307777683	public.me.com	2012-04-11 09:47:14	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	public.me.com-c307777683.warc.gz	1915
+c307777683	web.me.com	2012-04-11 09:47:12	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	web.me.com-c307777683.warc.gz	17708
+jsj	gallery.me.com	2012-04-11 09:47:08	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	gallery.me.com-jsj.warc.gz	187421760
+jsj	homepage.mac.com	2012-04-11 09:47:08	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	homepage.mac.com-jsj.warc.gz	4893
+jsj	public.me.com	2012-04-11 09:44:56	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	public.me.com-jsj.warc.gz	1909
+jsj	web.me.com	2012-04-11 09:44:52	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	web.me.com-jsj.warc.gz	4646746
+maculfy	gallery.me.com	2012-04-11 10:05:51	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	gallery.me.com-maculfy.warc.gz	145574493
+maculfy	homepage.mac.com	2012-04-11 10:05:54	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	homepage.mac.com-maculfy.warc.gz	9380
+maculfy	public.me.com	2012-04-11 10:02:38	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	public.me.com-maculfy.warc.gz	714917764
+maculfy	web.me.com	2012-04-11 09:52:19	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	web.me.com-maculfy.warc.gz	50994297
+marcelodebreyne	gallery.me.com	2012-04-11 17:43:37	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	gallery.me.com-marcelodebreyne.warc.gz	4030954974
+marcelodebreyne	homepage.mac.com	2012-04-11 17:43:39	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	homepage.mac.com-marcelodebreyne.warc.gz	4936
+marcelodebreyne	public.me.com	2012-04-11 12:43:39	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	public.me.com-marcelodebreyne.warc.gz	1014659516
+marcelodebreyne	web.me.com	2012-04-11 12:14:52	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	web.me.com-marcelodebreyne.warc.gz	303441833
+missioncontrolhq	gallery.me.com	2012-04-11 11:06:06	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	gallery.me.com-missioncontrolhq.warc.gz	79536319
+missioncontrolhq	homepage.mac.com	2012-04-11 11:06:14	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	homepage.mac.com-missioncontrolhq.warc.gz	97930
+missioncontrolhq	public.me.com	2012-04-11 11:04:13	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	public.me.com-missioncontrolhq.warc.gz	229143771
+missioncontrolhq	web.me.com	2012-04-11 10:56:40	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6475.tar	web.me.com-missioncontrolhq.warc.gz	293709073

@@ -1,32 +1,32 @@
-annelaw	gallery.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	gallery.me.com-annelaw.warc.gz	0
-annelaw	homepage.mac.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	homepage.mac.com-annelaw.warc.gz	0
-annelaw	public.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	public.me.com-annelaw.warc.gz	0
-annelaw	web.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	web.me.com-annelaw.warc.gz	0
-cjsmith	gallery.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	gallery.me.com-cjsmith.warc.gz	0
-cjsmith	homepage.mac.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	homepage.mac.com-cjsmith.warc.gz	0
-cjsmith	public.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	public.me.com-cjsmith.warc.gz	0
-cjsmith	web.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	web.me.com-cjsmith.warc.gz	0
-etienne.chapon	gallery.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	gallery.me.com-etienne.chapon.warc.gz	0
-etienne.chapon	homepage.mac.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	homepage.mac.com-etienne.chapon.warc.gz	0
-etienne.chapon	public.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	public.me.com-etienne.chapon.warc.gz	0
-etienne.chapon	web.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	web.me.com-etienne.chapon.warc.gz	0
-nixhouston	gallery.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	gallery.me.com-nixhouston.warc.gz	0
-nixhouston	homepage.mac.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	homepage.mac.com-nixhouston.warc.gz	0
-nixhouston	public.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	public.me.com-nixhouston.warc.gz	0
-nixhouston	web.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	web.me.com-nixhouston.warc.gz	0
-patrickrene	gallery.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	gallery.me.com-patrickrene.warc.gz	0
-patrickrene	homepage.mac.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	homepage.mac.com-patrickrene.warc.gz	0
-patrickrene	public.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	public.me.com-patrickrene.warc.gz	0
-patrickrene	web.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	web.me.com-patrickrene.warc.gz	0
-spease	gallery.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	gallery.me.com-spease.warc.gz	0
-spease	homepage.mac.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	homepage.mac.com-spease.warc.gz	0
-spease	public.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	public.me.com-spease.warc.gz	0
-spease	web.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	web.me.com-spease.warc.gz	0
-staceyhetherington	gallery.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	gallery.me.com-staceyhetherington.warc.gz	0
-staceyhetherington	homepage.mac.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	homepage.mac.com-staceyhetherington.warc.gz	0
-staceyhetherington	public.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	public.me.com-staceyhetherington.warc.gz	0
-staceyhetherington	web.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	web.me.com-staceyhetherington.warc.gz	0
-terry.gariety	gallery.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	gallery.me.com-terry.gariety.warc.gz	0
-terry.gariety	homepage.mac.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	homepage.mac.com-terry.gariety.warc.gz	0
-terry.gariety	public.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	public.me.com-terry.gariety.warc.gz	0
-terry.gariety	web.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	web.me.com-terry.gariety.warc.gz	0
+annelaw	gallery.me.com	2012-04-05 00:20:09	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	gallery.me.com-annelaw.warc.gz	4227
+annelaw	homepage.mac.com	2012-04-05 00:20:10	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	homepage.mac.com-annelaw.warc.gz	4901
+annelaw	public.me.com	2012-04-05 00:20:08	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	public.me.com-annelaw.warc.gz	741429654
+annelaw	web.me.com	2012-04-04 23:34:50	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	web.me.com-annelaw.warc.gz	19439569
+cjsmith	gallery.me.com	2012-04-05 05:37:52	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	gallery.me.com-cjsmith.warc.gz	6012190962
+cjsmith	homepage.mac.com	2012-04-05 05:37:54	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	homepage.mac.com-cjsmith.warc.gz	4905
+cjsmith	public.me.com	2012-04-05 01:08:26	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	public.me.com-cjsmith.warc.gz	105156401
+cjsmith	web.me.com	2012-04-05 01:06:42	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	web.me.com-cjsmith.warc.gz	81954553
+etienne.chapon	gallery.me.com	2012-04-04 23:25:17	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	gallery.me.com-etienne.chapon.warc.gz	508425868
+etienne.chapon	homepage.mac.com	2012-04-04 23:25:19	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	homepage.mac.com-etienne.chapon.warc.gz	4926
+etienne.chapon	public.me.com	2012-04-04 23:15:13	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	public.me.com-etienne.chapon.warc.gz	1931
+etienne.chapon	web.me.com	2012-04-04 23:12:31	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	web.me.com-etienne.chapon.warc.gz	251077398
+nixhouston	gallery.me.com	2012-04-04 20:34:20	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	gallery.me.com-nixhouston.warc.gz	1753822919
+nixhouston	homepage.mac.com	2012-04-04 20:34:23	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	homepage.mac.com-nixhouston.warc.gz	4916
+nixhouston	public.me.com	2012-04-04 19:21:56	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	public.me.com-nixhouston.warc.gz	1915
+nixhouston	web.me.com	2012-04-04 19:21:51	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	web.me.com-nixhouston.warc.gz	174954187
+patrickrene	gallery.me.com	2012-04-04 22:10:24	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	gallery.me.com-patrickrene.warc.gz	12358
+patrickrene	homepage.mac.com	2012-04-04 22:10:25	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	homepage.mac.com-patrickrene.warc.gz	7171
+patrickrene	public.me.com	2012-04-04 22:10:21	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	public.me.com-patrickrene.warc.gz	1922
+patrickrene	web.me.com	2012-04-04 22:10:21	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	web.me.com-patrickrene.warc.gz	22532
+spease	gallery.me.com	2012-04-04 17:27:20	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	gallery.me.com-spease.warc.gz	12335
+spease	homepage.mac.com	2012-04-04 17:27:22	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	homepage.mac.com-spease.warc.gz	7128
+spease	public.me.com	2012-04-04 17:27:17	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	public.me.com-spease.warc.gz	1905
+spease	web.me.com	2012-04-04 17:27:16	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	web.me.com-spease.warc.gz	22522
+staceyhetherington	gallery.me.com	2012-04-04 22:10:08	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	gallery.me.com-staceyhetherington.warc.gz	5224
+staceyhetherington	homepage.mac.com	2012-04-04 22:10:08	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	homepage.mac.com-staceyhetherington.warc.gz	4931
+staceyhetherington	public.me.com	2012-04-04 22:10:06	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	public.me.com-staceyhetherington.warc.gz	1922
+staceyhetherington	web.me.com	2012-04-04 22:09:22	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	web.me.com-staceyhetherington.warc.gz	321409124
+terry.gariety	gallery.me.com	2012-04-04 17:27:08	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	gallery.me.com-terry.gariety.warc.gz	12346
+terry.gariety	homepage.mac.com	2012-04-04 17:27:09	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	homepage.mac.com-terry.gariety.warc.gz	7169
+terry.gariety	public.me.com	2012-04-04 17:27:05	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	public.me.com-terry.gariety.warc.gz	1925
+terry.gariety	web.me.com	2012-04-04 17:27:05	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4112.tar	web.me.com-terry.gariety.warc.gz	22557

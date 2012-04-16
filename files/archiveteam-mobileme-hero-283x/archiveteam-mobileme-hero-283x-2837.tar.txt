@@ -1,12 +1,12 @@
-ekriemelmeyer	gallery.me.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	gallery.me.com-ekriemelmeyer.warc.gz	0
-ekriemelmeyer	homepage.mac.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	homepage.mac.com-ekriemelmeyer.warc.gz	0
-ekriemelmeyer	public.me.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	public.me.com-ekriemelmeyer.warc.gz	0
-ekriemelmeyer	web.me.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	web.me.com-ekriemelmeyer.warc.gz	0
-lyc	gallery.me.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	gallery.me.com-lyc.warc.gz	0
-lyc	homepage.mac.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	homepage.mac.com-lyc.warc.gz	0
-lyc	public.me.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	public.me.com-lyc.warc.gz	0
-lyc	web.me.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	web.me.com-lyc.warc.gz	0
-y.salinas	gallery.me.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	gallery.me.com-y.salinas.warc.gz	0
-y.salinas	homepage.mac.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	homepage.mac.com-y.salinas.warc.gz	0
-y.salinas	public.me.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	public.me.com-y.salinas.warc.gz	0
-y.salinas	web.me.com		archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	web.me.com-y.salinas.warc.gz	0
+ekriemelmeyer	gallery.me.com	2012-04-02 04:46:32	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	gallery.me.com-ekriemelmeyer.warc.gz	24621086
+ekriemelmeyer	homepage.mac.com	2012-04-02 04:46:32	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	homepage.mac.com-ekriemelmeyer.warc.gz	7888
+ekriemelmeyer	public.me.com	2012-04-02 04:46:08	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	public.me.com-ekriemelmeyer.warc.gz	3882098425
+ekriemelmeyer	web.me.com	2012-04-02 03:57:34	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	web.me.com-ekriemelmeyer.warc.gz	9496658
+lyc	gallery.me.com	2012-04-02 05:10:19	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	gallery.me.com-lyc.warc.gz	65979679
+lyc	homepage.mac.com	2012-04-02 05:10:19	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	homepage.mac.com-lyc.warc.gz	4868
+lyc	public.me.com	2012-04-02 05:08:18	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	public.me.com-lyc.warc.gz	1904
+lyc	web.me.com	2012-04-02 05:08:17	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	web.me.com-lyc.warc.gz	26115650
+y.salinas	gallery.me.com	2012-04-02 05:04:07	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	gallery.me.com-y.salinas.warc.gz	149525161
+y.salinas	homepage.mac.com	2012-04-02 05:04:14	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	homepage.mac.com-y.salinas.warc.gz	221991
+y.salinas	public.me.com	2012-04-02 05:02:32	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	public.me.com-y.salinas.warc.gz	1914
+y.salinas	web.me.com	2012-04-02 05:02:32	archiveteam-mobileme-hero-283x	archiveteam-mobileme-hero-283x-2837.tar	web.me.com-y.salinas.warc.gz	200180471

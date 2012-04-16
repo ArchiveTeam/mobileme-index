@@ -1,8 +1,8 @@
-brentondouglas	gallery.me.com		archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2239.tar	gallery.me.com-brentondouglas.warc.gz	0
-brentondouglas	homepage.mac.com		archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2239.tar	homepage.mac.com-brentondouglas.warc.gz	0
-brentondouglas	public.me.com		archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2239.tar	public.me.com-brentondouglas.warc.gz	0
-brentondouglas	web.me.com		archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2239.tar	web.me.com-brentondouglas.warc.gz	0
-digitballard	gallery.me.com		archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2239.tar	gallery.me.com-digitballard.warc.gz	0
-digitballard	homepage.mac.com		archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2239.tar	homepage.mac.com-digitballard.warc.gz	0
-digitballard	public.me.com		archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2239.tar	public.me.com-digitballard.warc.gz	0
-digitballard	web.me.com		archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2239.tar	web.me.com-digitballard.warc.gz	0
+brentondouglas	gallery.me.com	2012-03-30 23:24:04	archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2239.tar	gallery.me.com-brentondouglas.warc.gz	3740996351
+brentondouglas	homepage.mac.com	2012-03-30 23:24:05	archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2239.tar	homepage.mac.com-brentondouglas.warc.gz	4921
+brentondouglas	public.me.com	2012-03-30 21:10:49	archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2239.tar	public.me.com-brentondouglas.warc.gz	1931
+brentondouglas	web.me.com	2012-03-30 21:10:45	archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2239.tar	web.me.com-brentondouglas.warc.gz	1368358480
+digitballard	gallery.me.com	2012-03-30 20:15:48	archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2239.tar	gallery.me.com-digitballard.warc.gz	699032
+digitballard	homepage.mac.com	2012-03-30 20:15:59	archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2239.tar	homepage.mac.com-digitballard.warc.gz	133212
+digitballard	public.me.com	2012-03-30 20:15:40	archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2239.tar	public.me.com-digitballard.warc.gz	1925
+digitballard	web.me.com	2012-03-30 20:15:40	archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2239.tar	web.me.com-digitballard.warc.gz	10488473

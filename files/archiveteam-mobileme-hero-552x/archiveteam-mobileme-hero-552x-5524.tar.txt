@@ -1,12 +1,12 @@
-astrid.smedema	gallery.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	gallery.me.com-astrid.smedema.warc.gz	0
-astrid.smedema	homepage.mac.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	homepage.mac.com-astrid.smedema.warc.gz	0
-astrid.smedema	public.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	public.me.com-astrid.smedema.warc.gz	0
-astrid.smedema	web.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	web.me.com-astrid.smedema.warc.gz	0
-not.o	gallery.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	gallery.me.com-not.o.warc.gz	0
-not.o	homepage.mac.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	homepage.mac.com-not.o.warc.gz	0
-not.o	public.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	public.me.com-not.o.warc.gz	0
-not.o	web.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	web.me.com-not.o.warc.gz	0
-zarick	gallery.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	gallery.me.com-zarick.warc.gz	0
-zarick	homepage.mac.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	homepage.mac.com-zarick.warc.gz	0
-zarick	public.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	public.me.com-zarick.warc.gz	0
-zarick	web.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	web.me.com-zarick.warc.gz	0
+astrid.smedema	gallery.me.com	2012-04-09 11:48:51	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	gallery.me.com-astrid.smedema.warc.gz	1178237362
+astrid.smedema	homepage.mac.com	2012-04-09 11:48:51	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	homepage.mac.com-astrid.smedema.warc.gz	4936
+astrid.smedema	public.me.com	2012-04-09 11:11:45	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	public.me.com-astrid.smedema.warc.gz	1927
+astrid.smedema	web.me.com	2012-04-09 11:11:43	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	web.me.com-astrid.smedema.warc.gz	415387560
+not.o	gallery.me.com	2012-04-09 12:58:35	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	gallery.me.com-not.o.warc.gz	176448348
+not.o	homepage.mac.com	2012-04-09 12:58:36	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	homepage.mac.com-not.o.warc.gz	8414
+not.o	public.me.com	2012-04-09 12:56:31	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	public.me.com-not.o.warc.gz	2426833962
+not.o	web.me.com	2012-04-09 11:49:22	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	web.me.com-not.o.warc.gz	879219
+zarick	gallery.me.com	2012-04-09 15:07:43	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	gallery.me.com-zarick.warc.gz	2639093164
+zarick	homepage.mac.com	2012-04-09 15:07:48	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	homepage.mac.com-zarick.warc.gz	109529
+zarick	public.me.com	2012-04-09 14:21:59	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	public.me.com-zarick.warc.gz	764864873
+zarick	web.me.com	2012-04-09 14:16:51	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5524.tar	web.me.com-zarick.warc.gz	2164735438

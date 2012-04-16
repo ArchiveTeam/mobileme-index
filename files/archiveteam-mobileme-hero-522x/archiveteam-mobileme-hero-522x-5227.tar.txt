@@ -1,12 +1,12 @@
-nanaandfriends	gallery.me.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	gallery.me.com-nanaandfriends.warc.gz	0
-nanaandfriends	homepage.mac.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	homepage.mac.com-nanaandfriends.warc.gz	0
-nanaandfriends	public.me.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	public.me.com-nanaandfriends.warc.gz	0
-nanaandfriends	web.me.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	web.me.com-nanaandfriends.warc.gz	0
-nicole.condit	gallery.me.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	gallery.me.com-nicole.condit.warc.gz	0
-nicole.condit	homepage.mac.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	homepage.mac.com-nicole.condit.warc.gz	0
-nicole.condit	public.me.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	public.me.com-nicole.condit.warc.gz	0
-nicole.condit	web.me.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	web.me.com-nicole.condit.warc.gz	0
-sebastian.sasse	gallery.me.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	gallery.me.com-sebastian.sasse.warc.gz	0
-sebastian.sasse	homepage.mac.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	homepage.mac.com-sebastian.sasse.warc.gz	0
-sebastian.sasse	public.me.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	public.me.com-sebastian.sasse.warc.gz	0
-sebastian.sasse	web.me.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	web.me.com-sebastian.sasse.warc.gz	0
+nanaandfriends	gallery.me.com	2012-04-08 22:28:20	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	gallery.me.com-nanaandfriends.warc.gz	5052
+nanaandfriends	homepage.mac.com	2012-04-08 22:28:20	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	homepage.mac.com-nanaandfriends.warc.gz	4940
+nanaandfriends	public.me.com	2012-04-08 22:28:20	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	public.me.com-nanaandfriends.warc.gz	1925
+nanaandfriends	web.me.com	2012-04-08 22:28:17	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	web.me.com-nanaandfriends.warc.gz	310700821
+nicole.condit	gallery.me.com	2012-04-08 23:03:22	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	gallery.me.com-nicole.condit.warc.gz	3944264616
+nicole.condit	homepage.mac.com	2012-04-08 23:03:22	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	homepage.mac.com-nicole.condit.warc.gz	4916
+nicole.condit	public.me.com	2012-04-08 22:33:03	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	public.me.com-nicole.condit.warc.gz	3343
+nicole.condit	web.me.com	2012-04-08 22:33:03	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	web.me.com-nicole.condit.warc.gz	35658877
+sebastian.sasse	gallery.me.com	2012-04-08 22:28:23	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	gallery.me.com-sebastian.sasse.warc.gz	5250
+sebastian.sasse	homepage.mac.com	2012-04-08 22:28:24	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	homepage.mac.com-sebastian.sasse.warc.gz	4951
+sebastian.sasse	public.me.com	2012-04-08 22:28:23	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	public.me.com-sebastian.sasse.warc.gz	1924
+sebastian.sasse	web.me.com	2012-04-08 22:28:23	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5227.tar	web.me.com-sebastian.sasse.warc.gz	33123

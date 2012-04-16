@@ -1,20 +1,20 @@
-epotler	gallery.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	gallery.me.com-epotler.warc.gz	0
-epotler	homepage.mac.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	homepage.mac.com-epotler.warc.gz	0
-epotler	public.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	public.me.com-epotler.warc.gz	0
-epotler	web.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	web.me.com-epotler.warc.gz	0
-gjkroese	gallery.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	gallery.me.com-gjkroese.warc.gz	0
-gjkroese	homepage.mac.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	homepage.mac.com-gjkroese.warc.gz	0
-gjkroese	public.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	public.me.com-gjkroese.warc.gz	0
-gjkroese	web.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	web.me.com-gjkroese.warc.gz	0
-kari.hicks	gallery.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	gallery.me.com-kari.hicks.warc.gz	0
-kari.hicks	homepage.mac.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	homepage.mac.com-kari.hicks.warc.gz	0
-kari.hicks	public.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	public.me.com-kari.hicks.warc.gz	0
-kari.hicks	web.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	web.me.com-kari.hicks.warc.gz	0
-mmtesting10722	gallery.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	gallery.me.com-mmtesting10722.warc.gz	0
-mmtesting10722	homepage.mac.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	homepage.mac.com-mmtesting10722.warc.gz	0
-mmtesting10722	public.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	public.me.com-mmtesting10722.warc.gz	0
-mmtesting10722	web.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	web.me.com-mmtesting10722.warc.gz	0
-scullykids	gallery.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	gallery.me.com-scullykids.warc.gz	0
-scullykids	homepage.mac.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	homepage.mac.com-scullykids.warc.gz	0
-scullykids	public.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	public.me.com-scullykids.warc.gz	0
-scullykids	web.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	web.me.com-scullykids.warc.gz	0
+epotler	gallery.me.com	2012-04-10 11:23:09	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	gallery.me.com-epotler.warc.gz	14334
+epotler	homepage.mac.com	2012-04-10 11:23:10	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	homepage.mac.com-epotler.warc.gz	4904
+epotler	public.me.com	2012-04-10 11:23:08	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	public.me.com-epotler.warc.gz	1906
+epotler	web.me.com	2012-04-10 11:23:07	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	web.me.com-epotler.warc.gz	58204705
+gjkroese	gallery.me.com	2012-04-10 11:10:08	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	gallery.me.com-gjkroese.warc.gz	2784810847
+gjkroese	homepage.mac.com	2012-04-10 11:11:40	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	homepage.mac.com-gjkroese.warc.gz	1590292
+gjkroese	public.me.com	2012-04-10 10:28:41	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	public.me.com-gjkroese.warc.gz	1914
+gjkroese	web.me.com	2012-04-10 10:28:39	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	web.me.com-gjkroese.warc.gz	340882868
+kari.hicks	gallery.me.com	2012-04-10 13:08:46	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	gallery.me.com-kari.hicks.warc.gz	3216673434
+kari.hicks	homepage.mac.com	2012-04-10 13:08:46	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	homepage.mac.com-kari.hicks.warc.gz	4913
+kari.hicks	public.me.com	2012-04-10 12:31:32	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	public.me.com-kari.hicks.warc.gz	1918
+kari.hicks	web.me.com	2012-04-10 12:31:31	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	web.me.com-kari.hicks.warc.gz	90467144
+mmtesting10722	gallery.me.com	2012-04-10 12:13:12	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	gallery.me.com-mmtesting10722.warc.gz	4278
+mmtesting10722	homepage.mac.com	2012-04-10 12:13:12	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	homepage.mac.com-mmtesting10722.warc.gz	4932
+mmtesting10722	public.me.com	2012-04-10 12:13:11	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	public.me.com-mmtesting10722.warc.gz	1922
+mmtesting10722	web.me.com	2012-04-10 12:13:10	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	web.me.com-mmtesting10722.warc.gz	554998877
+scullykids	gallery.me.com	2012-04-10 11:16:24	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	gallery.me.com-scullykids.warc.gz	5764
+scullykids	homepage.mac.com	2012-04-10 11:16:25	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	homepage.mac.com-scullykids.warc.gz	4926
+scullykids	public.me.com	2012-04-10 11:16:23	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	public.me.com-scullykids.warc.gz	1918
+scullykids	web.me.com	2012-04-10 11:16:23	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5935.tar	web.me.com-scullykids.warc.gz	28277141

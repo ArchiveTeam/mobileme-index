@@ -1,12 +1,12 @@
-datimasi	gallery.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	gallery.me.com-datimasi.warc.gz	0
-datimasi	homepage.mac.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	homepage.mac.com-datimasi.warc.gz	0
-datimasi	public.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	public.me.com-datimasi.warc.gz	0
-datimasi	web.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	web.me.com-datimasi.warc.gz	0
-gpsterling	gallery.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	gallery.me.com-gpsterling.warc.gz	0
-gpsterling	homepage.mac.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	homepage.mac.com-gpsterling.warc.gz	0
-gpsterling	public.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	public.me.com-gpsterling.warc.gz	0
-gpsterling	web.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	web.me.com-gpsterling.warc.gz	0
-jaredblitz	gallery.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	gallery.me.com-jaredblitz.warc.gz	0
-jaredblitz	homepage.mac.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	homepage.mac.com-jaredblitz.warc.gz	0
-jaredblitz	public.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	public.me.com-jaredblitz.warc.gz	0
-jaredblitz	web.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	web.me.com-jaredblitz.warc.gz	0
+datimasi	gallery.me.com	2012-04-10 13:06:07	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	gallery.me.com-datimasi.warc.gz	1609069603
+datimasi	homepage.mac.com	2012-04-10 13:06:08	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	homepage.mac.com-datimasi.warc.gz	4884
+datimasi	public.me.com	2012-04-10 12:52:27	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	public.me.com-datimasi.warc.gz	3908326445
+datimasi	web.me.com	2012-04-10 11:17:21	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	web.me.com-datimasi.warc.gz	21731119
+gpsterling	gallery.me.com	2012-04-10 11:00:52	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	gallery.me.com-gpsterling.warc.gz	113628670
+gpsterling	homepage.mac.com	2012-04-10 11:00:53	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	homepage.mac.com-gpsterling.warc.gz	4923
+gpsterling	public.me.com	2012-04-10 10:59:32	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	public.me.com-gpsterling.warc.gz	304088117
+gpsterling	web.me.com	2012-04-10 10:48:33	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	web.me.com-gpsterling.warc.gz	71544242
+jaredblitz	gallery.me.com	2012-04-10 11:13:34	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	gallery.me.com-jaredblitz.warc.gz	9463156
+jaredblitz	homepage.mac.com	2012-04-10 11:13:37	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	homepage.mac.com-jaredblitz.warc.gz	36829
+jaredblitz	public.me.com	2012-04-10 11:12:58	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	public.me.com-jaredblitz.warc.gz	1923
+jaredblitz	web.me.com	2012-04-10 11:12:57	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5937.tar	web.me.com-jaredblitz.warc.gz	222246596

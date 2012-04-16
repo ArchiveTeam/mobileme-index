@@ -1,20 +1,20 @@
-c1184958528	gallery.me.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	gallery.me.com-c1184958528.warc.gz	0
-c1184958528	homepage.mac.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	homepage.mac.com-c1184958528.warc.gz	0
-c1184958528	public.me.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	public.me.com-c1184958528.warc.gz	0
-c1184958528	web.me.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	web.me.com-c1184958528.warc.gz	0
-jkeitel	gallery.me.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	gallery.me.com-jkeitel.warc.gz	0
-jkeitel	homepage.mac.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	homepage.mac.com-jkeitel.warc.gz	0
-jkeitel	public.me.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	public.me.com-jkeitel.warc.gz	0
-jkeitel	web.me.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	web.me.com-jkeitel.warc.gz	0
-jkooxl	gallery.me.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	gallery.me.com-jkooxl.warc.gz	0
-jkooxl	homepage.mac.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	homepage.mac.com-jkooxl.warc.gz	0
-jkooxl	public.me.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	public.me.com-jkooxl.warc.gz	0
-jkooxl	web.me.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	web.me.com-jkooxl.warc.gz	0
-johnmxh	gallery.me.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	gallery.me.com-johnmxh.warc.gz	0
-johnmxh	homepage.mac.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	homepage.mac.com-johnmxh.warc.gz	0
-johnmxh	public.me.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	public.me.com-johnmxh.warc.gz	0
-johnmxh	web.me.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	web.me.com-johnmxh.warc.gz	0
-m.s6	gallery.me.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	gallery.me.com-m.s6.warc.gz	0
-m.s6	homepage.mac.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	homepage.mac.com-m.s6.warc.gz	0
-m.s6	public.me.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	public.me.com-m.s6.warc.gz	0
-m.s6	web.me.com		archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	web.me.com-m.s6.warc.gz	0
+c1184958528	gallery.me.com	2012-04-02 18:46:16	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	gallery.me.com-c1184958528.warc.gz	8359
+c1184958528	homepage.mac.com	2012-04-02 18:46:16	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	homepage.mac.com-c1184958528.warc.gz	5172
+c1184958528	public.me.com	2012-04-02 18:46:15	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	public.me.com-c1184958528.warc.gz	1927
+c1184958528	web.me.com	2012-04-02 18:46:15	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	web.me.com-c1184958528.warc.gz	17745
+jkeitel	gallery.me.com	2012-04-02 19:11:02	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	gallery.me.com-jkeitel.warc.gz	5143
+jkeitel	homepage.mac.com	2012-04-02 19:11:11	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	homepage.mac.com-jkeitel.warc.gz	138870
+jkeitel	public.me.com	2012-04-02 19:11:01	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	public.me.com-jkeitel.warc.gz	2010039400
+jkeitel	web.me.com	2012-04-02 18:46:56	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	web.me.com-jkeitel.warc.gz	64396293
+jkooxl	gallery.me.com	2012-04-02 18:46:20	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	gallery.me.com-jkooxl.warc.gz	4277
+jkooxl	homepage.mac.com	2012-04-02 18:46:24	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	homepage.mac.com-jkooxl.warc.gz	74973
+jkooxl	public.me.com	2012-04-02 18:46:19	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	public.me.com-jkooxl.warc.gz	788766
+jkooxl	web.me.com	2012-04-02 18:46:18	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	web.me.com-jkooxl.warc.gz	7393
+johnmxh	gallery.me.com	2012-04-02 18:46:14	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	gallery.me.com-johnmxh.warc.gz	891929703
+johnmxh	homepage.mac.com	2012-04-02 18:46:14	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	homepage.mac.com-johnmxh.warc.gz	4897
+johnmxh	public.me.com	2012-04-02 18:39:56	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	public.me.com-johnmxh.warc.gz	1911
+johnmxh	web.me.com	2012-04-02 18:39:54	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	web.me.com-johnmxh.warc.gz	72834888
+m.s6	gallery.me.com	2012-04-02 19:50:50	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	gallery.me.com-m.s6.warc.gz	1295718843
+m.s6	homepage.mac.com	2012-04-02 19:50:50	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	homepage.mac.com-m.s6.warc.gz	4886
+m.s6	public.me.com	2012-04-02 19:21:35	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	public.me.com-m.s6.warc.gz	15683
+m.s6	web.me.com	2012-04-02 19:21:34	archiveteam-mobileme-hero-308x	archiveteam-mobileme-hero-308x-3080.tar	web.me.com-m.s6.warc.gz	92020423

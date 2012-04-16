@@ -1,20 +1,20 @@
-aodai_production	gallery.me.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	gallery.me.com-aodai_production.warc.gz	0
-aodai_production	homepage.mac.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	homepage.mac.com-aodai_production.warc.gz	0
-aodai_production	public.me.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	public.me.com-aodai_production.warc.gz	0
-aodai_production	web.me.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	web.me.com-aodai_production.warc.gz	0
-dave_cull	gallery.me.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	gallery.me.com-dave_cull.warc.gz	0
-dave_cull	homepage.mac.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	homepage.mac.com-dave_cull.warc.gz	0
-dave_cull	public.me.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	public.me.com-dave_cull.warc.gz	0
-dave_cull	web.me.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	web.me.com-dave_cull.warc.gz	0
-loydfamily	gallery.me.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	gallery.me.com-loydfamily.warc.gz	0
-loydfamily	homepage.mac.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	homepage.mac.com-loydfamily.warc.gz	0
-loydfamily	public.me.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	public.me.com-loydfamily.warc.gz	0
-loydfamily	web.me.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	web.me.com-loydfamily.warc.gz	0
-puckettm	gallery.me.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	gallery.me.com-puckettm.warc.gz	0
-puckettm	homepage.mac.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	homepage.mac.com-puckettm.warc.gz	0
-puckettm	public.me.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	public.me.com-puckettm.warc.gz	0
-puckettm	web.me.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	web.me.com-puckettm.warc.gz	0
-yisunmac	gallery.me.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	gallery.me.com-yisunmac.warc.gz	0
-yisunmac	homepage.mac.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	homepage.mac.com-yisunmac.warc.gz	0
-yisunmac	public.me.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	public.me.com-yisunmac.warc.gz	0
-yisunmac	web.me.com		archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	web.me.com-yisunmac.warc.gz	0
+aodai_production	gallery.me.com	2012-04-03 06:54:30	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	gallery.me.com-aodai_production.warc.gz	8371
+aodai_production	homepage.mac.com	2012-04-03 06:54:30	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	homepage.mac.com-aodai_production.warc.gz	5184
+aodai_production	public.me.com	2012-04-03 06:54:29	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	public.me.com-aodai_production.warc.gz	1929
+aodai_production	web.me.com	2012-04-03 06:54:29	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	web.me.com-aodai_production.warc.gz	17711
+dave_cull	gallery.me.com	2012-04-03 06:54:27	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	gallery.me.com-dave_cull.warc.gz	1159870583
+dave_cull	homepage.mac.com	2012-04-03 06:54:27	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	homepage.mac.com-dave_cull.warc.gz	4908
+dave_cull	public.me.com	2012-04-03 06:32:34	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	public.me.com-dave_cull.warc.gz	3406
+dave_cull	web.me.com	2012-04-03 06:32:34	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	web.me.com-dave_cull.warc.gz	74689524
+loydfamily	gallery.me.com	2012-04-03 08:11:26	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	gallery.me.com-loydfamily.warc.gz	4037177099
+loydfamily	homepage.mac.com	2012-04-03 08:11:27	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	homepage.mac.com-loydfamily.warc.gz	4919
+loydfamily	public.me.com	2012-04-03 07:18:04	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	public.me.com-loydfamily.warc.gz	1927
+loydfamily	web.me.com	2012-04-03 07:18:04	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	web.me.com-loydfamily.warc.gz	122170727
+puckettm	gallery.me.com	2012-04-03 06:55:55	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	gallery.me.com-puckettm.warc.gz	5011
+puckettm	homepage.mac.com	2012-04-03 06:55:55	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	homepage.mac.com-puckettm.warc.gz	4885
+puckettm	public.me.com	2012-04-03 06:55:54	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	public.me.com-puckettm.warc.gz	1916
+puckettm	web.me.com	2012-04-03 06:55:54	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	web.me.com-puckettm.warc.gz	9855801
+yisunmac	gallery.me.com	2012-04-03 06:27:04	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	gallery.me.com-yisunmac.warc.gz	12316
+yisunmac	homepage.mac.com	2012-04-03 06:27:05	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	homepage.mac.com-yisunmac.warc.gz	7141
+yisunmac	public.me.com	2012-04-03 06:27:04	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	public.me.com-yisunmac.warc.gz	1918
+yisunmac	web.me.com	2012-04-03 06:27:03	archiveteam-mobileme-hero-332x	archiveteam-mobileme-hero-332x-3325.tar	web.me.com-yisunmac.warc.gz	22438

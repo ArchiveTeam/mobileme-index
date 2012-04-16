@@ -1,8 +1,8 @@
-danielhoover	gallery.me.com		archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2788.tar	gallery.me.com-danielhoover.warc.gz	0
-danielhoover	homepage.mac.com		archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2788.tar	homepage.mac.com-danielhoover.warc.gz	0
-danielhoover	public.me.com		archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2788.tar	public.me.com-danielhoover.warc.gz	0
-danielhoover	web.me.com		archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2788.tar	web.me.com-danielhoover.warc.gz	0
-nicoleschmitz	gallery.me.com		archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2788.tar	gallery.me.com-nicoleschmitz.warc.gz	0
-nicoleschmitz	homepage.mac.com		archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2788.tar	homepage.mac.com-nicoleschmitz.warc.gz	0
-nicoleschmitz	public.me.com		archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2788.tar	public.me.com-nicoleschmitz.warc.gz	0
-nicoleschmitz	web.me.com		archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2788.tar	web.me.com-nicoleschmitz.warc.gz	0
+danielhoover	gallery.me.com	2012-04-01 23:50:40	archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2788.tar	gallery.me.com-danielhoover.warc.gz	5918133952
+danielhoover	homepage.mac.com	2012-04-01 23:50:40	archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2788.tar	homepage.mac.com-danielhoover.warc.gz	4927
+danielhoover	public.me.com	2012-04-01 22:05:42	archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2788.tar	public.me.com-danielhoover.warc.gz	1924
+danielhoover	web.me.com	2012-04-01 22:05:40	archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2788.tar	web.me.com-danielhoover.warc.gz	658210542
+nicoleschmitz	gallery.me.com	2012-04-01 20:17:51	archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2788.tar	gallery.me.com-nicoleschmitz.warc.gz	3481369367
+nicoleschmitz	homepage.mac.com	2012-04-01 20:17:52	archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2788.tar	homepage.mac.com-nicoleschmitz.warc.gz	4939
+nicoleschmitz	public.me.com	2012-04-01 19:16:06	archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2788.tar	public.me.com-nicoleschmitz.warc.gz	3440
+nicoleschmitz	web.me.com	2012-04-01 19:16:04	archiveteam-mobileme-hero-278x	archiveteam-mobileme-hero-278x-2788.tar	web.me.com-nicoleschmitz.warc.gz	27154345

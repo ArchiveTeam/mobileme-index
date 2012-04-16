@@ -1,8 +1,8 @@
-abodden	gallery.me.com		archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3594.tar	gallery.me.com-abodden.warc.gz	0
-abodden	homepage.mac.com		archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3594.tar	homepage.mac.com-abodden.warc.gz	0
-abodden	public.me.com		archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3594.tar	public.me.com-abodden.warc.gz	0
-abodden	web.me.com		archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3594.tar	web.me.com-abodden.warc.gz	0
-wbaetz	gallery.me.com		archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3594.tar	gallery.me.com-wbaetz.warc.gz	0
-wbaetz	homepage.mac.com		archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3594.tar	homepage.mac.com-wbaetz.warc.gz	0
-wbaetz	public.me.com		archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3594.tar	public.me.com-wbaetz.warc.gz	0
-wbaetz	web.me.com		archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3594.tar	web.me.com-wbaetz.warc.gz	0
+abodden	gallery.me.com	2012-04-03 23:22:01	archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3594.tar	gallery.me.com-abodden.warc.gz	1276699484
+abodden	homepage.mac.com	2012-04-03 23:22:04	archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3594.tar	homepage.mac.com-abodden.warc.gz	59177
+abodden	public.me.com	2012-04-03 22:56:47	archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3594.tar	public.me.com-abodden.warc.gz	4329914209
+abodden	web.me.com	2012-04-03 19:54:55	archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3594.tar	web.me.com-abodden.warc.gz	160765310
+wbaetz	gallery.me.com	2012-04-03 19:38:50	archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3594.tar	gallery.me.com-wbaetz.warc.gz	805292541
+wbaetz	homepage.mac.com	2012-04-03 19:38:51	archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3594.tar	homepage.mac.com-wbaetz.warc.gz	4893
+wbaetz	public.me.com	2012-04-03 18:51:33	archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3594.tar	public.me.com-wbaetz.warc.gz	1067678169
+wbaetz	web.me.com	2012-04-03 18:29:05	archiveteam-mobileme-hero-359x	archiveteam-mobileme-hero-359x-3594.tar	web.me.com-wbaetz.warc.gz	377999543

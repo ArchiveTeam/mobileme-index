@@ -1,16 +1,16 @@
-pibau3	gallery.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	gallery.me.com-pibau3.warc.gz	0
-pibau3	homepage.mac.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	homepage.mac.com-pibau3.warc.gz	0
-pibau3	public.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	public.me.com-pibau3.warc.gz	0
-pibau3	web.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	web.me.com-pibau3.warc.gz	0
-scmclane	gallery.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	gallery.me.com-scmclane.warc.gz	0
-scmclane	homepage.mac.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	homepage.mac.com-scmclane.warc.gz	0
-scmclane	public.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	public.me.com-scmclane.warc.gz	0
-scmclane	web.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	web.me.com-scmclane.warc.gz	0
-tradewindsinteriors	gallery.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	gallery.me.com-tradewindsinteriors.warc.gz	0
-tradewindsinteriors	homepage.mac.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	homepage.mac.com-tradewindsinteriors.warc.gz	0
-tradewindsinteriors	public.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	public.me.com-tradewindsinteriors.warc.gz	0
-tradewindsinteriors	web.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	web.me.com-tradewindsinteriors.warc.gz	0
-ttarpleygreen	gallery.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	gallery.me.com-ttarpleygreen.warc.gz	0
-ttarpleygreen	homepage.mac.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	homepage.mac.com-ttarpleygreen.warc.gz	0
-ttarpleygreen	public.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	public.me.com-ttarpleygreen.warc.gz	0
-ttarpleygreen	web.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	web.me.com-ttarpleygreen.warc.gz	0
+pibau3	gallery.me.com	2012-04-07 11:26:30	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	gallery.me.com-pibau3.warc.gz	36313106
+pibau3	homepage.mac.com	2012-04-07 11:26:30	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	homepage.mac.com-pibau3.warc.gz	4906
+pibau3	public.me.com	2012-04-07 11:26:08	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	public.me.com-pibau3.warc.gz	1919
+pibau3	web.me.com	2012-04-07 11:25:47	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	web.me.com-pibau3.warc.gz	1148657346
+scmclane	gallery.me.com	2012-04-07 06:41:11	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	gallery.me.com-scmclane.warc.gz	1739909046
+scmclane	homepage.mac.com	2012-04-07 06:41:11	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	homepage.mac.com-scmclane.warc.gz	4909
+scmclane	public.me.com	2012-04-07 05:33:35	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	public.me.com-scmclane.warc.gz	3071
+scmclane	web.me.com	2012-04-07 05:32:41	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	web.me.com-scmclane.warc.gz	575740511
+tradewindsinteriors	gallery.me.com	2012-04-07 04:03:14	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	gallery.me.com-tradewindsinteriors.warc.gz	57921049
+tradewindsinteriors	homepage.mac.com	2012-04-07 04:03:14	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	homepage.mac.com-tradewindsinteriors.warc.gz	4955
+tradewindsinteriors	public.me.com	2012-04-07 03:59:51	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	public.me.com-tradewindsinteriors.warc.gz	1935
+tradewindsinteriors	web.me.com	2012-04-07 03:59:50	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	web.me.com-tradewindsinteriors.warc.gz	5996925
+ttarpleygreen	gallery.me.com	2012-04-07 04:38:02	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	gallery.me.com-ttarpleygreen.warc.gz	471134205
+ttarpleygreen	homepage.mac.com	2012-04-07 04:38:05	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	homepage.mac.com-ttarpleygreen.warc.gz	79329
+ttarpleygreen	public.me.com	2012-04-07 04:26:38	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	public.me.com-ttarpleygreen.warc.gz	29909318
+ttarpleygreen	web.me.com	2012-04-07 04:26:08	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4865.tar	web.me.com-ttarpleygreen.warc.gz	388750112

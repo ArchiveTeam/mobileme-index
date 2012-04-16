@@ -1,12 +1,12 @@
-jmlj	gallery.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	gallery.me.com-jmlj.warc.gz	0
-jmlj	homepage.mac.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	homepage.mac.com-jmlj.warc.gz	0
-jmlj	public.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	public.me.com-jmlj.warc.gz	0
-jmlj	web.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	web.me.com-jmlj.warc.gz	0
-rhornett	gallery.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	gallery.me.com-rhornett.warc.gz	0
-rhornett	homepage.mac.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	homepage.mac.com-rhornett.warc.gz	0
-rhornett	public.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	public.me.com-rhornett.warc.gz	0
-rhornett	web.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	web.me.com-rhornett.warc.gz	0
-surillo	gallery.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	gallery.me.com-surillo.warc.gz	0
-surillo	homepage.mac.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	homepage.mac.com-surillo.warc.gz	0
-surillo	public.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	public.me.com-surillo.warc.gz	0
-surillo	web.me.com		archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	web.me.com-surillo.warc.gz	0
+jmlj	gallery.me.com	2012-04-10 03:42:36	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	gallery.me.com-jmlj.warc.gz	2207977933
+jmlj	homepage.mac.com	2012-04-10 03:42:36	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	homepage.mac.com-jmlj.warc.gz	4905
+jmlj	public.me.com	2012-04-10 02:53:36	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	public.me.com-jmlj.warc.gz	1912
+jmlj	web.me.com	2012-04-10 02:53:34	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	web.me.com-jmlj.warc.gz	300915965
+rhornett	gallery.me.com	2012-04-10 04:52:28	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	gallery.me.com-rhornett.warc.gz	6988219795
+rhornett	homepage.mac.com	2012-04-10 04:52:28	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	homepage.mac.com-rhornett.warc.gz	4916
+rhornett	public.me.com	2012-04-10 04:02:22	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	public.me.com-rhornett.warc.gz	1910
+rhornett	web.me.com	2012-04-10 04:02:21	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	web.me.com-rhornett.warc.gz	492400828
+surillo	gallery.me.com	2012-04-10 02:03:19	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	gallery.me.com-surillo.warc.gz	75106301
+surillo	homepage.mac.com	2012-04-10 02:03:20	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	homepage.mac.com-surillo.warc.gz	4899
+surillo	public.me.com	2012-04-10 02:02:10	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	public.me.com-surillo.warc.gz	1910
+surillo	web.me.com	2012-04-10 02:02:08	archiveteam-mobileme-hero-576x	archiveteam-mobileme-hero-576x-5763.tar	web.me.com-surillo.warc.gz	301294236

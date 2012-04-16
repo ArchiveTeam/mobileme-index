@@ -1,20 +1,20 @@
-armfield2	gallery.me.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	gallery.me.com-armfield2.warc.gz	0
-armfield2	homepage.mac.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	homepage.mac.com-armfield2.warc.gz	0
-armfield2	public.me.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	public.me.com-armfield2.warc.gz	0
-armfield2	web.me.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	web.me.com-armfield2.warc.gz	0
-duc851	gallery.me.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	gallery.me.com-duc851.warc.gz	0
-duc851	homepage.mac.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	homepage.mac.com-duc851.warc.gz	0
-duc851	public.me.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	public.me.com-duc851.warc.gz	0
-duc851	web.me.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	web.me.com-duc851.warc.gz	0
-homesforsale	gallery.me.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	gallery.me.com-homesforsale.warc.gz	0
-homesforsale	homepage.mac.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	homepage.mac.com-homesforsale.warc.gz	0
-homesforsale	public.me.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	public.me.com-homesforsale.warc.gz	0
-homesforsale	web.me.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	web.me.com-homesforsale.warc.gz	0
-richardharkness	gallery.me.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	gallery.me.com-richardharkness.warc.gz	0
-richardharkness	homepage.mac.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	homepage.mac.com-richardharkness.warc.gz	0
-richardharkness	public.me.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	public.me.com-richardharkness.warc.gz	0
-richardharkness	web.me.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	web.me.com-richardharkness.warc.gz	0
-thierry.aubin	gallery.me.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	gallery.me.com-thierry.aubin.warc.gz	0
-thierry.aubin	homepage.mac.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	homepage.mac.com-thierry.aubin.warc.gz	0
-thierry.aubin	public.me.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	public.me.com-thierry.aubin.warc.gz	0
-thierry.aubin	web.me.com		archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	web.me.com-thierry.aubin.warc.gz	0
+armfield2	gallery.me.com	2012-03-31 11:33:37	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	gallery.me.com-armfield2.warc.gz	4235
+armfield2	homepage.mac.com	2012-03-31 11:33:40	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	homepage.mac.com-armfield2.warc.gz	99338
+armfield2	public.me.com	2012-03-31 11:33:36	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	public.me.com-armfield2.warc.gz	1134929
+armfield2	web.me.com	2012-03-31 11:33:34	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	web.me.com-armfield2.warc.gz	154888611
+duc851	gallery.me.com	2012-03-31 11:54:04	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	gallery.me.com-duc851.warc.gz	5112
+duc851	homepage.mac.com	2012-03-31 11:54:05	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	homepage.mac.com-duc851.warc.gz	4895
+duc851	public.me.com	2012-03-31 11:54:02	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	public.me.com-duc851.warc.gz	1915
+duc851	web.me.com	2012-03-31 11:54:01	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	web.me.com-duc851.warc.gz	9956891
+homesforsale	gallery.me.com	2012-03-31 12:47:16	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	gallery.me.com-homesforsale.warc.gz	568051546
+homesforsale	homepage.mac.com	2012-03-31 12:47:16	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	homepage.mac.com-homesforsale.warc.gz	4922
+homesforsale	public.me.com	2012-03-31 12:43:05	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	public.me.com-homesforsale.warc.gz	1930
+homesforsale	web.me.com	2012-03-31 12:42:46	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	web.me.com-homesforsale.warc.gz	1430975335
+richardharkness	gallery.me.com	2012-03-31 11:50:18	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	gallery.me.com-richardharkness.warc.gz	4272
+richardharkness	homepage.mac.com	2012-03-31 11:50:19	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	homepage.mac.com-richardharkness.warc.gz	4933
+richardharkness	public.me.com	2012-03-31 11:50:15	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	public.me.com-richardharkness.warc.gz	1927
+richardharkness	web.me.com	2012-03-31 11:50:09	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	web.me.com-richardharkness.warc.gz	103419571
+thierry.aubin	gallery.me.com	2012-03-31 13:54:00	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	gallery.me.com-thierry.aubin.warc.gz	336600910
+thierry.aubin	homepage.mac.com	2012-03-31 13:54:01	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	homepage.mac.com-thierry.aubin.warc.gz	4945
+thierry.aubin	public.me.com	2012-03-31 13:44:08	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	public.me.com-thierry.aubin.warc.gz	1925
+thierry.aubin	web.me.com	2012-03-31 13:43:56	archiveteam-mobileme-hero-241x	archiveteam-mobileme-hero-241x-2414.tar	web.me.com-thierry.aubin.warc.gz	3102273134

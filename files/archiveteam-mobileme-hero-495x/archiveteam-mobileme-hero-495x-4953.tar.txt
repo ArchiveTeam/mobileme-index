@@ -1,24 +1,24 @@
-davidanddarci	gallery.me.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	gallery.me.com-davidanddarci.warc.gz	0
-davidanddarci	homepage.mac.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	homepage.mac.com-davidanddarci.warc.gz	0
-davidanddarci	public.me.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	public.me.com-davidanddarci.warc.gz	0
-davidanddarci	web.me.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	web.me.com-davidanddarci.warc.gz	0
-miguels_27	gallery.me.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	gallery.me.com-miguels_27.warc.gz	0
-miguels_27	homepage.mac.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	homepage.mac.com-miguels_27.warc.gz	0
-miguels_27	public.me.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	public.me.com-miguels_27.warc.gz	0
-miguels_27	web.me.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	web.me.com-miguels_27.warc.gz	0
-patrickmarz	gallery.me.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	gallery.me.com-patrickmarz.warc.gz	0
-patrickmarz	homepage.mac.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	homepage.mac.com-patrickmarz.warc.gz	0
-patrickmarz	public.me.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	public.me.com-patrickmarz.warc.gz	0
-patrickmarz	web.me.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	web.me.com-patrickmarz.warc.gz	0
-rv6a	gallery.me.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	gallery.me.com-rv6a.warc.gz	0
-rv6a	homepage.mac.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	homepage.mac.com-rv6a.warc.gz	0
-rv6a	public.me.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	public.me.com-rv6a.warc.gz	0
-rv6a	web.me.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	web.me.com-rv6a.warc.gz	0
-seamus_waldron	gallery.me.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	gallery.me.com-seamus_waldron.warc.gz	0
-seamus_waldron	homepage.mac.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	homepage.mac.com-seamus_waldron.warc.gz	0
-seamus_waldron	public.me.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	public.me.com-seamus_waldron.warc.gz	0
-seamus_waldron	web.me.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	web.me.com-seamus_waldron.warc.gz	0
-sjuulcluitmans	gallery.me.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	gallery.me.com-sjuulcluitmans.warc.gz	0
-sjuulcluitmans	homepage.mac.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	homepage.mac.com-sjuulcluitmans.warc.gz	0
-sjuulcluitmans	public.me.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	public.me.com-sjuulcluitmans.warc.gz	0
-sjuulcluitmans	web.me.com		archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	web.me.com-sjuulcluitmans.warc.gz	0
+davidanddarci	gallery.me.com	2012-04-07 18:51:58	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	gallery.me.com-davidanddarci.warc.gz	4270
+davidanddarci	homepage.mac.com	2012-04-07 18:51:59	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	homepage.mac.com-davidanddarci.warc.gz	4924
+davidanddarci	public.me.com	2012-04-07 18:51:58	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	public.me.com-davidanddarci.warc.gz	1921
+davidanddarci	web.me.com	2012-04-07 18:51:58	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	web.me.com-davidanddarci.warc.gz	13482201
+miguels_27	gallery.me.com	2012-04-07 18:32:23	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	gallery.me.com-miguels_27.warc.gz	203206133
+miguels_27	homepage.mac.com	2012-04-07 18:32:23	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	homepage.mac.com-miguels_27.warc.gz	4917
+miguels_27	public.me.com	2012-04-07 18:28:37	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	public.me.com-miguels_27.warc.gz	1924
+miguels_27	web.me.com	2012-04-07 18:28:37	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	web.me.com-miguels_27.warc.gz	2113658
+patrickmarz	gallery.me.com	2012-04-07 18:50:02	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	gallery.me.com-patrickmarz.warc.gz	115595106
+patrickmarz	homepage.mac.com	2012-04-07 18:50:03	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	homepage.mac.com-patrickmarz.warc.gz	4930
+patrickmarz	public.me.com	2012-04-07 18:46:46	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	public.me.com-patrickmarz.warc.gz	1925
+patrickmarz	web.me.com	2012-04-07 18:46:45	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	web.me.com-patrickmarz.warc.gz	39983263
+rv6a	gallery.me.com	2012-04-07 19:37:03	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	gallery.me.com-rv6a.warc.gz	4952
+rv6a	homepage.mac.com	2012-04-07 19:37:14	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	homepage.mac.com-rv6a.warc.gz	206670
+rv6a	public.me.com	2012-04-07 19:37:03	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	public.me.com-rv6a.warc.gz	1968569748
+rv6a	web.me.com	2012-04-07 18:52:01	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	web.me.com-rv6a.warc.gz	28859
+seamus_waldron	gallery.me.com	2012-04-07 18:43:17	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	gallery.me.com-seamus_waldron.warc.gz	5309
+seamus_waldron	homepage.mac.com	2012-04-07 18:43:24	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	homepage.mac.com-seamus_waldron.warc.gz	167046
+seamus_waldron	public.me.com	2012-04-07 18:43:15	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	public.me.com-seamus_waldron.warc.gz	427748035
+seamus_waldron	web.me.com	2012-04-07 18:33:17	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	web.me.com-seamus_waldron.warc.gz	32460038
+sjuulcluitmans	gallery.me.com	2012-04-07 20:22:00	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	gallery.me.com-sjuulcluitmans.warc.gz	593899269
+sjuulcluitmans	homepage.mac.com	2012-04-07 20:22:00	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	homepage.mac.com-sjuulcluitmans.warc.gz	4941
+sjuulcluitmans	public.me.com	2012-04-07 20:14:57	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	public.me.com-sjuulcluitmans.warc.gz	1934
+sjuulcluitmans	web.me.com	2012-04-07 20:14:54	archiveteam-mobileme-hero-495x	archiveteam-mobileme-hero-495x-4953.tar	web.me.com-sjuulcluitmans.warc.gz	1182447953

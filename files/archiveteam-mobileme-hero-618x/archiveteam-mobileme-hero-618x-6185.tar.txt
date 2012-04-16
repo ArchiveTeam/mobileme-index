@@ -1,8 +1,8 @@
-ardeshir	gallery.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6185.tar	gallery.me.com-ardeshir.warc.gz	0
-ardeshir	homepage.mac.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6185.tar	homepage.mac.com-ardeshir.warc.gz	0
-ardeshir	public.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6185.tar	public.me.com-ardeshir.warc.gz	0
-ardeshir	web.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6185.tar	web.me.com-ardeshir.warc.gz	0
-dragonmaster7	gallery.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6185.tar	gallery.me.com-dragonmaster7.warc.gz	0
-dragonmaster7	homepage.mac.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6185.tar	homepage.mac.com-dragonmaster7.warc.gz	0
-dragonmaster7	public.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6185.tar	public.me.com-dragonmaster7.warc.gz	0
-dragonmaster7	web.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6185.tar	web.me.com-dragonmaster7.warc.gz	0
+ardeshir	gallery.me.com	2012-04-11 03:36:02	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6185.tar	gallery.me.com-ardeshir.warc.gz	1044295461
+ardeshir	homepage.mac.com	2012-04-11 03:38:16	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6185.tar	homepage.mac.com-ardeshir.warc.gz	156387929
+ardeshir	public.me.com	2012-04-11 03:17:36	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6185.tar	public.me.com-ardeshir.warc.gz	2433180519
+ardeshir	web.me.com	2012-04-11 02:10:24	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6185.tar	web.me.com-ardeshir.warc.gz	5341158
+dragonmaster7	gallery.me.com	2012-04-11 02:08:12	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6185.tar	gallery.me.com-dragonmaster7.warc.gz	4262
+dragonmaster7	homepage.mac.com	2012-04-11 02:08:14	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6185.tar	homepage.mac.com-dragonmaster7.warc.gz	37001
+dragonmaster7	public.me.com	2012-04-11 02:08:11	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6185.tar	public.me.com-dragonmaster7.warc.gz	704433048
+dragonmaster7	web.me.com	2012-04-11 01:20:17	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6185.tar	web.me.com-dragonmaster7.warc.gz	43454291

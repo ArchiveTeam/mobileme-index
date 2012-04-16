@@ -1,24 +1,24 @@
-austinwhite1	gallery.me.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	gallery.me.com-austinwhite1.warc.gz	0
-austinwhite1	homepage.mac.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	homepage.mac.com-austinwhite1.warc.gz	0
-austinwhite1	public.me.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	public.me.com-austinwhite1.warc.gz	0
-austinwhite1	web.me.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	web.me.com-austinwhite1.warc.gz	0
-dwjob	gallery.me.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	gallery.me.com-dwjob.warc.gz	0
-dwjob	homepage.mac.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	homepage.mac.com-dwjob.warc.gz	0
-dwjob	public.me.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	public.me.com-dwjob.warc.gz	0
-dwjob	web.me.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	web.me.com-dwjob.warc.gz	0
-jencarden	gallery.me.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	gallery.me.com-jencarden.warc.gz	0
-jencarden	homepage.mac.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	homepage.mac.com-jencarden.warc.gz	0
-jencarden	public.me.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	public.me.com-jencarden.warc.gz	0
-jencarden	web.me.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	web.me.com-jencarden.warc.gz	0
-outstanding.images	gallery.me.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	gallery.me.com-outstanding.images.warc.gz	0
-outstanding.images	homepage.mac.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	homepage.mac.com-outstanding.images.warc.gz	0
-outstanding.images	public.me.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	public.me.com-outstanding.images.warc.gz	0
-outstanding.images	web.me.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	web.me.com-outstanding.images.warc.gz	0
-pbodum	gallery.me.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	gallery.me.com-pbodum.warc.gz	0
-pbodum	homepage.mac.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	homepage.mac.com-pbodum.warc.gz	0
-pbodum	public.me.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	public.me.com-pbodum.warc.gz	0
-pbodum	web.me.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	web.me.com-pbodum.warc.gz	0
-phvda	gallery.me.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	gallery.me.com-phvda.warc.gz	0
-phvda	homepage.mac.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	homepage.mac.com-phvda.warc.gz	0
-phvda	public.me.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	public.me.com-phvda.warc.gz	0
-phvda	web.me.com		archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	web.me.com-phvda.warc.gz	0
+austinwhite1	gallery.me.com	2012-03-31 15:09:31	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	gallery.me.com-austinwhite1.warc.gz	4291
+austinwhite1	homepage.mac.com	2012-03-31 15:09:31	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	homepage.mac.com-austinwhite1.warc.gz	4912
+austinwhite1	public.me.com	2012-03-31 15:09:31	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	public.me.com-austinwhite1.warc.gz	1923
+austinwhite1	web.me.com	2012-03-31 15:09:30	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	web.me.com-austinwhite1.warc.gz	367792
+dwjob	gallery.me.com	2012-03-31 15:09:16	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	gallery.me.com-dwjob.warc.gz	8341
+dwjob	homepage.mac.com	2012-03-31 15:09:16	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	homepage.mac.com-dwjob.warc.gz	5151
+dwjob	public.me.com	2012-03-31 15:09:15	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	public.me.com-dwjob.warc.gz	1910
+dwjob	web.me.com	2012-03-31 15:09:15	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	web.me.com-dwjob.warc.gz	17662
+jencarden	gallery.me.com	2012-03-31 17:37:27	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	gallery.me.com-jencarden.warc.gz	81848954
+jencarden	homepage.mac.com	2012-03-31 17:37:27	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	homepage.mac.com-jencarden.warc.gz	4898
+jencarden	public.me.com	2012-03-31 17:35:09	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	public.me.com-jencarden.warc.gz	1916
+jencarden	web.me.com	2012-03-31 17:35:03	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	web.me.com-jencarden.warc.gz	738176194
+outstanding.images	gallery.me.com	2012-03-31 16:08:27	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	gallery.me.com-outstanding.images.warc.gz	12366
+outstanding.images	homepage.mac.com	2012-03-31 16:08:27	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	homepage.mac.com-outstanding.images.warc.gz	7166
+outstanding.images	public.me.com	2012-03-31 16:08:26	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	public.me.com-outstanding.images.warc.gz	1944
+outstanding.images	web.me.com	2012-03-31 16:08:26	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	web.me.com-outstanding.images.warc.gz	22530
+pbodum	gallery.me.com	2012-03-31 16:08:22	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	gallery.me.com-pbodum.warc.gz	2492595469
+pbodum	homepage.mac.com	2012-03-31 16:08:22	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	homepage.mac.com-pbodum.warc.gz	4890
+pbodum	public.me.com	2012-03-31 15:16:29	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	public.me.com-pbodum.warc.gz	1910
+pbodum	web.me.com	2012-03-31 15:16:29	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	web.me.com-pbodum.warc.gz	44346565
+phvda	gallery.me.com	2012-03-31 18:46:19	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	gallery.me.com-phvda.warc.gz	689285
+phvda	homepage.mac.com	2012-03-31 18:46:19	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	homepage.mac.com-phvda.warc.gz	4903
+phvda	public.me.com	2012-03-31 18:46:16	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	public.me.com-phvda.warc.gz	7577591577
+phvda	web.me.com	2012-03-31 17:39:12	archiveteam-mobileme-hero-247x	archiveteam-mobileme-hero-247x-2476.tar	web.me.com-phvda.warc.gz	3128935

@@ -1,8 +1,8 @@
-crsmh	gallery.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4191.tar	gallery.me.com-crsmh.warc.gz	0
-crsmh	homepage.mac.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4191.tar	homepage.mac.com-crsmh.warc.gz	0
-crsmh	public.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4191.tar	public.me.com-crsmh.warc.gz	0
-crsmh	web.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4191.tar	web.me.com-crsmh.warc.gz	0
-jordannerenner	gallery.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4191.tar	gallery.me.com-jordannerenner.warc.gz	0
-jordannerenner	homepage.mac.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4191.tar	homepage.mac.com-jordannerenner.warc.gz	0
-jordannerenner	public.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4191.tar	public.me.com-jordannerenner.warc.gz	0
-jordannerenner	web.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4191.tar	web.me.com-jordannerenner.warc.gz	0
+crsmh	gallery.me.com	2012-04-05 09:27:44	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4191.tar	gallery.me.com-crsmh.warc.gz	4726910430
+crsmh	homepage.mac.com	2012-04-05 09:27:45	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4191.tar	homepage.mac.com-crsmh.warc.gz	12778
+crsmh	public.me.com	2012-04-05 07:48:26	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4191.tar	public.me.com-crsmh.warc.gz	1912
+crsmh	web.me.com	2012-04-05 07:48:12	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4191.tar	web.me.com-crsmh.warc.gz	496639766
+jordannerenner	gallery.me.com	2012-04-05 07:15:26	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4191.tar	gallery.me.com-jordannerenner.warc.gz	4304
+jordannerenner	homepage.mac.com	2012-04-05 07:15:26	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4191.tar	homepage.mac.com-jordannerenner.warc.gz	4924
+jordannerenner	public.me.com	2012-04-05 07:15:25	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4191.tar	public.me.com-jordannerenner.warc.gz	1926
+jordannerenner	web.me.com	2012-04-05 07:15:25	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4191.tar	web.me.com-jordannerenner.warc.gz	5702420

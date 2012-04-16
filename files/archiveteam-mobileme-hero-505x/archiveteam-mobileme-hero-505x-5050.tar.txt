@@ -1,24 +1,24 @@
-goodrich	gallery.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	gallery.me.com-goodrich.warc.gz	0
-goodrich	homepage.mac.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	homepage.mac.com-goodrich.warc.gz	0
-goodrich	public.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	public.me.com-goodrich.warc.gz	0
-goodrich	web.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	web.me.com-goodrich.warc.gz	0
-ilandka	gallery.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	gallery.me.com-ilandka.warc.gz	0
-ilandka	homepage.mac.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	homepage.mac.com-ilandka.warc.gz	0
-ilandka	public.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	public.me.com-ilandka.warc.gz	0
-ilandka	web.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	web.me.com-ilandka.warc.gz	0
-inphinitti	gallery.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	gallery.me.com-inphinitti.warc.gz	0
-inphinitti	homepage.mac.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	homepage.mac.com-inphinitti.warc.gz	0
-inphinitti	public.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	public.me.com-inphinitti.warc.gz	0
-inphinitti	web.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	web.me.com-inphinitti.warc.gz	0
-mgibbs	gallery.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	gallery.me.com-mgibbs.warc.gz	0
-mgibbs	homepage.mac.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	homepage.mac.com-mgibbs.warc.gz	0
-mgibbs	public.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	public.me.com-mgibbs.warc.gz	0
-mgibbs	web.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	web.me.com-mgibbs.warc.gz	0
-nataliebork	gallery.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	gallery.me.com-nataliebork.warc.gz	0
-nataliebork	homepage.mac.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	homepage.mac.com-nataliebork.warc.gz	0
-nataliebork	public.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	public.me.com-nataliebork.warc.gz	0
-nataliebork	web.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	web.me.com-nataliebork.warc.gz	0
-sabercathoops	gallery.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	gallery.me.com-sabercathoops.warc.gz	0
-sabercathoops	homepage.mac.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	homepage.mac.com-sabercathoops.warc.gz	0
-sabercathoops	public.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	public.me.com-sabercathoops.warc.gz	0
-sabercathoops	web.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	web.me.com-sabercathoops.warc.gz	0
+goodrich	gallery.me.com	2012-04-07 22:58:08	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	gallery.me.com-goodrich.warc.gz	72309354
+goodrich	homepage.mac.com	2012-04-07 22:58:09	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	homepage.mac.com-goodrich.warc.gz	9321
+goodrich	public.me.com	2012-04-07 22:55:39	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	public.me.com-goodrich.warc.gz	1916
+goodrich	web.me.com	2012-04-07 22:55:38	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	web.me.com-goodrich.warc.gz	2052960
+ilandka	gallery.me.com	2012-04-08 01:24:56	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	gallery.me.com-ilandka.warc.gz	2189150
+ilandka	homepage.mac.com	2012-04-08 01:24:56	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	homepage.mac.com-ilandka.warc.gz	4921
+ilandka	public.me.com	2012-04-08 01:24:51	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	public.me.com-ilandka.warc.gz	1909
+ilandka	web.me.com	2012-04-08 01:24:50	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	web.me.com-ilandka.warc.gz	12144741
+inphinitti	gallery.me.com	2012-04-08 01:02:34	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	gallery.me.com-inphinitti.warc.gz	5014
+inphinitti	homepage.mac.com	2012-04-08 01:02:35	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	homepage.mac.com-inphinitti.warc.gz	4920
+inphinitti	public.me.com	2012-04-08 01:02:32	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	public.me.com-inphinitti.warc.gz	1922
+inphinitti	web.me.com	2012-04-08 01:02:29	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	web.me.com-inphinitti.warc.gz	515557011
+mgibbs	gallery.me.com	2012-04-08 00:03:01	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	gallery.me.com-mgibbs.warc.gz	2617362467
+mgibbs	homepage.mac.com	2012-04-08 00:03:24	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	homepage.mac.com-mgibbs.warc.gz	554479
+mgibbs	public.me.com	2012-04-07 23:15:01	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	public.me.com-mgibbs.warc.gz	80051488
+mgibbs	web.me.com	2012-04-07 23:13:08	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	web.me.com-mgibbs.warc.gz	195524342
+nataliebork	gallery.me.com	2012-04-08 01:20:53	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	gallery.me.com-nataliebork.warc.gz	90367962
+nataliebork	homepage.mac.com	2012-04-08 01:20:53	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	homepage.mac.com-nataliebork.warc.gz	4916
+nataliebork	public.me.com	2012-04-08 01:19:35	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	public.me.com-nataliebork.warc.gz	1927
+nataliebork	web.me.com	2012-04-08 01:19:35	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	web.me.com-nataliebork.warc.gz	69456359
+sabercathoops	gallery.me.com	2012-04-08 01:42:37	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	gallery.me.com-sabercathoops.warc.gz	2026296591
+sabercathoops	homepage.mac.com	2012-04-08 01:42:38	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	homepage.mac.com-sabercathoops.warc.gz	4917
+sabercathoops	public.me.com	2012-04-08 01:30:23	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	public.me.com-sabercathoops.warc.gz	1926
+sabercathoops	web.me.com	2012-04-08 01:30:23	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5050.tar	web.me.com-sabercathoops.warc.gz	156822392

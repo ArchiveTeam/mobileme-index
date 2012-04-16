@@ -1,12 +1,12 @@
-grant_white_film	gallery.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	gallery.me.com-grant_white_film.warc.gz	0
-grant_white_film	homepage.mac.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	homepage.mac.com-grant_white_film.warc.gz	0
-grant_white_film	public.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	public.me.com-grant_white_film.warc.gz	0
-grant_white_film	web.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	web.me.com-grant_white_film.warc.gz	0
-jankuijpers	gallery.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	gallery.me.com-jankuijpers.warc.gz	0
-jankuijpers	homepage.mac.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	homepage.mac.com-jankuijpers.warc.gz	0
-jankuijpers	public.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	public.me.com-jankuijpers.warc.gz	0
-jankuijpers	web.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	web.me.com-jankuijpers.warc.gz	0
-lipsio	gallery.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	gallery.me.com-lipsio.warc.gz	0
-lipsio	homepage.mac.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	homepage.mac.com-lipsio.warc.gz	0
-lipsio	public.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	public.me.com-lipsio.warc.gz	0
-lipsio	web.me.com		archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	web.me.com-lipsio.warc.gz	0
+grant_white_film	gallery.me.com	2012-04-02 10:41:26	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	gallery.me.com-grant_white_film.warc.gz	5402026119
+grant_white_film	homepage.mac.com	2012-04-02 10:41:28	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	homepage.mac.com-grant_white_film.warc.gz	55093
+grant_white_film	public.me.com	2012-04-02 10:04:39	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	public.me.com-grant_white_film.warc.gz	1792388251
+grant_white_film	web.me.com	2012-04-02 09:24:54	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	web.me.com-grant_white_film.warc.gz	386368031
+jankuijpers	gallery.me.com	2012-04-02 09:12:57	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	gallery.me.com-jankuijpers.warc.gz	736341854
+jankuijpers	homepage.mac.com	2012-04-02 09:12:58	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	homepage.mac.com-jankuijpers.warc.gz	4930
+jankuijpers	public.me.com	2012-04-02 09:02:02	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	public.me.com-jankuijpers.warc.gz	1920
+jankuijpers	web.me.com	2012-04-02 09:02:01	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	web.me.com-jankuijpers.warc.gz	14211570
+lipsio	gallery.me.com	2012-04-02 08:57:20	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	gallery.me.com-lipsio.warc.gz	4986
+lipsio	homepage.mac.com	2012-04-02 08:57:21	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	homepage.mac.com-lipsio.warc.gz	4883
+lipsio	public.me.com	2012-04-02 08:57:19	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	public.me.com-lipsio.warc.gz	1914
+lipsio	web.me.com	2012-04-02 08:57:17	archiveteam-mobileme-hero-290x	archiveteam-mobileme-hero-290x-2902.tar	web.me.com-lipsio.warc.gz	8842846

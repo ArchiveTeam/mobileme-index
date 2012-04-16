@@ -1,12 +1,12 @@
-esker	gallery.me.com		archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	gallery.me.com-esker.warc.gz	0
-esker	homepage.mac.com		archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	homepage.mac.com-esker.warc.gz	0
-esker	public.me.com		archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	public.me.com-esker.warc.gz	0
-esker	web.me.com		archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	web.me.com-esker.warc.gz	0
-immoos1	gallery.me.com		archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	gallery.me.com-immoos1.warc.gz	0
-immoos1	homepage.mac.com		archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	homepage.mac.com-immoos1.warc.gz	0
-immoos1	public.me.com		archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	public.me.com-immoos1.warc.gz	0
-immoos1	web.me.com		archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	web.me.com-immoos1.warc.gz	0
-stolenpeach	gallery.me.com		archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	gallery.me.com-stolenpeach.warc.gz	0
-stolenpeach	homepage.mac.com		archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	homepage.mac.com-stolenpeach.warc.gz	0
-stolenpeach	public.me.com		archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	public.me.com-stolenpeach.warc.gz	0
-stolenpeach	web.me.com		archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	web.me.com-stolenpeach.warc.gz	0
+esker	gallery.me.com	2012-04-09 22:38:59	archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	gallery.me.com-esker.warc.gz	104789795
+esker	homepage.mac.com	2012-04-09 22:41:25	archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	homepage.mac.com-esker.warc.gz	1233561
+esker	public.me.com	2012-04-09 22:35:14	archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	public.me.com-esker.warc.gz	1907
+esker	web.me.com	2012-04-09 22:35:14	archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	web.me.com-esker.warc.gz	34768
+immoos1	gallery.me.com	2012-04-10 01:47:48	archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	gallery.me.com-immoos1.warc.gz	4240
+immoos1	homepage.mac.com	2012-04-10 01:47:48	archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	homepage.mac.com-immoos1.warc.gz	4911
+immoos1	public.me.com	2012-04-10 01:47:46	archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	public.me.com-immoos1.warc.gz	1911
+immoos1	web.me.com	2012-04-10 01:47:45	archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	web.me.com-immoos1.warc.gz	5268178587
+stolenpeach	gallery.me.com	2012-04-09 23:08:43	archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	gallery.me.com-stolenpeach.warc.gz	1836080456
+stolenpeach	homepage.mac.com	2012-04-09 23:08:49	archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	homepage.mac.com-stolenpeach.warc.gz	97034
+stolenpeach	public.me.com	2012-04-09 22:50:39	archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	public.me.com-stolenpeach.warc.gz	16554681
+stolenpeach	web.me.com	2012-04-09 22:50:28	archiveteam-mobileme-hero-570x	archiveteam-mobileme-hero-570x-5703.tar	web.me.com-stolenpeach.warc.gz	315482349

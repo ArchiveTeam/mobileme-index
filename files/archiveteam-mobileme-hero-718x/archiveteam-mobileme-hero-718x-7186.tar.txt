@@ -1,8 +1,8 @@
-lfrap	gallery.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7186.tar	gallery.me.com-lfrap.warc.gz	0
-lfrap	homepage.mac.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7186.tar	homepage.mac.com-lfrap.warc.gz	0
-lfrap	public.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7186.tar	public.me.com-lfrap.warc.gz	0
-lfrap	web.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7186.tar	web.me.com-lfrap.warc.gz	0
-sarahneanbruce	gallery.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7186.tar	gallery.me.com-sarahneanbruce.warc.gz	0
-sarahneanbruce	homepage.mac.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7186.tar	homepage.mac.com-sarahneanbruce.warc.gz	0
-sarahneanbruce	public.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7186.tar	public.me.com-sarahneanbruce.warc.gz	0
-sarahneanbruce	web.me.com		archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7186.tar	web.me.com-sarahneanbruce.warc.gz	0
+lfrap	gallery.me.com	2012-04-13 05:29:15	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7186.tar	gallery.me.com-lfrap.warc.gz	6002
+lfrap	homepage.mac.com	2012-04-13 05:29:15	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7186.tar	homepage.mac.com-lfrap.warc.gz	4902
+lfrap	public.me.com	2012-04-13 05:29:14	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7186.tar	public.me.com-lfrap.warc.gz	1914
+lfrap	web.me.com	2012-04-13 05:29:13	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7186.tar	web.me.com-lfrap.warc.gz	66593099
+sarahneanbruce	gallery.me.com	2012-04-13 07:28:57	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7186.tar	gallery.me.com-sarahneanbruce.warc.gz	5048
+sarahneanbruce	homepage.mac.com	2012-04-13 07:29:05	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7186.tar	homepage.mac.com-sarahneanbruce.warc.gz	460061
+sarahneanbruce	public.me.com	2012-04-13 07:28:55	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7186.tar	public.me.com-sarahneanbruce.warc.gz	7804317001
+sarahneanbruce	web.me.com	2012-04-13 05:29:19	archiveteam-mobileme-hero-718x	archiveteam-mobileme-hero-718x-7186.tar	web.me.com-sarahneanbruce.warc.gz	35860

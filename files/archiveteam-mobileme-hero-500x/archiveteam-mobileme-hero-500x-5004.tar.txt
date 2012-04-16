@@ -1,12 +1,12 @@
-c_dog	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	gallery.me.com-c_dog.warc.gz	0
-c_dog	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	homepage.mac.com-c_dog.warc.gz	0
-c_dog	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	public.me.com-c_dog.warc.gz	0
-c_dog	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	web.me.com-c_dog.warc.gz	0
-floyacono	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	gallery.me.com-floyacono.warc.gz	0
-floyacono	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	homepage.mac.com-floyacono.warc.gz	0
-floyacono	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	public.me.com-floyacono.warc.gz	0
-floyacono	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	web.me.com-floyacono.warc.gz	0
-rosalynwilliams	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	gallery.me.com-rosalynwilliams.warc.gz	0
-rosalynwilliams	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	homepage.mac.com-rosalynwilliams.warc.gz	0
-rosalynwilliams	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	public.me.com-rosalynwilliams.warc.gz	0
-rosalynwilliams	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	web.me.com-rosalynwilliams.warc.gz	0
+c_dog	gallery.me.com	2012-04-07 20:48:28	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	gallery.me.com-c_dog.warc.gz	901159898
+c_dog	homepage.mac.com	2012-04-07 20:48:45	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	homepage.mac.com-c_dog.warc.gz	276399
+c_dog	public.me.com	2012-04-07 20:38:22	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	public.me.com-c_dog.warc.gz	191780753
+c_dog	web.me.com	2012-04-07 20:33:04	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	web.me.com-c_dog.warc.gz	2423381
+floyacono	gallery.me.com	2012-04-07 20:57:12	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	gallery.me.com-floyacono.warc.gz	66644482
+floyacono	homepage.mac.com	2012-04-07 20:57:26	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	homepage.mac.com-floyacono.warc.gz	177685
+floyacono	public.me.com	2012-04-07 20:52:53	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	public.me.com-floyacono.warc.gz	1916
+floyacono	web.me.com	2012-04-07 20:52:53	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	web.me.com-floyacono.warc.gz	16106347
+rosalynwilliams	gallery.me.com	2012-04-07 22:48:08	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	gallery.me.com-rosalynwilliams.warc.gz	6501697997
+rosalynwilliams	homepage.mac.com	2012-04-07 22:48:09	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	homepage.mac.com-rosalynwilliams.warc.gz	4944
+rosalynwilliams	public.me.com	2012-04-07 21:51:31	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	public.me.com-rosalynwilliams.warc.gz	1218769557
+rosalynwilliams	web.me.com	2012-04-07 21:27:15	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5004.tar	web.me.com-rosalynwilliams.warc.gz	2460850423

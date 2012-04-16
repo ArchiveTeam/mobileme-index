@@ -1,28 +1,28 @@
-amsonx	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	gallery.me.com-amsonx.warc.gz	0
-amsonx	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	homepage.mac.com-amsonx.warc.gz	0
-amsonx	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	public.me.com-amsonx.warc.gz	0
-amsonx	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	web.me.com-amsonx.warc.gz	0
-jeffreybucholtz	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	gallery.me.com-jeffreybucholtz.warc.gz	0
-jeffreybucholtz	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	homepage.mac.com-jeffreybucholtz.warc.gz	0
-jeffreybucholtz	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	public.me.com-jeffreybucholtz.warc.gz	0
-jeffreybucholtz	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	web.me.com-jeffreybucholtz.warc.gz	0
-lonetex	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	gallery.me.com-lonetex.warc.gz	0
-lonetex	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	homepage.mac.com-lonetex.warc.gz	0
-lonetex	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	public.me.com-lonetex.warc.gz	0
-lonetex	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	web.me.com-lonetex.warc.gz	0
-nancytrainsmith	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	gallery.me.com-nancytrainsmith.warc.gz	0
-nancytrainsmith	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	homepage.mac.com-nancytrainsmith.warc.gz	0
-nancytrainsmith	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	public.me.com-nancytrainsmith.warc.gz	0
-nancytrainsmith	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	web.me.com-nancytrainsmith.warc.gz	0
-rexbrangwyn	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	gallery.me.com-rexbrangwyn.warc.gz	0
-rexbrangwyn	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	homepage.mac.com-rexbrangwyn.warc.gz	0
-rexbrangwyn	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	public.me.com-rexbrangwyn.warc.gz	0
-rexbrangwyn	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	web.me.com-rexbrangwyn.warc.gz	0
-tommymitchellmusic	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	gallery.me.com-tommymitchellmusic.warc.gz	0
-tommymitchellmusic	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	homepage.mac.com-tommymitchellmusic.warc.gz	0
-tommymitchellmusic	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	public.me.com-tommymitchellmusic.warc.gz	0
-tommymitchellmusic	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	web.me.com-tommymitchellmusic.warc.gz	0
-yannick.ravetier	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	gallery.me.com-yannick.ravetier.warc.gz	0
-yannick.ravetier	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	homepage.mac.com-yannick.ravetier.warc.gz	0
-yannick.ravetier	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	public.me.com-yannick.ravetier.warc.gz	0
-yannick.ravetier	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	web.me.com-yannick.ravetier.warc.gz	0
+amsonx	gallery.me.com	2012-04-05 15:21:03	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	gallery.me.com-amsonx.warc.gz	12333
+amsonx	homepage.mac.com	2012-04-05 15:21:04	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	homepage.mac.com-amsonx.warc.gz	7146
+amsonx	public.me.com	2012-04-05 15:21:00	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	public.me.com-amsonx.warc.gz	1909
+amsonx	web.me.com	2012-04-05 15:20:59	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	web.me.com-amsonx.warc.gz	22533
+jeffreybucholtz	gallery.me.com	2012-04-05 12:48:36	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	gallery.me.com-jeffreybucholtz.warc.gz	277199947
+jeffreybucholtz	homepage.mac.com	2012-04-05 12:48:37	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	homepage.mac.com-jeffreybucholtz.warc.gz	4950
+jeffreybucholtz	public.me.com	2012-04-05 12:42:39	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	public.me.com-jeffreybucholtz.warc.gz	680733846
+jeffreybucholtz	web.me.com	2012-04-05 12:02:06	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	web.me.com-jeffreybucholtz.warc.gz	855196
+lonetex	gallery.me.com	2012-04-05 18:04:46	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	gallery.me.com-lonetex.warc.gz	3682556139
+lonetex	homepage.mac.com	2012-04-05 18:04:49	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	homepage.mac.com-lonetex.warc.gz	4907
+lonetex	public.me.com	2012-04-05 16:37:47	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	public.me.com-lonetex.warc.gz	1913
+lonetex	web.me.com	2012-04-05 16:37:45	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	web.me.com-lonetex.warc.gz	1012325483
+nancytrainsmith	gallery.me.com	2012-04-05 12:01:20	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	gallery.me.com-nancytrainsmith.warc.gz	247622094
+nancytrainsmith	homepage.mac.com	2012-04-05 12:01:26	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	homepage.mac.com-nancytrainsmith.warc.gz	4941
+nancytrainsmith	public.me.com	2012-04-05 11:43:54	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	public.me.com-nancytrainsmith.warc.gz	29596359
+nancytrainsmith	web.me.com	2012-04-05 11:43:20	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	web.me.com-nancytrainsmith.warc.gz	8841948
+rexbrangwyn	gallery.me.com	2012-04-05 14:34:45	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	gallery.me.com-rexbrangwyn.warc.gz	5000
+rexbrangwyn	homepage.mac.com	2012-04-05 14:34:45	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	homepage.mac.com-rexbrangwyn.warc.gz	4914
+rexbrangwyn	public.me.com	2012-04-05 14:34:43	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	public.me.com-rexbrangwyn.warc.gz	1927
+rexbrangwyn	web.me.com	2012-04-05 14:34:43	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	web.me.com-rexbrangwyn.warc.gz	140257160
+tommymitchellmusic	gallery.me.com	2012-04-05 14:23:22	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	gallery.me.com-tommymitchellmusic.warc.gz	1415629493
+tommymitchellmusic	homepage.mac.com	2012-04-05 14:23:23	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	homepage.mac.com-tommymitchellmusic.warc.gz	4962
+tommymitchellmusic	public.me.com	2012-04-05 13:28:23	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	public.me.com-tommymitchellmusic.warc.gz	1941
+tommymitchellmusic	web.me.com	2012-04-05 13:28:22	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	web.me.com-tommymitchellmusic.warc.gz	264968182
+yannick.ravetier	gallery.me.com	2012-04-05 15:20:51	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	gallery.me.com-yannick.ravetier.warc.gz	595741257
+yannick.ravetier	homepage.mac.com	2012-04-05 15:20:52	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	homepage.mac.com-yannick.ravetier.warc.gz	4946
+yannick.ravetier	public.me.com	2012-04-05 15:03:51	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	public.me.com-yannick.ravetier.warc.gz	96135133
+yannick.ravetier	web.me.com	2012-04-05 15:00:47	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4334.tar	web.me.com-yannick.ravetier.warc.gz	111731330

@@ -1,20 +1,20 @@
-dalake	gallery.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	gallery.me.com-dalake.warc.gz	0
-dalake	homepage.mac.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	homepage.mac.com-dalake.warc.gz	0
-dalake	public.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	public.me.com-dalake.warc.gz	0
-dalake	web.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	web.me.com-dalake.warc.gz	0
-greg.g	gallery.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	gallery.me.com-greg.g.warc.gz	0
-greg.g	homepage.mac.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	homepage.mac.com-greg.g.warc.gz	0
-greg.g	public.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	public.me.com-greg.g.warc.gz	0
-greg.g	web.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	web.me.com-greg.g.warc.gz	0
-patrick.stewart	gallery.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	gallery.me.com-patrick.stewart.warc.gz	0
-patrick.stewart	homepage.mac.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	homepage.mac.com-patrick.stewart.warc.gz	0
-patrick.stewart	public.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	public.me.com-patrick.stewart.warc.gz	0
-patrick.stewart	web.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	web.me.com-patrick.stewart.warc.gz	0
-tiffanysilver	gallery.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	gallery.me.com-tiffanysilver.warc.gz	0
-tiffanysilver	homepage.mac.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	homepage.mac.com-tiffanysilver.warc.gz	0
-tiffanysilver	public.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	public.me.com-tiffanysilver.warc.gz	0
-tiffanysilver	web.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	web.me.com-tiffanysilver.warc.gz	0
-unsinkable4you	gallery.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	gallery.me.com-unsinkable4you.warc.gz	0
-unsinkable4you	homepage.mac.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	homepage.mac.com-unsinkable4you.warc.gz	0
-unsinkable4you	public.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	public.me.com-unsinkable4you.warc.gz	0
-unsinkable4you	web.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	web.me.com-unsinkable4you.warc.gz	0
+dalake	gallery.me.com	2012-04-13 11:20:34	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	gallery.me.com-dalake.warc.gz	12302
+dalake	homepage.mac.com	2012-04-13 11:20:35	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	homepage.mac.com-dalake.warc.gz	7138
+dalake	public.me.com	2012-04-13 11:20:31	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	public.me.com-dalake.warc.gz	1909
+dalake	web.me.com	2012-04-13 11:20:30	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	web.me.com-dalake.warc.gz	22478
+greg.g	gallery.me.com	2012-04-13 11:20:23	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	gallery.me.com-greg.g.warc.gz	2835226160
+greg.g	homepage.mac.com	2012-04-13 11:20:23	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	homepage.mac.com-greg.g.warc.gz	4904
+greg.g	public.me.com	2012-04-13 09:58:22	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	public.me.com-greg.g.warc.gz	1909
+greg.g	web.me.com	2012-04-13 09:58:21	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	web.me.com-greg.g.warc.gz	15728245
+patrick.stewart	gallery.me.com	2012-04-13 12:28:47	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	gallery.me.com-patrick.stewart.warc.gz	651010610
+patrick.stewart	homepage.mac.com	2012-04-13 12:28:47	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	homepage.mac.com-patrick.stewart.warc.gz	4938
+patrick.stewart	public.me.com	2012-04-13 12:13:40	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	public.me.com-patrick.stewart.warc.gz	718279802
+patrick.stewart	web.me.com	2012-04-13 11:26:51	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	web.me.com-patrick.stewart.warc.gz	42355257
+tiffanysilver	gallery.me.com	2012-04-13 09:29:06	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	gallery.me.com-tiffanysilver.warc.gz	6943737
+tiffanysilver	homepage.mac.com	2012-04-13 09:29:11	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	homepage.mac.com-tiffanysilver.warc.gz	4916
+tiffanysilver	public.me.com	2012-04-13 09:28:56	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	public.me.com-tiffanysilver.warc.gz	1928
+tiffanysilver	web.me.com	2012-04-13 09:28:55	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	web.me.com-tiffanysilver.warc.gz	3332229
+unsinkable4you	gallery.me.com	2012-04-13 09:48:32	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	gallery.me.com-unsinkable4you.warc.gz	156807029
+unsinkable4you	homepage.mac.com	2012-04-13 09:48:32	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	homepage.mac.com-unsinkable4you.warc.gz	4931
+unsinkable4you	public.me.com	2012-04-13 09:41:54	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	public.me.com-unsinkable4you.warc.gz	1931
+unsinkable4you	web.me.com	2012-04-13 09:41:53	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7301.tar	web.me.com-unsinkable4you.warc.gz	156207510

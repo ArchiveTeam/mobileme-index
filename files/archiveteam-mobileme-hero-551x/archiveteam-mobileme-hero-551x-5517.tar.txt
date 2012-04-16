@@ -1,16 +1,16 @@
-alexfraser2	gallery.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	gallery.me.com-alexfraser2.warc.gz	0
-alexfraser2	homepage.mac.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	homepage.mac.com-alexfraser2.warc.gz	0
-alexfraser2	public.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	public.me.com-alexfraser2.warc.gz	0
-alexfraser2	web.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	web.me.com-alexfraser2.warc.gz	0
-babybrandt	gallery.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	gallery.me.com-babybrandt.warc.gz	0
-babybrandt	homepage.mac.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	homepage.mac.com-babybrandt.warc.gz	0
-babybrandt	public.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	public.me.com-babybrandt.warc.gz	0
-babybrandt	web.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	web.me.com-babybrandt.warc.gz	0
-davmacho	gallery.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	gallery.me.com-davmacho.warc.gz	0
-davmacho	homepage.mac.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	homepage.mac.com-davmacho.warc.gz	0
-davmacho	public.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	public.me.com-davmacho.warc.gz	0
-davmacho	web.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	web.me.com-davmacho.warc.gz	0
-gkraft	gallery.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	gallery.me.com-gkraft.warc.gz	0
-gkraft	homepage.mac.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	homepage.mac.com-gkraft.warc.gz	0
-gkraft	public.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	public.me.com-gkraft.warc.gz	0
-gkraft	web.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	web.me.com-gkraft.warc.gz	0
+alexfraser2	gallery.me.com	2012-04-09 10:12:23	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	gallery.me.com-alexfraser2.warc.gz	3451361
+alexfraser2	homepage.mac.com	2012-04-09 10:12:23	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	homepage.mac.com-alexfraser2.warc.gz	4927
+alexfraser2	public.me.com	2012-04-09 10:12:16	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	public.me.com-alexfraser2.warc.gz	161817
+alexfraser2	web.me.com	2012-04-09 10:12:15	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	web.me.com-alexfraser2.warc.gz	3954653
+babybrandt	gallery.me.com	2012-04-09 10:10:52	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	gallery.me.com-babybrandt.warc.gz	8353
+babybrandt	homepage.mac.com	2012-04-09 10:10:52	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	homepage.mac.com-babybrandt.warc.gz	5186
+babybrandt	public.me.com	2012-04-09 10:10:51	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	public.me.com-babybrandt.warc.gz	1920
+babybrandt	web.me.com	2012-04-09 10:10:51	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	web.me.com-babybrandt.warc.gz	17732
+davmacho	gallery.me.com	2012-04-09 12:32:05	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	gallery.me.com-davmacho.warc.gz	141815761
+davmacho	homepage.mac.com	2012-04-09 12:32:05	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	homepage.mac.com-davmacho.warc.gz	4913
+davmacho	public.me.com	2012-04-09 12:18:14	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	public.me.com-davmacho.warc.gz	1915
+davmacho	web.me.com	2012-04-09 12:18:13	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	web.me.com-davmacho.warc.gz	2834651734
+gkraft	gallery.me.com	2012-04-09 14:47:04	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	gallery.me.com-gkraft.warc.gz	5878752093
+gkraft	homepage.mac.com	2012-04-09 14:47:04	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	homepage.mac.com-gkraft.warc.gz	4899
+gkraft	public.me.com	2012-04-09 13:35:37	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	public.me.com-gkraft.warc.gz	3714
+gkraft	web.me.com	2012-04-09 13:35:32	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5517.tar	web.me.com-gkraft.warc.gz	3398380330

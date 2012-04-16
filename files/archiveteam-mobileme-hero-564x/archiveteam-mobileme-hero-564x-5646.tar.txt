@@ -1,4 +1,4 @@
-luzrecords	gallery.me.com		archiveteam-mobileme-hero-564x	archiveteam-mobileme-hero-564x-5646.tar	gallery.me.com-luzrecords.warc.gz	0
-luzrecords	homepage.mac.com		archiveteam-mobileme-hero-564x	archiveteam-mobileme-hero-564x-5646.tar	homepage.mac.com-luzrecords.warc.gz	0
-luzrecords	public.me.com		archiveteam-mobileme-hero-564x	archiveteam-mobileme-hero-564x-5646.tar	public.me.com-luzrecords.warc.gz	0
-luzrecords	web.me.com		archiveteam-mobileme-hero-564x	archiveteam-mobileme-hero-564x-5646.tar	web.me.com-luzrecords.warc.gz	0
+luzrecords	gallery.me.com	2012-04-09 22:01:02	archiveteam-mobileme-hero-564x	archiveteam-mobileme-hero-564x-5646.tar	gallery.me.com-luzrecords.warc.gz	4577942632
+luzrecords	homepage.mac.com	2012-04-09 22:01:02	archiveteam-mobileme-hero-564x	archiveteam-mobileme-hero-564x-5646.tar	homepage.mac.com-luzrecords.warc.gz	4925
+luzrecords	public.me.com	2012-04-09 20:53:57	archiveteam-mobileme-hero-564x	archiveteam-mobileme-hero-564x-5646.tar	public.me.com-luzrecords.warc.gz	1918
+luzrecords	web.me.com	2012-04-09 20:53:55	archiveteam-mobileme-hero-564x	archiveteam-mobileme-hero-564x-5646.tar	web.me.com-luzrecords.warc.gz	285776806

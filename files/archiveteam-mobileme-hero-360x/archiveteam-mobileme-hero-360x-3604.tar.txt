@@ -1,16 +1,16 @@
-dohany71	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	gallery.me.com-dohany71.warc.gz	0
-dohany71	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	homepage.mac.com-dohany71.warc.gz	0
-dohany71	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	public.me.com-dohany71.warc.gz	0
-dohany71	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	web.me.com-dohany71.warc.gz	0
-gpoulter1	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	gallery.me.com-gpoulter1.warc.gz	0
-gpoulter1	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	homepage.mac.com-gpoulter1.warc.gz	0
-gpoulter1	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	public.me.com-gpoulter1.warc.gz	0
-gpoulter1	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	web.me.com-gpoulter1.warc.gz	0
-katie.simmons	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	gallery.me.com-katie.simmons.warc.gz	0
-katie.simmons	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	homepage.mac.com-katie.simmons.warc.gz	0
-katie.simmons	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	public.me.com-katie.simmons.warc.gz	0
-katie.simmons	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	web.me.com-katie.simmons.warc.gz	0
-two_legz	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	gallery.me.com-two_legz.warc.gz	0
-two_legz	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	homepage.mac.com-two_legz.warc.gz	0
-two_legz	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	public.me.com-two_legz.warc.gz	0
-two_legz	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	web.me.com-two_legz.warc.gz	0
+dohany71	gallery.me.com	2012-04-03 22:30:43	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	gallery.me.com-dohany71.warc.gz	172916902
+dohany71	homepage.mac.com	2012-04-03 22:30:43	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	homepage.mac.com-dohany71.warc.gz	4892
+dohany71	public.me.com	2012-04-03 22:23:47	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	public.me.com-dohany71.warc.gz	1920
+dohany71	web.me.com	2012-04-03 22:23:45	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	web.me.com-dohany71.warc.gz	309991030
+gpoulter1	gallery.me.com	2012-04-03 21:51:18	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	gallery.me.com-gpoulter1.warc.gz	549761824
+gpoulter1	homepage.mac.com	2012-04-03 21:51:19	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	homepage.mac.com-gpoulter1.warc.gz	4919
+gpoulter1	public.me.com	2012-04-03 21:40:17	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	public.me.com-gpoulter1.warc.gz	81934394
+gpoulter1	web.me.com	2012-04-03 21:38:15	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	web.me.com-gpoulter1.warc.gz	511229387
+katie.simmons	gallery.me.com	2012-04-03 23:50:38	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	gallery.me.com-katie.simmons.warc.gz	3481688218
+katie.simmons	homepage.mac.com	2012-04-03 23:50:41	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	homepage.mac.com-katie.simmons.warc.gz	297009
+katie.simmons	public.me.com	2012-04-03 22:49:17	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	public.me.com-katie.simmons.warc.gz	116134402
+katie.simmons	web.me.com	2012-04-03 22:46:23	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	web.me.com-katie.simmons.warc.gz	137116752
+two_legz	gallery.me.com	2012-04-03 21:24:42	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	gallery.me.com-two_legz.warc.gz	7655130
+two_legz	homepage.mac.com	2012-04-03 21:24:42	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	homepage.mac.com-two_legz.warc.gz	4921
+two_legz	public.me.com	2012-04-03 21:23:46	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	public.me.com-two_legz.warc.gz	1921
+two_legz	web.me.com	2012-04-03 21:23:45	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3604.tar	web.me.com-two_legz.warc.gz	1210523

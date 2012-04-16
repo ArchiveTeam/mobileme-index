@@ -1,20 +1,20 @@
-alexhennig	gallery.me.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	gallery.me.com-alexhennig.warc.gz	0
-alexhennig	homepage.mac.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	homepage.mac.com-alexhennig.warc.gz	0
-alexhennig	public.me.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	public.me.com-alexhennig.warc.gz	0
-alexhennig	web.me.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	web.me.com-alexhennig.warc.gz	0
-gwillcoxon	gallery.me.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	gallery.me.com-gwillcoxon.warc.gz	0
-gwillcoxon	homepage.mac.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	homepage.mac.com-gwillcoxon.warc.gz	0
-gwillcoxon	public.me.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	public.me.com-gwillcoxon.warc.gz	0
-gwillcoxon	web.me.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	web.me.com-gwillcoxon.warc.gz	0
-ibague	gallery.me.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	gallery.me.com-ibague.warc.gz	0
-ibague	homepage.mac.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	homepage.mac.com-ibague.warc.gz	0
-ibague	public.me.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	public.me.com-ibague.warc.gz	0
-ibague	web.me.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	web.me.com-ibague.warc.gz	0
-rooz	gallery.me.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	gallery.me.com-rooz.warc.gz	0
-rooz	homepage.mac.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	homepage.mac.com-rooz.warc.gz	0
-rooz	public.me.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	public.me.com-rooz.warc.gz	0
-rooz	web.me.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	web.me.com-rooz.warc.gz	0
-tldecks	gallery.me.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	gallery.me.com-tldecks.warc.gz	0
-tldecks	homepage.mac.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	homepage.mac.com-tldecks.warc.gz	0
-tldecks	public.me.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	public.me.com-tldecks.warc.gz	0
-tldecks	web.me.com		archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	web.me.com-tldecks.warc.gz	0
+alexhennig	gallery.me.com	2012-04-03 05:58:48	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	gallery.me.com-alexhennig.warc.gz	3971265
+alexhennig	homepage.mac.com	2012-04-03 05:58:48	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	homepage.mac.com-alexhennig.warc.gz	4911
+alexhennig	public.me.com	2012-04-03 05:58:43	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	public.me.com-alexhennig.warc.gz	3751963443
+alexhennig	web.me.com	2012-04-03 04:45:02	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	web.me.com-alexhennig.warc.gz	547188124
+gwillcoxon	gallery.me.com	2012-04-03 02:41:13	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	gallery.me.com-gwillcoxon.warc.gz	5299
+gwillcoxon	homepage.mac.com	2012-04-03 02:41:13	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	homepage.mac.com-gwillcoxon.warc.gz	4898
+gwillcoxon	public.me.com	2012-04-03 02:41:11	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	public.me.com-gwillcoxon.warc.gz	1920
+gwillcoxon	web.me.com	2012-04-03 02:41:10	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	web.me.com-gwillcoxon.warc.gz	33081
+ibague	gallery.me.com	2012-04-03 03:40:48	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	gallery.me.com-ibague.warc.gz	683966982
+ibague	homepage.mac.com	2012-04-03 03:40:48	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	homepage.mac.com-ibague.warc.gz	7828
+ibague	public.me.com	2012-04-03 03:19:25	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	public.me.com-ibague.warc.gz	32772418
+ibague	web.me.com	2012-04-03 03:17:47	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	web.me.com-ibague.warc.gz	217010217
+rooz	gallery.me.com	2012-04-03 02:45:55	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	gallery.me.com-rooz.warc.gz	648849405
+rooz	homepage.mac.com	2012-04-03 02:45:55	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	homepage.mac.com-rooz.warc.gz	4896
+rooz	public.me.com	2012-04-03 02:42:26	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	public.me.com-rooz.warc.gz	3808
+rooz	web.me.com	2012-04-03 02:42:26	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	web.me.com-rooz.warc.gz	4139939
+tldecks	gallery.me.com	2012-04-03 02:41:08	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	gallery.me.com-tldecks.warc.gz	5921
+tldecks	homepage.mac.com	2012-04-03 02:41:08	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	homepage.mac.com-tldecks.warc.gz	4889
+tldecks	public.me.com	2012-04-03 02:41:06	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	public.me.com-tldecks.warc.gz	1914
+tldecks	web.me.com	2012-04-03 02:40:55	archiveteam-mobileme-hero-327x	archiveteam-mobileme-hero-327x-3278.tar	web.me.com-tldecks.warc.gz	1038957132

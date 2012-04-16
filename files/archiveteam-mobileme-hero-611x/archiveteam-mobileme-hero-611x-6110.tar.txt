@@ -1,20 +1,20 @@
-ashanim	gallery.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	gallery.me.com-ashanim.warc.gz	0
-ashanim	homepage.mac.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	homepage.mac.com-ashanim.warc.gz	0
-ashanim	public.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	public.me.com-ashanim.warc.gz	0
-ashanim	web.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	web.me.com-ashanim.warc.gz	0
-dr.romine	gallery.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	gallery.me.com-dr.romine.warc.gz	0
-dr.romine	homepage.mac.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	homepage.mac.com-dr.romine.warc.gz	0
-dr.romine	public.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	public.me.com-dr.romine.warc.gz	0
-dr.romine	web.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	web.me.com-dr.romine.warc.gz	0
-johnstaffs	gallery.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	gallery.me.com-johnstaffs.warc.gz	0
-johnstaffs	homepage.mac.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	homepage.mac.com-johnstaffs.warc.gz	0
-johnstaffs	public.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	public.me.com-johnstaffs.warc.gz	0
-johnstaffs	web.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	web.me.com-johnstaffs.warc.gz	0
-karen.jon	gallery.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	gallery.me.com-karen.jon.warc.gz	0
-karen.jon	homepage.mac.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	homepage.mac.com-karen.jon.warc.gz	0
-karen.jon	public.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	public.me.com-karen.jon.warc.gz	0
-karen.jon	web.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	web.me.com-karen.jon.warc.gz	0
-kevinhall2	gallery.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	gallery.me.com-kevinhall2.warc.gz	0
-kevinhall2	homepage.mac.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	homepage.mac.com-kevinhall2.warc.gz	0
-kevinhall2	public.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	public.me.com-kevinhall2.warc.gz	0
-kevinhall2	web.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	web.me.com-kevinhall2.warc.gz	0
+ashanim	gallery.me.com	2012-04-10 19:42:14	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	gallery.me.com-ashanim.warc.gz	4230
+ashanim	homepage.mac.com	2012-04-10 19:42:15	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	homepage.mac.com-ashanim.warc.gz	4911
+ashanim	public.me.com	2012-04-10 19:42:13	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	public.me.com-ashanim.warc.gz	1910
+ashanim	web.me.com	2012-04-10 19:42:13	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	web.me.com-ashanim.warc.gz	43965725
+dr.romine	gallery.me.com	2012-04-10 19:06:18	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	gallery.me.com-dr.romine.warc.gz	989118338
+dr.romine	homepage.mac.com	2012-04-10 19:06:19	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	homepage.mac.com-dr.romine.warc.gz	7906
+dr.romine	public.me.com	2012-04-10 18:27:22	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	public.me.com-dr.romine.warc.gz	7864750
+dr.romine	web.me.com	2012-04-10 18:27:04	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	web.me.com-dr.romine.warc.gz	339739870
+johnstaffs	gallery.me.com	2012-04-10 22:50:24	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	gallery.me.com-johnstaffs.warc.gz	5423300981
+johnstaffs	homepage.mac.com	2012-04-10 22:50:24	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	homepage.mac.com-johnstaffs.warc.gz	4919
+johnstaffs	public.me.com	2012-04-10 20:23:36	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	public.me.com-johnstaffs.warc.gz	3991
+johnstaffs	web.me.com	2012-04-10 20:23:28	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	web.me.com-johnstaffs.warc.gz	708830078
+karen.jon	gallery.me.com	2012-04-10 19:17:01	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	gallery.me.com-karen.jon.warc.gz	64692898
+karen.jon	homepage.mac.com	2012-04-10 19:17:01	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	homepage.mac.com-karen.jon.warc.gz	4909
+karen.jon	public.me.com	2012-04-10 19:16:03	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	public.me.com-karen.jon.warc.gz	1921
+karen.jon	web.me.com	2012-04-10 19:16:02	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	web.me.com-karen.jon.warc.gz	43685009
+kevinhall2	gallery.me.com	2012-04-10 19:34:29	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	gallery.me.com-kevinhall2.warc.gz	8839
+kevinhall2	homepage.mac.com	2012-04-10 19:34:30	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	homepage.mac.com-kevinhall2.warc.gz	4932
+kevinhall2	public.me.com	2012-04-10 19:34:28	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	public.me.com-kevinhall2.warc.gz	14110747
+kevinhall2	web.me.com	2012-04-10 19:33:52	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6110.tar	web.me.com-kevinhall2.warc.gz	87381502

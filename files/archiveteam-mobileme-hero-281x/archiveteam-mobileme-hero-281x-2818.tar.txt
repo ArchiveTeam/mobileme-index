@@ -1,8 +1,8 @@
-importpimp	gallery.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2818.tar	gallery.me.com-importpimp.warc.gz	0
-importpimp	homepage.mac.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2818.tar	homepage.mac.com-importpimp.warc.gz	0
-importpimp	public.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2818.tar	public.me.com-importpimp.warc.gz	0
-importpimp	web.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2818.tar	web.me.com-importpimp.warc.gz	0
-jkennell	gallery.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2818.tar	gallery.me.com-jkennell.warc.gz	0
-jkennell	homepage.mac.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2818.tar	homepage.mac.com-jkennell.warc.gz	0
-jkennell	public.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2818.tar	public.me.com-jkennell.warc.gz	0
-jkennell	web.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2818.tar	web.me.com-jkennell.warc.gz	0
+importpimp	gallery.me.com	2012-04-02 03:22:41	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2818.tar	gallery.me.com-importpimp.warc.gz	9202070
+importpimp	homepage.mac.com	2012-04-02 03:22:42	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2818.tar	homepage.mac.com-importpimp.warc.gz	36918
+importpimp	public.me.com	2012-04-02 03:22:04	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2818.tar	public.me.com-importpimp.warc.gz	1675777011
+importpimp	web.me.com	2012-04-02 03:16:31	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2818.tar	web.me.com-importpimp.warc.gz	10056937
+jkennell	gallery.me.com	2012-04-02 03:59:19	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2818.tar	gallery.me.com-jkennell.warc.gz	1086212627
+jkennell	homepage.mac.com	2012-04-02 04:00:06	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2818.tar	homepage.mac.com-jkennell.warc.gz	2129219
+jkennell	public.me.com	2012-04-02 03:49:44	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2818.tar	public.me.com-jkennell.warc.gz	1237085944
+jkennell	web.me.com	2012-04-02 03:31:54	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2818.tar	web.me.com-jkennell.warc.gz	394394412

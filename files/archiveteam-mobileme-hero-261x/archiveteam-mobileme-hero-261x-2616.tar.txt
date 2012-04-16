@@ -1,20 +1,20 @@
-eshenton	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	gallery.me.com-eshenton.warc.gz	0
-eshenton	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	homepage.mac.com-eshenton.warc.gz	0
-eshenton	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	public.me.com-eshenton.warc.gz	0
-eshenton	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	web.me.com-eshenton.warc.gz	0
-jedi_ufo	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	gallery.me.com-jedi_ufo.warc.gz	0
-jedi_ufo	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	homepage.mac.com-jedi_ufo.warc.gz	0
-jedi_ufo	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	public.me.com-jedi_ufo.warc.gz	0
-jedi_ufo	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	web.me.com-jedi_ufo.warc.gz	0
-rondavids	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	gallery.me.com-rondavids.warc.gz	0
-rondavids	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	homepage.mac.com-rondavids.warc.gz	0
-rondavids	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	public.me.com-rondavids.warc.gz	0
-rondavids	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	web.me.com-rondavids.warc.gz	0
-rpostuiterweer	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	gallery.me.com-rpostuiterweer.warc.gz	0
-rpostuiterweer	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	homepage.mac.com-rpostuiterweer.warc.gz	0
-rpostuiterweer	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	public.me.com-rpostuiterweer.warc.gz	0
-rpostuiterweer	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	web.me.com-rpostuiterweer.warc.gz	0
-thamilton009	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	gallery.me.com-thamilton009.warc.gz	0
-thamilton009	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	homepage.mac.com-thamilton009.warc.gz	0
-thamilton009	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	public.me.com-thamilton009.warc.gz	0
-thamilton009	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	web.me.com-thamilton009.warc.gz	0
+eshenton	gallery.me.com	2012-03-31 17:16:47	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	gallery.me.com-eshenton.warc.gz	8347
+eshenton	homepage.mac.com	2012-03-31 17:16:47	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	homepage.mac.com-eshenton.warc.gz	5151
+eshenton	public.me.com	2012-03-31 17:16:46	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	public.me.com-eshenton.warc.gz	1911
+eshenton	web.me.com	2012-03-31 17:16:46	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	web.me.com-eshenton.warc.gz	17709
+jedi_ufo	gallery.me.com	2012-03-31 17:17:02	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	gallery.me.com-jedi_ufo.warc.gz	5853
+jedi_ufo	homepage.mac.com	2012-03-31 17:17:04	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	homepage.mac.com-jedi_ufo.warc.gz	37029
+jedi_ufo	public.me.com	2012-03-31 17:17:01	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	public.me.com-jedi_ufo.warc.gz	1911
+jedi_ufo	web.me.com	2012-03-31 17:17:00	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	web.me.com-jedi_ufo.warc.gz	36539
+rondavids	gallery.me.com	2012-04-01 07:41:16	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	gallery.me.com-rondavids.warc.gz	103288647
+rondavids	homepage.mac.com	2012-04-01 07:41:18	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	homepage.mac.com-rondavids.warc.gz	4913
+rondavids	public.me.com	2012-04-01 07:39:20	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	public.me.com-rondavids.warc.gz	19642618
+rondavids	web.me.com	2012-04-01 06:57:14	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	web.me.com-rondavids.warc.gz	5873889655
+rpostuiterweer	gallery.me.com	2012-03-31 17:16:43	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	gallery.me.com-rpostuiterweer.warc.gz	8367
+rpostuiterweer	homepage.mac.com	2012-03-31 17:16:43	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	homepage.mac.com-rpostuiterweer.warc.gz	5199
+rpostuiterweer	public.me.com	2012-03-31 17:16:42	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	public.me.com-rpostuiterweer.warc.gz	1931
+rpostuiterweer	web.me.com	2012-03-31 17:16:42	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	web.me.com-rpostuiterweer.warc.gz	17777
+thamilton009	gallery.me.com	2012-03-31 20:17:45	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	gallery.me.com-thamilton009.warc.gz	224780856
+thamilton009	homepage.mac.com	2012-03-31 20:17:52	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	homepage.mac.com-thamilton009.warc.gz	4939
+thamilton009	public.me.com	2012-03-31 19:50:41	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	public.me.com-thamilton009.warc.gz	6882
+thamilton009	web.me.com	2012-03-31 19:50:38	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2616.tar	web.me.com-thamilton009.warc.gz	455079797

@@ -1,16 +1,16 @@
-jbrothers	gallery.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	gallery.me.com-jbrothers.warc.gz	0
-jbrothers	homepage.mac.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	homepage.mac.com-jbrothers.warc.gz	0
-jbrothers	public.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	public.me.com-jbrothers.warc.gz	0
-jbrothers	web.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	web.me.com-jbrothers.warc.gz	0
-jerrypeterson	gallery.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	gallery.me.com-jerrypeterson.warc.gz	0
-jerrypeterson	homepage.mac.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	homepage.mac.com-jerrypeterson.warc.gz	0
-jerrypeterson	public.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	public.me.com-jerrypeterson.warc.gz	0
-jerrypeterson	web.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	web.me.com-jerrypeterson.warc.gz	0
-mrjoeamato	gallery.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	gallery.me.com-mrjoeamato.warc.gz	0
-mrjoeamato	homepage.mac.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	homepage.mac.com-mrjoeamato.warc.gz	0
-mrjoeamato	public.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	public.me.com-mrjoeamato.warc.gz	0
-mrjoeamato	web.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	web.me.com-mrjoeamato.warc.gz	0
-onohabi	gallery.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	gallery.me.com-onohabi.warc.gz	0
-onohabi	homepage.mac.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	homepage.mac.com-onohabi.warc.gz	0
-onohabi	public.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	public.me.com-onohabi.warc.gz	0
-onohabi	web.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	web.me.com-onohabi.warc.gz	0
+jbrothers	gallery.me.com	2012-04-04 10:05:51	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	gallery.me.com-jbrothers.warc.gz	6457
+jbrothers	homepage.mac.com	2012-04-04 10:05:51	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	homepage.mac.com-jbrothers.warc.gz	4921
+jbrothers	public.me.com	2012-04-04 10:05:49	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	public.me.com-jbrothers.warc.gz	1915
+jbrothers	web.me.com	2012-04-04 10:05:49	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	web.me.com-jbrothers.warc.gz	41886
+jerrypeterson	gallery.me.com	2012-04-04 13:06:16	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	gallery.me.com-jerrypeterson.warc.gz	3723771767
+jerrypeterson	homepage.mac.com	2012-04-04 13:06:27	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	homepage.mac.com-jerrypeterson.warc.gz	126691
+jerrypeterson	public.me.com	2012-04-04 11:54:10	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	public.me.com-jerrypeterson.warc.gz	1498700708
+jerrypeterson	web.me.com	2012-04-04 11:05:12	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	web.me.com-jerrypeterson.warc.gz	549911108
+mrjoeamato	gallery.me.com	2012-04-04 10:05:38	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	gallery.me.com-mrjoeamato.warc.gz	12331
+mrjoeamato	homepage.mac.com	2012-04-04 10:05:40	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	homepage.mac.com-mrjoeamato.warc.gz	7162
+mrjoeamato	public.me.com	2012-04-04 10:05:35	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	public.me.com-mrjoeamato.warc.gz	1918
+mrjoeamato	web.me.com	2012-04-04 10:05:34	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	web.me.com-mrjoeamato.warc.gz	22475
+onohabi	gallery.me.com	2012-04-04 10:05:12	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	gallery.me.com-onohabi.warc.gz	40249055
+onohabi	homepage.mac.com	2012-04-04 10:05:26	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	homepage.mac.com-onohabi.warc.gz	1177960
+onohabi	public.me.com	2012-04-04 10:02:48	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	public.me.com-onohabi.warc.gz	1906
+onohabi	web.me.com	2012-04-04 10:02:47	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3826.tar	web.me.com-onohabi.warc.gz	1964602

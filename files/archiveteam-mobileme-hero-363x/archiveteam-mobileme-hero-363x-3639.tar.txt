@@ -1,8 +1,8 @@
-amazingsam	gallery.me.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3639.tar	gallery.me.com-amazingsam.warc.gz	0
-amazingsam	homepage.mac.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3639.tar	homepage.mac.com-amazingsam.warc.gz	0
-amazingsam	public.me.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3639.tar	public.me.com-amazingsam.warc.gz	0
-amazingsam	web.me.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3639.tar	web.me.com-amazingsam.warc.gz	0
-mikeheatley	gallery.me.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3639.tar	gallery.me.com-mikeheatley.warc.gz	0
-mikeheatley	homepage.mac.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3639.tar	homepage.mac.com-mikeheatley.warc.gz	0
-mikeheatley	public.me.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3639.tar	public.me.com-mikeheatley.warc.gz	0
-mikeheatley	web.me.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3639.tar	web.me.com-mikeheatley.warc.gz	0
+amazingsam	gallery.me.com	2012-04-03 23:29:12	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3639.tar	gallery.me.com-amazingsam.warc.gz	4284
+amazingsam	homepage.mac.com	2012-04-03 23:29:12	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3639.tar	homepage.mac.com-amazingsam.warc.gz	4919
+amazingsam	public.me.com	2012-04-03 23:29:11	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3639.tar	public.me.com-amazingsam.warc.gz	1920
+amazingsam	web.me.com	2012-04-03 23:29:10	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3639.tar	web.me.com-amazingsam.warc.gz	966525634
+mikeheatley	gallery.me.com	2012-04-04 02:32:29	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3639.tar	gallery.me.com-mikeheatley.warc.gz	5215418566
+mikeheatley	homepage.mac.com	2012-04-04 02:32:29	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3639.tar	homepage.mac.com-mikeheatley.warc.gz	4936
+mikeheatley	public.me.com	2012-04-04 00:37:38	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3639.tar	public.me.com-mikeheatley.warc.gz	438443798
+mikeheatley	web.me.com	2012-04-04 00:29:56	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3639.tar	web.me.com-mikeheatley.warc.gz	916644878

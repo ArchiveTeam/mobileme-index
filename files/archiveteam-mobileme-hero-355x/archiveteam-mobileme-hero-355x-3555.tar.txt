@@ -1,8 +1,8 @@
-myannell	gallery.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3555.tar	gallery.me.com-myannell.warc.gz	0
-myannell	homepage.mac.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3555.tar	homepage.mac.com-myannell.warc.gz	0
-myannell	public.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3555.tar	public.me.com-myannell.warc.gz	0
-myannell	web.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3555.tar	web.me.com-myannell.warc.gz	0
-vminervino	gallery.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3555.tar	gallery.me.com-vminervino.warc.gz	0
-vminervino	homepage.mac.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3555.tar	homepage.mac.com-vminervino.warc.gz	0
-vminervino	public.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3555.tar	public.me.com-vminervino.warc.gz	0
-vminervino	web.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3555.tar	web.me.com-vminervino.warc.gz	0
+myannell	gallery.me.com	2012-04-03 21:20:45	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3555.tar	gallery.me.com-myannell.warc.gz	681347887
+myannell	homepage.mac.com	2012-04-03 21:20:45	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3555.tar	homepage.mac.com-myannell.warc.gz	4910
+myannell	public.me.com	2012-04-03 21:06:54	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3555.tar	public.me.com-myannell.warc.gz	1917
+myannell	web.me.com	2012-04-03 21:06:26	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3555.tar	web.me.com-myannell.warc.gz	2957912338
+vminervino	gallery.me.com	2012-04-03 19:42:25	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3555.tar	gallery.me.com-vminervino.warc.gz	590097224
+vminervino	homepage.mac.com	2012-04-03 19:42:25	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3555.tar	homepage.mac.com-vminervino.warc.gz	4928
+vminervino	public.me.com	2012-04-03 19:36:17	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3555.tar	public.me.com-vminervino.warc.gz	925639393
+vminervino	web.me.com	2012-04-03 19:27:48	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3555.tar	web.me.com-vminervino.warc.gz	4663707

@@ -1,24 +1,24 @@
-ROGERLIER	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	gallery.me.com-ROGERLIER.warc.gz	0
-ROGERLIER	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	homepage.mac.com-ROGERLIER.warc.gz	0
-ROGERLIER	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	public.me.com-ROGERLIER.warc.gz	0
-ROGERLIER	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	web.me.com-ROGERLIER.warc.gz	0
-christapia	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	gallery.me.com-christapia.warc.gz	0
-christapia	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	homepage.mac.com-christapia.warc.gz	0
-christapia	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	public.me.com-christapia.warc.gz	0
-christapia	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	web.me.com-christapia.warc.gz	0
-eyepopper	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	gallery.me.com-eyepopper.warc.gz	0
-eyepopper	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	homepage.mac.com-eyepopper.warc.gz	0
-eyepopper	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	public.me.com-eyepopper.warc.gz	0
-eyepopper	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	web.me.com-eyepopper.warc.gz	0
-jmotis	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	gallery.me.com-jmotis.warc.gz	0
-jmotis	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	homepage.mac.com-jmotis.warc.gz	0
-jmotis	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	public.me.com-jmotis.warc.gz	0
-jmotis	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	web.me.com-jmotis.warc.gz	0
-t_trillium	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	gallery.me.com-t_trillium.warc.gz	0
-t_trillium	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	homepage.mac.com-t_trillium.warc.gz	0
-t_trillium	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	public.me.com-t_trillium.warc.gz	0
-t_trillium	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	web.me.com-t_trillium.warc.gz	0
-thejafe	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	gallery.me.com-thejafe.warc.gz	0
-thejafe	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	homepage.mac.com-thejafe.warc.gz	0
-thejafe	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	public.me.com-thejafe.warc.gz	0
-thejafe	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	web.me.com-thejafe.warc.gz	0
+ROGERLIER	gallery.me.com	2012-04-03 12:09:41	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	gallery.me.com-ROGERLIER.warc.gz	497885600
+ROGERLIER	homepage.mac.com	2012-04-03 12:09:42	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	homepage.mac.com-ROGERLIER.warc.gz	7887
+ROGERLIER	public.me.com	2012-04-03 11:58:46	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	public.me.com-ROGERLIER.warc.gz	1927
+ROGERLIER	web.me.com	2012-04-03 11:58:28	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	web.me.com-ROGERLIER.warc.gz	603214068
+christapia	gallery.me.com	2012-04-03 11:35:24	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	gallery.me.com-christapia.warc.gz	4301
+christapia	homepage.mac.com	2012-04-03 11:35:24	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	homepage.mac.com-christapia.warc.gz	4917
+christapia	public.me.com	2012-04-03 11:35:23	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	public.me.com-christapia.warc.gz	1920
+christapia	web.me.com	2012-04-03 11:35:21	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	web.me.com-christapia.warc.gz	8879366
+eyepopper	gallery.me.com	2012-04-03 11:27:41	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	gallery.me.com-eyepopper.warc.gz	8348
+eyepopper	homepage.mac.com	2012-04-03 11:27:41	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	homepage.mac.com-eyepopper.warc.gz	5158
+eyepopper	public.me.com	2012-04-03 11:27:40	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	public.me.com-eyepopper.warc.gz	1919
+eyepopper	web.me.com	2012-04-03 11:27:39	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	web.me.com-eyepopper.warc.gz	17682
+jmotis	gallery.me.com	2012-04-03 12:34:31	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	gallery.me.com-jmotis.warc.gz	181255876
+jmotis	homepage.mac.com	2012-04-03 12:34:37	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	homepage.mac.com-jmotis.warc.gz	70823
+jmotis	public.me.com	2012-04-03 12:26:52	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	public.me.com-jmotis.warc.gz	8929851
+jmotis	web.me.com	2012-04-03 12:22:41	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	web.me.com-jmotis.warc.gz	61067524
+t_trillium	gallery.me.com	2012-04-03 13:08:21	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	gallery.me.com-t_trillium.warc.gz	5288
+t_trillium	homepage.mac.com	2012-04-03 13:08:21	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	homepage.mac.com-t_trillium.warc.gz	4908
+t_trillium	public.me.com	2012-04-03 13:08:19	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	public.me.com-t_trillium.warc.gz	1918
+t_trillium	web.me.com	2012-04-03 13:08:17	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	web.me.com-t_trillium.warc.gz	102404958
+thejafe	gallery.me.com	2012-04-03 17:54:48	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	gallery.me.com-thejafe.warc.gz	2535969029
+thejafe	homepage.mac.com	2012-04-03 18:02:17	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	homepage.mac.com-thejafe.warc.gz	2988201
+thejafe	public.me.com	2012-04-03 15:53:23	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	public.me.com-thejafe.warc.gz	292694048
+thejafe	web.me.com	2012-04-03 15:40:08	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3516.tar	web.me.com-thejafe.warc.gz	1971272179

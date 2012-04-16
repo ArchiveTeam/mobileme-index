@@ -1,12 +1,12 @@
-leannehart	gallery.me.com		archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	gallery.me.com-leannehart.warc.gz	0
-leannehart	homepage.mac.com		archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	homepage.mac.com-leannehart.warc.gz	0
-leannehart	public.me.com		archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	public.me.com-leannehart.warc.gz	0
-leannehart	web.me.com		archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	web.me.com-leannehart.warc.gz	0
-manillarcanarias	gallery.me.com		archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	gallery.me.com-manillarcanarias.warc.gz	0
-manillarcanarias	homepage.mac.com		archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	homepage.mac.com-manillarcanarias.warc.gz	0
-manillarcanarias	public.me.com		archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	public.me.com-manillarcanarias.warc.gz	0
-manillarcanarias	web.me.com		archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	web.me.com-manillarcanarias.warc.gz	0
-thomasandjill	gallery.me.com		archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	gallery.me.com-thomasandjill.warc.gz	0
-thomasandjill	homepage.mac.com		archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	homepage.mac.com-thomasandjill.warc.gz	0
-thomasandjill	public.me.com		archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	public.me.com-thomasandjill.warc.gz	0
-thomasandjill	web.me.com		archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	web.me.com-thomasandjill.warc.gz	0
+leannehart	gallery.me.com	2012-04-07 19:12:52	archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	gallery.me.com-leannehart.warc.gz	4972
+leannehart	homepage.mac.com	2012-04-07 19:12:53	archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	homepage.mac.com-leannehart.warc.gz	4892
+leannehart	public.me.com	2012-04-07 19:12:51	archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	public.me.com-leannehart.warc.gz	1916
+leannehart	web.me.com	2012-04-07 19:12:50	archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	web.me.com-leannehart.warc.gz	22995356
+manillarcanarias	gallery.me.com	2012-04-07 22:18:11	archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	gallery.me.com-manillarcanarias.warc.gz	1016583138
+manillarcanarias	homepage.mac.com	2012-04-07 22:18:11	archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	homepage.mac.com-manillarcanarias.warc.gz	4948
+manillarcanarias	public.me.com	2012-04-07 20:29:43	archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	public.me.com-manillarcanarias.warc.gz	1933
+manillarcanarias	web.me.com	2012-04-07 20:29:14	archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	web.me.com-manillarcanarias.warc.gz	503425166
+thomasandjill	gallery.me.com	2012-04-08 00:22:09	archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	gallery.me.com-thomasandjill.warc.gz	3468539991
+thomasandjill	homepage.mac.com	2012-04-08 00:22:16	archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	homepage.mac.com-thomasandjill.warc.gz	168110
+thomasandjill	public.me.com	2012-04-07 23:07:20	archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	public.me.com-thomasandjill.warc.gz	1926
+thomasandjill	web.me.com	2012-04-07 23:07:11	archiveteam-mobileme-hero-502x	archiveteam-mobileme-hero-502x-5029.tar	web.me.com-thomasandjill.warc.gz	877054991

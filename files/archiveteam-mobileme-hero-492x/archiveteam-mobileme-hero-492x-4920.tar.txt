@@ -1,12 +1,12 @@
-eltondodson	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	gallery.me.com-eltondodson.warc.gz	0
-eltondodson	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	homepage.mac.com-eltondodson.warc.gz	0
-eltondodson	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	public.me.com-eltondodson.warc.gz	0
-eltondodson	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	web.me.com-eltondodson.warc.gz	0
-oyvind	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	gallery.me.com-oyvind.warc.gz	0
-oyvind	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	homepage.mac.com-oyvind.warc.gz	0
-oyvind	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	public.me.com-oyvind.warc.gz	0
-oyvind	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	web.me.com-oyvind.warc.gz	0
-raul.acevedo	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	gallery.me.com-raul.acevedo.warc.gz	0
-raul.acevedo	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	homepage.mac.com-raul.acevedo.warc.gz	0
-raul.acevedo	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	public.me.com-raul.acevedo.warc.gz	0
-raul.acevedo	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	web.me.com-raul.acevedo.warc.gz	0
+eltondodson	gallery.me.com	2012-04-07 18:04:38	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	gallery.me.com-eltondodson.warc.gz	1293526159
+eltondodson	homepage.mac.com	2012-04-07 18:04:39	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	homepage.mac.com-eltondodson.warc.gz	4931
+eltondodson	public.me.com	2012-04-07 17:53:54	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	public.me.com-eltondodson.warc.gz	90072293
+eltondodson	web.me.com	2012-04-07 17:52:33	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	web.me.com-eltondodson.warc.gz	19623233
+oyvind	gallery.me.com	2012-04-07 18:09:27	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	gallery.me.com-oyvind.warc.gz	13600932
+oyvind	homepage.mac.com	2012-04-07 18:10:12	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	homepage.mac.com-oyvind.warc.gz	2473263
+oyvind	public.me.com	2012-04-07 18:09:09	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	public.me.com-oyvind.warc.gz	430753256
+oyvind	web.me.com	2012-04-07 18:06:53	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	web.me.com-oyvind.warc.gz	15163973
+raul.acevedo	gallery.me.com	2012-04-07 18:45:37	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	gallery.me.com-raul.acevedo.warc.gz	2556999707
+raul.acevedo	homepage.mac.com	2012-04-07 18:45:38	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	homepage.mac.com-raul.acevedo.warc.gz	4945
+raul.acevedo	public.me.com	2012-04-07 18:22:34	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	public.me.com-raul.acevedo.warc.gz	1931
+raul.acevedo	web.me.com	2012-04-07 18:22:34	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4920.tar	web.me.com-raul.acevedo.warc.gz	249962139

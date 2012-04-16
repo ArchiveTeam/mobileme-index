@@ -1,20 +1,20 @@
-laleeming	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	gallery.me.com-laleeming.warc.gz	0
-laleeming	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	homepage.mac.com-laleeming.warc.gz	0
-laleeming	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	public.me.com-laleeming.warc.gz	0
-laleeming	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	web.me.com-laleeming.warc.gz	0
-owltv	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	gallery.me.com-owltv.warc.gz	0
-owltv	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	homepage.mac.com-owltv.warc.gz	0
-owltv	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	public.me.com-owltv.warc.gz	0
-owltv	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	web.me.com-owltv.warc.gz	0
-rjnaden	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	gallery.me.com-rjnaden.warc.gz	0
-rjnaden	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	homepage.mac.com-rjnaden.warc.gz	0
-rjnaden	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	public.me.com-rjnaden.warc.gz	0
-rjnaden	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	web.me.com-rjnaden.warc.gz	0
-themitchellsite	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	gallery.me.com-themitchellsite.warc.gz	0
-themitchellsite	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	homepage.mac.com-themitchellsite.warc.gz	0
-themitchellsite	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	public.me.com-themitchellsite.warc.gz	0
-themitchellsite	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	web.me.com-themitchellsite.warc.gz	0
-wordwise	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	gallery.me.com-wordwise.warc.gz	0
-wordwise	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	homepage.mac.com-wordwise.warc.gz	0
-wordwise	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	public.me.com-wordwise.warc.gz	0
-wordwise	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	web.me.com-wordwise.warc.gz	0
+laleeming	gallery.me.com	2012-04-01 03:05:39	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	gallery.me.com-laleeming.warc.gz	1545419493
+laleeming	homepage.mac.com	2012-04-01 03:05:39	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	homepage.mac.com-laleeming.warc.gz	4919
+laleeming	public.me.com	2012-04-01 01:08:24	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	public.me.com-laleeming.warc.gz	1922
+laleeming	web.me.com	2012-04-01 01:08:14	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	web.me.com-laleeming.warc.gz	1127808413
+owltv	gallery.me.com	2012-04-01 07:38:52	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	gallery.me.com-owltv.warc.gz	10827393
+owltv	homepage.mac.com	2012-04-01 07:38:52	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	homepage.mac.com-owltv.warc.gz	4891
+owltv	public.me.com	2012-04-01 07:38:44	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	public.me.com-owltv.warc.gz	1905
+owltv	web.me.com	2012-04-01 07:38:30	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	web.me.com-owltv.warc.gz	1198822832
+rjnaden	gallery.me.com	2012-04-01 04:53:57	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	gallery.me.com-rjnaden.warc.gz	442965397
+rjnaden	homepage.mac.com	2012-04-01 04:58:42	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	homepage.mac.com-rjnaden.warc.gz	4910
+rjnaden	public.me.com	2012-04-01 04:18:29	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	public.me.com-rjnaden.warc.gz	1915
+rjnaden	web.me.com	2012-04-01 04:12:31	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	web.me.com-rjnaden.warc.gz	245380637
+themitchellsite	gallery.me.com	2012-03-31 20:27:18	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	gallery.me.com-themitchellsite.warc.gz	892284
+themitchellsite	homepage.mac.com	2012-03-31 20:27:19	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	homepage.mac.com-themitchellsite.warc.gz	4937
+themitchellsite	public.me.com	2012-03-31 20:27:06	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	public.me.com-themitchellsite.warc.gz	1924
+themitchellsite	web.me.com	2012-03-31 20:27:05	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	web.me.com-themitchellsite.warc.gz	6733231
+wordwise	gallery.me.com	2012-04-01 03:10:40	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	gallery.me.com-wordwise.warc.gz	8335
+wordwise	homepage.mac.com	2012-04-01 03:10:40	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	homepage.mac.com-wordwise.warc.gz	5183
+wordwise	public.me.com	2012-04-01 03:10:26	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	public.me.com-wordwise.warc.gz	1914
+wordwise	web.me.com	2012-04-01 03:10:25	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2614.tar	web.me.com-wordwise.warc.gz	17749

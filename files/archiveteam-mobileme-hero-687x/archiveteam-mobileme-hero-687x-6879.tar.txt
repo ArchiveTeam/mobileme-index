@@ -1,12 +1,12 @@
-ciasiasendai	gallery.me.com		archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	gallery.me.com-ciasiasendai.warc.gz	0
-ciasiasendai	homepage.mac.com		archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	homepage.mac.com-ciasiasendai.warc.gz	0
-ciasiasendai	public.me.com		archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	public.me.com-ciasiasendai.warc.gz	0
-ciasiasendai	web.me.com		archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	web.me.com-ciasiasendai.warc.gz	0
-jenferris	gallery.me.com		archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	gallery.me.com-jenferris.warc.gz	0
-jenferris	homepage.mac.com		archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	homepage.mac.com-jenferris.warc.gz	0
-jenferris	public.me.com		archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	public.me.com-jenferris.warc.gz	0
-jenferris	web.me.com		archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	web.me.com-jenferris.warc.gz	0
-sja73	gallery.me.com		archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	gallery.me.com-sja73.warc.gz	0
-sja73	homepage.mac.com		archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	homepage.mac.com-sja73.warc.gz	0
-sja73	public.me.com		archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	public.me.com-sja73.warc.gz	0
-sja73	web.me.com		archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	web.me.com-sja73.warc.gz	0
+ciasiasendai	gallery.me.com	2012-04-12 14:52:19	archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	gallery.me.com-ciasiasendai.warc.gz	21581433
+ciasiasendai	homepage.mac.com	2012-04-12 14:52:19	archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	homepage.mac.com-ciasiasendai.warc.gz	4936
+ciasiasendai	public.me.com	2012-04-12 14:51:55	archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	public.me.com-ciasiasendai.warc.gz	1042989915
+ciasiasendai	web.me.com	2012-04-12 14:37:16	archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	web.me.com-ciasiasendai.warc.gz	68686141
+jenferris	gallery.me.com	2012-04-12 17:12:40	archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	gallery.me.com-jenferris.warc.gz	2091913802
+jenferris	homepage.mac.com	2012-04-12 17:13:09	archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	homepage.mac.com-jenferris.warc.gz	849944
+jenferris	public.me.com	2012-04-12 16:36:25	archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	public.me.com-jenferris.warc.gz	23973292
+jenferris	web.me.com	2012-04-12 16:36:02	archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	web.me.com-jenferris.warc.gz	907626542
+sja73	gallery.me.com	2012-04-12 15:58:18	archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	gallery.me.com-sja73.warc.gz	6291
+sja73	homepage.mac.com	2012-04-12 15:58:22	archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	homepage.mac.com-sja73.warc.gz	114585
+sja73	public.me.com	2012-04-12 15:58:18	archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	public.me.com-sja73.warc.gz	1915
+sja73	web.me.com	2012-04-12 15:58:08	archiveteam-mobileme-hero-687x	archiveteam-mobileme-hero-687x-6879.tar	web.me.com-sja73.warc.gz	529383330

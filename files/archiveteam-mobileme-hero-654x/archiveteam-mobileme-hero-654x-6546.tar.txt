@@ -1,16 +1,16 @@
-gluewave	gallery.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	gallery.me.com-gluewave.warc.gz	0
-gluewave	homepage.mac.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	homepage.mac.com-gluewave.warc.gz	0
-gluewave	public.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	public.me.com-gluewave.warc.gz	0
-gluewave	web.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	web.me.com-gluewave.warc.gz	0
-jseibel	gallery.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	gallery.me.com-jseibel.warc.gz	0
-jseibel	homepage.mac.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	homepage.mac.com-jseibel.warc.gz	0
-jseibel	public.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	public.me.com-jseibel.warc.gz	0
-jseibel	web.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	web.me.com-jseibel.warc.gz	0
-mario.sarrechia	gallery.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	gallery.me.com-mario.sarrechia.warc.gz	0
-mario.sarrechia	homepage.mac.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	homepage.mac.com-mario.sarrechia.warc.gz	0
-mario.sarrechia	public.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	public.me.com-mario.sarrechia.warc.gz	0
-mario.sarrechia	web.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	web.me.com-mario.sarrechia.warc.gz	0
-nororiental	gallery.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	gallery.me.com-nororiental.warc.gz	0
-nororiental	homepage.mac.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	homepage.mac.com-nororiental.warc.gz	0
-nororiental	public.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	public.me.com-nororiental.warc.gz	0
-nororiental	web.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	web.me.com-nororiental.warc.gz	0
+gluewave	gallery.me.com	2012-04-11 17:40:19	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	gallery.me.com-gluewave.warc.gz	5680433
+gluewave	homepage.mac.com	2012-04-11 17:40:19	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	homepage.mac.com-gluewave.warc.gz	4909
+gluewave	public.me.com	2012-04-11 17:40:04	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	public.me.com-gluewave.warc.gz	912854672
+gluewave	web.me.com	2012-04-11 17:36:01	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	web.me.com-gluewave.warc.gz	5956306
+jseibel	gallery.me.com	2012-04-11 17:45:26	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	gallery.me.com-jseibel.warc.gz	71745172
+jseibel	homepage.mac.com	2012-04-11 17:45:26	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	homepage.mac.com-jseibel.warc.gz	4895
+jseibel	public.me.com	2012-04-11 17:43:05	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	public.me.com-jseibel.warc.gz	1907
+jseibel	web.me.com	2012-04-11 17:43:04	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	web.me.com-jseibel.warc.gz	16940763
+mario.sarrechia	gallery.me.com	2012-04-12 01:55:33	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	gallery.me.com-mario.sarrechia.warc.gz	809940184
+mario.sarrechia	homepage.mac.com	2012-04-12 01:55:33	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	homepage.mac.com-mario.sarrechia.warc.gz	4950
+mario.sarrechia	public.me.com	2012-04-11 23:37:49	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	public.me.com-mario.sarrechia.warc.gz	1920
+mario.sarrechia	web.me.com	2012-04-11 23:37:49	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	web.me.com-mario.sarrechia.warc.gz	206014238
+nororiental	gallery.me.com	2012-04-12 03:03:26	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	gallery.me.com-nororiental.warc.gz	801956
+nororiental	homepage.mac.com	2012-04-12 03:03:26	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	homepage.mac.com-nororiental.warc.gz	6063
+nororiental	public.me.com	2012-04-12 03:03:15	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	public.me.com-nororiental.warc.gz	2235865665
+nororiental	web.me.com	2012-04-12 02:02:11	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6546.tar	web.me.com-nororiental.warc.gz	34652096

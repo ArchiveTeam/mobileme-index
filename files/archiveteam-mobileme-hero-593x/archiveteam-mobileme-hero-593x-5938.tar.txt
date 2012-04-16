@@ -1,12 +1,12 @@
-deleeuw1	gallery.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	gallery.me.com-deleeuw1.warc.gz	0
-deleeuw1	homepage.mac.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	homepage.mac.com-deleeuw1.warc.gz	0
-deleeuw1	public.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	public.me.com-deleeuw1.warc.gz	0
-deleeuw1	web.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	web.me.com-deleeuw1.warc.gz	0
-lagunabeachliving	gallery.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	gallery.me.com-lagunabeachliving.warc.gz	0
-lagunabeachliving	homepage.mac.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	homepage.mac.com-lagunabeachliving.warc.gz	0
-lagunabeachliving	public.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	public.me.com-lagunabeachliving.warc.gz	0
-lagunabeachliving	web.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	web.me.com-lagunabeachliving.warc.gz	0
-pguillaume1	gallery.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	gallery.me.com-pguillaume1.warc.gz	0
-pguillaume1	homepage.mac.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	homepage.mac.com-pguillaume1.warc.gz	0
-pguillaume1	public.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	public.me.com-pguillaume1.warc.gz	0
-pguillaume1	web.me.com		archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	web.me.com-pguillaume1.warc.gz	0
+deleeuw1	gallery.me.com	2012-04-10 13:09:44	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	gallery.me.com-deleeuw1.warc.gz	6692697889
+deleeuw1	homepage.mac.com	2012-04-10 13:09:44	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	homepage.mac.com-deleeuw1.warc.gz	4889
+deleeuw1	public.me.com	2012-04-10 10:49:59	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	public.me.com-deleeuw1.warc.gz	15126
+deleeuw1	web.me.com	2012-04-10 10:49:04	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	web.me.com-deleeuw1.warc.gz	1904533294
+lagunabeachliving	gallery.me.com	2012-04-10 08:35:11	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	gallery.me.com-lagunabeachliving.warc.gz	4288
+lagunabeachliving	homepage.mac.com	2012-04-10 08:35:11	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	homepage.mac.com-lagunabeachliving.warc.gz	4956
+lagunabeachliving	public.me.com	2012-04-10 08:35:10	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	public.me.com-lagunabeachliving.warc.gz	1935
+lagunabeachliving	web.me.com	2012-04-10 08:35:10	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	web.me.com-lagunabeachliving.warc.gz	14386597
+pguillaume1	gallery.me.com	2012-04-10 08:31:26	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	gallery.me.com-pguillaume1.warc.gz	12318
+pguillaume1	homepage.mac.com	2012-04-10 08:31:26	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	homepage.mac.com-pguillaume1.warc.gz	7147
+pguillaume1	public.me.com	2012-04-10 08:31:25	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	public.me.com-pguillaume1.warc.gz	1924
+pguillaume1	web.me.com	2012-04-10 08:31:25	archiveteam-mobileme-hero-593x	archiveteam-mobileme-hero-593x-5938.tar	web.me.com-pguillaume1.warc.gz	22471

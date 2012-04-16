@@ -1,20 +1,20 @@
-artstudio85	gallery.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	gallery.me.com-artstudio85.warc.gz	0
-artstudio85	homepage.mac.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	homepage.mac.com-artstudio85.warc.gz	0
-artstudio85	public.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	public.me.com-artstudio85.warc.gz	0
-artstudio85	web.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	web.me.com-artstudio85.warc.gz	0
-bkarper	gallery.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	gallery.me.com-bkarper.warc.gz	0
-bkarper	homepage.mac.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	homepage.mac.com-bkarper.warc.gz	0
-bkarper	public.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	public.me.com-bkarper.warc.gz	0
-bkarper	web.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	web.me.com-bkarper.warc.gz	0
-jondenne	gallery.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	gallery.me.com-jondenne.warc.gz	0
-jondenne	homepage.mac.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	homepage.mac.com-jondenne.warc.gz	0
-jondenne	public.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	public.me.com-jondenne.warc.gz	0
-jondenne	web.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	web.me.com-jondenne.warc.gz	0
-ltx84	gallery.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	gallery.me.com-ltx84.warc.gz	0
-ltx84	homepage.mac.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	homepage.mac.com-ltx84.warc.gz	0
-ltx84	public.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	public.me.com-ltx84.warc.gz	0
-ltx84	web.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	web.me.com-ltx84.warc.gz	0
-splendido	gallery.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	gallery.me.com-splendido.warc.gz	0
-splendido	homepage.mac.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	homepage.mac.com-splendido.warc.gz	0
-splendido	public.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	public.me.com-splendido.warc.gz	0
-splendido	web.me.com		archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	web.me.com-splendido.warc.gz	0
+artstudio85	gallery.me.com	2012-04-10 01:41:59	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	gallery.me.com-artstudio85.warc.gz	4292
+artstudio85	homepage.mac.com	2012-04-10 01:41:59	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	homepage.mac.com-artstudio85.warc.gz	4929
+artstudio85	public.me.com	2012-04-10 01:41:58	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	public.me.com-artstudio85.warc.gz	1928
+artstudio85	web.me.com	2012-04-10 01:41:57	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	web.me.com-artstudio85.warc.gz	45665608
+bkarper	gallery.me.com	2012-04-10 01:28:19	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	gallery.me.com-bkarper.warc.gz	202315642
+bkarper	homepage.mac.com	2012-04-10 01:28:20	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	homepage.mac.com-bkarper.warc.gz	4912
+bkarper	public.me.com	2012-04-10 01:24:57	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	public.me.com-bkarper.warc.gz	1912
+bkarper	web.me.com	2012-04-10 01:24:57	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	web.me.com-bkarper.warc.gz	172342631
+jondenne	gallery.me.com	2012-04-10 01:11:28	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	gallery.me.com-jondenne.warc.gz	1582412160
+jondenne	homepage.mac.com	2012-04-10 01:11:28	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	homepage.mac.com-jondenne.warc.gz	4900
+jondenne	public.me.com	2012-04-10 00:47:11	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	public.me.com-jondenne.warc.gz	1904893294
+jondenne	web.me.com	2012-04-10 00:22:25	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	web.me.com-jondenne.warc.gz	88233294
+ltx84	gallery.me.com	2012-04-10 01:28:22	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	gallery.me.com-ltx84.warc.gz	8328
+ltx84	homepage.mac.com	2012-04-10 01:28:22	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	homepage.mac.com-ltx84.warc.gz	5145
+ltx84	public.me.com	2012-04-10 01:28:22	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	public.me.com-ltx84.warc.gz	1910
+ltx84	web.me.com	2012-04-10 01:28:22	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	web.me.com-ltx84.warc.gz	17641
+splendido	gallery.me.com	2012-04-10 03:23:36	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	gallery.me.com-splendido.warc.gz	126129913
+splendido	homepage.mac.com	2012-04-10 03:25:02	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	homepage.mac.com-splendido.warc.gz	905692
+splendido	public.me.com	2012-04-10 03:22:43	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	public.me.com-splendido.warc.gz	2583208801
+splendido	web.me.com	2012-04-10 02:58:16	archiveteam-mobileme-hero-573x	archiveteam-mobileme-hero-573x-5733.tar	web.me.com-splendido.warc.gz	423376967

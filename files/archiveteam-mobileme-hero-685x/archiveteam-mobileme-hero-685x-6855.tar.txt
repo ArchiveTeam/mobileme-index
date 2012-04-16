@@ -1,12 +1,12 @@
-mobileme_account_name	gallery.me.com		archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	gallery.me.com-mobileme_account_name.warc.gz	0
-mobileme_account_name	homepage.mac.com		archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	homepage.mac.com-mobileme_account_name.warc.gz	0
-mobileme_account_name	public.me.com		archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	public.me.com-mobileme_account_name.warc.gz	0
-mobileme_account_name	web.me.com		archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	web.me.com-mobileme_account_name.warc.gz	0
-paulinares	gallery.me.com		archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	gallery.me.com-paulinares.warc.gz	0
-paulinares	homepage.mac.com		archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	homepage.mac.com-paulinares.warc.gz	0
-paulinares	public.me.com		archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	public.me.com-paulinares.warc.gz	0
-paulinares	web.me.com		archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	web.me.com-paulinares.warc.gz	0
-silviarivas	gallery.me.com		archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	gallery.me.com-silviarivas.warc.gz	0
-silviarivas	homepage.mac.com		archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	homepage.mac.com-silviarivas.warc.gz	0
-silviarivas	public.me.com		archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	public.me.com-silviarivas.warc.gz	0
-silviarivas	web.me.com		archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	web.me.com-silviarivas.warc.gz	0
+mobileme_account_name	gallery.me.com	2012-04-12 16:19:49	archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	gallery.me.com-mobileme_account_name.warc.gz	8397
+mobileme_account_name	homepage.mac.com	2012-04-12 16:19:49	archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	homepage.mac.com-mobileme_account_name.warc.gz	5219
+mobileme_account_name	public.me.com	2012-04-12 16:19:48	archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	public.me.com-mobileme_account_name.warc.gz	1940
+mobileme_account_name	web.me.com	2012-04-12 16:19:48	archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	web.me.com-mobileme_account_name.warc.gz	17826
+paulinares	gallery.me.com	2012-04-12 16:20:17	archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	gallery.me.com-paulinares.warc.gz	5167
+paulinares	homepage.mac.com	2012-04-12 16:20:17	archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	homepage.mac.com-paulinares.warc.gz	4918
+paulinares	public.me.com	2012-04-12 16:20:15	archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	public.me.com-paulinares.warc.gz	1916
+paulinares	web.me.com	2012-04-12 16:20:15	archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	web.me.com-paulinares.warc.gz	2648285
+silviarivas	gallery.me.com	2012-04-12 16:19:43	archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	gallery.me.com-silviarivas.warc.gz	3119978
+silviarivas	homepage.mac.com	2012-04-12 16:19:47	archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	homepage.mac.com-silviarivas.warc.gz	86023
+silviarivas	public.me.com	2012-04-12 16:19:18	archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	public.me.com-silviarivas.warc.gz	3958947268
+silviarivas	web.me.com	2012-04-12 15:14:45	archiveteam-mobileme-hero-685x	archiveteam-mobileme-hero-685x-6855.tar	web.me.com-silviarivas.warc.gz	328477556

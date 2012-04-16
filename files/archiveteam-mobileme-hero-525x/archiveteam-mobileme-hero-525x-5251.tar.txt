@@ -1,20 +1,20 @@
-gen7	gallery.me.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	gallery.me.com-gen7.warc.gz	0
-gen7	homepage.mac.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	homepage.mac.com-gen7.warc.gz	0
-gen7	public.me.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	public.me.com-gen7.warc.gz	0
-gen7	web.me.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	web.me.com-gen7.warc.gz	0
-growthproject	gallery.me.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	gallery.me.com-growthproject.warc.gz	0
-growthproject	homepage.mac.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	homepage.mac.com-growthproject.warc.gz	0
-growthproject	public.me.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	public.me.com-growthproject.warc.gz	0
-growthproject	web.me.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	web.me.com-growthproject.warc.gz	0
-vincenzo_dragonetti	gallery.me.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	gallery.me.com-vincenzo_dragonetti.warc.gz	0
-vincenzo_dragonetti	homepage.mac.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	homepage.mac.com-vincenzo_dragonetti.warc.gz	0
-vincenzo_dragonetti	public.me.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	public.me.com-vincenzo_dragonetti.warc.gz	0
-vincenzo_dragonetti	web.me.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	web.me.com-vincenzo_dragonetti.warc.gz	0
-washdclady	gallery.me.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	gallery.me.com-washdclady.warc.gz	0
-washdclady	homepage.mac.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	homepage.mac.com-washdclady.warc.gz	0
-washdclady	public.me.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	public.me.com-washdclady.warc.gz	0
-washdclady	web.me.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	web.me.com-washdclady.warc.gz	0
-williampolkinghorn	gallery.me.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	gallery.me.com-williampolkinghorn.warc.gz	0
-williampolkinghorn	homepage.mac.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	homepage.mac.com-williampolkinghorn.warc.gz	0
-williampolkinghorn	public.me.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	public.me.com-williampolkinghorn.warc.gz	0
-williampolkinghorn	web.me.com		archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	web.me.com-williampolkinghorn.warc.gz	0
+gen7	gallery.me.com	2012-04-08 19:31:08	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	gallery.me.com-gen7.warc.gz	338259282
+gen7	homepage.mac.com	2012-04-08 19:31:30	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	homepage.mac.com-gen7.warc.gz	350423
+gen7	public.me.com	2012-04-08 19:24:04	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	public.me.com-gen7.warc.gz	1907
+gen7	web.me.com	2012-04-08 19:24:04	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	web.me.com-gen7.warc.gz	110630999
+growthproject	gallery.me.com	2012-04-08 20:47:31	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	gallery.me.com-growthproject.warc.gz	6048164
+growthproject	homepage.mac.com	2012-04-08 20:47:34	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	homepage.mac.com-growthproject.warc.gz	69868
+growthproject	public.me.com	2012-04-08 20:47:23	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	public.me.com-growthproject.warc.gz	80612412
+growthproject	web.me.com	2012-04-08 20:46:15	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	web.me.com-growthproject.warc.gz	111479003
+vincenzo_dragonetti	gallery.me.com	2012-04-08 19:19:18	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	gallery.me.com-vincenzo_dragonetti.warc.gz	4347
+vincenzo_dragonetti	homepage.mac.com	2012-04-08 19:19:25	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	homepage.mac.com-vincenzo_dragonetti.warc.gz	1034567
+vincenzo_dragonetti	public.me.com	2012-04-08 19:19:17	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	public.me.com-vincenzo_dragonetti.warc.gz	1943
+vincenzo_dragonetti	web.me.com	2012-04-08 19:19:17	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	web.me.com-vincenzo_dragonetti.warc.gz	30186909
+washdclady	gallery.me.com	2012-04-08 20:44:13	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	gallery.me.com-washdclady.warc.gz	1244751435
+washdclady	homepage.mac.com	2012-04-08 20:44:13	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	homepage.mac.com-washdclady.warc.gz	7852
+washdclady	public.me.com	2012-04-08 20:29:16	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	public.me.com-washdclady.warc.gz	246536172
+washdclady	web.me.com	2012-04-08 20:25:14	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	web.me.com-washdclady.warc.gz	762692938
+williampolkinghorn	gallery.me.com	2012-04-09 00:17:33	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	gallery.me.com-williampolkinghorn.warc.gz	2682029221
+williampolkinghorn	homepage.mac.com	2012-04-09 00:17:34	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	homepage.mac.com-williampolkinghorn.warc.gz	6077
+williampolkinghorn	public.me.com	2012-04-08 22:57:46	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	public.me.com-williampolkinghorn.warc.gz	10499076
+williampolkinghorn	web.me.com	2012-04-08 22:55:42	archiveteam-mobileme-hero-525x	archiveteam-mobileme-hero-525x-5251.tar	web.me.com-williampolkinghorn.warc.gz	6263728580

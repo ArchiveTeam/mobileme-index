@@ -1,28 +1,28 @@
-c724746493	gallery.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	gallery.me.com-c724746493.warc.gz	0
-c724746493	homepage.mac.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	homepage.mac.com-c724746493.warc.gz	0
-c724746493	public.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	public.me.com-c724746493.warc.gz	0
-c724746493	web.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	web.me.com-c724746493.warc.gz	0
-dl.pratt	gallery.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	gallery.me.com-dl.pratt.warc.gz	0
-dl.pratt	homepage.mac.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	homepage.mac.com-dl.pratt.warc.gz	0
-dl.pratt	public.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	public.me.com-dl.pratt.warc.gz	0
-dl.pratt	web.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	web.me.com-dl.pratt.warc.gz	0
-fannyholveck	gallery.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	gallery.me.com-fannyholveck.warc.gz	0
-fannyholveck	homepage.mac.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	homepage.mac.com-fannyholveck.warc.gz	0
-fannyholveck	public.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	public.me.com-fannyholveck.warc.gz	0
-fannyholveck	web.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	web.me.com-fannyholveck.warc.gz	0
-kefe	gallery.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	gallery.me.com-kefe.warc.gz	0
-kefe	homepage.mac.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	homepage.mac.com-kefe.warc.gz	0
-kefe	public.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	public.me.com-kefe.warc.gz	0
-kefe	web.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	web.me.com-kefe.warc.gz	0
-pakara	gallery.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	gallery.me.com-pakara.warc.gz	0
-pakara	homepage.mac.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	homepage.mac.com-pakara.warc.gz	0
-pakara	public.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	public.me.com-pakara.warc.gz	0
-pakara	web.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	web.me.com-pakara.warc.gz	0
-scottedgecombe	gallery.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	gallery.me.com-scottedgecombe.warc.gz	0
-scottedgecombe	homepage.mac.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	homepage.mac.com-scottedgecombe.warc.gz	0
-scottedgecombe	public.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	public.me.com-scottedgecombe.warc.gz	0
-scottedgecombe	web.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	web.me.com-scottedgecombe.warc.gz	0
-vjaksa	gallery.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	gallery.me.com-vjaksa.warc.gz	0
-vjaksa	homepage.mac.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	homepage.mac.com-vjaksa.warc.gz	0
-vjaksa	public.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	public.me.com-vjaksa.warc.gz	0
-vjaksa	web.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	web.me.com-vjaksa.warc.gz	0
+c724746493	gallery.me.com	2012-04-10 06:02:16	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	gallery.me.com-c724746493.warc.gz	8364
+c724746493	homepage.mac.com	2012-04-10 06:02:16	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	homepage.mac.com-c724746493.warc.gz	5175
+c724746493	public.me.com	2012-04-10 06:02:16	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	public.me.com-c724746493.warc.gz	1919
+c724746493	web.me.com	2012-04-10 06:02:15	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	web.me.com-c724746493.warc.gz	17676
+dl.pratt	gallery.me.com	2012-04-10 06:25:18	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	gallery.me.com-dl.pratt.warc.gz	4258
+dl.pratt	homepage.mac.com	2012-04-10 06:25:19	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	homepage.mac.com-dl.pratt.warc.gz	4920
+dl.pratt	public.me.com	2012-04-10 06:25:18	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	public.me.com-dl.pratt.warc.gz	1905
+dl.pratt	web.me.com	2012-04-10 06:25:17	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	web.me.com-dl.pratt.warc.gz	296047737
+fannyholveck	gallery.me.com	2012-04-10 06:36:05	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	gallery.me.com-fannyholveck.warc.gz	4261
+fannyholveck	homepage.mac.com	2012-04-10 06:36:05	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	homepage.mac.com-fannyholveck.warc.gz	4943
+fannyholveck	public.me.com	2012-04-10 06:36:04	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	public.me.com-fannyholveck.warc.gz	1924
+fannyholveck	web.me.com	2012-04-10 06:36:04	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	web.me.com-fannyholveck.warc.gz	58814357
+kefe	gallery.me.com	2012-04-10 06:21:15	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	gallery.me.com-kefe.warc.gz	60350060
+kefe	homepage.mac.com	2012-04-10 06:21:16	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	homepage.mac.com-kefe.warc.gz	4888
+kefe	public.me.com	2012-04-10 06:19:31	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	public.me.com-kefe.warc.gz	1904
+kefe	web.me.com	2012-04-10 06:19:30	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	web.me.com-kefe.warc.gz	66571340
+pakara	gallery.me.com	2012-04-10 09:08:05	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	gallery.me.com-pakara.warc.gz	3140866471
+pakara	homepage.mac.com	2012-04-10 09:08:06	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	homepage.mac.com-pakara.warc.gz	4908
+pakara	public.me.com	2012-04-10 08:08:14	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	public.me.com-pakara.warc.gz	1902
+pakara	web.me.com	2012-04-10 08:08:11	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	web.me.com-pakara.warc.gz	485555296
+scottedgecombe	gallery.me.com	2012-04-10 06:45:28	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	gallery.me.com-scottedgecombe.warc.gz	5728
+scottedgecombe	homepage.mac.com	2012-04-10 06:45:28	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	homepage.mac.com-scottedgecombe.warc.gz	4919
+scottedgecombe	public.me.com	2012-04-10 06:45:27	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	public.me.com-scottedgecombe.warc.gz	89437118
+scottedgecombe	web.me.com	2012-04-10 06:42:11	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	web.me.com-scottedgecombe.warc.gz	245106699
+vjaksa	gallery.me.com	2012-04-10 07:41:45	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	gallery.me.com-vjaksa.warc.gz	1866152596
+vjaksa	homepage.mac.com	2012-04-10 07:41:45	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	homepage.mac.com-vjaksa.warc.gz	4912
+vjaksa	public.me.com	2012-04-10 07:12:06	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	public.me.com-vjaksa.warc.gz	5098
+vjaksa	web.me.com	2012-04-10 07:12:05	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5857.tar	web.me.com-vjaksa.warc.gz	259559116

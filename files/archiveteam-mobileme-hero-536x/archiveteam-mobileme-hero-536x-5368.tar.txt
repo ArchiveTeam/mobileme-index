@@ -1,24 +1,24 @@
-hgwatndal	gallery.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	gallery.me.com-hgwatndal.warc.gz	0
-hgwatndal	homepage.mac.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	homepage.mac.com-hgwatndal.warc.gz	0
-hgwatndal	public.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	public.me.com-hgwatndal.warc.gz	0
-hgwatndal	web.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	web.me.com-hgwatndal.warc.gz	0
-m.loterijman	gallery.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	gallery.me.com-m.loterijman.warc.gz	0
-m.loterijman	homepage.mac.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	homepage.mac.com-m.loterijman.warc.gz	0
-m.loterijman	public.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	public.me.com-m.loterijman.warc.gz	0
-m.loterijman	web.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	web.me.com-m.loterijman.warc.gz	0
-minotech	gallery.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	gallery.me.com-minotech.warc.gz	0
-minotech	homepage.mac.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	homepage.mac.com-minotech.warc.gz	0
-minotech	public.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	public.me.com-minotech.warc.gz	0
-minotech	web.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	web.me.com-minotech.warc.gz	0
-ronmiller2	gallery.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	gallery.me.com-ronmiller2.warc.gz	0
-ronmiller2	homepage.mac.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	homepage.mac.com-ronmiller2.warc.gz	0
-ronmiller2	public.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	public.me.com-ronmiller2.warc.gz	0
-ronmiller2	web.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	web.me.com-ronmiller2.warc.gz	0
-sahella	gallery.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	gallery.me.com-sahella.warc.gz	0
-sahella	homepage.mac.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	homepage.mac.com-sahella.warc.gz	0
-sahella	public.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	public.me.com-sahella.warc.gz	0
-sahella	web.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	web.me.com-sahella.warc.gz	0
-stephen_trull	gallery.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	gallery.me.com-stephen_trull.warc.gz	0
-stephen_trull	homepage.mac.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	homepage.mac.com-stephen_trull.warc.gz	0
-stephen_trull	public.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	public.me.com-stephen_trull.warc.gz	0
-stephen_trull	web.me.com		archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	web.me.com-stephen_trull.warc.gz	0
+hgwatndal	gallery.me.com	2012-04-09 07:00:35	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	gallery.me.com-hgwatndal.warc.gz	5938282323
+hgwatndal	homepage.mac.com	2012-04-09 07:00:43	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	homepage.mac.com-hgwatndal.warc.gz	113231
+hgwatndal	public.me.com	2012-04-09 01:30:10	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	public.me.com-hgwatndal.warc.gz	28832335
+hgwatndal	web.me.com	2012-04-09 01:26:41	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	web.me.com-hgwatndal.warc.gz	1881352228
+m.loterijman	gallery.me.com	2012-04-08 20:36:11	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	gallery.me.com-m.loterijman.warc.gz	2605173
+m.loterijman	homepage.mac.com	2012-04-08 20:36:11	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	homepage.mac.com-m.loterijman.warc.gz	4931
+m.loterijman	public.me.com	2012-04-08 20:35:52	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	public.me.com-m.loterijman.warc.gz	1928
+m.loterijman	web.me.com	2012-04-08 20:35:51	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	web.me.com-m.loterijman.warc.gz	6607544
+minotech	gallery.me.com	2012-04-08 21:24:24	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	gallery.me.com-minotech.warc.gz	482121264
+minotech	homepage.mac.com	2012-04-08 21:28:15	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	homepage.mac.com-minotech.warc.gz	1737944
+minotech	public.me.com	2012-04-08 20:57:51	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	public.me.com-minotech.warc.gz	1917
+minotech	web.me.com	2012-04-08 20:57:51	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	web.me.com-minotech.warc.gz	8683096
+ronmiller2	gallery.me.com	2012-04-08 20:53:01	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	gallery.me.com-ronmiller2.warc.gz	17022053
+ronmiller2	homepage.mac.com	2012-04-08 20:53:02	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	homepage.mac.com-ronmiller2.warc.gz	7860
+ronmiller2	public.me.com	2012-04-08 20:52:07	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	public.me.com-ronmiller2.warc.gz	437040979
+ronmiller2	web.me.com	2012-04-08 20:43:39	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	web.me.com-ronmiller2.warc.gz	16949489
+sahella	gallery.me.com	2012-04-08 20:37:15	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	gallery.me.com-sahella.warc.gz	4982
+sahella	homepage.mac.com	2012-04-08 20:37:15	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	homepage.mac.com-sahella.warc.gz	4897
+sahella	public.me.com	2012-04-08 20:37:13	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	public.me.com-sahella.warc.gz	1918
+sahella	web.me.com	2012-04-08 20:37:12	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	web.me.com-sahella.warc.gz	1651977
+stephen_trull	gallery.me.com	2012-04-08 21:28:58	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	gallery.me.com-stephen_trull.warc.gz	5813
+stephen_trull	homepage.mac.com	2012-04-08 21:28:58	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	homepage.mac.com-stephen_trull.warc.gz	4937
+stephen_trull	public.me.com	2012-04-08 21:28:55	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	public.me.com-stephen_trull.warc.gz	1927
+stephen_trull	web.me.com	2012-04-08 21:28:55	archiveteam-mobileme-hero-536x	archiveteam-mobileme-hero-536x-5368.tar	web.me.com-stephen_trull.warc.gz	481759

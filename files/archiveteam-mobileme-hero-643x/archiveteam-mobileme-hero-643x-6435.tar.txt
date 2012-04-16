@@ -1,20 +1,20 @@
-c1056058969	gallery.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	gallery.me.com-c1056058969.warc.gz	0
-c1056058969	homepage.mac.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	homepage.mac.com-c1056058969.warc.gz	0
-c1056058969	public.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	public.me.com-c1056058969.warc.gz	0
-c1056058969	web.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	web.me.com-c1056058969.warc.gz	0
-eeckland	gallery.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	gallery.me.com-eeckland.warc.gz	0
-eeckland	homepage.mac.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	homepage.mac.com-eeckland.warc.gz	0
-eeckland	public.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	public.me.com-eeckland.warc.gz	0
-eeckland	web.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	web.me.com-eeckland.warc.gz	0
-jason.lisseman	gallery.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	gallery.me.com-jason.lisseman.warc.gz	0
-jason.lisseman	homepage.mac.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	homepage.mac.com-jason.lisseman.warc.gz	0
-jason.lisseman	public.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	public.me.com-jason.lisseman.warc.gz	0
-jason.lisseman	web.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	web.me.com-jason.lisseman.warc.gz	0
-lworman	gallery.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	gallery.me.com-lworman.warc.gz	0
-lworman	homepage.mac.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	homepage.mac.com-lworman.warc.gz	0
-lworman	public.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	public.me.com-lworman.warc.gz	0
-lworman	web.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	web.me.com-lworman.warc.gz	0
-mberges	gallery.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	gallery.me.com-mberges.warc.gz	0
-mberges	homepage.mac.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	homepage.mac.com-mberges.warc.gz	0
-mberges	public.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	public.me.com-mberges.warc.gz	0
-mberges	web.me.com		archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	web.me.com-mberges.warc.gz	0
+c1056058969	gallery.me.com	2012-04-11 08:47:42	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	gallery.me.com-c1056058969.warc.gz	8373
+c1056058969	homepage.mac.com	2012-04-11 08:47:42	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	homepage.mac.com-c1056058969.warc.gz	5181
+c1056058969	public.me.com	2012-04-11 08:47:41	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	public.me.com-c1056058969.warc.gz	1924
+c1056058969	web.me.com	2012-04-11 08:47:40	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	web.me.com-c1056058969.warc.gz	17754
+eeckland	gallery.me.com	2012-04-11 06:42:55	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	gallery.me.com-eeckland.warc.gz	7042112
+eeckland	homepage.mac.com	2012-04-11 06:42:56	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	homepage.mac.com-eeckland.warc.gz	4900
+eeckland	public.me.com	2012-04-11 06:41:28	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	public.me.com-eeckland.warc.gz	1911
+eeckland	web.me.com	2012-04-11 06:41:27	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	web.me.com-eeckland.warc.gz	2927693
+jason.lisseman	gallery.me.com	2012-04-11 08:47:30	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	gallery.me.com-jason.lisseman.warc.gz	1864572270
+jason.lisseman	homepage.mac.com	2012-04-11 08:47:34	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	homepage.mac.com-jason.lisseman.warc.gz	7874
+jason.lisseman	public.me.com	2012-04-11 07:17:29	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	public.me.com-jason.lisseman.warc.gz	1933
+jason.lisseman	web.me.com	2012-04-11 07:17:28	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	web.me.com-jason.lisseman.warc.gz	70639769
+lworman	gallery.me.com	2012-04-11 08:49:42	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	gallery.me.com-lworman.warc.gz	5117
+lworman	homepage.mac.com	2012-04-11 08:49:46	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	homepage.mac.com-lworman.warc.gz	36863
+lworman	public.me.com	2012-04-11 08:49:41	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	public.me.com-lworman.warc.gz	177613
+lworman	web.me.com	2012-04-11 08:49:32	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	web.me.com-lworman.warc.gz	1351539
+mberges	gallery.me.com	2012-04-11 15:15:05	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	gallery.me.com-mberges.warc.gz	8012049665
+mberges	homepage.mac.com	2012-04-11 15:15:17	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	homepage.mac.com-mberges.warc.gz	240151
+mberges	public.me.com	2012-04-11 11:13:16	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	public.me.com-mberges.warc.gz	35815664
+mberges	web.me.com	2012-04-11 11:11:30	archiveteam-mobileme-hero-643x	archiveteam-mobileme-hero-643x-6435.tar	web.me.com-mberges.warc.gz	1199285241

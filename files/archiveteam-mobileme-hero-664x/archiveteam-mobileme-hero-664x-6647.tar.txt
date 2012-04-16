@@ -1,12 +1,12 @@
-dorianlohse	gallery.me.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	gallery.me.com-dorianlohse.warc.gz	0
-dorianlohse	homepage.mac.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	homepage.mac.com-dorianlohse.warc.gz	0
-dorianlohse	public.me.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	public.me.com-dorianlohse.warc.gz	0
-dorianlohse	web.me.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	web.me.com-dorianlohse.warc.gz	0
-nilleper	gallery.me.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	gallery.me.com-nilleper.warc.gz	0
-nilleper	homepage.mac.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	homepage.mac.com-nilleper.warc.gz	0
-nilleper	public.me.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	public.me.com-nilleper.warc.gz	0
-nilleper	web.me.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	web.me.com-nilleper.warc.gz	0
-rkasdorf	gallery.me.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	gallery.me.com-rkasdorf.warc.gz	0
-rkasdorf	homepage.mac.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	homepage.mac.com-rkasdorf.warc.gz	0
-rkasdorf	public.me.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	public.me.com-rkasdorf.warc.gz	0
-rkasdorf	web.me.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	web.me.com-rkasdorf.warc.gz	0
+dorianlohse	gallery.me.com	2012-04-12 05:21:21	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	gallery.me.com-dorianlohse.warc.gz	90654871
+dorianlohse	homepage.mac.com	2012-04-12 05:21:21	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	homepage.mac.com-dorianlohse.warc.gz	4925
+dorianlohse	public.me.com	2012-04-12 05:18:51	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	public.me.com-dorianlohse.warc.gz	1921
+dorianlohse	web.me.com	2012-04-12 05:18:51	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	web.me.com-dorianlohse.warc.gz	1280830
+nilleper	gallery.me.com	2012-04-12 06:59:09	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	gallery.me.com-nilleper.warc.gz	3879563
+nilleper	homepage.mac.com	2012-04-12 06:59:10	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	homepage.mac.com-nilleper.warc.gz	4905
+nilleper	public.me.com	2012-04-12 06:59:04	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	public.me.com-nilleper.warc.gz	298122790
+nilleper	web.me.com	2012-04-12 06:53:28	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	web.me.com-nilleper.warc.gz	822697039
+rkasdorf	gallery.me.com	2012-04-12 06:10:15	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	gallery.me.com-rkasdorf.warc.gz	3125487156
+rkasdorf	homepage.mac.com	2012-04-12 06:10:16	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	homepage.mac.com-rkasdorf.warc.gz	4908
+rkasdorf	public.me.com	2012-04-12 05:33:47	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	public.me.com-rkasdorf.warc.gz	3411
+rkasdorf	web.me.com	2012-04-12 05:33:46	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6647.tar	web.me.com-rkasdorf.warc.gz	91316845

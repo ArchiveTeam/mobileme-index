@@ -1,0 +1,16 @@
+hal	gallery.me.com	2012-04-15 23:28:03	archiveteam-mobileme-hero-867x	archiveteam-mobileme-hero-867x-8671.tar	gallery.me.com-hal.warc.gz	3903759684
+hal	homepage.mac.com	2012-04-15 23:28:04	archiveteam-mobileme-hero-867x	archiveteam-mobileme-hero-867x-8671.tar	homepage.mac.com-hal.warc.gz	3464
+hal	public.me.com	2012-04-15 21:26:30	archiveteam-mobileme-hero-867x	archiveteam-mobileme-hero-867x-8671.tar	public.me.com-hal.warc.gz	1900
+hal	web.me.com	2012-04-15 21:25:46	archiveteam-mobileme-hero-867x	archiveteam-mobileme-hero-867x-8671.tar	web.me.com-hal.warc.gz	1741347295
+k.tobias	gallery.me.com	2012-04-15 20:00:05	archiveteam-mobileme-hero-867x	archiveteam-mobileme-hero-867x-8671.tar	gallery.me.com-k.tobias.warc.gz	2582184429
+k.tobias	homepage.mac.com	2012-04-15 20:00:05	archiveteam-mobileme-hero-867x	archiveteam-mobileme-hero-867x-8671.tar	homepage.mac.com-k.tobias.warc.gz	4904
+k.tobias	public.me.com	2012-04-15 19:25:48	archiveteam-mobileme-hero-867x	archiveteam-mobileme-hero-867x-8671.tar	public.me.com-k.tobias.warc.gz	161152252
+k.tobias	web.me.com	2012-04-15 19:21:32	archiveteam-mobileme-hero-867x	archiveteam-mobileme-hero-867x-8671.tar	web.me.com-k.tobias.warc.gz	398736675
+kazz2000	gallery.me.com	2012-04-15 20:17:15	archiveteam-mobileme-hero-867x	archiveteam-mobileme-hero-867x-8671.tar	gallery.me.com-kazz2000.warc.gz	228255101
+kazz2000	homepage.mac.com	2012-04-15 20:17:38	archiveteam-mobileme-hero-867x	archiveteam-mobileme-hero-867x-8671.tar	homepage.mac.com-kazz2000.warc.gz	4080156
+kazz2000	public.me.com	2012-04-15 20:06:07	archiveteam-mobileme-hero-867x	archiveteam-mobileme-hero-867x-8671.tar	public.me.com-kazz2000.warc.gz	1915
+kazz2000	web.me.com	2012-04-15 20:06:06	archiveteam-mobileme-hero-867x	archiveteam-mobileme-hero-867x-8671.tar	web.me.com-kazz2000.warc.gz	133035929
+pitouto	gallery.me.com	2012-04-15 20:28:45	archiveteam-mobileme-hero-867x	archiveteam-mobileme-hero-867x-8671.tar	gallery.me.com-pitouto.warc.gz	4228
+pitouto	homepage.mac.com	2012-04-15 20:28:45	archiveteam-mobileme-hero-867x	archiveteam-mobileme-hero-867x-8671.tar	homepage.mac.com-pitouto.warc.gz	4905
+pitouto	public.me.com	2012-04-15 20:28:44	archiveteam-mobileme-hero-867x	archiveteam-mobileme-hero-867x-8671.tar	public.me.com-pitouto.warc.gz	1915
+pitouto	web.me.com	2012-04-15 20:28:44	archiveteam-mobileme-hero-867x	archiveteam-mobileme-hero-867x-8671.tar	web.me.com-pitouto.warc.gz	200209574

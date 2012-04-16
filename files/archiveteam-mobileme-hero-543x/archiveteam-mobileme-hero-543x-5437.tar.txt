@@ -1,12 +1,12 @@
-barrwoods	gallery.me.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	gallery.me.com-barrwoods.warc.gz	0
-barrwoods	homepage.mac.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	homepage.mac.com-barrwoods.warc.gz	0
-barrwoods	public.me.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	public.me.com-barrwoods.warc.gz	0
-barrwoods	web.me.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	web.me.com-barrwoods.warc.gz	0
-provobc	gallery.me.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	gallery.me.com-provobc.warc.gz	0
-provobc	homepage.mac.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	homepage.mac.com-provobc.warc.gz	0
-provobc	public.me.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	public.me.com-provobc.warc.gz	0
-provobc	web.me.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	web.me.com-provobc.warc.gz	0
-tiggerifficjo	gallery.me.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	gallery.me.com-tiggerifficjo.warc.gz	0
-tiggerifficjo	homepage.mac.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	homepage.mac.com-tiggerifficjo.warc.gz	0
-tiggerifficjo	public.me.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	public.me.com-tiggerifficjo.warc.gz	0
-tiggerifficjo	web.me.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	web.me.com-tiggerifficjo.warc.gz	0
+barrwoods	gallery.me.com	2012-04-09 09:26:37	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	gallery.me.com-barrwoods.warc.gz	8339
+barrwoods	homepage.mac.com	2012-04-09 09:26:37	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	homepage.mac.com-barrwoods.warc.gz	5168
+barrwoods	public.me.com	2012-04-09 09:26:36	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	public.me.com-barrwoods.warc.gz	1918
+barrwoods	web.me.com	2012-04-09 09:26:36	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	web.me.com-barrwoods.warc.gz	17660
+provobc	gallery.me.com	2012-04-09 10:28:50	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	gallery.me.com-provobc.warc.gz	175831116
+provobc	homepage.mac.com	2012-04-09 10:28:53	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	homepage.mac.com-provobc.warc.gz	4910
+provobc	public.me.com	2012-04-09 10:25:21	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	public.me.com-provobc.warc.gz	216959598
+provobc	web.me.com	2012-04-09 10:20:01	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	web.me.com-provobc.warc.gz	4315356450
+tiggerifficjo	gallery.me.com	2012-04-09 09:26:34	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	gallery.me.com-tiggerifficjo.warc.gz	7071860
+tiggerifficjo	homepage.mac.com	2012-04-09 09:26:34	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	homepage.mac.com-tiggerifficjo.warc.gz	4938
+tiggerifficjo	public.me.com	2012-04-09 09:26:27	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	public.me.com-tiggerifficjo.warc.gz	1931
+tiggerifficjo	web.me.com	2012-04-09 09:26:25	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5437.tar	web.me.com-tiggerifficjo.warc.gz	46641574

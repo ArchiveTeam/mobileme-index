@@ -1,8 +1,8 @@
-aghughes	gallery.me.com		archiveteam-mobileme-hero-265x	archiveteam-mobileme-hero-265x-2650.tar	gallery.me.com-aghughes.warc.gz	0
-aghughes	homepage.mac.com		archiveteam-mobileme-hero-265x	archiveteam-mobileme-hero-265x-2650.tar	homepage.mac.com-aghughes.warc.gz	0
-aghughes	public.me.com		archiveteam-mobileme-hero-265x	archiveteam-mobileme-hero-265x-2650.tar	public.me.com-aghughes.warc.gz	0
-aghughes	web.me.com		archiveteam-mobileme-hero-265x	archiveteam-mobileme-hero-265x-2650.tar	web.me.com-aghughes.warc.gz	0
-mreginaldo	gallery.me.com		archiveteam-mobileme-hero-265x	archiveteam-mobileme-hero-265x-2650.tar	gallery.me.com-mreginaldo.warc.gz	0
-mreginaldo	homepage.mac.com		archiveteam-mobileme-hero-265x	archiveteam-mobileme-hero-265x-2650.tar	homepage.mac.com-mreginaldo.warc.gz	0
-mreginaldo	public.me.com		archiveteam-mobileme-hero-265x	archiveteam-mobileme-hero-265x-2650.tar	public.me.com-mreginaldo.warc.gz	0
-mreginaldo	web.me.com		archiveteam-mobileme-hero-265x	archiveteam-mobileme-hero-265x-2650.tar	web.me.com-mreginaldo.warc.gz	0
+aghughes	gallery.me.com	2012-04-01 08:55:51	archiveteam-mobileme-hero-265x	archiveteam-mobileme-hero-265x-2650.tar	gallery.me.com-aghughes.warc.gz	660491450
+aghughes	homepage.mac.com	2012-04-01 08:55:57	archiveteam-mobileme-hero-265x	archiveteam-mobileme-hero-265x-2650.tar	homepage.mac.com-aghughes.warc.gz	4905
+aghughes	public.me.com	2012-04-01 08:33:55	archiveteam-mobileme-hero-265x	archiveteam-mobileme-hero-265x-2650.tar	public.me.com-aghughes.warc.gz	1915
+aghughes	web.me.com	2012-04-01 08:33:53	archiveteam-mobileme-hero-265x	archiveteam-mobileme-hero-265x-2650.tar	web.me.com-aghughes.warc.gz	5161621
+mreginaldo	gallery.me.com	2012-04-01 10:15:08	archiveteam-mobileme-hero-265x	archiveteam-mobileme-hero-265x-2650.tar	gallery.me.com-mreginaldo.warc.gz	4820834096
+mreginaldo	homepage.mac.com	2012-04-01 10:15:09	archiveteam-mobileme-hero-265x	archiveteam-mobileme-hero-265x-2650.tar	homepage.mac.com-mreginaldo.warc.gz	4906
+mreginaldo	public.me.com	2012-04-01 09:03:50	archiveteam-mobileme-hero-265x	archiveteam-mobileme-hero-265x-2650.tar	public.me.com-mreginaldo.warc.gz	1915
+mreginaldo	web.me.com	2012-04-01 09:03:45	archiveteam-mobileme-hero-265x	archiveteam-mobileme-hero-265x-2650.tar	web.me.com-mreginaldo.warc.gz	12863225

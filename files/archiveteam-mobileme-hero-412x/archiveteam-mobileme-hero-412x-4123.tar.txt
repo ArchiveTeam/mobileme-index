@@ -1,8 +1,8 @@
-kelly.caspers	gallery.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4123.tar	gallery.me.com-kelly.caspers.warc.gz	0
-kelly.caspers	homepage.mac.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4123.tar	homepage.mac.com-kelly.caspers.warc.gz	0
-kelly.caspers	public.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4123.tar	public.me.com-kelly.caspers.warc.gz	0
-kelly.caspers	web.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4123.tar	web.me.com-kelly.caspers.warc.gz	0
-pedrogemal	gallery.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4123.tar	gallery.me.com-pedrogemal.warc.gz	0
-pedrogemal	homepage.mac.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4123.tar	homepage.mac.com-pedrogemal.warc.gz	0
-pedrogemal	public.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4123.tar	public.me.com-pedrogemal.warc.gz	0
-pedrogemal	web.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4123.tar	web.me.com-pedrogemal.warc.gz	0
+kelly.caspers	gallery.me.com	2012-04-05 06:57:42	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4123.tar	gallery.me.com-kelly.caspers.warc.gz	3292180105
+kelly.caspers	homepage.mac.com	2012-04-05 06:57:48	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4123.tar	homepage.mac.com-kelly.caspers.warc.gz	88446
+kelly.caspers	public.me.com	2012-04-05 05:09:52	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4123.tar	public.me.com-kelly.caspers.warc.gz	1927
+kelly.caspers	web.me.com	2012-04-05 05:09:51	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4123.tar	web.me.com-kelly.caspers.warc.gz	873601548
+pedrogemal	gallery.me.com	2012-04-05 07:19:56	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4123.tar	gallery.me.com-pedrogemal.warc.gz	4336
+pedrogemal	homepage.mac.com	2012-04-05 07:19:56	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4123.tar	homepage.mac.com-pedrogemal.warc.gz	4918
+pedrogemal	public.me.com	2012-04-05 07:19:55	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4123.tar	public.me.com-pedrogemal.warc.gz	343978976
+pedrogemal	web.me.com	2012-04-05 07:14:57	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4123.tar	web.me.com-pedrogemal.warc.gz	423472537

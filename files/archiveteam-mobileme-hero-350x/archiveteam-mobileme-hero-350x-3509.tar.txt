@@ -1,32 +1,32 @@
-handel	gallery.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	gallery.me.com-handel.warc.gz	0
-handel	homepage.mac.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	homepage.mac.com-handel.warc.gz	0
-handel	public.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	public.me.com-handel.warc.gz	0
-handel	web.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	web.me.com-handel.warc.gz	0
-irvingfamily	gallery.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	gallery.me.com-irvingfamily.warc.gz	0
-irvingfamily	homepage.mac.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	homepage.mac.com-irvingfamily.warc.gz	0
-irvingfamily	public.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	public.me.com-irvingfamily.warc.gz	0
-irvingfamily	web.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	web.me.com-irvingfamily.warc.gz	0
-jottedd	gallery.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	gallery.me.com-jottedd.warc.gz	0
-jottedd	homepage.mac.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	homepage.mac.com-jottedd.warc.gz	0
-jottedd	public.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	public.me.com-jottedd.warc.gz	0
-jottedd	web.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	web.me.com-jottedd.warc.gz	0
-jsforbes	gallery.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	gallery.me.com-jsforbes.warc.gz	0
-jsforbes	homepage.mac.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	homepage.mac.com-jsforbes.warc.gz	0
-jsforbes	public.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	public.me.com-jsforbes.warc.gz	0
-jsforbes	web.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	web.me.com-jsforbes.warc.gz	0
-mhoagland	gallery.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	gallery.me.com-mhoagland.warc.gz	0
-mhoagland	homepage.mac.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	homepage.mac.com-mhoagland.warc.gz	0
-mhoagland	public.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	public.me.com-mhoagland.warc.gz	0
-mhoagland	web.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	web.me.com-mhoagland.warc.gz	0
-sergiodelamo	gallery.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	gallery.me.com-sergiodelamo.warc.gz	0
-sergiodelamo	homepage.mac.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	homepage.mac.com-sergiodelamo.warc.gz	0
-sergiodelamo	public.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	public.me.com-sergiodelamo.warc.gz	0
-sergiodelamo	web.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	web.me.com-sergiodelamo.warc.gz	0
-tbeauchemin7	gallery.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	gallery.me.com-tbeauchemin7.warc.gz	0
-tbeauchemin7	homepage.mac.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	homepage.mac.com-tbeauchemin7.warc.gz	0
-tbeauchemin7	public.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	public.me.com-tbeauchemin7.warc.gz	0
-tbeauchemin7	web.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	web.me.com-tbeauchemin7.warc.gz	0
-wgreen.gglaw	gallery.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	gallery.me.com-wgreen.gglaw.warc.gz	0
-wgreen.gglaw	homepage.mac.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	homepage.mac.com-wgreen.gglaw.warc.gz	0
-wgreen.gglaw	public.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	public.me.com-wgreen.gglaw.warc.gz	0
-wgreen.gglaw	web.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	web.me.com-wgreen.gglaw.warc.gz	0
+handel	gallery.me.com	2012-04-03 16:36:04	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	gallery.me.com-handel.warc.gz	2408410937
+handel	homepage.mac.com	2012-04-03 16:36:12	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	homepage.mac.com-handel.warc.gz	124743
+handel	public.me.com	2012-04-03 15:47:21	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	public.me.com-handel.warc.gz	1305059
+handel	web.me.com	2012-04-03 15:46:52	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	web.me.com-handel.warc.gz	8050958
+irvingfamily	gallery.me.com	2012-04-03 15:09:58	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	gallery.me.com-irvingfamily.warc.gz	12367
+irvingfamily	homepage.mac.com	2012-04-03 15:09:59	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	homepage.mac.com-irvingfamily.warc.gz	7157
+irvingfamily	public.me.com	2012-04-03 15:09:56	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	public.me.com-irvingfamily.warc.gz	1930
+irvingfamily	web.me.com	2012-04-03 15:09:55	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	web.me.com-irvingfamily.warc.gz	22564
+jottedd	gallery.me.com	2012-04-03 15:09:47	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	gallery.me.com-jottedd.warc.gz	19674171
+jottedd	homepage.mac.com	2012-04-03 15:09:48	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	homepage.mac.com-jottedd.warc.gz	4895
+jottedd	public.me.com	2012-04-03 15:07:52	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	public.me.com-jottedd.warc.gz	108665551
+jottedd	web.me.com	2012-04-03 15:05:57	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	web.me.com-jottedd.warc.gz	50806850
+jsforbes	gallery.me.com	2012-04-03 15:40:48	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	gallery.me.com-jsforbes.warc.gz	271938478
+jsforbes	homepage.mac.com	2012-04-03 15:41:13	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	homepage.mac.com-jsforbes.warc.gz	215031
+jsforbes	public.me.com	2012-04-03 15:26:52	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	public.me.com-jsforbes.warc.gz	1919
+jsforbes	web.me.com	2012-04-03 15:26:51	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	web.me.com-jsforbes.warc.gz	291269620
+mhoagland	gallery.me.com	2012-04-03 17:40:30	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	gallery.me.com-mhoagland.warc.gz	274997021
+mhoagland	homepage.mac.com	2012-04-03 17:40:32	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	homepage.mac.com-mhoagland.warc.gz	15777
+mhoagland	public.me.com	2012-04-03 17:29:51	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	public.me.com-mhoagland.warc.gz	1917
+mhoagland	web.me.com	2012-04-03 17:29:44	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	web.me.com-mhoagland.warc.gz	545012312
+sergiodelamo	gallery.me.com	2012-04-03 14:28:55	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	gallery.me.com-sergiodelamo.warc.gz	11680960
+sergiodelamo	homepage.mac.com	2012-04-03 14:28:55	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	homepage.mac.com-sergiodelamo.warc.gz	4924
+sergiodelamo	public.me.com	2012-04-03 14:28:18	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	public.me.com-sergiodelamo.warc.gz	3210473
+sergiodelamo	web.me.com	2012-04-03 14:28:12	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	web.me.com-sergiodelamo.warc.gz	71390428
+tbeauchemin7	gallery.me.com	2012-04-03 15:41:17	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	gallery.me.com-tbeauchemin7.warc.gz	8376
+tbeauchemin7	homepage.mac.com	2012-04-03 15:41:17	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	homepage.mac.com-tbeauchemin7.warc.gz	5180
+tbeauchemin7	public.me.com	2012-04-03 15:41:16	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	public.me.com-tbeauchemin7.warc.gz	1920
+tbeauchemin7	web.me.com	2012-04-03 15:41:15	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	web.me.com-tbeauchemin7.warc.gz	17765
+wgreen.gglaw	gallery.me.com	2012-04-03 15:01:03	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	gallery.me.com-wgreen.gglaw.warc.gz	343113
+wgreen.gglaw	homepage.mac.com	2012-04-03 15:01:03	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	homepage.mac.com-wgreen.gglaw.warc.gz	4924
+wgreen.gglaw	public.me.com	2012-04-03 15:00:59	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	public.me.com-wgreen.gglaw.warc.gz	3466
+wgreen.gglaw	web.me.com	2012-04-03 15:00:57	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3509.tar	web.me.com-wgreen.gglaw.warc.gz	919727860

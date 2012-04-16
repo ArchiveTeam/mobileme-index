@@ -1,16 +1,16 @@
-ars23	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	gallery.me.com-ars23.warc.gz	0
-ars23	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	homepage.mac.com-ars23.warc.gz	0
-ars23	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	public.me.com-ars23.warc.gz	0
-ars23	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	web.me.com-ars23.warc.gz	0
-isabellewienand	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	gallery.me.com-isabellewienand.warc.gz	0
-isabellewienand	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	homepage.mac.com-isabellewienand.warc.gz	0
-isabellewienand	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	public.me.com-isabellewienand.warc.gz	0
-isabellewienand	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	web.me.com-isabellewienand.warc.gz	0
-sarariverwatch	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	gallery.me.com-sarariverwatch.warc.gz	0
-sarariverwatch	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	homepage.mac.com-sarariverwatch.warc.gz	0
-sarariverwatch	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	public.me.com-sarariverwatch.warc.gz	0
-sarariverwatch	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	web.me.com-sarariverwatch.warc.gz	0
-scott.behmer	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	gallery.me.com-scott.behmer.warc.gz	0
-scott.behmer	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	homepage.mac.com-scott.behmer.warc.gz	0
-scott.behmer	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	public.me.com-scott.behmer.warc.gz	0
-scott.behmer	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	web.me.com-scott.behmer.warc.gz	0
+ars23	gallery.me.com	2012-04-11 08:29:28	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	gallery.me.com-ars23.warc.gz	5103
+ars23	homepage.mac.com	2012-04-11 08:29:29	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	homepage.mac.com-ars23.warc.gz	7860
+ars23	public.me.com	2012-04-11 08:29:27	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	public.me.com-ars23.warc.gz	61682712
+ars23	web.me.com	2012-04-11 08:28:20	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	web.me.com-ars23.warc.gz	25709230
+isabellewienand	gallery.me.com	2012-04-11 08:31:02	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	gallery.me.com-isabellewienand.warc.gz	4276
+isabellewienand	homepage.mac.com	2012-04-11 08:31:02	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	homepage.mac.com-isabellewienand.warc.gz	4918
+isabellewienand	public.me.com	2012-04-11 08:31:01	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	public.me.com-isabellewienand.warc.gz	3573
+isabellewienand	web.me.com	2012-04-11 08:31:01	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	web.me.com-isabellewienand.warc.gz	2670930
+sarariverwatch	gallery.me.com	2012-04-11 08:29:31	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	gallery.me.com-sarariverwatch.warc.gz	12343
+sarariverwatch	homepage.mac.com	2012-04-11 08:29:31	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	homepage.mac.com-sarariverwatch.warc.gz	7185
+sarariverwatch	public.me.com	2012-04-11 08:29:30	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	public.me.com-sarariverwatch.warc.gz	1925
+sarariverwatch	web.me.com	2012-04-11 08:29:30	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	web.me.com-sarariverwatch.warc.gz	22513
+scott.behmer	gallery.me.com	2012-04-11 09:46:56	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	gallery.me.com-scott.behmer.warc.gz	4172329706
+scott.behmer	homepage.mac.com	2012-04-11 09:46:56	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	homepage.mac.com-scott.behmer.warc.gz	4918
+scott.behmer	public.me.com	2012-04-11 08:41:40	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	public.me.com-scott.behmer.warc.gz	1926
+scott.behmer	web.me.com	2012-04-11 08:41:39	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6314.tar	web.me.com-scott.behmer.warc.gz	39902481

@@ -1,12 +1,12 @@
-cruble4	gallery.me.com		archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	gallery.me.com-cruble4.warc.gz	0
-cruble4	homepage.mac.com		archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	homepage.mac.com-cruble4.warc.gz	0
-cruble4	public.me.com		archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	public.me.com-cruble4.warc.gz	0
-cruble4	web.me.com		archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	web.me.com-cruble4.warc.gz	0
-ezep	gallery.me.com		archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	gallery.me.com-ezep.warc.gz	0
-ezep	homepage.mac.com		archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	homepage.mac.com-ezep.warc.gz	0
-ezep	public.me.com		archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	public.me.com-ezep.warc.gz	0
-ezep	web.me.com		archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	web.me.com-ezep.warc.gz	0
-tel2	gallery.me.com		archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	gallery.me.com-tel2.warc.gz	0
-tel2	homepage.mac.com		archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	homepage.mac.com-tel2.warc.gz	0
-tel2	public.me.com		archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	public.me.com-tel2.warc.gz	0
-tel2	web.me.com		archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	web.me.com-tel2.warc.gz	0
+cruble4	gallery.me.com	2012-04-13 15:49:52	archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	gallery.me.com-cruble4.warc.gz	7398740679
+cruble4	homepage.mac.com	2012-04-13 15:49:54	archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	homepage.mac.com-cruble4.warc.gz	4894
+cruble4	public.me.com	2012-04-13 13:00:42	archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	public.me.com-cruble4.warc.gz	733119775
+cruble4	web.me.com	2012-04-13 12:27:12	archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	web.me.com-cruble4.warc.gz	36557158
+ezep	gallery.me.com	2012-04-13 12:01:27	archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	gallery.me.com-ezep.warc.gz	3304720
+ezep	homepage.mac.com	2012-04-13 12:01:28	archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	homepage.mac.com-ezep.warc.gz	4902
+ezep	public.me.com	2012-04-13 12:01:15	archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	public.me.com-ezep.warc.gz	862640
+ezep	web.me.com	2012-04-13 12:01:09	archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	web.me.com-ezep.warc.gz	83151337
+tel2	gallery.me.com	2012-04-13 12:09:01	archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	gallery.me.com-tel2.warc.gz	7829220
+tel2	homepage.mac.com	2012-04-13 12:09:02	archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	homepage.mac.com-tel2.warc.gz	4886
+tel2	public.me.com	2012-04-13 12:08:26	archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	public.me.com-tel2.warc.gz	1909
+tel2	web.me.com	2012-04-13 12:08:26	archiveteam-mobileme-hero-738x	archiveteam-mobileme-hero-738x-7382.tar	web.me.com-tel2.warc.gz	24524419

@@ -1,28 +1,28 @@
-dburkhalter	gallery.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	gallery.me.com-dburkhalter.warc.gz	0
-dburkhalter	homepage.mac.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	homepage.mac.com-dburkhalter.warc.gz	0
-dburkhalter	public.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	public.me.com-dburkhalter.warc.gz	0
-dburkhalter	web.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	web.me.com-dburkhalter.warc.gz	0
-dgoodell	gallery.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	gallery.me.com-dgoodell.warc.gz	0
-dgoodell	homepage.mac.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	homepage.mac.com-dgoodell.warc.gz	0
-dgoodell	public.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	public.me.com-dgoodell.warc.gz	0
-dgoodell	web.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	web.me.com-dgoodell.warc.gz	0
-neilboo	gallery.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	gallery.me.com-neilboo.warc.gz	0
-neilboo	homepage.mac.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	homepage.mac.com-neilboo.warc.gz	0
-neilboo	public.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	public.me.com-neilboo.warc.gz	0
-neilboo	web.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	web.me.com-neilboo.warc.gz	0
-robinhaddow	gallery.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	gallery.me.com-robinhaddow.warc.gz	0
-robinhaddow	homepage.mac.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	homepage.mac.com-robinhaddow.warc.gz	0
-robinhaddow	public.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	public.me.com-robinhaddow.warc.gz	0
-robinhaddow	web.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	web.me.com-robinhaddow.warc.gz	0
-sarahdakinhansen	gallery.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	gallery.me.com-sarahdakinhansen.warc.gz	0
-sarahdakinhansen	homepage.mac.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	homepage.mac.com-sarahdakinhansen.warc.gz	0
-sarahdakinhansen	public.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	public.me.com-sarahdakinhansen.warc.gz	0
-sarahdakinhansen	web.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	web.me.com-sarahdakinhansen.warc.gz	0
-stinkerbell	gallery.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	gallery.me.com-stinkerbell.warc.gz	0
-stinkerbell	homepage.mac.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	homepage.mac.com-stinkerbell.warc.gz	0
-stinkerbell	public.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	public.me.com-stinkerbell.warc.gz	0
-stinkerbell	web.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	web.me.com-stinkerbell.warc.gz	0
-weg86	gallery.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	gallery.me.com-weg86.warc.gz	0
-weg86	homepage.mac.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	homepage.mac.com-weg86.warc.gz	0
-weg86	public.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	public.me.com-weg86.warc.gz	0
-weg86	web.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	web.me.com-weg86.warc.gz	0
+dburkhalter	gallery.me.com	2012-04-12 10:37:56	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	gallery.me.com-dburkhalter.warc.gz	119422991
+dburkhalter	homepage.mac.com	2012-04-12 10:37:58	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	homepage.mac.com-dburkhalter.warc.gz	4914
+dburkhalter	public.me.com	2012-04-12 10:31:07	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	public.me.com-dburkhalter.warc.gz	131940206
+dburkhalter	web.me.com	2012-04-12 10:28:41	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	web.me.com-dburkhalter.warc.gz	42652630
+dgoodell	gallery.me.com	2012-04-12 12:32:14	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	gallery.me.com-dgoodell.warc.gz	1638106850
+dgoodell	homepage.mac.com	2012-04-12 12:35:03	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	homepage.mac.com-dgoodell.warc.gz	1242140
+dgoodell	public.me.com	2012-04-12 11:44:01	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	public.me.com-dgoodell.warc.gz	3332
+dgoodell	web.me.com	2012-04-12 11:43:59	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	web.me.com-dgoodell.warc.gz	109627442
+neilboo	gallery.me.com	2012-04-12 11:12:27	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	gallery.me.com-neilboo.warc.gz	12333
+neilboo	homepage.mac.com	2012-04-12 11:12:28	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	homepage.mac.com-neilboo.warc.gz	7143
+neilboo	public.me.com	2012-04-12 11:12:25	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	public.me.com-neilboo.warc.gz	1914
+neilboo	web.me.com	2012-04-12 11:12:23	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	web.me.com-neilboo.warc.gz	22508
+robinhaddow	gallery.me.com	2012-04-12 09:52:50	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	gallery.me.com-robinhaddow.warc.gz	142646440
+robinhaddow	homepage.mac.com	2012-04-12 09:52:51	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	homepage.mac.com-robinhaddow.warc.gz	4910
+robinhaddow	public.me.com	2012-04-12 09:46:34	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	public.me.com-robinhaddow.warc.gz	2034481463
+robinhaddow	web.me.com	2012-04-12 08:46:36	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	web.me.com-robinhaddow.warc.gz	12708676
+sarahdakinhansen	gallery.me.com	2012-04-12 11:12:12	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	gallery.me.com-sarahdakinhansen.warc.gz	189588
+sarahdakinhansen	homepage.mac.com	2012-04-12 11:12:15	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	homepage.mac.com-sarahdakinhansen.warc.gz	4940
+sarahdakinhansen	public.me.com	2012-04-12 11:12:09	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	public.me.com-sarahdakinhansen.warc.gz	1932
+sarahdakinhansen	web.me.com	2012-04-12 11:12:05	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	web.me.com-sarahdakinhansen.warc.gz	30183471
+stinkerbell	gallery.me.com	2012-04-12 11:03:40	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	gallery.me.com-stinkerbell.warc.gz	87416997
+stinkerbell	homepage.mac.com	2012-04-12 11:03:41	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	homepage.mac.com-stinkerbell.warc.gz	7863
+stinkerbell	public.me.com	2012-04-12 11:00:48	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	public.me.com-stinkerbell.warc.gz	496876165
+stinkerbell	web.me.com	2012-04-12 10:41:36	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	web.me.com-stinkerbell.warc.gz	3604717
+weg86	gallery.me.com	2012-04-12 10:15:55	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	gallery.me.com-weg86.warc.gz	190224062
+weg86	homepage.mac.com	2012-04-12 10:16:02	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	homepage.mac.com-weg86.warc.gz	107523
+weg86	public.me.com	2012-04-12 10:06:39	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	public.me.com-weg86.warc.gz	51200037
+weg86	web.me.com	2012-04-12 10:02:57	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6777.tar	web.me.com-weg86.warc.gz	47991082

@@ -1,24 +1,24 @@
-dtbz	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	gallery.me.com-dtbz.warc.gz	0
-dtbz	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	homepage.mac.com-dtbz.warc.gz	0
-dtbz	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	public.me.com-dtbz.warc.gz	0
-dtbz	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	web.me.com-dtbz.warc.gz	0
-john.liew	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	gallery.me.com-john.liew.warc.gz	0
-john.liew	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	homepage.mac.com-john.liew.warc.gz	0
-john.liew	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	public.me.com-john.liew.warc.gz	0
-john.liew	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	web.me.com-john.liew.warc.gz	0
-kayph	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	gallery.me.com-kayph.warc.gz	0
-kayph	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	homepage.mac.com-kayph.warc.gz	0
-kayph	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	public.me.com-kayph.warc.gz	0
-kayph	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	web.me.com-kayph.warc.gz	0
-sorga	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	gallery.me.com-sorga.warc.gz	0
-sorga	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	homepage.mac.com-sorga.warc.gz	0
-sorga	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	public.me.com-sorga.warc.gz	0
-sorga	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	web.me.com-sorga.warc.gz	0
-timhelms	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	gallery.me.com-timhelms.warc.gz	0
-timhelms	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	homepage.mac.com-timhelms.warc.gz	0
-timhelms	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	public.me.com-timhelms.warc.gz	0
-timhelms	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	web.me.com-timhelms.warc.gz	0
-unklejoey	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	gallery.me.com-unklejoey.warc.gz	0
-unklejoey	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	homepage.mac.com-unklejoey.warc.gz	0
-unklejoey	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	public.me.com-unklejoey.warc.gz	0
-unklejoey	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	web.me.com-unklejoey.warc.gz	0
+dtbz	gallery.me.com	2012-04-10 15:17:38	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	gallery.me.com-dtbz.warc.gz	5446
+dtbz	homepage.mac.com	2012-04-10 15:17:43	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	homepage.mac.com-dtbz.warc.gz	4906
+dtbz	public.me.com	2012-04-10 15:17:35	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	public.me.com-dtbz.warc.gz	1913
+dtbz	web.me.com	2012-04-10 15:17:32	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	web.me.com-dtbz.warc.gz	38113056
+john.liew	gallery.me.com	2012-04-10 16:24:14	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	gallery.me.com-john.liew.warc.gz	4320646
+john.liew	homepage.mac.com	2012-04-10 16:24:16	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	homepage.mac.com-john.liew.warc.gz	4907
+john.liew	public.me.com	2012-04-10 16:23:56	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	public.me.com-john.liew.warc.gz	137855527
+john.liew	web.me.com	2012-04-10 16:20:21	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	web.me.com-john.liew.warc.gz	111205740
+kayph	gallery.me.com	2012-04-10 16:04:02	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	gallery.me.com-kayph.warc.gz	1059753630
+kayph	homepage.mac.com	2012-04-10 16:04:03	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	homepage.mac.com-kayph.warc.gz	7871
+kayph	public.me.com	2012-04-10 15:46:15	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	public.me.com-kayph.warc.gz	3945
+kayph	web.me.com	2012-04-10 15:46:02	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	web.me.com-kayph.warc.gz	1220167023
+sorga	gallery.me.com	2012-04-10 15:25:27	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	gallery.me.com-sorga.warc.gz	5124
+sorga	homepage.mac.com	2012-04-10 15:25:27	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	homepage.mac.com-sorga.warc.gz	4895
+sorga	public.me.com	2012-04-10 15:25:26	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	public.me.com-sorga.warc.gz	3309
+sorga	web.me.com	2012-04-10 15:25:25	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	web.me.com-sorga.warc.gz	5669778
+timhelms	gallery.me.com	2012-04-10 17:06:29	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	gallery.me.com-timhelms.warc.gz	590682168
+timhelms	homepage.mac.com	2012-04-10 17:06:30	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	homepage.mac.com-timhelms.warc.gz	7873
+timhelms	public.me.com	2012-04-10 17:02:02	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	public.me.com-timhelms.warc.gz	1916
+timhelms	web.me.com	2012-04-10 17:01:58	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	web.me.com-timhelms.warc.gz	2404038983
+unklejoey	gallery.me.com	2012-04-10 15:22:30	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	gallery.me.com-unklejoey.warc.gz	231869301
+unklejoey	homepage.mac.com	2012-04-10 15:22:30	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	homepage.mac.com-unklejoey.warc.gz	4927
+unklejoey	public.me.com	2012-04-10 15:17:58	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	public.me.com-unklejoey.warc.gz	3692
+unklejoey	web.me.com	2012-04-10 15:17:57	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6008.tar	web.me.com-unklejoey.warc.gz	670278

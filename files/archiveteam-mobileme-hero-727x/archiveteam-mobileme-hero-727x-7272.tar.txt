@@ -1,4 +1,4 @@
-kfa_sermons	gallery.me.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7272.tar	gallery.me.com-kfa_sermons.warc.gz	0
-kfa_sermons	homepage.mac.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7272.tar	homepage.mac.com-kfa_sermons.warc.gz	0
-kfa_sermons	public.me.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7272.tar	public.me.com-kfa_sermons.warc.gz	0
-kfa_sermons	web.me.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7272.tar	web.me.com-kfa_sermons.warc.gz	0
+kfa_sermons	gallery.me.com	2012-04-13 10:42:53	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7272.tar	gallery.me.com-kfa_sermons.warc.gz	4264
+kfa_sermons	homepage.mac.com	2012-04-13 10:42:53	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7272.tar	homepage.mac.com-kfa_sermons.warc.gz	4917
+kfa_sermons	public.me.com	2012-04-13 10:42:52	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7272.tar	public.me.com-kfa_sermons.warc.gz	1933
+kfa_sermons	web.me.com	2012-04-13 10:42:51	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7272.tar	web.me.com-kfa_sermons.warc.gz	5382279083

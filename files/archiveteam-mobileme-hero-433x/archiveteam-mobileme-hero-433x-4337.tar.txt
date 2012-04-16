@@ -1,8 +1,8 @@
-hansbernaers	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4337.tar	gallery.me.com-hansbernaers.warc.gz	0
-hansbernaers	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4337.tar	homepage.mac.com-hansbernaers.warc.gz	0
-hansbernaers	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4337.tar	public.me.com-hansbernaers.warc.gz	0
-hansbernaers	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4337.tar	web.me.com-hansbernaers.warc.gz	0
-kimrust	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4337.tar	gallery.me.com-kimrust.warc.gz	0
-kimrust	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4337.tar	homepage.mac.com-kimrust.warc.gz	0
-kimrust	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4337.tar	public.me.com-kimrust.warc.gz	0
-kimrust	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4337.tar	web.me.com-kimrust.warc.gz	0
+hansbernaers	gallery.me.com	2012-04-05 09:19:20	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4337.tar	gallery.me.com-hansbernaers.warc.gz	2440777817
+hansbernaers	homepage.mac.com	2012-04-05 09:19:20	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4337.tar	homepage.mac.com-hansbernaers.warc.gz	4927
+hansbernaers	public.me.com	2012-04-05 08:59:55	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4337.tar	public.me.com-hansbernaers.warc.gz	53326142
+hansbernaers	web.me.com	2012-04-05 08:58:31	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4337.tar	web.me.com-hansbernaers.warc.gz	7510933
+kimrust	gallery.me.com	2012-04-05 18:38:41	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4337.tar	gallery.me.com-kimrust.warc.gz	5011
+kimrust	homepage.mac.com	2012-04-05 18:38:42	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4337.tar	homepage.mac.com-kimrust.warc.gz	4896
+kimrust	public.me.com	2012-04-05 18:38:39	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4337.tar	public.me.com-kimrust.warc.gz	1915
+kimrust	web.me.com	2012-04-05 18:35:11	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4337.tar	web.me.com-kimrust.warc.gz	4855985467

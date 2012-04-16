@@ -1,8 +1,8 @@
-brendanpike	gallery.me.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6734.tar	gallery.me.com-brendanpike.warc.gz	0
-brendanpike	homepage.mac.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6734.tar	homepage.mac.com-brendanpike.warc.gz	0
-brendanpike	public.me.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6734.tar	public.me.com-brendanpike.warc.gz	0
-brendanpike	web.me.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6734.tar	web.me.com-brendanpike.warc.gz	0
-justlikeyoudo	gallery.me.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6734.tar	gallery.me.com-justlikeyoudo.warc.gz	0
-justlikeyoudo	homepage.mac.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6734.tar	homepage.mac.com-justlikeyoudo.warc.gz	0
-justlikeyoudo	public.me.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6734.tar	public.me.com-justlikeyoudo.warc.gz	0
-justlikeyoudo	web.me.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6734.tar	web.me.com-justlikeyoudo.warc.gz	0
+brendanpike	gallery.me.com	2012-04-12 10:34:30	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6734.tar	gallery.me.com-brendanpike.warc.gz	5091238142
+brendanpike	homepage.mac.com	2012-04-12 10:34:32	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6734.tar	homepage.mac.com-brendanpike.warc.gz	4927
+brendanpike	public.me.com	2012-04-12 04:24:35	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6734.tar	public.me.com-brendanpike.warc.gz	1920
+brendanpike	web.me.com	2012-04-12 04:24:32	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6734.tar	web.me.com-brendanpike.warc.gz	109237600
+justlikeyoudo	gallery.me.com	2012-04-12 02:45:27	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6734.tar	gallery.me.com-justlikeyoudo.warc.gz	1048904
+justlikeyoudo	homepage.mac.com	2012-04-12 02:45:27	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6734.tar	homepage.mac.com-justlikeyoudo.warc.gz	4932
+justlikeyoudo	public.me.com	2012-04-12 02:45:16	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6734.tar	public.me.com-justlikeyoudo.warc.gz	3366
+justlikeyoudo	web.me.com	2012-04-12 02:45:15	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6734.tar	web.me.com-justlikeyoudo.warc.gz	131421739

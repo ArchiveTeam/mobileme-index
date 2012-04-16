@@ -1,8 +1,8 @@
-jwkay2007	gallery.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3004.tar	gallery.me.com-jwkay2007.warc.gz	0
-jwkay2007	homepage.mac.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3004.tar	homepage.mac.com-jwkay2007.warc.gz	0
-jwkay2007	public.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3004.tar	public.me.com-jwkay2007.warc.gz	0
-jwkay2007	web.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3004.tar	web.me.com-jwkay2007.warc.gz	0
-rebecca_ariza	gallery.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3004.tar	gallery.me.com-rebecca_ariza.warc.gz	0
-rebecca_ariza	homepage.mac.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3004.tar	homepage.mac.com-rebecca_ariza.warc.gz	0
-rebecca_ariza	public.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3004.tar	public.me.com-rebecca_ariza.warc.gz	0
-rebecca_ariza	web.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3004.tar	web.me.com-rebecca_ariza.warc.gz	0
+jwkay2007	gallery.me.com	2012-04-02 15:48:42	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3004.tar	gallery.me.com-jwkay2007.warc.gz	4359021135
+jwkay2007	homepage.mac.com	2012-04-02 15:48:43	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3004.tar	homepage.mac.com-jwkay2007.warc.gz	4914
+jwkay2007	public.me.com	2012-04-02 14:57:07	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3004.tar	public.me.com-jwkay2007.warc.gz	67630
+jwkay2007	web.me.com	2012-04-02 14:57:01	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3004.tar	web.me.com-jwkay2007.warc.gz	517531703
+rebecca_ariza	gallery.me.com	2012-04-02 14:21:55	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3004.tar	gallery.me.com-rebecca_ariza.warc.gz	4316
+rebecca_ariza	homepage.mac.com	2012-04-02 14:21:55	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3004.tar	homepage.mac.com-rebecca_ariza.warc.gz	4932
+rebecca_ariza	public.me.com	2012-04-02 14:21:54	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3004.tar	public.me.com-rebecca_ariza.warc.gz	1928
+rebecca_ariza	web.me.com	2012-04-02 14:21:54	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3004.tar	web.me.com-rebecca_ariza.warc.gz	7341852

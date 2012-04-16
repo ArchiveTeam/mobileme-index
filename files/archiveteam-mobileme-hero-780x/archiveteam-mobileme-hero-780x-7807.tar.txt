@@ -1,0 +1,16 @@
+c629020034	gallery.me.com	2012-04-14 08:27:51	archiveteam-mobileme-hero-780x	archiveteam-mobileme-hero-780x-7807.tar	gallery.me.com-c629020034.warc.gz	8364
+c629020034	homepage.mac.com	2012-04-14 08:27:51	archiveteam-mobileme-hero-780x	archiveteam-mobileme-hero-780x-7807.tar	homepage.mac.com-c629020034.warc.gz	5187
+c629020034	public.me.com	2012-04-14 08:27:50	archiveteam-mobileme-hero-780x	archiveteam-mobileme-hero-780x-7807.tar	public.me.com-c629020034.warc.gz	1915
+c629020034	web.me.com	2012-04-14 08:27:50	archiveteam-mobileme-hero-780x	archiveteam-mobileme-hero-780x-7807.tar	web.me.com-c629020034.warc.gz	17713
+nschadler	gallery.me.com	2012-04-14 08:27:46	archiveteam-mobileme-hero-780x	archiveteam-mobileme-hero-780x-7807.tar	gallery.me.com-nschadler.warc.gz	801890644
+nschadler	homepage.mac.com	2012-04-14 08:27:48	archiveteam-mobileme-hero-780x	archiveteam-mobileme-hero-780x-7807.tar	homepage.mac.com-nschadler.warc.gz	7870
+nschadler	public.me.com	2012-04-14 08:21:58	archiveteam-mobileme-hero-780x	archiveteam-mobileme-hero-780x-7807.tar	public.me.com-nschadler.warc.gz	1500614751
+nschadler	web.me.com	2012-04-14 08:02:12	archiveteam-mobileme-hero-780x	archiveteam-mobileme-hero-780x-7807.tar	web.me.com-nschadler.warc.gz	8062450
+ryan.yap	gallery.me.com	2012-04-14 09:56:40	archiveteam-mobileme-hero-780x	archiveteam-mobileme-hero-780x-7807.tar	gallery.me.com-ryan.yap.warc.gz	1879823338
+ryan.yap	homepage.mac.com	2012-04-14 09:56:40	archiveteam-mobileme-hero-780x	archiveteam-mobileme-hero-780x-7807.tar	homepage.mac.com-ryan.yap.warc.gz	4899
+ryan.yap	public.me.com	2012-04-14 09:13:33	archiveteam-mobileme-hero-780x	archiveteam-mobileme-hero-780x-7807.tar	public.me.com-ryan.yap.warc.gz	1917
+ryan.yap	web.me.com	2012-04-14 09:13:32	archiveteam-mobileme-hero-780x	archiveteam-mobileme-hero-780x-7807.tar	web.me.com-ryan.yap.warc.gz	54599800
+toddweigand	gallery.me.com	2012-04-14 09:01:26	archiveteam-mobileme-hero-780x	archiveteam-mobileme-hero-780x-7807.tar	gallery.me.com-toddweigand.warc.gz	25443030
+toddweigand	homepage.mac.com	2012-04-14 09:01:27	archiveteam-mobileme-hero-780x	archiveteam-mobileme-hero-780x-7807.tar	homepage.mac.com-toddweigand.warc.gz	4930
+toddweigand	public.me.com	2012-04-14 09:00:50	archiveteam-mobileme-hero-780x	archiveteam-mobileme-hero-780x-7807.tar	public.me.com-toddweigand.warc.gz	757555650
+toddweigand	web.me.com	2012-04-14 08:44:26	archiveteam-mobileme-hero-780x	archiveteam-mobileme-hero-780x-7807.tar	web.me.com-toddweigand.warc.gz	102950716

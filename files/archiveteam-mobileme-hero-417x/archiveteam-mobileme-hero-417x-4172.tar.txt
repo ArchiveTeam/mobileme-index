@@ -1,8 +1,8 @@
-brucedicus	gallery.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4172.tar	gallery.me.com-brucedicus.warc.gz	0
-brucedicus	homepage.mac.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4172.tar	homepage.mac.com-brucedicus.warc.gz	0
-brucedicus	public.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4172.tar	public.me.com-brucedicus.warc.gz	0
-brucedicus	web.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4172.tar	web.me.com-brucedicus.warc.gz	0
-textunes	gallery.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4172.tar	gallery.me.com-textunes.warc.gz	0
-textunes	homepage.mac.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4172.tar	homepage.mac.com-textunes.warc.gz	0
-textunes	public.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4172.tar	public.me.com-textunes.warc.gz	0
-textunes	web.me.com		archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4172.tar	web.me.com-textunes.warc.gz	0
+brucedicus	gallery.me.com	2012-04-05 08:04:44	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4172.tar	gallery.me.com-brucedicus.warc.gz	86892906
+brucedicus	homepage.mac.com	2012-04-05 08:04:44	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4172.tar	homepage.mac.com-brucedicus.warc.gz	4929
+brucedicus	public.me.com	2012-04-05 08:03:08	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4172.tar	public.me.com-brucedicus.warc.gz	1922
+brucedicus	web.me.com	2012-04-05 08:03:06	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4172.tar	web.me.com-brucedicus.warc.gz	3383993
+textunes	gallery.me.com	2012-04-05 08:46:01	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4172.tar	gallery.me.com-textunes.warc.gz	4198624273
+textunes	homepage.mac.com	2012-04-05 08:46:01	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4172.tar	homepage.mac.com-textunes.warc.gz	4900
+textunes	public.me.com	2012-04-05 08:10:31	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4172.tar	public.me.com-textunes.warc.gz	6553249
+textunes	web.me.com	2012-04-05 08:10:22	archiveteam-mobileme-hero-417x	archiveteam-mobileme-hero-417x-4172.tar	web.me.com-textunes.warc.gz	164200946

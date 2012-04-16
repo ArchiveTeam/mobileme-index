@@ -1,12 +1,12 @@
-eyeakel	gallery.me.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	gallery.me.com-eyeakel.warc.gz	0
-eyeakel	homepage.mac.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	homepage.mac.com-eyeakel.warc.gz	0
-eyeakel	public.me.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	public.me.com-eyeakel.warc.gz	0
-eyeakel	web.me.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	web.me.com-eyeakel.warc.gz	0
-morph	gallery.me.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	gallery.me.com-morph.warc.gz	0
-morph	homepage.mac.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	homepage.mac.com-morph.warc.gz	0
-morph	public.me.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	public.me.com-morph.warc.gz	0
-morph	web.me.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	web.me.com-morph.warc.gz	0
-okhalili	gallery.me.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	gallery.me.com-okhalili.warc.gz	0
-okhalili	homepage.mac.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	homepage.mac.com-okhalili.warc.gz	0
-okhalili	public.me.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	public.me.com-okhalili.warc.gz	0
-okhalili	web.me.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	web.me.com-okhalili.warc.gz	0
+eyeakel	gallery.me.com	2012-04-01 15:59:44	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	gallery.me.com-eyeakel.warc.gz	5848
+eyeakel	homepage.mac.com	2012-04-01 15:59:45	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	homepage.mac.com-eyeakel.warc.gz	4906
+eyeakel	public.me.com	2012-04-01 15:59:43	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	public.me.com-eyeakel.warc.gz	1911
+eyeakel	web.me.com	2012-04-01 15:59:43	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	web.me.com-eyeakel.warc.gz	497318395
+morph	gallery.me.com	2012-04-01 15:29:45	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	gallery.me.com-morph.warc.gz	4213
+morph	homepage.mac.com	2012-04-01 15:29:45	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	homepage.mac.com-morph.warc.gz	4897
+morph	public.me.com	2012-04-01 15:29:45	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	public.me.com-morph.warc.gz	51821790
+morph	web.me.com	2012-04-01 15:28:36	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	web.me.com-morph.warc.gz	40654571
+okhalili	gallery.me.com	2012-04-01 17:53:32	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	gallery.me.com-okhalili.warc.gz	3006235746
+okhalili	homepage.mac.com	2012-04-01 17:53:32	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	homepage.mac.com-okhalili.warc.gz	7781
+okhalili	public.me.com	2012-04-01 17:07:08	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	public.me.com-okhalili.warc.gz	361992044
+okhalili	web.me.com	2012-04-01 16:59:48	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2723.tar	web.me.com-okhalili.warc.gz	1674786580

@@ -1,16 +1,16 @@
-mayeivor	gallery.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	gallery.me.com-mayeivor.warc.gz	0
-mayeivor	homepage.mac.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	homepage.mac.com-mayeivor.warc.gz	0
-mayeivor	public.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	public.me.com-mayeivor.warc.gz	0
-mayeivor	web.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	web.me.com-mayeivor.warc.gz	0
-renotor	gallery.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	gallery.me.com-renotor.warc.gz	0
-renotor	homepage.mac.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	homepage.mac.com-renotor.warc.gz	0
-renotor	public.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	public.me.com-renotor.warc.gz	0
-renotor	web.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	web.me.com-renotor.warc.gz	0
-stewarttosh	gallery.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	gallery.me.com-stewarttosh.warc.gz	0
-stewarttosh	homepage.mac.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	homepage.mac.com-stewarttosh.warc.gz	0
-stewarttosh	public.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	public.me.com-stewarttosh.warc.gz	0
-stewarttosh	web.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	web.me.com-stewarttosh.warc.gz	0
-williwest	gallery.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	gallery.me.com-williwest.warc.gz	0
-williwest	homepage.mac.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	homepage.mac.com-williwest.warc.gz	0
-williwest	public.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	public.me.com-williwest.warc.gz	0
-williwest	web.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	web.me.com-williwest.warc.gz	0
+mayeivor	gallery.me.com	2012-04-11 05:57:06	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	gallery.me.com-mayeivor.warc.gz	4230
+mayeivor	homepage.mac.com	2012-04-11 05:57:07	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	homepage.mac.com-mayeivor.warc.gz	4914
+mayeivor	public.me.com	2012-04-11 05:57:06	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	public.me.com-mayeivor.warc.gz	1925
+mayeivor	web.me.com	2012-04-11 05:57:06	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	web.me.com-mayeivor.warc.gz	4505847
+renotor	gallery.me.com	2012-04-11 08:27:16	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	gallery.me.com-renotor.warc.gz	4775839674
+renotor	homepage.mac.com	2012-04-11 08:27:16	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	homepage.mac.com-renotor.warc.gz	4900
+renotor	public.me.com	2012-04-11 07:39:09	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	public.me.com-renotor.warc.gz	1912
+renotor	web.me.com	2012-04-11 07:39:06	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	web.me.com-renotor.warc.gz	1476613092
+stewarttosh	gallery.me.com	2012-04-11 05:54:36	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	gallery.me.com-stewarttosh.warc.gz	685145992
+stewarttosh	homepage.mac.com	2012-04-11 05:54:36	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	homepage.mac.com-stewarttosh.warc.gz	4917
+stewarttosh	public.me.com	2012-04-11 05:47:35	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	public.me.com-stewarttosh.warc.gz	4174
+stewarttosh	web.me.com	2012-04-11 05:47:35	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	web.me.com-stewarttosh.warc.gz	139583264
+williwest	gallery.me.com	2012-04-11 06:58:00	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	gallery.me.com-williwest.warc.gz	451543111
+williwest	homepage.mac.com	2012-04-11 06:58:00	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	homepage.mac.com-williwest.warc.gz	4914
+williwest	public.me.com	2012-04-11 06:55:46	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	public.me.com-williwest.warc.gz	3516
+williwest	web.me.com	2012-04-11 06:55:01	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6289.tar	web.me.com-williwest.warc.gz	593663827

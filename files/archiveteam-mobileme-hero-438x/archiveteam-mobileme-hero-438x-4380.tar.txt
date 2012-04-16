@@ -1,8 +1,8 @@
-damaged_justice	gallery.me.com		archiveteam-mobileme-hero-438x	archiveteam-mobileme-hero-438x-4380.tar	gallery.me.com-damaged_justice.warc.gz	0
-damaged_justice	homepage.mac.com		archiveteam-mobileme-hero-438x	archiveteam-mobileme-hero-438x-4380.tar	homepage.mac.com-damaged_justice.warc.gz	0
-damaged_justice	public.me.com		archiveteam-mobileme-hero-438x	archiveteam-mobileme-hero-438x-4380.tar	public.me.com-damaged_justice.warc.gz	0
-damaged_justice	web.me.com		archiveteam-mobileme-hero-438x	archiveteam-mobileme-hero-438x-4380.tar	web.me.com-damaged_justice.warc.gz	0
-tenseventythree	gallery.me.com		archiveteam-mobileme-hero-438x	archiveteam-mobileme-hero-438x-4380.tar	gallery.me.com-tenseventythree.warc.gz	0
-tenseventythree	homepage.mac.com		archiveteam-mobileme-hero-438x	archiveteam-mobileme-hero-438x-4380.tar	homepage.mac.com-tenseventythree.warc.gz	0
-tenseventythree	public.me.com		archiveteam-mobileme-hero-438x	archiveteam-mobileme-hero-438x-4380.tar	public.me.com-tenseventythree.warc.gz	0
-tenseventythree	web.me.com		archiveteam-mobileme-hero-438x	archiveteam-mobileme-hero-438x-4380.tar	web.me.com-tenseventythree.warc.gz	0
+damaged_justice	gallery.me.com	2012-04-05 19:41:48	archiveteam-mobileme-hero-438x	archiveteam-mobileme-hero-438x-4380.tar	gallery.me.com-damaged_justice.warc.gz	5955
+damaged_justice	homepage.mac.com	2012-04-05 19:41:48	archiveteam-mobileme-hero-438x	archiveteam-mobileme-hero-438x-4380.tar	homepage.mac.com-damaged_justice.warc.gz	4942
+damaged_justice	public.me.com	2012-04-05 19:41:47	archiveteam-mobileme-hero-438x	archiveteam-mobileme-hero-438x-4380.tar	public.me.com-damaged_justice.warc.gz	36804451
+damaged_justice	web.me.com	2012-04-05 19:41:24	archiveteam-mobileme-hero-438x	archiveteam-mobileme-hero-438x-4380.tar	web.me.com-damaged_justice.warc.gz	60575156
+tenseventythree	gallery.me.com	2012-04-05 20:51:38	archiveteam-mobileme-hero-438x	archiveteam-mobileme-hero-438x-4380.tar	gallery.me.com-tenseventythree.warc.gz	444646123
+tenseventythree	homepage.mac.com	2012-04-05 20:51:39	archiveteam-mobileme-hero-438x	archiveteam-mobileme-hero-438x-4380.tar	homepage.mac.com-tenseventythree.warc.gz	4943
+tenseventythree	public.me.com	2012-04-05 20:39:14	archiveteam-mobileme-hero-438x	archiveteam-mobileme-hero-438x-4380.tar	public.me.com-tenseventythree.warc.gz	741327668
+tenseventythree	web.me.com	2012-04-05 20:34:51	archiveteam-mobileme-hero-438x	archiveteam-mobileme-hero-438x-4380.tar	web.me.com-tenseventythree.warc.gz	3840183448

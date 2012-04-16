@@ -1,12 +1,12 @@
-frankvanherwegen	gallery.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	gallery.me.com-frankvanherwegen.warc.gz	0
-frankvanherwegen	homepage.mac.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	homepage.mac.com-frankvanherwegen.warc.gz	0
-frankvanherwegen	public.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	public.me.com-frankvanherwegen.warc.gz	0
-frankvanherwegen	web.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	web.me.com-frankvanherwegen.warc.gz	0
-juliebot	gallery.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	gallery.me.com-juliebot.warc.gz	0
-juliebot	homepage.mac.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	homepage.mac.com-juliebot.warc.gz	0
-juliebot	public.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	public.me.com-juliebot.warc.gz	0
-juliebot	web.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	web.me.com-juliebot.warc.gz	0
-macksy	gallery.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	gallery.me.com-macksy.warc.gz	0
-macksy	homepage.mac.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	homepage.mac.com-macksy.warc.gz	0
-macksy	public.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	public.me.com-macksy.warc.gz	0
-macksy	web.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	web.me.com-macksy.warc.gz	0
+frankvanherwegen	gallery.me.com	2012-04-09 12:16:14	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	gallery.me.com-frankvanherwegen.warc.gz	6276
+frankvanherwegen	homepage.mac.com	2012-04-09 12:16:14	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	homepage.mac.com-frankvanherwegen.warc.gz	6114
+frankvanherwegen	public.me.com	2012-04-09 12:16:12	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	public.me.com-frankvanherwegen.warc.gz	285030107
+frankvanherwegen	web.me.com	2012-04-09 12:14:29	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	web.me.com-frankvanherwegen.warc.gz	903827721
+juliebot	gallery.me.com	2012-04-09 13:56:12	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	gallery.me.com-juliebot.warc.gz	3167355937
+juliebot	homepage.mac.com	2012-04-09 13:56:22	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	homepage.mac.com-juliebot.warc.gz	236787
+juliebot	public.me.com	2012-04-09 13:23:40	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	public.me.com-juliebot.warc.gz	191088944
+juliebot	web.me.com	2012-04-09 13:21:02	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	web.me.com-juliebot.warc.gz	977209601
+macksy	gallery.me.com	2012-04-09 11:58:44	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	gallery.me.com-macksy.warc.gz	39505739
+macksy	homepage.mac.com	2012-04-09 11:58:44	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	homepage.mac.com-macksy.warc.gz	4907
+macksy	public.me.com	2012-04-09 11:58:21	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	public.me.com-macksy.warc.gz	31218804
+macksy	web.me.com	2012-04-09 11:57:31	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5502.tar	web.me.com-macksy.warc.gz	3324927

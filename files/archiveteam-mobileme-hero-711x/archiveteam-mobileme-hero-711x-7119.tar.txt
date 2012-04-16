@@ -1,16 +1,16 @@
-bdpsolutions	gallery.me.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	gallery.me.com-bdpsolutions.warc.gz	0
-bdpsolutions	homepage.mac.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	homepage.mac.com-bdpsolutions.warc.gz	0
-bdpsolutions	public.me.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	public.me.com-bdpsolutions.warc.gz	0
-bdpsolutions	web.me.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	web.me.com-bdpsolutions.warc.gz	0
-colorfulocean	gallery.me.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	gallery.me.com-colorfulocean.warc.gz	0
-colorfulocean	homepage.mac.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	homepage.mac.com-colorfulocean.warc.gz	0
-colorfulocean	public.me.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	public.me.com-colorfulocean.warc.gz	0
-colorfulocean	web.me.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	web.me.com-colorfulocean.warc.gz	0
-fluk3	gallery.me.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	gallery.me.com-fluk3.warc.gz	0
-fluk3	homepage.mac.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	homepage.mac.com-fluk3.warc.gz	0
-fluk3	public.me.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	public.me.com-fluk3.warc.gz	0
-fluk3	web.me.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	web.me.com-fluk3.warc.gz	0
-jih1269	gallery.me.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	gallery.me.com-jih1269.warc.gz	0
-jih1269	homepage.mac.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	homepage.mac.com-jih1269.warc.gz	0
-jih1269	public.me.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	public.me.com-jih1269.warc.gz	0
-jih1269	web.me.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	web.me.com-jih1269.warc.gz	0
+bdpsolutions	gallery.me.com	2012-04-13 04:54:48	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	gallery.me.com-bdpsolutions.warc.gz	4029331542
+bdpsolutions	homepage.mac.com	2012-04-13 04:54:49	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	homepage.mac.com-bdpsolutions.warc.gz	7863
+bdpsolutions	public.me.com	2012-04-13 03:59:31	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	public.me.com-bdpsolutions.warc.gz	95389768
+bdpsolutions	web.me.com	2012-04-13 03:56:33	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	web.me.com-bdpsolutions.warc.gz	943254256
+colorfulocean	gallery.me.com	2012-04-13 02:28:17	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	gallery.me.com-colorfulocean.warc.gz	1523511
+colorfulocean	homepage.mac.com	2012-04-13 02:28:27	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	homepage.mac.com-colorfulocean.warc.gz	231678
+colorfulocean	public.me.com	2012-04-13 02:28:08	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	public.me.com-colorfulocean.warc.gz	1922
+colorfulocean	web.me.com	2012-04-13 02:28:08	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	web.me.com-colorfulocean.warc.gz	3600734
+fluk3	gallery.me.com	2012-04-13 03:16:07	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	gallery.me.com-fluk3.warc.gz	962497561
+fluk3	homepage.mac.com	2012-04-13 03:16:16	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	homepage.mac.com-fluk3.warc.gz	108323
+fluk3	public.me.com	2012-04-13 02:38:13	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	public.me.com-fluk3.warc.gz	1912
+fluk3	web.me.com	2012-04-13 02:38:12	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	web.me.com-fluk3.warc.gz	114534578
+jih1269	gallery.me.com	2012-04-13 02:26:32	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	gallery.me.com-jih1269.warc.gz	229751935
+jih1269	homepage.mac.com	2012-04-13 02:26:32	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	homepage.mac.com-jih1269.warc.gz	4910
+jih1269	public.me.com	2012-04-13 02:12:14	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	public.me.com-jih1269.warc.gz	1917
+jih1269	web.me.com	2012-04-13 02:12:13	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7119.tar	web.me.com-jih1269.warc.gz	66186577

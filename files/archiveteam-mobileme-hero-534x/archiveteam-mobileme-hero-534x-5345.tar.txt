@@ -1,32 +1,32 @@
-amrd	gallery.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	gallery.me.com-amrd.warc.gz	0
-amrd	homepage.mac.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	homepage.mac.com-amrd.warc.gz	0
-amrd	public.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	public.me.com-amrd.warc.gz	0
-amrd	web.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	web.me.com-amrd.warc.gz	0
-heathermama	gallery.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	gallery.me.com-heathermama.warc.gz	0
-heathermama	homepage.mac.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	homepage.mac.com-heathermama.warc.gz	0
-heathermama	public.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	public.me.com-heathermama.warc.gz	0
-heathermama	web.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	web.me.com-heathermama.warc.gz	0
-iwinther	gallery.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	gallery.me.com-iwinther.warc.gz	0
-iwinther	homepage.mac.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	homepage.mac.com-iwinther.warc.gz	0
-iwinther	public.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	public.me.com-iwinther.warc.gz	0
-iwinther	web.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	web.me.com-iwinther.warc.gz	0
-jctyler	gallery.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	gallery.me.com-jctyler.warc.gz	0
-jctyler	homepage.mac.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	homepage.mac.com-jctyler.warc.gz	0
-jctyler	public.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	public.me.com-jctyler.warc.gz	0
-jctyler	web.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	web.me.com-jctyler.warc.gz	0
-jillpotter1	gallery.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	gallery.me.com-jillpotter1.warc.gz	0
-jillpotter1	homepage.mac.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	homepage.mac.com-jillpotter1.warc.gz	0
-jillpotter1	public.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	public.me.com-jillpotter1.warc.gz	0
-jillpotter1	web.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	web.me.com-jillpotter1.warc.gz	0
-lindisart	gallery.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	gallery.me.com-lindisart.warc.gz	0
-lindisart	homepage.mac.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	homepage.mac.com-lindisart.warc.gz	0
-lindisart	public.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	public.me.com-lindisart.warc.gz	0
-lindisart	web.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	web.me.com-lindisart.warc.gz	0
-nreilly	gallery.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	gallery.me.com-nreilly.warc.gz	0
-nreilly	homepage.mac.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	homepage.mac.com-nreilly.warc.gz	0
-nreilly	public.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	public.me.com-nreilly.warc.gz	0
-nreilly	web.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	web.me.com-nreilly.warc.gz	0
-ramonabraganza	gallery.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	gallery.me.com-ramonabraganza.warc.gz	0
-ramonabraganza	homepage.mac.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	homepage.mac.com-ramonabraganza.warc.gz	0
-ramonabraganza	public.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	public.me.com-ramonabraganza.warc.gz	0
-ramonabraganza	web.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	web.me.com-ramonabraganza.warc.gz	0
+amrd	gallery.me.com	2012-04-08 23:22:14	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	gallery.me.com-amrd.warc.gz	5635
+amrd	homepage.mac.com	2012-04-08 23:22:29	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	homepage.mac.com-amrd.warc.gz	146730
+amrd	public.me.com	2012-04-08 23:22:13	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	public.me.com-amrd.warc.gz	1910
+amrd	web.me.com	2012-04-08 23:22:11	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	web.me.com-amrd.warc.gz	40032872
+heathermama	gallery.me.com	2012-04-09 02:09:22	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	gallery.me.com-heathermama.warc.gz	1650657894
+heathermama	homepage.mac.com	2012-04-09 02:09:23	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	homepage.mac.com-heathermama.warc.gz	4928
+heathermama	public.me.com	2012-04-09 00:46:00	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	public.me.com-heathermama.warc.gz	103419800
+heathermama	web.me.com	2012-04-09 00:41:29	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	web.me.com-heathermama.warc.gz	452385875
+iwinther	gallery.me.com	2012-04-09 02:29:44	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	gallery.me.com-iwinther.warc.gz	8343
+iwinther	homepage.mac.com	2012-04-09 02:29:45	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	homepage.mac.com-iwinther.warc.gz	5150
+iwinther	public.me.com	2012-04-09 02:29:42	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	public.me.com-iwinther.warc.gz	1917
+iwinther	web.me.com	2012-04-09 02:29:41	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	web.me.com-iwinther.warc.gz	17701
+jctyler	gallery.me.com	2012-04-09 02:29:28	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	gallery.me.com-jctyler.warc.gz	4238
+jctyler	homepage.mac.com	2012-04-09 02:29:28	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	homepage.mac.com-jctyler.warc.gz	4917
+jctyler	public.me.com	2012-04-09 02:29:27	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	public.me.com-jctyler.warc.gz	1918
+jctyler	web.me.com	2012-04-09 02:29:25	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	web.me.com-jctyler.warc.gz	14253775
+jillpotter1	gallery.me.com	2012-04-09 05:53:35	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	gallery.me.com-jillpotter1.warc.gz	2389201390
+jillpotter1	homepage.mac.com	2012-04-09 05:53:36	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	homepage.mac.com-jillpotter1.warc.gz	4928
+jillpotter1	public.me.com	2012-04-09 03:42:24	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	public.me.com-jillpotter1.warc.gz	7207519
+jillpotter1	web.me.com	2012-04-09 03:41:50	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	web.me.com-jillpotter1.warc.gz	43651504
+lindisart	gallery.me.com	2012-04-09 02:29:38	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	gallery.me.com-lindisart.warc.gz	4241
+lindisart	homepage.mac.com	2012-04-09 02:29:38	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	homepage.mac.com-lindisart.warc.gz	4910
+lindisart	public.me.com	2012-04-09 02:29:36	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	public.me.com-lindisart.warc.gz	1911
+lindisart	web.me.com	2012-04-09 02:29:35	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	web.me.com-lindisart.warc.gz	28901
+nreilly	gallery.me.com	2012-04-09 03:19:24	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	gallery.me.com-nreilly.warc.gz	1107105797
+nreilly	homepage.mac.com	2012-04-09 03:19:29	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	homepage.mac.com-nreilly.warc.gz	79257
+nreilly	public.me.com	2012-04-09 02:41:31	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	public.me.com-nreilly.warc.gz	3423
+nreilly	web.me.com	2012-04-09 02:41:27	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	web.me.com-nreilly.warc.gz	19376423
+ramonabraganza	gallery.me.com	2012-04-09 02:34:09	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	gallery.me.com-ramonabraganza.warc.gz	5330
+ramonabraganza	homepage.mac.com	2012-04-09 02:34:09	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	homepage.mac.com-ramonabraganza.warc.gz	4942
+ramonabraganza	public.me.com	2012-04-09 02:34:07	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	public.me.com-ramonabraganza.warc.gz	1926
+ramonabraganza	web.me.com	2012-04-09 02:34:06	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5345.tar	web.me.com-ramonabraganza.warc.gz	9209865

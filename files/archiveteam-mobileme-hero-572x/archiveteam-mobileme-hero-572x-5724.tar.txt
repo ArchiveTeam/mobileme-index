@@ -1,8 +1,8 @@
-morris18	gallery.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5724.tar	gallery.me.com-morris18.warc.gz	0
-morris18	homepage.mac.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5724.tar	homepage.mac.com-morris18.warc.gz	0
-morris18	public.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5724.tar	public.me.com-morris18.warc.gz	0
-morris18	web.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5724.tar	web.me.com-morris18.warc.gz	0
-staylordds	gallery.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5724.tar	gallery.me.com-staylordds.warc.gz	0
-staylordds	homepage.mac.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5724.tar	homepage.mac.com-staylordds.warc.gz	0
-staylordds	public.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5724.tar	public.me.com-staylordds.warc.gz	0
-staylordds	web.me.com		archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5724.tar	web.me.com-staylordds.warc.gz	0
+morris18	gallery.me.com	2012-04-10 02:47:04	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5724.tar	gallery.me.com-morris18.warc.gz	7562
+morris18	homepage.mac.com	2012-04-10 02:47:04	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5724.tar	homepage.mac.com-morris18.warc.gz	4896
+morris18	public.me.com	2012-04-10 02:47:03	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5724.tar	public.me.com-morris18.warc.gz	1918
+morris18	web.me.com	2012-04-10 02:47:02	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5724.tar	web.me.com-morris18.warc.gz	210932184
+staylordds	gallery.me.com	2012-04-10 02:09:50	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5724.tar	gallery.me.com-staylordds.warc.gz	280679177
+staylordds	homepage.mac.com	2012-04-10 02:09:51	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5724.tar	homepage.mac.com-staylordds.warc.gz	4905
+staylordds	public.me.com	2012-04-10 02:05:56	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5724.tar	public.me.com-staylordds.warc.gz	1917
+staylordds	web.me.com	2012-04-10 02:05:50	archiveteam-mobileme-hero-572x	archiveteam-mobileme-hero-572x-5724.tar	web.me.com-staylordds.warc.gz	3983320867

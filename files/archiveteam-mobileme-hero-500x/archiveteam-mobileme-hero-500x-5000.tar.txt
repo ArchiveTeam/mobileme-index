@@ -1,20 +1,20 @@
-ao_coc	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	gallery.me.com-ao_coc.warc.gz	0
-ao_coc	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	homepage.mac.com-ao_coc.warc.gz	0
-ao_coc	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	public.me.com-ao_coc.warc.gz	0
-ao_coc	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	web.me.com-ao_coc.warc.gz	0
-brianhout	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	gallery.me.com-brianhout.warc.gz	0
-brianhout	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	homepage.mac.com-brianhout.warc.gz	0
-brianhout	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	public.me.com-brianhout.warc.gz	0
-brianhout	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	web.me.com-brianhout.warc.gz	0
-inguagiato	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	gallery.me.com-inguagiato.warc.gz	0
-inguagiato	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	homepage.mac.com-inguagiato.warc.gz	0
-inguagiato	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	public.me.com-inguagiato.warc.gz	0
-inguagiato	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	web.me.com-inguagiato.warc.gz	0
-loganhamilton	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	gallery.me.com-loganhamilton.warc.gz	0
-loganhamilton	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	homepage.mac.com-loganhamilton.warc.gz	0
-loganhamilton	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	public.me.com-loganhamilton.warc.gz	0
-loganhamilton	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	web.me.com-loganhamilton.warc.gz	0
-olive	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	gallery.me.com-olive.warc.gz	0
-olive	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	homepage.mac.com-olive.warc.gz	0
-olive	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	public.me.com-olive.warc.gz	0
-olive	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	web.me.com-olive.warc.gz	0
+ao_coc	gallery.me.com	2012-04-07 17:44:33	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	gallery.me.com-ao_coc.warc.gz	8341
+ao_coc	homepage.mac.com	2012-04-07 17:44:33	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	homepage.mac.com-ao_coc.warc.gz	5135
+ao_coc	public.me.com	2012-04-07 17:44:32	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	public.me.com-ao_coc.warc.gz	1904
+ao_coc	web.me.com	2012-04-07 17:44:32	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	web.me.com-ao_coc.warc.gz	17642
+brianhout	gallery.me.com	2012-04-07 21:25:02	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	gallery.me.com-brianhout.warc.gz	12319
+brianhout	homepage.mac.com	2012-04-07 21:25:02	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	homepage.mac.com-brianhout.warc.gz	7151
+brianhout	public.me.com	2012-04-07 21:25:01	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	public.me.com-brianhout.warc.gz	1915
+brianhout	web.me.com	2012-04-07 21:25:01	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	web.me.com-brianhout.warc.gz	22464
+inguagiato	gallery.me.com	2012-04-07 21:20:52	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	gallery.me.com-inguagiato.warc.gz	152049803
+inguagiato	homepage.mac.com	2012-04-07 21:20:52	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	homepage.mac.com-inguagiato.warc.gz	4917
+inguagiato	public.me.com	2012-04-07 21:17:26	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	public.me.com-inguagiato.warc.gz	16773
+inguagiato	web.me.com	2012-04-07 21:17:01	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	web.me.com-inguagiato.warc.gz	2133864437
+loganhamilton	gallery.me.com	2012-04-07 17:59:37	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	gallery.me.com-loganhamilton.warc.gz	4985
+loganhamilton	homepage.mac.com	2012-04-07 17:59:38	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	homepage.mac.com-loganhamilton.warc.gz	4933
+loganhamilton	public.me.com	2012-04-07 17:59:36	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	public.me.com-loganhamilton.warc.gz	1927
+loganhamilton	web.me.com	2012-04-07 17:59:36	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	web.me.com-loganhamilton.warc.gz	32150033
+olive	gallery.me.com	2012-04-07 22:46:49	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	gallery.me.com-olive.warc.gz	1738208382
+olive	homepage.mac.com	2012-04-07 22:47:54	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	homepage.mac.com-olive.warc.gz	1127464
+olive	public.me.com	2012-04-07 22:17:22	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	public.me.com-olive.warc.gz	1277222
+olive	web.me.com	2012-04-07 22:17:14	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5000.tar	web.me.com-olive.warc.gz	880473307

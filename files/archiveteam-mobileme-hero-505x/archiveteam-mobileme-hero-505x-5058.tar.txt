@@ -1,16 +1,16 @@
-davemickey	gallery.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	gallery.me.com-davemickey.warc.gz	0
-davemickey	homepage.mac.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	homepage.mac.com-davemickey.warc.gz	0
-davemickey	public.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	public.me.com-davemickey.warc.gz	0
-davemickey	web.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	web.me.com-davemickey.warc.gz	0
-janne.hansen	gallery.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	gallery.me.com-janne.hansen.warc.gz	0
-janne.hansen	homepage.mac.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	homepage.mac.com-janne.hansen.warc.gz	0
-janne.hansen	public.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	public.me.com-janne.hansen.warc.gz	0
-janne.hansen	web.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	web.me.com-janne.hansen.warc.gz	0
-luisescobar	gallery.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	gallery.me.com-luisescobar.warc.gz	0
-luisescobar	homepage.mac.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	homepage.mac.com-luisescobar.warc.gz	0
-luisescobar	public.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	public.me.com-luisescobar.warc.gz	0
-luisescobar	web.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	web.me.com-luisescobar.warc.gz	0
-sean.labastille	gallery.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	gallery.me.com-sean.labastille.warc.gz	0
-sean.labastille	homepage.mac.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	homepage.mac.com-sean.labastille.warc.gz	0
-sean.labastille	public.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	public.me.com-sean.labastille.warc.gz	0
-sean.labastille	web.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	web.me.com-sean.labastille.warc.gz	0
+davemickey	gallery.me.com	2012-04-08 02:10:37	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	gallery.me.com-davemickey.warc.gz	3975530809
+davemickey	homepage.mac.com	2012-04-08 02:10:37	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	homepage.mac.com-davemickey.warc.gz	4935
+davemickey	public.me.com	2012-04-08 01:27:36	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	public.me.com-davemickey.warc.gz	354009437
+davemickey	web.me.com	2012-04-08 01:21:30	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	web.me.com-davemickey.warc.gz	1854251616
+janne.hansen	gallery.me.com	2012-04-07 23:48:36	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	gallery.me.com-janne.hansen.warc.gz	633626
+janne.hansen	homepage.mac.com	2012-04-07 23:48:36	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	homepage.mac.com-janne.hansen.warc.gz	4936
+janne.hansen	public.me.com	2012-04-07 23:48:34	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	public.me.com-janne.hansen.warc.gz	1927
+janne.hansen	web.me.com	2012-04-07 23:48:31	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	web.me.com-janne.hansen.warc.gz	12052188
+luisescobar	gallery.me.com	2012-04-07 23:39:29	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	gallery.me.com-luisescobar.warc.gz	214148524
+luisescobar	homepage.mac.com	2012-04-07 23:39:29	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	homepage.mac.com-luisescobar.warc.gz	4917
+luisescobar	public.me.com	2012-04-07 23:32:00	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	public.me.com-luisescobar.warc.gz	1926
+luisescobar	web.me.com	2012-04-07 23:32:00	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	web.me.com-luisescobar.warc.gz	58798493
+sean.labastille	gallery.me.com	2012-04-07 23:45:32	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	gallery.me.com-sean.labastille.warc.gz	5644
+sean.labastille	homepage.mac.com	2012-04-07 23:45:32	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	homepage.mac.com-sean.labastille.warc.gz	4938
+sean.labastille	public.me.com	2012-04-07 23:45:31	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	public.me.com-sean.labastille.warc.gz	256762558
+sean.labastille	web.me.com	2012-04-07 23:39:58	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5058.tar	web.me.com-sean.labastille.warc.gz	1915584

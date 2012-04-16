@@ -1,24 +1,24 @@
-a2b1	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	gallery.me.com-a2b1.warc.gz	0
-a2b1	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	homepage.mac.com-a2b1.warc.gz	0
-a2b1	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	public.me.com-a2b1.warc.gz	0
-a2b1	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	web.me.com-a2b1.warc.gz	0
-adekanbi	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	gallery.me.com-adekanbi.warc.gz	0
-adekanbi	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	homepage.mac.com-adekanbi.warc.gz	0
-adekanbi	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	public.me.com-adekanbi.warc.gz	0
-adekanbi	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	web.me.com-adekanbi.warc.gz	0
-amycrofoot	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	gallery.me.com-amycrofoot.warc.gz	0
-amycrofoot	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	homepage.mac.com-amycrofoot.warc.gz	0
-amycrofoot	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	public.me.com-amycrofoot.warc.gz	0
-amycrofoot	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	web.me.com-amycrofoot.warc.gz	0
-blakelykerrigan	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	gallery.me.com-blakelykerrigan.warc.gz	0
-blakelykerrigan	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	homepage.mac.com-blakelykerrigan.warc.gz	0
-blakelykerrigan	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	public.me.com-blakelykerrigan.warc.gz	0
-blakelykerrigan	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	web.me.com-blakelykerrigan.warc.gz	0
-rdelhaise	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	gallery.me.com-rdelhaise.warc.gz	0
-rdelhaise	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	homepage.mac.com-rdelhaise.warc.gz	0
-rdelhaise	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	public.me.com-rdelhaise.warc.gz	0
-rdelhaise	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	web.me.com-rdelhaise.warc.gz	0
-wjbh2	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	gallery.me.com-wjbh2.warc.gz	0
-wjbh2	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	homepage.mac.com-wjbh2.warc.gz	0
-wjbh2	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	public.me.com-wjbh2.warc.gz	0
-wjbh2	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	web.me.com-wjbh2.warc.gz	0
+a2b1	gallery.me.com	2012-04-08 00:07:55	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	gallery.me.com-a2b1.warc.gz	8311
+a2b1	homepage.mac.com	2012-04-08 00:07:55	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	homepage.mac.com-a2b1.warc.gz	5155
+a2b1	public.me.com	2012-04-08 00:07:54	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	public.me.com-a2b1.warc.gz	1907
+a2b1	web.me.com	2012-04-08 00:07:54	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	web.me.com-a2b1.warc.gz	17633
+adekanbi	gallery.me.com	2012-04-08 04:03:02	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	gallery.me.com-adekanbi.warc.gz	5407523686
+adekanbi	homepage.mac.com	2012-04-08 04:03:02	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	homepage.mac.com-adekanbi.warc.gz	7121
+adekanbi	public.me.com	2012-04-08 02:47:55	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	public.me.com-adekanbi.warc.gz	3326
+adekanbi	web.me.com	2012-04-08 02:47:19	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	web.me.com-adekanbi.warc.gz	7788558259
+amycrofoot	gallery.me.com	2012-04-07 23:31:37	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	gallery.me.com-amycrofoot.warc.gz	13425178
+amycrofoot	homepage.mac.com	2012-04-07 23:31:38	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	homepage.mac.com-amycrofoot.warc.gz	4906
+amycrofoot	public.me.com	2012-04-07 23:31:03	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	public.me.com-amycrofoot.warc.gz	1915
+amycrofoot	web.me.com	2012-04-07 23:31:03	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	web.me.com-amycrofoot.warc.gz	44237426
+blakelykerrigan	gallery.me.com	2012-04-07 23:28:48	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	gallery.me.com-blakelykerrigan.warc.gz	80038460
+blakelykerrigan	homepage.mac.com	2012-04-07 23:28:48	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	homepage.mac.com-blakelykerrigan.warc.gz	4940
+blakelykerrigan	public.me.com	2012-04-07 23:27:27	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	public.me.com-blakelykerrigan.warc.gz	1933
+blakelykerrigan	web.me.com	2012-04-07 23:27:26	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	web.me.com-blakelykerrigan.warc.gz	76703197
+rdelhaise	gallery.me.com	2012-04-08 00:07:49	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	gallery.me.com-rdelhaise.warc.gz	591448009
+rdelhaise	homepage.mac.com	2012-04-08 00:07:50	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	homepage.mac.com-rdelhaise.warc.gz	4916
+rdelhaise	public.me.com	2012-04-07 23:47:29	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	public.me.com-rdelhaise.warc.gz	1915
+rdelhaise	web.me.com	2012-04-07 23:47:28	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	web.me.com-rdelhaise.warc.gz	410540969
+wjbh2	gallery.me.com	2012-04-08 00:07:52	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	gallery.me.com-wjbh2.warc.gz	12308
+wjbh2	homepage.mac.com	2012-04-08 00:07:53	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	homepage.mac.com-wjbh2.warc.gz	7124
+wjbh2	public.me.com	2012-04-08 00:07:51	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	public.me.com-wjbh2.warc.gz	1912
+wjbh2	web.me.com	2012-04-08 00:07:51	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5103.tar	web.me.com-wjbh2.warc.gz	22412

@@ -1,24 +1,24 @@
-c19457688	gallery.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	gallery.me.com-c19457688.warc.gz	0
-c19457688	homepage.mac.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	homepage.mac.com-c19457688.warc.gz	0
-c19457688	public.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	public.me.com-c19457688.warc.gz	0
-c19457688	web.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	web.me.com-c19457688.warc.gz	0
-jimellis1	gallery.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	gallery.me.com-jimellis1.warc.gz	0
-jimellis1	homepage.mac.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	homepage.mac.com-jimellis1.warc.gz	0
-jimellis1	public.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	public.me.com-jimellis1.warc.gz	0
-jimellis1	web.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	web.me.com-jimellis1.warc.gz	0
-jjlevy1	gallery.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	gallery.me.com-jjlevy1.warc.gz	0
-jjlevy1	homepage.mac.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	homepage.mac.com-jjlevy1.warc.gz	0
-jjlevy1	public.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	public.me.com-jjlevy1.warc.gz	0
-jjlevy1	web.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	web.me.com-jjlevy1.warc.gz	0
-langsachterpakkendan	gallery.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	gallery.me.com-langsachterpakkendan.warc.gz	0
-langsachterpakkendan	homepage.mac.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	homepage.mac.com-langsachterpakkendan.warc.gz	0
-langsachterpakkendan	public.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	public.me.com-langsachterpakkendan.warc.gz	0
-langsachterpakkendan	web.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	web.me.com-langsachterpakkendan.warc.gz	0
-ramsboel	gallery.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	gallery.me.com-ramsboel.warc.gz	0
-ramsboel	homepage.mac.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	homepage.mac.com-ramsboel.warc.gz	0
-ramsboel	public.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	public.me.com-ramsboel.warc.gz	0
-ramsboel	web.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	web.me.com-ramsboel.warc.gz	0
-rossnovie	gallery.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	gallery.me.com-rossnovie.warc.gz	0
-rossnovie	homepage.mac.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	homepage.mac.com-rossnovie.warc.gz	0
-rossnovie	public.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	public.me.com-rossnovie.warc.gz	0
-rossnovie	web.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	web.me.com-rossnovie.warc.gz	0
+c19457688	gallery.me.com	2012-04-11 14:23:52	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	gallery.me.com-c19457688.warc.gz	8369
+c19457688	homepage.mac.com	2012-04-11 14:23:52	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	homepage.mac.com-c19457688.warc.gz	5175
+c19457688	public.me.com	2012-04-11 14:23:50	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	public.me.com-c19457688.warc.gz	1917
+c19457688	web.me.com	2012-04-11 14:23:50	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	web.me.com-c19457688.warc.gz	17804
+jimellis1	gallery.me.com	2012-04-11 14:19:19	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	gallery.me.com-jimellis1.warc.gz	695076834
+jimellis1	homepage.mac.com	2012-04-11 14:19:20	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	homepage.mac.com-jimellis1.warc.gz	4909
+jimellis1	public.me.com	2012-04-11 14:06:07	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	public.me.com-jimellis1.warc.gz	16352
+jimellis1	web.me.com	2012-04-11 14:06:02	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	web.me.com-jimellis1.warc.gz	4861970
+jjlevy1	gallery.me.com	2012-04-11 14:25:28	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	gallery.me.com-jjlevy1.warc.gz	4256
+jjlevy1	homepage.mac.com	2012-04-11 14:25:29	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	homepage.mac.com-jjlevy1.warc.gz	4913
+jjlevy1	public.me.com	2012-04-11 14:25:27	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	public.me.com-jjlevy1.warc.gz	1917
+jjlevy1	web.me.com	2012-04-11 14:25:27	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	web.me.com-jjlevy1.warc.gz	3223816
+langsachterpakkendan	gallery.me.com	2012-04-11 14:23:46	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	gallery.me.com-langsachterpakkendan.warc.gz	8413
+langsachterpakkendan	homepage.mac.com	2012-04-11 14:23:46	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	homepage.mac.com-langsachterpakkendan.warc.gz	5218
+langsachterpakkendan	public.me.com	2012-04-11 14:23:45	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	public.me.com-langsachterpakkendan.warc.gz	1945
+langsachterpakkendan	web.me.com	2012-04-11 14:23:44	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	web.me.com-langsachterpakkendan.warc.gz	17850
+ramsboel	gallery.me.com	2012-04-11 14:23:37	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	gallery.me.com-ramsboel.warc.gz	91121344
+ramsboel	homepage.mac.com	2012-04-11 14:23:40	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	homepage.mac.com-ramsboel.warc.gz	7827
+ramsboel	public.me.com	2012-04-11 14:20:06	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	public.me.com-ramsboel.warc.gz	1920
+ramsboel	web.me.com	2012-04-11 14:20:05	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	web.me.com-ramsboel.warc.gz	1530370
+rossnovie	gallery.me.com	2012-04-11 16:24:28	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	gallery.me.com-rossnovie.warc.gz	162724034
+rossnovie	homepage.mac.com	2012-04-11 16:24:34	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	homepage.mac.com-rossnovie.warc.gz	36876
+rossnovie	public.me.com	2012-04-11 16:18:23	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	public.me.com-rossnovie.warc.gz	3385
+rossnovie	web.me.com	2012-04-11 16:18:12	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6454.tar	web.me.com-rossnovie.warc.gz	3960165962

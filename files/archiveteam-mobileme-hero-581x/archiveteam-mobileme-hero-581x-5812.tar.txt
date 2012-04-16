@@ -1,16 +1,16 @@
-c1306971327	gallery.me.com		archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	gallery.me.com-c1306971327.warc.gz	0
-c1306971327	homepage.mac.com		archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	homepage.mac.com-c1306971327.warc.gz	0
-c1306971327	public.me.com		archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	public.me.com-c1306971327.warc.gz	0
-c1306971327	web.me.com		archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	web.me.com-c1306971327.warc.gz	0
-jenn.long	gallery.me.com		archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	gallery.me.com-jenn.long.warc.gz	0
-jenn.long	homepage.mac.com		archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	homepage.mac.com-jenn.long.warc.gz	0
-jenn.long	public.me.com		archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	public.me.com-jenn.long.warc.gz	0
-jenn.long	web.me.com		archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	web.me.com-jenn.long.warc.gz	0
-mjw75	gallery.me.com		archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	gallery.me.com-mjw75.warc.gz	0
-mjw75	homepage.mac.com		archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	homepage.mac.com-mjw75.warc.gz	0
-mjw75	public.me.com		archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	public.me.com-mjw75.warc.gz	0
-mjw75	web.me.com		archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	web.me.com-mjw75.warc.gz	0
-rahein	gallery.me.com		archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	gallery.me.com-rahein.warc.gz	0
-rahein	homepage.mac.com		archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	homepage.mac.com-rahein.warc.gz	0
-rahein	public.me.com		archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	public.me.com-rahein.warc.gz	0
-rahein	web.me.com		archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	web.me.com-rahein.warc.gz	0
+c1306971327	gallery.me.com	2012-04-10 01:15:53	archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	gallery.me.com-c1306971327.warc.gz	8374
+c1306971327	homepage.mac.com	2012-04-10 01:15:53	archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	homepage.mac.com-c1306971327.warc.gz	5168
+c1306971327	public.me.com	2012-04-10 01:15:52	archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	public.me.com-c1306971327.warc.gz	1926
+c1306971327	web.me.com	2012-04-10 01:15:51	archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	web.me.com-c1306971327.warc.gz	17735
+jenn.long	gallery.me.com	2012-04-10 01:15:48	archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	gallery.me.com-jenn.long.warc.gz	497942741
+jenn.long	homepage.mac.com	2012-04-10 01:15:49	archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	homepage.mac.com-jenn.long.warc.gz	4919
+jenn.long	public.me.com	2012-04-10 00:29:42	archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	public.me.com-jenn.long.warc.gz	28276406
+jenn.long	web.me.com	2012-04-10 00:29:24	archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	web.me.com-jenn.long.warc.gz	6833914
+mjw75	gallery.me.com	2012-04-10 04:27:17	archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	gallery.me.com-mjw75.warc.gz	2072555626
+mjw75	homepage.mac.com	2012-04-10 04:27:20	archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	homepage.mac.com-mjw75.warc.gz	36971
+mjw75	public.me.com	2012-04-10 01:25:17	archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	public.me.com-mjw75.warc.gz	480974
+mjw75	web.me.com	2012-04-10 01:25:13	archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	web.me.com-mjw75.warc.gz	34957153
+rahein	gallery.me.com	2012-04-10 08:03:43	archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	gallery.me.com-rahein.warc.gz	4330978714
+rahein	homepage.mac.com	2012-04-10 08:03:49	archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	homepage.mac.com-rahein.warc.gz	108827
+rahein	public.me.com	2012-04-10 05:04:23	archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	public.me.com-rahein.warc.gz	1914
+rahein	web.me.com	2012-04-10 05:04:22	archiveteam-mobileme-hero-581x	archiveteam-mobileme-hero-581x-5812.tar	web.me.com-rahein.warc.gz	355229664

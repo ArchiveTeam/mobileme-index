@@ -1,12 +1,12 @@
-jouvry	gallery.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	gallery.me.com-jouvry.warc.gz	0
-jouvry	homepage.mac.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	homepage.mac.com-jouvry.warc.gz	0
-jouvry	public.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	public.me.com-jouvry.warc.gz	0
-jouvry	web.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	web.me.com-jouvry.warc.gz	0
-mave110	gallery.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	gallery.me.com-mave110.warc.gz	0
-mave110	homepage.mac.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	homepage.mac.com-mave110.warc.gz	0
-mave110	public.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	public.me.com-mave110.warc.gz	0
-mave110	web.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	web.me.com-mave110.warc.gz	0
-ruthandscott	gallery.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	gallery.me.com-ruthandscott.warc.gz	0
-ruthandscott	homepage.mac.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	homepage.mac.com-ruthandscott.warc.gz	0
-ruthandscott	public.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	public.me.com-ruthandscott.warc.gz	0
-ruthandscott	web.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	web.me.com-ruthandscott.warc.gz	0
+jouvry	gallery.me.com	2012-04-11 08:08:54	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	gallery.me.com-jouvry.warc.gz	635638792
+jouvry	homepage.mac.com	2012-04-11 08:08:54	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	homepage.mac.com-jouvry.warc.gz	4898
+jouvry	public.me.com	2012-04-11 07:47:05	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	public.me.com-jouvry.warc.gz	3368
+jouvry	web.me.com	2012-04-11 07:47:03	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	web.me.com-jouvry.warc.gz	229069518
+mave110	gallery.me.com	2012-04-11 11:11:01	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	gallery.me.com-mave110.warc.gz	2089890889
+mave110	homepage.mac.com	2012-04-11 11:11:01	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	homepage.mac.com-mave110.warc.gz	4910
+mave110	public.me.com	2012-04-11 09:40:37	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	public.me.com-mave110.warc.gz	1909
+mave110	web.me.com	2012-04-11 09:40:35	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	web.me.com-mave110.warc.gz	832747112
+ruthandscott	gallery.me.com	2012-04-11 07:09:30	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	gallery.me.com-ruthandscott.warc.gz	2672661009
+ruthandscott	homepage.mac.com	2012-04-11 07:09:35	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	homepage.mac.com-ruthandscott.warc.gz	41495
+ruthandscott	public.me.com	2012-04-11 06:01:57	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	public.me.com-ruthandscott.warc.gz	1925
+ruthandscott	web.me.com	2012-04-11 06:01:57	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6325.tar	web.me.com-ruthandscott.warc.gz	98979219

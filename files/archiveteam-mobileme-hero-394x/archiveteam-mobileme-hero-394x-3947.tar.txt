@@ -1,20 +1,20 @@
-johngatto	gallery.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	gallery.me.com-johngatto.warc.gz	0
-johngatto	homepage.mac.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	homepage.mac.com-johngatto.warc.gz	0
-johngatto	public.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	public.me.com-johngatto.warc.gz	0
-johngatto	web.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	web.me.com-johngatto.warc.gz	0
-kareneifler	gallery.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	gallery.me.com-kareneifler.warc.gz	0
-kareneifler	homepage.mac.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	homepage.mac.com-kareneifler.warc.gz	0
-kareneifler	public.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	public.me.com-kareneifler.warc.gz	0
-kareneifler	web.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	web.me.com-kareneifler.warc.gz	0
-leonari	gallery.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	gallery.me.com-leonari.warc.gz	0
-leonari	homepage.mac.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	homepage.mac.com-leonari.warc.gz	0
-leonari	public.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	public.me.com-leonari.warc.gz	0
-leonari	web.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	web.me.com-leonari.warc.gz	0
-lhuffman	gallery.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	gallery.me.com-lhuffman.warc.gz	0
-lhuffman	homepage.mac.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	homepage.mac.com-lhuffman.warc.gz	0
-lhuffman	public.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	public.me.com-lhuffman.warc.gz	0
-lhuffman	web.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	web.me.com-lhuffman.warc.gz	0
-rick.bettencourt	gallery.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	gallery.me.com-rick.bettencourt.warc.gz	0
-rick.bettencourt	homepage.mac.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	homepage.mac.com-rick.bettencourt.warc.gz	0
-rick.bettencourt	public.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	public.me.com-rick.bettencourt.warc.gz	0
-rick.bettencourt	web.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	web.me.com-rick.bettencourt.warc.gz	0
+johngatto	gallery.me.com	2012-04-04 16:19:54	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	gallery.me.com-johngatto.warc.gz	683213977
+johngatto	homepage.mac.com	2012-04-04 16:20:15	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	homepage.mac.com-johngatto.warc.gz	507118
+johngatto	public.me.com	2012-04-04 16:09:32	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	public.me.com-johngatto.warc.gz	1476187
+johngatto	web.me.com	2012-04-04 16:09:17	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	web.me.com-johngatto.warc.gz	76795315
+kareneifler	gallery.me.com	2012-04-04 16:23:24	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	gallery.me.com-kareneifler.warc.gz	4304
+kareneifler	homepage.mac.com	2012-04-04 16:23:36	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	homepage.mac.com-kareneifler.warc.gz	149289
+kareneifler	public.me.com	2012-04-04 16:23:23	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	public.me.com-kareneifler.warc.gz	3261779
+kareneifler	web.me.com	2012-04-04 16:23:17	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	web.me.com-kareneifler.warc.gz	104285683
+leonari	gallery.me.com	2012-04-04 16:02:20	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	gallery.me.com-leonari.warc.gz	1983478
+leonari	homepage.mac.com	2012-04-04 16:02:22	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	homepage.mac.com-leonari.warc.gz	4877
+leonari	public.me.com	2012-04-04 16:02:13	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	public.me.com-leonari.warc.gz	1913
+leonari	web.me.com	2012-04-04 16:02:12	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	web.me.com-leonari.warc.gz	2096462
+lhuffman	gallery.me.com	2012-04-04 17:36:59	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	gallery.me.com-lhuffman.warc.gz	4277
+lhuffman	homepage.mac.com	2012-04-04 17:36:59	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	homepage.mac.com-lhuffman.warc.gz	4918
+lhuffman	public.me.com	2012-04-04 17:36:58	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	public.me.com-lhuffman.warc.gz	3437
+lhuffman	web.me.com	2012-04-04 17:36:49	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	web.me.com-lhuffman.warc.gz	1072361403
+rick.bettencourt	gallery.me.com	2012-04-04 20:19:02	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	gallery.me.com-rick.bettencourt.warc.gz	2041031244
+rick.bettencourt	homepage.mac.com	2012-04-04 20:19:03	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	homepage.mac.com-rick.bettencourt.warc.gz	13364
+rick.bettencourt	public.me.com	2012-04-04 19:14:22	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	public.me.com-rick.bettencourt.warc.gz	398062434
+rick.bettencourt	web.me.com	2012-04-04 19:12:52	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3947.tar	web.me.com-rick.bettencourt.warc.gz	359369526

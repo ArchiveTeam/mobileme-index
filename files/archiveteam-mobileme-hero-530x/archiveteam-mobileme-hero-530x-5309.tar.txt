@@ -1,16 +1,16 @@
-experiential	gallery.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	gallery.me.com-experiential.warc.gz	0
-experiential	homepage.mac.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	homepage.mac.com-experiential.warc.gz	0
-experiential	public.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	public.me.com-experiential.warc.gz	0
-experiential	web.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	web.me.com-experiential.warc.gz	0
-jjbaldwin7	gallery.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	gallery.me.com-jjbaldwin7.warc.gz	0
-jjbaldwin7	homepage.mac.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	homepage.mac.com-jjbaldwin7.warc.gz	0
-jjbaldwin7	public.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	public.me.com-jjbaldwin7.warc.gz	0
-jjbaldwin7	web.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	web.me.com-jjbaldwin7.warc.gz	0
-parkay	gallery.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	gallery.me.com-parkay.warc.gz	0
-parkay	homepage.mac.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	homepage.mac.com-parkay.warc.gz	0
-parkay	public.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	public.me.com-parkay.warc.gz	0
-parkay	web.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	web.me.com-parkay.warc.gz	0
-yumiko_yoshihara	gallery.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	gallery.me.com-yumiko_yoshihara.warc.gz	0
-yumiko_yoshihara	homepage.mac.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	homepage.mac.com-yumiko_yoshihara.warc.gz	0
-yumiko_yoshihara	public.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	public.me.com-yumiko_yoshihara.warc.gz	0
-yumiko_yoshihara	web.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	web.me.com-yumiko_yoshihara.warc.gz	0
+experiential	gallery.me.com	2012-04-09 01:56:24	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	gallery.me.com-experiential.warc.gz	47704418
+experiential	homepage.mac.com	2012-04-09 01:56:24	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	homepage.mac.com-experiential.warc.gz	4909
+experiential	public.me.com	2012-04-09 01:54:50	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	public.me.com-experiential.warc.gz	1925
+experiential	web.me.com	2012-04-09 01:54:49	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	web.me.com-experiential.warc.gz	207220292
+jjbaldwin7	gallery.me.com	2012-04-09 03:45:59	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	gallery.me.com-jjbaldwin7.warc.gz	138805438
+jjbaldwin7	homepage.mac.com	2012-04-09 03:45:59	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	homepage.mac.com-jjbaldwin7.warc.gz	4932
+jjbaldwin7	public.me.com	2012-04-09 03:42:55	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	public.me.com-jjbaldwin7.warc.gz	1920
+jjbaldwin7	web.me.com	2012-04-09 03:41:58	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	web.me.com-jjbaldwin7.warc.gz	8378690329
+parkay	gallery.me.com	2012-04-09 01:41:44	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	gallery.me.com-parkay.warc.gz	965117290
+parkay	homepage.mac.com	2012-04-09 01:41:45	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	homepage.mac.com-parkay.warc.gz	7864
+parkay	public.me.com	2012-04-09 00:49:12	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	public.me.com-parkay.warc.gz	35228547
+parkay	web.me.com	2012-04-09 00:49:05	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	web.me.com-parkay.warc.gz	40005434
+yumiko_yoshihara	gallery.me.com	2012-04-09 01:44:01	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	gallery.me.com-yumiko_yoshihara.warc.gz	89417461
+yumiko_yoshihara	homepage.mac.com	2012-04-09 01:44:02	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	homepage.mac.com-yumiko_yoshihara.warc.gz	4956
+yumiko_yoshihara	public.me.com	2012-04-09 01:42:50	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	public.me.com-yumiko_yoshihara.warc.gz	9256327
+yumiko_yoshihara	web.me.com	2012-04-09 01:41:57	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5309.tar	web.me.com-yumiko_yoshihara.warc.gz	222071

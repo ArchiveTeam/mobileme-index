@@ -1,4 +1,4 @@
-course_west	gallery.me.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7277.tar	gallery.me.com-course_west.warc.gz	0
-course_west	homepage.mac.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7277.tar	homepage.mac.com-course_west.warc.gz	0
-course_west	public.me.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7277.tar	public.me.com-course_west.warc.gz	0
-course_west	web.me.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7277.tar	web.me.com-course_west.warc.gz	0
+course_west	gallery.me.com	2012-04-13 11:00:10	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7277.tar	gallery.me.com-course_west.warc.gz	4232766006
+course_west	homepage.mac.com	2012-04-13 11:00:11	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7277.tar	homepage.mac.com-course_west.warc.gz	4927
+course_west	public.me.com	2012-04-13 09:51:35	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7277.tar	public.me.com-course_west.warc.gz	1922
+course_west	web.me.com	2012-04-13 09:51:35	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7277.tar	web.me.com-course_west.warc.gz	141259140

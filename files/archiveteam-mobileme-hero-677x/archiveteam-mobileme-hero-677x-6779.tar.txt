@@ -1,8 +1,8 @@
-LimeyRat	gallery.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6779.tar	gallery.me.com-LimeyRat.warc.gz	0
-LimeyRat	homepage.mac.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6779.tar	homepage.mac.com-LimeyRat.warc.gz	0
-LimeyRat	public.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6779.tar	public.me.com-LimeyRat.warc.gz	0
-LimeyRat	web.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6779.tar	web.me.com-LimeyRat.warc.gz	0
-vrempe	gallery.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6779.tar	gallery.me.com-vrempe.warc.gz	0
-vrempe	homepage.mac.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6779.tar	homepage.mac.com-vrempe.warc.gz	0
-vrempe	public.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6779.tar	public.me.com-vrempe.warc.gz	0
-vrempe	web.me.com		archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6779.tar	web.me.com-vrempe.warc.gz	0
+LimeyRat	gallery.me.com	2012-04-12 12:40:38	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6779.tar	gallery.me.com-LimeyRat.warc.gz	5180372998
+LimeyRat	homepage.mac.com	2012-04-12 12:40:38	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6779.tar	homepage.mac.com-LimeyRat.warc.gz	4896
+LimeyRat	public.me.com	2012-04-12 11:53:38	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6779.tar	public.me.com-LimeyRat.warc.gz	1917
+LimeyRat	web.me.com	2012-04-12 11:53:35	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6779.tar	web.me.com-LimeyRat.warc.gz	1187711139
+vrempe	gallery.me.com	2012-04-12 11:13:42	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6779.tar	gallery.me.com-vrempe.warc.gz	4229
+vrempe	homepage.mac.com	2012-04-12 11:13:42	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6779.tar	homepage.mac.com-vrempe.warc.gz	4888
+vrempe	public.me.com	2012-04-12 11:13:41	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6779.tar	public.me.com-vrempe.warc.gz	1912
+vrempe	web.me.com	2012-04-12 11:13:41	archiveteam-mobileme-hero-677x	archiveteam-mobileme-hero-677x-6779.tar	web.me.com-vrempe.warc.gz	3251783

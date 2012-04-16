@@ -1,16 +1,16 @@
-bob_brent	gallery.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	gallery.me.com-bob_brent.warc.gz	0
-bob_brent	homepage.mac.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	homepage.mac.com-bob_brent.warc.gz	0
-bob_brent	public.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	public.me.com-bob_brent.warc.gz	0
-bob_brent	web.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	web.me.com-bob_brent.warc.gz	0
-dmichaelbain	gallery.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	gallery.me.com-dmichaelbain.warc.gz	0
-dmichaelbain	homepage.mac.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	homepage.mac.com-dmichaelbain.warc.gz	0
-dmichaelbain	public.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	public.me.com-dmichaelbain.warc.gz	0
-dmichaelbain	web.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	web.me.com-dmichaelbain.warc.gz	0
-roelbakkum	gallery.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	gallery.me.com-roelbakkum.warc.gz	0
-roelbakkum	homepage.mac.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	homepage.mac.com-roelbakkum.warc.gz	0
-roelbakkum	public.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	public.me.com-roelbakkum.warc.gz	0
-roelbakkum	web.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	web.me.com-roelbakkum.warc.gz	0
-rrongproduction	gallery.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	gallery.me.com-rrongproduction.warc.gz	0
-rrongproduction	homepage.mac.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	homepage.mac.com-rrongproduction.warc.gz	0
-rrongproduction	public.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	public.me.com-rrongproduction.warc.gz	0
-rrongproduction	web.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	web.me.com-rrongproduction.warc.gz	0
+bob_brent	gallery.me.com	2012-04-09 05:42:07	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	gallery.me.com-bob_brent.warc.gz	5438762911
+bob_brent	homepage.mac.com	2012-04-09 05:42:07	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	homepage.mac.com-bob_brent.warc.gz	4905
+bob_brent	public.me.com	2012-04-09 04:43:11	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	public.me.com-bob_brent.warc.gz	1919
+bob_brent	web.me.com	2012-04-09 04:43:11	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	web.me.com-bob_brent.warc.gz	1484218584
+dmichaelbain	gallery.me.com	2012-04-09 04:15:39	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	gallery.me.com-dmichaelbain.warc.gz	5190
+dmichaelbain	homepage.mac.com	2012-04-09 04:15:42	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	homepage.mac.com-dmichaelbain.warc.gz	101353
+dmichaelbain	public.me.com	2012-04-09 04:15:38	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	public.me.com-dmichaelbain.warc.gz	62929605
+dmichaelbain	web.me.com	2012-04-09 04:14:23	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	web.me.com-dmichaelbain.warc.gz	835884528
+roelbakkum	gallery.me.com	2012-04-09 03:34:42	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	gallery.me.com-roelbakkum.warc.gz	5287
+roelbakkum	homepage.mac.com	2012-04-09 03:34:46	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	homepage.mac.com-roelbakkum.warc.gz	147860
+roelbakkum	public.me.com	2012-04-09 03:34:41	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	public.me.com-roelbakkum.warc.gz	1918
+roelbakkum	web.me.com	2012-04-09 03:34:40	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	web.me.com-roelbakkum.warc.gz	220874
+rrongproduction	gallery.me.com	2012-04-09 03:34:29	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	gallery.me.com-rrongproduction.warc.gz	20496199
+rrongproduction	homepage.mac.com	2012-04-09 03:34:29	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	homepage.mac.com-rrongproduction.warc.gz	4941
+rrongproduction	public.me.com	2012-04-09 03:34:16	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	public.me.com-rrongproduction.warc.gz	15236
+rrongproduction	web.me.com	2012-04-09 03:34:14	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5342.tar	web.me.com-rrongproduction.warc.gz	42658456

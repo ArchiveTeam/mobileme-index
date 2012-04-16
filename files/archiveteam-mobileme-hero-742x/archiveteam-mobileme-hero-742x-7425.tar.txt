@@ -1,20 +1,20 @@
-abcd60	gallery.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	gallery.me.com-abcd60.warc.gz	0
-abcd60	homepage.mac.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	homepage.mac.com-abcd60.warc.gz	0
-abcd60	public.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	public.me.com-abcd60.warc.gz	0
-abcd60	web.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	web.me.com-abcd60.warc.gz	0
-adalesandro	gallery.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	gallery.me.com-adalesandro.warc.gz	0
-adalesandro	homepage.mac.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	homepage.mac.com-adalesandro.warc.gz	0
-adalesandro	public.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	public.me.com-adalesandro.warc.gz	0
-adalesandro	web.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	web.me.com-adalesandro.warc.gz	0
-athenainspired	gallery.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	gallery.me.com-athenainspired.warc.gz	0
-athenainspired	homepage.mac.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	homepage.mac.com-athenainspired.warc.gz	0
-athenainspired	public.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	public.me.com-athenainspired.warc.gz	0
-athenainspired	web.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	web.me.com-athenainspired.warc.gz	0
-karenn4	gallery.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	gallery.me.com-karenn4.warc.gz	0
-karenn4	homepage.mac.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	homepage.mac.com-karenn4.warc.gz	0
-karenn4	public.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	public.me.com-karenn4.warc.gz	0
-karenn4	web.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	web.me.com-karenn4.warc.gz	0
-robertgrayphoto	gallery.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	gallery.me.com-robertgrayphoto.warc.gz	0
-robertgrayphoto	homepage.mac.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	homepage.mac.com-robertgrayphoto.warc.gz	0
-robertgrayphoto	public.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	public.me.com-robertgrayphoto.warc.gz	0
-robertgrayphoto	web.me.com		archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	web.me.com-robertgrayphoto.warc.gz	0
+abcd60	gallery.me.com	2012-04-13 15:51:43	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	gallery.me.com-abcd60.warc.gz	4243
+abcd60	homepage.mac.com	2012-04-13 15:51:43	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	homepage.mac.com-abcd60.warc.gz	4898
+abcd60	public.me.com	2012-04-13 15:51:42	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	public.me.com-abcd60.warc.gz	1909
+abcd60	web.me.com	2012-04-13 15:51:41	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	web.me.com-abcd60.warc.gz	99883989
+adalesandro	gallery.me.com	2012-04-13 18:25:46	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	gallery.me.com-adalesandro.warc.gz	3042844813
+adalesandro	homepage.mac.com	2012-04-13 18:25:48	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	homepage.mac.com-adalesandro.warc.gz	49821
+adalesandro	public.me.com	2012-04-13 17:04:52	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	public.me.com-adalesandro.warc.gz	114239891
+adalesandro	web.me.com	2012-04-13 17:02:26	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	web.me.com-adalesandro.warc.gz	1815378742
+athenainspired	gallery.me.com	2012-04-13 15:52:36	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	gallery.me.com-athenainspired.warc.gz	4271
+athenainspired	homepage.mac.com	2012-04-13 15:52:36	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	homepage.mac.com-athenainspired.warc.gz	4912
+athenainspired	public.me.com	2012-04-13 15:52:35	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	public.me.com-athenainspired.warc.gz	15900581
+athenainspired	web.me.com	2012-04-13 15:52:26	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	web.me.com-athenainspired.warc.gz	3681085
+karenn4	gallery.me.com	2012-04-13 15:58:04	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	gallery.me.com-karenn4.warc.gz	117079
+karenn4	homepage.mac.com	2012-04-13 15:58:04	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	homepage.mac.com-karenn4.warc.gz	4906
+karenn4	public.me.com	2012-04-13 15:58:02	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	public.me.com-karenn4.warc.gz	1907
+karenn4	web.me.com	2012-04-13 15:58:02	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	web.me.com-karenn4.warc.gz	8059358
+robertgrayphoto	gallery.me.com	2012-04-13 15:56:54	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	gallery.me.com-robertgrayphoto.warc.gz	4280
+robertgrayphoto	homepage.mac.com	2012-04-13 15:56:54	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	homepage.mac.com-robertgrayphoto.warc.gz	4941
+robertgrayphoto	public.me.com	2012-04-13 15:56:53	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	public.me.com-robertgrayphoto.warc.gz	3354
+robertgrayphoto	web.me.com	2012-04-13 15:56:53	archiveteam-mobileme-hero-742x	archiveteam-mobileme-hero-742x-7425.tar	web.me.com-robertgrayphoto.warc.gz	10553300

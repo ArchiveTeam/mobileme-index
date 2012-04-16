@@ -1,16 +1,16 @@
-graeme.tab	gallery.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	gallery.me.com-graeme.tab.warc.gz	0
-graeme.tab	homepage.mac.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	homepage.mac.com-graeme.tab.warc.gz	0
-graeme.tab	public.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	public.me.com-graeme.tab.warc.gz	0
-graeme.tab	web.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	web.me.com-graeme.tab.warc.gz	0
-muffyf.	gallery.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	gallery.me.com-muffyf..warc.gz	0
-muffyf.	homepage.mac.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	homepage.mac.com-muffyf..warc.gz	0
-muffyf.	public.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	public.me.com-muffyf..warc.gz	0
-muffyf.	web.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	web.me.com-muffyf..warc.gz	0
-reflexon	gallery.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	gallery.me.com-reflexon.warc.gz	0
-reflexon	homepage.mac.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	homepage.mac.com-reflexon.warc.gz	0
-reflexon	public.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	public.me.com-reflexon.warc.gz	0
-reflexon	web.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	web.me.com-reflexon.warc.gz	0
-vanakkooi	gallery.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	gallery.me.com-vanakkooi.warc.gz	0
-vanakkooi	homepage.mac.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	homepage.mac.com-vanakkooi.warc.gz	0
-vanakkooi	public.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	public.me.com-vanakkooi.warc.gz	0
-vanakkooi	web.me.com		archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	web.me.com-vanakkooi.warc.gz	0
+graeme.tab	gallery.me.com	2012-04-07 05:58:56	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	gallery.me.com-graeme.tab.warc.gz	1136366252
+graeme.tab	homepage.mac.com	2012-04-07 05:58:56	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	homepage.mac.com-graeme.tab.warc.gz	4917
+graeme.tab	public.me.com	2012-04-07 05:44:58	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	public.me.com-graeme.tab.warc.gz	3329
+graeme.tab	web.me.com	2012-04-07 05:44:56	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	web.me.com-graeme.tab.warc.gz	526981327
+muffyf.	gallery.me.com	2012-04-07 05:58:58	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	gallery.me.com-muffyf..warc.gz	8331
+muffyf.	homepage.mac.com	2012-04-07 05:58:59	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	homepage.mac.com-muffyf..warc.gz	5169
+muffyf.	public.me.com	2012-04-07 05:58:58	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	public.me.com-muffyf..warc.gz	1913
+muffyf.	web.me.com	2012-04-07 05:58:57	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	web.me.com-muffyf..warc.gz	17728
+reflexon	gallery.me.com	2012-04-07 06:12:56	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	gallery.me.com-reflexon.warc.gz	395125422
+reflexon	homepage.mac.com	2012-04-07 06:12:59	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	homepage.mac.com-reflexon.warc.gz	84377
+reflexon	public.me.com	2012-04-07 06:07:21	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	public.me.com-reflexon.warc.gz	1913
+reflexon	web.me.com	2012-04-07 06:07:20	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	web.me.com-reflexon.warc.gz	123178396
+vanakkooi	gallery.me.com	2012-04-07 07:44:09	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	gallery.me.com-vanakkooi.warc.gz	4982933683
+vanakkooi	homepage.mac.com	2012-04-07 07:44:09	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	homepage.mac.com-vanakkooi.warc.gz	4902
+vanakkooi	public.me.com	2012-04-07 06:31:37	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	public.me.com-vanakkooi.warc.gz	19170004
+vanakkooi	web.me.com	2012-04-07 06:31:30	archiveteam-mobileme-hero-486x	archiveteam-mobileme-hero-486x-4867.tar	web.me.com-vanakkooi.warc.gz	493220742

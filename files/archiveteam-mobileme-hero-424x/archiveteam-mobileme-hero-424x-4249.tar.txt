@@ -1,8 +1,8 @@
-recarefer	gallery.me.com		archiveteam-mobileme-hero-424x	archiveteam-mobileme-hero-424x-4249.tar	gallery.me.com-recarefer.warc.gz	0
-recarefer	homepage.mac.com		archiveteam-mobileme-hero-424x	archiveteam-mobileme-hero-424x-4249.tar	homepage.mac.com-recarefer.warc.gz	0
-recarefer	public.me.com		archiveteam-mobileme-hero-424x	archiveteam-mobileme-hero-424x-4249.tar	public.me.com-recarefer.warc.gz	0
-recarefer	web.me.com		archiveteam-mobileme-hero-424x	archiveteam-mobileme-hero-424x-4249.tar	web.me.com-recarefer.warc.gz	0
-williamclight	gallery.me.com		archiveteam-mobileme-hero-424x	archiveteam-mobileme-hero-424x-4249.tar	gallery.me.com-williamclight.warc.gz	0
-williamclight	homepage.mac.com		archiveteam-mobileme-hero-424x	archiveteam-mobileme-hero-424x-4249.tar	homepage.mac.com-williamclight.warc.gz	0
-williamclight	public.me.com		archiveteam-mobileme-hero-424x	archiveteam-mobileme-hero-424x-4249.tar	public.me.com-williamclight.warc.gz	0
-williamclight	web.me.com		archiveteam-mobileme-hero-424x	archiveteam-mobileme-hero-424x-4249.tar	web.me.com-williamclight.warc.gz	0
+recarefer	gallery.me.com	2012-04-05 11:12:35	archiveteam-mobileme-hero-424x	archiveteam-mobileme-hero-424x-4249.tar	gallery.me.com-recarefer.warc.gz	8324
+recarefer	homepage.mac.com	2012-04-05 11:12:35	archiveteam-mobileme-hero-424x	archiveteam-mobileme-hero-424x-4249.tar	homepage.mac.com-recarefer.warc.gz	5180
+recarefer	public.me.com	2012-04-05 11:12:34	archiveteam-mobileme-hero-424x	archiveteam-mobileme-hero-424x-4249.tar	public.me.com-recarefer.warc.gz	1916
+recarefer	web.me.com	2012-04-05 11:12:28	archiveteam-mobileme-hero-424x	archiveteam-mobileme-hero-424x-4249.tar	web.me.com-recarefer.warc.gz	17708
+williamclight	gallery.me.com	2012-04-05 13:05:12	archiveteam-mobileme-hero-424x	archiveteam-mobileme-hero-424x-4249.tar	gallery.me.com-williamclight.warc.gz	6494825653
+williamclight	homepage.mac.com	2012-04-05 13:05:13	archiveteam-mobileme-hero-424x	archiveteam-mobileme-hero-424x-4249.tar	homepage.mac.com-williamclight.warc.gz	4937
+williamclight	public.me.com	2012-04-05 11:40:15	archiveteam-mobileme-hero-424x	archiveteam-mobileme-hero-424x-4249.tar	public.me.com-williamclight.warc.gz	203117286
+williamclight	web.me.com	2012-04-05 11:34:53	archiveteam-mobileme-hero-424x	archiveteam-mobileme-hero-424x-4249.tar	web.me.com-williamclight.warc.gz	569539598

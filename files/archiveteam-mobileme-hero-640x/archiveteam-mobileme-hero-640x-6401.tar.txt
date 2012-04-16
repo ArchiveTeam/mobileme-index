@@ -1,32 +1,32 @@
-blueheroncove	gallery.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	gallery.me.com-blueheroncove.warc.gz	0
-blueheroncove	homepage.mac.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	homepage.mac.com-blueheroncove.warc.gz	0
-blueheroncove	public.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	public.me.com-blueheroncove.warc.gz	0
-blueheroncove	web.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	web.me.com-blueheroncove.warc.gz	0
-bryansmiet	gallery.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	gallery.me.com-bryansmiet.warc.gz	0
-bryansmiet	homepage.mac.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	homepage.mac.com-bryansmiet.warc.gz	0
-bryansmiet	public.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	public.me.com-bryansmiet.warc.gz	0
-bryansmiet	web.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	web.me.com-bryansmiet.warc.gz	0
-claude.weber1	gallery.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	gallery.me.com-claude.weber1.warc.gz	0
-claude.weber1	homepage.mac.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	homepage.mac.com-claude.weber1.warc.gz	0
-claude.weber1	public.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	public.me.com-claude.weber1.warc.gz	0
-claude.weber1	web.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	web.me.com-claude.weber1.warc.gz	0
-ferlabbe	gallery.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	gallery.me.com-ferlabbe.warc.gz	0
-ferlabbe	homepage.mac.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	homepage.mac.com-ferlabbe.warc.gz	0
-ferlabbe	public.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	public.me.com-ferlabbe.warc.gz	0
-ferlabbe	web.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	web.me.com-ferlabbe.warc.gz	0
-jgun	gallery.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	gallery.me.com-jgun.warc.gz	0
-jgun	homepage.mac.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	homepage.mac.com-jgun.warc.gz	0
-jgun	public.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	public.me.com-jgun.warc.gz	0
-jgun	web.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	web.me.com-jgun.warc.gz	0
-mcz	gallery.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	gallery.me.com-mcz.warc.gz	0
-mcz	homepage.mac.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	homepage.mac.com-mcz.warc.gz	0
-mcz	public.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	public.me.com-mcz.warc.gz	0
-mcz	web.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	web.me.com-mcz.warc.gz	0
-renjamin	gallery.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	gallery.me.com-renjamin.warc.gz	0
-renjamin	homepage.mac.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	homepage.mac.com-renjamin.warc.gz	0
-renjamin	public.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	public.me.com-renjamin.warc.gz	0
-renjamin	web.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	web.me.com-renjamin.warc.gz	0
-thedopestethiopian	gallery.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	gallery.me.com-thedopestethiopian.warc.gz	0
-thedopestethiopian	homepage.mac.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	homepage.mac.com-thedopestethiopian.warc.gz	0
-thedopestethiopian	public.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	public.me.com-thedopestethiopian.warc.gz	0
-thedopestethiopian	web.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	web.me.com-thedopestethiopian.warc.gz	0
+blueheroncove	gallery.me.com	2012-04-11 10:27:05	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	gallery.me.com-blueheroncove.warc.gz	16233958
+blueheroncove	homepage.mac.com	2012-04-11 10:27:08	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	homepage.mac.com-blueheroncove.warc.gz	4906
+blueheroncove	public.me.com	2012-04-11 10:24:08	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	public.me.com-blueheroncove.warc.gz	3453
+blueheroncove	web.me.com	2012-04-11 10:23:43	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	web.me.com-blueheroncove.warc.gz	89574606
+bryansmiet	gallery.me.com	2012-04-11 09:36:20	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	gallery.me.com-bryansmiet.warc.gz	1239473
+bryansmiet	homepage.mac.com	2012-04-11 09:37:10	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	homepage.mac.com-bryansmiet.warc.gz	523144
+bryansmiet	public.me.com	2012-04-11 09:36:11	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	public.me.com-bryansmiet.warc.gz	14560565
+bryansmiet	web.me.com	2012-04-11 09:35:07	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	web.me.com-bryansmiet.warc.gz	3096284
+claude.weber1	gallery.me.com	2012-04-11 12:15:19	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	gallery.me.com-claude.weber1.warc.gz	1458481443
+claude.weber1	homepage.mac.com	2012-04-11 12:15:19	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	homepage.mac.com-claude.weber1.warc.gz	4917
+claude.weber1	public.me.com	2012-04-11 11:41:30	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	public.me.com-claude.weber1.warc.gz	1929
+claude.weber1	web.me.com	2012-04-11 11:41:28	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	web.me.com-claude.weber1.warc.gz	63955281
+ferlabbe	gallery.me.com	2012-04-11 09:50:27	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	gallery.me.com-ferlabbe.warc.gz	4978
+ferlabbe	homepage.mac.com	2012-04-11 09:50:27	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	homepage.mac.com-ferlabbe.warc.gz	6025
+ferlabbe	public.me.com	2012-04-11 09:50:26	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	public.me.com-ferlabbe.warc.gz	1916
+ferlabbe	web.me.com	2012-04-11 09:50:25	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	web.me.com-ferlabbe.warc.gz	82407333
+jgun	gallery.me.com	2012-04-11 09:43:24	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	gallery.me.com-jgun.warc.gz	45998944
+jgun	homepage.mac.com	2012-04-11 09:43:33	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	homepage.mac.com-jgun.warc.gz	546192
+jgun	public.me.com	2012-04-11 09:40:26	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	public.me.com-jgun.warc.gz	1908
+jgun	web.me.com	2012-04-11 09:40:25	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	web.me.com-jgun.warc.gz	32374922
+mcz	gallery.me.com	2012-04-11 11:33:10	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	gallery.me.com-mcz.warc.gz	200366962
+mcz	homepage.mac.com	2012-04-11 11:33:13	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	homepage.mac.com-mcz.warc.gz	36771
+mcz	public.me.com	2012-04-11 11:19:20	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	public.me.com-mcz.warc.gz	1909
+mcz	web.me.com	2012-04-11 11:19:19	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	web.me.com-mcz.warc.gz	335240996
+renjamin	gallery.me.com	2012-04-11 10:32:42	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	gallery.me.com-renjamin.warc.gz	8160956
+renjamin	homepage.mac.com	2012-04-11 10:32:42	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	homepage.mac.com-renjamin.warc.gz	4909
+renjamin	public.me.com	2012-04-11 10:32:20	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	public.me.com-renjamin.warc.gz	3370
+renjamin	web.me.com	2012-04-11 10:32:13	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	web.me.com-renjamin.warc.gz	11863317
+thedopestethiopian	gallery.me.com	2012-04-11 13:48:25	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	gallery.me.com-thedopestethiopian.warc.gz	2154645692
+thedopestethiopian	homepage.mac.com	2012-04-11 13:48:26	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	homepage.mac.com-thedopestethiopian.warc.gz	4952
+thedopestethiopian	public.me.com	2012-04-11 12:26:25	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	public.me.com-thedopestethiopian.warc.gz	1939
+thedopestethiopian	web.me.com	2012-04-11 12:26:24	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6401.tar	web.me.com-thedopestethiopian.warc.gz	19125188

@@ -1,20 +1,20 @@
-carlosapadilla	gallery.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	gallery.me.com-carlosapadilla.warc.gz	0
-carlosapadilla	homepage.mac.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	homepage.mac.com-carlosapadilla.warc.gz	0
-carlosapadilla	public.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	public.me.com-carlosapadilla.warc.gz	0
-carlosapadilla	web.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	web.me.com-carlosapadilla.warc.gz	0
-catastrophunk	gallery.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	gallery.me.com-catastrophunk.warc.gz	0
-catastrophunk	homepage.mac.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	homepage.mac.com-catastrophunk.warc.gz	0
-catastrophunk	public.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	public.me.com-catastrophunk.warc.gz	0
-catastrophunk	web.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	web.me.com-catastrophunk.warc.gz	0
-eranspira	gallery.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	gallery.me.com-eranspira.warc.gz	0
-eranspira	homepage.mac.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	homepage.mac.com-eranspira.warc.gz	0
-eranspira	public.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	public.me.com-eranspira.warc.gz	0
-eranspira	web.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	web.me.com-eranspira.warc.gz	0
-erisarei	gallery.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	gallery.me.com-erisarei.warc.gz	0
-erisarei	homepage.mac.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	homepage.mac.com-erisarei.warc.gz	0
-erisarei	public.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	public.me.com-erisarei.warc.gz	0
-erisarei	web.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	web.me.com-erisarei.warc.gz	0
-jasondemers	gallery.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	gallery.me.com-jasondemers.warc.gz	0
-jasondemers	homepage.mac.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	homepage.mac.com-jasondemers.warc.gz	0
-jasondemers	public.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	public.me.com-jasondemers.warc.gz	0
-jasondemers	web.me.com		archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	web.me.com-jasondemers.warc.gz	0
+carlosapadilla	gallery.me.com	2012-04-13 13:16:54	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	gallery.me.com-carlosapadilla.warc.gz	12390
+carlosapadilla	homepage.mac.com	2012-04-13 13:16:54	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	homepage.mac.com-carlosapadilla.warc.gz	7174
+carlosapadilla	public.me.com	2012-04-13 13:16:52	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	public.me.com-carlosapadilla.warc.gz	1928
+carlosapadilla	web.me.com	2012-04-13 13:16:52	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	web.me.com-carlosapadilla.warc.gz	22603
+catastrophunk	gallery.me.com	2012-04-13 13:16:47	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	gallery.me.com-catastrophunk.warc.gz	24199514
+catastrophunk	homepage.mac.com	2012-04-13 13:16:47	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	homepage.mac.com-catastrophunk.warc.gz	4940
+catastrophunk	public.me.com	2012-04-13 13:14:29	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	public.me.com-catastrophunk.warc.gz	1926
+catastrophunk	web.me.com	2012-04-13 13:14:28	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	web.me.com-catastrophunk.warc.gz	12532063
+eranspira	gallery.me.com	2012-04-13 16:29:16	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	gallery.me.com-eranspira.warc.gz	8260759
+eranspira	homepage.mac.com	2012-04-13 16:29:17	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	homepage.mac.com-eranspira.warc.gz	4906
+eranspira	public.me.com	2012-04-13 16:29:04	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	public.me.com-eranspira.warc.gz	3125797070
+eranspira	web.me.com	2012-04-13 15:32:27	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	web.me.com-eranspira.warc.gz	639202305
+erisarei	gallery.me.com	2012-04-13 13:23:15	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	gallery.me.com-erisarei.warc.gz	4249
+erisarei	homepage.mac.com	2012-04-13 13:23:15	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	homepage.mac.com-erisarei.warc.gz	4895
+erisarei	public.me.com	2012-04-13 13:23:14	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	public.me.com-erisarei.warc.gz	1910
+erisarei	web.me.com	2012-04-13 13:23:13	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	web.me.com-erisarei.warc.gz	104327064
+jasondemers	gallery.me.com	2012-04-13 14:45:14	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	gallery.me.com-jasondemers.warc.gz	585715
+jasondemers	homepage.mac.com	2012-04-13 14:45:19	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	homepage.mac.com-jasondemers.warc.gz	88649
+jasondemers	public.me.com	2012-04-13 14:45:08	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	public.me.com-jasondemers.warc.gz	1926
+jasondemers	web.me.com	2012-04-13 14:45:06	archiveteam-mobileme-hero-736x	archiveteam-mobileme-hero-736x-7366.tar	web.me.com-jasondemers.warc.gz	515319929

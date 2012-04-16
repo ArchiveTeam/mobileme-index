@@ -1,28 +1,28 @@
-aheilman	gallery.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	gallery.me.com-aheilman.warc.gz	0
-aheilman	homepage.mac.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	homepage.mac.com-aheilman.warc.gz	0
-aheilman	public.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	public.me.com-aheilman.warc.gz	0
-aheilman	web.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	web.me.com-aheilman.warc.gz	0
-jibgjar	gallery.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	gallery.me.com-jibgjar.warc.gz	0
-jibgjar	homepage.mac.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	homepage.mac.com-jibgjar.warc.gz	0
-jibgjar	public.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	public.me.com-jibgjar.warc.gz	0
-jibgjar	web.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	web.me.com-jibgjar.warc.gz	0
-k.alkulaib	gallery.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	gallery.me.com-k.alkulaib.warc.gz	0
-k.alkulaib	homepage.mac.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	homepage.mac.com-k.alkulaib.warc.gz	0
-k.alkulaib	public.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	public.me.com-k.alkulaib.warc.gz	0
-k.alkulaib	web.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	web.me.com-k.alkulaib.warc.gz	0
-mcwally2	gallery.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	gallery.me.com-mcwally2.warc.gz	0
-mcwally2	homepage.mac.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	homepage.mac.com-mcwally2.warc.gz	0
-mcwally2	public.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	public.me.com-mcwally2.warc.gz	0
-mcwally2	web.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	web.me.com-mcwally2.warc.gz	0
-mgeorgopoulos	gallery.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	gallery.me.com-mgeorgopoulos.warc.gz	0
-mgeorgopoulos	homepage.mac.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	homepage.mac.com-mgeorgopoulos.warc.gz	0
-mgeorgopoulos	public.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	public.me.com-mgeorgopoulos.warc.gz	0
-mgeorgopoulos	web.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	web.me.com-mgeorgopoulos.warc.gz	0
-richsnooks	gallery.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	gallery.me.com-richsnooks.warc.gz	0
-richsnooks	homepage.mac.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	homepage.mac.com-richsnooks.warc.gz	0
-richsnooks	public.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	public.me.com-richsnooks.warc.gz	0
-richsnooks	web.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	web.me.com-richsnooks.warc.gz	0
-stewartann	gallery.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	gallery.me.com-stewartann.warc.gz	0
-stewartann	homepage.mac.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	homepage.mac.com-stewartann.warc.gz	0
-stewartann	public.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	public.me.com-stewartann.warc.gz	0
-stewartann	web.me.com		archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	web.me.com-stewartann.warc.gz	0
+aheilman	gallery.me.com	2012-04-05 20:15:44	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	gallery.me.com-aheilman.warc.gz	896083900
+aheilman	homepage.mac.com	2012-04-05 20:15:45	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	homepage.mac.com-aheilman.warc.gz	4890
+aheilman	public.me.com	2012-04-05 19:59:59	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	public.me.com-aheilman.warc.gz	1908
+aheilman	web.me.com	2012-04-05 19:59:58	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	web.me.com-aheilman.warc.gz	9353217
+jibgjar	gallery.me.com	2012-04-05 23:36:26	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	gallery.me.com-jibgjar.warc.gz	1287895840
+jibgjar	homepage.mac.com	2012-04-05 23:36:38	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	homepage.mac.com-jibgjar.warc.gz	170828
+jibgjar	public.me.com	2012-04-05 22:47:09	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	public.me.com-jibgjar.warc.gz	1914
+jibgjar	web.me.com	2012-04-05 22:47:07	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	web.me.com-jibgjar.warc.gz	246014211
+k.alkulaib	gallery.me.com	2012-04-05 22:27:30	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	gallery.me.com-k.alkulaib.warc.gz	38642226
+k.alkulaib	homepage.mac.com	2012-04-05 22:27:30	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	homepage.mac.com-k.alkulaib.warc.gz	9433
+k.alkulaib	public.me.com	2012-04-05 22:27:12	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	public.me.com-k.alkulaib.warc.gz	450941160
+k.alkulaib	web.me.com	2012-04-05 22:22:34	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	web.me.com-k.alkulaib.warc.gz	1911701
+mcwally2	gallery.me.com	2012-04-05 22:22:05	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	gallery.me.com-mcwally2.warc.gz	7883
+mcwally2	homepage.mac.com	2012-04-05 22:22:05	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	homepage.mac.com-mcwally2.warc.gz	4895
+mcwally2	public.me.com	2012-04-05 22:22:03	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	public.me.com-mcwally2.warc.gz	1911
+mcwally2	web.me.com	2012-04-05 22:22:02	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	web.me.com-mcwally2.warc.gz	337662132
+mgeorgopoulos	gallery.me.com	2012-04-05 20:49:19	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	gallery.me.com-mgeorgopoulos.warc.gz	651902501
+mgeorgopoulos	homepage.mac.com	2012-04-05 20:50:01	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	homepage.mac.com-mgeorgopoulos.warc.gz	482650
+mgeorgopoulos	public.me.com	2012-04-05 20:25:41	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	public.me.com-mgeorgopoulos.warc.gz	1926
+mgeorgopoulos	web.me.com	2012-04-05 20:25:41	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	web.me.com-mgeorgopoulos.warc.gz	136497296
+richsnooks	gallery.me.com	2012-04-05 21:21:09	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	gallery.me.com-richsnooks.warc.gz	79849080
+richsnooks	homepage.mac.com	2012-04-05 21:21:09	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	homepage.mac.com-richsnooks.warc.gz	4926
+richsnooks	public.me.com	2012-04-05 21:16:58	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	public.me.com-richsnooks.warc.gz	1918
+richsnooks	web.me.com	2012-04-05 21:16:56	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	web.me.com-richsnooks.warc.gz	384077310
+stewartann	gallery.me.com	2012-04-05 21:25:57	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	gallery.me.com-stewartann.warc.gz	4296
+stewartann	homepage.mac.com	2012-04-05 21:25:57	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	homepage.mac.com-stewartann.warc.gz	4917
+stewartann	public.me.com	2012-04-05 21:25:56	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	public.me.com-stewartann.warc.gz	1906
+stewartann	web.me.com	2012-04-05 21:25:56	archiveteam-mobileme-hero-443x	archiveteam-mobileme-hero-443x-4432.tar	web.me.com-stewartann.warc.gz	3710170

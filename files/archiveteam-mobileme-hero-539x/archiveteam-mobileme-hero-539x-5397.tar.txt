@@ -1,24 +1,24 @@
-a.diehlmann	gallery.me.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	gallery.me.com-a.diehlmann.warc.gz	0
-a.diehlmann	homepage.mac.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	homepage.mac.com-a.diehlmann.warc.gz	0
-a.diehlmann	public.me.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	public.me.com-a.diehlmann.warc.gz	0
-a.diehlmann	web.me.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	web.me.com-a.diehlmann.warc.gz	0
-alsfields	gallery.me.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	gallery.me.com-alsfields.warc.gz	0
-alsfields	homepage.mac.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	homepage.mac.com-alsfields.warc.gz	0
-alsfields	public.me.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	public.me.com-alsfields.warc.gz	0
-alsfields	web.me.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	web.me.com-alsfields.warc.gz	0
-lmp_photography	gallery.me.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	gallery.me.com-lmp_photography.warc.gz	0
-lmp_photography	homepage.mac.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	homepage.mac.com-lmp_photography.warc.gz	0
-lmp_photography	public.me.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	public.me.com-lmp_photography.warc.gz	0
-lmp_photography	web.me.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	web.me.com-lmp_photography.warc.gz	0
-olga.buesser	gallery.me.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	gallery.me.com-olga.buesser.warc.gz	0
-olga.buesser	homepage.mac.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	homepage.mac.com-olga.buesser.warc.gz	0
-olga.buesser	public.me.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	public.me.com-olga.buesser.warc.gz	0
-olga.buesser	web.me.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	web.me.com-olga.buesser.warc.gz	0
-tinnahcm	gallery.me.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	gallery.me.com-tinnahcm.warc.gz	0
-tinnahcm	homepage.mac.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	homepage.mac.com-tinnahcm.warc.gz	0
-tinnahcm	public.me.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	public.me.com-tinnahcm.warc.gz	0
-tinnahcm	web.me.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	web.me.com-tinnahcm.warc.gz	0
-wes.parietti	gallery.me.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	gallery.me.com-wes.parietti.warc.gz	0
-wes.parietti	homepage.mac.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	homepage.mac.com-wes.parietti.warc.gz	0
-wes.parietti	public.me.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	public.me.com-wes.parietti.warc.gz	0
-wes.parietti	web.me.com		archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	web.me.com-wes.parietti.warc.gz	0
+a.diehlmann	gallery.me.com	2012-04-09 06:47:46	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	gallery.me.com-a.diehlmann.warc.gz	110274450
+a.diehlmann	homepage.mac.com	2012-04-09 06:47:47	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	homepage.mac.com-a.diehlmann.warc.gz	4933
+a.diehlmann	public.me.com	2012-04-09 06:44:44	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	public.me.com-a.diehlmann.warc.gz	385270260
+a.diehlmann	web.me.com	2012-04-09 06:35:52	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	web.me.com-a.diehlmann.warc.gz	51612592
+alsfields	gallery.me.com	2012-04-09 06:28:06	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	gallery.me.com-alsfields.warc.gz	2169110995
+alsfields	homepage.mac.com	2012-04-09 06:28:07	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	homepage.mac.com-alsfields.warc.gz	4910
+alsfields	public.me.com	2012-04-09 05:05:10	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	public.me.com-alsfields.warc.gz	1908
+alsfields	web.me.com	2012-04-09 05:05:07	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	web.me.com-alsfields.warc.gz	287062278
+lmp_photography	gallery.me.com	2012-04-09 06:30:53	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	gallery.me.com-lmp_photography.warc.gz	4315
+lmp_photography	homepage.mac.com	2012-04-09 06:30:53	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	homepage.mac.com-lmp_photography.warc.gz	4942
+lmp_photography	public.me.com	2012-04-09 06:30:52	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	public.me.com-lmp_photography.warc.gz	1933
+lmp_photography	web.me.com	2012-04-09 06:30:52	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	web.me.com-lmp_photography.warc.gz	2430141
+olga.buesser	gallery.me.com	2012-04-09 07:19:40	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	gallery.me.com-olga.buesser.warc.gz	5010
+olga.buesser	homepage.mac.com	2012-04-09 07:19:40	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	homepage.mac.com-olga.buesser.warc.gz	4937
+olga.buesser	public.me.com	2012-04-09 07:19:39	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	public.me.com-olga.buesser.warc.gz	1927
+olga.buesser	web.me.com	2012-04-09 07:19:38	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	web.me.com-olga.buesser.warc.gz	72231579
+tinnahcm	gallery.me.com	2012-04-09 08:19:29	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	gallery.me.com-tinnahcm.warc.gz	178748268
+tinnahcm	homepage.mac.com	2012-04-09 08:20:54	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	homepage.mac.com-tinnahcm.warc.gz	2072385
+tinnahcm	public.me.com	2012-04-09 08:17:09	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	public.me.com-tinnahcm.warc.gz	1908
+tinnahcm	web.me.com	2012-04-09 08:17:06	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	web.me.com-tinnahcm.warc.gz	914400699
+wes.parietti	gallery.me.com	2012-04-09 06:51:32	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	gallery.me.com-wes.parietti.warc.gz	5223847
+wes.parietti	homepage.mac.com	2012-04-09 06:51:32	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	homepage.mac.com-wes.parietti.warc.gz	4927
+wes.parietti	public.me.com	2012-04-09 06:51:11	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	public.me.com-wes.parietti.warc.gz	61349186
+wes.parietti	web.me.com	2012-04-09 06:50:32	archiveteam-mobileme-hero-539x	archiveteam-mobileme-hero-539x-5397.tar	web.me.com-wes.parietti.warc.gz	10493154

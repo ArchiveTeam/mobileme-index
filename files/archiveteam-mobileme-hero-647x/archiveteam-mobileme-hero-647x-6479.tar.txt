@@ -1,20 +1,20 @@
-btburt	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	gallery.me.com-btburt.warc.gz	0
-btburt	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	homepage.mac.com-btburt.warc.gz	0
-btburt	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	public.me.com-btburt.warc.gz	0
-btburt	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	web.me.com-btburt.warc.gz	0
-carole.stlaurent	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	gallery.me.com-carole.stlaurent.warc.gz	0
-carole.stlaurent	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	homepage.mac.com-carole.stlaurent.warc.gz	0
-carole.stlaurent	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	public.me.com-carole.stlaurent.warc.gz	0
-carole.stlaurent	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	web.me.com-carole.stlaurent.warc.gz	0
-danielmagen	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	gallery.me.com-danielmagen.warc.gz	0
-danielmagen	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	homepage.mac.com-danielmagen.warc.gz	0
-danielmagen	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	public.me.com-danielmagen.warc.gz	0
-danielmagen	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	web.me.com-danielmagen.warc.gz	0
-rg500delta	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	gallery.me.com-rg500delta.warc.gz	0
-rg500delta	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	homepage.mac.com-rg500delta.warc.gz	0
-rg500delta	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	public.me.com-rg500delta.warc.gz	0
-rg500delta	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	web.me.com-rg500delta.warc.gz	0
-rmclaugh	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	gallery.me.com-rmclaugh.warc.gz	0
-rmclaugh	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	homepage.mac.com-rmclaugh.warc.gz	0
-rmclaugh	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	public.me.com-rmclaugh.warc.gz	0
-rmclaugh	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	web.me.com-rmclaugh.warc.gz	0
+btburt	gallery.me.com	2012-04-11 11:36:10	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	gallery.me.com-btburt.warc.gz	4239
+btburt	homepage.mac.com	2012-04-11 11:36:19	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	homepage.mac.com-btburt.warc.gz	130885
+btburt	public.me.com	2012-04-11 11:36:06	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	public.me.com-btburt.warc.gz	3376
+btburt	web.me.com	2012-04-11 11:35:52	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	web.me.com-btburt.warc.gz	26080829
+carole.stlaurent	gallery.me.com	2012-04-11 11:27:54	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	gallery.me.com-carole.stlaurent.warc.gz	853534706
+carole.stlaurent	homepage.mac.com	2012-04-11 11:28:04	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	homepage.mac.com-carole.stlaurent.warc.gz	58108
+carole.stlaurent	public.me.com	2012-04-11 11:09:39	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	public.me.com-carole.stlaurent.warc.gz	1928
+carole.stlaurent	web.me.com	2012-04-11 11:09:22	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	web.me.com-carole.stlaurent.warc.gz	89282500
+danielmagen	gallery.me.com	2012-04-11 10:55:32	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	gallery.me.com-danielmagen.warc.gz	238105992
+danielmagen	homepage.mac.com	2012-04-11 10:55:40	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	homepage.mac.com-danielmagen.warc.gz	36921
+danielmagen	public.me.com	2012-04-11 10:49:28	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	public.me.com-danielmagen.warc.gz	4540809
+danielmagen	web.me.com	2012-04-11 10:48:47	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	web.me.com-danielmagen.warc.gz	200556007
+rg500delta	gallery.me.com	2012-04-11 18:06:23	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	gallery.me.com-rg500delta.warc.gz	3384499848
+rg500delta	homepage.mac.com	2012-04-11 18:06:26	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	homepage.mac.com-rg500delta.warc.gz	44000
+rg500delta	public.me.com	2012-04-11 13:45:26	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	public.me.com-rg500delta.warc.gz	3885625557
+rg500delta	web.me.com	2012-04-11 12:16:21	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	web.me.com-rg500delta.warc.gz	320895887
+rmclaugh	gallery.me.com	2012-04-11 11:38:06	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	gallery.me.com-rmclaugh.warc.gz	5320
+rmclaugh	homepage.mac.com	2012-04-11 11:38:21	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	homepage.mac.com-rmclaugh.warc.gz	200380
+rmclaugh	public.me.com	2012-04-11 11:38:01	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	public.me.com-rmclaugh.warc.gz	3379
+rmclaugh	web.me.com	2012-04-11 11:37:55	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6479.tar	web.me.com-rmclaugh.warc.gz	1628149

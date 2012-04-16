@@ -1,8 +1,8 @@
-leonkeller	gallery.me.com		archiveteam-mobileme-hero-366x	archiveteam-mobileme-hero-366x-3666.tar	gallery.me.com-leonkeller.warc.gz	0
-leonkeller	homepage.mac.com		archiveteam-mobileme-hero-366x	archiveteam-mobileme-hero-366x-3666.tar	homepage.mac.com-leonkeller.warc.gz	0
-leonkeller	public.me.com		archiveteam-mobileme-hero-366x	archiveteam-mobileme-hero-366x-3666.tar	public.me.com-leonkeller.warc.gz	0
-leonkeller	web.me.com		archiveteam-mobileme-hero-366x	archiveteam-mobileme-hero-366x-3666.tar	web.me.com-leonkeller.warc.gz	0
-twiese	gallery.me.com		archiveteam-mobileme-hero-366x	archiveteam-mobileme-hero-366x-3666.tar	gallery.me.com-twiese.warc.gz	0
-twiese	homepage.mac.com		archiveteam-mobileme-hero-366x	archiveteam-mobileme-hero-366x-3666.tar	homepage.mac.com-twiese.warc.gz	0
-twiese	public.me.com		archiveteam-mobileme-hero-366x	archiveteam-mobileme-hero-366x-3666.tar	public.me.com-twiese.warc.gz	0
-twiese	web.me.com		archiveteam-mobileme-hero-366x	archiveteam-mobileme-hero-366x-3666.tar	web.me.com-twiese.warc.gz	0
+leonkeller	gallery.me.com	2012-04-04 00:46:05	archiveteam-mobileme-hero-366x	archiveteam-mobileme-hero-366x-3666.tar	gallery.me.com-leonkeller.warc.gz	33164443
+leonkeller	homepage.mac.com	2012-04-04 00:46:05	archiveteam-mobileme-hero-366x	archiveteam-mobileme-hero-366x-3666.tar	homepage.mac.com-leonkeller.warc.gz	4921
+leonkeller	public.me.com	2012-04-04 00:44:13	archiveteam-mobileme-hero-366x	archiveteam-mobileme-hero-366x-3666.tar	public.me.com-leonkeller.warc.gz	246085426
+leonkeller	web.me.com	2012-04-04 00:38:00	archiveteam-mobileme-hero-366x	archiveteam-mobileme-hero-366x-3666.tar	web.me.com-leonkeller.warc.gz	75341704
+twiese	gallery.me.com	2012-04-04 04:25:44	archiveteam-mobileme-hero-366x	archiveteam-mobileme-hero-366x-3666.tar	gallery.me.com-twiese.warc.gz	4208585746
+twiese	homepage.mac.com	2012-04-04 04:28:11	archiveteam-mobileme-hero-366x	archiveteam-mobileme-hero-366x-3666.tar	homepage.mac.com-twiese.warc.gz	1876936
+twiese	public.me.com	2012-04-04 01:39:44	archiveteam-mobileme-hero-366x	archiveteam-mobileme-hero-366x-3666.tar	public.me.com-twiese.warc.gz	471421365
+twiese	web.me.com	2012-04-04 01:32:49	archiveteam-mobileme-hero-366x	archiveteam-mobileme-hero-366x-3666.tar	web.me.com-twiese.warc.gz	687708700

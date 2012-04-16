@@ -1,16 +1,16 @@
-bgrouvel	gallery.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	gallery.me.com-bgrouvel.warc.gz	0
-bgrouvel	homepage.mac.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	homepage.mac.com-bgrouvel.warc.gz	0
-bgrouvel	public.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	public.me.com-bgrouvel.warc.gz	0
-bgrouvel	web.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	web.me.com-bgrouvel.warc.gz	0
-ennuibile	gallery.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	gallery.me.com-ennuibile.warc.gz	0
-ennuibile	homepage.mac.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	homepage.mac.com-ennuibile.warc.gz	0
-ennuibile	public.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	public.me.com-ennuibile.warc.gz	0
-ennuibile	web.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	web.me.com-ennuibile.warc.gz	0
-jaquis	gallery.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	gallery.me.com-jaquis.warc.gz	0
-jaquis	homepage.mac.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	homepage.mac.com-jaquis.warc.gz	0
-jaquis	public.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	public.me.com-jaquis.warc.gz	0
-jaquis	web.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	web.me.com-jaquis.warc.gz	0
-stevelocations	gallery.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	gallery.me.com-stevelocations.warc.gz	0
-stevelocations	homepage.mac.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	homepage.mac.com-stevelocations.warc.gz	0
-stevelocations	public.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	public.me.com-stevelocations.warc.gz	0
-stevelocations	web.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	web.me.com-stevelocations.warc.gz	0
+bgrouvel	gallery.me.com	2012-04-11 06:45:16	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	gallery.me.com-bgrouvel.warc.gz	73166422
+bgrouvel	homepage.mac.com	2012-04-11 06:48:14	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	homepage.mac.com-bgrouvel.warc.gz	40027433
+bgrouvel	public.me.com	2012-04-11 06:44:14	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	public.me.com-bgrouvel.warc.gz	1457218
+bgrouvel	web.me.com	2012-04-11 06:44:11	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	web.me.com-bgrouvel.warc.gz	30793384
+ennuibile	gallery.me.com	2012-04-11 08:19:48	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	gallery.me.com-ennuibile.warc.gz	949420431
+ennuibile	homepage.mac.com	2012-04-11 08:19:49	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	homepage.mac.com-ennuibile.warc.gz	4915
+ennuibile	public.me.com	2012-04-11 08:02:23	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	public.me.com-ennuibile.warc.gz	1081380047
+ennuibile	web.me.com	2012-04-11 07:21:49	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	web.me.com-ennuibile.warc.gz	29411732
+jaquis	gallery.me.com	2012-04-11 06:42:19	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	gallery.me.com-jaquis.warc.gz	520335121
+jaquis	homepage.mac.com	2012-04-11 06:42:19	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	homepage.mac.com-jaquis.warc.gz	4912
+jaquis	public.me.com	2012-04-11 06:33:20	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	public.me.com-jaquis.warc.gz	1636070590
+jaquis	web.me.com	2012-04-11 06:16:54	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	web.me.com-jaquis.warc.gz	732487427
+stevelocations	gallery.me.com	2012-04-11 07:15:06	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	gallery.me.com-stevelocations.warc.gz	71086465
+stevelocations	homepage.mac.com	2012-04-11 07:15:46	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	homepage.mac.com-stevelocations.warc.gz	3762253
+stevelocations	public.me.com	2012-04-11 07:14:20	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	public.me.com-stevelocations.warc.gz	330580471
+stevelocations	web.me.com	2012-04-11 07:03:33	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6286.tar	web.me.com-stevelocations.warc.gz	54336588

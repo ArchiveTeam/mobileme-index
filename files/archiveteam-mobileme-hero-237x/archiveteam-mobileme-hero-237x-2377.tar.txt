@@ -1,20 +1,20 @@
-drumpeter1	gallery.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	gallery.me.com-drumpeter1.warc.gz	0
-drumpeter1	homepage.mac.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	homepage.mac.com-drumpeter1.warc.gz	0
-drumpeter1	public.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	public.me.com-drumpeter1.warc.gz	0
-drumpeter1	web.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	web.me.com-drumpeter1.warc.gz	0
-kamranthunder	gallery.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	gallery.me.com-kamranthunder.warc.gz	0
-kamranthunder	homepage.mac.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	homepage.mac.com-kamranthunder.warc.gz	0
-kamranthunder	public.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	public.me.com-kamranthunder.warc.gz	0
-kamranthunder	web.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	web.me.com-kamranthunder.warc.gz	0
-klouden	gallery.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	gallery.me.com-klouden.warc.gz	0
-klouden	homepage.mac.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	homepage.mac.com-klouden.warc.gz	0
-klouden	public.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	public.me.com-klouden.warc.gz	0
-klouden	web.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	web.me.com-klouden.warc.gz	0
-pierre.navarre	gallery.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	gallery.me.com-pierre.navarre.warc.gz	0
-pierre.navarre	homepage.mac.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	homepage.mac.com-pierre.navarre.warc.gz	0
-pierre.navarre	public.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	public.me.com-pierre.navarre.warc.gz	0
-pierre.navarre	web.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	web.me.com-pierre.navarre.warc.gz	0
-ricsyme	gallery.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	gallery.me.com-ricsyme.warc.gz	0
-ricsyme	homepage.mac.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	homepage.mac.com-ricsyme.warc.gz	0
-ricsyme	public.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	public.me.com-ricsyme.warc.gz	0
-ricsyme	web.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	web.me.com-ricsyme.warc.gz	0
+drumpeter1	gallery.me.com	2012-03-31 10:57:19	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	gallery.me.com-drumpeter1.warc.gz	5805
+drumpeter1	homepage.mac.com	2012-03-31 10:57:20	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	homepage.mac.com-drumpeter1.warc.gz	4924
+drumpeter1	public.me.com	2012-03-31 10:57:16	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	public.me.com-drumpeter1.warc.gz	1924
+drumpeter1	web.me.com	2012-03-31 10:57:09	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	web.me.com-drumpeter1.warc.gz	20630760
+kamranthunder	gallery.me.com	2012-03-31 10:04:02	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	gallery.me.com-kamranthunder.warc.gz	50517
+kamranthunder	homepage.mac.com	2012-03-31 10:04:02	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	homepage.mac.com-kamranthunder.warc.gz	4926
+kamranthunder	public.me.com	2012-03-31 10:04:00	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	public.me.com-kamranthunder.warc.gz	1926
+kamranthunder	web.me.com	2012-03-31 10:03:57	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	web.me.com-kamranthunder.warc.gz	3978219587
+klouden	gallery.me.com	2012-03-31 10:25:55	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	gallery.me.com-klouden.warc.gz	39624260
+klouden	homepage.mac.com	2012-03-31 10:25:58	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	homepage.mac.com-klouden.warc.gz	59058
+klouden	public.me.com	2012-03-31 10:24:22	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	public.me.com-klouden.warc.gz	92019823
+klouden	web.me.com	2012-03-31 10:16:15	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	web.me.com-klouden.warc.gz	117877417
+pierre.navarre	gallery.me.com	2012-03-31 06:00:49	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	gallery.me.com-pierre.navarre.warc.gz	4278
+pierre.navarre	homepage.mac.com	2012-03-31 06:00:49	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	homepage.mac.com-pierre.navarre.warc.gz	4945
+pierre.navarre	public.me.com	2012-03-31 06:00:47	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	public.me.com-pierre.navarre.warc.gz	1924
+pierre.navarre	web.me.com	2012-03-31 06:00:47	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	web.me.com-pierre.navarre.warc.gz	13921510
+ricsyme	gallery.me.com	2012-03-31 06:37:34	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	gallery.me.com-ricsyme.warc.gz	27138133
+ricsyme	homepage.mac.com	2012-03-31 06:37:34	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	homepage.mac.com-ricsyme.warc.gz	4911
+ricsyme	public.me.com	2012-03-31 06:33:48	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	public.me.com-ricsyme.warc.gz	1916
+ricsyme	web.me.com	2012-03-31 06:33:47	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2377.tar	web.me.com-ricsyme.warc.gz	3320335

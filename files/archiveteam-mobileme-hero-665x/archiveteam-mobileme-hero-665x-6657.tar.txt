@@ -1,16 +1,16 @@
-artforlaw	gallery.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	gallery.me.com-artforlaw.warc.gz	0
-artforlaw	homepage.mac.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	homepage.mac.com-artforlaw.warc.gz	0
-artforlaw	public.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	public.me.com-artforlaw.warc.gz	0
-artforlaw	web.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	web.me.com-artforlaw.warc.gz	0
-bautistakarla	gallery.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	gallery.me.com-bautistakarla.warc.gz	0
-bautistakarla	homepage.mac.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	homepage.mac.com-bautistakarla.warc.gz	0
-bautistakarla	public.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	public.me.com-bautistakarla.warc.gz	0
-bautistakarla	web.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	web.me.com-bautistakarla.warc.gz	0
-kazoo10	gallery.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	gallery.me.com-kazoo10.warc.gz	0
-kazoo10	homepage.mac.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	homepage.mac.com-kazoo10.warc.gz	0
-kazoo10	public.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	public.me.com-kazoo10.warc.gz	0
-kazoo10	web.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	web.me.com-kazoo10.warc.gz	0
-lynnebuscher	gallery.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	gallery.me.com-lynnebuscher.warc.gz	0
-lynnebuscher	homepage.mac.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	homepage.mac.com-lynnebuscher.warc.gz	0
-lynnebuscher	public.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	public.me.com-lynnebuscher.warc.gz	0
-lynnebuscher	web.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	web.me.com-lynnebuscher.warc.gz	0
+artforlaw	gallery.me.com	2012-04-12 06:24:28	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	gallery.me.com-artforlaw.warc.gz	4245
+artforlaw	homepage.mac.com	2012-04-12 06:24:31	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	homepage.mac.com-artforlaw.warc.gz	41273
+artforlaw	public.me.com	2012-04-12 06:24:28	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	public.me.com-artforlaw.warc.gz	1023241176
+artforlaw	web.me.com	2012-04-12 05:40:23	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	web.me.com-artforlaw.warc.gz	2283693
+bautistakarla	gallery.me.com	2012-04-12 06:42:57	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	gallery.me.com-bautistakarla.warc.gz	385603929
+bautistakarla	homepage.mac.com	2012-04-12 06:42:57	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	homepage.mac.com-bautistakarla.warc.gz	4941
+bautistakarla	public.me.com	2012-04-12 06:30:13	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	public.me.com-bautistakarla.warc.gz	1925
+bautistakarla	web.me.com	2012-04-12 06:30:13	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	web.me.com-bautistakarla.warc.gz	59611248
+kazoo10	gallery.me.com	2012-04-12 07:32:13	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	gallery.me.com-kazoo10.warc.gz	4240
+kazoo10	homepage.mac.com	2012-04-12 07:32:14	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	homepage.mac.com-kazoo10.warc.gz	4918
+kazoo10	public.me.com	2012-04-12 07:32:13	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	public.me.com-kazoo10.warc.gz	69287242
+kazoo10	web.me.com	2012-04-12 07:30:14	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	web.me.com-kazoo10.warc.gz	3789720714
+lynnebuscher	gallery.me.com	2012-04-12 05:39:29	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	gallery.me.com-lynnebuscher.warc.gz	8345
+lynnebuscher	homepage.mac.com	2012-04-12 05:39:30	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	homepage.mac.com-lynnebuscher.warc.gz	5179
+lynnebuscher	public.me.com	2012-04-12 05:39:28	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	public.me.com-lynnebuscher.warc.gz	1925
+lynnebuscher	web.me.com	2012-04-12 05:39:27	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6657.tar	web.me.com-lynnebuscher.warc.gz	17731

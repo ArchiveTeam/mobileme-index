@@ -1,4 +1,4 @@
-tscales	gallery.me.com		archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2132.tar	gallery.me.com-tscales.warc.gz	0
-tscales	homepage.mac.com		archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2132.tar	homepage.mac.com-tscales.warc.gz	0
-tscales	public.me.com		archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2132.tar	public.me.com-tscales.warc.gz	0
-tscales	web.me.com		archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2132.tar	web.me.com-tscales.warc.gz	0
+tscales	gallery.me.com	2012-03-30 13:01:13	archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2132.tar	gallery.me.com-tscales.warc.gz	5296826136
+tscales	homepage.mac.com	2012-03-30 13:01:14	archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2132.tar	homepage.mac.com-tscales.warc.gz	14688
+tscales	public.me.com	2012-03-30 09:40:13	archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2132.tar	public.me.com-tscales.warc.gz	16800
+tscales	web.me.com	2012-03-30 09:40:10	archiveteam-mobileme-hero-213x	archiveteam-mobileme-hero-213x-2132.tar	web.me.com-tscales.warc.gz	1634345962

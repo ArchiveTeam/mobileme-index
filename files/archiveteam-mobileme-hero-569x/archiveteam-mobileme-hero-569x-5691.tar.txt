@@ -1,8 +1,8 @@
-manningsf	gallery.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5691.tar	gallery.me.com-manningsf.warc.gz	0
-manningsf	homepage.mac.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5691.tar	homepage.mac.com-manningsf.warc.gz	0
-manningsf	public.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5691.tar	public.me.com-manningsf.warc.gz	0
-manningsf	web.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5691.tar	web.me.com-manningsf.warc.gz	0
-smescall	gallery.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5691.tar	gallery.me.com-smescall.warc.gz	0
-smescall	homepage.mac.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5691.tar	homepage.mac.com-smescall.warc.gz	0
-smescall	public.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5691.tar	public.me.com-smescall.warc.gz	0
-smescall	web.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5691.tar	web.me.com-smescall.warc.gz	0
+manningsf	gallery.me.com	2012-04-09 22:27:56	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5691.tar	gallery.me.com-manningsf.warc.gz	600499036
+manningsf	homepage.mac.com	2012-04-09 22:27:56	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5691.tar	homepage.mac.com-manningsf.warc.gz	4916
+manningsf	public.me.com	2012-04-09 22:13:55	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5691.tar	public.me.com-manningsf.warc.gz	146257686
+manningsf	web.me.com	2012-04-09 22:11:21	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5691.tar	web.me.com-manningsf.warc.gz	167248147
+smescall	gallery.me.com	2012-04-10 01:07:56	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5691.tar	gallery.me.com-smescall.warc.gz	973648
+smescall	homepage.mac.com	2012-04-10 01:07:56	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5691.tar	homepage.mac.com-smescall.warc.gz	4911
+smescall	public.me.com	2012-04-10 01:07:53	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5691.tar	public.me.com-smescall.warc.gz	6074632244
+smescall	web.me.com	2012-04-09 22:48:43	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5691.tar	web.me.com-smescall.warc.gz	25462196

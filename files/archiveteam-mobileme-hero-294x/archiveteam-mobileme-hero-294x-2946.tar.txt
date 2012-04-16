@@ -1,20 +1,20 @@
-bcrep	gallery.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	gallery.me.com-bcrep.warc.gz	0
-bcrep	homepage.mac.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	homepage.mac.com-bcrep.warc.gz	0
-bcrep	public.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	public.me.com-bcrep.warc.gz	0
-bcrep	web.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	web.me.com-bcrep.warc.gz	0
-bobbyduracel	gallery.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	gallery.me.com-bobbyduracel.warc.gz	0
-bobbyduracel	homepage.mac.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	homepage.mac.com-bobbyduracel.warc.gz	0
-bobbyduracel	public.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	public.me.com-bobbyduracel.warc.gz	0
-bobbyduracel	web.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	web.me.com-bobbyduracel.warc.gz	0
-dupas	gallery.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	gallery.me.com-dupas.warc.gz	0
-dupas	homepage.mac.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	homepage.mac.com-dupas.warc.gz	0
-dupas	public.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	public.me.com-dupas.warc.gz	0
-dupas	web.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	web.me.com-dupas.warc.gz	0
-rinny4yu	gallery.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	gallery.me.com-rinny4yu.warc.gz	0
-rinny4yu	homepage.mac.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	homepage.mac.com-rinny4yu.warc.gz	0
-rinny4yu	public.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	public.me.com-rinny4yu.warc.gz	0
-rinny4yu	web.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	web.me.com-rinny4yu.warc.gz	0
-schoell	gallery.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	gallery.me.com-schoell.warc.gz	0
-schoell	homepage.mac.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	homepage.mac.com-schoell.warc.gz	0
-schoell	public.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	public.me.com-schoell.warc.gz	0
-schoell	web.me.com		archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	web.me.com-schoell.warc.gz	0
+bcrep	gallery.me.com	2012-04-02 08:57:06	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	gallery.me.com-bcrep.warc.gz	8321
+bcrep	homepage.mac.com	2012-04-02 08:57:07	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	homepage.mac.com-bcrep.warc.gz	5149
+bcrep	public.me.com	2012-04-02 08:57:06	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	public.me.com-bcrep.warc.gz	1905
+bcrep	web.me.com	2012-04-02 08:57:06	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	web.me.com-bcrep.warc.gz	17666
+bobbyduracel	gallery.me.com	2012-04-02 12:22:07	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	gallery.me.com-bobbyduracel.warc.gz	812385311
+bobbyduracel	homepage.mac.com	2012-04-02 12:22:22	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	homepage.mac.com-bobbyduracel.warc.gz	205010
+bobbyduracel	public.me.com	2012-04-02 11:58:13	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	public.me.com-bobbyduracel.warc.gz	4777772138
+bobbyduracel	web.me.com	2012-04-02 10:49:37	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	web.me.com-bobbyduracel.warc.gz	2620305546
+dupas	gallery.me.com	2012-04-02 09:13:21	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	gallery.me.com-dupas.warc.gz	401437066
+dupas	homepage.mac.com	2012-04-02 09:13:21	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	homepage.mac.com-dupas.warc.gz	4895
+dupas	public.me.com	2012-04-02 09:07:01	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	public.me.com-dupas.warc.gz	1903
+dupas	web.me.com	2012-04-02 09:07:00	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	web.me.com-dupas.warc.gz	8614542
+rinny4yu	gallery.me.com	2012-04-02 09:04:54	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	gallery.me.com-rinny4yu.warc.gz	154333557
+rinny4yu	homepage.mac.com	2012-04-02 09:04:57	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	homepage.mac.com-rinny4yu.warc.gz	395140
+rinny4yu	public.me.com	2012-04-02 09:03:31	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	public.me.com-rinny4yu.warc.gz	1917
+rinny4yu	web.me.com	2012-04-02 09:03:30	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	web.me.com-rinny4yu.warc.gz	134335308
+schoell	gallery.me.com	2012-04-02 08:57:04	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	gallery.me.com-schoell.warc.gz	7552
+schoell	homepage.mac.com	2012-04-02 08:57:04	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	homepage.mac.com-schoell.warc.gz	4899
+schoell	public.me.com	2012-04-02 08:57:02	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	public.me.com-schoell.warc.gz	1915
+schoell	web.me.com	2012-04-02 08:57:02	archiveteam-mobileme-hero-294x	archiveteam-mobileme-hero-294x-2946.tar	web.me.com-schoell.warc.gz	43730

@@ -1,12 +1,12 @@
-hiroko_honma0626	gallery.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	gallery.me.com-hiroko_honma0626.warc.gz	0
-hiroko_honma0626	homepage.mac.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	homepage.mac.com-hiroko_honma0626.warc.gz	0
-hiroko_honma0626	public.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	public.me.com-hiroko_honma0626.warc.gz	0
-hiroko_honma0626	web.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	web.me.com-hiroko_honma0626.warc.gz	0
-john.mu	gallery.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	gallery.me.com-john.mu.warc.gz	0
-john.mu	homepage.mac.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	homepage.mac.com-john.mu.warc.gz	0
-john.mu	public.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	public.me.com-john.mu.warc.gz	0
-john.mu	web.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	web.me.com-john.mu.warc.gz	0
-twoflans	gallery.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	gallery.me.com-twoflans.warc.gz	0
-twoflans	homepage.mac.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	homepage.mac.com-twoflans.warc.gz	0
-twoflans	public.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	public.me.com-twoflans.warc.gz	0
-twoflans	web.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	web.me.com-twoflans.warc.gz	0
+hiroko_honma0626	gallery.me.com	2012-04-12 12:56:24	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	gallery.me.com-hiroko_honma0626.warc.gz	8847
+hiroko_honma0626	homepage.mac.com	2012-04-12 12:56:24	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	homepage.mac.com-hiroko_honma0626.warc.gz	4956
+hiroko_honma0626	public.me.com	2012-04-12 12:56:18	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	public.me.com-hiroko_honma0626.warc.gz	1941
+hiroko_honma0626	web.me.com	2012-04-12 12:56:17	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	web.me.com-hiroko_honma0626.warc.gz	14736736
+john.mu	gallery.me.com	2012-04-12 22:39:58	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	gallery.me.com-john.mu.warc.gz	6341524501
+john.mu	homepage.mac.com	2012-04-12 22:40:03	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	homepage.mac.com-john.mu.warc.gz	4889
+john.mu	public.me.com	2012-04-12 16:42:03	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	public.me.com-john.mu.warc.gz	152030465
+john.mu	web.me.com	2012-04-12 16:35:05	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	web.me.com-john.mu.warc.gz	60584577
+twoflans	gallery.me.com	2012-04-12 15:57:58	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	gallery.me.com-twoflans.warc.gz	2440495030
+twoflans	homepage.mac.com	2012-04-12 15:57:58	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	homepage.mac.com-twoflans.warc.gz	4915
+twoflans	public.me.com	2012-04-12 14:35:47	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	public.me.com-twoflans.warc.gz	1914
+twoflans	web.me.com	2012-04-12 14:35:44	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6999.tar	web.me.com-twoflans.warc.gz	853800002

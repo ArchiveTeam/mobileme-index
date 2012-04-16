@@ -1,16 +1,16 @@
-blackcat_callen	gallery.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	gallery.me.com-blackcat_callen.warc.gz	0
-blackcat_callen	homepage.mac.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	homepage.mac.com-blackcat_callen.warc.gz	0
-blackcat_callen	public.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	public.me.com-blackcat_callen.warc.gz	0
-blackcat_callen	web.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	web.me.com-blackcat_callen.warc.gz	0
-ekalexjr	gallery.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	gallery.me.com-ekalexjr.warc.gz	0
-ekalexjr	homepage.mac.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	homepage.mac.com-ekalexjr.warc.gz	0
-ekalexjr	public.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	public.me.com-ekalexjr.warc.gz	0
-ekalexjr	web.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	web.me.com-ekalexjr.warc.gz	0
-kohnfamily	gallery.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	gallery.me.com-kohnfamily.warc.gz	0
-kohnfamily	homepage.mac.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	homepage.mac.com-kohnfamily.warc.gz	0
-kohnfamily	public.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	public.me.com-kohnfamily.warc.gz	0
-kohnfamily	web.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	web.me.com-kohnfamily.warc.gz	0
-nick_weiss	gallery.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	gallery.me.com-nick_weiss.warc.gz	0
-nick_weiss	homepage.mac.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	homepage.mac.com-nick_weiss.warc.gz	0
-nick_weiss	public.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	public.me.com-nick_weiss.warc.gz	0
-nick_weiss	web.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	web.me.com-nick_weiss.warc.gz	0
+blackcat_callen	gallery.me.com	2012-04-11 07:11:34	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	gallery.me.com-blackcat_callen.warc.gz	8381
+blackcat_callen	homepage.mac.com	2012-04-11 07:11:34	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	homepage.mac.com-blackcat_callen.warc.gz	5197
+blackcat_callen	public.me.com	2012-04-11 07:11:31	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	public.me.com-blackcat_callen.warc.gz	1930
+blackcat_callen	web.me.com	2012-04-11 07:11:30	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	web.me.com-blackcat_callen.warc.gz	17797
+ekalexjr	gallery.me.com	2012-04-11 13:29:20	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	gallery.me.com-ekalexjr.warc.gz	2896812660
+ekalexjr	homepage.mac.com	2012-04-11 13:29:26	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	homepage.mac.com-ekalexjr.warc.gz	4916
+ekalexjr	public.me.com	2012-04-11 11:49:40	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	public.me.com-ekalexjr.warc.gz	278425675
+ekalexjr	web.me.com	2012-04-11 11:03:59	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	web.me.com-ekalexjr.warc.gz	1609348567
+kohnfamily	gallery.me.com	2012-04-11 07:11:27	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	gallery.me.com-kohnfamily.warc.gz	701283748
+kohnfamily	homepage.mac.com	2012-04-11 07:11:27	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	homepage.mac.com-kohnfamily.warc.gz	4917
+kohnfamily	public.me.com	2012-04-11 06:15:58	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	public.me.com-kohnfamily.warc.gz	1921
+kohnfamily	web.me.com	2012-04-11 06:15:56	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	web.me.com-kohnfamily.warc.gz	39949303
+nick_weiss	gallery.me.com	2012-04-11 05:30:03	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	gallery.me.com-nick_weiss.warc.gz	13777
+nick_weiss	homepage.mac.com	2012-04-11 05:30:04	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	homepage.mac.com-nick_weiss.warc.gz	4928
+nick_weiss	public.me.com	2012-04-11 05:30:00	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	public.me.com-nick_weiss.warc.gz	3476
+nick_weiss	web.me.com	2012-04-11 05:29:55	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6398.tar	web.me.com-nick_weiss.warc.gz	5743373

@@ -1,16 +1,16 @@
-catstone	gallery.me.com		archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	gallery.me.com-catstone.warc.gz	0
-catstone	homepage.mac.com		archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	homepage.mac.com-catstone.warc.gz	0
-catstone	public.me.com		archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	public.me.com-catstone.warc.gz	0
-catstone	web.me.com		archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	web.me.com-catstone.warc.gz	0
-christophe.guisgant	gallery.me.com		archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	gallery.me.com-christophe.guisgant.warc.gz	0
-christophe.guisgant	homepage.mac.com		archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	homepage.mac.com-christophe.guisgant.warc.gz	0
-christophe.guisgant	public.me.com		archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	public.me.com-christophe.guisgant.warc.gz	0
-christophe.guisgant	web.me.com		archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	web.me.com-christophe.guisgant.warc.gz	0
-rcordova76	gallery.me.com		archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	gallery.me.com-rcordova76.warc.gz	0
-rcordova76	homepage.mac.com		archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	homepage.mac.com-rcordova76.warc.gz	0
-rcordova76	public.me.com		archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	public.me.com-rcordova76.warc.gz	0
-rcordova76	web.me.com		archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	web.me.com-rcordova76.warc.gz	0
-windsorschool	gallery.me.com		archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	gallery.me.com-windsorschool.warc.gz	0
-windsorschool	homepage.mac.com		archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	homepage.mac.com-windsorschool.warc.gz	0
-windsorschool	public.me.com		archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	public.me.com-windsorschool.warc.gz	0
-windsorschool	web.me.com		archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	web.me.com-windsorschool.warc.gz	0
+catstone	gallery.me.com	2012-04-10 06:10:13	archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	gallery.me.com-catstone.warc.gz	851326811
+catstone	homepage.mac.com	2012-04-10 06:10:13	archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	homepage.mac.com-catstone.warc.gz	4903
+catstone	public.me.com	2012-04-10 05:49:57	archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	public.me.com-catstone.warc.gz	15799
+catstone	web.me.com	2012-04-10 05:49:56	archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	web.me.com-catstone.warc.gz	162312188
+christophe.guisgant	gallery.me.com	2012-04-10 07:53:00	archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	gallery.me.com-christophe.guisgant.warc.gz	990385677
+christophe.guisgant	homepage.mac.com	2012-04-10 07:53:00	archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	homepage.mac.com-christophe.guisgant.warc.gz	4942
+christophe.guisgant	public.me.com	2012-04-10 07:33:49	archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	public.me.com-christophe.guisgant.warc.gz	8922369
+christophe.guisgant	web.me.com	2012-04-10 07:33:11	archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	web.me.com-christophe.guisgant.warc.gz	78789151
+rcordova76	gallery.me.com	2012-04-10 05:27:44	archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	gallery.me.com-rcordova76.warc.gz	255926660
+rcordova76	homepage.mac.com	2012-04-10 05:27:57	archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	homepage.mac.com-rcordova76.warc.gz	472531
+rcordova76	public.me.com	2012-04-10 05:19:44	archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	public.me.com-rcordova76.warc.gz	1918
+rcordova76	web.me.com	2012-04-10 05:19:42	archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	web.me.com-rcordova76.warc.gz	291679553
+windsorschool	gallery.me.com	2012-04-10 07:28:02	archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	gallery.me.com-windsorschool.warc.gz	5039
+windsorschool	homepage.mac.com	2012-04-10 07:28:09	archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	homepage.mac.com-windsorschool.warc.gz	349138
+windsorschool	public.me.com	2012-04-10 07:28:00	archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	public.me.com-windsorschool.warc.gz	36661
+windsorschool	web.me.com	2012-04-10 07:27:52	archiveteam-mobileme-hero-582x	archiveteam-mobileme-hero-582x-5829.tar	web.me.com-windsorschool.warc.gz	2554726585

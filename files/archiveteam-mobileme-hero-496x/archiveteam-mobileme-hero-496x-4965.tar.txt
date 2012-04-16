@@ -1,12 +1,12 @@
-edisonultrasound	gallery.me.com		archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	gallery.me.com-edisonultrasound.warc.gz	0
-edisonultrasound	homepage.mac.com		archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	homepage.mac.com-edisonultrasound.warc.gz	0
-edisonultrasound	public.me.com		archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	public.me.com-edisonultrasound.warc.gz	0
-edisonultrasound	web.me.com		archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	web.me.com-edisonultrasound.warc.gz	0
-ifp2	gallery.me.com		archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	gallery.me.com-ifp2.warc.gz	0
-ifp2	homepage.mac.com		archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	homepage.mac.com-ifp2.warc.gz	0
-ifp2	public.me.com		archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	public.me.com-ifp2.warc.gz	0
-ifp2	web.me.com		archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	web.me.com-ifp2.warc.gz	0
-summergirl007	gallery.me.com		archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	gallery.me.com-summergirl007.warc.gz	0
-summergirl007	homepage.mac.com		archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	homepage.mac.com-summergirl007.warc.gz	0
-summergirl007	public.me.com		archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	public.me.com-summergirl007.warc.gz	0
-summergirl007	web.me.com		archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	web.me.com-summergirl007.warc.gz	0
+edisonultrasound	gallery.me.com	2012-04-07 18:55:41	archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	gallery.me.com-edisonultrasound.warc.gz	1801847783
+edisonultrasound	homepage.mac.com	2012-04-07 18:55:41	archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	homepage.mac.com-edisonultrasound.warc.gz	4939
+edisonultrasound	public.me.com	2012-04-07 18:14:48	archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	public.me.com-edisonultrasound.warc.gz	1928
+edisonultrasound	web.me.com	2012-04-07 18:14:47	archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	web.me.com-edisonultrasound.warc.gz	708140502
+ifp2	gallery.me.com	2012-04-07 17:36:11	archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	gallery.me.com-ifp2.warc.gz	4233
+ifp2	homepage.mac.com	2012-04-07 17:36:12	archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	homepage.mac.com-ifp2.warc.gz	4896
+ifp2	public.me.com	2012-04-07 17:36:11	archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	public.me.com-ifp2.warc.gz	1907
+ifp2	web.me.com	2012-04-07 17:36:10	archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	web.me.com-ifp2.warc.gz	2872353
+summergirl007	gallery.me.com	2012-04-07 21:20:48	archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	gallery.me.com-summergirl007.warc.gz	47052623
+summergirl007	homepage.mac.com	2012-04-07 21:20:49	archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	homepage.mac.com-summergirl007.warc.gz	9425
+summergirl007	public.me.com	2012-04-07 21:17:10	archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	public.me.com-summergirl007.warc.gz	4794648355
+summergirl007	web.me.com	2012-04-07 18:56:37	archiveteam-mobileme-hero-496x	archiveteam-mobileme-hero-496x-4965.tar	web.me.com-summergirl007.warc.gz	1321197

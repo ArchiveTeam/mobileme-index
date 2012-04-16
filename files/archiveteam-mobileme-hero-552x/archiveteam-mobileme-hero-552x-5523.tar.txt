@@ -1,20 +1,20 @@
-artfulspaniel	gallery.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	gallery.me.com-artfulspaniel.warc.gz	0
-artfulspaniel	homepage.mac.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	homepage.mac.com-artfulspaniel.warc.gz	0
-artfulspaniel	public.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	public.me.com-artfulspaniel.warc.gz	0
-artfulspaniel	web.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	web.me.com-artfulspaniel.warc.gz	0
-dias.gus	gallery.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	gallery.me.com-dias.gus.warc.gz	0
-dias.gus	homepage.mac.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	homepage.mac.com-dias.gus.warc.gz	0
-dias.gus	public.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	public.me.com-dias.gus.warc.gz	0
-dias.gus	web.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	web.me.com-dias.gus.warc.gz	0
-jacobkim	gallery.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	gallery.me.com-jacobkim.warc.gz	0
-jacobkim	homepage.mac.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	homepage.mac.com-jacobkim.warc.gz	0
-jacobkim	public.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	public.me.com-jacobkim.warc.gz	0
-jacobkim	web.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	web.me.com-jacobkim.warc.gz	0
-spitbird	gallery.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	gallery.me.com-spitbird.warc.gz	0
-spitbird	homepage.mac.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	homepage.mac.com-spitbird.warc.gz	0
-spitbird	public.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	public.me.com-spitbird.warc.gz	0
-spitbird	web.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	web.me.com-spitbird.warc.gz	0
-stephan.boyer	gallery.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	gallery.me.com-stephan.boyer.warc.gz	0
-stephan.boyer	homepage.mac.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	homepage.mac.com-stephan.boyer.warc.gz	0
-stephan.boyer	public.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	public.me.com-stephan.boyer.warc.gz	0
-stephan.boyer	web.me.com		archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	web.me.com-stephan.boyer.warc.gz	0
+artfulspaniel	gallery.me.com	2012-04-09 12:40:26	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	gallery.me.com-artfulspaniel.warc.gz	1082920611
+artfulspaniel	homepage.mac.com	2012-04-09 12:40:26	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	homepage.mac.com-artfulspaniel.warc.gz	4944
+artfulspaniel	public.me.com	2012-04-09 12:30:02	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	public.me.com-artfulspaniel.warc.gz	1926
+artfulspaniel	web.me.com	2012-04-09 12:30:02	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	web.me.com-artfulspaniel.warc.gz	370955521
+dias.gus	gallery.me.com	2012-04-09 12:02:22	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	gallery.me.com-dias.gus.warc.gz	5231
+dias.gus	homepage.mac.com	2012-04-09 12:02:22	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	homepage.mac.com-dias.gus.warc.gz	4919
+dias.gus	public.me.com	2012-04-09 12:02:21	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	public.me.com-dias.gus.warc.gz	1912
+dias.gus	web.me.com	2012-04-09 12:02:19	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	web.me.com-dias.gus.warc.gz	698655921
+jacobkim	gallery.me.com	2012-04-09 11:43:06	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	gallery.me.com-jacobkim.warc.gz	19978418
+jacobkim	homepage.mac.com	2012-04-09 11:43:07	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	homepage.mac.com-jacobkim.warc.gz	4915
+jacobkim	public.me.com	2012-04-09 11:41:11	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	public.me.com-jacobkim.warc.gz	1921
+jacobkim	web.me.com	2012-04-09 11:41:11	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	web.me.com-jacobkim.warc.gz	133996666
+spitbird	gallery.me.com	2012-04-09 13:59:10	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	gallery.me.com-spitbird.warc.gz	1014819404
+spitbird	homepage.mac.com	2012-04-09 13:59:14	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	homepage.mac.com-spitbird.warc.gz	125336
+spitbird	public.me.com	2012-04-09 13:29:22	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	public.me.com-spitbird.warc.gz	179651303
+spitbird	web.me.com	2012-04-09 13:23:02	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	web.me.com-spitbird.warc.gz	607959399
+stephan.boyer	gallery.me.com	2012-04-09 14:58:46	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	gallery.me.com-stephan.boyer.warc.gz	1073603599
+stephan.boyer	homepage.mac.com	2012-04-09 14:58:46	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	homepage.mac.com-stephan.boyer.warc.gz	4915
+stephan.boyer	public.me.com	2012-04-09 14:37:54	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	public.me.com-stephan.boyer.warc.gz	1676002338
+stephan.boyer	web.me.com	2012-04-09 14:27:02	archiveteam-mobileme-hero-552x	archiveteam-mobileme-hero-552x-5523.tar	web.me.com-stephan.boyer.warc.gz	387326409

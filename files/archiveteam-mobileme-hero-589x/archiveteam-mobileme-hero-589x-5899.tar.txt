@@ -1,8 +1,8 @@
-c815720195	gallery.me.com		archiveteam-mobileme-hero-589x	archiveteam-mobileme-hero-589x-5899.tar	gallery.me.com-c815720195.warc.gz	0
-c815720195	homepage.mac.com		archiveteam-mobileme-hero-589x	archiveteam-mobileme-hero-589x-5899.tar	homepage.mac.com-c815720195.warc.gz	0
-c815720195	public.me.com		archiveteam-mobileme-hero-589x	archiveteam-mobileme-hero-589x-5899.tar	public.me.com-c815720195.warc.gz	0
-c815720195	web.me.com		archiveteam-mobileme-hero-589x	archiveteam-mobileme-hero-589x-5899.tar	web.me.com-c815720195.warc.gz	0
-hempelchen	gallery.me.com		archiveteam-mobileme-hero-589x	archiveteam-mobileme-hero-589x-5899.tar	gallery.me.com-hempelchen.warc.gz	0
-hempelchen	homepage.mac.com		archiveteam-mobileme-hero-589x	archiveteam-mobileme-hero-589x-5899.tar	homepage.mac.com-hempelchen.warc.gz	0
-hempelchen	public.me.com		archiveteam-mobileme-hero-589x	archiveteam-mobileme-hero-589x-5899.tar	public.me.com-hempelchen.warc.gz	0
-hempelchen	web.me.com		archiveteam-mobileme-hero-589x	archiveteam-mobileme-hero-589x-5899.tar	web.me.com-hempelchen.warc.gz	0
+c815720195	gallery.me.com	2012-04-10 08:24:25	archiveteam-mobileme-hero-589x	archiveteam-mobileme-hero-589x-5899.tar	gallery.me.com-c815720195.warc.gz	8351
+c815720195	homepage.mac.com	2012-04-10 08:24:26	archiveteam-mobileme-hero-589x	archiveteam-mobileme-hero-589x-5899.tar	homepage.mac.com-c815720195.warc.gz	5176
+c815720195	public.me.com	2012-04-10 08:24:25	archiveteam-mobileme-hero-589x	archiveteam-mobileme-hero-589x-5899.tar	public.me.com-c815720195.warc.gz	1922
+c815720195	web.me.com	2012-04-10 08:24:25	archiveteam-mobileme-hero-589x	archiveteam-mobileme-hero-589x-5899.tar	web.me.com-c815720195.warc.gz	17720
+hempelchen	gallery.me.com	2012-04-10 10:58:34	archiveteam-mobileme-hero-589x	archiveteam-mobileme-hero-589x-5899.tar	gallery.me.com-hempelchen.warc.gz	7388457253
+hempelchen	homepage.mac.com	2012-04-10 10:58:35	archiveteam-mobileme-hero-589x	archiveteam-mobileme-hero-589x-5899.tar	homepage.mac.com-hempelchen.warc.gz	4928
+hempelchen	public.me.com	2012-04-10 09:05:18	archiveteam-mobileme-hero-589x	archiveteam-mobileme-hero-589x-5899.tar	public.me.com-hempelchen.warc.gz	486613
+hempelchen	web.me.com	2012-04-10 09:05:16	archiveteam-mobileme-hero-589x	archiveteam-mobileme-hero-589x-5899.tar	web.me.com-hempelchen.warc.gz	286833241

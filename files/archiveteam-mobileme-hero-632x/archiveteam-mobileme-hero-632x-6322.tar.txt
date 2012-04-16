@@ -1,20 +1,20 @@
-a.shin	gallery.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	gallery.me.com-a.shin.warc.gz	0
-a.shin	homepage.mac.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	homepage.mac.com-a.shin.warc.gz	0
-a.shin	public.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	public.me.com-a.shin.warc.gz	0
-a.shin	web.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	web.me.com-a.shin.warc.gz	0
-andrejkrause	gallery.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	gallery.me.com-andrejkrause.warc.gz	0
-andrejkrause	homepage.mac.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	homepage.mac.com-andrejkrause.warc.gz	0
-andrejkrause	public.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	public.me.com-andrejkrause.warc.gz	0
-andrejkrause	web.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	web.me.com-andrejkrause.warc.gz	0
-jssjac9000	gallery.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	gallery.me.com-jssjac9000.warc.gz	0
-jssjac9000	homepage.mac.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	homepage.mac.com-jssjac9000.warc.gz	0
-jssjac9000	public.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	public.me.com-jssjac9000.warc.gz	0
-jssjac9000	web.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	web.me.com-jssjac9000.warc.gz	0
-ra85	gallery.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	gallery.me.com-ra85.warc.gz	0
-ra85	homepage.mac.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	homepage.mac.com-ra85.warc.gz	0
-ra85	public.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	public.me.com-ra85.warc.gz	0
-ra85	web.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	web.me.com-ra85.warc.gz	0
-xgrrl	gallery.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	gallery.me.com-xgrrl.warc.gz	0
-xgrrl	homepage.mac.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	homepage.mac.com-xgrrl.warc.gz	0
-xgrrl	public.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	public.me.com-xgrrl.warc.gz	0
-xgrrl	web.me.com		archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	web.me.com-xgrrl.warc.gz	0
+a.shin	gallery.me.com	2012-04-11 07:06:26	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	gallery.me.com-a.shin.warc.gz	8340
+a.shin	homepage.mac.com	2012-04-11 07:06:26	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	homepage.mac.com-a.shin.warc.gz	5170
+a.shin	public.me.com	2012-04-11 07:06:26	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	public.me.com-a.shin.warc.gz	1914
+a.shin	web.me.com	2012-04-11 07:06:26	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	web.me.com-a.shin.warc.gz	17667
+andrejkrause	gallery.me.com	2012-04-11 10:12:40	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	gallery.me.com-andrejkrause.warc.gz	451628290
+andrejkrause	homepage.mac.com	2012-04-11 10:12:40	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	homepage.mac.com-andrejkrause.warc.gz	4921
+andrejkrause	public.me.com	2012-04-11 10:04:09	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	public.me.com-andrejkrause.warc.gz	437628484
+andrejkrause	web.me.com	2012-04-11 09:54:21	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	web.me.com-andrejkrause.warc.gz	2269813345
+jssjac9000	gallery.me.com	2012-04-11 08:18:13	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	gallery.me.com-jssjac9000.warc.gz	829003908
+jssjac9000	homepage.mac.com	2012-04-11 08:18:13	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	homepage.mac.com-jssjac9000.warc.gz	4934
+jssjac9000	public.me.com	2012-04-11 07:54:21	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	public.me.com-jssjac9000.warc.gz	1040382349
+jssjac9000	web.me.com	2012-04-11 07:44:24	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	web.me.com-jssjac9000.warc.gz	125198308
+ra85	gallery.me.com	2012-04-11 07:06:23	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	gallery.me.com-ra85.warc.gz	301374055
+ra85	homepage.mac.com	2012-04-11 07:06:23	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	homepage.mac.com-ra85.warc.gz	4901
+ra85	public.me.com	2012-04-11 06:57:24	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	public.me.com-ra85.warc.gz	1909
+ra85	web.me.com	2012-04-11 06:57:24	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	web.me.com-ra85.warc.gz	44781541
+xgrrl	gallery.me.com	2012-04-11 08:54:33	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	gallery.me.com-xgrrl.warc.gz	5407
+xgrrl	homepage.mac.com	2012-04-11 08:54:34	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	homepage.mac.com-xgrrl.warc.gz	4903
+xgrrl	public.me.com	2012-04-11 08:54:32	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	public.me.com-xgrrl.warc.gz	2408680
+xgrrl	web.me.com	2012-04-11 08:54:29	archiveteam-mobileme-hero-632x	archiveteam-mobileme-hero-632x-6322.tar	web.me.com-xgrrl.warc.gz	1234939329

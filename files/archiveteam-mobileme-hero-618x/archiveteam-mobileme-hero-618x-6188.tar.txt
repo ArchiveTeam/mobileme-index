@@ -1,24 +1,24 @@
-amyharcourt	gallery.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	gallery.me.com-amyharcourt.warc.gz	0
-amyharcourt	homepage.mac.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	homepage.mac.com-amyharcourt.warc.gz	0
-amyharcourt	public.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	public.me.com-amyharcourt.warc.gz	0
-amyharcourt	web.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	web.me.com-amyharcourt.warc.gz	0
-msurette	gallery.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	gallery.me.com-msurette.warc.gz	0
-msurette	homepage.mac.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	homepage.mac.com-msurette.warc.gz	0
-msurette	public.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	public.me.com-msurette.warc.gz	0
-msurette	web.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	web.me.com-msurette.warc.gz	0
-rcagnew	gallery.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	gallery.me.com-rcagnew.warc.gz	0
-rcagnew	homepage.mac.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	homepage.mac.com-rcagnew.warc.gz	0
-rcagnew	public.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	public.me.com-rcagnew.warc.gz	0
-rcagnew	web.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	web.me.com-rcagnew.warc.gz	0
-sroechinee	gallery.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	gallery.me.com-sroechinee.warc.gz	0
-sroechinee	homepage.mac.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	homepage.mac.com-sroechinee.warc.gz	0
-sroechinee	public.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	public.me.com-sroechinee.warc.gz	0
-sroechinee	web.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	web.me.com-sroechinee.warc.gz	0
-sunik	gallery.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	gallery.me.com-sunik.warc.gz	0
-sunik	homepage.mac.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	homepage.mac.com-sunik.warc.gz	0
-sunik	public.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	public.me.com-sunik.warc.gz	0
-sunik	web.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	web.me.com-sunik.warc.gz	0
-todd.jensen	gallery.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	gallery.me.com-todd.jensen.warc.gz	0
-todd.jensen	homepage.mac.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	homepage.mac.com-todd.jensen.warc.gz	0
-todd.jensen	public.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	public.me.com-todd.jensen.warc.gz	0
-todd.jensen	web.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	web.me.com-todd.jensen.warc.gz	0
+amyharcourt	gallery.me.com	2012-04-10 23:51:46	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	gallery.me.com-amyharcourt.warc.gz	77445167
+amyharcourt	homepage.mac.com	2012-04-10 23:51:47	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	homepage.mac.com-amyharcourt.warc.gz	4929
+amyharcourt	public.me.com	2012-04-10 23:49:04	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	public.me.com-amyharcourt.warc.gz	1926
+amyharcourt	web.me.com	2012-04-10 23:49:04	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	web.me.com-amyharcourt.warc.gz	29555361
+msurette	gallery.me.com	2012-04-10 23:42:42	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	gallery.me.com-msurette.warc.gz	2437579
+msurette	homepage.mac.com	2012-04-10 23:42:42	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	homepage.mac.com-msurette.warc.gz	4876
+msurette	public.me.com	2012-04-10 23:42:08	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	public.me.com-msurette.warc.gz	19108099
+msurette	web.me.com	2012-04-10 23:41:33	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	web.me.com-msurette.warc.gz	7084301
+rcagnew	gallery.me.com	2012-04-11 03:47:34	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	gallery.me.com-rcagnew.warc.gz	4234
+rcagnew	homepage.mac.com	2012-04-11 03:47:34	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	homepage.mac.com-rcagnew.warc.gz	4901
+rcagnew	public.me.com	2012-04-11 03:47:33	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	public.me.com-rcagnew.warc.gz	6483331607
+rcagnew	web.me.com	2012-04-11 00:41:08	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	web.me.com-rcagnew.warc.gz	14516890
+sroechinee	gallery.me.com	2012-04-11 00:36:00	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	gallery.me.com-sroechinee.warc.gz	44282849
+sroechinee	homepage.mac.com	2012-04-11 00:36:00	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	homepage.mac.com-sroechinee.warc.gz	4902
+sroechinee	public.me.com	2012-04-11 00:31:31	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	public.me.com-sroechinee.warc.gz	1918
+sroechinee	web.me.com	2012-04-11 00:31:31	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	web.me.com-sroechinee.warc.gz	222780320
+sunik	gallery.me.com	2012-04-10 23:39:25	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	gallery.me.com-sunik.warc.gz	4963
+sunik	homepage.mac.com	2012-04-10 23:39:27	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	homepage.mac.com-sunik.warc.gz	93574
+sunik	public.me.com	2012-04-10 23:39:24	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	public.me.com-sunik.warc.gz	1906
+sunik	web.me.com	2012-04-10 23:39:23	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	web.me.com-sunik.warc.gz	28809
+todd.jensen	gallery.me.com	2012-04-10 23:52:59	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	gallery.me.com-todd.jensen.warc.gz	28890013
+todd.jensen	homepage.mac.com	2012-04-10 23:53:01	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	homepage.mac.com-todd.jensen.warc.gz	36924
+todd.jensen	public.me.com	2012-04-10 23:52:03	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	public.me.com-todd.jensen.warc.gz	1925
+todd.jensen	web.me.com	2012-04-10 23:52:02	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6188.tar	web.me.com-todd.jensen.warc.gz	1386544

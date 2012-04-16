@@ -1,12 +1,12 @@
-apolanthar	gallery.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	gallery.me.com-apolanthar.warc.gz	0
-apolanthar	homepage.mac.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	homepage.mac.com-apolanthar.warc.gz	0
-apolanthar	public.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	public.me.com-apolanthar.warc.gz	0
-apolanthar	web.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	web.me.com-apolanthar.warc.gz	0
-hanaan	gallery.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	gallery.me.com-hanaan.warc.gz	0
-hanaan	homepage.mac.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	homepage.mac.com-hanaan.warc.gz	0
-hanaan	public.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	public.me.com-hanaan.warc.gz	0
-hanaan	web.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	web.me.com-hanaan.warc.gz	0
-justinliumd	gallery.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	gallery.me.com-justinliumd.warc.gz	0
-justinliumd	homepage.mac.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	homepage.mac.com-justinliumd.warc.gz	0
-justinliumd	public.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	public.me.com-justinliumd.warc.gz	0
-justinliumd	web.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	web.me.com-justinliumd.warc.gz	0
+apolanthar	gallery.me.com	2012-03-31 16:52:53	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	gallery.me.com-apolanthar.warc.gz	4295
+apolanthar	homepage.mac.com	2012-03-31 16:52:59	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	homepage.mac.com-apolanthar.warc.gz	95815
+apolanthar	public.me.com	2012-03-31 16:52:52	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	public.me.com-apolanthar.warc.gz	1909
+apolanthar	web.me.com	2012-03-31 16:52:52	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	web.me.com-apolanthar.warc.gz	7463
+hanaan	gallery.me.com	2012-04-01 00:16:06	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	gallery.me.com-hanaan.warc.gz	4052824326
+hanaan	homepage.mac.com	2012-04-01 00:16:36	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	homepage.mac.com-hanaan.warc.gz	316862
+hanaan	public.me.com	2012-03-31 21:05:15	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	public.me.com-hanaan.warc.gz	1910
+hanaan	web.me.com	2012-03-31 21:05:14	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	web.me.com-hanaan.warc.gz	1663237800
+justinliumd	gallery.me.com	2012-03-31 17:21:41	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	gallery.me.com-justinliumd.warc.gz	39420
+justinliumd	homepage.mac.com	2012-03-31 17:21:41	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	homepage.mac.com-justinliumd.warc.gz	4937
+justinliumd	public.me.com	2012-03-31 17:21:37	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	public.me.com-justinliumd.warc.gz	1926
+justinliumd	web.me.com	2012-03-31 17:21:37	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2536.tar	web.me.com-justinliumd.warc.gz	27415592

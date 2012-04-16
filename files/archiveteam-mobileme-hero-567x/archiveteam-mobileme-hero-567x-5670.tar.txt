@@ -1,20 +1,20 @@
-aimeebuckner	gallery.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	gallery.me.com-aimeebuckner.warc.gz	0
-aimeebuckner	homepage.mac.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	homepage.mac.com-aimeebuckner.warc.gz	0
-aimeebuckner	public.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	public.me.com-aimeebuckner.warc.gz	0
-aimeebuckner	web.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	web.me.com-aimeebuckner.warc.gz	0
-gordon_williams	gallery.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	gallery.me.com-gordon_williams.warc.gz	0
-gordon_williams	homepage.mac.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	homepage.mac.com-gordon_williams.warc.gz	0
-gordon_williams	public.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	public.me.com-gordon_williams.warc.gz	0
-gordon_williams	web.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	web.me.com-gordon_williams.warc.gz	0
-reactor2	gallery.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	gallery.me.com-reactor2.warc.gz	0
-reactor2	homepage.mac.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	homepage.mac.com-reactor2.warc.gz	0
-reactor2	public.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	public.me.com-reactor2.warc.gz	0
-reactor2	web.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	web.me.com-reactor2.warc.gz	0
-stephane.delporte	gallery.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	gallery.me.com-stephane.delporte.warc.gz	0
-stephane.delporte	homepage.mac.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	homepage.mac.com-stephane.delporte.warc.gz	0
-stephane.delporte	public.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	public.me.com-stephane.delporte.warc.gz	0
-stephane.delporte	web.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	web.me.com-stephane.delporte.warc.gz	0
-tomzee	gallery.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	gallery.me.com-tomzee.warc.gz	0
-tomzee	homepage.mac.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	homepage.mac.com-tomzee.warc.gz	0
-tomzee	public.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	public.me.com-tomzee.warc.gz	0
-tomzee	web.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	web.me.com-tomzee.warc.gz	0
+aimeebuckner	gallery.me.com	2012-04-09 21:41:44	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	gallery.me.com-aimeebuckner.warc.gz	4291
+aimeebuckner	homepage.mac.com	2012-04-09 21:41:44	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	homepage.mac.com-aimeebuckner.warc.gz	4925
+aimeebuckner	public.me.com	2012-04-09 21:41:42	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	public.me.com-aimeebuckner.warc.gz	1922
+aimeebuckner	web.me.com	2012-04-09 21:41:42	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	web.me.com-aimeebuckner.warc.gz	291073596
+gordon_williams	gallery.me.com	2012-04-09 22:08:58	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	gallery.me.com-gordon_williams.warc.gz	346240612
+gordon_williams	homepage.mac.com	2012-04-09 22:09:00	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	homepage.mac.com-gordon_williams.warc.gz	37069
+gordon_williams	public.me.com	2012-04-09 22:04:06	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	public.me.com-gordon_williams.warc.gz	1928
+gordon_williams	web.me.com	2012-04-09 22:04:05	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	web.me.com-gordon_williams.warc.gz	383463692
+reactor2	gallery.me.com	2012-04-09 23:29:19	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	gallery.me.com-reactor2.warc.gz	886982900
+reactor2	homepage.mac.com	2012-04-09 23:29:25	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	homepage.mac.com-reactor2.warc.gz	186693
+reactor2	public.me.com	2012-04-09 23:06:03	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	public.me.com-reactor2.warc.gz	5597
+reactor2	web.me.com	2012-04-09 23:05:49	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	web.me.com-reactor2.warc.gz	779003310
+stephane.delporte	gallery.me.com	2012-04-09 21:24:30	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	gallery.me.com-stephane.delporte.warc.gz	1040823779
+stephane.delporte	homepage.mac.com	2012-04-09 21:24:31	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	homepage.mac.com-stephane.delporte.warc.gz	4950
+stephane.delporte	public.me.com	2012-04-09 21:07:50	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	public.me.com-stephane.delporte.warc.gz	524437716
+stephane.delporte	web.me.com	2012-04-09 20:55:33	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	web.me.com-stephane.delporte.warc.gz	643798958
+tomzee	gallery.me.com	2012-04-09 22:30:14	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	gallery.me.com-tomzee.warc.gz	524536492
+tomzee	homepage.mac.com	2012-04-09 22:30:14	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	homepage.mac.com-tomzee.warc.gz	4907
+tomzee	public.me.com	2012-04-09 22:17:21	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	public.me.com-tomzee.warc.gz	66080744
+tomzee	web.me.com	2012-04-09 22:15:56	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5670.tar	web.me.com-tomzee.warc.gz	120375102

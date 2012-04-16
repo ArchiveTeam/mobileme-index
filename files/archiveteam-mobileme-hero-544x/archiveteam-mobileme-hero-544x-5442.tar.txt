@@ -1,24 +1,24 @@
-cntrock	gallery.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	gallery.me.com-cntrock.warc.gz	0
-cntrock	homepage.mac.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	homepage.mac.com-cntrock.warc.gz	0
-cntrock	public.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	public.me.com-cntrock.warc.gz	0
-cntrock	web.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	web.me.com-cntrock.warc.gz	0
-diloretoandrea	gallery.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	gallery.me.com-diloretoandrea.warc.gz	0
-diloretoandrea	homepage.mac.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	homepage.mac.com-diloretoandrea.warc.gz	0
-diloretoandrea	public.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	public.me.com-diloretoandrea.warc.gz	0
-diloretoandrea	web.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	web.me.com-diloretoandrea.warc.gz	0
-jherregodts	gallery.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	gallery.me.com-jherregodts.warc.gz	0
-jherregodts	homepage.mac.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	homepage.mac.com-jherregodts.warc.gz	0
-jherregodts	public.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	public.me.com-jherregodts.warc.gz	0
-jherregodts	web.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	web.me.com-jherregodts.warc.gz	0
-kgoldberg	gallery.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	gallery.me.com-kgoldberg.warc.gz	0
-kgoldberg	homepage.mac.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	homepage.mac.com-kgoldberg.warc.gz	0
-kgoldberg	public.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	public.me.com-kgoldberg.warc.gz	0
-kgoldberg	web.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	web.me.com-kgoldberg.warc.gz	0
-michelapacini	gallery.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	gallery.me.com-michelapacini.warc.gz	0
-michelapacini	homepage.mac.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	homepage.mac.com-michelapacini.warc.gz	0
-michelapacini	public.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	public.me.com-michelapacini.warc.gz	0
-michelapacini	web.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	web.me.com-michelapacini.warc.gz	0
-motoczm	gallery.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	gallery.me.com-motoczm.warc.gz	0
-motoczm	homepage.mac.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	homepage.mac.com-motoczm.warc.gz	0
-motoczm	public.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	public.me.com-motoczm.warc.gz	0
-motoczm	web.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	web.me.com-motoczm.warc.gz	0
+cntrock	gallery.me.com	2012-04-09 10:37:23	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	gallery.me.com-cntrock.warc.gz	578962365
+cntrock	homepage.mac.com	2012-04-09 10:37:30	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	homepage.mac.com-cntrock.warc.gz	135537
+cntrock	public.me.com	2012-04-09 10:20:31	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	public.me.com-cntrock.warc.gz	1907
+cntrock	web.me.com	2012-04-09 10:20:30	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	web.me.com-cntrock.warc.gz	176594856
+diloretoandrea	gallery.me.com	2012-04-09 09:20:25	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	gallery.me.com-diloretoandrea.warc.gz	8879069
+diloretoandrea	homepage.mac.com	2012-04-09 09:20:25	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	homepage.mac.com-diloretoandrea.warc.gz	4917
+diloretoandrea	public.me.com	2012-04-09 09:19:56	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	public.me.com-diloretoandrea.warc.gz	1924
+diloretoandrea	web.me.com	2012-04-09 09:19:56	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	web.me.com-diloretoandrea.warc.gz	36199797
+jherregodts	gallery.me.com	2012-04-09 09:12:54	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	gallery.me.com-jherregodts.warc.gz	195806071
+jherregodts	homepage.mac.com	2012-04-09 09:12:59	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	homepage.mac.com-jherregodts.warc.gz	111855
+jherregodts	public.me.com	2012-04-09 09:07:29	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	public.me.com-jherregodts.warc.gz	2868123
+jherregodts	web.me.com	2012-04-09 09:07:27	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	web.me.com-jherregodts.warc.gz	5904537
+kgoldberg	gallery.me.com	2012-04-09 09:05:43	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	gallery.me.com-kgoldberg.warc.gz	368322758
+kgoldberg	homepage.mac.com	2012-04-09 09:05:44	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	homepage.mac.com-kgoldberg.warc.gz	38811
+kgoldberg	public.me.com	2012-04-09 09:00:04	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	public.me.com-kgoldberg.warc.gz	4985
+kgoldberg	web.me.com	2012-04-09 09:00:03	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	web.me.com-kgoldberg.warc.gz	23169875
+michelapacini	gallery.me.com	2012-04-09 09:21:46	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	gallery.me.com-michelapacini.warc.gz	4269
+michelapacini	homepage.mac.com	2012-04-09 09:21:46	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	homepage.mac.com-michelapacini.warc.gz	4930
+michelapacini	public.me.com	2012-04-09 09:21:45	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	public.me.com-michelapacini.warc.gz	1921
+michelapacini	web.me.com	2012-04-09 09:21:45	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	web.me.com-michelapacini.warc.gz	1917922
+motoczm	gallery.me.com	2012-04-09 10:04:22	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	gallery.me.com-motoczm.warc.gz	192154020
+motoczm	homepage.mac.com	2012-04-09 10:04:29	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	homepage.mac.com-motoczm.warc.gz	121921
+motoczm	public.me.com	2012-04-09 10:02:35	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	public.me.com-motoczm.warc.gz	124700750
+motoczm	web.me.com	2012-04-09 10:00:53	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5442.tar	web.me.com-motoczm.warc.gz	2593559339

@@ -1,16 +1,16 @@
-claudebastide	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	gallery.me.com-claudebastide.warc.gz	0
-claudebastide	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	homepage.mac.com-claudebastide.warc.gz	0
-claudebastide	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	public.me.com-claudebastide.warc.gz	0
-claudebastide	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	web.me.com-claudebastide.warc.gz	0
-jillmac	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	gallery.me.com-jillmac.warc.gz	0
-jillmac	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	homepage.mac.com-jillmac.warc.gz	0
-jillmac	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	public.me.com-jillmac.warc.gz	0
-jillmac	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	web.me.com-jillmac.warc.gz	0
-mjwatts	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	gallery.me.com-mjwatts.warc.gz	0
-mjwatts	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	homepage.mac.com-mjwatts.warc.gz	0
-mjwatts	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	public.me.com-mjwatts.warc.gz	0
-mjwatts	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	web.me.com-mjwatts.warc.gz	0
-oliviebarreyreberaud	gallery.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	gallery.me.com-oliviebarreyreberaud.warc.gz	0
-oliviebarreyreberaud	homepage.mac.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	homepage.mac.com-oliviebarreyreberaud.warc.gz	0
-oliviebarreyreberaud	public.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	public.me.com-oliviebarreyreberaud.warc.gz	0
-oliviebarreyreberaud	web.me.com		archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	web.me.com-oliviebarreyreberaud.warc.gz	0
+claudebastide	gallery.me.com	2012-04-03 18:47:18	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	gallery.me.com-claudebastide.warc.gz	326409352
+claudebastide	homepage.mac.com	2012-04-03 18:47:19	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	homepage.mac.com-claudebastide.warc.gz	3676
+claudebastide	public.me.com	2012-04-03 18:31:31	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	public.me.com-claudebastide.warc.gz	1922
+claudebastide	web.me.com	2012-04-03 18:31:31	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	web.me.com-claudebastide.warc.gz	6181111
+jillmac	gallery.me.com	2012-04-04 00:09:03	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	gallery.me.com-jillmac.warc.gz	5674754382
+jillmac	homepage.mac.com	2012-04-04 00:09:03	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	homepage.mac.com-jillmac.warc.gz	6009
+jillmac	public.me.com	2012-04-03 21:43:23	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	public.me.com-jillmac.warc.gz	1912
+jillmac	web.me.com	2012-04-03 21:42:54	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	web.me.com-jillmac.warc.gz	1570926691
+mjwatts	gallery.me.com	2012-04-03 18:57:09	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	gallery.me.com-mjwatts.warc.gz	23426287
+mjwatts	homepage.mac.com	2012-04-03 18:57:09	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	homepage.mac.com-mjwatts.warc.gz	4893
+mjwatts	public.me.com	2012-04-03 18:56:25	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	public.me.com-mjwatts.warc.gz	1919
+mjwatts	web.me.com	2012-04-03 18:56:24	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	web.me.com-mjwatts.warc.gz	275996
+oliviebarreyreberaud	gallery.me.com	2012-04-03 18:56:09	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	gallery.me.com-oliviebarreyreberaud.warc.gz	393292192
+oliviebarreyreberaud	homepage.mac.com	2012-04-03 18:56:13	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	homepage.mac.com-oliviebarreyreberaud.warc.gz	4958
+oliviebarreyreberaud	public.me.com	2012-04-03 18:47:41	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	public.me.com-oliviebarreyreberaud.warc.gz	1945
+oliviebarreyreberaud	web.me.com	2012-04-03 18:47:41	archiveteam-mobileme-hero-360x	archiveteam-mobileme-hero-360x-3601.tar	web.me.com-oliviebarreyreberaud.warc.gz	702226

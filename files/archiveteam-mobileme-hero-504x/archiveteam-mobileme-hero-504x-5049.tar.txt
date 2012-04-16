@@ -1,20 +1,20 @@
-cfbeatty	gallery.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	gallery.me.com-cfbeatty.warc.gz	0
-cfbeatty	homepage.mac.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	homepage.mac.com-cfbeatty.warc.gz	0
-cfbeatty	public.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	public.me.com-cfbeatty.warc.gz	0
-cfbeatty	web.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	web.me.com-cfbeatty.warc.gz	0
-haruyuki	gallery.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	gallery.me.com-haruyuki.warc.gz	0
-haruyuki	homepage.mac.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	homepage.mac.com-haruyuki.warc.gz	0
-haruyuki	public.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	public.me.com-haruyuki.warc.gz	0
-haruyuki	web.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	web.me.com-haruyuki.warc.gz	0
-nickelnow	gallery.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	gallery.me.com-nickelnow.warc.gz	0
-nickelnow	homepage.mac.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	homepage.mac.com-nickelnow.warc.gz	0
-nickelnow	public.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	public.me.com-nickelnow.warc.gz	0
-nickelnow	web.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	web.me.com-nickelnow.warc.gz	0
-timroyle	gallery.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	gallery.me.com-timroyle.warc.gz	0
-timroyle	homepage.mac.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	homepage.mac.com-timroyle.warc.gz	0
-timroyle	public.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	public.me.com-timroyle.warc.gz	0
-timroyle	web.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	web.me.com-timroyle.warc.gz	0
-yambu01	gallery.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	gallery.me.com-yambu01.warc.gz	0
-yambu01	homepage.mac.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	homepage.mac.com-yambu01.warc.gz	0
-yambu01	public.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	public.me.com-yambu01.warc.gz	0
-yambu01	web.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	web.me.com-yambu01.warc.gz	0
+cfbeatty	gallery.me.com	2012-04-07 23:01:06	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	gallery.me.com-cfbeatty.warc.gz	7973993
+cfbeatty	homepage.mac.com	2012-04-07 23:01:06	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	homepage.mac.com-cfbeatty.warc.gz	4913
+cfbeatty	public.me.com	2012-04-07 23:00:50	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	public.me.com-cfbeatty.warc.gz	1917
+cfbeatty	web.me.com	2012-04-07 23:00:48	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	web.me.com-cfbeatty.warc.gz	236778242
+haruyuki	gallery.me.com	2012-04-07 23:53:18	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	gallery.me.com-haruyuki.warc.gz	478865140
+haruyuki	homepage.mac.com	2012-04-07 23:53:19	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	homepage.mac.com-haruyuki.warc.gz	7885
+haruyuki	public.me.com	2012-04-07 23:38:56	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	public.me.com-haruyuki.warc.gz	10980969
+haruyuki	web.me.com	2012-04-07 23:38:38	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	web.me.com-haruyuki.warc.gz	145157082
+nickelnow	gallery.me.com	2012-04-08 01:34:05	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	gallery.me.com-nickelnow.warc.gz	1833107031
+nickelnow	homepage.mac.com	2012-04-08 01:34:05	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	homepage.mac.com-nickelnow.warc.gz	4918
+nickelnow	public.me.com	2012-04-08 00:48:37	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	public.me.com-nickelnow.warc.gz	1919
+nickelnow	web.me.com	2012-04-08 00:47:49	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	web.me.com-nickelnow.warc.gz	1390550549
+timroyle	gallery.me.com	2012-04-07 23:54:04	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	gallery.me.com-timroyle.warc.gz	5673
+timroyle	homepage.mac.com	2012-04-07 23:54:04	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	homepage.mac.com-timroyle.warc.gz	4913
+timroyle	public.me.com	2012-04-07 23:54:03	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	public.me.com-timroyle.warc.gz	1916
+timroyle	web.me.com	2012-04-07 23:54:03	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	web.me.com-timroyle.warc.gz	1895348
+yambu01	gallery.me.com	2012-04-07 23:26:01	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	gallery.me.com-yambu01.warc.gz	29055395
+yambu01	homepage.mac.com	2012-04-07 23:26:01	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	homepage.mac.com-yambu01.warc.gz	4905
+yambu01	public.me.com	2012-04-07 23:24:04	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	public.me.com-yambu01.warc.gz	1914
+yambu01	web.me.com	2012-04-07 23:24:02	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5049.tar	web.me.com-yambu01.warc.gz	134426292

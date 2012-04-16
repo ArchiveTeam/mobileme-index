@@ -1,12 +1,12 @@
-ericma	gallery.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	gallery.me.com-ericma.warc.gz	0
-ericma	homepage.mac.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	homepage.mac.com-ericma.warc.gz	0
-ericma	public.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	public.me.com-ericma.warc.gz	0
-ericma	web.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	web.me.com-ericma.warc.gz	0
-kchace	gallery.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	gallery.me.com-kchace.warc.gz	0
-kchace	homepage.mac.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	homepage.mac.com-kchace.warc.gz	0
-kchace	public.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	public.me.com-kchace.warc.gz	0
-kchace	web.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	web.me.com-kchace.warc.gz	0
-samdessordi	gallery.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	gallery.me.com-samdessordi.warc.gz	0
-samdessordi	homepage.mac.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	homepage.mac.com-samdessordi.warc.gz	0
-samdessordi	public.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	public.me.com-samdessordi.warc.gz	0
-samdessordi	web.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	web.me.com-samdessordi.warc.gz	0
+ericma	gallery.me.com	2012-04-01 22:59:17	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	gallery.me.com-ericma.warc.gz	8740451
+ericma	homepage.mac.com	2012-04-01 22:59:19	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	homepage.mac.com-ericma.warc.gz	4899
+ericma	public.me.com	2012-04-01 22:59:06	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	public.me.com-ericma.warc.gz	1915
+ericma	web.me.com	2012-04-01 22:59:03	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	web.me.com-ericma.warc.gz	78466
+kchace	gallery.me.com	2012-04-01 22:59:26	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	gallery.me.com-kchace.warc.gz	8326
+kchace	homepage.mac.com	2012-04-01 22:59:26	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	homepage.mac.com-kchace.warc.gz	5155
+kchace	public.me.com	2012-04-01 22:59:25	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	public.me.com-kchace.warc.gz	1913
+kchace	web.me.com	2012-04-01 22:59:24	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	web.me.com-kchace.warc.gz	17671
+samdessordi	gallery.me.com	2012-04-02 03:15:58	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	gallery.me.com-samdessordi.warc.gz	5799964732
+samdessordi	homepage.mac.com	2012-04-02 03:15:58	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	homepage.mac.com-samdessordi.warc.gz	4916
+samdessordi	public.me.com	2012-04-01 23:19:45	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	public.me.com-samdessordi.warc.gz	1924
+samdessordi	web.me.com	2012-04-01 23:19:44	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2807.tar	web.me.com-samdessordi.warc.gz	39663484

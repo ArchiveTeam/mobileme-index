@@ -1,8 +1,8 @@
-jeffbatt	gallery.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7334.tar	gallery.me.com-jeffbatt.warc.gz	0
-jeffbatt	homepage.mac.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7334.tar	homepage.mac.com-jeffbatt.warc.gz	0
-jeffbatt	public.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7334.tar	public.me.com-jeffbatt.warc.gz	0
-jeffbatt	web.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7334.tar	web.me.com-jeffbatt.warc.gz	0
-zalze	gallery.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7334.tar	gallery.me.com-zalze.warc.gz	0
-zalze	homepage.mac.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7334.tar	homepage.mac.com-zalze.warc.gz	0
-zalze	public.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7334.tar	public.me.com-zalze.warc.gz	0
-zalze	web.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7334.tar	web.me.com-zalze.warc.gz	0
+jeffbatt	gallery.me.com	2012-04-13 12:35:13	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7334.tar	gallery.me.com-jeffbatt.warc.gz	664209525
+jeffbatt	homepage.mac.com	2012-04-13 12:35:18	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7334.tar	homepage.mac.com-jeffbatt.warc.gz	83805
+jeffbatt	public.me.com	2012-04-13 12:17:48	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7334.tar	public.me.com-jeffbatt.warc.gz	792082816
+jeffbatt	web.me.com	2012-04-13 12:08:08	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7334.tar	web.me.com-jeffbatt.warc.gz	812337770
+zalze	gallery.me.com	2012-04-13 13:31:17	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7334.tar	gallery.me.com-zalze.warc.gz	2815848414
+zalze	homepage.mac.com	2012-04-13 13:31:17	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7334.tar	homepage.mac.com-zalze.warc.gz	4886
+zalze	public.me.com	2012-04-13 13:02:55	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7334.tar	public.me.com-zalze.warc.gz	1911
+zalze	web.me.com	2012-04-13 13:02:51	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7334.tar	web.me.com-zalze.warc.gz	1397825354

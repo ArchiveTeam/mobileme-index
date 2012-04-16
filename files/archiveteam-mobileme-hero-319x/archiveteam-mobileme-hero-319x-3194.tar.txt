@@ -1,8 +1,8 @@
-diddidit	gallery.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3194.tar	gallery.me.com-diddidit.warc.gz	0
-diddidit	homepage.mac.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3194.tar	homepage.mac.com-diddidit.warc.gz	0
-diddidit	public.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3194.tar	public.me.com-diddidit.warc.gz	0
-diddidit	web.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3194.tar	web.me.com-diddidit.warc.gz	0
-rokos	gallery.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3194.tar	gallery.me.com-rokos.warc.gz	0
-rokos	homepage.mac.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3194.tar	homepage.mac.com-rokos.warc.gz	0
-rokos	public.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3194.tar	public.me.com-rokos.warc.gz	0
-rokos	web.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3194.tar	web.me.com-rokos.warc.gz	0
+diddidit	gallery.me.com	2012-04-02 21:28:19	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3194.tar	gallery.me.com-diddidit.warc.gz	4248
+diddidit	homepage.mac.com	2012-04-02 21:28:25	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3194.tar	homepage.mac.com-diddidit.warc.gz	75263
+diddidit	public.me.com	2012-04-02 21:28:18	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3194.tar	public.me.com-diddidit.warc.gz	31587252
+diddidit	web.me.com	2012-04-02 21:26:33	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3194.tar	web.me.com-diddidit.warc.gz	2549910
+rokos	gallery.me.com	2012-04-03 02:53:03	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3194.tar	gallery.me.com-rokos.warc.gz	8196127798
+rokos	homepage.mac.com	2012-04-03 02:53:04	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3194.tar	homepage.mac.com-rokos.warc.gz	4887
+rokos	public.me.com	2012-04-02 22:24:54	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3194.tar	public.me.com-rokos.warc.gz	3387
+rokos	web.me.com	2012-04-02 22:24:52	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3194.tar	web.me.com-rokos.warc.gz	830799533

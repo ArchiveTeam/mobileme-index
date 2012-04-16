@@ -1,8 +1,8 @@
-gmehlman	gallery.me.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5595.tar	gallery.me.com-gmehlman.warc.gz	0
-gmehlman	homepage.mac.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5595.tar	homepage.mac.com-gmehlman.warc.gz	0
-gmehlman	public.me.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5595.tar	public.me.com-gmehlman.warc.gz	0
-gmehlman	web.me.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5595.tar	web.me.com-gmehlman.warc.gz	0
-katefrances	gallery.me.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5595.tar	gallery.me.com-katefrances.warc.gz	0
-katefrances	homepage.mac.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5595.tar	homepage.mac.com-katefrances.warc.gz	0
-katefrances	public.me.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5595.tar	public.me.com-katefrances.warc.gz	0
-katefrances	web.me.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5595.tar	web.me.com-katefrances.warc.gz	0
+gmehlman	gallery.me.com	2012-04-09 19:05:38	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5595.tar	gallery.me.com-gmehlman.warc.gz	5958693940
+gmehlman	homepage.mac.com	2012-04-09 19:05:38	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5595.tar	homepage.mac.com-gmehlman.warc.gz	4894
+gmehlman	public.me.com	2012-04-09 16:54:45	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5595.tar	public.me.com-gmehlman.warc.gz	1919
+gmehlman	web.me.com	2012-04-09 16:53:18	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5595.tar	web.me.com-gmehlman.warc.gz	2572130578
+katefrances	gallery.me.com	2012-04-09 15:11:03	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5595.tar	gallery.me.com-katefrances.warc.gz	348380631
+katefrances	homepage.mac.com	2012-04-09 15:11:04	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5595.tar	homepage.mac.com-katefrances.warc.gz	4919
+katefrances	public.me.com	2012-04-09 15:02:05	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5595.tar	public.me.com-katefrances.warc.gz	348105946
+katefrances	web.me.com	2012-04-09 14:59:41	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5595.tar	web.me.com-katefrances.warc.gz	921550272

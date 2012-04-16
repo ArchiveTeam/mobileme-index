@@ -1,20 +1,20 @@
-char_smoky	gallery.me.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	gallery.me.com-char_smoky.warc.gz	0
-char_smoky	homepage.mac.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	homepage.mac.com-char_smoky.warc.gz	0
-char_smoky	public.me.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	public.me.com-char_smoky.warc.gz	0
-char_smoky	web.me.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	web.me.com-char_smoky.warc.gz	0
-kalani.mary	gallery.me.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	gallery.me.com-kalani.mary.warc.gz	0
-kalani.mary	homepage.mac.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	homepage.mac.com-kalani.mary.warc.gz	0
-kalani.mary	public.me.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	public.me.com-kalani.mary.warc.gz	0
-kalani.mary	web.me.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	web.me.com-kalani.mary.warc.gz	0
-lpickering	gallery.me.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	gallery.me.com-lpickering.warc.gz	0
-lpickering	homepage.mac.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	homepage.mac.com-lpickering.warc.gz	0
-lpickering	public.me.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	public.me.com-lpickering.warc.gz	0
-lpickering	web.me.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	web.me.com-lpickering.warc.gz	0
-omarkozarsky	gallery.me.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	gallery.me.com-omarkozarsky.warc.gz	0
-omarkozarsky	homepage.mac.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	homepage.mac.com-omarkozarsky.warc.gz	0
-omarkozarsky	public.me.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	public.me.com-omarkozarsky.warc.gz	0
-omarkozarsky	web.me.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	web.me.com-omarkozarsky.warc.gz	0
-susannicholls	gallery.me.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	gallery.me.com-susannicholls.warc.gz	0
-susannicholls	homepage.mac.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	homepage.mac.com-susannicholls.warc.gz	0
-susannicholls	public.me.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	public.me.com-susannicholls.warc.gz	0
-susannicholls	web.me.com		archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	web.me.com-susannicholls.warc.gz	0
+char_smoky	gallery.me.com	2012-04-02 06:35:46	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	gallery.me.com-char_smoky.warc.gz	8367
+char_smoky	homepage.mac.com	2012-04-02 06:35:46	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	homepage.mac.com-char_smoky.warc.gz	5186
+char_smoky	public.me.com	2012-04-02 06:35:45	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	public.me.com-char_smoky.warc.gz	1922
+char_smoky	web.me.com	2012-04-02 06:35:44	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	web.me.com-char_smoky.warc.gz	17742
+kalani.mary	gallery.me.com	2012-04-02 06:38:09	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	gallery.me.com-kalani.mary.warc.gz	5710
+kalani.mary	homepage.mac.com	2012-04-02 06:38:10	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	homepage.mac.com-kalani.mary.warc.gz	4930
+kalani.mary	public.me.com	2012-04-02 06:38:08	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	public.me.com-kalani.mary.warc.gz	1928
+kalani.mary	web.me.com	2012-04-02 06:38:08	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	web.me.com-kalani.mary.warc.gz	6394078
+lpickering	gallery.me.com	2012-04-02 06:38:15	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	gallery.me.com-lpickering.warc.gz	12362
+lpickering	homepage.mac.com	2012-04-02 06:38:16	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	homepage.mac.com-lpickering.warc.gz	7178
+lpickering	public.me.com	2012-04-02 06:38:14	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	public.me.com-lpickering.warc.gz	1920
+lpickering	web.me.com	2012-04-02 06:38:14	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	web.me.com-lpickering.warc.gz	22559
+omarkozarsky	gallery.me.com	2012-04-02 08:48:41	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	gallery.me.com-omarkozarsky.warc.gz	5957
+omarkozarsky	homepage.mac.com	2012-04-02 08:49:30	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	homepage.mac.com-omarkozarsky.warc.gz	512751
+omarkozarsky	public.me.com	2012-04-02 08:48:39	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	public.me.com-omarkozarsky.warc.gz	2357643889
+omarkozarsky	web.me.com	2012-04-02 07:46:58	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	web.me.com-omarkozarsky.warc.gz	1405737
+susannicholls	gallery.me.com	2012-04-02 07:46:17	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	gallery.me.com-susannicholls.warc.gz	1357806137
+susannicholls	homepage.mac.com	2012-04-02 07:46:18	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	homepage.mac.com-susannicholls.warc.gz	4917
+susannicholls	public.me.com	2012-04-02 07:16:48	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	public.me.com-susannicholls.warc.gz	967724
+susannicholls	web.me.com	2012-04-02 07:16:42	archiveteam-mobileme-hero-285x	archiveteam-mobileme-hero-285x-2859.tar	web.me.com-susannicholls.warc.gz	584587150

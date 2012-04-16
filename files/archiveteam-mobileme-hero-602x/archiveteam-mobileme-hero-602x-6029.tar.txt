@@ -1,24 +1,24 @@
-bang.dits.creation	gallery.me.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	gallery.me.com-bang.dits.creation.warc.gz	0
-bang.dits.creation	homepage.mac.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	homepage.mac.com-bang.dits.creation.warc.gz	0
-bang.dits.creation	public.me.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	public.me.com-bang.dits.creation.warc.gz	0
-bang.dits.creation	web.me.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	web.me.com-bang.dits.creation.warc.gz	0
-boucherfamily	gallery.me.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	gallery.me.com-boucherfamily.warc.gz	0
-boucherfamily	homepage.mac.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	homepage.mac.com-boucherfamily.warc.gz	0
-boucherfamily	public.me.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	public.me.com-boucherfamily.warc.gz	0
-boucherfamily	web.me.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	web.me.com-boucherfamily.warc.gz	0
-dgmoss	gallery.me.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	gallery.me.com-dgmoss.warc.gz	0
-dgmoss	homepage.mac.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	homepage.mac.com-dgmoss.warc.gz	0
-dgmoss	public.me.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	public.me.com-dgmoss.warc.gz	0
-dgmoss	web.me.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	web.me.com-dgmoss.warc.gz	0
-joshbrown	gallery.me.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	gallery.me.com-joshbrown.warc.gz	0
-joshbrown	homepage.mac.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	homepage.mac.com-joshbrown.warc.gz	0
-joshbrown	public.me.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	public.me.com-joshbrown.warc.gz	0
-joshbrown	web.me.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	web.me.com-joshbrown.warc.gz	0
-lnetmichi	gallery.me.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	gallery.me.com-lnetmichi.warc.gz	0
-lnetmichi	homepage.mac.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	homepage.mac.com-lnetmichi.warc.gz	0
-lnetmichi	public.me.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	public.me.com-lnetmichi.warc.gz	0
-lnetmichi	web.me.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	web.me.com-lnetmichi.warc.gz	0
-mkirkegaard	gallery.me.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	gallery.me.com-mkirkegaard.warc.gz	0
-mkirkegaard	homepage.mac.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	homepage.mac.com-mkirkegaard.warc.gz	0
-mkirkegaard	public.me.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	public.me.com-mkirkegaard.warc.gz	0
-mkirkegaard	web.me.com		archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	web.me.com-mkirkegaard.warc.gz	0
+bang.dits.creation	gallery.me.com	2012-04-10 16:32:22	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	gallery.me.com-bang.dits.creation.warc.gz	4282
+bang.dits.creation	homepage.mac.com	2012-04-10 16:32:22	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	homepage.mac.com-bang.dits.creation.warc.gz	4944
+bang.dits.creation	public.me.com	2012-04-10 16:32:19	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	public.me.com-bang.dits.creation.warc.gz	1937
+bang.dits.creation	web.me.com	2012-04-10 16:32:19	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	web.me.com-bang.dits.creation.warc.gz	718740
+boucherfamily	gallery.me.com	2012-04-10 16:31:55	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	gallery.me.com-boucherfamily.warc.gz	218431770
+boucherfamily	homepage.mac.com	2012-04-10 16:31:55	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	homepage.mac.com-boucherfamily.warc.gz	4936
+boucherfamily	public.me.com	2012-04-10 16:30:03	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	public.me.com-boucherfamily.warc.gz	169305809
+boucherfamily	web.me.com	2012-04-10 16:26:05	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	web.me.com-boucherfamily.warc.gz	241762175
+dgmoss	gallery.me.com	2012-04-10 16:34:57	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	gallery.me.com-dgmoss.warc.gz	232125
+dgmoss	homepage.mac.com	2012-04-10 16:35:08	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	homepage.mac.com-dgmoss.warc.gz	746361
+dgmoss	public.me.com	2012-04-10 16:34:54	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	public.me.com-dgmoss.warc.gz	1915
+dgmoss	web.me.com	2012-04-10 16:34:53	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	web.me.com-dgmoss.warc.gz	10574272
+joshbrown	gallery.me.com	2012-04-10 18:11:35	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	gallery.me.com-joshbrown.warc.gz	1302368268
+joshbrown	homepage.mac.com	2012-04-10 18:11:36	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	homepage.mac.com-joshbrown.warc.gz	4921
+joshbrown	public.me.com	2012-04-10 17:42:50	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	public.me.com-joshbrown.warc.gz	3038530331
+joshbrown	web.me.com	2012-04-10 17:06:48	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	web.me.com-joshbrown.warc.gz	1230722437
+lnetmichi	gallery.me.com	2012-04-10 16:21:56	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	gallery.me.com-lnetmichi.warc.gz	1765495891
+lnetmichi	homepage.mac.com	2012-04-10 16:21:57	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	homepage.mac.com-lnetmichi.warc.gz	4897
+lnetmichi	public.me.com	2012-04-10 15:39:36	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	public.me.com-lnetmichi.warc.gz	3399
+lnetmichi	web.me.com	2012-04-10 15:39:35	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	web.me.com-lnetmichi.warc.gz	251372367
+mkirkegaard	gallery.me.com	2012-04-10 16:32:25	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	gallery.me.com-mkirkegaard.warc.gz	4270
+mkirkegaard	homepage.mac.com	2012-04-10 16:32:26	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	homepage.mac.com-mkirkegaard.warc.gz	4926
+mkirkegaard	public.me.com	2012-04-10 16:32:25	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	public.me.com-mkirkegaard.warc.gz	1927
+mkirkegaard	web.me.com	2012-04-10 16:32:24	archiveteam-mobileme-hero-602x	archiveteam-mobileme-hero-602x-6029.tar	web.me.com-mkirkegaard.warc.gz	23930

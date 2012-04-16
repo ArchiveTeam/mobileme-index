@@ -1,24 +1,24 @@
-bodymac	gallery.me.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	gallery.me.com-bodymac.warc.gz	0
-bodymac	homepage.mac.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	homepage.mac.com-bodymac.warc.gz	0
-bodymac	public.me.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	public.me.com-bodymac.warc.gz	0
-bodymac	web.me.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	web.me.com-bodymac.warc.gz	0
-davidschuiteman	gallery.me.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	gallery.me.com-davidschuiteman.warc.gz	0
-davidschuiteman	homepage.mac.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	homepage.mac.com-davidschuiteman.warc.gz	0
-davidschuiteman	public.me.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	public.me.com-davidschuiteman.warc.gz	0
-davidschuiteman	web.me.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	web.me.com-davidschuiteman.warc.gz	0
-kendallgayle	gallery.me.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	gallery.me.com-kendallgayle.warc.gz	0
-kendallgayle	homepage.mac.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	homepage.mac.com-kendallgayle.warc.gz	0
-kendallgayle	public.me.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	public.me.com-kendallgayle.warc.gz	0
-kendallgayle	web.me.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	web.me.com-kendallgayle.warc.gz	0
-msmckay	gallery.me.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	gallery.me.com-msmckay.warc.gz	0
-msmckay	homepage.mac.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	homepage.mac.com-msmckay.warc.gz	0
-msmckay	public.me.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	public.me.com-msmckay.warc.gz	0
-msmckay	web.me.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	web.me.com-msmckay.warc.gz	0
-npower	gallery.me.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	gallery.me.com-npower.warc.gz	0
-npower	homepage.mac.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	homepage.mac.com-npower.warc.gz	0
-npower	public.me.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	public.me.com-npower.warc.gz	0
-npower	web.me.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	web.me.com-npower.warc.gz	0
-sberkey	gallery.me.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	gallery.me.com-sberkey.warc.gz	0
-sberkey	homepage.mac.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	homepage.mac.com-sberkey.warc.gz	0
-sberkey	public.me.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	public.me.com-sberkey.warc.gz	0
-sberkey	web.me.com		archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	web.me.com-sberkey.warc.gz	0
+bodymac	gallery.me.com	2012-04-11 15:45:13	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	gallery.me.com-bodymac.warc.gz	147678809
+bodymac	homepage.mac.com	2012-04-11 15:45:13	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	homepage.mac.com-bodymac.warc.gz	4894
+bodymac	public.me.com	2012-04-11 15:43:03	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	public.me.com-bodymac.warc.gz	4567
+bodymac	web.me.com	2012-04-11 15:43:03	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	web.me.com-bodymac.warc.gz	10267982
+davidschuiteman	gallery.me.com	2012-04-11 16:40:36	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	gallery.me.com-davidschuiteman.warc.gz	11309711
+davidschuiteman	homepage.mac.com	2012-04-11 16:40:36	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	homepage.mac.com-davidschuiteman.warc.gz	4957
+davidschuiteman	public.me.com	2012-04-11 16:40:17	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	public.me.com-davidschuiteman.warc.gz	1932
+davidschuiteman	web.me.com	2012-04-11 16:40:17	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	web.me.com-davidschuiteman.warc.gz	10511545
+kendallgayle	gallery.me.com	2012-04-11 16:39:43	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	gallery.me.com-kendallgayle.warc.gz	5682
+kendallgayle	homepage.mac.com	2012-04-11 16:39:47	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	homepage.mac.com-kendallgayle.warc.gz	488411
+kendallgayle	public.me.com	2012-04-11 16:39:42	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	public.me.com-kendallgayle.warc.gz	1925
+kendallgayle	web.me.com	2012-04-11 16:39:41	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	web.me.com-kendallgayle.warc.gz	197137525
+msmckay	gallery.me.com	2012-04-11 15:41:04	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	gallery.me.com-msmckay.warc.gz	634658915
+msmckay	homepage.mac.com	2012-04-11 15:41:05	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	homepage.mac.com-msmckay.warc.gz	4895
+msmckay	public.me.com	2012-04-11 15:30:38	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	public.me.com-msmckay.warc.gz	1916
+msmckay	web.me.com	2012-04-11 15:30:37	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	web.me.com-msmckay.warc.gz	251509745
+npower	gallery.me.com	2012-04-11 17:30:30	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	gallery.me.com-npower.warc.gz	27646075
+npower	homepage.mac.com	2012-04-11 17:31:02	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	homepage.mac.com-npower.warc.gz	718648
+npower	public.me.com	2012-04-11 17:29:32	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	public.me.com-npower.warc.gz	2902656890
+npower	web.me.com	2012-04-11 16:41:28	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	web.me.com-npower.warc.gz	3003197
+sberkey	gallery.me.com	2012-04-11 16:16:08	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	gallery.me.com-sberkey.warc.gz	2556401834
+sberkey	homepage.mac.com	2012-04-11 16:16:09	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	homepage.mac.com-sberkey.warc.gz	7876
+sberkey	public.me.com	2012-04-11 15:49:59	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	public.me.com-sberkey.warc.gz	1920
+sberkey	web.me.com	2012-04-11 15:49:59	archiveteam-mobileme-hero-646x	archiveteam-mobileme-hero-646x-6466.tar	web.me.com-sberkey.warc.gz	147903551

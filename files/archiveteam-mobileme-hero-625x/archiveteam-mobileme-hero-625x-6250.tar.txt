@@ -1,20 +1,20 @@
-jonpaul1	gallery.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	gallery.me.com-jonpaul1.warc.gz	0
-jonpaul1	homepage.mac.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	homepage.mac.com-jonpaul1.warc.gz	0
-jonpaul1	public.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	public.me.com-jonpaul1.warc.gz	0
-jonpaul1	web.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	web.me.com-jonpaul1.warc.gz	0
-mattg81	gallery.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	gallery.me.com-mattg81.warc.gz	0
-mattg81	homepage.mac.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	homepage.mac.com-mattg81.warc.gz	0
-mattg81	public.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	public.me.com-mattg81.warc.gz	0
-mattg81	web.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	web.me.com-mattg81.warc.gz	0
-nebraskaorff	gallery.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	gallery.me.com-nebraskaorff.warc.gz	0
-nebraskaorff	homepage.mac.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	homepage.mac.com-nebraskaorff.warc.gz	0
-nebraskaorff	public.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	public.me.com-nebraskaorff.warc.gz	0
-nebraskaorff	web.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	web.me.com-nebraskaorff.warc.gz	0
-oxi	gallery.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	gallery.me.com-oxi.warc.gz	0
-oxi	homepage.mac.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	homepage.mac.com-oxi.warc.gz	0
-oxi	public.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	public.me.com-oxi.warc.gz	0
-oxi	web.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	web.me.com-oxi.warc.gz	0
-rafaelserrano3000	gallery.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	gallery.me.com-rafaelserrano3000.warc.gz	0
-rafaelserrano3000	homepage.mac.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	homepage.mac.com-rafaelserrano3000.warc.gz	0
-rafaelserrano3000	public.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	public.me.com-rafaelserrano3000.warc.gz	0
-rafaelserrano3000	web.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	web.me.com-rafaelserrano3000.warc.gz	0
+jonpaul1	gallery.me.com	2012-04-11 05:06:19	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	gallery.me.com-jonpaul1.warc.gz	32819277
+jonpaul1	homepage.mac.com	2012-04-11 05:06:20	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	homepage.mac.com-jonpaul1.warc.gz	9344
+jonpaul1	public.me.com	2012-04-11 05:04:29	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	public.me.com-jonpaul1.warc.gz	542888
+jonpaul1	web.me.com	2012-04-11 05:04:26	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	web.me.com-jonpaul1.warc.gz	85174376
+mattg81	gallery.me.com	2012-04-11 06:33:29	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	gallery.me.com-mattg81.warc.gz	1159503985
+mattg81	homepage.mac.com	2012-04-11 06:33:31	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	homepage.mac.com-mattg81.warc.gz	36832
+mattg81	public.me.com	2012-04-11 06:07:22	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	public.me.com-mattg81.warc.gz	405756626
+mattg81	web.me.com	2012-04-11 06:03:24	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	web.me.com-mattg81.warc.gz	885643330
+nebraskaorff	gallery.me.com	2012-04-11 05:24:25	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	gallery.me.com-nebraskaorff.warc.gz	5166
+nebraskaorff	homepage.mac.com	2012-04-11 05:24:25	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	homepage.mac.com-nebraskaorff.warc.gz	4934
+nebraskaorff	public.me.com	2012-04-11 05:24:24	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	public.me.com-nebraskaorff.warc.gz	1919
+nebraskaorff	web.me.com	2012-04-11 05:24:24	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	web.me.com-nebraskaorff.warc.gz	13500893
+oxi	gallery.me.com	2012-04-11 04:55:09	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	gallery.me.com-oxi.warc.gz	2206401302
+oxi	homepage.mac.com	2012-04-11 04:55:13	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	homepage.mac.com-oxi.warc.gz	4871
+oxi	public.me.com	2012-04-11 03:57:01	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	public.me.com-oxi.warc.gz	114880013
+oxi	web.me.com	2012-04-11 03:53:54	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	web.me.com-oxi.warc.gz	158485178
+rafaelserrano3000	gallery.me.com	2012-04-11 05:19:14	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	gallery.me.com-rafaelserrano3000.warc.gz	57474923
+rafaelserrano3000	homepage.mac.com	2012-04-11 05:19:15	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	homepage.mac.com-rafaelserrano3000.warc.gz	4950
+rafaelserrano3000	public.me.com	2012-04-11 05:14:28	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	public.me.com-rafaelserrano3000.warc.gz	1929
+rafaelserrano3000	web.me.com	2012-04-11 05:14:28	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6250.tar	web.me.com-rafaelserrano3000.warc.gz	8188608

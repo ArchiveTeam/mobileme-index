@@ -1,16 +1,16 @@
-dthornton12	gallery.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	gallery.me.com-dthornton12.warc.gz	0
-dthornton12	homepage.mac.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	homepage.mac.com-dthornton12.warc.gz	0
-dthornton12	public.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	public.me.com-dthornton12.warc.gz	0
-dthornton12	web.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	web.me.com-dthornton12.warc.gz	0
-julesatl	gallery.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	gallery.me.com-julesatl.warc.gz	0
-julesatl	homepage.mac.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	homepage.mac.com-julesatl.warc.gz	0
-julesatl	public.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	public.me.com-julesatl.warc.gz	0
-julesatl	web.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	web.me.com-julesatl.warc.gz	0
-lowcamino	gallery.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	gallery.me.com-lowcamino.warc.gz	0
-lowcamino	homepage.mac.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	homepage.mac.com-lowcamino.warc.gz	0
-lowcamino	public.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	public.me.com-lowcamino.warc.gz	0
-lowcamino	web.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	web.me.com-lowcamino.warc.gz	0
-mstm	gallery.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	gallery.me.com-mstm.warc.gz	0
-mstm	homepage.mac.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	homepage.mac.com-mstm.warc.gz	0
-mstm	public.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	public.me.com-mstm.warc.gz	0
-mstm	web.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	web.me.com-mstm.warc.gz	0
+dthornton12	gallery.me.com	2012-04-06 08:07:45	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	gallery.me.com-dthornton12.warc.gz	900307431
+dthornton12	homepage.mac.com	2012-04-06 08:07:46	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	homepage.mac.com-dthornton12.warc.gz	4932
+dthornton12	public.me.com	2012-04-06 08:01:01	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	public.me.com-dthornton12.warc.gz	1922
+dthornton12	web.me.com	2012-04-06 08:00:53	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	web.me.com-dthornton12.warc.gz	3962969526
+julesatl	gallery.me.com	2012-04-06 06:59:43	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	gallery.me.com-julesatl.warc.gz	12336
+julesatl	homepage.mac.com	2012-04-06 06:59:45	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	homepage.mac.com-julesatl.warc.gz	7163
+julesatl	public.me.com	2012-04-06 06:59:42	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	public.me.com-julesatl.warc.gz	1915
+julesatl	web.me.com	2012-04-06 06:59:42	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	web.me.com-julesatl.warc.gz	22453
+lowcamino	gallery.me.com	2012-04-06 07:08:05	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	gallery.me.com-lowcamino.warc.gz	91995399
+lowcamino	homepage.mac.com	2012-04-06 07:08:06	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	homepage.mac.com-lowcamino.warc.gz	4902
+lowcamino	public.me.com	2012-04-06 07:05:57	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	public.me.com-lowcamino.warc.gz	12083026
+lowcamino	web.me.com	2012-04-06 07:05:32	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	web.me.com-lowcamino.warc.gz	53265502
+mstm	gallery.me.com	2012-04-06 07:09:23	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	gallery.me.com-mstm.warc.gz	4219
+mstm	homepage.mac.com	2012-04-06 07:09:24	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	homepage.mac.com-mstm.warc.gz	6008
+mstm	public.me.com	2012-04-06 07:09:23	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	public.me.com-mstm.warc.gz	3249006
+mstm	web.me.com	2012-04-06 07:09:16	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4584.tar	web.me.com-mstm.warc.gz	2644918

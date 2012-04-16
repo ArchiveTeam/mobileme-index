@@ -1,12 +1,12 @@
-frederic.rolland	gallery.me.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	gallery.me.com-frederic.rolland.warc.gz	0
-frederic.rolland	homepage.mac.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	homepage.mac.com-frederic.rolland.warc.gz	0
-frederic.rolland	public.me.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	public.me.com-frederic.rolland.warc.gz	0
-frederic.rolland	web.me.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	web.me.com-frederic.rolland.warc.gz	0
-jdbasho	gallery.me.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	gallery.me.com-jdbasho.warc.gz	0
-jdbasho	homepage.mac.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	homepage.mac.com-jdbasho.warc.gz	0
-jdbasho	public.me.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	public.me.com-jdbasho.warc.gz	0
-jdbasho	web.me.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	web.me.com-jdbasho.warc.gz	0
-meiwa	gallery.me.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	gallery.me.com-meiwa.warc.gz	0
-meiwa	homepage.mac.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	homepage.mac.com-meiwa.warc.gz	0
-meiwa	public.me.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	public.me.com-meiwa.warc.gz	0
-meiwa	web.me.com		archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	web.me.com-meiwa.warc.gz	0
+frederic.rolland	gallery.me.com	2012-04-13 09:51:57	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	gallery.me.com-frederic.rolland.warc.gz	4270450036
+frederic.rolland	homepage.mac.com	2012-04-13 09:51:58	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	homepage.mac.com-frederic.rolland.warc.gz	4940
+frederic.rolland	public.me.com	2012-04-13 09:07:15	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	public.me.com-frederic.rolland.warc.gz	36081480
+frederic.rolland	web.me.com	2012-04-13 09:06:18	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	web.me.com-frederic.rolland.warc.gz	207466502
+jdbasho	gallery.me.com	2012-04-13 08:45:00	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	gallery.me.com-jdbasho.warc.gz	2276590213
+jdbasho	homepage.mac.com	2012-04-13 08:45:01	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	homepage.mac.com-jdbasho.warc.gz	4914
+jdbasho	public.me.com	2012-04-13 08:09:23	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	public.me.com-jdbasho.warc.gz	1921
+jdbasho	web.me.com	2012-04-13 08:09:16	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	web.me.com-jdbasho.warc.gz	396382892
+meiwa	gallery.me.com	2012-04-13 08:56:16	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	gallery.me.com-meiwa.warc.gz	757764985
+meiwa	homepage.mac.com	2012-04-13 08:56:52	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	homepage.mac.com-meiwa.warc.gz	636509
+meiwa	public.me.com	2012-04-13 08:47:03	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	public.me.com-meiwa.warc.gz	3347
+meiwa	web.me.com	2012-04-13 08:47:03	archiveteam-mobileme-hero-724x	archiveteam-mobileme-hero-724x-7242.tar	web.me.com-meiwa.warc.gz	22832950

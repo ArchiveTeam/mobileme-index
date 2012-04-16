@@ -1,8 +1,8 @@
-jreed	gallery.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4905.tar	gallery.me.com-jreed.warc.gz	0
-jreed	homepage.mac.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4905.tar	homepage.mac.com-jreed.warc.gz	0
-jreed	public.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4905.tar	public.me.com-jreed.warc.gz	0
-jreed	web.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4905.tar	web.me.com-jreed.warc.gz	0
-vicsavoy	gallery.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4905.tar	gallery.me.com-vicsavoy.warc.gz	0
-vicsavoy	homepage.mac.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4905.tar	homepage.mac.com-vicsavoy.warc.gz	0
-vicsavoy	public.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4905.tar	public.me.com-vicsavoy.warc.gz	0
-vicsavoy	web.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4905.tar	web.me.com-vicsavoy.warc.gz	0
+jreed	gallery.me.com	2012-04-07 16:35:30	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4905.tar	gallery.me.com-jreed.warc.gz	4498750870
+jreed	homepage.mac.com	2012-04-07 16:35:32	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4905.tar	homepage.mac.com-jreed.warc.gz	7855
+jreed	public.me.com	2012-04-07 15:56:41	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4905.tar	public.me.com-jreed.warc.gz	1915
+jreed	web.me.com	2012-04-07 15:56:40	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4905.tar	web.me.com-jreed.warc.gz	319622402
+vicsavoy	gallery.me.com	2012-04-07 15:51:21	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4905.tar	gallery.me.com-vicsavoy.warc.gz	28133243
+vicsavoy	homepage.mac.com	2012-04-07 15:51:25	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4905.tar	homepage.mac.com-vicsavoy.warc.gz	85085
+vicsavoy	public.me.com	2012-04-07 15:50:00	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4905.tar	public.me.com-vicsavoy.warc.gz	494488806
+vicsavoy	web.me.com	2012-04-07 15:44:18	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4905.tar	web.me.com-vicsavoy.warc.gz	35499818

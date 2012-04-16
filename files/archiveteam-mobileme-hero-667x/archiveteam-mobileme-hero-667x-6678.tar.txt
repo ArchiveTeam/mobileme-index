@@ -1,24 +1,24 @@
-brian	gallery.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	gallery.me.com-brian.warc.gz	0
-brian	homepage.mac.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	homepage.mac.com-brian.warc.gz	0
-brian	public.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	public.me.com-brian.warc.gz	0
-brian	web.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	web.me.com-brian.warc.gz	0
-denisejohn	gallery.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	gallery.me.com-denisejohn.warc.gz	0
-denisejohn	homepage.mac.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	homepage.mac.com-denisejohn.warc.gz	0
-denisejohn	public.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	public.me.com-denisejohn.warc.gz	0
-denisejohn	web.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	web.me.com-denisejohn.warc.gz	0
-grantmcf	gallery.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	gallery.me.com-grantmcf.warc.gz	0
-grantmcf	homepage.mac.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	homepage.mac.com-grantmcf.warc.gz	0
-grantmcf	public.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	public.me.com-grantmcf.warc.gz	0
-grantmcf	web.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	web.me.com-grantmcf.warc.gz	0
-michael.sagmeister	gallery.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	gallery.me.com-michael.sagmeister.warc.gz	0
-michael.sagmeister	homepage.mac.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	homepage.mac.com-michael.sagmeister.warc.gz	0
-michael.sagmeister	public.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	public.me.com-michael.sagmeister.warc.gz	0
-michael.sagmeister	web.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	web.me.com-michael.sagmeister.warc.gz	0
-sayakabrooker	gallery.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	gallery.me.com-sayakabrooker.warc.gz	0
-sayakabrooker	homepage.mac.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	homepage.mac.com-sayakabrooker.warc.gz	0
-sayakabrooker	public.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	public.me.com-sayakabrooker.warc.gz	0
-sayakabrooker	web.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	web.me.com-sayakabrooker.warc.gz	0
-therfactor	gallery.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	gallery.me.com-therfactor.warc.gz	0
-therfactor	homepage.mac.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	homepage.mac.com-therfactor.warc.gz	0
-therfactor	public.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	public.me.com-therfactor.warc.gz	0
-therfactor	web.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	web.me.com-therfactor.warc.gz	0
+brian	gallery.me.com	2012-04-12 08:32:22	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	gallery.me.com-brian.warc.gz	5013
+brian	homepage.mac.com	2012-04-12 08:32:25	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	homepage.mac.com-brian.warc.gz	59890
+brian	public.me.com	2012-04-12 08:32:21	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	public.me.com-brian.warc.gz	81679
+brian	web.me.com	2012-04-12 08:32:18	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	web.me.com-brian.warc.gz	2210215
+denisejohn	gallery.me.com	2012-04-12 07:18:16	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	gallery.me.com-denisejohn.warc.gz	216039326
+denisejohn	homepage.mac.com	2012-04-12 07:18:16	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	homepage.mac.com-denisejohn.warc.gz	4928
+denisejohn	public.me.com	2012-04-12 07:16:43	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	public.me.com-denisejohn.warc.gz	611079
+denisejohn	web.me.com	2012-04-12 07:16:38	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	web.me.com-denisejohn.warc.gz	65465191
+grantmcf	gallery.me.com	2012-04-12 08:29:06	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	gallery.me.com-grantmcf.warc.gz	634304720
+grantmcf	homepage.mac.com	2012-04-12 08:29:07	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	homepage.mac.com-grantmcf.warc.gz	4928
+grantmcf	public.me.com	2012-04-12 08:09:51	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	public.me.com-grantmcf.warc.gz	47624286
+grantmcf	web.me.com	2012-04-12 08:09:09	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	web.me.com-grantmcf.warc.gz	664311807
+michael.sagmeister	gallery.me.com	2012-04-12 09:26:05	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	gallery.me.com-michael.sagmeister.warc.gz	297744798
+michael.sagmeister	homepage.mac.com	2012-04-12 09:26:09	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	homepage.mac.com-michael.sagmeister.warc.gz	6113
+michael.sagmeister	public.me.com	2012-04-12 09:15:21	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	public.me.com-michael.sagmeister.warc.gz	1938
+michael.sagmeister	web.me.com	2012-04-12 09:15:20	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	web.me.com-michael.sagmeister.warc.gz	199239988
+sayakabrooker	gallery.me.com	2012-04-12 09:00:41	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	gallery.me.com-sayakabrooker.warc.gz	880096183
+sayakabrooker	homepage.mac.com	2012-04-12 09:00:41	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	homepage.mac.com-sayakabrooker.warc.gz	4927
+sayakabrooker	public.me.com	2012-04-12 08:40:14	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	public.me.com-sayakabrooker.warc.gz	33255501
+sayakabrooker	web.me.com	2012-04-12 08:38:02	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	web.me.com-sayakabrooker.warc.gz	6032744
+therfactor	gallery.me.com	2012-04-12 06:52:35	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	gallery.me.com-therfactor.warc.gz	268474065
+therfactor	homepage.mac.com	2012-04-12 06:52:40	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	homepage.mac.com-therfactor.warc.gz	104243
+therfactor	public.me.com	2012-04-12 06:49:34	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	public.me.com-therfactor.warc.gz	1914
+therfactor	web.me.com	2012-04-12 06:49:33	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6678.tar	web.me.com-therfactor.warc.gz	983792698

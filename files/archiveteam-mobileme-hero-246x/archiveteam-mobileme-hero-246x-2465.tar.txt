@@ -1,12 +1,12 @@
-martincapps	gallery.me.com		archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	gallery.me.com-martincapps.warc.gz	0
-martincapps	homepage.mac.com		archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	homepage.mac.com-martincapps.warc.gz	0
-martincapps	public.me.com		archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	public.me.com-martincapps.warc.gz	0
-martincapps	web.me.com		archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	web.me.com-martincapps.warc.gz	0
-pangea_corporation	gallery.me.com		archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	gallery.me.com-pangea_corporation.warc.gz	0
-pangea_corporation	homepage.mac.com		archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	homepage.mac.com-pangea_corporation.warc.gz	0
-pangea_corporation	public.me.com		archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	public.me.com-pangea_corporation.warc.gz	0
-pangea_corporation	web.me.com		archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	web.me.com-pangea_corporation.warc.gz	0
-veritycorporation	gallery.me.com		archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	gallery.me.com-veritycorporation.warc.gz	0
-veritycorporation	homepage.mac.com		archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	homepage.mac.com-veritycorporation.warc.gz	0
-veritycorporation	public.me.com		archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	public.me.com-veritycorporation.warc.gz	0
-veritycorporation	web.me.com		archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	web.me.com-veritycorporation.warc.gz	0
+martincapps	gallery.me.com	2012-03-31 08:01:35	archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	gallery.me.com-martincapps.warc.gz	263374521
+martincapps	homepage.mac.com	2012-03-31 08:01:47	archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	homepage.mac.com-martincapps.warc.gz	138121
+martincapps	public.me.com	2012-03-31 07:53:26	archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	public.me.com-martincapps.warc.gz	1302745
+martincapps	web.me.com	2012-03-31 07:53:18	archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	web.me.com-martincapps.warc.gz	4538589
+pangea_corporation	gallery.me.com	2012-03-31 17:52:34	archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	gallery.me.com-pangea_corporation.warc.gz	4963273268
+pangea_corporation	homepage.mac.com	2012-03-31 17:52:38	archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	homepage.mac.com-pangea_corporation.warc.gz	41398
+pangea_corporation	public.me.com	2012-03-31 14:00:21	archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	public.me.com-pangea_corporation.warc.gz	3167085119
+pangea_corporation	web.me.com	2012-03-31 11:47:30	archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	web.me.com-pangea_corporation.warc.gz	4065573206
+veritycorporation	gallery.me.com	2012-03-31 09:00:05	archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	gallery.me.com-veritycorporation.warc.gz	1256707228
+veritycorporation	homepage.mac.com	2012-03-31 09:00:05	archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	homepage.mac.com-veritycorporation.warc.gz	4929
+veritycorporation	public.me.com	2012-03-31 08:18:23	archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	public.me.com-veritycorporation.warc.gz	578613728
+veritycorporation	web.me.com	2012-03-31 08:10:26	archiveteam-mobileme-hero-246x	archiveteam-mobileme-hero-246x-2465.tar	web.me.com-veritycorporation.warc.gz	18796259

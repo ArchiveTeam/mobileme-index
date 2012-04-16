@@ -1,16 +1,16 @@
-joandunning	gallery.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	gallery.me.com-joandunning.warc.gz	0
-joandunning	homepage.mac.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	homepage.mac.com-joandunning.warc.gz	0
-joandunning	public.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	public.me.com-joandunning.warc.gz	0
-joandunning	web.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	web.me.com-joandunning.warc.gz	0
-phjk	gallery.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	gallery.me.com-phjk.warc.gz	0
-phjk	homepage.mac.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	homepage.mac.com-phjk.warc.gz	0
-phjk	public.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	public.me.com-phjk.warc.gz	0
-phjk	web.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	web.me.com-phjk.warc.gz	0
-snblove	gallery.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	gallery.me.com-snblove.warc.gz	0
-snblove	homepage.mac.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	homepage.mac.com-snblove.warc.gz	0
-snblove	public.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	public.me.com-snblove.warc.gz	0
-snblove	web.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	web.me.com-snblove.warc.gz	0
-stephanebassot	gallery.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	gallery.me.com-stephanebassot.warc.gz	0
-stephanebassot	homepage.mac.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	homepage.mac.com-stephanebassot.warc.gz	0
-stephanebassot	public.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	public.me.com-stephanebassot.warc.gz	0
-stephanebassot	web.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	web.me.com-stephanebassot.warc.gz	0
+joandunning	gallery.me.com	2012-04-06 15:40:59	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	gallery.me.com-joandunning.warc.gz	4289
+joandunning	homepage.mac.com	2012-04-06 15:40:59	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	homepage.mac.com-joandunning.warc.gz	4916
+joandunning	public.me.com	2012-04-06 15:40:58	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	public.me.com-joandunning.warc.gz	1926
+joandunning	web.me.com	2012-04-06 15:40:57	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	web.me.com-joandunning.warc.gz	4340400
+phjk	gallery.me.com	2012-04-06 17:04:52	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	gallery.me.com-phjk.warc.gz	2334048198
+phjk	homepage.mac.com	2012-04-06 17:04:52	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	homepage.mac.com-phjk.warc.gz	4898
+phjk	public.me.com	2012-04-06 16:13:29	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	public.me.com-phjk.warc.gz	1697422603
+phjk	web.me.com	2012-04-06 15:56:40	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	web.me.com-phjk.warc.gz	277987086
+snblove	gallery.me.com	2012-04-06 15:23:19	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	gallery.me.com-snblove.warc.gz	37333179
+snblove	homepage.mac.com	2012-04-06 15:23:19	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	homepage.mac.com-snblove.warc.gz	4906
+snblove	public.me.com	2012-04-06 15:23:02	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	public.me.com-snblove.warc.gz	1915
+snblove	web.me.com	2012-04-06 15:23:01	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	web.me.com-snblove.warc.gz	103271054
+stephanebassot	gallery.me.com	2012-04-06 15:39:58	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	gallery.me.com-stephanebassot.warc.gz	2262851
+stephanebassot	homepage.mac.com	2012-04-06 15:39:59	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	homepage.mac.com-stephanebassot.warc.gz	4918
+stephanebassot	public.me.com	2012-04-06 15:39:50	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	public.me.com-stephanebassot.warc.gz	1928
+stephanebassot	web.me.com	2012-04-06 15:39:48	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4745.tar	web.me.com-stephanebassot.warc.gz	1703138382

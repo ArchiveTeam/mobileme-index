@@ -1,20 +1,20 @@
-aleamarilla	gallery.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	gallery.me.com-aleamarilla.warc.gz	0
-aleamarilla	homepage.mac.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	homepage.mac.com-aleamarilla.warc.gz	0
-aleamarilla	public.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	public.me.com-aleamarilla.warc.gz	0
-aleamarilla	web.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	web.me.com-aleamarilla.warc.gz	0
-bethgalvin	gallery.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	gallery.me.com-bethgalvin.warc.gz	0
-bethgalvin	homepage.mac.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	homepage.mac.com-bethgalvin.warc.gz	0
-bethgalvin	public.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	public.me.com-bethgalvin.warc.gz	0
-bethgalvin	web.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	web.me.com-bethgalvin.warc.gz	0
-jeanbeanny	gallery.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	gallery.me.com-jeanbeanny.warc.gz	0
-jeanbeanny	homepage.mac.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	homepage.mac.com-jeanbeanny.warc.gz	0
-jeanbeanny	public.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	public.me.com-jeanbeanny.warc.gz	0
-jeanbeanny	web.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	web.me.com-jeanbeanny.warc.gz	0
-redfish33	gallery.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	gallery.me.com-redfish33.warc.gz	0
-redfish33	homepage.mac.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	homepage.mac.com-redfish33.warc.gz	0
-redfish33	public.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	public.me.com-redfish33.warc.gz	0
-redfish33	web.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	web.me.com-redfish33.warc.gz	0
-rogerschmitt	gallery.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	gallery.me.com-rogerschmitt.warc.gz	0
-rogerschmitt	homepage.mac.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	homepage.mac.com-rogerschmitt.warc.gz	0
-rogerschmitt	public.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	public.me.com-rogerschmitt.warc.gz	0
-rogerschmitt	web.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	web.me.com-rogerschmitt.warc.gz	0
+aleamarilla	gallery.me.com	2012-04-04 15:11:12	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	gallery.me.com-aleamarilla.warc.gz	455212299
+aleamarilla	homepage.mac.com	2012-04-04 15:11:13	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	homepage.mac.com-aleamarilla.warc.gz	4935
+aleamarilla	public.me.com	2012-04-04 15:05:11	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	public.me.com-aleamarilla.warc.gz	1915
+aleamarilla	web.me.com	2012-04-04 15:05:11	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	web.me.com-aleamarilla.warc.gz	11224892
+bethgalvin	gallery.me.com	2012-04-04 15:43:43	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	gallery.me.com-bethgalvin.warc.gz	4240
+bethgalvin	homepage.mac.com	2012-04-04 15:43:43	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	homepage.mac.com-bethgalvin.warc.gz	4912
+bethgalvin	public.me.com	2012-04-04 15:43:42	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	public.me.com-bethgalvin.warc.gz	1920
+bethgalvin	web.me.com	2012-04-04 15:43:42	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	web.me.com-bethgalvin.warc.gz	328771280
+jeanbeanny	gallery.me.com	2012-04-04 15:39:01	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	gallery.me.com-jeanbeanny.warc.gz	1057665539
+jeanbeanny	homepage.mac.com	2012-04-04 15:39:40	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	homepage.mac.com-jeanbeanny.warc.gz	1075553
+jeanbeanny	public.me.com	2012-04-04 15:23:55	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	public.me.com-jeanbeanny.warc.gz	1921
+jeanbeanny	web.me.com	2012-04-04 15:23:54	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	web.me.com-jeanbeanny.warc.gz	256524469
+redfish33	gallery.me.com	2012-04-04 15:03:35	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	gallery.me.com-redfish33.warc.gz	4244
+redfish33	homepage.mac.com	2012-04-04 15:03:36	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	homepage.mac.com-redfish33.warc.gz	4893
+redfish33	public.me.com	2012-04-04 15:03:35	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	public.me.com-redfish33.warc.gz	1918
+redfish33	web.me.com	2012-04-04 15:03:34	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	web.me.com-redfish33.warc.gz	5878613
+rogerschmitt	gallery.me.com	2012-04-04 18:39:07	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	gallery.me.com-rogerschmitt.warc.gz	8289112558
+rogerschmitt	homepage.mac.com	2012-04-04 18:39:07	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	homepage.mac.com-rogerschmitt.warc.gz	4911
+rogerschmitt	public.me.com	2012-04-04 16:39:53	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	public.me.com-rogerschmitt.warc.gz	3340
+rogerschmitt	web.me.com	2012-04-04 16:38:53	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3917.tar	web.me.com-rogerschmitt.warc.gz	1128769639

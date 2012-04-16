@@ -1,8 +1,8 @@
-gstowell	gallery.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3914.tar	gallery.me.com-gstowell.warc.gz	0
-gstowell	homepage.mac.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3914.tar	homepage.mac.com-gstowell.warc.gz	0
-gstowell	public.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3914.tar	public.me.com-gstowell.warc.gz	0
-gstowell	web.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3914.tar	web.me.com-gstowell.warc.gz	0
-jasontirado	gallery.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3914.tar	gallery.me.com-jasontirado.warc.gz	0
-jasontirado	homepage.mac.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3914.tar	homepage.mac.com-jasontirado.warc.gz	0
-jasontirado	public.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3914.tar	public.me.com-jasontirado.warc.gz	0
-jasontirado	web.me.com		archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3914.tar	web.me.com-jasontirado.warc.gz	0
+gstowell	gallery.me.com	2012-04-04 14:42:08	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3914.tar	gallery.me.com-gstowell.warc.gz	91221947
+gstowell	homepage.mac.com	2012-04-04 14:42:08	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3914.tar	homepage.mac.com-gstowell.warc.gz	4914
+gstowell	public.me.com	2012-04-04 14:38:34	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3914.tar	public.me.com-gstowell.warc.gz	1912
+gstowell	web.me.com	2012-04-04 14:38:33	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3914.tar	web.me.com-gstowell.warc.gz	82072286
+jasontirado	gallery.me.com	2012-04-04 18:19:18	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3914.tar	gallery.me.com-jasontirado.warc.gz	5360
+jasontirado	homepage.mac.com	2012-04-04 18:19:19	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3914.tar	homepage.mac.com-jasontirado.warc.gz	4906
+jasontirado	public.me.com	2012-04-04 18:19:16	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3914.tar	public.me.com-jasontirado.warc.gz	4983974179
+jasontirado	web.me.com	2012-04-04 15:09:37	archiveteam-mobileme-hero-391x	archiveteam-mobileme-hero-391x-3914.tar	web.me.com-jasontirado.warc.gz	441921773

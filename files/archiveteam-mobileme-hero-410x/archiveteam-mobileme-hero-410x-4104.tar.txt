@@ -1,20 +1,20 @@
-awhg	gallery.me.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	gallery.me.com-awhg.warc.gz	0
-awhg	homepage.mac.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	homepage.mac.com-awhg.warc.gz	0
-awhg	public.me.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	public.me.com-awhg.warc.gz	0
-awhg	web.me.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	web.me.com-awhg.warc.gz	0
-coltron	gallery.me.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	gallery.me.com-coltron.warc.gz	0
-coltron	homepage.mac.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	homepage.mac.com-coltron.warc.gz	0
-coltron	public.me.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	public.me.com-coltron.warc.gz	0
-coltron	web.me.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	web.me.com-coltron.warc.gz	0
-olivier.h2o	gallery.me.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	gallery.me.com-olivier.h2o.warc.gz	0
-olivier.h2o	homepage.mac.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	homepage.mac.com-olivier.h2o.warc.gz	0
-olivier.h2o	public.me.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	public.me.com-olivier.h2o.warc.gz	0
-olivier.h2o	web.me.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	web.me.com-olivier.h2o.warc.gz	0
-stevevollmer	gallery.me.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	gallery.me.com-stevevollmer.warc.gz	0
-stevevollmer	homepage.mac.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	homepage.mac.com-stevevollmer.warc.gz	0
-stevevollmer	public.me.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	public.me.com-stevevollmer.warc.gz	0
-stevevollmer	web.me.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	web.me.com-stevevollmer.warc.gz	0
-tomkettlewell	gallery.me.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	gallery.me.com-tomkettlewell.warc.gz	0
-tomkettlewell	homepage.mac.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	homepage.mac.com-tomkettlewell.warc.gz	0
-tomkettlewell	public.me.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	public.me.com-tomkettlewell.warc.gz	0
-tomkettlewell	web.me.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	web.me.com-tomkettlewell.warc.gz	0
+awhg	gallery.me.com	2012-04-05 00:15:44	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	gallery.me.com-awhg.warc.gz	54537849
+awhg	homepage.mac.com	2012-04-05 00:15:45	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	homepage.mac.com-awhg.warc.gz	4899
+awhg	public.me.com	2012-04-05 00:11:18	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	public.me.com-awhg.warc.gz	4117
+awhg	web.me.com	2012-04-05 00:11:13	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	web.me.com-awhg.warc.gz	148373452
+coltron	gallery.me.com	2012-04-05 01:08:14	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	gallery.me.com-coltron.warc.gz	68854171
+coltron	homepage.mac.com	2012-04-05 01:08:15	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	homepage.mac.com-coltron.warc.gz	4905
+coltron	public.me.com	2012-04-05 01:07:32	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	public.me.com-coltron.warc.gz	488516805
+coltron	web.me.com	2012-04-05 00:52:17	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	web.me.com-coltron.warc.gz	252003349
+olivier.h2o	gallery.me.com	2012-04-05 02:09:45	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	gallery.me.com-olivier.h2o.warc.gz	141296174
+olivier.h2o	homepage.mac.com	2012-04-05 02:09:45	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	homepage.mac.com-olivier.h2o.warc.gz	4922
+olivier.h2o	public.me.com	2012-04-05 01:54:21	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	public.me.com-olivier.h2o.warc.gz	1926
+olivier.h2o	web.me.com	2012-04-05 01:54:20	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	web.me.com-olivier.h2o.warc.gz	175559191
+stevevollmer	gallery.me.com	2012-04-05 04:50:34	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	gallery.me.com-stevevollmer.warc.gz	5768
+stevevollmer	homepage.mac.com	2012-04-05 04:50:34	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	homepage.mac.com-stevevollmer.warc.gz	4913
+stevevollmer	public.me.com	2012-04-05 04:50:30	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	public.me.com-stevevollmer.warc.gz	5553253859
+stevevollmer	web.me.com	2012-04-05 02:10:48	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	web.me.com-stevevollmer.warc.gz	8913012
+tomkettlewell	gallery.me.com	2012-04-05 01:26:51	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	gallery.me.com-tomkettlewell.warc.gz	4267
+tomkettlewell	homepage.mac.com	2012-04-05 01:26:51	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	homepage.mac.com-tomkettlewell.warc.gz	4925
+tomkettlewell	public.me.com	2012-04-05 01:26:50	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	public.me.com-tomkettlewell.warc.gz	1921
+tomkettlewell	web.me.com	2012-04-05 01:26:50	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4104.tar	web.me.com-tomkettlewell.warc.gz	92864339

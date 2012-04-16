@@ -1,8 +1,8 @@
-ajbaco	gallery.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6980.tar	gallery.me.com-ajbaco.warc.gz	0
-ajbaco	homepage.mac.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6980.tar	homepage.mac.com-ajbaco.warc.gz	0
-ajbaco	public.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6980.tar	public.me.com-ajbaco.warc.gz	0
-ajbaco	web.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6980.tar	web.me.com-ajbaco.warc.gz	0
-kuraman	gallery.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6980.tar	gallery.me.com-kuraman.warc.gz	0
-kuraman	homepage.mac.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6980.tar	homepage.mac.com-kuraman.warc.gz	0
-kuraman	public.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6980.tar	public.me.com-kuraman.warc.gz	0
-kuraman	web.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6980.tar	web.me.com-kuraman.warc.gz	0
+ajbaco	gallery.me.com	2012-04-12 22:01:04	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6980.tar	gallery.me.com-ajbaco.warc.gz	5880936926
+ajbaco	homepage.mac.com	2012-04-12 22:01:05	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6980.tar	homepage.mac.com-ajbaco.warc.gz	4892
+ajbaco	public.me.com	2012-04-12 20:10:33	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6980.tar	public.me.com-ajbaco.warc.gz	588989213
+ajbaco	web.me.com	2012-04-12 19:56:11	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6980.tar	web.me.com-ajbaco.warc.gz	27456500
+kuraman	gallery.me.com	2012-04-12 19:42:53	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6980.tar	gallery.me.com-kuraman.warc.gz	12299
+kuraman	homepage.mac.com	2012-04-12 19:42:54	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6980.tar	homepage.mac.com-kuraman.warc.gz	7136
+kuraman	public.me.com	2012-04-12 19:42:52	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6980.tar	public.me.com-kuraman.warc.gz	1918
+kuraman	web.me.com	2012-04-12 19:42:51	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6980.tar	web.me.com-kuraman.warc.gz	22422

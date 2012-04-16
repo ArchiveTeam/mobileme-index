@@ -1,12 +1,12 @@
-asa_chan_fuchudo	gallery.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	gallery.me.com-asa_chan_fuchudo.warc.gz	0
-asa_chan_fuchudo	homepage.mac.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	homepage.mac.com-asa_chan_fuchudo.warc.gz	0
-asa_chan_fuchudo	public.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	public.me.com-asa_chan_fuchudo.warc.gz	0
-asa_chan_fuchudo	web.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	web.me.com-asa_chan_fuchudo.warc.gz	0
-davidworsley	gallery.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	gallery.me.com-davidworsley.warc.gz	0
-davidworsley	homepage.mac.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	homepage.mac.com-davidworsley.warc.gz	0
-davidworsley	public.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	public.me.com-davidworsley.warc.gz	0
-davidworsley	web.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	web.me.com-davidworsley.warc.gz	0
-roarksglory	gallery.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	gallery.me.com-roarksglory.warc.gz	0
-roarksglory	homepage.mac.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	homepage.mac.com-roarksglory.warc.gz	0
-roarksglory	public.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	public.me.com-roarksglory.warc.gz	0
-roarksglory	web.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	web.me.com-roarksglory.warc.gz	0
+asa_chan_fuchudo	gallery.me.com	2012-04-10 00:05:13	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	gallery.me.com-asa_chan_fuchudo.warc.gz	5175
+asa_chan_fuchudo	homepage.mac.com	2012-04-10 00:05:23	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	homepage.mac.com-asa_chan_fuchudo.warc.gz	167154
+asa_chan_fuchudo	public.me.com	2012-04-10 00:05:12	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	public.me.com-asa_chan_fuchudo.warc.gz	1931
+asa_chan_fuchudo	web.me.com	2012-04-10 00:05:11	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	web.me.com-asa_chan_fuchudo.warc.gz	33127
+davidworsley	gallery.me.com	2012-04-10 01:28:18	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	gallery.me.com-davidworsley.warc.gz	1378928750
+davidworsley	homepage.mac.com	2012-04-10 01:28:18	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	homepage.mac.com-davidworsley.warc.gz	4918
+davidworsley	public.me.com	2012-04-10 00:38:22	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	public.me.com-davidworsley.warc.gz	926582490
+davidworsley	web.me.com	2012-04-10 00:14:24	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	web.me.com-davidworsley.warc.gz	112201454
+roarksglory	gallery.me.com	2012-04-10 04:32:32	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	gallery.me.com-roarksglory.warc.gz	2542456123
+roarksglory	homepage.mac.com	2012-04-10 04:32:32	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	homepage.mac.com-roarksglory.warc.gz	4911
+roarksglory	public.me.com	2012-04-10 03:08:25	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	public.me.com-roarksglory.warc.gz	3071770564
+roarksglory	web.me.com	2012-04-10 01:55:11	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5758.tar	web.me.com-roarksglory.warc.gz	186516857

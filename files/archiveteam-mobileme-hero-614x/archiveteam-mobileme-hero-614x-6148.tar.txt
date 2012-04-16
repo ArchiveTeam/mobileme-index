@@ -1,20 +1,20 @@
-c1429633408	gallery.me.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	gallery.me.com-c1429633408.warc.gz	0
-c1429633408	homepage.mac.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	homepage.mac.com-c1429633408.warc.gz	0
-c1429633408	public.me.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	public.me.com-c1429633408.warc.gz	0
-c1429633408	web.me.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	web.me.com-c1429633408.warc.gz	0
-heidi_house	gallery.me.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	gallery.me.com-heidi_house.warc.gz	0
-heidi_house	homepage.mac.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	homepage.mac.com-heidi_house.warc.gz	0
-heidi_house	public.me.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	public.me.com-heidi_house.warc.gz	0
-heidi_house	web.me.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	web.me.com-heidi_house.warc.gz	0
-matthewepler	gallery.me.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	gallery.me.com-matthewepler.warc.gz	0
-matthewepler	homepage.mac.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	homepage.mac.com-matthewepler.warc.gz	0
-matthewepler	public.me.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	public.me.com-matthewepler.warc.gz	0
-matthewepler	web.me.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	web.me.com-matthewepler.warc.gz	0
-movery	gallery.me.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	gallery.me.com-movery.warc.gz	0
-movery	homepage.mac.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	homepage.mac.com-movery.warc.gz	0
-movery	public.me.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	public.me.com-movery.warc.gz	0
-movery	web.me.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	web.me.com-movery.warc.gz	0
-sam.huff	gallery.me.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	gallery.me.com-sam.huff.warc.gz	0
-sam.huff	homepage.mac.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	homepage.mac.com-sam.huff.warc.gz	0
-sam.huff	public.me.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	public.me.com-sam.huff.warc.gz	0
-sam.huff	web.me.com		archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	web.me.com-sam.huff.warc.gz	0
+c1429633408	gallery.me.com	2012-04-11 00:38:47	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	gallery.me.com-c1429633408.warc.gz	8378
+c1429633408	homepage.mac.com	2012-04-11 00:38:47	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	homepage.mac.com-c1429633408.warc.gz	5177
+c1429633408	public.me.com	2012-04-11 00:38:46	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	public.me.com-c1429633408.warc.gz	1919
+c1429633408	web.me.com	2012-04-11 00:38:46	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	web.me.com-c1429633408.warc.gz	17735
+heidi_house	gallery.me.com	2012-04-11 00:35:43	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	gallery.me.com-heidi_house.warc.gz	1750031485
+heidi_house	homepage.mac.com	2012-04-11 00:35:44	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	homepage.mac.com-heidi_house.warc.gz	4918
+heidi_house	public.me.com	2012-04-11 00:15:46	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	public.me.com-heidi_house.warc.gz	1929
+heidi_house	web.me.com	2012-04-11 00:15:46	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	web.me.com-heidi_house.warc.gz	20853380
+matthewepler	gallery.me.com	2012-04-11 01:23:35	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	gallery.me.com-matthewepler.warc.gz	359737392
+matthewepler	homepage.mac.com	2012-04-11 01:23:35	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	homepage.mac.com-matthewepler.warc.gz	4919
+matthewepler	public.me.com	2012-04-11 01:18:15	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	public.me.com-matthewepler.warc.gz	1879983672
+matthewepler	web.me.com	2012-04-11 00:51:30	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	web.me.com-matthewepler.warc.gz	10648860
+movery	gallery.me.com	2012-04-11 00:38:45	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	gallery.me.com-movery.warc.gz	8512525
+movery	homepage.mac.com	2012-04-11 00:38:45	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	homepage.mac.com-movery.warc.gz	4911
+movery	public.me.com	2012-04-11 00:38:23	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	public.me.com-movery.warc.gz	9796
+movery	web.me.com	2012-04-11 00:38:23	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	web.me.com-movery.warc.gz	17870618
+sam.huff	gallery.me.com	2012-04-11 00:50:07	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	gallery.me.com-sam.huff.warc.gz	48355345
+sam.huff	homepage.mac.com	2012-04-11 00:50:07	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	homepage.mac.com-sam.huff.warc.gz	4902
+sam.huff	public.me.com	2012-04-11 00:49:16	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	public.me.com-sam.huff.warc.gz	124633089
+sam.huff	web.me.com	2012-04-11 00:47:23	archiveteam-mobileme-hero-614x	archiveteam-mobileme-hero-614x-6148.tar	web.me.com-sam.huff.warc.gz	65594069

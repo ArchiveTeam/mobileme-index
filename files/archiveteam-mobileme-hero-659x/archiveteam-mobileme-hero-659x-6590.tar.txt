@@ -1,16 +1,16 @@
-dougstocker	gallery.me.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	gallery.me.com-dougstocker.warc.gz	0
-dougstocker	homepage.mac.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	homepage.mac.com-dougstocker.warc.gz	0
-dougstocker	public.me.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	public.me.com-dougstocker.warc.gz	0
-dougstocker	web.me.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	web.me.com-dougstocker.warc.gz	0
-evastoyanov	gallery.me.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	gallery.me.com-evastoyanov.warc.gz	0
-evastoyanov	homepage.mac.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	homepage.mac.com-evastoyanov.warc.gz	0
-evastoyanov	public.me.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	public.me.com-evastoyanov.warc.gz	0
-evastoyanov	web.me.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	web.me.com-evastoyanov.warc.gz	0
-gnaf	gallery.me.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	gallery.me.com-gnaf.warc.gz	0
-gnaf	homepage.mac.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	homepage.mac.com-gnaf.warc.gz	0
-gnaf	public.me.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	public.me.com-gnaf.warc.gz	0
-gnaf	web.me.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	web.me.com-gnaf.warc.gz	0
-weggenmann	gallery.me.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	gallery.me.com-weggenmann.warc.gz	0
-weggenmann	homepage.mac.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	homepage.mac.com-weggenmann.warc.gz	0
-weggenmann	public.me.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	public.me.com-weggenmann.warc.gz	0
-weggenmann	web.me.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	web.me.com-weggenmann.warc.gz	0
+dougstocker	gallery.me.com	2012-04-12 04:42:41	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	gallery.me.com-dougstocker.warc.gz	228221116
+dougstocker	homepage.mac.com	2012-04-12 04:42:43	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	homepage.mac.com-dougstocker.warc.gz	4920
+dougstocker	public.me.com	2012-04-12 04:37:06	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	public.me.com-dougstocker.warc.gz	1920
+dougstocker	web.me.com	2012-04-12 04:36:58	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	web.me.com-dougstocker.warc.gz	122566299
+evastoyanov	gallery.me.com	2012-04-12 04:30:21	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	gallery.me.com-evastoyanov.warc.gz	3387420352
+evastoyanov	homepage.mac.com	2012-04-12 04:30:33	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	homepage.mac.com-evastoyanov.warc.gz	186749
+evastoyanov	public.me.com	2012-04-11 21:22:36	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	public.me.com-evastoyanov.warc.gz	3395
+evastoyanov	web.me.com	2012-04-11 21:22:00	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	web.me.com-evastoyanov.warc.gz	378119249
+gnaf	gallery.me.com	2012-04-11 20:06:44	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	gallery.me.com-gnaf.warc.gz	5759
+gnaf	homepage.mac.com	2012-04-11 20:07:03	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	homepage.mac.com-gnaf.warc.gz	8139863
+gnaf	public.me.com	2012-04-11 20:06:40	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	public.me.com-gnaf.warc.gz	1905
+gnaf	web.me.com	2012-04-11 20:06:28	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	web.me.com-gnaf.warc.gz	146245373
+weggenmann	gallery.me.com	2012-04-11 20:16:38	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	gallery.me.com-weggenmann.warc.gz	5041
+weggenmann	homepage.mac.com	2012-04-11 20:16:39	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	homepage.mac.com-weggenmann.warc.gz	4923
+weggenmann	public.me.com	2012-04-11 20:16:35	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	public.me.com-weggenmann.warc.gz	1922
+weggenmann	web.me.com	2012-04-11 20:16:29	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6590.tar	web.me.com-weggenmann.warc.gz	181566024

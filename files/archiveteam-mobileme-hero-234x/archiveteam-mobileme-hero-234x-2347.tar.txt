@@ -1,20 +1,20 @@
-bluebird274	gallery.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	gallery.me.com-bluebird274.warc.gz	0
-bluebird274	homepage.mac.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	homepage.mac.com-bluebird274.warc.gz	0
-bluebird274	public.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	public.me.com-bluebird274.warc.gz	0
-bluebird274	web.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	web.me.com-bluebird274.warc.gz	0
-clemcano	gallery.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	gallery.me.com-clemcano.warc.gz	0
-clemcano	homepage.mac.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	homepage.mac.com-clemcano.warc.gz	0
-clemcano	public.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	public.me.com-clemcano.warc.gz	0
-clemcano	web.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	web.me.com-clemcano.warc.gz	0
-franciscosanchez4	gallery.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	gallery.me.com-franciscosanchez4.warc.gz	0
-franciscosanchez4	homepage.mac.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	homepage.mac.com-franciscosanchez4.warc.gz	0
-franciscosanchez4	public.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	public.me.com-franciscosanchez4.warc.gz	0
-franciscosanchez4	web.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	web.me.com-franciscosanchez4.warc.gz	0
-katharina.luger	gallery.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	gallery.me.com-katharina.luger.warc.gz	0
-katharina.luger	homepage.mac.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	homepage.mac.com-katharina.luger.warc.gz	0
-katharina.luger	public.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	public.me.com-katharina.luger.warc.gz	0
-katharina.luger	web.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	web.me.com-katharina.luger.warc.gz	0
-stewartfeather	gallery.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	gallery.me.com-stewartfeather.warc.gz	0
-stewartfeather	homepage.mac.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	homepage.mac.com-stewartfeather.warc.gz	0
-stewartfeather	public.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	public.me.com-stewartfeather.warc.gz	0
-stewartfeather	web.me.com		archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	web.me.com-stewartfeather.warc.gz	0
+bluebird274	gallery.me.com	2012-03-31 08:03:02	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	gallery.me.com-bluebird274.warc.gz	2364002938
+bluebird274	homepage.mac.com	2012-03-31 08:03:03	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	homepage.mac.com-bluebird274.warc.gz	4911
+bluebird274	public.me.com	2012-03-31 07:31:00	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	public.me.com-bluebird274.warc.gz	1930
+bluebird274	web.me.com	2012-03-31 07:31:00	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	web.me.com-bluebird274.warc.gz	198057138
+clemcano	gallery.me.com	2012-03-31 07:20:24	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	gallery.me.com-clemcano.warc.gz	2024454728
+clemcano	homepage.mac.com	2012-03-31 07:20:24	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	homepage.mac.com-clemcano.warc.gz	4918
+clemcano	public.me.com	2012-03-31 06:43:33	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	public.me.com-clemcano.warc.gz	1914
+clemcano	web.me.com	2012-03-31 06:43:32	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	web.me.com-clemcano.warc.gz	595551046
+franciscosanchez4	gallery.me.com	2012-03-31 07:21:43	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	gallery.me.com-franciscosanchez4.warc.gz	4282
+franciscosanchez4	homepage.mac.com	2012-03-31 07:21:43	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	homepage.mac.com-franciscosanchez4.warc.gz	4956
+franciscosanchez4	public.me.com	2012-03-31 07:21:43	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	public.me.com-franciscosanchez4.warc.gz	1936
+franciscosanchez4	web.me.com	2012-03-31 07:21:43	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	web.me.com-franciscosanchez4.warc.gz	2589702
+katharina.luger	gallery.me.com	2012-03-31 06:19:59	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	gallery.me.com-katharina.luger.warc.gz	51488346
+katharina.luger	homepage.mac.com	2012-03-31 06:20:00	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	homepage.mac.com-katharina.luger.warc.gz	37031
+katharina.luger	public.me.com	2012-03-31 06:19:24	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	public.me.com-katharina.luger.warc.gz	4451
+katharina.luger	web.me.com	2012-03-31 06:19:23	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	web.me.com-katharina.luger.warc.gz	22009372
+stewartfeather	gallery.me.com	2012-03-31 06:23:33	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	gallery.me.com-stewartfeather.warc.gz	5570
+stewartfeather	homepage.mac.com	2012-03-31 06:23:33	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	homepage.mac.com-stewartfeather.warc.gz	4921
+stewartfeather	public.me.com	2012-03-31 06:23:32	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	public.me.com-stewartfeather.warc.gz	1923
+stewartfeather	web.me.com	2012-03-31 06:23:32	archiveteam-mobileme-hero-234x	archiveteam-mobileme-hero-234x-2347.tar	web.me.com-stewartfeather.warc.gz	38259525

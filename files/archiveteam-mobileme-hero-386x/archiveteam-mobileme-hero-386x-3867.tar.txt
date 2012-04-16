@@ -1,28 +1,28 @@
-fishface2	gallery.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	gallery.me.com-fishface2.warc.gz	0
-fishface2	homepage.mac.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	homepage.mac.com-fishface2.warc.gz	0
-fishface2	public.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	public.me.com-fishface2.warc.gz	0
-fishface2	web.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	web.me.com-fishface2.warc.gz	0
-keeffers2	gallery.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	gallery.me.com-keeffers2.warc.gz	0
-keeffers2	homepage.mac.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	homepage.mac.com-keeffers2.warc.gz	0
-keeffers2	public.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	public.me.com-keeffers2.warc.gz	0
-keeffers2	web.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	web.me.com-keeffers2.warc.gz	0
-memunc	gallery.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	gallery.me.com-memunc.warc.gz	0
-memunc	homepage.mac.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	homepage.mac.com-memunc.warc.gz	0
-memunc	public.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	public.me.com-memunc.warc.gz	0
-memunc	web.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	web.me.com-memunc.warc.gz	0
-pydijon	gallery.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	gallery.me.com-pydijon.warc.gz	0
-pydijon	homepage.mac.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	homepage.mac.com-pydijon.warc.gz	0
-pydijon	public.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	public.me.com-pydijon.warc.gz	0
-pydijon	web.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	web.me.com-pydijon.warc.gz	0
-tigerlilyholstein	gallery.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	gallery.me.com-tigerlilyholstein.warc.gz	0
-tigerlilyholstein	homepage.mac.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	homepage.mac.com-tigerlilyholstein.warc.gz	0
-tigerlilyholstein	public.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	public.me.com-tigerlilyholstein.warc.gz	0
-tigerlilyholstein	web.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	web.me.com-tigerlilyholstein.warc.gz	0
-veldemich1	gallery.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	gallery.me.com-veldemich1.warc.gz	0
-veldemich1	homepage.mac.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	homepage.mac.com-veldemich1.warc.gz	0
-veldemich1	public.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	public.me.com-veldemich1.warc.gz	0
-veldemich1	web.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	web.me.com-veldemich1.warc.gz	0
-wchanley	gallery.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	gallery.me.com-wchanley.warc.gz	0
-wchanley	homepage.mac.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	homepage.mac.com-wchanley.warc.gz	0
-wchanley	public.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	public.me.com-wchanley.warc.gz	0
-wchanley	web.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	web.me.com-wchanley.warc.gz	0
+fishface2	gallery.me.com	2012-04-04 12:32:44	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	gallery.me.com-fishface2.warc.gz	8341
+fishface2	homepage.mac.com	2012-04-04 12:32:44	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	homepage.mac.com-fishface2.warc.gz	5171
+fishface2	public.me.com	2012-04-04 12:32:44	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	public.me.com-fishface2.warc.gz	1905
+fishface2	web.me.com	2012-04-04 12:32:44	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	web.me.com-fishface2.warc.gz	17722
+keeffers2	gallery.me.com	2012-04-04 13:48:17	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	gallery.me.com-keeffers2.warc.gz	75467823
+keeffers2	homepage.mac.com	2012-04-04 13:48:19	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	homepage.mac.com-keeffers2.warc.gz	41450
+keeffers2	public.me.com	2012-04-04 13:46:17	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	public.me.com-keeffers2.warc.gz	1916
+keeffers2	web.me.com	2012-04-04 13:46:15	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	web.me.com-keeffers2.warc.gz	546011181
+memunc	gallery.me.com	2012-04-04 12:32:42	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	gallery.me.com-memunc.warc.gz	5681
+memunc	homepage.mac.com	2012-04-04 12:32:42	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	homepage.mac.com-memunc.warc.gz	4880
+memunc	public.me.com	2012-04-04 12:32:41	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	public.me.com-memunc.warc.gz	1912
+memunc	web.me.com	2012-04-04 12:32:41	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	web.me.com-memunc.warc.gz	50517931
+pydijon	gallery.me.com	2012-04-04 15:54:59	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	gallery.me.com-pydijon.warc.gz	3751364125
+pydijon	homepage.mac.com	2012-04-04 15:55:00	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	homepage.mac.com-pydijon.warc.gz	4905
+pydijon	public.me.com	2012-04-04 15:00:43	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	public.me.com-pydijon.warc.gz	508626583
+pydijon	web.me.com	2012-04-04 14:48:29	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	web.me.com-pydijon.warc.gz	958456926
+tigerlilyholstein	gallery.me.com	2012-04-04 12:37:02	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	gallery.me.com-tigerlilyholstein.warc.gz	5475
+tigerlilyholstein	homepage.mac.com	2012-04-04 12:37:02	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	homepage.mac.com-tigerlilyholstein.warc.gz	4940
+tigerlilyholstein	public.me.com	2012-04-04 12:37:01	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	public.me.com-tigerlilyholstein.warc.gz	1933
+tigerlilyholstein	web.me.com	2012-04-04 12:37:01	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	web.me.com-tigerlilyholstein.warc.gz	218437617
+veldemich1	gallery.me.com	2012-04-04 14:03:36	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	gallery.me.com-veldemich1.warc.gz	12732859
+veldemich1	homepage.mac.com	2012-04-04 14:03:36	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	homepage.mac.com-veldemich1.warc.gz	4924
+veldemich1	public.me.com	2012-04-04 14:03:15	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	public.me.com-veldemich1.warc.gz	1911
+veldemich1	web.me.com	2012-04-04 14:03:15	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	web.me.com-veldemich1.warc.gz	149112460
+wchanley	gallery.me.com	2012-04-04 14:03:38	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	gallery.me.com-wchanley.warc.gz	8340
+wchanley	homepage.mac.com	2012-04-04 14:03:38	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	homepage.mac.com-wchanley.warc.gz	5166
+wchanley	public.me.com	2012-04-04 14:03:37	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	public.me.com-wchanley.warc.gz	1920
+wchanley	web.me.com	2012-04-04 14:03:37	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3867.tar	web.me.com-wchanley.warc.gz	17672

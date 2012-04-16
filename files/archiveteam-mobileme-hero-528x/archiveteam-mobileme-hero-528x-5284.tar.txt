@@ -1,20 +1,20 @@
-avastart	gallery.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	gallery.me.com-avastart.warc.gz	0
-avastart	homepage.mac.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	homepage.mac.com-avastart.warc.gz	0
-avastart	public.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	public.me.com-avastart.warc.gz	0
-avastart	web.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	web.me.com-avastart.warc.gz	0
-lasourceauxoliviers	gallery.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	gallery.me.com-lasourceauxoliviers.warc.gz	0
-lasourceauxoliviers	homepage.mac.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	homepage.mac.com-lasourceauxoliviers.warc.gz	0
-lasourceauxoliviers	public.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	public.me.com-lasourceauxoliviers.warc.gz	0
-lasourceauxoliviers	web.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	web.me.com-lasourceauxoliviers.warc.gz	0
-oppl	gallery.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	gallery.me.com-oppl.warc.gz	0
-oppl	homepage.mac.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	homepage.mac.com-oppl.warc.gz	0
-oppl	public.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	public.me.com-oppl.warc.gz	0
-oppl	web.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	web.me.com-oppl.warc.gz	0
-russellherbertusa	gallery.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	gallery.me.com-russellherbertusa.warc.gz	0
-russellherbertusa	homepage.mac.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	homepage.mac.com-russellherbertusa.warc.gz	0
-russellherbertusa	public.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	public.me.com-russellherbertusa.warc.gz	0
-russellherbertusa	web.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	web.me.com-russellherbertusa.warc.gz	0
-theanswertoo	gallery.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	gallery.me.com-theanswertoo.warc.gz	0
-theanswertoo	homepage.mac.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	homepage.mac.com-theanswertoo.warc.gz	0
-theanswertoo	public.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	public.me.com-theanswertoo.warc.gz	0
-theanswertoo	web.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	web.me.com-theanswertoo.warc.gz	0
+avastart	gallery.me.com	2012-04-08 23:40:09	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	gallery.me.com-avastart.warc.gz	4275
+avastart	homepage.mac.com	2012-04-08 23:40:10	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	homepage.mac.com-avastart.warc.gz	4918
+avastart	public.me.com	2012-04-08 23:40:09	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	public.me.com-avastart.warc.gz	1921
+avastart	web.me.com	2012-04-08 23:40:08	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	web.me.com-avastart.warc.gz	11420591
+lasourceauxoliviers	gallery.me.com	2012-04-08 23:44:01	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	gallery.me.com-lasourceauxoliviers.warc.gz	12381
+lasourceauxoliviers	homepage.mac.com	2012-04-08 23:44:02	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	homepage.mac.com-lasourceauxoliviers.warc.gz	7194
+lasourceauxoliviers	public.me.com	2012-04-08 23:44:01	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	public.me.com-lasourceauxoliviers.warc.gz	1940
+lasourceauxoliviers	web.me.com	2012-04-08 23:44:00	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	web.me.com-lasourceauxoliviers.warc.gz	22562
+oppl	gallery.me.com	2012-04-09 02:45:20	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	gallery.me.com-oppl.warc.gz	1600213228
+oppl	homepage.mac.com	2012-04-09 02:45:21	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	homepage.mac.com-oppl.warc.gz	4894
+oppl	public.me.com	2012-04-09 01:52:17	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	public.me.com-oppl.warc.gz	3522
+oppl	web.me.com	2012-04-09 01:51:56	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	web.me.com-oppl.warc.gz	5325610519
+russellherbertusa	gallery.me.com	2012-04-08 23:43:43	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	gallery.me.com-russellherbertusa.warc.gz	67847113
+russellherbertusa	homepage.mac.com	2012-04-08 23:43:57	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	homepage.mac.com-russellherbertusa.warc.gz	271170
+russellherbertusa	public.me.com	2012-04-08 23:42:05	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	public.me.com-russellherbertusa.warc.gz	1940
+russellherbertusa	web.me.com	2012-04-08 23:42:05	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	web.me.com-russellherbertusa.warc.gz	4195242
+theanswertoo	gallery.me.com	2012-04-08 23:43:59	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	gallery.me.com-theanswertoo.warc.gz	12352
+theanswertoo	homepage.mac.com	2012-04-08 23:43:59	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	homepage.mac.com-theanswertoo.warc.gz	7170
+theanswertoo	public.me.com	2012-04-08 23:43:58	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	public.me.com-theanswertoo.warc.gz	1927
+theanswertoo	web.me.com	2012-04-08 23:43:58	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5284.tar	web.me.com-theanswertoo.warc.gz	22526

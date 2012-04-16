@@ -1,8 +1,8 @@
-janmjanssen	gallery.me.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2380.tar	gallery.me.com-janmjanssen.warc.gz	0
-janmjanssen	homepage.mac.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2380.tar	homepage.mac.com-janmjanssen.warc.gz	0
-janmjanssen	public.me.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2380.tar	public.me.com-janmjanssen.warc.gz	0
-janmjanssen	web.me.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2380.tar	web.me.com-janmjanssen.warc.gz	0
-pagnotj	gallery.me.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2380.tar	gallery.me.com-pagnotj.warc.gz	0
-pagnotj	homepage.mac.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2380.tar	homepage.mac.com-pagnotj.warc.gz	0
-pagnotj	public.me.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2380.tar	public.me.com-pagnotj.warc.gz	0
-pagnotj	web.me.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2380.tar	web.me.com-pagnotj.warc.gz	0
+janmjanssen	gallery.me.com	2012-03-31 10:37:46	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2380.tar	gallery.me.com-janmjanssen.warc.gz	3806665487
+janmjanssen	homepage.mac.com	2012-03-31 10:37:46	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2380.tar	homepage.mac.com-janmjanssen.warc.gz	4910
+janmjanssen	public.me.com	2012-03-31 10:20:08	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2380.tar	public.me.com-janmjanssen.warc.gz	329164007
+janmjanssen	web.me.com	2012-03-31 10:17:00	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2380.tar	web.me.com-janmjanssen.warc.gz	413636821
+pagnotj	gallery.me.com	2012-03-31 10:06:29	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2380.tar	gallery.me.com-pagnotj.warc.gz	81162654
+pagnotj	homepage.mac.com	2012-03-31 10:06:31	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2380.tar	homepage.mac.com-pagnotj.warc.gz	72771
+pagnotj	public.me.com	2012-03-31 10:05:57	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2380.tar	public.me.com-pagnotj.warc.gz	1913
+pagnotj	web.me.com	2012-03-31 10:05:47	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2380.tar	web.me.com-pagnotj.warc.gz	884054127

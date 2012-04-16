@@ -1,12 +1,12 @@
-burdzy	gallery.me.com		archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	gallery.me.com-burdzy.warc.gz	0
-burdzy	homepage.mac.com		archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	homepage.mac.com-burdzy.warc.gz	0
-burdzy	public.me.com		archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	public.me.com-burdzy.warc.gz	0
-burdzy	web.me.com		archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	web.me.com-burdzy.warc.gz	0
-georger	gallery.me.com		archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	gallery.me.com-georger.warc.gz	0
-georger	homepage.mac.com		archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	homepage.mac.com-georger.warc.gz	0
-georger	public.me.com		archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	public.me.com-georger.warc.gz	0
-georger	web.me.com		archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	web.me.com-georger.warc.gz	0
-tiburonsalmon	gallery.me.com		archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	gallery.me.com-tiburonsalmon.warc.gz	0
-tiburonsalmon	homepage.mac.com		archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	homepage.mac.com-tiburonsalmon.warc.gz	0
-tiburonsalmon	public.me.com		archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	public.me.com-tiburonsalmon.warc.gz	0
-tiburonsalmon	web.me.com		archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	web.me.com-tiburonsalmon.warc.gz	0
+burdzy	gallery.me.com	2012-04-02 10:16:07	archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	gallery.me.com-burdzy.warc.gz	29994460
+burdzy	homepage.mac.com	2012-04-02 10:16:07	archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	homepage.mac.com-burdzy.warc.gz	4903
+burdzy	public.me.com	2012-04-02 10:15:33	archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	public.me.com-burdzy.warc.gz	23006788
+burdzy	web.me.com	2012-04-02 10:15:08	archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	web.me.com-burdzy.warc.gz	9531300
+georger	gallery.me.com	2012-04-02 11:25:58	archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	gallery.me.com-georger.warc.gz	4787566487
+georger	homepage.mac.com	2012-04-02 11:25:58	archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	homepage.mac.com-georger.warc.gz	4895
+georger	public.me.com	2012-04-02 10:48:44	archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	public.me.com-georger.warc.gz	1416089019
+georger	web.me.com	2012-04-02 10:20:25	archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	web.me.com-georger.warc.gz	31018988
+tiburonsalmon	gallery.me.com	2012-04-02 10:12:11	archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	gallery.me.com-tiburonsalmon.warc.gz	5034
+tiburonsalmon	homepage.mac.com	2012-04-02 10:12:11	archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	homepage.mac.com-tiburonsalmon.warc.gz	4930
+tiburonsalmon	public.me.com	2012-04-02 10:12:10	archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	public.me.com-tiburonsalmon.warc.gz	1921
+tiburonsalmon	web.me.com	2012-04-02 10:12:10	archiveteam-mobileme-hero-291x	archiveteam-mobileme-hero-291x-2917.tar	web.me.com-tiburonsalmon.warc.gz	110804000

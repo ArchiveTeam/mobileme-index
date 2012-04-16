@@ -1,12 +1,12 @@
-J_I_Logan	gallery.me.com		archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	gallery.me.com-J_I_Logan.warc.gz	0
-J_I_Logan	homepage.mac.com		archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	homepage.mac.com-J_I_Logan.warc.gz	0
-J_I_Logan	public.me.com		archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	public.me.com-J_I_Logan.warc.gz	0
-J_I_Logan	web.me.com		archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	web.me.com-J_I_Logan.warc.gz	0
-alexia69	gallery.me.com		archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	gallery.me.com-alexia69.warc.gz	0
-alexia69	homepage.mac.com		archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	homepage.mac.com-alexia69.warc.gz	0
-alexia69	public.me.com		archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	public.me.com-alexia69.warc.gz	0
-alexia69	web.me.com		archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	web.me.com-alexia69.warc.gz	0
-viktor	gallery.me.com		archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	gallery.me.com-viktor.warc.gz	0
-viktor	homepage.mac.com		archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	homepage.mac.com-viktor.warc.gz	0
-viktor	public.me.com		archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	public.me.com-viktor.warc.gz	0
-viktor	web.me.com		archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	web.me.com-viktor.warc.gz	0
+J_I_Logan	gallery.me.com	2012-04-11 16:46:24	archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	gallery.me.com-J_I_Logan.warc.gz	4277
+J_I_Logan	homepage.mac.com	2012-04-11 16:47:52	archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	homepage.mac.com-J_I_Logan.warc.gz	1557214
+J_I_Logan	public.me.com	2012-04-11 16:46:23	archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	public.me.com-J_I_Logan.warc.gz	9187073
+J_I_Logan	web.me.com	2012-04-11 16:46:09	archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	web.me.com-J_I_Logan.warc.gz	2172796
+alexia69	gallery.me.com	2012-04-11 16:45:19	archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	gallery.me.com-alexia69.warc.gz	4244
+alexia69	homepage.mac.com	2012-04-11 16:45:20	archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	homepage.mac.com-alexia69.warc.gz	4912
+alexia69	public.me.com	2012-04-11 16:45:18	archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	public.me.com-alexia69.warc.gz	1918
+alexia69	web.me.com	2012-04-11 16:45:18	archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	web.me.com-alexia69.warc.gz	7755343
+viktor	gallery.me.com	2012-04-11 20:41:21	archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	gallery.me.com-viktor.warc.gz	1439154998
+viktor	homepage.mac.com	2012-04-11 20:41:21	archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	homepage.mac.com-viktor.warc.gz	4886
+viktor	public.me.com	2012-04-11 17:58:57	archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	public.me.com-viktor.warc.gz	3307938694
+viktor	web.me.com	2012-04-11 17:04:42	archiveteam-mobileme-hero-650x	archiveteam-mobileme-hero-650x-6500.tar	web.me.com-viktor.warc.gz	245174895

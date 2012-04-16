@@ -1,24 +1,24 @@
-barneyschmidt	gallery.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	gallery.me.com-barneyschmidt.warc.gz	0
-barneyschmidt	homepage.mac.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	homepage.mac.com-barneyschmidt.warc.gz	0
-barneyschmidt	public.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	public.me.com-barneyschmidt.warc.gz	0
-barneyschmidt	web.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	web.me.com-barneyschmidt.warc.gz	0
-caitlyncalfas	gallery.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	gallery.me.com-caitlyncalfas.warc.gz	0
-caitlyncalfas	homepage.mac.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	homepage.mac.com-caitlyncalfas.warc.gz	0
-caitlyncalfas	public.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	public.me.com-caitlyncalfas.warc.gz	0
-caitlyncalfas	web.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	web.me.com-caitlyncalfas.warc.gz	0
-evgardner	gallery.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	gallery.me.com-evgardner.warc.gz	0
-evgardner	homepage.mac.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	homepage.mac.com-evgardner.warc.gz	0
-evgardner	public.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	public.me.com-evgardner.warc.gz	0
-evgardner	web.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	web.me.com-evgardner.warc.gz	0
-ingelalinneaagger	gallery.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	gallery.me.com-ingelalinneaagger.warc.gz	0
-ingelalinneaagger	homepage.mac.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	homepage.mac.com-ingelalinneaagger.warc.gz	0
-ingelalinneaagger	public.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	public.me.com-ingelalinneaagger.warc.gz	0
-ingelalinneaagger	web.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	web.me.com-ingelalinneaagger.warc.gz	0
-lejdemyr	gallery.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	gallery.me.com-lejdemyr.warc.gz	0
-lejdemyr	homepage.mac.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	homepage.mac.com-lejdemyr.warc.gz	0
-lejdemyr	public.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	public.me.com-lejdemyr.warc.gz	0
-lejdemyr	web.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	web.me.com-lejdemyr.warc.gz	0
-rickygraham	gallery.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	gallery.me.com-rickygraham.warc.gz	0
-rickygraham	homepage.mac.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	homepage.mac.com-rickygraham.warc.gz	0
-rickygraham	public.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	public.me.com-rickygraham.warc.gz	0
-rickygraham	web.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	web.me.com-rickygraham.warc.gz	0
+barneyschmidt	gallery.me.com	2012-04-08 02:38:44	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	gallery.me.com-barneyschmidt.warc.gz	1751953348
+barneyschmidt	homepage.mac.com	2012-04-08 02:38:48	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	homepage.mac.com-barneyschmidt.warc.gz	58946
+barneyschmidt	public.me.com	2012-04-08 02:23:31	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	public.me.com-barneyschmidt.warc.gz	131978014
+barneyschmidt	web.me.com	2012-04-08 02:20:06	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	web.me.com-barneyschmidt.warc.gz	709868773
+caitlyncalfas	gallery.me.com	2012-04-08 00:38:18	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	gallery.me.com-caitlyncalfas.warc.gz	82614004
+caitlyncalfas	homepage.mac.com	2012-04-08 00:38:18	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	homepage.mac.com-caitlyncalfas.warc.gz	4918
+caitlyncalfas	public.me.com	2012-04-08 00:35:43	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	public.me.com-caitlyncalfas.warc.gz	1926
+caitlyncalfas	web.me.com	2012-04-08 00:35:43	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	web.me.com-caitlyncalfas.warc.gz	107394092
+evgardner	gallery.me.com	2012-04-08 01:29:36	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	gallery.me.com-evgardner.warc.gz	2085671864
+evgardner	homepage.mac.com	2012-04-08 01:29:38	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	homepage.mac.com-evgardner.warc.gz	4921
+evgardner	public.me.com	2012-04-08 00:45:14	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	public.me.com-evgardner.warc.gz	1916
+evgardner	web.me.com	2012-04-08 00:45:13	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	web.me.com-evgardner.warc.gz	68304604
+ingelalinneaagger	gallery.me.com	2012-04-08 01:43:08	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	gallery.me.com-ingelalinneaagger.warc.gz	4312
+ingelalinneaagger	homepage.mac.com	2012-04-08 01:43:08	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	homepage.mac.com-ingelalinneaagger.warc.gz	4956
+ingelalinneaagger	public.me.com	2012-04-08 01:43:07	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	public.me.com-ingelalinneaagger.warc.gz	1926
+ingelalinneaagger	web.me.com	2012-04-08 01:43:06	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	web.me.com-ingelalinneaagger.warc.gz	124190889
+lejdemyr	gallery.me.com	2012-04-08 02:11:30	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	gallery.me.com-lejdemyr.warc.gz	208766569
+lejdemyr	homepage.mac.com	2012-04-08 02:11:32	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	homepage.mac.com-lejdemyr.warc.gz	36937
+lejdemyr	public.me.com	2012-04-08 02:01:01	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	public.me.com-lejdemyr.warc.gz	1919
+lejdemyr	web.me.com	2012-04-08 02:01:00	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	web.me.com-lejdemyr.warc.gz	131693182
+rickygraham	gallery.me.com	2012-04-08 01:32:21	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	gallery.me.com-rickygraham.warc.gz	156324027
+rickygraham	homepage.mac.com	2012-04-08 01:32:23	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	homepage.mac.com-rickygraham.warc.gz	36973
+rickygraham	public.me.com	2012-04-08 01:31:21	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	public.me.com-rickygraham.warc.gz	1922
+rickygraham	web.me.com	2012-04-08 01:31:21	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5071.tar	web.me.com-rickygraham.warc.gz	12954187

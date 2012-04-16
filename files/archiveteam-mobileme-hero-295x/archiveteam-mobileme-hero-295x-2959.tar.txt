@@ -1,16 +1,16 @@
-alexisandbetty	gallery.me.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	gallery.me.com-alexisandbetty.warc.gz	0
-alexisandbetty	homepage.mac.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	homepage.mac.com-alexisandbetty.warc.gz	0
-alexisandbetty	public.me.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	public.me.com-alexisandbetty.warc.gz	0
-alexisandbetty	web.me.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	web.me.com-alexisandbetty.warc.gz	0
-drmarshall	gallery.me.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	gallery.me.com-drmarshall.warc.gz	0
-drmarshall	homepage.mac.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	homepage.mac.com-drmarshall.warc.gz	0
-drmarshall	public.me.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	public.me.com-drmarshall.warc.gz	0
-drmarshall	web.me.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	web.me.com-drmarshall.warc.gz	0
-jokell2	gallery.me.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	gallery.me.com-jokell2.warc.gz	0
-jokell2	homepage.mac.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	homepage.mac.com-jokell2.warc.gz	0
-jokell2	public.me.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	public.me.com-jokell2.warc.gz	0
-jokell2	web.me.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	web.me.com-jokell2.warc.gz	0
-recipe	gallery.me.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	gallery.me.com-recipe.warc.gz	0
-recipe	homepage.mac.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	homepage.mac.com-recipe.warc.gz	0
-recipe	public.me.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	public.me.com-recipe.warc.gz	0
-recipe	web.me.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	web.me.com-recipe.warc.gz	0
+alexisandbetty	gallery.me.com	2012-04-02 12:44:01	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	gallery.me.com-alexisandbetty.warc.gz	3686105661
+alexisandbetty	homepage.mac.com	2012-04-02 12:44:01	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	homepage.mac.com-alexisandbetty.warc.gz	4924
+alexisandbetty	public.me.com	2012-04-02 10:39:49	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	public.me.com-alexisandbetty.warc.gz	1933
+alexisandbetty	web.me.com	2012-04-02 10:39:48	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	web.me.com-alexisandbetty.warc.gz	100888349
+drmarshall	gallery.me.com	2012-04-02 10:18:52	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	gallery.me.com-drmarshall.warc.gz	13419214
+drmarshall	homepage.mac.com	2012-04-02 10:18:56	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	homepage.mac.com-drmarshall.warc.gz	4921
+drmarshall	public.me.com	2012-04-02 10:17:13	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	public.me.com-drmarshall.warc.gz	1923
+drmarshall	web.me.com	2012-04-02 10:17:12	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	web.me.com-drmarshall.warc.gz	4509314
+jokell2	gallery.me.com	2012-04-02 12:51:37	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	gallery.me.com-jokell2.warc.gz	791277667
+jokell2	homepage.mac.com	2012-04-02 12:51:38	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	homepage.mac.com-jokell2.warc.gz	4909
+jokell2	public.me.com	2012-04-02 12:45:15	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	public.me.com-jokell2.warc.gz	1916
+jokell2	web.me.com	2012-04-02 12:45:15	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	web.me.com-jokell2.warc.gz	2069929
+recipe	gallery.me.com	2012-04-02 10:15:12	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	gallery.me.com-recipe.warc.gz	4316
+recipe	homepage.mac.com	2012-04-02 10:15:12	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	homepage.mac.com-recipe.warc.gz	4900
+recipe	public.me.com	2012-04-02 10:15:10	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	public.me.com-recipe.warc.gz	1905
+recipe	web.me.com	2012-04-02 10:15:09	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2959.tar	web.me.com-recipe.warc.gz	62467569

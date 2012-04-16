@@ -1,16 +1,16 @@
-blatzola	gallery.me.com		archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	gallery.me.com-blatzola.warc.gz	0
-blatzola	homepage.mac.com		archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	homepage.mac.com-blatzola.warc.gz	0
-blatzola	public.me.com		archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	public.me.com-blatzola.warc.gz	0
-blatzola	web.me.com		archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	web.me.com-blatzola.warc.gz	0
-c644221849	gallery.me.com		archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	gallery.me.com-c644221849.warc.gz	0
-c644221849	homepage.mac.com		archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	homepage.mac.com-c644221849.warc.gz	0
-c644221849	public.me.com		archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	public.me.com-c644221849.warc.gz	0
-c644221849	web.me.com		archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	web.me.com-c644221849.warc.gz	0
-jonathanslone	gallery.me.com		archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	gallery.me.com-jonathanslone.warc.gz	0
-jonathanslone	homepage.mac.com		archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	homepage.mac.com-jonathanslone.warc.gz	0
-jonathanslone	public.me.com		archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	public.me.com-jonathanslone.warc.gz	0
-jonathanslone	web.me.com		archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	web.me.com-jonathanslone.warc.gz	0
-timo.halonen	gallery.me.com		archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	gallery.me.com-timo.halonen.warc.gz	0
-timo.halonen	homepage.mac.com		archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	homepage.mac.com-timo.halonen.warc.gz	0
-timo.halonen	public.me.com		archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	public.me.com-timo.halonen.warc.gz	0
-timo.halonen	web.me.com		archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	web.me.com-timo.halonen.warc.gz	0
+blatzola	gallery.me.com	2012-04-11 04:13:54	archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	gallery.me.com-blatzola.warc.gz	2713604125
+blatzola	homepage.mac.com	2012-04-11 04:13:56	archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	homepage.mac.com-blatzola.warc.gz	4894
+blatzola	public.me.com	2012-04-11 02:22:57	archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	public.me.com-blatzola.warc.gz	1908
+blatzola	web.me.com	2012-04-11 02:22:54	archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	web.me.com-blatzola.warc.gz	1481150212
+c644221849	gallery.me.com	2012-04-10 23:59:27	archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	gallery.me.com-c644221849.warc.gz	8361
+c644221849	homepage.mac.com	2012-04-10 23:59:27	archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	homepage.mac.com-c644221849.warc.gz	5185
+c644221849	public.me.com	2012-04-10 23:59:26	archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	public.me.com-c644221849.warc.gz	1921
+c644221849	web.me.com	2012-04-10 23:59:25	archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	web.me.com-c644221849.warc.gz	17769
+jonathanslone	gallery.me.com	2012-04-10 23:59:55	archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	gallery.me.com-jonathanslone.warc.gz	4273
+jonathanslone	homepage.mac.com	2012-04-10 23:59:55	archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	homepage.mac.com-jonathanslone.warc.gz	4927
+jonathanslone	public.me.com	2012-04-10 23:59:54	archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	public.me.com-jonathanslone.warc.gz	1927
+jonathanslone	web.me.com	2012-04-10 23:59:54	archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	web.me.com-jonathanslone.warc.gz	340798
+timo.halonen	gallery.me.com	2012-04-11 01:11:51	archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	gallery.me.com-timo.halonen.warc.gz	337187162
+timo.halonen	homepage.mac.com	2012-04-11 01:14:05	archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	homepage.mac.com-timo.halonen.warc.gz	1690899
+timo.halonen	public.me.com	2012-04-11 01:05:09	archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	public.me.com-timo.halonen.warc.gz	1322899118
+timo.halonen	web.me.com	2012-04-11 00:09:06	archiveteam-mobileme-hero-620x	archiveteam-mobileme-hero-620x-6204.tar	web.me.com-timo.halonen.warc.gz	323429348

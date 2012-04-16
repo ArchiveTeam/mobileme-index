@@ -1,12 +1,12 @@
-kentgalloway	gallery.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	gallery.me.com-kentgalloway.warc.gz	0
-kentgalloway	homepage.mac.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	homepage.mac.com-kentgalloway.warc.gz	0
-kentgalloway	public.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	public.me.com-kentgalloway.warc.gz	0
-kentgalloway	web.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	web.me.com-kentgalloway.warc.gz	0
-kledge	gallery.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	gallery.me.com-kledge.warc.gz	0
-kledge	homepage.mac.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	homepage.mac.com-kledge.warc.gz	0
-kledge	public.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	public.me.com-kledge.warc.gz	0
-kledge	web.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	web.me.com-kledge.warc.gz	0
-rikako1	gallery.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	gallery.me.com-rikako1.warc.gz	0
-rikako1	homepage.mac.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	homepage.mac.com-rikako1.warc.gz	0
-rikako1	public.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	public.me.com-rikako1.warc.gz	0
-rikako1	web.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	web.me.com-rikako1.warc.gz	0
+kentgalloway	gallery.me.com	2012-04-07 12:34:31	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	gallery.me.com-kentgalloway.warc.gz	5033
+kentgalloway	homepage.mac.com	2012-04-07 12:34:31	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	homepage.mac.com-kentgalloway.warc.gz	4929
+kentgalloway	public.me.com	2012-04-07 12:34:30	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	public.me.com-kentgalloway.warc.gz	1929
+kentgalloway	web.me.com	2012-04-07 12:34:29	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	web.me.com-kentgalloway.warc.gz	11454320
+kledge	gallery.me.com	2012-04-07 15:51:54	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	gallery.me.com-kledge.warc.gz	5802121376
+kledge	homepage.mac.com	2012-04-07 15:51:54	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	homepage.mac.com-kledge.warc.gz	4909
+kledge	public.me.com	2012-04-07 14:30:52	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	public.me.com-kledge.warc.gz	97028576
+kledge	web.me.com	2012-04-07 14:29:01	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	web.me.com-kledge.warc.gz	608787495
+rikako1	gallery.me.com	2012-04-07 12:40:21	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	gallery.me.com-rikako1.warc.gz	4243
+rikako1	homepage.mac.com	2012-04-07 12:40:24	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	homepage.mac.com-rikako1.warc.gz	77073
+rikako1	public.me.com	2012-04-07 12:40:20	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	public.me.com-rikako1.warc.gz	3626
+rikako1	web.me.com	2012-04-07 12:40:19	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4899.tar	web.me.com-rikako1.warc.gz	20911458

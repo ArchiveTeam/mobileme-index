@@ -1,20 +1,20 @@
-dcannady	gallery.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	gallery.me.com-dcannady.warc.gz	0
-dcannady	homepage.mac.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	homepage.mac.com-dcannady.warc.gz	0
-dcannady	public.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	public.me.com-dcannady.warc.gz	0
-dcannady	web.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	web.me.com-dcannady.warc.gz	0
-dsk_dotnine	gallery.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	gallery.me.com-dsk_dotnine.warc.gz	0
-dsk_dotnine	homepage.mac.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	homepage.mac.com-dsk_dotnine.warc.gz	0
-dsk_dotnine	public.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	public.me.com-dsk_dotnine.warc.gz	0
-dsk_dotnine	web.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	web.me.com-dsk_dotnine.warc.gz	0
-ktaparra	gallery.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	gallery.me.com-ktaparra.warc.gz	0
-ktaparra	homepage.mac.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	homepage.mac.com-ktaparra.warc.gz	0
-ktaparra	public.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	public.me.com-ktaparra.warc.gz	0
-ktaparra	web.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	web.me.com-ktaparra.warc.gz	0
-overflo	gallery.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	gallery.me.com-overflo.warc.gz	0
-overflo	homepage.mac.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	homepage.mac.com-overflo.warc.gz	0
-overflo	public.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	public.me.com-overflo.warc.gz	0
-overflo	web.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	web.me.com-overflo.warc.gz	0
-paracan	gallery.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	gallery.me.com-paracan.warc.gz	0
-paracan	homepage.mac.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	homepage.mac.com-paracan.warc.gz	0
-paracan	public.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	public.me.com-paracan.warc.gz	0
-paracan	web.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	web.me.com-paracan.warc.gz	0
+dcannady	gallery.me.com	2012-04-02 15:39:29	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	gallery.me.com-dcannady.warc.gz	94700993
+dcannady	homepage.mac.com	2012-04-02 15:39:29	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	homepage.mac.com-dcannady.warc.gz	4915
+dcannady	public.me.com	2012-04-02 15:36:16	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	public.me.com-dcannady.warc.gz	369358083
+dcannady	web.me.com	2012-04-02 15:32:23	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	web.me.com-dcannady.warc.gz	27983209
+dsk_dotnine	gallery.me.com	2012-04-02 16:00:37	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	gallery.me.com-dsk_dotnine.warc.gz	12330
+dsk_dotnine	homepage.mac.com	2012-04-02 16:00:37	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	homepage.mac.com-dsk_dotnine.warc.gz	7160
+dsk_dotnine	public.me.com	2012-04-02 16:00:37	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	public.me.com-dsk_dotnine.warc.gz	1930
+dsk_dotnine	web.me.com	2012-04-02 16:00:36	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	web.me.com-dsk_dotnine.warc.gz	22487
+ktaparra	gallery.me.com	2012-04-02 15:27:41	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	gallery.me.com-ktaparra.warc.gz	1247557460
+ktaparra	homepage.mac.com	2012-04-02 15:27:41	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	homepage.mac.com-ktaparra.warc.gz	4909
+ktaparra	public.me.com	2012-04-02 15:18:57	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	public.me.com-ktaparra.warc.gz	24107850
+ktaparra	web.me.com	2012-04-02 15:18:13	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	web.me.com-ktaparra.warc.gz	47760903
+overflo	gallery.me.com	2012-04-02 16:00:32	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	gallery.me.com-overflo.warc.gz	518401133
+overflo	homepage.mac.com	2012-04-02 16:00:35	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	homepage.mac.com-overflo.warc.gz	71179
+overflo	public.me.com	2012-04-02 15:53:50	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	public.me.com-overflo.warc.gz	41055957
+overflo	web.me.com	2012-04-02 15:53:38	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	web.me.com-overflo.warc.gz	508818444
+paracan	gallery.me.com	2012-04-02 16:57:01	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	gallery.me.com-paracan.warc.gz	3018545113
+paracan	homepage.mac.com	2012-04-02 16:57:10	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	homepage.mac.com-paracan.warc.gz	148156
+paracan	public.me.com	2012-04-02 16:12:52	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	public.me.com-paracan.warc.gz	3066120
+paracan	web.me.com	2012-04-02 16:12:17	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3034.tar	web.me.com-paracan.warc.gz	81897781

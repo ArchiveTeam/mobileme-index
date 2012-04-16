@@ -1,28 +1,28 @@
-actrons	gallery.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	gallery.me.com-actrons.warc.gz	0
-actrons	homepage.mac.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	homepage.mac.com-actrons.warc.gz	0
-actrons	public.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	public.me.com-actrons.warc.gz	0
-actrons	web.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	web.me.com-actrons.warc.gz	0
-bobcotti	gallery.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	gallery.me.com-bobcotti.warc.gz	0
-bobcotti	homepage.mac.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	homepage.mac.com-bobcotti.warc.gz	0
-bobcotti	public.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	public.me.com-bobcotti.warc.gz	0
-bobcotti	web.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	web.me.com-bobcotti.warc.gz	0
-lgmorcillo	gallery.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	gallery.me.com-lgmorcillo.warc.gz	0
-lgmorcillo	homepage.mac.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	homepage.mac.com-lgmorcillo.warc.gz	0
-lgmorcillo	public.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	public.me.com-lgmorcillo.warc.gz	0
-lgmorcillo	web.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	web.me.com-lgmorcillo.warc.gz	0
-mfassler	gallery.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	gallery.me.com-mfassler.warc.gz	0
-mfassler	homepage.mac.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	homepage.mac.com-mfassler.warc.gz	0
-mfassler	public.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	public.me.com-mfassler.warc.gz	0
-mfassler	web.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	web.me.com-mfassler.warc.gz	0
-pattirogers	gallery.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	gallery.me.com-pattirogers.warc.gz	0
-pattirogers	homepage.mac.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	homepage.mac.com-pattirogers.warc.gz	0
-pattirogers	public.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	public.me.com-pattirogers.warc.gz	0
-pattirogers	web.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	web.me.com-pattirogers.warc.gz	0
-tobnkris	gallery.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	gallery.me.com-tobnkris.warc.gz	0
-tobnkris	homepage.mac.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	homepage.mac.com-tobnkris.warc.gz	0
-tobnkris	public.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	public.me.com-tobnkris.warc.gz	0
-tobnkris	web.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	web.me.com-tobnkris.warc.gz	0
-waguri1	gallery.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	gallery.me.com-waguri1.warc.gz	0
-waguri1	homepage.mac.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	homepage.mac.com-waguri1.warc.gz	0
-waguri1	public.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	public.me.com-waguri1.warc.gz	0
-waguri1	web.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	web.me.com-waguri1.warc.gz	0
+actrons	gallery.me.com	2012-04-06 08:46:30	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	gallery.me.com-actrons.warc.gz	27499960
+actrons	homepage.mac.com	2012-04-06 08:46:30	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	homepage.mac.com-actrons.warc.gz	4883
+actrons	public.me.com	2012-04-06 08:46:19	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	public.me.com-actrons.warc.gz	1908
+actrons	web.me.com	2012-04-06 08:46:15	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	web.me.com-actrons.warc.gz	2195869776
+bobcotti	gallery.me.com	2012-04-06 08:18:08	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	gallery.me.com-bobcotti.warc.gz	4267
+bobcotti	homepage.mac.com	2012-04-06 08:18:09	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	homepage.mac.com-bobcotti.warc.gz	4917
+bobcotti	public.me.com	2012-04-06 08:18:07	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	public.me.com-bobcotti.warc.gz	1915
+bobcotti	web.me.com	2012-04-06 08:18:07	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	web.me.com-bobcotti.warc.gz	33599714
+lgmorcillo	gallery.me.com	2012-04-06 07:34:58	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	gallery.me.com-lgmorcillo.warc.gz	5717
+lgmorcillo	homepage.mac.com	2012-04-06 07:34:58	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	homepage.mac.com-lgmorcillo.warc.gz	4919
+lgmorcillo	public.me.com	2012-04-06 07:34:57	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	public.me.com-lgmorcillo.warc.gz	1919
+lgmorcillo	web.me.com	2012-04-06 07:34:57	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	web.me.com-lgmorcillo.warc.gz	14182377
+mfassler	gallery.me.com	2012-04-06 08:09:58	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	gallery.me.com-mfassler.warc.gz	7318017
+mfassler	homepage.mac.com	2012-04-06 08:09:58	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	homepage.mac.com-mfassler.warc.gz	4905
+mfassler	public.me.com	2012-04-06 08:09:11	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	public.me.com-mfassler.warc.gz	1921
+mfassler	web.me.com	2012-04-06 08:09:10	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	web.me.com-mfassler.warc.gz	423654014
+pattirogers	gallery.me.com	2012-04-06 08:23:07	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	gallery.me.com-pattirogers.warc.gz	34531663
+pattirogers	homepage.mac.com	2012-04-06 08:23:07	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	homepage.mac.com-pattirogers.warc.gz	4923
+pattirogers	public.me.com	2012-04-06 08:21:20	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	public.me.com-pattirogers.warc.gz	1920
+pattirogers	web.me.com	2012-04-06 08:21:19	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	web.me.com-pattirogers.warc.gz	63149863
+tobnkris	gallery.me.com	2012-04-06 09:42:57	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	gallery.me.com-tobnkris.warc.gz	4873183646
+tobnkris	homepage.mac.com	2012-04-06 09:42:58	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	homepage.mac.com-tobnkris.warc.gz	4917
+tobnkris	public.me.com	2012-04-06 09:10:23	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	public.me.com-tobnkris.warc.gz	1913
+tobnkris	web.me.com	2012-04-06 09:10:21	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	web.me.com-tobnkris.warc.gz	425404500
+waguri1	gallery.me.com	2012-04-06 07:35:08	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	gallery.me.com-waguri1.warc.gz	5709
+waguri1	homepage.mac.com	2012-04-06 07:35:09	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	homepage.mac.com-waguri1.warc.gz	4912
+waguri1	public.me.com	2012-04-06 07:35:07	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	public.me.com-waguri1.warc.gz	3462
+waguri1	web.me.com	2012-04-06 07:35:07	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4609.tar	web.me.com-waguri1.warc.gz	367001

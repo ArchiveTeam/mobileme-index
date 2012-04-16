@@ -1,16 +1,16 @@
-chriskomnick	gallery.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	gallery.me.com-chriskomnick.warc.gz	0
-chriskomnick	homepage.mac.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	homepage.mac.com-chriskomnick.warc.gz	0
-chriskomnick	public.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	public.me.com-chriskomnick.warc.gz	0
-chriskomnick	web.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	web.me.com-chriskomnick.warc.gz	0
-messyp	gallery.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	gallery.me.com-messyp.warc.gz	0
-messyp	homepage.mac.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	homepage.mac.com-messyp.warc.gz	0
-messyp	public.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	public.me.com-messyp.warc.gz	0
-messyp	web.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	web.me.com-messyp.warc.gz	0
-oz1	gallery.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	gallery.me.com-oz1.warc.gz	0
-oz1	homepage.mac.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	homepage.mac.com-oz1.warc.gz	0
-oz1	public.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	public.me.com-oz1.warc.gz	0
-oz1	web.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	web.me.com-oz1.warc.gz	0
-teinertson	gallery.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	gallery.me.com-teinertson.warc.gz	0
-teinertson	homepage.mac.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	homepage.mac.com-teinertson.warc.gz	0
-teinertson	public.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	public.me.com-teinertson.warc.gz	0
-teinertson	web.me.com		archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	web.me.com-teinertson.warc.gz	0
+chriskomnick	gallery.me.com	2012-04-11 16:36:09	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	gallery.me.com-chriskomnick.warc.gz	156041744
+chriskomnick	homepage.mac.com	2012-04-11 16:36:10	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	homepage.mac.com-chriskomnick.warc.gz	4935
+chriskomnick	public.me.com	2012-04-11 16:33:31	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	public.me.com-chriskomnick.warc.gz	1925
+chriskomnick	web.me.com	2012-04-11 16:33:31	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	web.me.com-chriskomnick.warc.gz	20266225
+messyp	gallery.me.com	2012-04-11 13:27:51	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	gallery.me.com-messyp.warc.gz	769165451
+messyp	homepage.mac.com	2012-04-11 13:27:56	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	homepage.mac.com-messyp.warc.gz	99326
+messyp	public.me.com	2012-04-11 13:11:59	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	public.me.com-messyp.warc.gz	1912
+messyp	web.me.com	2012-04-11 13:11:57	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	web.me.com-messyp.warc.gz	338597105
+oz1	gallery.me.com	2012-04-11 16:28:06	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	gallery.me.com-oz1.warc.gz	8324
+oz1	homepage.mac.com	2012-04-11 16:28:06	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	homepage.mac.com-oz1.warc.gz	5148
+oz1	public.me.com	2012-04-11 16:28:03	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	public.me.com-oz1.warc.gz	1903
+oz1	web.me.com	2012-04-11 16:28:03	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	web.me.com-oz1.warc.gz	17652
+teinertson	gallery.me.com	2012-04-11 16:28:01	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	gallery.me.com-teinertson.warc.gz	1791333265
+teinertson	homepage.mac.com	2012-04-11 16:28:01	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	homepage.mac.com-teinertson.warc.gz	6080
+teinertson	public.me.com	2012-04-11 15:54:11	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	public.me.com-teinertson.warc.gz	138807777
+teinertson	web.me.com	2012-04-11 15:49:51	archiveteam-mobileme-hero-645x	archiveteam-mobileme-hero-645x-6453.tar	web.me.com-teinertson.warc.gz	1138904736

@@ -1,20 +1,20 @@
-dmann200	gallery.me.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	gallery.me.com-dmann200.warc.gz	0
-dmann200	homepage.mac.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	homepage.mac.com-dmann200.warc.gz	0
-dmann200	public.me.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	public.me.com-dmann200.warc.gz	0
-dmann200	web.me.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	web.me.com-dmann200.warc.gz	0
-doctom	gallery.me.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	gallery.me.com-doctom.warc.gz	0
-doctom	homepage.mac.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	homepage.mac.com-doctom.warc.gz	0
-doctom	public.me.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	public.me.com-doctom.warc.gz	0
-doctom	web.me.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	web.me.com-doctom.warc.gz	0
-jlcyclone	gallery.me.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	gallery.me.com-jlcyclone.warc.gz	0
-jlcyclone	homepage.mac.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	homepage.mac.com-jlcyclone.warc.gz	0
-jlcyclone	public.me.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	public.me.com-jlcyclone.warc.gz	0
-jlcyclone	web.me.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	web.me.com-jlcyclone.warc.gz	0
-thomaskean	gallery.me.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	gallery.me.com-thomaskean.warc.gz	0
-thomaskean	homepage.mac.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	homepage.mac.com-thomaskean.warc.gz	0
-thomaskean	public.me.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	public.me.com-thomaskean.warc.gz	0
-thomaskean	web.me.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	web.me.com-thomaskean.warc.gz	0
-trizia27	gallery.me.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	gallery.me.com-trizia27.warc.gz	0
-trizia27	homepage.mac.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	homepage.mac.com-trizia27.warc.gz	0
-trizia27	public.me.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	public.me.com-trizia27.warc.gz	0
-trizia27	web.me.com		archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	web.me.com-trizia27.warc.gz	0
+dmann200	gallery.me.com	2012-04-05 19:06:17	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	gallery.me.com-dmann200.warc.gz	4242
+dmann200	homepage.mac.com	2012-04-05 19:06:18	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	homepage.mac.com-dmann200.warc.gz	4900
+dmann200	public.me.com	2012-04-05 19:06:17	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	public.me.com-dmann200.warc.gz	2141583797
+dmann200	web.me.com	2012-04-05 18:43:09	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	web.me.com-dmann200.warc.gz	131120802
+doctom	gallery.me.com	2012-04-05 17:43:07	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	gallery.me.com-doctom.warc.gz	10740542
+doctom	homepage.mac.com	2012-04-05 17:43:11	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	homepage.mac.com-doctom.warc.gz	137773
+doctom	public.me.com	2012-04-05 17:42:54	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	public.me.com-doctom.warc.gz	1913
+doctom	web.me.com	2012-04-05 17:42:53	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	web.me.com-doctom.warc.gz	473158
+jlcyclone	gallery.me.com	2012-04-05 19:12:46	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	gallery.me.com-jlcyclone.warc.gz	461200554
+jlcyclone	homepage.mac.com	2012-04-05 19:12:46	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	homepage.mac.com-jlcyclone.warc.gz	4906
+jlcyclone	public.me.com	2012-04-05 19:10:35	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	public.me.com-jlcyclone.warc.gz	1920
+jlcyclone	web.me.com	2012-04-05 19:10:35	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	web.me.com-jlcyclone.warc.gz	55862425
+thomaskean	gallery.me.com	2012-04-05 18:40:14	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	gallery.me.com-thomaskean.warc.gz	5258
+thomaskean	homepage.mac.com	2012-04-05 18:40:14	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	homepage.mac.com-thomaskean.warc.gz	4896
+thomaskean	public.me.com	2012-04-05 18:40:13	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	public.me.com-thomaskean.warc.gz	1926
+thomaskean	web.me.com	2012-04-05 18:40:13	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	web.me.com-thomaskean.warc.gz	1060147
+trizia27	gallery.me.com	2012-04-05 18:39:20	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	gallery.me.com-trizia27.warc.gz	1605076423
+trizia27	homepage.mac.com	2012-04-05 18:39:20	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	homepage.mac.com-trizia27.warc.gz	4919
+trizia27	public.me.com	2012-04-05 18:10:41	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	public.me.com-trizia27.warc.gz	1916
+trizia27	web.me.com	2012-04-05 18:10:11	archiveteam-mobileme-hero-434x	archiveteam-mobileme-hero-434x-4345.tar	web.me.com-trizia27.warc.gz	104862269

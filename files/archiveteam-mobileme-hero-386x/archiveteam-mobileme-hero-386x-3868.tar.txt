@@ -1,32 +1,32 @@
-aslaurent	gallery.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	gallery.me.com-aslaurent.warc.gz	0
-aslaurent	homepage.mac.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	homepage.mac.com-aslaurent.warc.gz	0
-aslaurent	public.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	public.me.com-aslaurent.warc.gz	0
-aslaurent	web.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	web.me.com-aslaurent.warc.gz	0
-clement.rhein	gallery.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	gallery.me.com-clement.rhein.warc.gz	0
-clement.rhein	homepage.mac.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	homepage.mac.com-clement.rhein.warc.gz	0
-clement.rhein	public.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	public.me.com-clement.rhein.warc.gz	0
-clement.rhein	web.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	web.me.com-clement.rhein.warc.gz	0
-danikk	gallery.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	gallery.me.com-danikk.warc.gz	0
-danikk	homepage.mac.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	homepage.mac.com-danikk.warc.gz	0
-danikk	public.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	public.me.com-danikk.warc.gz	0
-danikk	web.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	web.me.com-danikk.warc.gz	0
-dvdlevy	gallery.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	gallery.me.com-dvdlevy.warc.gz	0
-dvdlevy	homepage.mac.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	homepage.mac.com-dvdlevy.warc.gz	0
-dvdlevy	public.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	public.me.com-dvdlevy.warc.gz	0
-dvdlevy	web.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	web.me.com-dvdlevy.warc.gz	0
-lifestylesdefined	gallery.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	gallery.me.com-lifestylesdefined.warc.gz	0
-lifestylesdefined	homepage.mac.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	homepage.mac.com-lifestylesdefined.warc.gz	0
-lifestylesdefined	public.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	public.me.com-lifestylesdefined.warc.gz	0
-lifestylesdefined	web.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	web.me.com-lifestylesdefined.warc.gz	0
-matthewtrumbull	gallery.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	gallery.me.com-matthewtrumbull.warc.gz	0
-matthewtrumbull	homepage.mac.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	homepage.mac.com-matthewtrumbull.warc.gz	0
-matthewtrumbull	public.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	public.me.com-matthewtrumbull.warc.gz	0
-matthewtrumbull	web.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	web.me.com-matthewtrumbull.warc.gz	0
-redfoo22	gallery.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	gallery.me.com-redfoo22.warc.gz	0
-redfoo22	homepage.mac.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	homepage.mac.com-redfoo22.warc.gz	0
-redfoo22	public.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	public.me.com-redfoo22.warc.gz	0
-redfoo22	web.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	web.me.com-redfoo22.warc.gz	0
-roger.heyman	gallery.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	gallery.me.com-roger.heyman.warc.gz	0
-roger.heyman	homepage.mac.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	homepage.mac.com-roger.heyman.warc.gz	0
-roger.heyman	public.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	public.me.com-roger.heyman.warc.gz	0
-roger.heyman	web.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	web.me.com-roger.heyman.warc.gz	0
+aslaurent	gallery.me.com	2012-04-04 13:58:42	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	gallery.me.com-aslaurent.warc.gz	12319
+aslaurent	homepage.mac.com	2012-04-04 13:58:42	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	homepage.mac.com-aslaurent.warc.gz	7148
+aslaurent	public.me.com	2012-04-04 13:58:41	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	public.me.com-aslaurent.warc.gz	1909
+aslaurent	web.me.com	2012-04-04 13:58:41	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	web.me.com-aslaurent.warc.gz	22455
+clement.rhein	gallery.me.com	2012-04-04 14:00:01	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	gallery.me.com-clement.rhein.warc.gz	5210
+clement.rhein	homepage.mac.com	2012-04-04 14:00:01	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	homepage.mac.com-clement.rhein.warc.gz	4931
+clement.rhein	public.me.com	2012-04-04 13:59:59	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	public.me.com-clement.rhein.warc.gz	1911
+clement.rhein	web.me.com	2012-04-04 13:59:58	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	web.me.com-clement.rhein.warc.gz	4003791
+danikk	gallery.me.com	2012-04-04 14:22:46	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	gallery.me.com-danikk.warc.gz	143754962
+danikk	homepage.mac.com	2012-04-04 14:22:49	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	homepage.mac.com-danikk.warc.gz	81122
+danikk	public.me.com	2012-04-04 14:19:51	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	public.me.com-danikk.warc.gz	941149
+danikk	web.me.com	2012-04-04 14:19:46	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	web.me.com-danikk.warc.gz	169535430
+dvdlevy	gallery.me.com	2012-04-04 14:06:38	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	gallery.me.com-dvdlevy.warc.gz	67021659
+dvdlevy	homepage.mac.com	2012-04-04 14:06:39	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	homepage.mac.com-dvdlevy.warc.gz	4907
+dvdlevy	public.me.com	2012-04-04 14:03:09	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	public.me.com-dvdlevy.warc.gz	4533
+dvdlevy	web.me.com	2012-04-04 14:03:08	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	web.me.com-dvdlevy.warc.gz	8671274
+lifestylesdefined	gallery.me.com	2012-04-04 16:01:49	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	gallery.me.com-lifestylesdefined.warc.gz	1789296300
+lifestylesdefined	homepage.mac.com	2012-04-04 16:01:52	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	homepage.mac.com-lifestylesdefined.warc.gz	4946
+lifestylesdefined	public.me.com	2012-04-04 14:50:01	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	public.me.com-lifestylesdefined.warc.gz	1925
+lifestylesdefined	web.me.com	2012-04-04 14:50:01	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	web.me.com-lifestylesdefined.warc.gz	109230456
+matthewtrumbull	gallery.me.com	2012-04-04 13:58:31	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	gallery.me.com-matthewtrumbull.warc.gz	441306386
+matthewtrumbull	homepage.mac.com	2012-04-04 13:58:34	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	homepage.mac.com-matthewtrumbull.warc.gz	4953
+matthewtrumbull	public.me.com	2012-04-04 13:52:21	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	public.me.com-matthewtrumbull.warc.gz	731501642
+matthewtrumbull	web.me.com	2012-04-04 13:32:34	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	web.me.com-matthewtrumbull.warc.gz	1050292538
+redfoo22	gallery.me.com	2012-04-04 13:58:36	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	gallery.me.com-redfoo22.warc.gz	8328
+redfoo22	homepage.mac.com	2012-04-04 13:58:37	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	homepage.mac.com-redfoo22.warc.gz	5165
+redfoo22	public.me.com	2012-04-04 13:58:36	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	public.me.com-redfoo22.warc.gz	1911
+redfoo22	web.me.com	2012-04-04 13:58:35	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	web.me.com-redfoo22.warc.gz	17709
+roger.heyman	gallery.me.com	2012-04-04 13:58:39	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	gallery.me.com-roger.heyman.warc.gz	12318
+roger.heyman	homepage.mac.com	2012-04-04 13:58:39	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	homepage.mac.com-roger.heyman.warc.gz	7156
+roger.heyman	public.me.com	2012-04-04 13:58:38	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	public.me.com-roger.heyman.warc.gz	1928
+roger.heyman	web.me.com	2012-04-04 13:58:38	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3868.tar	web.me.com-roger.heyman.warc.gz	22466

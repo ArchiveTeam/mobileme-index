@@ -1,16 +1,16 @@
-kimfridbjorg	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	gallery.me.com-kimfridbjorg.warc.gz	0
-kimfridbjorg	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	homepage.mac.com-kimfridbjorg.warc.gz	0
-kimfridbjorg	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	public.me.com-kimfridbjorg.warc.gz	0
-kimfridbjorg	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	web.me.com-kimfridbjorg.warc.gz	0
-lreinken	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	gallery.me.com-lreinken.warc.gz	0
-lreinken	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	homepage.mac.com-lreinken.warc.gz	0
-lreinken	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	public.me.com-lreinken.warc.gz	0
-lreinken	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	web.me.com-lreinken.warc.gz	0
-mary.mckee	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	gallery.me.com-mary.mckee.warc.gz	0
-mary.mckee	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	homepage.mac.com-mary.mckee.warc.gz	0
-mary.mckee	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	public.me.com-mary.mckee.warc.gz	0
-mary.mckee	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	web.me.com-mary.mckee.warc.gz	0
-pivotalmassage	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	gallery.me.com-pivotalmassage.warc.gz	0
-pivotalmassage	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	homepage.mac.com-pivotalmassage.warc.gz	0
-pivotalmassage	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	public.me.com-pivotalmassage.warc.gz	0
-pivotalmassage	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	web.me.com-pivotalmassage.warc.gz	0
+kimfridbjorg	gallery.me.com	2012-04-03 00:13:48	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	gallery.me.com-kimfridbjorg.warc.gz	6432
+kimfridbjorg	homepage.mac.com	2012-04-03 00:13:48	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	homepage.mac.com-kimfridbjorg.warc.gz	4931
+kimfridbjorg	public.me.com	2012-04-03 00:13:47	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	public.me.com-kimfridbjorg.warc.gz	1933
+kimfridbjorg	web.me.com	2012-04-03 00:13:47	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	web.me.com-kimfridbjorg.warc.gz	3606456
+lreinken	gallery.me.com	2012-04-03 03:36:09	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	gallery.me.com-lreinken.warc.gz	983484492
+lreinken	homepage.mac.com	2012-04-03 03:36:11	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	homepage.mac.com-lreinken.warc.gz	30386
+lreinken	public.me.com	2012-04-03 03:29:11	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	public.me.com-lreinken.warc.gz	1915
+lreinken	web.me.com	2012-04-03 03:28:42	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	web.me.com-lreinken.warc.gz	8402687692
+mary.mckee	gallery.me.com	2012-04-03 00:10:47	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	gallery.me.com-mary.mckee.warc.gz	277676850
+mary.mckee	homepage.mac.com	2012-04-03 00:10:48	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	homepage.mac.com-mary.mckee.warc.gz	4922
+mary.mckee	public.me.com	2012-04-03 00:07:27	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	public.me.com-mary.mckee.warc.gz	218672925
+mary.mckee	web.me.com	2012-04-03 00:01:32	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	web.me.com-mary.mckee.warc.gz	1636139915
+pivotalmassage	gallery.me.com	2012-04-03 00:21:42	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	gallery.me.com-pivotalmassage.warc.gz	5729
+pivotalmassage	homepage.mac.com	2012-04-03 00:21:42	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	homepage.mac.com-pivotalmassage.warc.gz	4930
+pivotalmassage	public.me.com	2012-04-03 00:21:41	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	public.me.com-pivotalmassage.warc.gz	1923
+pivotalmassage	web.me.com	2012-04-03 00:21:41	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3232.tar	web.me.com-pivotalmassage.warc.gz	175635984

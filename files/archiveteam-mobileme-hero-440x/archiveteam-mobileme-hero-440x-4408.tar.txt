@@ -1,8 +1,8 @@
-dropsmag	gallery.me.com		archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4408.tar	gallery.me.com-dropsmag.warc.gz	0
-dropsmag	homepage.mac.com		archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4408.tar	homepage.mac.com-dropsmag.warc.gz	0
-dropsmag	public.me.com		archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4408.tar	public.me.com-dropsmag.warc.gz	0
-dropsmag	web.me.com		archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4408.tar	web.me.com-dropsmag.warc.gz	0
-jmoff	gallery.me.com		archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4408.tar	gallery.me.com-jmoff.warc.gz	0
-jmoff	homepage.mac.com		archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4408.tar	homepage.mac.com-jmoff.warc.gz	0
-jmoff	public.me.com		archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4408.tar	public.me.com-jmoff.warc.gz	0
-jmoff	web.me.com		archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4408.tar	web.me.com-jmoff.warc.gz	0
+dropsmag	gallery.me.com	2012-04-05 20:05:35	archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4408.tar	gallery.me.com-dropsmag.warc.gz	12328
+dropsmag	homepage.mac.com	2012-04-05 20:05:35	archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4408.tar	homepage.mac.com-dropsmag.warc.gz	7142
+dropsmag	public.me.com	2012-04-05 20:05:34	archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4408.tar	public.me.com-dropsmag.warc.gz	1918
+dropsmag	web.me.com	2012-04-05 20:05:33	archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4408.tar	web.me.com-dropsmag.warc.gz	22452
+jmoff	gallery.me.com	2012-04-05 22:24:57	archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4408.tar	gallery.me.com-jmoff.warc.gz	1362406889
+jmoff	homepage.mac.com	2012-04-05 22:24:58	archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4408.tar	homepage.mac.com-jmoff.warc.gz	4901
+jmoff	public.me.com	2012-04-05 21:54:58	archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4408.tar	public.me.com-jmoff.warc.gz	3379428667
+jmoff	web.me.com	2012-04-05 20:54:38	archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4408.tar	web.me.com-jmoff.warc.gz	891055831

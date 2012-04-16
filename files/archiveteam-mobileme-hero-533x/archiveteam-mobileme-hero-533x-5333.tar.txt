@@ -1,12 +1,12 @@
-airacademybands	gallery.me.com		archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	gallery.me.com-airacademybands.warc.gz	0
-airacademybands	homepage.mac.com		archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	homepage.mac.com-airacademybands.warc.gz	0
-airacademybands	public.me.com		archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	public.me.com-airacademybands.warc.gz	0
-airacademybands	web.me.com		archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	web.me.com-airacademybands.warc.gz	0
-spaceggod	gallery.me.com		archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	gallery.me.com-spaceggod.warc.gz	0
-spaceggod	homepage.mac.com		archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	homepage.mac.com-spaceggod.warc.gz	0
-spaceggod	public.me.com		archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	public.me.com-spaceggod.warc.gz	0
-spaceggod	web.me.com		archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	web.me.com-spaceggod.warc.gz	0
-tfoley	gallery.me.com		archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	gallery.me.com-tfoley.warc.gz	0
-tfoley	homepage.mac.com		archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	homepage.mac.com-tfoley.warc.gz	0
-tfoley	public.me.com		archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	public.me.com-tfoley.warc.gz	0
-tfoley	web.me.com		archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	web.me.com-tfoley.warc.gz	0
+airacademybands	gallery.me.com	2012-04-09 04:42:22	archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	gallery.me.com-airacademybands.warc.gz	4190663063
+airacademybands	homepage.mac.com	2012-04-09 04:42:23	archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	homepage.mac.com-airacademybands.warc.gz	4940
+airacademybands	public.me.com	2012-04-09 03:17:38	archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	public.me.com-airacademybands.warc.gz	1930
+airacademybands	web.me.com	2012-04-09 03:17:33	archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	web.me.com-airacademybands.warc.gz	1316074392
+spaceggod	gallery.me.com	2012-04-09 02:31:37	archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	gallery.me.com-spaceggod.warc.gz	8335
+spaceggod	homepage.mac.com	2012-04-09 02:31:37	archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	homepage.mac.com-spaceggod.warc.gz	5162
+spaceggod	public.me.com	2012-04-09 02:31:36	archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	public.me.com-spaceggod.warc.gz	1907
+spaceggod	web.me.com	2012-04-09 02:31:36	archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	web.me.com-spaceggod.warc.gz	17698
+tfoley	gallery.me.com	2012-04-09 02:31:32	archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	gallery.me.com-tfoley.warc.gz	404302615
+tfoley	homepage.mac.com	2012-04-09 02:31:33	archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	homepage.mac.com-tfoley.warc.gz	4896
+tfoley	public.me.com	2012-04-09 02:09:27	archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	public.me.com-tfoley.warc.gz	1915
+tfoley	web.me.com	2012-04-09 02:09:26	archiveteam-mobileme-hero-533x	archiveteam-mobileme-hero-533x-5333.tar	web.me.com-tfoley.warc.gz	974310780

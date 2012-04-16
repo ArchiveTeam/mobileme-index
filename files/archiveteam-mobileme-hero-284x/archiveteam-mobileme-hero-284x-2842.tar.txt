@@ -1,4 +1,4 @@
-bencole	gallery.me.com		archiveteam-mobileme-hero-284x	archiveteam-mobileme-hero-284x-2842.tar	gallery.me.com-bencole.warc.gz	0
-bencole	homepage.mac.com		archiveteam-mobileme-hero-284x	archiveteam-mobileme-hero-284x-2842.tar	homepage.mac.com-bencole.warc.gz	0
-bencole	public.me.com		archiveteam-mobileme-hero-284x	archiveteam-mobileme-hero-284x-2842.tar	public.me.com-bencole.warc.gz	0
-bencole	web.me.com		archiveteam-mobileme-hero-284x	archiveteam-mobileme-hero-284x-2842.tar	web.me.com-bencole.warc.gz	0
+bencole	gallery.me.com	2012-04-02 05:37:29	archiveteam-mobileme-hero-284x	archiveteam-mobileme-hero-284x-2842.tar	gallery.me.com-bencole.warc.gz	174312
+bencole	homepage.mac.com	2012-04-02 05:37:41	archiveteam-mobileme-hero-284x	archiveteam-mobileme-hero-284x-2842.tar	homepage.mac.com-bencole.warc.gz	205051
+bencole	public.me.com	2012-04-02 05:37:27	archiveteam-mobileme-hero-284x	archiveteam-mobileme-hero-284x-2842.tar	public.me.com-bencole.warc.gz	4550114472
+bencole	web.me.com	2012-04-02 03:34:55	archiveteam-mobileme-hero-284x	archiveteam-mobileme-hero-284x-2842.tar	web.me.com-bencole.warc.gz	1627860143

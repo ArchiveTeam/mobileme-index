@@ -1,8 +1,8 @@
-mightydogwalking	gallery.me.com		archiveteam-mobileme-hero-373x	archiveteam-mobileme-hero-373x-3730.tar	gallery.me.com-mightydogwalking.warc.gz	0
-mightydogwalking	homepage.mac.com		archiveteam-mobileme-hero-373x	archiveteam-mobileme-hero-373x-3730.tar	homepage.mac.com-mightydogwalking.warc.gz	0
-mightydogwalking	public.me.com		archiveteam-mobileme-hero-373x	archiveteam-mobileme-hero-373x-3730.tar	public.me.com-mightydogwalking.warc.gz	0
-mightydogwalking	web.me.com		archiveteam-mobileme-hero-373x	archiveteam-mobileme-hero-373x-3730.tar	web.me.com-mightydogwalking.warc.gz	0
-pontin	gallery.me.com		archiveteam-mobileme-hero-373x	archiveteam-mobileme-hero-373x-3730.tar	gallery.me.com-pontin.warc.gz	0
-pontin	homepage.mac.com		archiveteam-mobileme-hero-373x	archiveteam-mobileme-hero-373x-3730.tar	homepage.mac.com-pontin.warc.gz	0
-pontin	public.me.com		archiveteam-mobileme-hero-373x	archiveteam-mobileme-hero-373x-3730.tar	public.me.com-pontin.warc.gz	0
-pontin	web.me.com		archiveteam-mobileme-hero-373x	archiveteam-mobileme-hero-373x-3730.tar	web.me.com-pontin.warc.gz	0
+mightydogwalking	gallery.me.com	2012-04-04 05:58:16	archiveteam-mobileme-hero-373x	archiveteam-mobileme-hero-373x-3730.tar	gallery.me.com-mightydogwalking.warc.gz	4297
+mightydogwalking	homepage.mac.com	2012-04-04 05:58:16	archiveteam-mobileme-hero-373x	archiveteam-mobileme-hero-373x-3730.tar	homepage.mac.com-mightydogwalking.warc.gz	4948
+mightydogwalking	public.me.com	2012-04-04 05:58:15	archiveteam-mobileme-hero-373x	archiveteam-mobileme-hero-373x-3730.tar	public.me.com-mightydogwalking.warc.gz	1934
+mightydogwalking	web.me.com	2012-04-04 05:58:15	archiveteam-mobileme-hero-373x	archiveteam-mobileme-hero-373x-3730.tar	web.me.com-mightydogwalking.warc.gz	3630690
+pontin	gallery.me.com	2012-04-04 07:53:28	archiveteam-mobileme-hero-373x	archiveteam-mobileme-hero-373x-3730.tar	gallery.me.com-pontin.warc.gz	5338654290
+pontin	homepage.mac.com	2012-04-04 07:53:28	archiveteam-mobileme-hero-373x	archiveteam-mobileme-hero-373x-3730.tar	homepage.mac.com-pontin.warc.gz	4903
+pontin	public.me.com	2012-04-04 06:14:43	archiveteam-mobileme-hero-373x	archiveteam-mobileme-hero-373x-3730.tar	public.me.com-pontin.warc.gz	152998209
+pontin	web.me.com	2012-04-04 06:11:14	archiveteam-mobileme-hero-373x	archiveteam-mobileme-hero-373x-3730.tar	web.me.com-pontin.warc.gz	112024971

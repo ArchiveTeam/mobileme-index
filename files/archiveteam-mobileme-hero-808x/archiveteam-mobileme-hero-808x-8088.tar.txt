@@ -1,0 +1,8 @@
+chester_historical	gallery.me.com	2012-04-14 21:09:17	archiveteam-mobileme-hero-808x	archiveteam-mobileme-hero-808x-8088.tar	gallery.me.com-chester_historical.warc.gz	1294627725
+chester_historical	homepage.mac.com	2012-04-14 21:09:22	archiveteam-mobileme-hero-808x	archiveteam-mobileme-hero-808x-8088.tar	homepage.mac.com-chester_historical.warc.gz	79761
+chester_historical	public.me.com	2012-04-14 20:14:44	archiveteam-mobileme-hero-808x	archiveteam-mobileme-hero-808x-8088.tar	public.me.com-chester_historical.warc.gz	209404983
+chester_historical	web.me.com	2012-04-14 20:05:51	archiveteam-mobileme-hero-808x	archiveteam-mobileme-hero-808x-8088.tar	web.me.com-chester_historical.warc.gz	2209471870
+druidhillsdance	gallery.me.com	2012-04-14 21:25:42	archiveteam-mobileme-hero-808x	archiveteam-mobileme-hero-808x-8088.tar	gallery.me.com-druidhillsdance.warc.gz	676040353
+druidhillsdance	homepage.mac.com	2012-04-14 21:25:43	archiveteam-mobileme-hero-808x	archiveteam-mobileme-hero-808x-8088.tar	homepage.mac.com-druidhillsdance.warc.gz	4941
+druidhillsdance	public.me.com	2012-04-14 21:17:15	archiveteam-mobileme-hero-808x	archiveteam-mobileme-hero-808x-8088.tar	public.me.com-druidhillsdance.warc.gz	1924
+druidhillsdance	web.me.com	2012-04-14 21:17:15	archiveteam-mobileme-hero-808x	archiveteam-mobileme-hero-808x-8088.tar	web.me.com-druidhillsdance.warc.gz	6597664

@@ -1,8 +1,8 @@
-dogcows	gallery.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4230.tar	gallery.me.com-dogcows.warc.gz	0
-dogcows	homepage.mac.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4230.tar	homepage.mac.com-dogcows.warc.gz	0
-dogcows	public.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4230.tar	public.me.com-dogcows.warc.gz	0
-dogcows	web.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4230.tar	web.me.com-dogcows.warc.gz	0
-mamebase	gallery.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4230.tar	gallery.me.com-mamebase.warc.gz	0
-mamebase	homepage.mac.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4230.tar	homepage.mac.com-mamebase.warc.gz	0
-mamebase	public.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4230.tar	public.me.com-mamebase.warc.gz	0
-mamebase	web.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4230.tar	web.me.com-mamebase.warc.gz	0
+dogcows	gallery.me.com	2012-04-05 09:47:19	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4230.tar	gallery.me.com-dogcows.warc.gz	5204
+dogcows	homepage.mac.com	2012-04-05 09:47:19	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4230.tar	homepage.mac.com-dogcows.warc.gz	4886
+dogcows	public.me.com	2012-04-05 09:47:18	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4230.tar	public.me.com-dogcows.warc.gz	15174
+dogcows	web.me.com	2012-04-05 09:47:16	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4230.tar	web.me.com-dogcows.warc.gz	33038
+mamebase	gallery.me.com	2012-04-05 12:07:40	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4230.tar	gallery.me.com-mamebase.warc.gz	4230
+mamebase	homepage.mac.com	2012-04-05 12:07:41	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4230.tar	homepage.mac.com-mamebase.warc.gz	7789
+mamebase	public.me.com	2012-04-05 12:07:39	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4230.tar	public.me.com-mamebase.warc.gz	5581394265
+mamebase	web.me.com	2012-04-05 09:47:22	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4230.tar	web.me.com-mamebase.warc.gz	7398

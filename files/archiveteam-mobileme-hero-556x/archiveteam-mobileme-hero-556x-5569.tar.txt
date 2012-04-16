@@ -1,24 +1,24 @@
-cmilos	gallery.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	gallery.me.com-cmilos.warc.gz	0
-cmilos	homepage.mac.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	homepage.mac.com-cmilos.warc.gz	0
-cmilos	public.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	public.me.com-cmilos.warc.gz	0
-cmilos	web.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	web.me.com-cmilos.warc.gz	0
-davehooker	gallery.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	gallery.me.com-davehooker.warc.gz	0
-davehooker	homepage.mac.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	homepage.mac.com-davehooker.warc.gz	0
-davehooker	public.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	public.me.com-davehooker.warc.gz	0
-davehooker	web.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	web.me.com-davehooker.warc.gz	0
-downtownbrown2	gallery.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	gallery.me.com-downtownbrown2.warc.gz	0
-downtownbrown2	homepage.mac.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	homepage.mac.com-downtownbrown2.warc.gz	0
-downtownbrown2	public.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	public.me.com-downtownbrown2.warc.gz	0
-downtownbrown2	web.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	web.me.com-downtownbrown2.warc.gz	0
-grandduke	gallery.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	gallery.me.com-grandduke.warc.gz	0
-grandduke	homepage.mac.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	homepage.mac.com-grandduke.warc.gz	0
-grandduke	public.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	public.me.com-grandduke.warc.gz	0
-grandduke	web.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	web.me.com-grandduke.warc.gz	0
-johnettaboone	gallery.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	gallery.me.com-johnettaboone.warc.gz	0
-johnettaboone	homepage.mac.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	homepage.mac.com-johnettaboone.warc.gz	0
-johnettaboone	public.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	public.me.com-johnettaboone.warc.gz	0
-johnettaboone	web.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	web.me.com-johnettaboone.warc.gz	0
-mikegraffigna	gallery.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	gallery.me.com-mikegraffigna.warc.gz	0
-mikegraffigna	homepage.mac.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	homepage.mac.com-mikegraffigna.warc.gz	0
-mikegraffigna	public.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	public.me.com-mikegraffigna.warc.gz	0
-mikegraffigna	web.me.com		archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	web.me.com-mikegraffigna.warc.gz	0
+cmilos	gallery.me.com	2012-04-09 17:47:35	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	gallery.me.com-cmilos.warc.gz	4239
+cmilos	homepage.mac.com	2012-04-09 17:47:49	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	homepage.mac.com-cmilos.warc.gz	126529
+cmilos	public.me.com	2012-04-09 17:47:34	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	public.me.com-cmilos.warc.gz	2614880732
+cmilos	web.me.com	2012-04-09 16:46:36	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	web.me.com-cmilos.warc.gz	540240
+davehooker	gallery.me.com	2012-04-09 16:46:14	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	gallery.me.com-davehooker.warc.gz	19946817
+davehooker	homepage.mac.com	2012-04-09 16:46:14	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	homepage.mac.com-davehooker.warc.gz	4924
+davehooker	public.me.com	2012-04-09 16:45:32	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	public.me.com-davehooker.warc.gz	3457
+davehooker	web.me.com	2012-04-09 16:45:30	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	web.me.com-davehooker.warc.gz	4646100
+downtownbrown2	gallery.me.com	2012-04-09 16:16:08	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	gallery.me.com-downtownbrown2.warc.gz	12348
+downtownbrown2	homepage.mac.com	2012-04-09 16:16:10	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	homepage.mac.com-downtownbrown2.warc.gz	7166
+downtownbrown2	public.me.com	2012-04-09 16:16:06	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	public.me.com-downtownbrown2.warc.gz	1923
+downtownbrown2	web.me.com	2012-04-09 16:16:05	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	web.me.com-downtownbrown2.warc.gz	22557
+grandduke	gallery.me.com	2012-04-09 16:15:55	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	gallery.me.com-grandduke.warc.gz	926305177
+grandduke	homepage.mac.com	2012-04-09 16:15:57	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	homepage.mac.com-grandduke.warc.gz	4904
+grandduke	public.me.com	2012-04-09 15:32:12	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	public.me.com-grandduke.warc.gz	948793448
+grandduke	web.me.com	2012-04-09 15:03:17	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	web.me.com-grandduke.warc.gz	486235130
+johnettaboone	gallery.me.com	2012-04-09 16:43:55	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	gallery.me.com-johnettaboone.warc.gz	14824726
+johnettaboone	homepage.mac.com	2012-04-09 16:43:58	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	homepage.mac.com-johnettaboone.warc.gz	36913
+johnettaboone	public.me.com	2012-04-09 16:43:37	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	public.me.com-johnettaboone.warc.gz	1934
+johnettaboone	web.me.com	2012-04-09 16:43:36	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	web.me.com-johnettaboone.warc.gz	129855511
+mikegraffigna	gallery.me.com	2012-04-09 16:17:05	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	gallery.me.com-mikegraffigna.warc.gz	11142
+mikegraffigna	homepage.mac.com	2012-04-09 16:17:05	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	homepage.mac.com-mikegraffigna.warc.gz	4926
+mikegraffigna	public.me.com	2012-04-09 16:16:42	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	public.me.com-mikegraffigna.warc.gz	1929
+mikegraffigna	web.me.com	2012-04-09 16:16:42	archiveteam-mobileme-hero-556x	archiveteam-mobileme-hero-556x-5569.tar	web.me.com-mikegraffigna.warc.gz	140876

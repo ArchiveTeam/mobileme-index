@@ -1,8 +1,8 @@
-arnab.rudra	gallery.me.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5279.tar	gallery.me.com-arnab.rudra.warc.gz	0
-arnab.rudra	homepage.mac.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5279.tar	homepage.mac.com-arnab.rudra.warc.gz	0
-arnab.rudra	public.me.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5279.tar	public.me.com-arnab.rudra.warc.gz	0
-arnab.rudra	web.me.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5279.tar	web.me.com-arnab.rudra.warc.gz	0
-domino.gau	gallery.me.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5279.tar	gallery.me.com-domino.gau.warc.gz	0
-domino.gau	homepage.mac.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5279.tar	homepage.mac.com-domino.gau.warc.gz	0
-domino.gau	public.me.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5279.tar	public.me.com-domino.gau.warc.gz	0
-domino.gau	web.me.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5279.tar	web.me.com-domino.gau.warc.gz	0
+arnab.rudra	gallery.me.com	2012-04-09 02:24:21	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5279.tar	gallery.me.com-arnab.rudra.warc.gz	7388835768
+arnab.rudra	homepage.mac.com	2012-04-09 02:24:21	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5279.tar	homepage.mac.com-arnab.rudra.warc.gz	4912
+arnab.rudra	public.me.com	2012-04-08 23:07:43	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5279.tar	public.me.com-arnab.rudra.warc.gz	1916
+arnab.rudra	web.me.com	2012-04-08 23:07:41	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5279.tar	web.me.com-arnab.rudra.warc.gz	3077216672
+domino.gau	gallery.me.com	2012-04-08 21:29:59	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5279.tar	gallery.me.com-domino.gau.warc.gz	4258
+domino.gau	homepage.mac.com	2012-04-08 21:30:00	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5279.tar	homepage.mac.com-domino.gau.warc.gz	4905
+domino.gau	public.me.com	2012-04-08 21:29:58	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5279.tar	public.me.com-domino.gau.warc.gz	1920
+domino.gau	web.me.com	2012-04-08 21:29:56	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5279.tar	web.me.com-domino.gau.warc.gz	77503878

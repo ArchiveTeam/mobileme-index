@@ -1,20 +1,20 @@
-bjorn.andreasson	gallery.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	gallery.me.com-bjorn.andreasson.warc.gz	0
-bjorn.andreasson	homepage.mac.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	homepage.mac.com-bjorn.andreasson.warc.gz	0
-bjorn.andreasson	public.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	public.me.com-bjorn.andreasson.warc.gz	0
-bjorn.andreasson	web.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	web.me.com-bjorn.andreasson.warc.gz	0
-paskal.lamy	gallery.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	gallery.me.com-paskal.lamy.warc.gz	0
-paskal.lamy	homepage.mac.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	homepage.mac.com-paskal.lamy.warc.gz	0
-paskal.lamy	public.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	public.me.com-paskal.lamy.warc.gz	0
-paskal.lamy	web.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	web.me.com-paskal.lamy.warc.gz	0
-pmagowan	gallery.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	gallery.me.com-pmagowan.warc.gz	0
-pmagowan	homepage.mac.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	homepage.mac.com-pmagowan.warc.gz	0
-pmagowan	public.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	public.me.com-pmagowan.warc.gz	0
-pmagowan	web.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	web.me.com-pmagowan.warc.gz	0
-scherrerfamily	gallery.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	gallery.me.com-scherrerfamily.warc.gz	0
-scherrerfamily	homepage.mac.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	homepage.mac.com-scherrerfamily.warc.gz	0
-scherrerfamily	public.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	public.me.com-scherrerfamily.warc.gz	0
-scherrerfamily	web.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	web.me.com-scherrerfamily.warc.gz	0
-york.schoen	gallery.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	gallery.me.com-york.schoen.warc.gz	0
-york.schoen	homepage.mac.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	homepage.mac.com-york.schoen.warc.gz	0
-york.schoen	public.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	public.me.com-york.schoen.warc.gz	0
-york.schoen	web.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	web.me.com-york.schoen.warc.gz	0
+bjorn.andreasson	gallery.me.com	2012-03-30 23:34:54	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	gallery.me.com-bjorn.andreasson.warc.gz	5334
+bjorn.andreasson	homepage.mac.com	2012-03-30 23:34:54	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	homepage.mac.com-bjorn.andreasson.warc.gz	4931
+bjorn.andreasson	public.me.com	2012-03-30 23:34:52	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	public.me.com-bjorn.andreasson.warc.gz	1932
+bjorn.andreasson	web.me.com	2012-03-30 23:34:49	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	web.me.com-bjorn.andreasson.warc.gz	6927568
+paskal.lamy	gallery.me.com	2012-03-30 23:35:10	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	gallery.me.com-paskal.lamy.warc.gz	12330
+paskal.lamy	homepage.mac.com	2012-03-30 23:35:11	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	homepage.mac.com-paskal.lamy.warc.gz	7165
+paskal.lamy	public.me.com	2012-03-30 23:35:07	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	public.me.com-paskal.lamy.warc.gz	1926
+paskal.lamy	web.me.com	2012-03-30 23:35:07	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	web.me.com-paskal.lamy.warc.gz	22541
+pmagowan	gallery.me.com	2012-03-30 23:32:10	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	gallery.me.com-pmagowan.warc.gz	4242
+pmagowan	homepage.mac.com	2012-03-30 23:32:11	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	homepage.mac.com-pmagowan.warc.gz	4908
+pmagowan	public.me.com	2012-03-30 23:32:10	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	public.me.com-pmagowan.warc.gz	1918
+pmagowan	web.me.com	2012-03-30 23:32:09	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	web.me.com-pmagowan.warc.gz	4999915
+scherrerfamily	gallery.me.com	2012-03-31 07:00:28	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	gallery.me.com-scherrerfamily.warc.gz	2888755284
+scherrerfamily	homepage.mac.com	2012-03-31 07:00:29	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	homepage.mac.com-scherrerfamily.warc.gz	4923
+scherrerfamily	public.me.com	2012-03-31 04:34:34	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	public.me.com-scherrerfamily.warc.gz	150374802
+scherrerfamily	web.me.com	2012-03-31 04:23:27	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	web.me.com-scherrerfamily.warc.gz	1919006867
+york.schoen	gallery.me.com	2012-03-30 23:29:32	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	gallery.me.com-york.schoen.warc.gz	7513
+york.schoen	homepage.mac.com	2012-03-30 23:29:33	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	homepage.mac.com-york.schoen.warc.gz	4918
+york.schoen	public.me.com	2012-03-30 23:29:27	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	public.me.com-york.schoen.warc.gz	1925
+york.schoen	web.me.com	2012-03-30 23:27:26	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2329.tar	web.me.com-york.schoen.warc.gz	1227236153

@@ -1,8 +1,8 @@
-danielmarracino	gallery.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4126.tar	gallery.me.com-danielmarracino.warc.gz	0
-danielmarracino	homepage.mac.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4126.tar	homepage.mac.com-danielmarracino.warc.gz	0
-danielmarracino	public.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4126.tar	public.me.com-danielmarracino.warc.gz	0
-danielmarracino	web.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4126.tar	web.me.com-danielmarracino.warc.gz	0
-leejr88	gallery.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4126.tar	gallery.me.com-leejr88.warc.gz	0
-leejr88	homepage.mac.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4126.tar	homepage.mac.com-leejr88.warc.gz	0
-leejr88	public.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4126.tar	public.me.com-leejr88.warc.gz	0
-leejr88	web.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4126.tar	web.me.com-leejr88.warc.gz	0
+danielmarracino	gallery.me.com	2012-04-05 06:29:27	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4126.tar	gallery.me.com-danielmarracino.warc.gz	2033518445
+danielmarracino	homepage.mac.com	2012-04-05 06:29:29	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4126.tar	homepage.mac.com-danielmarracino.warc.gz	37028
+danielmarracino	public.me.com	2012-04-05 05:41:43	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4126.tar	public.me.com-danielmarracino.warc.gz	1213193340
+danielmarracino	web.me.com	2012-04-05 05:33:27	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4126.tar	web.me.com-danielmarracino.warc.gz	1672520619
+leejr88	gallery.me.com	2012-04-05 03:43:42	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4126.tar	gallery.me.com-leejr88.warc.gz	4268
+leejr88	homepage.mac.com	2012-04-05 03:43:43	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4126.tar	homepage.mac.com-leejr88.warc.gz	4900
+leejr88	public.me.com	2012-04-05 03:43:42	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4126.tar	public.me.com-leejr88.warc.gz	1911
+leejr88	web.me.com	2012-04-05 03:43:41	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4126.tar	web.me.com-leejr88.warc.gz	39531463

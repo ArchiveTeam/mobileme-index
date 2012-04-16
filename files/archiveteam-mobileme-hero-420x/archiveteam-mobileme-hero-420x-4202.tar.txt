@@ -1,12 +1,12 @@
-khazelett0185	gallery.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	gallery.me.com-khazelett0185.warc.gz	0
-khazelett0185	homepage.mac.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	homepage.mac.com-khazelett0185.warc.gz	0
-khazelett0185	public.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	public.me.com-khazelett0185.warc.gz	0
-khazelett0185	web.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	web.me.com-khazelett0185.warc.gz	0
-nateloehrke	gallery.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	gallery.me.com-nateloehrke.warc.gz	0
-nateloehrke	homepage.mac.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	homepage.mac.com-nateloehrke.warc.gz	0
-nateloehrke	public.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	public.me.com-nateloehrke.warc.gz	0
-nateloehrke	web.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	web.me.com-nateloehrke.warc.gz	0
-rlpvideo	gallery.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	gallery.me.com-rlpvideo.warc.gz	0
-rlpvideo	homepage.mac.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	homepage.mac.com-rlpvideo.warc.gz	0
-rlpvideo	public.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	public.me.com-rlpvideo.warc.gz	0
-rlpvideo	web.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	web.me.com-rlpvideo.warc.gz	0
+khazelett0185	gallery.me.com	2012-04-05 09:21:39	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	gallery.me.com-khazelett0185.warc.gz	232442669
+khazelett0185	homepage.mac.com	2012-04-05 09:21:40	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	homepage.mac.com-khazelett0185.warc.gz	4951
+khazelett0185	public.me.com	2012-04-05 09:18:48	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	public.me.com-khazelett0185.warc.gz	18665
+khazelett0185	web.me.com	2012-04-05 09:18:45	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	web.me.com-khazelett0185.warc.gz	362686976
+nateloehrke	gallery.me.com	2012-04-05 10:18:46	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	gallery.me.com-nateloehrke.warc.gz	4569844
+nateloehrke	homepage.mac.com	2012-04-05 10:18:47	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	homepage.mac.com-nateloehrke.warc.gz	4909
+nateloehrke	public.me.com	2012-04-05 10:18:39	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	public.me.com-nateloehrke.warc.gz	1923
+nateloehrke	web.me.com	2012-04-05 10:18:34	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	web.me.com-nateloehrke.warc.gz	1770925000
+rlpvideo	gallery.me.com	2012-04-05 09:54:30	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	gallery.me.com-rlpvideo.warc.gz	184141414
+rlpvideo	homepage.mac.com	2012-04-05 09:54:30	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	homepage.mac.com-rlpvideo.warc.gz	4912
+rlpvideo	public.me.com	2012-04-05 09:52:53	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	public.me.com-rlpvideo.warc.gz	884533319
+rlpvideo	web.me.com	2012-04-05 09:32:45	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4202.tar	web.me.com-rlpvideo.warc.gz	1082111855

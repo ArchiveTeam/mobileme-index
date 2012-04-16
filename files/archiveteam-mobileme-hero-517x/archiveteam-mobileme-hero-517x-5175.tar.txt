@@ -1,12 +1,12 @@
-ajoseph103	gallery.me.com		archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	gallery.me.com-ajoseph103.warc.gz	0
-ajoseph103	homepage.mac.com		archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	homepage.mac.com-ajoseph103.warc.gz	0
-ajoseph103	public.me.com		archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	public.me.com-ajoseph103.warc.gz	0
-ajoseph103	web.me.com		archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	web.me.com-ajoseph103.warc.gz	0
-alison.porter	gallery.me.com		archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	gallery.me.com-alison.porter.warc.gz	0
-alison.porter	homepage.mac.com		archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	homepage.mac.com-alison.porter.warc.gz	0
-alison.porter	public.me.com		archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	public.me.com-alison.porter.warc.gz	0
-alison.porter	web.me.com		archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	web.me.com-alison.porter.warc.gz	0
-donnadobbs	gallery.me.com		archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	gallery.me.com-donnadobbs.warc.gz	0
-donnadobbs	homepage.mac.com		archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	homepage.mac.com-donnadobbs.warc.gz	0
-donnadobbs	public.me.com		archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	public.me.com-donnadobbs.warc.gz	0
-donnadobbs	web.me.com		archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	web.me.com-donnadobbs.warc.gz	0
+ajoseph103	gallery.me.com	2012-04-08 16:19:00	archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	gallery.me.com-ajoseph103.warc.gz	4258
+ajoseph103	homepage.mac.com	2012-04-08 16:19:00	archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	homepage.mac.com-ajoseph103.warc.gz	4924
+ajoseph103	public.me.com	2012-04-08 16:18:59	archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	public.me.com-ajoseph103.warc.gz	1924
+ajoseph103	web.me.com	2012-04-08 16:18:59	archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	web.me.com-ajoseph103.warc.gz	466274623
+alison.porter	gallery.me.com	2012-04-08 16:22:46	archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	gallery.me.com-alison.porter.warc.gz	37077015
+alison.porter	homepage.mac.com	2012-04-08 16:22:46	archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	homepage.mac.com-alison.porter.warc.gz	4935
+alison.porter	public.me.com	2012-04-08 16:22:02	archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	public.me.com-alison.porter.warc.gz	1926
+alison.porter	web.me.com	2012-04-08 16:22:02	archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	web.me.com-alison.porter.warc.gz	16803038
+donnadobbs	gallery.me.com	2012-04-08 17:01:27	archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	gallery.me.com-donnadobbs.warc.gz	3709151814
+donnadobbs	homepage.mac.com	2012-04-08 17:01:27	archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	homepage.mac.com-donnadobbs.warc.gz	7874
+donnadobbs	public.me.com	2012-04-08 16:32:20	archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	public.me.com-donnadobbs.warc.gz	76934610
+donnadobbs	web.me.com	2012-04-08 16:30:26	archiveteam-mobileme-hero-517x	archiveteam-mobileme-hero-517x-5175.tar	web.me.com-donnadobbs.warc.gz	312723621

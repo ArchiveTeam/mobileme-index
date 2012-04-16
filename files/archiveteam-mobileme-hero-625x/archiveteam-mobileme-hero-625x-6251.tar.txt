@@ -1,12 +1,12 @@
-kent_yagi	gallery.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	gallery.me.com-kent_yagi.warc.gz	0
-kent_yagi	homepage.mac.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	homepage.mac.com-kent_yagi.warc.gz	0
-kent_yagi	public.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	public.me.com-kent_yagi.warc.gz	0
-kent_yagi	web.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	web.me.com-kent_yagi.warc.gz	0
-kiriakibozas	gallery.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	gallery.me.com-kiriakibozas.warc.gz	0
-kiriakibozas	homepage.mac.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	homepage.mac.com-kiriakibozas.warc.gz	0
-kiriakibozas	public.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	public.me.com-kiriakibozas.warc.gz	0
-kiriakibozas	web.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	web.me.com-kiriakibozas.warc.gz	0
-notheshow	gallery.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	gallery.me.com-notheshow.warc.gz	0
-notheshow	homepage.mac.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	homepage.mac.com-notheshow.warc.gz	0
-notheshow	public.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	public.me.com-notheshow.warc.gz	0
-notheshow	web.me.com		archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	web.me.com-notheshow.warc.gz	0
+kent_yagi	gallery.me.com	2012-04-11 05:52:40	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	gallery.me.com-kent_yagi.warc.gz	5247
+kent_yagi	homepage.mac.com	2012-04-11 05:52:45	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	homepage.mac.com-kent_yagi.warc.gz	36924
+kent_yagi	public.me.com	2012-04-11 05:52:38	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	public.me.com-kent_yagi.warc.gz	4863743
+kent_yagi	web.me.com	2012-04-11 05:52:35	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	web.me.com-kent_yagi.warc.gz	60466853
+kiriakibozas	gallery.me.com	2012-04-11 06:02:08	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	gallery.me.com-kiriakibozas.warc.gz	4517405
+kiriakibozas	homepage.mac.com	2012-04-11 06:02:08	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	homepage.mac.com-kiriakibozas.warc.gz	4941
+kiriakibozas	public.me.com	2012-04-11 06:02:03	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	public.me.com-kiriakibozas.warc.gz	1931
+kiriakibozas	web.me.com	2012-04-11 06:02:03	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	web.me.com-kiriakibozas.warc.gz	111437116
+notheshow	gallery.me.com	2012-04-11 06:45:06	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	gallery.me.com-notheshow.warc.gz	1721804236
+notheshow	homepage.mac.com	2012-04-11 06:45:06	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	homepage.mac.com-notheshow.warc.gz	4922
+notheshow	public.me.com	2012-04-11 06:32:07	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	public.me.com-notheshow.warc.gz	2774610068
+notheshow	web.me.com	2012-04-11 06:05:33	archiveteam-mobileme-hero-625x	archiveteam-mobileme-hero-625x-6251.tar	web.me.com-notheshow.warc.gz	91641670

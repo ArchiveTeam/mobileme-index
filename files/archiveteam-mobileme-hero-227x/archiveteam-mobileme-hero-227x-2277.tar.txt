@@ -1,24 +1,24 @@
-daveblock	gallery.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	gallery.me.com-daveblock.warc.gz	0
-daveblock	homepage.mac.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	homepage.mac.com-daveblock.warc.gz	0
-daveblock	public.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	public.me.com-daveblock.warc.gz	0
-daveblock	web.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	web.me.com-daveblock.warc.gz	0
-hostler	gallery.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	gallery.me.com-hostler.warc.gz	0
-hostler	homepage.mac.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	homepage.mac.com-hostler.warc.gz	0
-hostler	public.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	public.me.com-hostler.warc.gz	0
-hostler	web.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	web.me.com-hostler.warc.gz	0
-jpotter12	gallery.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	gallery.me.com-jpotter12.warc.gz	0
-jpotter12	homepage.mac.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	homepage.mac.com-jpotter12.warc.gz	0
-jpotter12	public.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	public.me.com-jpotter12.warc.gz	0
-jpotter12	web.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	web.me.com-jpotter12.warc.gz	0
-jtuttle59	gallery.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	gallery.me.com-jtuttle59.warc.gz	0
-jtuttle59	homepage.mac.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	homepage.mac.com-jtuttle59.warc.gz	0
-jtuttle59	public.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	public.me.com-jtuttle59.warc.gz	0
-jtuttle59	web.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	web.me.com-jtuttle59.warc.gz	0
-mark.13	gallery.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	gallery.me.com-mark.13.warc.gz	0
-mark.13	homepage.mac.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	homepage.mac.com-mark.13.warc.gz	0
-mark.13	public.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	public.me.com-mark.13.warc.gz	0
-mark.13	web.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	web.me.com-mark.13.warc.gz	0
-pinks2000	gallery.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	gallery.me.com-pinks2000.warc.gz	0
-pinks2000	homepage.mac.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	homepage.mac.com-pinks2000.warc.gz	0
-pinks2000	public.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	public.me.com-pinks2000.warc.gz	0
-pinks2000	web.me.com		archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	web.me.com-pinks2000.warc.gz	0
+daveblock	gallery.me.com	2012-03-31 02:03:23	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	gallery.me.com-daveblock.warc.gz	124077
+daveblock	homepage.mac.com	2012-03-31 02:03:23	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	homepage.mac.com-daveblock.warc.gz	4901
+daveblock	public.me.com	2012-03-31 02:03:22	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	public.me.com-daveblock.warc.gz	1919
+daveblock	web.me.com	2012-03-31 02:03:19	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	web.me.com-daveblock.warc.gz	675868209
+hostler	gallery.me.com	2012-03-31 01:06:37	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	gallery.me.com-hostler.warc.gz	617572932
+hostler	homepage.mac.com	2012-03-31 01:06:41	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	homepage.mac.com-hostler.warc.gz	76856
+hostler	public.me.com	2012-03-31 01:02:11	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	public.me.com-hostler.warc.gz	67224
+hostler	web.me.com	2012-03-31 01:02:09	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	web.me.com-hostler.warc.gz	362319
+jpotter12	gallery.me.com	2012-03-31 01:26:09	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	gallery.me.com-jpotter12.warc.gz	4250
+jpotter12	homepage.mac.com	2012-03-31 01:26:09	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	homepage.mac.com-jpotter12.warc.gz	4925
+jpotter12	public.me.com	2012-03-31 01:26:08	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	public.me.com-jpotter12.warc.gz	1913
+jpotter12	web.me.com	2012-03-31 01:26:08	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	web.me.com-jpotter12.warc.gz	12960733
+jtuttle59	gallery.me.com	2012-03-31 01:25:12	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	gallery.me.com-jtuttle59.warc.gz	557810864
+jtuttle59	homepage.mac.com	2012-03-31 01:25:12	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	homepage.mac.com-jtuttle59.warc.gz	4912
+jtuttle59	public.me.com	2012-03-31 01:16:42	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	public.me.com-jtuttle59.warc.gz	1922
+jtuttle59	web.me.com	2012-03-31 01:16:42	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	web.me.com-jtuttle59.warc.gz	351815993
+mark.13	gallery.me.com	2012-03-31 02:50:44	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	gallery.me.com-mark.13.warc.gz	503163332
+mark.13	homepage.mac.com	2012-03-31 02:50:44	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	homepage.mac.com-mark.13.warc.gz	4911
+mark.13	public.me.com	2012-03-31 02:48:01	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	public.me.com-mark.13.warc.gz	3959699287
+mark.13	web.me.com	2012-03-31 02:03:34	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	web.me.com-mark.13.warc.gz	568392
+pinks2000	gallery.me.com	2012-03-31 01:51:48	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	gallery.me.com-pinks2000.warc.gz	502215870
+pinks2000	homepage.mac.com	2012-03-31 01:51:48	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	homepage.mac.com-pinks2000.warc.gz	4929
+pinks2000	public.me.com	2012-03-31 01:40:12	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	public.me.com-pinks2000.warc.gz	1914
+pinks2000	web.me.com	2012-03-31 01:40:11	archiveteam-mobileme-hero-227x	archiveteam-mobileme-hero-227x-2277.tar	web.me.com-pinks2000.warc.gz	159557095

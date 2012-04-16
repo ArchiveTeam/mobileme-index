@@ -1,0 +1,12 @@
+aws0326	gallery.me.com	2012-04-13 23:48:48	archiveteam-mobileme-hero-758x	archiveteam-mobileme-hero-758x-7587.tar	gallery.me.com-aws0326.warc.gz	2380344042
+aws0326	homepage.mac.com	2012-04-13 23:48:48	archiveteam-mobileme-hero-758x	archiveteam-mobileme-hero-758x-7587.tar	homepage.mac.com-aws0326.warc.gz	4908
+aws0326	public.me.com	2012-04-13 22:41:45	archiveteam-mobileme-hero-758x	archiveteam-mobileme-hero-758x-7587.tar	public.me.com-aws0326.warc.gz	450818084
+aws0326	web.me.com	2012-04-13 22:31:20	archiveteam-mobileme-hero-758x	archiveteam-mobileme-hero-758x-7587.tar	web.me.com-aws0326.warc.gz	724823591
+ryanmauer	gallery.me.com	2012-04-13 21:56:54	archiveteam-mobileme-hero-758x	archiveteam-mobileme-hero-758x-7587.tar	gallery.me.com-ryanmauer.warc.gz	12327
+ryanmauer	homepage.mac.com	2012-04-13 21:56:57	archiveteam-mobileme-hero-758x	archiveteam-mobileme-hero-758x-7587.tar	homepage.mac.com-ryanmauer.warc.gz	7149
+ryanmauer	public.me.com	2012-04-13 21:56:53	archiveteam-mobileme-hero-758x	archiveteam-mobileme-hero-758x-7587.tar	public.me.com-ryanmauer.warc.gz	1919
+ryanmauer	web.me.com	2012-04-13 21:56:52	archiveteam-mobileme-hero-758x	archiveteam-mobileme-hero-758x-7587.tar	web.me.com-ryanmauer.warc.gz	22441
+veroniqueerlich	gallery.me.com	2012-04-14 00:56:03	archiveteam-mobileme-hero-758x	archiveteam-mobileme-hero-758x-7587.tar	gallery.me.com-veroniqueerlich.warc.gz	1412663815
+veroniqueerlich	homepage.mac.com	2012-04-14 00:56:03	archiveteam-mobileme-hero-758x	archiveteam-mobileme-hero-758x-7587.tar	homepage.mac.com-veroniqueerlich.warc.gz	4945
+veroniqueerlich	public.me.com	2012-04-14 00:29:05	archiveteam-mobileme-hero-758x	archiveteam-mobileme-hero-758x-7587.tar	public.me.com-veroniqueerlich.warc.gz	1931
+veroniqueerlich	web.me.com	2012-04-14 00:29:03	archiveteam-mobileme-hero-758x	archiveteam-mobileme-hero-758x-7587.tar	web.me.com-veroniqueerlich.warc.gz	605188018

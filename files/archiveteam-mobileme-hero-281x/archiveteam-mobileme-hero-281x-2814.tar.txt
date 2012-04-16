@@ -1,12 +1,12 @@
-A.Nachon	gallery.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	gallery.me.com-A.Nachon.warc.gz	0
-A.Nachon	homepage.mac.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	homepage.mac.com-A.Nachon.warc.gz	0
-A.Nachon	public.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	public.me.com-A.Nachon.warc.gz	0
-A.Nachon	web.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	web.me.com-A.Nachon.warc.gz	0
-stoneworks	gallery.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	gallery.me.com-stoneworks.warc.gz	0
-stoneworks	homepage.mac.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	homepage.mac.com-stoneworks.warc.gz	0
-stoneworks	public.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	public.me.com-stoneworks.warc.gz	0
-stoneworks	web.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	web.me.com-stoneworks.warc.gz	0
-thomasnicolson	gallery.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	gallery.me.com-thomasnicolson.warc.gz	0
-thomasnicolson	homepage.mac.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	homepage.mac.com-thomasnicolson.warc.gz	0
-thomasnicolson	public.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	public.me.com-thomasnicolson.warc.gz	0
-thomasnicolson	web.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	web.me.com-thomasnicolson.warc.gz	0
+A.Nachon	gallery.me.com	2012-04-02 03:40:37	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	gallery.me.com-A.Nachon.warc.gz	1984809661
+A.Nachon	homepage.mac.com	2012-04-02 03:40:38	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	homepage.mac.com-A.Nachon.warc.gz	4884
+A.Nachon	public.me.com	2012-04-02 02:20:15	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	public.me.com-A.Nachon.warc.gz	1919
+A.Nachon	web.me.com	2012-04-02 02:20:12	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	web.me.com-A.Nachon.warc.gz	445017733
+stoneworks	gallery.me.com	2012-04-02 01:23:19	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	gallery.me.com-stoneworks.warc.gz	14536953
+stoneworks	homepage.mac.com	2012-04-02 01:23:26	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	homepage.mac.com-stoneworks.warc.gz	165713
+stoneworks	public.me.com	2012-04-02 01:23:06	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	public.me.com-stoneworks.warc.gz	1410362
+stoneworks	web.me.com	2012-04-02 01:22:27	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	web.me.com-stoneworks.warc.gz	1891263562
+thomasnicolson	gallery.me.com	2012-04-02 01:23:37	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	gallery.me.com-thomasnicolson.warc.gz	12330
+thomasnicolson	homepage.mac.com	2012-04-02 01:23:40	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	homepage.mac.com-thomasnicolson.warc.gz	7143
+thomasnicolson	public.me.com	2012-04-02 01:23:35	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	public.me.com-thomasnicolson.warc.gz	1922
+thomasnicolson	web.me.com	2012-04-02 01:23:35	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2814.tar	web.me.com-thomasnicolson.warc.gz	22530

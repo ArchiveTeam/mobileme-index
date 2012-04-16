@@ -1,28 +1,28 @@
-bwuh	gallery.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	gallery.me.com-bwuh.warc.gz	0
-bwuh	homepage.mac.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	homepage.mac.com-bwuh.warc.gz	0
-bwuh	public.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	public.me.com-bwuh.warc.gz	0
-bwuh	web.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	web.me.com-bwuh.warc.gz	0
-c.q	gallery.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	gallery.me.com-c.q.warc.gz	0
-c.q	homepage.mac.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	homepage.mac.com-c.q.warc.gz	0
-c.q	public.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	public.me.com-c.q.warc.gz	0
-c.q	web.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	web.me.com-c.q.warc.gz	0
-c786023906	gallery.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	gallery.me.com-c786023906.warc.gz	0
-c786023906	homepage.mac.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	homepage.mac.com-c786023906.warc.gz	0
-c786023906	public.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	public.me.com-c786023906.warc.gz	0
-c786023906	web.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	web.me.com-c786023906.warc.gz	0
-humphreydaniels	gallery.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	gallery.me.com-humphreydaniels.warc.gz	0
-humphreydaniels	homepage.mac.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	homepage.mac.com-humphreydaniels.warc.gz	0
-humphreydaniels	public.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	public.me.com-humphreydaniels.warc.gz	0
-humphreydaniels	web.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	web.me.com-humphreydaniels.warc.gz	0
-serendipity18	gallery.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	gallery.me.com-serendipity18.warc.gz	0
-serendipity18	homepage.mac.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	homepage.mac.com-serendipity18.warc.gz	0
-serendipity18	public.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	public.me.com-serendipity18.warc.gz	0
-serendipity18	web.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	web.me.com-serendipity18.warc.gz	0
-tomlewellen	gallery.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	gallery.me.com-tomlewellen.warc.gz	0
-tomlewellen	homepage.mac.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	homepage.mac.com-tomlewellen.warc.gz	0
-tomlewellen	public.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	public.me.com-tomlewellen.warc.gz	0
-tomlewellen	web.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	web.me.com-tomlewellen.warc.gz	0
-woodrowcampbell	gallery.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	gallery.me.com-woodrowcampbell.warc.gz	0
-woodrowcampbell	homepage.mac.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	homepage.mac.com-woodrowcampbell.warc.gz	0
-woodrowcampbell	public.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	public.me.com-woodrowcampbell.warc.gz	0
-woodrowcampbell	web.me.com		archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	web.me.com-woodrowcampbell.warc.gz	0
+bwuh	gallery.me.com	2012-04-10 11:51:00	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	gallery.me.com-bwuh.warc.gz	64701512
+bwuh	homepage.mac.com	2012-04-10 11:51:15	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	homepage.mac.com-bwuh.warc.gz	382628
+bwuh	public.me.com	2012-04-10 11:49:56	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	public.me.com-bwuh.warc.gz	1912
+bwuh	web.me.com	2012-04-10 11:49:54	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	web.me.com-bwuh.warc.gz	1069370
+c.q	gallery.me.com	2012-04-10 12:07:51	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	gallery.me.com-c.q.warc.gz	676372523
+c.q	homepage.mac.com	2012-04-10 12:07:51	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	homepage.mac.com-c.q.warc.gz	4867
+c.q	public.me.com	2012-04-10 11:56:54	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	public.me.com-c.q.warc.gz	3589
+c.q	web.me.com	2012-04-10 11:56:48	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	web.me.com-c.q.warc.gz	23636275
+c786023906	gallery.me.com	2012-04-10 10:26:52	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	gallery.me.com-c786023906.warc.gz	8367
+c786023906	homepage.mac.com	2012-04-10 10:26:52	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	homepage.mac.com-c786023906.warc.gz	5175
+c786023906	public.me.com	2012-04-10 10:26:51	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	public.me.com-c786023906.warc.gz	1924
+c786023906	web.me.com	2012-04-10 10:26:51	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	web.me.com-c786023906.warc.gz	17688
+humphreydaniels	gallery.me.com	2012-04-10 10:27:00	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	gallery.me.com-humphreydaniels.warc.gz	6464
+humphreydaniels	homepage.mac.com	2012-04-10 10:27:02	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	homepage.mac.com-humphreydaniels.warc.gz	36956
+humphreydaniels	public.me.com	2012-04-10 10:26:56	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	public.me.com-humphreydaniels.warc.gz	3806
+humphreydaniels	web.me.com	2012-04-10 10:26:56	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	web.me.com-humphreydaniels.warc.gz	33821
+serendipity18	gallery.me.com	2012-04-10 12:54:36	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	gallery.me.com-serendipity18.warc.gz	780306546
+serendipity18	homepage.mac.com	2012-04-10 12:54:36	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	homepage.mac.com-serendipity18.warc.gz	4925
+serendipity18	public.me.com	2012-04-10 12:35:19	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	public.me.com-serendipity18.warc.gz	866497747
+serendipity18	web.me.com	2012-04-10 12:15:19	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	web.me.com-serendipity18.warc.gz	46995880
+tomlewellen	gallery.me.com	2012-04-10 11:49:29	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	gallery.me.com-tomlewellen.warc.gz	878242863
+tomlewellen	homepage.mac.com	2012-04-10 11:49:37	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	homepage.mac.com-tomlewellen.warc.gz	115578
+tomlewellen	public.me.com	2012-04-10 11:31:58	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	public.me.com-tomlewellen.warc.gz	887857282
+tomlewellen	web.me.com	2012-04-10 11:00:35	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	web.me.com-tomlewellen.warc.gz	353308035
+woodrowcampbell	gallery.me.com	2012-04-10 10:35:22	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	gallery.me.com-woodrowcampbell.warc.gz	4281
+woodrowcampbell	homepage.mac.com	2012-04-10 10:35:25	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	homepage.mac.com-woodrowcampbell.warc.gz	81106
+woodrowcampbell	public.me.com	2012-04-10 10:35:21	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	public.me.com-woodrowcampbell.warc.gz	1929
+woodrowcampbell	web.me.com	2012-04-10 10:35:20	archiveteam-mobileme-hero-592x	archiveteam-mobileme-hero-592x-5927.tar	web.me.com-woodrowcampbell.warc.gz	54903986

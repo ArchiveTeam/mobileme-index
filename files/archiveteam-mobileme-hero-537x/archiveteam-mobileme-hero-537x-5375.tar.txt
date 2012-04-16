@@ -1,24 +1,24 @@
-avargas1	gallery.me.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	gallery.me.com-avargas1.warc.gz	0
-avargas1	homepage.mac.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	homepage.mac.com-avargas1.warc.gz	0
-avargas1	public.me.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	public.me.com-avargas1.warc.gz	0
-avargas1	web.me.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	web.me.com-avargas1.warc.gz	0
-dougrobinson	gallery.me.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	gallery.me.com-dougrobinson.warc.gz	0
-dougrobinson	homepage.mac.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	homepage.mac.com-dougrobinson.warc.gz	0
-dougrobinson	public.me.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	public.me.com-dougrobinson.warc.gz	0
-dougrobinson	web.me.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	web.me.com-dougrobinson.warc.gz	0
-josdewittevanleeuwen	gallery.me.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	gallery.me.com-josdewittevanleeuwen.warc.gz	0
-josdewittevanleeuwen	homepage.mac.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	homepage.mac.com-josdewittevanleeuwen.warc.gz	0
-josdewittevanleeuwen	public.me.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	public.me.com-josdewittevanleeuwen.warc.gz	0
-josdewittevanleeuwen	web.me.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	web.me.com-josdewittevanleeuwen.warc.gz	0
-matthandley	gallery.me.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	gallery.me.com-matthandley.warc.gz	0
-matthandley	homepage.mac.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	homepage.mac.com-matthandley.warc.gz	0
-matthandley	public.me.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	public.me.com-matthandley.warc.gz	0
-matthandley	web.me.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	web.me.com-matthandley.warc.gz	0
-tekstvaart	gallery.me.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	gallery.me.com-tekstvaart.warc.gz	0
-tekstvaart	homepage.mac.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	homepage.mac.com-tekstvaart.warc.gz	0
-tekstvaart	public.me.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	public.me.com-tekstvaart.warc.gz	0
-tekstvaart	web.me.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	web.me.com-tekstvaart.warc.gz	0
-therevhead.webloc	gallery.me.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	gallery.me.com-therevhead.webloc.warc.gz	0
-therevhead.webloc	homepage.mac.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	homepage.mac.com-therevhead.webloc.warc.gz	0
-therevhead.webloc	public.me.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	public.me.com-therevhead.webloc.warc.gz	0
-therevhead.webloc	web.me.com		archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	web.me.com-therevhead.webloc.warc.gz	0
+avargas1	gallery.me.com	2012-04-09 07:07:22	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	gallery.me.com-avargas1.warc.gz	30713311
+avargas1	homepage.mac.com	2012-04-09 07:07:24	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	homepage.mac.com-avargas1.warc.gz	4907
+avargas1	public.me.com	2012-04-09 07:05:08	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	public.me.com-avargas1.warc.gz	496688858
+avargas1	web.me.com	2012-04-09 06:29:37	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	web.me.com-avargas1.warc.gz	8709376
+dougrobinson	gallery.me.com	2012-04-09 04:15:16	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	gallery.me.com-dougrobinson.warc.gz	5044
+dougrobinson	homepage.mac.com	2012-04-09 04:15:16	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	homepage.mac.com-dougrobinson.warc.gz	4915
+dougrobinson	public.me.com	2012-04-09 04:15:15	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	public.me.com-dougrobinson.warc.gz	1925
+dougrobinson	web.me.com	2012-04-09 04:15:14	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	web.me.com-dougrobinson.warc.gz	5921117
+josdewittevanleeuwen	gallery.me.com	2012-04-09 04:12:36	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	gallery.me.com-josdewittevanleeuwen.warc.gz	5239
+josdewittevanleeuwen	homepage.mac.com	2012-04-09 04:12:36	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	homepage.mac.com-josdewittevanleeuwen.warc.gz	4961
+josdewittevanleeuwen	public.me.com	2012-04-09 04:12:34	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	public.me.com-josdewittevanleeuwen.warc.gz	1947
+josdewittevanleeuwen	web.me.com	2012-04-09 04:12:34	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	web.me.com-josdewittevanleeuwen.warc.gz	37085480
+matthandley	gallery.me.com	2012-04-09 06:21:05	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	gallery.me.com-matthandley.warc.gz	2767320412
+matthandley	homepage.mac.com	2012-04-09 06:21:07	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	homepage.mac.com-matthandley.warc.gz	4924
+matthandley	public.me.com	2012-04-09 04:56:14	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	public.me.com-matthandley.warc.gz	1926
+matthandley	web.me.com	2012-04-09 04:56:07	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	web.me.com-matthandley.warc.gz	894975466
+tekstvaart	gallery.me.com	2012-04-09 04:03:48	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	gallery.me.com-tekstvaart.warc.gz	281291220
+tekstvaart	homepage.mac.com	2012-04-09 04:03:51	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	homepage.mac.com-tekstvaart.warc.gz	36924
+tekstvaart	public.me.com	2012-04-09 03:56:59	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	public.me.com-tekstvaart.warc.gz	1919
+tekstvaart	web.me.com	2012-04-09 03:56:58	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	web.me.com-tekstvaart.warc.gz	183154442
+therevhead.webloc	gallery.me.com	2012-04-09 04:12:41	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	gallery.me.com-therevhead.webloc.warc.gz	8388
+therevhead.webloc	homepage.mac.com	2012-04-09 04:12:41	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	homepage.mac.com-therevhead.webloc.warc.gz	5198
+therevhead.webloc	public.me.com	2012-04-09 04:12:40	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	public.me.com-therevhead.webloc.warc.gz	1930
+therevhead.webloc	web.me.com	2012-04-09 04:12:40	archiveteam-mobileme-hero-537x	archiveteam-mobileme-hero-537x-5375.tar	web.me.com-therevhead.webloc.warc.gz	17781

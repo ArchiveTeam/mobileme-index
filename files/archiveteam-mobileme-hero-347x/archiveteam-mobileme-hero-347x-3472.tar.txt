@@ -1,20 +1,20 @@
-alcantu	gallery.me.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	gallery.me.com-alcantu.warc.gz	0
-alcantu	homepage.mac.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	homepage.mac.com-alcantu.warc.gz	0
-alcantu	public.me.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	public.me.com-alcantu.warc.gz	0
-alcantu	web.me.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	web.me.com-alcantu.warc.gz	0
-crtracy	gallery.me.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	gallery.me.com-crtracy.warc.gz	0
-crtracy	homepage.mac.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	homepage.mac.com-crtracy.warc.gz	0
-crtracy	public.me.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	public.me.com-crtracy.warc.gz	0
-crtracy	web.me.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	web.me.com-crtracy.warc.gz	0
-gstone03	gallery.me.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	gallery.me.com-gstone03.warc.gz	0
-gstone03	homepage.mac.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	homepage.mac.com-gstone03.warc.gz	0
-gstone03	public.me.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	public.me.com-gstone03.warc.gz	0
-gstone03	web.me.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	web.me.com-gstone03.warc.gz	0
-shsg	gallery.me.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	gallery.me.com-shsg.warc.gz	0
-shsg	homepage.mac.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	homepage.mac.com-shsg.warc.gz	0
-shsg	public.me.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	public.me.com-shsg.warc.gz	0
-shsg	web.me.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	web.me.com-shsg.warc.gz	0
-sunflowerphotography	gallery.me.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	gallery.me.com-sunflowerphotography.warc.gz	0
-sunflowerphotography	homepage.mac.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	homepage.mac.com-sunflowerphotography.warc.gz	0
-sunflowerphotography	public.me.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	public.me.com-sunflowerphotography.warc.gz	0
-sunflowerphotography	web.me.com		archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	web.me.com-sunflowerphotography.warc.gz	0
+alcantu	gallery.me.com	2012-04-03 14:30:06	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	gallery.me.com-alcantu.warc.gz	4312
+alcantu	homepage.mac.com	2012-04-03 14:30:06	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	homepage.mac.com-alcantu.warc.gz	4910
+alcantu	public.me.com	2012-04-03 14:30:04	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	public.me.com-alcantu.warc.gz	2830248371
+alcantu	web.me.com	2012-04-03 13:15:26	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	web.me.com-alcantu.warc.gz	245521348
+crtracy	gallery.me.com	2012-04-03 15:50:06	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	gallery.me.com-crtracy.warc.gz	529058079
+crtracy	homepage.mac.com	2012-04-03 15:50:06	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	homepage.mac.com-crtracy.warc.gz	4912
+crtracy	public.me.com	2012-04-03 15:12:59	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	public.me.com-crtracy.warc.gz	1280961507
+crtracy	web.me.com	2012-04-03 14:33:04	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	web.me.com-crtracy.warc.gz	12326701
+gstone03	gallery.me.com	2012-04-03 13:05:33	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	gallery.me.com-gstone03.warc.gz	8345
+gstone03	homepage.mac.com	2012-04-03 13:05:33	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	homepage.mac.com-gstone03.warc.gz	5151
+gstone03	public.me.com	2012-04-03 13:05:32	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	public.me.com-gstone03.warc.gz	1910
+gstone03	web.me.com	2012-04-03 13:05:32	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	web.me.com-gstone03.warc.gz	17706
+shsg	gallery.me.com	2012-04-03 14:30:27	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	gallery.me.com-shsg.warc.gz	12311
+shsg	homepage.mac.com	2012-04-03 14:30:30	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	homepage.mac.com-shsg.warc.gz	7150
+shsg	public.me.com	2012-04-03 14:30:21	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	public.me.com-shsg.warc.gz	1911
+shsg	web.me.com	2012-04-03 14:30:20	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	web.me.com-shsg.warc.gz	22489
+sunflowerphotography	gallery.me.com	2012-04-03 13:05:30	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	gallery.me.com-sunflowerphotography.warc.gz	7607347
+sunflowerphotography	homepage.mac.com	2012-04-03 13:05:30	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	homepage.mac.com-sunflowerphotography.warc.gz	4953
+sunflowerphotography	public.me.com	2012-04-03 13:05:13	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	public.me.com-sunflowerphotography.warc.gz	1942
+sunflowerphotography	web.me.com	2012-04-03 13:05:13	archiveteam-mobileme-hero-347x	archiveteam-mobileme-hero-347x-3472.tar	web.me.com-sunflowerphotography.warc.gz	267768

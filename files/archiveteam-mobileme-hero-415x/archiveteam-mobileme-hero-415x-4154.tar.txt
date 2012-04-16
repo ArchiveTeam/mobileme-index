@@ -1,20 +1,20 @@
-coreybrill	gallery.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	gallery.me.com-coreybrill.warc.gz	0
-coreybrill	homepage.mac.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	homepage.mac.com-coreybrill.warc.gz	0
-coreybrill	public.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	public.me.com-coreybrill.warc.gz	0
-coreybrill	web.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	web.me.com-coreybrill.warc.gz	0
-didier.griffouliere	gallery.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	gallery.me.com-didier.griffouliere.warc.gz	0
-didier.griffouliere	homepage.mac.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	homepage.mac.com-didier.griffouliere.warc.gz	0
-didier.griffouliere	public.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	public.me.com-didier.griffouliere.warc.gz	0
-didier.griffouliere	web.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	web.me.com-didier.griffouliere.warc.gz	0
-hisprincess77	gallery.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	gallery.me.com-hisprincess77.warc.gz	0
-hisprincess77	homepage.mac.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	homepage.mac.com-hisprincess77.warc.gz	0
-hisprincess77	public.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	public.me.com-hisprincess77.warc.gz	0
-hisprincess77	web.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	web.me.com-hisprincess77.warc.gz	0
-jjschlst	gallery.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	gallery.me.com-jjschlst.warc.gz	0
-jjschlst	homepage.mac.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	homepage.mac.com-jjschlst.warc.gz	0
-jjschlst	public.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	public.me.com-jjschlst.warc.gz	0
-jjschlst	web.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	web.me.com-jjschlst.warc.gz	0
-kjellsorensen	gallery.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	gallery.me.com-kjellsorensen.warc.gz	0
-kjellsorensen	homepage.mac.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	homepage.mac.com-kjellsorensen.warc.gz	0
-kjellsorensen	public.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	public.me.com-kjellsorensen.warc.gz	0
-kjellsorensen	web.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	web.me.com-kjellsorensen.warc.gz	0
+coreybrill	gallery.me.com	2012-04-04 20:25:39	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	gallery.me.com-coreybrill.warc.gz	4288
+coreybrill	homepage.mac.com	2012-04-04 20:25:41	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	homepage.mac.com-coreybrill.warc.gz	54702
+coreybrill	public.me.com	2012-04-04 20:25:37	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	public.me.com-coreybrill.warc.gz	1369720476
+coreybrill	web.me.com	2012-04-04 19:51:02	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	web.me.com-coreybrill.warc.gz	15090256
+didier.griffouliere	gallery.me.com	2012-04-05 07:54:34	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	gallery.me.com-didier.griffouliere.warc.gz	762276219
+didier.griffouliere	homepage.mac.com	2012-04-05 07:54:35	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	homepage.mac.com-didier.griffouliere.warc.gz	4955
+didier.griffouliere	public.me.com	2012-04-05 05:17:54	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	public.me.com-didier.griffouliere.warc.gz	1936
+didier.griffouliere	web.me.com	2012-04-05 05:09:19	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	web.me.com-didier.griffouliere.warc.gz	937110497
+hisprincess77	gallery.me.com	2012-04-04 21:08:24	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	gallery.me.com-hisprincess77.warc.gz	5189
+hisprincess77	homepage.mac.com	2012-04-04 21:08:24	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	homepage.mac.com-hisprincess77.warc.gz	4931
+hisprincess77	public.me.com	2012-04-04 21:08:17	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	public.me.com-hisprincess77.warc.gz	1927
+hisprincess77	web.me.com	2012-04-04 21:08:16	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	web.me.com-hisprincess77.warc.gz	3628208
+jjschlst	gallery.me.com	2012-04-04 21:06:35	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	gallery.me.com-jjschlst.warc.gz	211853043
+jjschlst	homepage.mac.com	2012-04-04 21:06:40	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	homepage.mac.com-jjschlst.warc.gz	174239
+jjschlst	public.me.com	2012-04-04 20:47:19	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	public.me.com-jjschlst.warc.gz	4203
+jjschlst	web.me.com	2012-04-04 20:47:02	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	web.me.com-jjschlst.warc.gz	115505282
+kjellsorensen	gallery.me.com	2012-04-04 22:04:50	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	gallery.me.com-kjellsorensen.warc.gz	1476394941
+kjellsorensen	homepage.mac.com	2012-04-04 22:04:55	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	homepage.mac.com-kjellsorensen.warc.gz	69952
+kjellsorensen	public.me.com	2012-04-04 21:29:28	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	public.me.com-kjellsorensen.warc.gz	1930
+kjellsorensen	web.me.com	2012-04-04 21:29:26	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4154.tar	web.me.com-kjellsorensen.warc.gz	358381005

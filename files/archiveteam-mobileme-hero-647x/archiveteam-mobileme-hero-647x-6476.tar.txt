@@ -1,9 +1,9 @@
-mchughrebecca	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6476.tar	gallery.me.com-mchughrebecca.warc.gz	0
-mchughrebecca	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6476.tar	homepage.mac.com-mchughrebecca.warc.gz	0
-mchughrebecca	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6476.tar	public.me.com-mchughrebecca.warc.gz	0
-mchughrebecca	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6476.tar	web.me.com-mchughrebecca.warc.gz	0
-stefanpagenstecher	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6476.tar	gallery.me.com-stefanpagenstecher.warc.gz	0
-stefanpagenstecher	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6476.tar	homepage.mac.com-stefanpagenstecher.warc.gz	0
-stefanpagenstecher	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6476.tar	public.me.com-stefanpagenstecher.warc.gz	0
-stefanpagenstecher	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6476.tar	public.me.com-stefanpagenstecher.warc.gz	0
-stefanpagenstecher	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6476.tar	web.me.com-stefanpagenstecher.warc.gz	0
+mchughrebecca	gallery.me.com	2012-04-11 12:45:57	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6476.tar	gallery.me.com-mchughrebecca.warc.gz	4271
+mchughrebecca	homepage.mac.com	2012-04-11 12:45:59	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6476.tar	homepage.mac.com-mchughrebecca.warc.gz	4930
+mchughrebecca	public.me.com	2012-04-11 12:45:53	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6476.tar	public.me.com-mchughrebecca.warc.gz	1924
+mchughrebecca	web.me.com	2012-04-11 12:45:50	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6476.tar	web.me.com-mchughrebecca.warc.gz	131899
+stefanpagenstecher	gallery.me.com	2012-04-11 17:43:38	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6476.tar	gallery.me.com-stefanpagenstecher.warc.gz	453798821
+stefanpagenstecher	homepage.mac.com	2012-04-11 17:43:39	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6476.tar	homepage.mac.com-stefanpagenstecher.warc.gz	4944
+stefanpagenstecher	public.me.com	2012-04-11 17:14:38	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6476.tar	public.me.com-stefanpagenstecher.warc.gz	155
+stefanpagenstecher	public.me.com	2012-04-11 17:14:38	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6476.tar	public.me.com-stefanpagenstecher.warc.gz	12167114844
+stefanpagenstecher	web.me.com	2012-04-11 12:50:08	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6476.tar	web.me.com-stefanpagenstecher.warc.gz	60831004

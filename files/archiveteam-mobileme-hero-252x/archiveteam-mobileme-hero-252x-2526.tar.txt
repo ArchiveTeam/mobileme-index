@@ -1,20 +1,20 @@
-celser	gallery.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	gallery.me.com-celser.warc.gz	0
-celser	homepage.mac.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	homepage.mac.com-celser.warc.gz	0
-celser	public.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	public.me.com-celser.warc.gz	0
-celser	web.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	web.me.com-celser.warc.gz	0
-laurent.vernoux	gallery.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	gallery.me.com-laurent.vernoux.warc.gz	0
-laurent.vernoux	homepage.mac.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	homepage.mac.com-laurent.vernoux.warc.gz	0
-laurent.vernoux	public.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	public.me.com-laurent.vernoux.warc.gz	0
-laurent.vernoux	web.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	web.me.com-laurent.vernoux.warc.gz	0
-macpower4u	gallery.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	gallery.me.com-macpower4u.warc.gz	0
-macpower4u	homepage.mac.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	homepage.mac.com-macpower4u.warc.gz	0
-macpower4u	public.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	public.me.com-macpower4u.warc.gz	0
-macpower4u	web.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	web.me.com-macpower4u.warc.gz	0
-rolf_dressler	gallery.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	gallery.me.com-rolf_dressler.warc.gz	0
-rolf_dressler	homepage.mac.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	homepage.mac.com-rolf_dressler.warc.gz	0
-rolf_dressler	public.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	public.me.com-rolf_dressler.warc.gz	0
-rolf_dressler	web.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	web.me.com-rolf_dressler.warc.gz	0
-thisshitworks	gallery.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	gallery.me.com-thisshitworks.warc.gz	0
-thisshitworks	homepage.mac.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	homepage.mac.com-thisshitworks.warc.gz	0
-thisshitworks	public.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	public.me.com-thisshitworks.warc.gz	0
-thisshitworks	web.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	web.me.com-thisshitworks.warc.gz	0
+celser	gallery.me.com	2012-03-31 21:08:21	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	gallery.me.com-celser.warc.gz	105499203
+celser	homepage.mac.com	2012-03-31 21:08:27	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	homepage.mac.com-celser.warc.gz	233405
+celser	public.me.com	2012-03-31 21:06:52	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	public.me.com-celser.warc.gz	359297367
+celser	web.me.com	2012-03-31 21:02:12	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	web.me.com-celser.warc.gz	2488647
+laurent.vernoux	gallery.me.com	2012-03-31 21:00:52	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	gallery.me.com-laurent.vernoux.warc.gz	4900276
+laurent.vernoux	homepage.mac.com	2012-03-31 21:00:53	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	homepage.mac.com-laurent.vernoux.warc.gz	4953
+laurent.vernoux	public.me.com	2012-03-31 21:00:35	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	public.me.com-laurent.vernoux.warc.gz	1929
+laurent.vernoux	web.me.com	2012-03-31 21:00:34	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	web.me.com-laurent.vernoux.warc.gz	2116917
+macpower4u	gallery.me.com	2012-03-31 21:01:15	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	gallery.me.com-macpower4u.warc.gz	5578
+macpower4u	homepage.mac.com	2012-03-31 21:01:15	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	homepage.mac.com-macpower4u.warc.gz	4900
+macpower4u	public.me.com	2012-03-31 21:01:14	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	public.me.com-macpower4u.warc.gz	1919
+macpower4u	web.me.com	2012-03-31 21:01:14	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	web.me.com-macpower4u.warc.gz	1264923
+rolf_dressler	gallery.me.com	2012-03-31 21:19:53	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	gallery.me.com-rolf_dressler.warc.gz	7377379
+rolf_dressler	homepage.mac.com	2012-03-31 21:19:54	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	homepage.mac.com-rolf_dressler.warc.gz	4936
+rolf_dressler	public.me.com	2012-03-31 21:19:36	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	public.me.com-rolf_dressler.warc.gz	1933
+rolf_dressler	web.me.com	2012-03-31 21:19:33	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	web.me.com-rolf_dressler.warc.gz	306727718
+thisshitworks	gallery.me.com	2012-03-31 22:53:51	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	gallery.me.com-thisshitworks.warc.gz	2720909309
+thisshitworks	homepage.mac.com	2012-03-31 22:53:52	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	homepage.mac.com-thisshitworks.warc.gz	49626
+thisshitworks	public.me.com	2012-03-31 22:24:10	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	public.me.com-thisshitworks.warc.gz	264786910
+thisshitworks	web.me.com	2012-03-31 22:19:26	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2526.tar	web.me.com-thisshitworks.warc.gz	547040010

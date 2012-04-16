@@ -1,20 +1,20 @@
-docinaustin	gallery.me.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	gallery.me.com-docinaustin.warc.gz	0
-docinaustin	homepage.mac.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	homepage.mac.com-docinaustin.warc.gz	0
-docinaustin	public.me.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	public.me.com-docinaustin.warc.gz	0
-docinaustin	web.me.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	web.me.com-docinaustin.warc.gz	0
-garms2	gallery.me.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	gallery.me.com-garms2.warc.gz	0
-garms2	homepage.mac.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	homepage.mac.com-garms2.warc.gz	0
-garms2	public.me.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	public.me.com-garms2.warc.gz	0
-garms2	web.me.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	web.me.com-garms2.warc.gz	0
-ibcn	gallery.me.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	gallery.me.com-ibcn.warc.gz	0
-ibcn	homepage.mac.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	homepage.mac.com-ibcn.warc.gz	0
-ibcn	public.me.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	public.me.com-ibcn.warc.gz	0
-ibcn	web.me.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	web.me.com-ibcn.warc.gz	0
-jv41	gallery.me.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	gallery.me.com-jv41.warc.gz	0
-jv41	homepage.mac.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	homepage.mac.com-jv41.warc.gz	0
-jv41	public.me.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	public.me.com-jv41.warc.gz	0
-jv41	web.me.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	web.me.com-jv41.warc.gz	0
-oluaki	gallery.me.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	gallery.me.com-oluaki.warc.gz	0
-oluaki	homepage.mac.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	homepage.mac.com-oluaki.warc.gz	0
-oluaki	public.me.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	public.me.com-oluaki.warc.gz	0
-oluaki	web.me.com		archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	web.me.com-oluaki.warc.gz	0
+docinaustin	gallery.me.com	2012-04-11 17:19:43	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	gallery.me.com-docinaustin.warc.gz	235044886
+docinaustin	homepage.mac.com	2012-04-11 17:20:59	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	homepage.mac.com-docinaustin.warc.gz	2294124
+docinaustin	public.me.com	2012-04-11 17:14:38	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	public.me.com-docinaustin.warc.gz	1928
+docinaustin	web.me.com	2012-04-11 17:14:38	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	web.me.com-docinaustin.warc.gz	32230912
+garms2	gallery.me.com	2012-04-11 17:07:37	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	gallery.me.com-garms2.warc.gz	4227
+garms2	homepage.mac.com	2012-04-11 17:07:39	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	homepage.mac.com-garms2.warc.gz	4911
+garms2	public.me.com	2012-04-11 17:07:36	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	public.me.com-garms2.warc.gz	1911
+garms2	web.me.com	2012-04-11 17:07:35	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	web.me.com-garms2.warc.gz	31715911
+ibcn	gallery.me.com	2012-04-11 17:25:34	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	gallery.me.com-ibcn.warc.gz	6660423
+ibcn	homepage.mac.com	2012-04-11 17:25:34	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	homepage.mac.com-ibcn.warc.gz	4901
+ibcn	public.me.com	2012-04-11 17:25:02	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	public.me.com-ibcn.warc.gz	1908
+ibcn	web.me.com	2012-04-11 17:25:02	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	web.me.com-ibcn.warc.gz	16469742
+jv41	gallery.me.com	2012-04-11 17:00:24	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	gallery.me.com-jv41.warc.gz	6216
+jv41	homepage.mac.com	2012-04-11 17:00:24	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	homepage.mac.com-jv41.warc.gz	4905
+jv41	public.me.com	2012-04-11 17:00:22	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	public.me.com-jv41.warc.gz	60050414
+jv41	web.me.com	2012-04-11 17:00:07	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	web.me.com-jv41.warc.gz	2631883
+oluaki	gallery.me.com	2012-04-12 00:53:21	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	gallery.me.com-oluaki.warc.gz	3991809197
+oluaki	homepage.mac.com	2012-04-12 00:53:22	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	homepage.mac.com-oluaki.warc.gz	4902
+oluaki	public.me.com	2012-04-11 17:38:58	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	public.me.com-oluaki.warc.gz	15097
+oluaki	web.me.com	2012-04-11 17:38:56	archiveteam-mobileme-hero-653x	archiveteam-mobileme-hero-653x-6533.tar	web.me.com-oluaki.warc.gz	47332579

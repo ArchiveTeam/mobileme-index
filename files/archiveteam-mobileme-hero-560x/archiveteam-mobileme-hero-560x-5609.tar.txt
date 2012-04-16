@@ -1,24 +1,24 @@
-bellinato	gallery.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	gallery.me.com-bellinato.warc.gz	0
-bellinato	homepage.mac.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	homepage.mac.com-bellinato.warc.gz	0
-bellinato	public.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	public.me.com-bellinato.warc.gz	0
-bellinato	web.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	web.me.com-bellinato.warc.gz	0
-docgwu	gallery.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	gallery.me.com-docgwu.warc.gz	0
-docgwu	homepage.mac.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	homepage.mac.com-docgwu.warc.gz	0
-docgwu	public.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	public.me.com-docgwu.warc.gz	0
-docgwu	web.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	web.me.com-docgwu.warc.gz	0
-emmahvengaard	gallery.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	gallery.me.com-emmahvengaard.warc.gz	0
-emmahvengaard	homepage.mac.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	homepage.mac.com-emmahvengaard.warc.gz	0
-emmahvengaard	public.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	public.me.com-emmahvengaard.warc.gz	0
-emmahvengaard	web.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	web.me.com-emmahvengaard.warc.gz	0
-mike.deborde	gallery.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	gallery.me.com-mike.deborde.warc.gz	0
-mike.deborde	homepage.mac.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	homepage.mac.com-mike.deborde.warc.gz	0
-mike.deborde	public.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	public.me.com-mike.deborde.warc.gz	0
-mike.deborde	web.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	web.me.com-mike.deborde.warc.gz	0
-robersons	gallery.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	gallery.me.com-robersons.warc.gz	0
-robersons	homepage.mac.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	homepage.mac.com-robersons.warc.gz	0
-robersons	public.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	public.me.com-robersons.warc.gz	0
-robersons	web.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	web.me.com-robersons.warc.gz	0
-versemicroverse	gallery.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	gallery.me.com-versemicroverse.warc.gz	0
-versemicroverse	homepage.mac.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	homepage.mac.com-versemicroverse.warc.gz	0
-versemicroverse	public.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	public.me.com-versemicroverse.warc.gz	0
-versemicroverse	web.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	web.me.com-versemicroverse.warc.gz	0
+bellinato	gallery.me.com	2012-04-09 19:23:25	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	gallery.me.com-bellinato.warc.gz	5688
+bellinato	homepage.mac.com	2012-04-09 19:23:25	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	homepage.mac.com-bellinato.warc.gz	4906
+bellinato	public.me.com	2012-04-09 19:23:24	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	public.me.com-bellinato.warc.gz	1915
+bellinato	web.me.com	2012-04-09 19:23:23	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	web.me.com-bellinato.warc.gz	52405097
+docgwu	gallery.me.com	2012-04-09 18:44:03	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	gallery.me.com-docgwu.warc.gz	5906
+docgwu	homepage.mac.com	2012-04-09 18:44:36	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	homepage.mac.com-docgwu.warc.gz	498479
+docgwu	public.me.com	2012-04-09 18:44:02	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	public.me.com-docgwu.warc.gz	1908
+docgwu	web.me.com	2012-04-09 18:44:01	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	web.me.com-docgwu.warc.gz	4391591
+emmahvengaard	gallery.me.com	2012-04-09 19:25:57	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	gallery.me.com-emmahvengaard.warc.gz	4304
+emmahvengaard	homepage.mac.com	2012-04-09 19:25:57	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	homepage.mac.com-emmahvengaard.warc.gz	4934
+emmahvengaard	public.me.com	2012-04-09 19:25:56	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	public.me.com-emmahvengaard.warc.gz	1933
+emmahvengaard	web.me.com	2012-04-09 19:25:55	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	web.me.com-emmahvengaard.warc.gz	72429779
+mike.deborde	gallery.me.com	2012-04-09 18:46:46	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	gallery.me.com-mike.deborde.warc.gz	5701
+mike.deborde	homepage.mac.com	2012-04-09 18:46:47	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	homepage.mac.com-mike.deborde.warc.gz	4935
+mike.deborde	public.me.com	2012-04-09 18:46:46	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	public.me.com-mike.deborde.warc.gz	5994349
+mike.deborde	web.me.com	2012-04-09 18:46:39	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	web.me.com-mike.deborde.warc.gz	32587040
+robersons	gallery.me.com	2012-04-09 19:56:16	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	gallery.me.com-robersons.warc.gz	3707930619
+robersons	homepage.mac.com	2012-04-09 19:56:16	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	homepage.mac.com-robersons.warc.gz	4896
+robersons	public.me.com	2012-04-09 19:27:26	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	public.me.com-robersons.warc.gz	1916
+robersons	web.me.com	2012-04-09 19:27:25	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	web.me.com-robersons.warc.gz	137973113
+versemicroverse	gallery.me.com	2012-04-09 19:15:51	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	gallery.me.com-versemicroverse.warc.gz	5250449
+versemicroverse	homepage.mac.com	2012-04-09 19:15:52	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	homepage.mac.com-versemicroverse.warc.gz	4938
+versemicroverse	public.me.com	2012-04-09 19:15:25	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	public.me.com-versemicroverse.warc.gz	1927
+versemicroverse	web.me.com	2012-04-09 19:15:24	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5609.tar	web.me.com-versemicroverse.warc.gz	304010595

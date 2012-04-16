@@ -1,8 +1,8 @@
-annabobach	gallery.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3501.tar	gallery.me.com-annabobach.warc.gz	0
-annabobach	homepage.mac.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3501.tar	homepage.mac.com-annabobach.warc.gz	0
-annabobach	public.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3501.tar	public.me.com-annabobach.warc.gz	0
-annabobach	web.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3501.tar	web.me.com-annabobach.warc.gz	0
-backmansdigital	gallery.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3501.tar	gallery.me.com-backmansdigital.warc.gz	0
-backmansdigital	homepage.mac.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3501.tar	homepage.mac.com-backmansdigital.warc.gz	0
-backmansdigital	public.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3501.tar	public.me.com-backmansdigital.warc.gz	0
-backmansdigital	web.me.com		archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3501.tar	web.me.com-backmansdigital.warc.gz	0
+annabobach	gallery.me.com	2012-04-03 14:37:56	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3501.tar	gallery.me.com-annabobach.warc.gz	5049
+annabobach	homepage.mac.com	2012-04-03 14:37:56	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3501.tar	homepage.mac.com-annabobach.warc.gz	4907
+annabobach	public.me.com	2012-04-03 14:37:55	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3501.tar	public.me.com-annabobach.warc.gz	1919
+annabobach	web.me.com	2012-04-03 14:37:55	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3501.tar	web.me.com-annabobach.warc.gz	18435153
+backmansdigital	gallery.me.com	2012-04-03 17:05:55	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3501.tar	gallery.me.com-backmansdigital.warc.gz	5627060035
+backmansdigital	homepage.mac.com	2012-04-03 17:05:59	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3501.tar	homepage.mac.com-backmansdigital.warc.gz	58901
+backmansdigital	public.me.com	2012-04-03 15:42:41	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3501.tar	public.me.com-backmansdigital.warc.gz	299315979
+backmansdigital	web.me.com	2012-04-03 15:34:59	archiveteam-mobileme-hero-350x	archiveteam-mobileme-hero-350x-3501.tar	web.me.com-backmansdigital.warc.gz	349084908

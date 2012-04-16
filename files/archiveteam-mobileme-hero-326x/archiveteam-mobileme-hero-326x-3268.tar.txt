@@ -1,24 +1,24 @@
-afcondon	gallery.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	gallery.me.com-afcondon.warc.gz	0
-afcondon	homepage.mac.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	homepage.mac.com-afcondon.warc.gz	0
-afcondon	public.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	public.me.com-afcondon.warc.gz	0
-afcondon	web.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	web.me.com-afcondon.warc.gz	0
-francesco.manzo	gallery.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	gallery.me.com-francesco.manzo.warc.gz	0
-francesco.manzo	homepage.mac.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	homepage.mac.com-francesco.manzo.warc.gz	0
-francesco.manzo	public.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	public.me.com-francesco.manzo.warc.gz	0
-francesco.manzo	web.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	web.me.com-francesco.manzo.warc.gz	0
-gallyfam	gallery.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	gallery.me.com-gallyfam.warc.gz	0
-gallyfam	homepage.mac.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	homepage.mac.com-gallyfam.warc.gz	0
-gallyfam	public.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	public.me.com-gallyfam.warc.gz	0
-gallyfam	web.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	web.me.com-gallyfam.warc.gz	0
-lhwalsh	gallery.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	gallery.me.com-lhwalsh.warc.gz	0
-lhwalsh	homepage.mac.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	homepage.mac.com-lhwalsh.warc.gz	0
-lhwalsh	public.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	public.me.com-lhwalsh.warc.gz	0
-lhwalsh	web.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	web.me.com-lhwalsh.warc.gz	0
-scottlambert	gallery.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	gallery.me.com-scottlambert.warc.gz	0
-scottlambert	homepage.mac.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	homepage.mac.com-scottlambert.warc.gz	0
-scottlambert	public.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	public.me.com-scottlambert.warc.gz	0
-scottlambert	web.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	web.me.com-scottlambert.warc.gz	0
-smbraff	gallery.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	gallery.me.com-smbraff.warc.gz	0
-smbraff	homepage.mac.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	homepage.mac.com-smbraff.warc.gz	0
-smbraff	public.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	public.me.com-smbraff.warc.gz	0
-smbraff	web.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	web.me.com-smbraff.warc.gz	0
+afcondon	gallery.me.com	2012-04-03 01:17:41	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	gallery.me.com-afcondon.warc.gz	4281
+afcondon	homepage.mac.com	2012-04-03 01:17:41	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	homepage.mac.com-afcondon.warc.gz	4886
+afcondon	public.me.com	2012-04-03 01:17:40	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	public.me.com-afcondon.warc.gz	1913
+afcondon	web.me.com	2012-04-03 01:17:40	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	web.me.com-afcondon.warc.gz	7400
+francesco.manzo	gallery.me.com	2012-04-03 01:18:27	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	gallery.me.com-francesco.manzo.warc.gz	5458
+francesco.manzo	homepage.mac.com	2012-04-03 01:18:27	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	homepage.mac.com-francesco.manzo.warc.gz	4913
+francesco.manzo	public.me.com	2012-04-03 01:18:25	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	public.me.com-francesco.manzo.warc.gz	3352
+francesco.manzo	web.me.com	2012-04-03 01:18:25	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	web.me.com-francesco.manzo.warc.gz	902882
+gallyfam	gallery.me.com	2012-04-03 01:20:59	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	gallery.me.com-gallyfam.warc.gz	4226
+gallyfam	homepage.mac.com	2012-04-03 01:20:59	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	homepage.mac.com-gallyfam.warc.gz	4915
+gallyfam	public.me.com	2012-04-03 01:20:59	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	public.me.com-gallyfam.warc.gz	1919
+gallyfam	web.me.com	2012-04-03 01:20:58	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	web.me.com-gallyfam.warc.gz	4495700
+lhwalsh	gallery.me.com	2012-04-03 05:14:53	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	gallery.me.com-lhwalsh.warc.gz	7879671509
+lhwalsh	homepage.mac.com	2012-04-03 05:14:55	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	homepage.mac.com-lhwalsh.warc.gz	36897
+lhwalsh	public.me.com	2012-04-03 03:50:01	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	public.me.com-lhwalsh.warc.gz	179847067
+lhwalsh	web.me.com	2012-04-03 03:39:14	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	web.me.com-lhwalsh.warc.gz	1824704800
+scottlambert	gallery.me.com	2012-04-03 01:23:24	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	gallery.me.com-scottlambert.warc.gz	4297
+scottlambert	homepage.mac.com	2012-04-03 01:23:24	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	homepage.mac.com-scottlambert.warc.gz	4925
+scottlambert	public.me.com	2012-04-03 01:23:23	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	public.me.com-scottlambert.warc.gz	1924
+scottlambert	web.me.com	2012-04-03 01:23:22	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	web.me.com-scottlambert.warc.gz	10944860
+smbraff	gallery.me.com	2012-04-03 01:17:38	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	gallery.me.com-smbraff.warc.gz	8339
+smbraff	homepage.mac.com	2012-04-03 01:17:38	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	homepage.mac.com-smbraff.warc.gz	5143
+smbraff	public.me.com	2012-04-03 01:17:37	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	public.me.com-smbraff.warc.gz	1904
+smbraff	web.me.com	2012-04-03 01:17:37	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3268.tar	web.me.com-smbraff.warc.gz	17689

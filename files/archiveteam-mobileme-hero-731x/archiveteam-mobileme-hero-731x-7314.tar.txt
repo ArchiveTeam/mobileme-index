@@ -1,8 +1,8 @@
-elsuz	gallery.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7314.tar	gallery.me.com-elsuz.warc.gz	0
-elsuz	homepage.mac.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7314.tar	homepage.mac.com-elsuz.warc.gz	0
-elsuz	public.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7314.tar	public.me.com-elsuz.warc.gz	0
-elsuz	web.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7314.tar	web.me.com-elsuz.warc.gz	0
-fiercedavid	gallery.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7314.tar	gallery.me.com-fiercedavid.warc.gz	0
-fiercedavid	homepage.mac.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7314.tar	homepage.mac.com-fiercedavid.warc.gz	0
-fiercedavid	public.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7314.tar	public.me.com-fiercedavid.warc.gz	0
-fiercedavid	web.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7314.tar	web.me.com-fiercedavid.warc.gz	0
+elsuz	gallery.me.com	2012-04-13 12:33:57	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7314.tar	gallery.me.com-elsuz.warc.gz	341628342
+elsuz	homepage.mac.com	2012-04-13 12:33:58	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7314.tar	homepage.mac.com-elsuz.warc.gz	4897
+elsuz	public.me.com	2012-04-13 12:23:30	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7314.tar	public.me.com-elsuz.warc.gz	6227283393
+elsuz	web.me.com	2012-04-13 09:44:15	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7314.tar	web.me.com-elsuz.warc.gz	70159260
+fiercedavid	gallery.me.com	2012-04-13 09:38:09	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7314.tar	gallery.me.com-fiercedavid.warc.gz	449666400
+fiercedavid	homepage.mac.com	2012-04-13 09:38:10	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7314.tar	homepage.mac.com-fiercedavid.warc.gz	7854
+fiercedavid	public.me.com	2012-04-13 09:27:52	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7314.tar	public.me.com-fiercedavid.warc.gz	11063753
+fiercedavid	web.me.com	2012-04-13 09:27:32	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7314.tar	web.me.com-fiercedavid.warc.gz	173389120

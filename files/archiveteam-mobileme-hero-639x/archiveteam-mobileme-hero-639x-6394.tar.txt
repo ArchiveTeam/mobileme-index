@@ -1,8 +1,8 @@
-ljouvin	gallery.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6394.tar	gallery.me.com-ljouvin.warc.gz	0
-ljouvin	homepage.mac.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6394.tar	homepage.mac.com-ljouvin.warc.gz	0
-ljouvin	public.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6394.tar	public.me.com-ljouvin.warc.gz	0
-ljouvin	web.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6394.tar	web.me.com-ljouvin.warc.gz	0
-sylvia_gonzales	gallery.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6394.tar	gallery.me.com-sylvia_gonzales.warc.gz	0
-sylvia_gonzales	homepage.mac.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6394.tar	homepage.mac.com-sylvia_gonzales.warc.gz	0
-sylvia_gonzales	public.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6394.tar	public.me.com-sylvia_gonzales.warc.gz	0
-sylvia_gonzales	web.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6394.tar	web.me.com-sylvia_gonzales.warc.gz	0
+ljouvin	gallery.me.com	2012-04-11 13:39:06	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6394.tar	gallery.me.com-ljouvin.warc.gz	2879371032
+ljouvin	homepage.mac.com	2012-04-11 13:39:06	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6394.tar	homepage.mac.com-ljouvin.warc.gz	4900
+ljouvin	public.me.com	2012-04-11 12:41:26	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6394.tar	public.me.com-ljouvin.warc.gz	84640219
+ljouvin	web.me.com	2012-04-11 12:40:28	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6394.tar	web.me.com-ljouvin.warc.gz	80723244
+sylvia_gonzales	gallery.me.com	2012-04-11 12:24:57	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6394.tar	gallery.me.com-sylvia_gonzales.warc.gz	716310843
+sylvia_gonzales	homepage.mac.com	2012-04-11 12:24:57	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6394.tar	homepage.mac.com-sylvia_gonzales.warc.gz	4953
+sylvia_gonzales	public.me.com	2012-04-11 12:12:24	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6394.tar	public.me.com-sylvia_gonzales.warc.gz	1928
+sylvia_gonzales	web.me.com	2012-04-11 12:12:23	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6394.tar	web.me.com-sylvia_gonzales.warc.gz	781313420

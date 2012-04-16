@@ -1,20 +1,20 @@
-imachan2	gallery.me.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	gallery.me.com-imachan2.warc.gz	0
-imachan2	homepage.mac.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	homepage.mac.com-imachan2.warc.gz	0
-imachan2	public.me.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	public.me.com-imachan2.warc.gz	0
-imachan2	web.me.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	web.me.com-imachan2.warc.gz	0
-liltrt	gallery.me.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	gallery.me.com-liltrt.warc.gz	0
-liltrt	homepage.mac.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	homepage.mac.com-liltrt.warc.gz	0
-liltrt	public.me.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	public.me.com-liltrt.warc.gz	0
-liltrt	web.me.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	web.me.com-liltrt.warc.gz	0
-sydclifton	gallery.me.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	gallery.me.com-sydclifton.warc.gz	0
-sydclifton	homepage.mac.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	homepage.mac.com-sydclifton.warc.gz	0
-sydclifton	public.me.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	public.me.com-sydclifton.warc.gz	0
-sydclifton	web.me.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	web.me.com-sydclifton.warc.gz	0
-tscheuren	gallery.me.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	gallery.me.com-tscheuren.warc.gz	0
-tscheuren	homepage.mac.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	homepage.mac.com-tscheuren.warc.gz	0
-tscheuren	public.me.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	public.me.com-tscheuren.warc.gz	0
-tscheuren	web.me.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	web.me.com-tscheuren.warc.gz	0
-wade_wendy	gallery.me.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	gallery.me.com-wade_wendy.warc.gz	0
-wade_wendy	homepage.mac.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	homepage.mac.com-wade_wendy.warc.gz	0
-wade_wendy	public.me.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	public.me.com-wade_wendy.warc.gz	0
-wade_wendy	web.me.com		archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	web.me.com-wade_wendy.warc.gz	0
+imachan2	gallery.me.com	2012-04-12 23:50:32	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	gallery.me.com-imachan2.warc.gz	246951220
+imachan2	homepage.mac.com	2012-04-12 23:50:36	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	homepage.mac.com-imachan2.warc.gz	4908
+imachan2	public.me.com	2012-04-12 23:46:04	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	public.me.com-imachan2.warc.gz	921571
+imachan2	web.me.com	2012-04-12 23:45:55	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	web.me.com-imachan2.warc.gz	6357497
+liltrt	gallery.me.com	2012-04-13 00:15:29	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	gallery.me.com-liltrt.warc.gz	318148136
+liltrt	homepage.mac.com	2012-04-13 00:15:29	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	homepage.mac.com-liltrt.warc.gz	4897
+liltrt	public.me.com	2012-04-13 00:04:56	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	public.me.com-liltrt.warc.gz	1916
+liltrt	web.me.com	2012-04-13 00:04:49	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	web.me.com-liltrt.warc.gz	173538624
+sydclifton	gallery.me.com	2012-04-13 02:35:14	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	gallery.me.com-sydclifton.warc.gz	3703613962
+sydclifton	homepage.mac.com	2012-04-13 02:35:15	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	homepage.mac.com-sydclifton.warc.gz	4906
+sydclifton	public.me.com	2012-04-13 01:20:42	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	public.me.com-sydclifton.warc.gz	7830664
+sydclifton	web.me.com	2012-04-13 01:20:26	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	web.me.com-sydclifton.warc.gz	260257641
+tscheuren	gallery.me.com	2012-04-13 00:35:52	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	gallery.me.com-tscheuren.warc.gz	279192947
+tscheuren	homepage.mac.com	2012-04-13 00:36:49	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	homepage.mac.com-tscheuren.warc.gz	647089
+tscheuren	public.me.com	2012-04-13 00:22:41	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	public.me.com-tscheuren.warc.gz	101197918
+tscheuren	web.me.com	2012-04-13 00:16:40	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	web.me.com-tscheuren.warc.gz	1980216
+wade_wendy	gallery.me.com	2012-04-12 23:44:04	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	gallery.me.com-wade_wendy.warc.gz	12332
+wade_wendy	homepage.mac.com	2012-04-12 23:44:05	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	homepage.mac.com-wade_wendy.warc.gz	7164
+wade_wendy	public.me.com	2012-04-12 23:44:01	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	public.me.com-wade_wendy.warc.gz	1929
+wade_wendy	web.me.com	2012-04-12 23:43:53	archiveteam-mobileme-hero-707x	archiveteam-mobileme-hero-707x-7070.tar	web.me.com-wade_wendy.warc.gz	22531

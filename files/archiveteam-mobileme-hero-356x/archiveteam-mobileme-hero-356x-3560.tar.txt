@@ -1,16 +1,16 @@
-a_kameda	gallery.me.com		archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	gallery.me.com-a_kameda.warc.gz	0
-a_kameda	homepage.mac.com		archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	homepage.mac.com-a_kameda.warc.gz	0
-a_kameda	public.me.com		archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	public.me.com-a_kameda.warc.gz	0
-a_kameda	web.me.com		archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	web.me.com-a_kameda.warc.gz	0
-eyoung1	gallery.me.com		archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	gallery.me.com-eyoung1.warc.gz	0
-eyoung1	homepage.mac.com		archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	homepage.mac.com-eyoung1.warc.gz	0
-eyoung1	public.me.com		archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	public.me.com-eyoung1.warc.gz	0
-eyoung1	web.me.com		archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	web.me.com-eyoung1.warc.gz	0
-redrocketmedia	gallery.me.com		archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	gallery.me.com-redrocketmedia.warc.gz	0
-redrocketmedia	homepage.mac.com		archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	homepage.mac.com-redrocketmedia.warc.gz	0
-redrocketmedia	public.me.com		archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	public.me.com-redrocketmedia.warc.gz	0
-redrocketmedia	web.me.com		archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	web.me.com-redrocketmedia.warc.gz	0
-thomaskorson	gallery.me.com		archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	gallery.me.com-thomaskorson.warc.gz	0
-thomaskorson	homepage.mac.com		archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	homepage.mac.com-thomaskorson.warc.gz	0
-thomaskorson	public.me.com		archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	public.me.com-thomaskorson.warc.gz	0
-thomaskorson	web.me.com		archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	web.me.com-thomaskorson.warc.gz	0
+a_kameda	gallery.me.com	2012-04-03 19:49:23	archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	gallery.me.com-a_kameda.warc.gz	4237
+a_kameda	homepage.mac.com	2012-04-03 19:49:23	archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	homepage.mac.com-a_kameda.warc.gz	4922
+a_kameda	public.me.com	2012-04-03 19:49:22	archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	public.me.com-a_kameda.warc.gz	6148
+a_kameda	web.me.com	2012-04-03 19:49:22	archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	web.me.com-a_kameda.warc.gz	12160
+eyoung1	gallery.me.com	2012-04-03 21:28:06	archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	gallery.me.com-eyoung1.warc.gz	268893418
+eyoung1	homepage.mac.com	2012-04-03 21:28:06	archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	homepage.mac.com-eyoung1.warc.gz	4910
+eyoung1	public.me.com	2012-04-03 21:23:50	archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	public.me.com-eyoung1.warc.gz	3534
+eyoung1	web.me.com	2012-04-03 21:23:50	archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	web.me.com-eyoung1.warc.gz	4600462
+redrocketmedia	gallery.me.com	2012-04-03 21:22:44	archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	gallery.me.com-redrocketmedia.warc.gz	5836
+redrocketmedia	homepage.mac.com	2012-04-03 21:22:44	archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	homepage.mac.com-redrocketmedia.warc.gz	4931
+redrocketmedia	public.me.com	2012-04-03 21:22:43	archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	public.me.com-redrocketmedia.warc.gz	4061698779
+redrocketmedia	web.me.com	2012-04-03 20:14:25	archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	web.me.com-redrocketmedia.warc.gz	41604187
+thomaskorson	gallery.me.com	2012-04-03 20:09:23	archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	gallery.me.com-thomaskorson.warc.gz	5340345
+thomaskorson	homepage.mac.com	2012-04-03 20:09:23	archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	homepage.mac.com-thomaskorson.warc.gz	4927
+thomaskorson	public.me.com	2012-04-03 20:09:13	archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	public.me.com-thomaskorson.warc.gz	1928
+thomaskorson	web.me.com	2012-04-03 20:09:13	archiveteam-mobileme-hero-356x	archiveteam-mobileme-hero-356x-3560.tar	web.me.com-thomaskorson.warc.gz	86649212

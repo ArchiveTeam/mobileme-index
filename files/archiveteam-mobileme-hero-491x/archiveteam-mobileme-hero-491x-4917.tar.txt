@@ -1,8 +1,8 @@
-christopherwilcox	gallery.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4917.tar	gallery.me.com-christopherwilcox.warc.gz	0
-christopherwilcox	homepage.mac.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4917.tar	homepage.mac.com-christopherwilcox.warc.gz	0
-christopherwilcox	public.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4917.tar	public.me.com-christopherwilcox.warc.gz	0
-christopherwilcox	web.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4917.tar	web.me.com-christopherwilcox.warc.gz	0
-l_blander	gallery.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4917.tar	gallery.me.com-l_blander.warc.gz	0
-l_blander	homepage.mac.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4917.tar	homepage.mac.com-l_blander.warc.gz	0
-l_blander	public.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4917.tar	public.me.com-l_blander.warc.gz	0
-l_blander	web.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4917.tar	web.me.com-l_blander.warc.gz	0
+christopherwilcox	gallery.me.com	2012-04-07 13:31:32	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4917.tar	gallery.me.com-christopherwilcox.warc.gz	20814425
+christopherwilcox	homepage.mac.com	2012-04-07 13:32:05	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4917.tar	homepage.mac.com-christopherwilcox.warc.gz	292738
+christopherwilcox	public.me.com	2012-04-07 13:30:16	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4917.tar	public.me.com-christopherwilcox.warc.gz	193452
+christopherwilcox	web.me.com	2012-04-07 13:30:14	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4917.tar	web.me.com-christopherwilcox.warc.gz	18505761
+l_blander	gallery.me.com	2012-04-07 18:26:35	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4917.tar	gallery.me.com-l_blander.warc.gz	2479289932
+l_blander	homepage.mac.com	2012-04-07 18:26:40	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4917.tar	homepage.mac.com-l_blander.warc.gz	69715
+l_blander	public.me.com	2012-04-07 15:36:17	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4917.tar	public.me.com-l_blander.warc.gz	3269811739
+l_blander	web.me.com	2012-04-07 14:18:01	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4917.tar	web.me.com-l_blander.warc.gz	267654418

@@ -1,8 +1,8 @@
-ed.schummer	gallery.me.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7116.tar	gallery.me.com-ed.schummer.warc.gz	0
-ed.schummer	homepage.mac.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7116.tar	homepage.mac.com-ed.schummer.warc.gz	0
-ed.schummer	public.me.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7116.tar	public.me.com-ed.schummer.warc.gz	0
-ed.schummer	web.me.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7116.tar	web.me.com-ed.schummer.warc.gz	0
-msocia1	gallery.me.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7116.tar	gallery.me.com-msocia1.warc.gz	0
-msocia1	homepage.mac.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7116.tar	homepage.mac.com-msocia1.warc.gz	0
-msocia1	public.me.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7116.tar	public.me.com-msocia1.warc.gz	0
-msocia1	web.me.com		archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7116.tar	web.me.com-msocia1.warc.gz	0
+ed.schummer	gallery.me.com	2012-04-13 03:23:00	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7116.tar	gallery.me.com-ed.schummer.warc.gz	331774271
+ed.schummer	homepage.mac.com	2012-04-13 03:23:00	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7116.tar	homepage.mac.com-ed.schummer.warc.gz	4933
+ed.schummer	public.me.com	2012-04-13 03:17:54	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7116.tar	public.me.com-ed.schummer.warc.gz	1929
+ed.schummer	web.me.com	2012-04-13 03:17:54	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7116.tar	web.me.com-ed.schummer.warc.gz	2834751
+msocia1	gallery.me.com	2012-04-13 04:45:56	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7116.tar	gallery.me.com-msocia1.warc.gz	760840724
+msocia1	homepage.mac.com	2012-04-13 04:46:03	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7116.tar	homepage.mac.com-msocia1.warc.gz	123999
+msocia1	public.me.com	2012-04-13 04:32:19	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7116.tar	public.me.com-msocia1.warc.gz	3122637776
+msocia1	web.me.com	2012-04-13 03:36:48	archiveteam-mobileme-hero-711x	archiveteam-mobileme-hero-711x-7116.tar	web.me.com-msocia1.warc.gz	312520435

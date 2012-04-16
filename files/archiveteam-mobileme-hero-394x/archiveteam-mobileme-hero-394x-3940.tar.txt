@@ -1,12 +1,12 @@
-gregoryhull	gallery.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	gallery.me.com-gregoryhull.warc.gz	0
-gregoryhull	homepage.mac.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	homepage.mac.com-gregoryhull.warc.gz	0
-gregoryhull	public.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	public.me.com-gregoryhull.warc.gz	0
-gregoryhull	web.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	web.me.com-gregoryhull.warc.gz	0
-jjmurtaugh	gallery.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	gallery.me.com-jjmurtaugh.warc.gz	0
-jjmurtaugh	homepage.mac.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	homepage.mac.com-jjmurtaugh.warc.gz	0
-jjmurtaugh	public.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	public.me.com-jjmurtaugh.warc.gz	0
-jjmurtaugh	web.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	web.me.com-jjmurtaugh.warc.gz	0
-mdornseif	gallery.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	gallery.me.com-mdornseif.warc.gz	0
-mdornseif	homepage.mac.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	homepage.mac.com-mdornseif.warc.gz	0
-mdornseif	public.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	public.me.com-mdornseif.warc.gz	0
-mdornseif	web.me.com		archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	web.me.com-mdornseif.warc.gz	0
+gregoryhull	gallery.me.com	2012-04-04 10:30:11	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	gallery.me.com-gregoryhull.warc.gz	4254
+gregoryhull	homepage.mac.com	2012-04-04 10:30:16	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	homepage.mac.com-gregoryhull.warc.gz	62627
+gregoryhull	public.me.com	2012-04-04 10:30:11	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	public.me.com-gregoryhull.warc.gz	23539552
+gregoryhull	web.me.com	2012-04-04 10:28:26	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	web.me.com-gregoryhull.warc.gz	7448
+jjmurtaugh	gallery.me.com	2012-04-04 20:01:09	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	gallery.me.com-jjmurtaugh.warc.gz	201397597
+jjmurtaugh	homepage.mac.com	2012-04-04 20:01:09	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	homepage.mac.com-jjmurtaugh.warc.gz	4906
+jjmurtaugh	public.me.com	2012-04-04 19:41:30	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	public.me.com-jjmurtaugh.warc.gz	12444
+jjmurtaugh	web.me.com	2012-04-04 19:40:57	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	web.me.com-jjmurtaugh.warc.gz	5717364725
+mdornseif	gallery.me.com	2012-04-04 10:28:14	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	gallery.me.com-mdornseif.warc.gz	373113
+mdornseif	homepage.mac.com	2012-04-04 10:28:23	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	homepage.mac.com-mdornseif.warc.gz	105628
+mdornseif	public.me.com	2012-04-04 10:28:11	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	public.me.com-mdornseif.warc.gz	727465
+mdornseif	web.me.com	2012-04-04 10:28:04	archiveteam-mobileme-hero-394x	archiveteam-mobileme-hero-394x-3940.tar	web.me.com-mdornseif.warc.gz	912692

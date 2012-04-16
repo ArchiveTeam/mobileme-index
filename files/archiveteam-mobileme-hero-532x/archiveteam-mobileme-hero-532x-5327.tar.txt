@@ -1,24 +1,24 @@
-board11ref	gallery.me.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	gallery.me.com-board11ref.warc.gz	0
-board11ref	homepage.mac.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	homepage.mac.com-board11ref.warc.gz	0
-board11ref	public.me.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	public.me.com-board11ref.warc.gz	0
-board11ref	web.me.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	web.me.com-board11ref.warc.gz	0
-mattddewell	gallery.me.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	gallery.me.com-mattddewell.warc.gz	0
-mattddewell	homepage.mac.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	homepage.mac.com-mattddewell.warc.gz	0
-mattddewell	public.me.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	public.me.com-mattddewell.warc.gz	0
-mattddewell	web.me.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	web.me.com-mattddewell.warc.gz	0
-peterdefty	gallery.me.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	gallery.me.com-peterdefty.warc.gz	0
-peterdefty	homepage.mac.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	homepage.mac.com-peterdefty.warc.gz	0
-peterdefty	public.me.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	public.me.com-peterdefty.warc.gz	0
-peterdefty	web.me.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	web.me.com-peterdefty.warc.gz	0
-rjulian	gallery.me.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	gallery.me.com-rjulian.warc.gz	0
-rjulian	homepage.mac.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	homepage.mac.com-rjulian.warc.gz	0
-rjulian	public.me.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	public.me.com-rjulian.warc.gz	0
-rjulian	web.me.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	web.me.com-rjulian.warc.gz	0
-sandpiperweddings	gallery.me.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	gallery.me.com-sandpiperweddings.warc.gz	0
-sandpiperweddings	homepage.mac.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	homepage.mac.com-sandpiperweddings.warc.gz	0
-sandpiperweddings	public.me.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	public.me.com-sandpiperweddings.warc.gz	0
-sandpiperweddings	web.me.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	web.me.com-sandpiperweddings.warc.gz	0
-sevenover	gallery.me.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	gallery.me.com-sevenover.warc.gz	0
-sevenover	homepage.mac.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	homepage.mac.com-sevenover.warc.gz	0
-sevenover	public.me.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	public.me.com-sevenover.warc.gz	0
-sevenover	web.me.com		archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	web.me.com-sevenover.warc.gz	0
+board11ref	gallery.me.com	2012-04-09 04:40:26	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	gallery.me.com-board11ref.warc.gz	1986624913
+board11ref	homepage.mac.com	2012-04-09 04:40:26	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	homepage.mac.com-board11ref.warc.gz	4927
+board11ref	public.me.com	2012-04-09 04:23:11	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	public.me.com-board11ref.warc.gz	1920
+board11ref	web.me.com	2012-04-09 04:23:11	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	web.me.com-board11ref.warc.gz	327581626
+mattddewell	gallery.me.com	2012-04-09 03:54:53	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	gallery.me.com-mattddewell.warc.gz	9216669
+mattddewell	homepage.mac.com	2012-04-09 03:54:56	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	homepage.mac.com-mattddewell.warc.gz	77789
+mattddewell	public.me.com	2012-04-09 03:54:43	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	public.me.com-mattddewell.warc.gz	43386615
+mattddewell	web.me.com	2012-04-09 03:53:31	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	web.me.com-mattddewell.warc.gz	2506271
+peterdefty	gallery.me.com	2012-04-09 03:52:58	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	gallery.me.com-peterdefty.warc.gz	4238
+peterdefty	homepage.mac.com	2012-04-09 03:52:59	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	homepage.mac.com-peterdefty.warc.gz	4933
+peterdefty	public.me.com	2012-04-09 03:52:57	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	public.me.com-peterdefty.warc.gz	1923
+peterdefty	web.me.com	2012-04-09 03:52:57	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	web.me.com-peterdefty.warc.gz	64263438
+rjulian	gallery.me.com	2012-04-09 04:12:20	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	gallery.me.com-rjulian.warc.gz	155258919
+rjulian	homepage.mac.com	2012-04-09 04:12:30	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	homepage.mac.com-rjulian.warc.gz	177675
+rjulian	public.me.com	2012-04-09 04:06:47	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	public.me.com-rjulian.warc.gz	3322
+rjulian	web.me.com	2012-04-09 04:06:46	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	web.me.com-rjulian.warc.gz	553122787
+sandpiperweddings	gallery.me.com	2012-04-09 03:32:39	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	gallery.me.com-sandpiperweddings.warc.gz	5031
+sandpiperweddings	homepage.mac.com	2012-04-09 03:32:39	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	homepage.mac.com-sandpiperweddings.warc.gz	4937
+sandpiperweddings	public.me.com	2012-04-09 03:32:38	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	public.me.com-sandpiperweddings.warc.gz	1930
+sandpiperweddings	web.me.com	2012-04-09 03:32:37	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	web.me.com-sandpiperweddings.warc.gz	21007431
+sevenover	gallery.me.com	2012-04-09 03:27:52	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	gallery.me.com-sevenover.warc.gz	1610896579
+sevenover	homepage.mac.com	2012-04-09 03:28:21	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	homepage.mac.com-sevenover.warc.gz	585523
+sevenover	public.me.com	2012-04-09 02:57:03	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	public.me.com-sevenover.warc.gz	1917
+sevenover	web.me.com	2012-04-09 02:57:03	archiveteam-mobileme-hero-532x	archiveteam-mobileme-hero-532x-5327.tar	web.me.com-sevenover.warc.gz	81824798

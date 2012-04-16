@@ -1,12 +1,12 @@
-aksherma	gallery.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	gallery.me.com-aksherma.warc.gz	0
-aksherma	homepage.mac.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	homepage.mac.com-aksherma.warc.gz	0
-aksherma	public.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	public.me.com-aksherma.warc.gz	0
-aksherma	web.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	web.me.com-aksherma.warc.gz	0
-skot23	gallery.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	gallery.me.com-skot23.warc.gz	0
-skot23	homepage.mac.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	homepage.mac.com-skot23.warc.gz	0
-skot23	public.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	public.me.com-skot23.warc.gz	0
-skot23	web.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	web.me.com-skot23.warc.gz	0
-timothy.turner	gallery.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	gallery.me.com-timothy.turner.warc.gz	0
-timothy.turner	homepage.mac.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	homepage.mac.com-timothy.turner.warc.gz	0
-timothy.turner	public.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	public.me.com-timothy.turner.warc.gz	0
-timothy.turner	web.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	web.me.com-timothy.turner.warc.gz	0
+aksherma	gallery.me.com	2012-04-04 11:41:22	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	gallery.me.com-aksherma.warc.gz	4326
+aksherma	homepage.mac.com	2012-04-04 11:41:22	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	homepage.mac.com-aksherma.warc.gz	4909
+aksherma	public.me.com	2012-04-04 11:41:21	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	public.me.com-aksherma.warc.gz	67337
+aksherma	web.me.com	2012-04-04 11:41:19	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	web.me.com-aksherma.warc.gz	96599
+skot23	gallery.me.com	2012-04-04 13:20:37	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	gallery.me.com-skot23.warc.gz	4896436328
+skot23	homepage.mac.com	2012-04-04 13:21:14	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	homepage.mac.com-skot23.warc.gz	4951441
+skot23	public.me.com	2012-04-04 12:05:55	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	public.me.com-skot23.warc.gz	134209661
+skot23	web.me.com	2012-04-04 11:59:41	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	web.me.com-skot23.warc.gz	76537685
+timothy.turner	gallery.me.com	2012-04-04 11:41:06	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	gallery.me.com-timothy.turner.warc.gz	5697
+timothy.turner	homepage.mac.com	2012-04-04 11:41:06	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	homepage.mac.com-timothy.turner.warc.gz	4933
+timothy.turner	public.me.com	2012-04-04 11:41:04	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	public.me.com-timothy.turner.warc.gz	1929
+timothy.turner	web.me.com	2012-04-04 11:41:03	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3828.tar	web.me.com-timothy.turner.warc.gz	8014139

@@ -1,12 +1,12 @@
-gregoryives	gallery.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	gallery.me.com-gregoryives.warc.gz	0
-gregoryives	homepage.mac.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	homepage.mac.com-gregoryives.warc.gz	0
-gregoryives	public.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	public.me.com-gregoryives.warc.gz	0
-gregoryives	web.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	web.me.com-gregoryives.warc.gz	0
-ml_labordus	gallery.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	gallery.me.com-ml_labordus.warc.gz	0
-ml_labordus	homepage.mac.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	homepage.mac.com-ml_labordus.warc.gz	0
-ml_labordus	public.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	public.me.com-ml_labordus.warc.gz	0
-ml_labordus	web.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	web.me.com-ml_labordus.warc.gz	0
-rutherfordmediagroup	gallery.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	gallery.me.com-rutherfordmediagroup.warc.gz	0
-rutherfordmediagroup	homepage.mac.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	homepage.mac.com-rutherfordmediagroup.warc.gz	0
-rutherfordmediagroup	public.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	public.me.com-rutherfordmediagroup.warc.gz	0
-rutherfordmediagroup	web.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	web.me.com-rutherfordmediagroup.warc.gz	0
+gregoryives	gallery.me.com	2012-04-03 09:05:11	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	gallery.me.com-gregoryives.warc.gz	19309692
+gregoryives	homepage.mac.com	2012-04-03 09:05:11	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	homepage.mac.com-gregoryives.warc.gz	4921
+gregoryives	public.me.com	2012-04-03 09:04:51	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	public.me.com-gregoryives.warc.gz	4525
+gregoryives	web.me.com	2012-04-03 09:04:47	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	web.me.com-gregoryives.warc.gz	23538618
+ml_labordus	gallery.me.com	2012-04-03 09:02:00	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	gallery.me.com-ml_labordus.warc.gz	225062954
+ml_labordus	homepage.mac.com	2012-04-03 09:02:01	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	homepage.mac.com-ml_labordus.warc.gz	4928
+ml_labordus	public.me.com	2012-04-03 08:53:34	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	public.me.com-ml_labordus.warc.gz	1135697
+ml_labordus	web.me.com	2012-04-03 08:53:30	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	web.me.com-ml_labordus.warc.gz	1585282520
+rutherfordmediagroup	gallery.me.com	2012-04-03 11:57:03	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	gallery.me.com-rutherfordmediagroup.warc.gz	4043838178
+rutherfordmediagroup	homepage.mac.com	2012-04-03 11:57:25	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	homepage.mac.com-rutherfordmediagroup.warc.gz	203720
+rutherfordmediagroup	public.me.com	2012-04-03 09:59:40	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	public.me.com-rutherfordmediagroup.warc.gz	479141092
+rutherfordmediagroup	web.me.com	2012-04-03 09:36:08	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3408.tar	web.me.com-rutherfordmediagroup.warc.gz	84652946

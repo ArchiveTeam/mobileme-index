@@ -1,12 +1,12 @@
-antirich	gallery.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	gallery.me.com-antirich.warc.gz	0
-antirich	homepage.mac.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	homepage.mac.com-antirich.warc.gz	0
-antirich	public.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	public.me.com-antirich.warc.gz	0
-antirich	web.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	web.me.com-antirich.warc.gz	0
-michael_skiff	gallery.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	gallery.me.com-michael_skiff.warc.gz	0
-michael_skiff	homepage.mac.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	homepage.mac.com-michael_skiff.warc.gz	0
-michael_skiff	public.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	public.me.com-michael_skiff.warc.gz	0
-michael_skiff	web.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	web.me.com-michael_skiff.warc.gz	0
-sarah_good	gallery.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	gallery.me.com-sarah_good.warc.gz	0
-sarah_good	homepage.mac.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	homepage.mac.com-sarah_good.warc.gz	0
-sarah_good	public.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	public.me.com-sarah_good.warc.gz	0
-sarah_good	web.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	web.me.com-sarah_good.warc.gz	0
+antirich	gallery.me.com	2012-04-05 08:57:36	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	gallery.me.com-antirich.warc.gz	1560303313
+antirich	homepage.mac.com	2012-04-05 08:57:36	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	homepage.mac.com-antirich.warc.gz	4901
+antirich	public.me.com	2012-04-05 08:33:55	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	public.me.com-antirich.warc.gz	46434
+antirich	web.me.com	2012-04-05 08:33:53	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	web.me.com-antirich.warc.gz	1304409
+michael_skiff	gallery.me.com	2012-04-05 12:00:46	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	gallery.me.com-michael_skiff.warc.gz	621802713
+michael_skiff	homepage.mac.com	2012-04-05 12:00:46	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	homepage.mac.com-michael_skiff.warc.gz	4928
+michael_skiff	public.me.com	2012-04-05 11:53:30	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	public.me.com-michael_skiff.warc.gz	8202388772
+michael_skiff	web.me.com	2012-04-05 09:28:33	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	web.me.com-michael_skiff.warc.gz	87680021
+sarah_good	gallery.me.com	2012-04-05 09:17:20	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	gallery.me.com-sarah_good.warc.gz	24400346
+sarah_good	homepage.mac.com	2012-04-05 09:17:20	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	homepage.mac.com-sarah_good.warc.gz	7901
+sarah_good	public.me.com	2012-04-05 09:17:06	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	public.me.com-sarah_good.warc.gz	411272657
+sarah_good	web.me.com	2012-04-05 09:13:20	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4229.tar	web.me.com-sarah_good.warc.gz	156658374

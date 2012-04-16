@@ -1,8 +1,8 @@
-ashrafi_family	gallery.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5508.tar	gallery.me.com-ashrafi_family.warc.gz	0
-ashrafi_family	homepage.mac.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5508.tar	homepage.mac.com-ashrafi_family.warc.gz	0
-ashrafi_family	public.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5508.tar	public.me.com-ashrafi_family.warc.gz	0
-ashrafi_family	web.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5508.tar	web.me.com-ashrafi_family.warc.gz	0
-raywongmusic	gallery.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5508.tar	gallery.me.com-raywongmusic.warc.gz	0
-raywongmusic	homepage.mac.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5508.tar	homepage.mac.com-raywongmusic.warc.gz	0
-raywongmusic	public.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5508.tar	public.me.com-raywongmusic.warc.gz	0
-raywongmusic	web.me.com		archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5508.tar	web.me.com-raywongmusic.warc.gz	0
+ashrafi_family	gallery.me.com	2012-04-09 14:19:38	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5508.tar	gallery.me.com-ashrafi_family.warc.gz	3013472950
+ashrafi_family	homepage.mac.com	2012-04-09 14:19:38	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5508.tar	homepage.mac.com-ashrafi_family.warc.gz	4926
+ashrafi_family	public.me.com	2012-04-09 13:17:27	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5508.tar	public.me.com-ashrafi_family.warc.gz	3358
+ashrafi_family	web.me.com	2012-04-09 13:17:18	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5508.tar	web.me.com-ashrafi_family.warc.gz	1169020603
+raywongmusic	gallery.me.com	2012-04-09 12:20:38	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5508.tar	gallery.me.com-raywongmusic.warc.gz	138249801
+raywongmusic	homepage.mac.com	2012-04-09 12:20:41	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5508.tar	homepage.mac.com-raywongmusic.warc.gz	88757
+raywongmusic	public.me.com	2012-04-09 12:19:56	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5508.tar	public.me.com-raywongmusic.warc.gz	79098864
+raywongmusic	web.me.com	2012-04-09 12:19:21	archiveteam-mobileme-hero-550x	archiveteam-mobileme-hero-550x-5508.tar	web.me.com-raywongmusic.warc.gz	4840357

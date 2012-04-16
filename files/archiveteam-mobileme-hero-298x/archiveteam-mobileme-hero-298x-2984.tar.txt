@@ -1,24 +1,24 @@
-dherrenimaging	gallery.me.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	gallery.me.com-dherrenimaging.warc.gz	0
-dherrenimaging	homepage.mac.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	homepage.mac.com-dherrenimaging.warc.gz	0
-dherrenimaging	public.me.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	public.me.com-dherrenimaging.warc.gz	0
-dherrenimaging	web.me.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	web.me.com-dherrenimaging.warc.gz	0
-fhm	gallery.me.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	gallery.me.com-fhm.warc.gz	0
-fhm	homepage.mac.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	homepage.mac.com-fhm.warc.gz	0
-fhm	public.me.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	public.me.com-fhm.warc.gz	0
-fhm	web.me.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	web.me.com-fhm.warc.gz	0
-jonathangiles	gallery.me.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	gallery.me.com-jonathangiles.warc.gz	0
-jonathangiles	homepage.mac.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	homepage.mac.com-jonathangiles.warc.gz	0
-jonathangiles	public.me.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	public.me.com-jonathangiles.warc.gz	0
-jonathangiles	web.me.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	web.me.com-jonathangiles.warc.gz	0
-louanndancer	gallery.me.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	gallery.me.com-louanndancer.warc.gz	0
-louanndancer	homepage.mac.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	homepage.mac.com-louanndancer.warc.gz	0
-louanndancer	public.me.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	public.me.com-louanndancer.warc.gz	0
-louanndancer	web.me.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	web.me.com-louanndancer.warc.gz	0
-takyao_i	gallery.me.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	gallery.me.com-takyao_i.warc.gz	0
-takyao_i	homepage.mac.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	homepage.mac.com-takyao_i.warc.gz	0
-takyao_i	public.me.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	public.me.com-takyao_i.warc.gz	0
-takyao_i	web.me.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	web.me.com-takyao_i.warc.gz	0
-vicki.french	gallery.me.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	gallery.me.com-vicki.french.warc.gz	0
-vicki.french	homepage.mac.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	homepage.mac.com-vicki.french.warc.gz	0
-vicki.french	public.me.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	public.me.com-vicki.french.warc.gz	0
-vicki.french	web.me.com		archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	web.me.com-vicki.french.warc.gz	0
+dherrenimaging	gallery.me.com	2012-04-02 14:44:47	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	gallery.me.com-dherrenimaging.warc.gz	393543733
+dherrenimaging	homepage.mac.com	2012-04-02 14:44:48	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	homepage.mac.com-dherrenimaging.warc.gz	4909
+dherrenimaging	public.me.com	2012-04-02 14:40:59	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	public.me.com-dherrenimaging.warc.gz	1928
+dherrenimaging	web.me.com	2012-04-02 14:40:59	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	web.me.com-dherrenimaging.warc.gz	16346983
+fhm	gallery.me.com	2012-04-02 13:45:48	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	gallery.me.com-fhm.warc.gz	556278253
+fhm	homepage.mac.com	2012-04-02 13:45:49	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	homepage.mac.com-fhm.warc.gz	7746
+fhm	public.me.com	2012-04-02 13:38:26	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	public.me.com-fhm.warc.gz	34475507
+fhm	web.me.com	2012-04-02 13:38:17	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	web.me.com-fhm.warc.gz	11338422
+jonathangiles	gallery.me.com	2012-04-02 14:05:15	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	gallery.me.com-jonathangiles.warc.gz	2204033647
+jonathangiles	homepage.mac.com	2012-04-02 14:05:16	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	homepage.mac.com-jonathangiles.warc.gz	4936
+jonathangiles	public.me.com	2012-04-02 13:49:04	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	public.me.com-jonathangiles.warc.gz	1935
+jonathangiles	web.me.com	2012-04-02 13:49:03	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	web.me.com-jonathangiles.warc.gz	482210
+louanndancer	gallery.me.com	2012-04-02 13:48:08	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	gallery.me.com-louanndancer.warc.gz	165462967
+louanndancer	homepage.mac.com	2012-04-02 13:48:08	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	homepage.mac.com-louanndancer.warc.gz	4928
+louanndancer	public.me.com	2012-04-02 13:46:44	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	public.me.com-louanndancer.warc.gz	1925
+louanndancer	web.me.com	2012-04-02 13:46:44	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	web.me.com-louanndancer.warc.gz	8612679
+takyao_i	gallery.me.com	2012-04-02 13:48:44	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	gallery.me.com-takyao_i.warc.gz	4289
+takyao_i	homepage.mac.com	2012-04-02 13:48:45	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	homepage.mac.com-takyao_i.warc.gz	4915
+takyao_i	public.me.com	2012-04-02 13:48:44	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	public.me.com-takyao_i.warc.gz	12215800
+takyao_i	web.me.com	2012-04-02 13:48:15	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	web.me.com-takyao_i.warc.gz	60780
+vicki.french	gallery.me.com	2012-04-02 14:37:17	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	gallery.me.com-vicki.french.warc.gz	909756189
+vicki.french	homepage.mac.com	2012-04-02 14:37:18	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	homepage.mac.com-vicki.french.warc.gz	4935
+vicki.french	public.me.com	2012-04-02 14:12:19	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	public.me.com-vicki.french.warc.gz	1933
+vicki.french	web.me.com	2012-04-02 14:12:18	archiveteam-mobileme-hero-298x	archiveteam-mobileme-hero-298x-2984.tar	web.me.com-vicki.french.warc.gz	62801904

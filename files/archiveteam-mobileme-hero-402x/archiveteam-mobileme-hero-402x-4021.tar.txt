@@ -1,16 +1,16 @@
-bobnewnham1	gallery.me.com		archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	gallery.me.com-bobnewnham1.warc.gz	0
-bobnewnham1	homepage.mac.com		archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	homepage.mac.com-bobnewnham1.warc.gz	0
-bobnewnham1	public.me.com		archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	public.me.com-bobnewnham1.warc.gz	0
-bobnewnham1	web.me.com		archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	web.me.com-bobnewnham1.warc.gz	0
-jgelick	gallery.me.com		archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	gallery.me.com-jgelick.warc.gz	0
-jgelick	homepage.mac.com		archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	homepage.mac.com-jgelick.warc.gz	0
-jgelick	public.me.com		archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	public.me.com-jgelick.warc.gz	0
-jgelick	web.me.com		archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	web.me.com-jgelick.warc.gz	0
-jillhatley	gallery.me.com		archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	gallery.me.com-jillhatley.warc.gz	0
-jillhatley	homepage.mac.com		archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	homepage.mac.com-jillhatley.warc.gz	0
-jillhatley	public.me.com		archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	public.me.com-jillhatley.warc.gz	0
-jillhatley	web.me.com		archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	web.me.com-jillhatley.warc.gz	0
-wisewc	gallery.me.com		archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	gallery.me.com-wisewc.warc.gz	0
-wisewc	homepage.mac.com		archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	homepage.mac.com-wisewc.warc.gz	0
-wisewc	public.me.com		archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	public.me.com-wisewc.warc.gz	0
-wisewc	web.me.com		archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	web.me.com-wisewc.warc.gz	0
+bobnewnham1	gallery.me.com	2012-04-04 23:46:15	archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	gallery.me.com-bobnewnham1.warc.gz	5741
+bobnewnham1	homepage.mac.com	2012-04-04 23:46:25	archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	homepage.mac.com-bobnewnham1.warc.gz	247651
+bobnewnham1	public.me.com	2012-04-04 23:46:14	archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	public.me.com-bobnewnham1.warc.gz	2673003395
+bobnewnham1	web.me.com	2012-04-04 23:08:05	archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	web.me.com-bobnewnham1.warc.gz	11895761
+jgelick	gallery.me.com	2012-04-04 23:51:09	archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	gallery.me.com-jgelick.warc.gz	15666888
+jgelick	homepage.mac.com	2012-04-04 23:51:09	archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	homepage.mac.com-jgelick.warc.gz	4913
+jgelick	public.me.com	2012-04-04 23:50:21	archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	public.me.com-jgelick.warc.gz	1913
+jgelick	web.me.com	2012-04-04 23:50:19	archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	web.me.com-jgelick.warc.gz	19966405
+jillhatley	gallery.me.com	2012-04-04 23:46:46	archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	gallery.me.com-jillhatley.warc.gz	791218
+jillhatley	homepage.mac.com	2012-04-04 23:46:46	archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	homepage.mac.com-jillhatley.warc.gz	4909
+jillhatley	public.me.com	2012-04-04 23:46:43	archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	public.me.com-jillhatley.warc.gz	1926
+jillhatley	web.me.com	2012-04-04 23:46:43	archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	web.me.com-jillhatley.warc.gz	2204073
+wisewc	gallery.me.com	2012-04-05 00:50:19	archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	gallery.me.com-wisewc.warc.gz	909501716
+wisewc	homepage.mac.com	2012-04-05 00:50:21	archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	homepage.mac.com-wisewc.warc.gz	4904
+wisewc	public.me.com	2012-04-05 00:25:39	archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	public.me.com-wisewc.warc.gz	16768426
+wisewc	web.me.com	2012-04-05 00:25:13	archiveteam-mobileme-hero-402x	archiveteam-mobileme-hero-402x-4021.tar	web.me.com-wisewc.warc.gz	901011808

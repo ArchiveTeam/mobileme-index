@@ -1,8 +1,8 @@
-jasonmicheli	gallery.me.com		archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4406.tar	gallery.me.com-jasonmicheli.warc.gz	0
-jasonmicheli	homepage.mac.com		archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4406.tar	homepage.mac.com-jasonmicheli.warc.gz	0
-jasonmicheli	public.me.com		archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4406.tar	public.me.com-jasonmicheli.warc.gz	0
-jasonmicheli	web.me.com		archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4406.tar	web.me.com-jasonmicheli.warc.gz	0
-keeper	gallery.me.com		archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4406.tar	gallery.me.com-keeper.warc.gz	0
-keeper	homepage.mac.com		archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4406.tar	homepage.mac.com-keeper.warc.gz	0
-keeper	public.me.com		archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4406.tar	public.me.com-keeper.warc.gz	0
-keeper	web.me.com		archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4406.tar	web.me.com-keeper.warc.gz	0
+jasonmicheli	gallery.me.com	2012-04-05 19:51:07	archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4406.tar	gallery.me.com-jasonmicheli.warc.gz	36872213
+jasonmicheli	homepage.mac.com	2012-04-05 19:51:07	archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4406.tar	homepage.mac.com-jasonmicheli.warc.gz	4936
+jasonmicheli	public.me.com	2012-04-05 19:49:35	archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4406.tar	public.me.com-jasonmicheli.warc.gz	1931
+jasonmicheli	web.me.com	2012-04-05 19:49:32	archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4406.tar	web.me.com-jasonmicheli.warc.gz	625876328
+keeper	gallery.me.com	2012-04-05 22:16:34	archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4406.tar	gallery.me.com-keeper.warc.gz	4421228566
+keeper	homepage.mac.com	2012-04-05 22:16:47	archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4406.tar	homepage.mac.com-keeper.warc.gz	365676
+keeper	public.me.com	2012-04-05 20:15:38	archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4406.tar	public.me.com-keeper.warc.gz	149608826
+keeper	web.me.com	2012-04-05 20:11:22	archiveteam-mobileme-hero-440x	archiveteam-mobileme-hero-440x-4406.tar	web.me.com-keeper.warc.gz	331079432

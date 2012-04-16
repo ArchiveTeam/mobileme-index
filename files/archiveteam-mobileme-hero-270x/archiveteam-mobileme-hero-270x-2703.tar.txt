@@ -1,8 +1,8 @@
-cleanercorp	gallery.me.com		archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2703.tar	gallery.me.com-cleanercorp.warc.gz	0
-cleanercorp	homepage.mac.com		archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2703.tar	homepage.mac.com-cleanercorp.warc.gz	0
-cleanercorp	public.me.com		archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2703.tar	public.me.com-cleanercorp.warc.gz	0
-cleanercorp	web.me.com		archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2703.tar	web.me.com-cleanercorp.warc.gz	0
-pj_roberts	gallery.me.com		archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2703.tar	gallery.me.com-pj_roberts.warc.gz	0
-pj_roberts	homepage.mac.com		archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2703.tar	homepage.mac.com-pj_roberts.warc.gz	0
-pj_roberts	public.me.com		archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2703.tar	public.me.com-pj_roberts.warc.gz	0
-pj_roberts	web.me.com		archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2703.tar	web.me.com-pj_roberts.warc.gz	0
+cleanercorp	gallery.me.com	2012-04-01 15:58:21	archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2703.tar	gallery.me.com-cleanercorp.warc.gz	5715
+cleanercorp	homepage.mac.com	2012-04-01 15:58:26	archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2703.tar	homepage.mac.com-cleanercorp.warc.gz	126093
+cleanercorp	public.me.com	2012-04-01 15:58:21	archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2703.tar	public.me.com-cleanercorp.warc.gz	7631464818
+cleanercorp	web.me.com	2012-04-01 14:54:11	archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2703.tar	web.me.com-cleanercorp.warc.gz	25670672
+pj_roberts	gallery.me.com	2012-04-01 14:46:35	archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2703.tar	gallery.me.com-pj_roberts.warc.gz	13072
+pj_roberts	homepage.mac.com	2012-04-01 14:46:35	archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2703.tar	homepage.mac.com-pj_roberts.warc.gz	4928
+pj_roberts	public.me.com	2012-04-01 14:46:33	archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2703.tar	public.me.com-pj_roberts.warc.gz	1918
+pj_roberts	web.me.com	2012-04-01 14:46:33	archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2703.tar	web.me.com-pj_roberts.warc.gz	54848068

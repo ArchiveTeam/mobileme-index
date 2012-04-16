@@ -1,20 +1,20 @@
-candlecorner	gallery.me.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	gallery.me.com-candlecorner.warc.gz	0
-candlecorner	homepage.mac.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	homepage.mac.com-candlecorner.warc.gz	0
-candlecorner	public.me.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	public.me.com-candlecorner.warc.gz	0
-candlecorner	web.me.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	web.me.com-candlecorner.warc.gz	0
-dahanmaurice	gallery.me.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	gallery.me.com-dahanmaurice.warc.gz	0
-dahanmaurice	homepage.mac.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	homepage.mac.com-dahanmaurice.warc.gz	0
-dahanmaurice	public.me.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	public.me.com-dahanmaurice.warc.gz	0
-dahanmaurice	web.me.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	web.me.com-dahanmaurice.warc.gz	0
-dmoski	gallery.me.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	gallery.me.com-dmoski.warc.gz	0
-dmoski	homepage.mac.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	homepage.mac.com-dmoski.warc.gz	0
-dmoski	public.me.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	public.me.com-dmoski.warc.gz	0
-dmoski	web.me.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	web.me.com-dmoski.warc.gz	0
-eddyscheffer	gallery.me.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	gallery.me.com-eddyscheffer.warc.gz	0
-eddyscheffer	homepage.mac.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	homepage.mac.com-eddyscheffer.warc.gz	0
-eddyscheffer	public.me.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	public.me.com-eddyscheffer.warc.gz	0
-eddyscheffer	web.me.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	web.me.com-eddyscheffer.warc.gz	0
-rjrosen11	gallery.me.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	gallery.me.com-rjrosen11.warc.gz	0
-rjrosen11	homepage.mac.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	homepage.mac.com-rjrosen11.warc.gz	0
-rjrosen11	public.me.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	public.me.com-rjrosen11.warc.gz	0
-rjrosen11	web.me.com		archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	web.me.com-rjrosen11.warc.gz	0
+candlecorner	gallery.me.com	2012-04-10 23:17:40	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	gallery.me.com-candlecorner.warc.gz	12338
+candlecorner	homepage.mac.com	2012-04-10 23:17:40	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	homepage.mac.com-candlecorner.warc.gz	7159
+candlecorner	public.me.com	2012-04-10 23:17:39	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	public.me.com-candlecorner.warc.gz	1927
+candlecorner	web.me.com	2012-04-10 23:17:39	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	web.me.com-candlecorner.warc.gz	22523
+dahanmaurice	gallery.me.com	2012-04-11 05:24:09	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	gallery.me.com-dahanmaurice.warc.gz	6397900639
+dahanmaurice	homepage.mac.com	2012-04-11 05:24:10	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	homepage.mac.com-dahanmaurice.warc.gz	4931
+dahanmaurice	public.me.com	2012-04-11 00:58:12	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	public.me.com-dahanmaurice.warc.gz	3749
+dahanmaurice	web.me.com	2012-04-11 00:53:56	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	web.me.com-dahanmaurice.warc.gz	1416726802
+dmoski	gallery.me.com	2012-04-10 23:17:42	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	gallery.me.com-dmoski.warc.gz	12308
+dmoski	homepage.mac.com	2012-04-10 23:17:42	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	homepage.mac.com-dmoski.warc.gz	7146
+dmoski	public.me.com	2012-04-10 23:17:41	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	public.me.com-dmoski.warc.gz	1919
+dmoski	web.me.com	2012-04-10 23:17:41	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	web.me.com-dmoski.warc.gz	22459
+eddyscheffer	gallery.me.com	2012-04-10 23:17:29	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	gallery.me.com-eddyscheffer.warc.gz	220729784
+eddyscheffer	homepage.mac.com	2012-04-10 23:17:38	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	homepage.mac.com-eddyscheffer.warc.gz	159297
+eddyscheffer	public.me.com	2012-04-10 23:12:59	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	public.me.com-eddyscheffer.warc.gz	1925
+eddyscheffer	web.me.com	2012-04-10 23:12:59	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	web.me.com-eddyscheffer.warc.gz	99979699
+rjrosen11	gallery.me.com	2012-04-10 23:19:11	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	gallery.me.com-rjrosen11.warc.gz	4257
+rjrosen11	homepage.mac.com	2012-04-10 23:19:11	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	homepage.mac.com-rjrosen11.warc.gz	4916
+rjrosen11	public.me.com	2012-04-10 23:19:10	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	public.me.com-rjrosen11.warc.gz	1914
+rjrosen11	web.me.com	2012-04-10 23:19:10	archiveteam-mobileme-hero-623x	archiveteam-mobileme-hero-623x-6230.tar	web.me.com-rjrosen11.warc.gz	12787327

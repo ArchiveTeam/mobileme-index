@@ -1,8 +1,8 @@
-ferluipo	gallery.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4153.tar	gallery.me.com-ferluipo.warc.gz	0
-ferluipo	homepage.mac.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4153.tar	homepage.mac.com-ferluipo.warc.gz	0
-ferluipo	public.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4153.tar	public.me.com-ferluipo.warc.gz	0
-ferluipo	web.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4153.tar	web.me.com-ferluipo.warc.gz	0
-hideoaoyagi	gallery.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4153.tar	gallery.me.com-hideoaoyagi.warc.gz	0
-hideoaoyagi	homepage.mac.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4153.tar	homepage.mac.com-hideoaoyagi.warc.gz	0
-hideoaoyagi	public.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4153.tar	public.me.com-hideoaoyagi.warc.gz	0
-hideoaoyagi	web.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4153.tar	web.me.com-hideoaoyagi.warc.gz	0
+ferluipo	gallery.me.com	2012-04-05 07:59:21	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4153.tar	gallery.me.com-ferluipo.warc.gz	74610262
+ferluipo	homepage.mac.com	2012-04-05 07:59:21	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4153.tar	homepage.mac.com-ferluipo.warc.gz	4917
+ferluipo	public.me.com	2012-04-05 07:57:08	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4153.tar	public.me.com-ferluipo.warc.gz	3479
+ferluipo	web.me.com	2012-04-05 07:57:05	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4153.tar	web.me.com-ferluipo.warc.gz	770438972
+hideoaoyagi	gallery.me.com	2012-04-05 06:34:46	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4153.tar	gallery.me.com-hideoaoyagi.warc.gz	3700495692
+hideoaoyagi	homepage.mac.com	2012-04-05 06:34:46	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4153.tar	homepage.mac.com-hideoaoyagi.warc.gz	4932
+hideoaoyagi	public.me.com	2012-04-05 06:01:50	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4153.tar	public.me.com-hideoaoyagi.warc.gz	15336
+hideoaoyagi	web.me.com	2012-04-05 06:01:47	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4153.tar	web.me.com-hideoaoyagi.warc.gz	108669399

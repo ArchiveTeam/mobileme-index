@@ -1,8 +1,8 @@
-davidvink	gallery.me.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5747.tar	gallery.me.com-davidvink.warc.gz	0
-davidvink	homepage.mac.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5747.tar	homepage.mac.com-davidvink.warc.gz	0
-davidvink	public.me.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5747.tar	public.me.com-davidvink.warc.gz	0
-davidvink	web.me.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5747.tar	web.me.com-davidvink.warc.gz	0
-xavier.fouquoire	gallery.me.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5747.tar	gallery.me.com-xavier.fouquoire.warc.gz	0
-xavier.fouquoire	homepage.mac.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5747.tar	homepage.mac.com-xavier.fouquoire.warc.gz	0
-xavier.fouquoire	public.me.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5747.tar	public.me.com-xavier.fouquoire.warc.gz	0
-xavier.fouquoire	web.me.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5747.tar	web.me.com-xavier.fouquoire.warc.gz	0
+davidvink	gallery.me.com	2012-04-10 05:00:00	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5747.tar	gallery.me.com-davidvink.warc.gz	1076027417
+davidvink	homepage.mac.com	2012-04-10 05:00:01	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5747.tar	homepage.mac.com-davidvink.warc.gz	4932
+davidvink	public.me.com	2012-04-10 04:23:33	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5747.tar	public.me.com-davidvink.warc.gz	3267320900
+davidvink	web.me.com	2012-04-10 02:55:33	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5747.tar	web.me.com-davidvink.warc.gz	3807980
+xavier.fouquoire	gallery.me.com	2012-04-10 02:53:13	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5747.tar	gallery.me.com-xavier.fouquoire.warc.gz	6030
+xavier.fouquoire	homepage.mac.com	2012-04-10 02:53:14	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5747.tar	homepage.mac.com-xavier.fouquoire.warc.gz	4948
+xavier.fouquoire	public.me.com	2012-04-10 02:53:12	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5747.tar	public.me.com-xavier.fouquoire.warc.gz	1939
+xavier.fouquoire	web.me.com	2012-04-10 02:53:12	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5747.tar	web.me.com-xavier.fouquoire.warc.gz	14824102

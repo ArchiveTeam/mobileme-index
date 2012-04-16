@@ -1,12 +1,12 @@
-derrenlitten	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	gallery.me.com-derrenlitten.warc.gz	0
-derrenlitten	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	homepage.mac.com-derrenlitten.warc.gz	0
-derrenlitten	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	public.me.com-derrenlitten.warc.gz	0
-derrenlitten	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	web.me.com-derrenlitten.warc.gz	0
-ghaliya	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	gallery.me.com-ghaliya.warc.gz	0
-ghaliya	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	homepage.mac.com-ghaliya.warc.gz	0
-ghaliya	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	public.me.com-ghaliya.warc.gz	0
-ghaliya	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	web.me.com-ghaliya.warc.gz	0
-klaudia_nord	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	gallery.me.com-klaudia_nord.warc.gz	0
-klaudia_nord	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	homepage.mac.com-klaudia_nord.warc.gz	0
-klaudia_nord	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	public.me.com-klaudia_nord.warc.gz	0
-klaudia_nord	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	web.me.com-klaudia_nord.warc.gz	0
+derrenlitten	gallery.me.com	2012-04-01 22:43:23	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	gallery.me.com-derrenlitten.warc.gz	919529396
+derrenlitten	homepage.mac.com	2012-04-01 22:43:24	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	homepage.mac.com-derrenlitten.warc.gz	4931
+derrenlitten	public.me.com	2012-04-01 22:37:17	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	public.me.com-derrenlitten.warc.gz	1924
+derrenlitten	web.me.com	2012-04-01 22:37:17	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	web.me.com-derrenlitten.warc.gz	50533868
+ghaliya	gallery.me.com	2012-04-01 22:35:49	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	gallery.me.com-ghaliya.warc.gz	8353
+ghaliya	homepage.mac.com	2012-04-01 22:35:49	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	homepage.mac.com-ghaliya.warc.gz	5165
+ghaliya	public.me.com	2012-04-01 22:35:48	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	public.me.com-ghaliya.warc.gz	1918
+ghaliya	web.me.com	2012-04-01 22:35:48	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	web.me.com-ghaliya.warc.gz	17718
+klaudia_nord	gallery.me.com	2012-04-01 23:25:55	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	gallery.me.com-klaudia_nord.warc.gz	4256687263
+klaudia_nord	homepage.mac.com	2012-04-01 23:25:57	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	homepage.mac.com-klaudia_nord.warc.gz	104799
+klaudia_nord	public.me.com	2012-04-01 22:47:25	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	public.me.com-klaudia_nord.warc.gz	2529197
+klaudia_nord	web.me.com	2012-04-01 22:47:21	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2778.tar	web.me.com-klaudia_nord.warc.gz	21073332

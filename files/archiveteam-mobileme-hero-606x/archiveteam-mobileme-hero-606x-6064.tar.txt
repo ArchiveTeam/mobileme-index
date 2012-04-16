@@ -1,12 +1,12 @@
-holtsoc	gallery.me.com		archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	gallery.me.com-holtsoc.warc.gz	0
-holtsoc	homepage.mac.com		archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	homepage.mac.com-holtsoc.warc.gz	0
-holtsoc	public.me.com		archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	public.me.com-holtsoc.warc.gz	0
-holtsoc	web.me.com		archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	web.me.com-holtsoc.warc.gz	0
-shampooch	gallery.me.com		archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	gallery.me.com-shampooch.warc.gz	0
-shampooch	homepage.mac.com		archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	homepage.mac.com-shampooch.warc.gz	0
-shampooch	public.me.com		archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	public.me.com-shampooch.warc.gz	0
-shampooch	web.me.com		archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	web.me.com-shampooch.warc.gz	0
-shardin2	gallery.me.com		archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	gallery.me.com-shardin2.warc.gz	0
-shardin2	homepage.mac.com		archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	homepage.mac.com-shardin2.warc.gz	0
-shardin2	public.me.com		archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	public.me.com-shardin2.warc.gz	0
-shardin2	web.me.com		archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	web.me.com-shardin2.warc.gz	0
+holtsoc	gallery.me.com	2012-04-10 20:14:50	archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	gallery.me.com-holtsoc.warc.gz	3930550495
+holtsoc	homepage.mac.com	2012-04-10 20:14:52	archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	homepage.mac.com-holtsoc.warc.gz	4888
+holtsoc	public.me.com	2012-04-10 16:39:35	archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	public.me.com-holtsoc.warc.gz	10853353
+holtsoc	web.me.com	2012-04-10 16:39:22	archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	web.me.com-holtsoc.warc.gz	868080633
+shampooch	gallery.me.com	2012-04-10 14:22:14	archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	gallery.me.com-shampooch.warc.gz	5152
+shampooch	homepage.mac.com	2012-04-10 14:22:14	archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	homepage.mac.com-shampooch.warc.gz	6053
+shampooch	public.me.com	2012-04-10 14:22:13	archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	public.me.com-shampooch.warc.gz	1926
+shampooch	web.me.com	2012-04-10 14:22:12	archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	web.me.com-shampooch.warc.gz	33093
+shardin2	gallery.me.com	2012-04-10 14:22:04	archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	gallery.me.com-shardin2.warc.gz	499459519
+shardin2	homepage.mac.com	2012-04-10 14:22:05	archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	homepage.mac.com-shardin2.warc.gz	4910
+shardin2	public.me.com	2012-04-10 14:10:06	archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	public.me.com-shardin2.warc.gz	1915
+shardin2	web.me.com	2012-04-10 14:10:04	archiveteam-mobileme-hero-606x	archiveteam-mobileme-hero-606x-6064.tar	web.me.com-shardin2.warc.gz	42781551

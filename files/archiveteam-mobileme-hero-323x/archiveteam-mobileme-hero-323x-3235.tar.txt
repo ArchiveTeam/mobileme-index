@@ -1,16 +1,16 @@
-dottiebarrett	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	gallery.me.com-dottiebarrett.warc.gz	0
-dottiebarrett	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	homepage.mac.com-dottiebarrett.warc.gz	0
-dottiebarrett	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	public.me.com-dottiebarrett.warc.gz	0
-dottiebarrett	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	web.me.com-dottiebarrett.warc.gz	0
-ehk23ud1	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	gallery.me.com-ehk23ud1.warc.gz	0
-ehk23ud1	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	homepage.mac.com-ehk23ud1.warc.gz	0
-ehk23ud1	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	public.me.com-ehk23ud1.warc.gz	0
-ehk23ud1	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	web.me.com-ehk23ud1.warc.gz	0
-kentsandiford	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	gallery.me.com-kentsandiford.warc.gz	0
-kentsandiford	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	homepage.mac.com-kentsandiford.warc.gz	0
-kentsandiford	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	public.me.com-kentsandiford.warc.gz	0
-kentsandiford	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	web.me.com-kentsandiford.warc.gz	0
-marinjose	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	gallery.me.com-marinjose.warc.gz	0
-marinjose	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	homepage.mac.com-marinjose.warc.gz	0
-marinjose	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	public.me.com-marinjose.warc.gz	0
-marinjose	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	web.me.com-marinjose.warc.gz	0
+dottiebarrett	gallery.me.com	2012-04-03 01:55:35	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	gallery.me.com-dottiebarrett.warc.gz	4304
+dottiebarrett	homepage.mac.com	2012-04-03 01:56:00	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	homepage.mac.com-dottiebarrett.warc.gz	2964769
+dottiebarrett	public.me.com	2012-04-03 01:55:34	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	public.me.com-dottiebarrett.warc.gz	1934
+dottiebarrett	web.me.com	2012-04-03 01:55:34	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	web.me.com-dottiebarrett.warc.gz	7446
+ehk23ud1	gallery.me.com	2012-04-03 02:24:37	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	gallery.me.com-ehk23ud1.warc.gz	8358
+ehk23ud1	homepage.mac.com	2012-04-03 02:24:37	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	homepage.mac.com-ehk23ud1.warc.gz	5166
+ehk23ud1	public.me.com	2012-04-03 02:24:36	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	public.me.com-ehk23ud1.warc.gz	1916
+ehk23ud1	web.me.com	2012-04-03 02:24:35	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	web.me.com-ehk23ud1.warc.gz	17703
+kentsandiford	gallery.me.com	2012-04-03 02:24:34	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	gallery.me.com-kentsandiford.warc.gz	354114506
+kentsandiford	homepage.mac.com	2012-04-03 02:24:34	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	homepage.mac.com-kentsandiford.warc.gz	4914
+kentsandiford	public.me.com	2012-04-03 02:10:31	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	public.me.com-kentsandiford.warc.gz	1923
+kentsandiford	web.me.com	2012-04-03 02:10:30	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	web.me.com-kentsandiford.warc.gz	323422665
+marinjose	gallery.me.com	2012-04-03 03:57:35	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	gallery.me.com-marinjose.warc.gz	2118022998
+marinjose	homepage.mac.com	2012-04-03 03:57:35	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	homepage.mac.com-marinjose.warc.gz	4907
+marinjose	public.me.com	2012-04-03 03:04:53	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	public.me.com-marinjose.warc.gz	1687031250
+marinjose	web.me.com	2012-04-03 02:40:30	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3235.tar	web.me.com-marinjose.warc.gz	336207840

@@ -1,8 +1,8 @@
-scbreslow	gallery.me.com		archiveteam-mobileme-hero-601x	archiveteam-mobileme-hero-601x-6018.tar	gallery.me.com-scbreslow.warc.gz	0
-scbreslow	homepage.mac.com		archiveteam-mobileme-hero-601x	archiveteam-mobileme-hero-601x-6018.tar	homepage.mac.com-scbreslow.warc.gz	0
-scbreslow	public.me.com		archiveteam-mobileme-hero-601x	archiveteam-mobileme-hero-601x-6018.tar	public.me.com-scbreslow.warc.gz	0
-scbreslow	web.me.com		archiveteam-mobileme-hero-601x	archiveteam-mobileme-hero-601x-6018.tar	web.me.com-scbreslow.warc.gz	0
-sinekart	gallery.me.com		archiveteam-mobileme-hero-601x	archiveteam-mobileme-hero-601x-6018.tar	gallery.me.com-sinekart.warc.gz	0
-sinekart	homepage.mac.com		archiveteam-mobileme-hero-601x	archiveteam-mobileme-hero-601x-6018.tar	homepage.mac.com-sinekart.warc.gz	0
-sinekart	public.me.com		archiveteam-mobileme-hero-601x	archiveteam-mobileme-hero-601x-6018.tar	public.me.com-sinekart.warc.gz	0
-sinekart	web.me.com		archiveteam-mobileme-hero-601x	archiveteam-mobileme-hero-601x-6018.tar	web.me.com-sinekart.warc.gz	0
+scbreslow	gallery.me.com	2012-04-10 17:37:37	archiveteam-mobileme-hero-601x	archiveteam-mobileme-hero-601x-6018.tar	gallery.me.com-scbreslow.warc.gz	5764851864
+scbreslow	homepage.mac.com	2012-04-10 17:37:39	archiveteam-mobileme-hero-601x	archiveteam-mobileme-hero-601x-6018.tar	homepage.mac.com-scbreslow.warc.gz	7841
+scbreslow	public.me.com	2012-04-10 15:25:50	archiveteam-mobileme-hero-601x	archiveteam-mobileme-hero-601x-6018.tar	public.me.com-scbreslow.warc.gz	12985
+scbreslow	web.me.com	2012-04-10 15:25:46	archiveteam-mobileme-hero-601x	archiveteam-mobileme-hero-601x-6018.tar	web.me.com-scbreslow.warc.gz	643716650
+sinekart	gallery.me.com	2012-04-10 14:46:31	archiveteam-mobileme-hero-601x	archiveteam-mobileme-hero-601x-6018.tar	gallery.me.com-sinekart.warc.gz	924962259
+sinekart	homepage.mac.com	2012-04-10 14:46:33	archiveteam-mobileme-hero-601x	archiveteam-mobileme-hero-601x-6018.tar	homepage.mac.com-sinekart.warc.gz	4911
+sinekart	public.me.com	2012-04-10 14:30:37	archiveteam-mobileme-hero-601x	archiveteam-mobileme-hero-601x-6018.tar	public.me.com-sinekart.warc.gz	1917
+sinekart	web.me.com	2012-04-10 14:30:36	archiveteam-mobileme-hero-601x	archiveteam-mobileme-hero-601x-6018.tar	web.me.com-sinekart.warc.gz	35020937

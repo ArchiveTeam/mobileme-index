@@ -1,32 +1,32 @@
-guetter.j	gallery.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	gallery.me.com-guetter.j.warc.gz	0
-guetter.j	homepage.mac.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	homepage.mac.com-guetter.j.warc.gz	0
-guetter.j	public.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	public.me.com-guetter.j.warc.gz	0
-guetter.j	web.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	web.me.com-guetter.j.warc.gz	0
-irusika	gallery.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	gallery.me.com-irusika.warc.gz	0
-irusika	homepage.mac.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	homepage.mac.com-irusika.warc.gz	0
-irusika	public.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	public.me.com-irusika.warc.gz	0
-irusika	web.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	web.me.com-irusika.warc.gz	0
-mariannelhx	gallery.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	gallery.me.com-mariannelhx.warc.gz	0
-mariannelhx	homepage.mac.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	homepage.mac.com-mariannelhx.warc.gz	0
-mariannelhx	public.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	public.me.com-mariannelhx.warc.gz	0
-mariannelhx	web.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	web.me.com-mariannelhx.warc.gz	0
-markslang	gallery.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	gallery.me.com-markslang.warc.gz	0
-markslang	homepage.mac.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	homepage.mac.com-markslang.warc.gz	0
-markslang	public.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	public.me.com-markslang.warc.gz	0
-markslang	web.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	web.me.com-markslang.warc.gz	0
-pequod	gallery.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	gallery.me.com-pequod.warc.gz	0
-pequod	homepage.mac.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	homepage.mac.com-pequod.warc.gz	0
-pequod	public.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	public.me.com-pequod.warc.gz	0
-pequod	web.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	web.me.com-pequod.warc.gz	0
-philletourneau	gallery.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	gallery.me.com-philletourneau.warc.gz	0
-philletourneau	homepage.mac.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	homepage.mac.com-philletourneau.warc.gz	0
-philletourneau	public.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	public.me.com-philletourneau.warc.gz	0
-philletourneau	web.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	web.me.com-philletourneau.warc.gz	0
-tim.olson	gallery.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	gallery.me.com-tim.olson.warc.gz	0
-tim.olson	homepage.mac.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	homepage.mac.com-tim.olson.warc.gz	0
-tim.olson	public.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	public.me.com-tim.olson.warc.gz	0
-tim.olson	web.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	web.me.com-tim.olson.warc.gz	0
-yiwase	gallery.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	gallery.me.com-yiwase.warc.gz	0
-yiwase	homepage.mac.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	homepage.mac.com-yiwase.warc.gz	0
-yiwase	public.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	public.me.com-yiwase.warc.gz	0
-yiwase	web.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	web.me.com-yiwase.warc.gz	0
+guetter.j	gallery.me.com	2012-04-03 01:20:36	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	gallery.me.com-guetter.j.warc.gz	632234031
+guetter.j	homepage.mac.com	2012-04-03 01:20:42	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	homepage.mac.com-guetter.j.warc.gz	486298
+guetter.j	public.me.com	2012-04-03 01:16:08	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	public.me.com-guetter.j.warc.gz	307679109
+guetter.j	web.me.com	2012-04-03 01:04:49	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	web.me.com-guetter.j.warc.gz	139464083
+irusika	gallery.me.com	2012-04-03 00:42:39	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	gallery.me.com-irusika.warc.gz	4232
+irusika	homepage.mac.com	2012-04-03 00:42:39	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	homepage.mac.com-irusika.warc.gz	4892
+irusika	public.me.com	2012-04-03 00:42:38	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	public.me.com-irusika.warc.gz	1912
+irusika	web.me.com	2012-04-03 00:42:38	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	web.me.com-irusika.warc.gz	61671288
+mariannelhx	gallery.me.com	2012-04-03 00:55:01	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	gallery.me.com-mariannelhx.warc.gz	5319
+mariannelhx	homepage.mac.com	2012-04-03 00:55:01	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	homepage.mac.com-mariannelhx.warc.gz	4912
+mariannelhx	public.me.com	2012-04-03 00:55:00	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	public.me.com-mariannelhx.warc.gz	1925
+mariannelhx	web.me.com	2012-04-03 00:54:59	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	web.me.com-mariannelhx.warc.gz	48624571
+markslang	gallery.me.com	2012-04-03 00:39:01	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	gallery.me.com-markslang.warc.gz	4252
+markslang	homepage.mac.com	2012-04-03 00:39:01	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	homepage.mac.com-markslang.warc.gz	4916
+markslang	public.me.com	2012-04-03 00:39:00	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	public.me.com-markslang.warc.gz	1923
+markslang	web.me.com	2012-04-03 00:39:00	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	web.me.com-markslang.warc.gz	1560827
+pequod	gallery.me.com	2012-04-03 00:38:16	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	gallery.me.com-pequod.warc.gz	989254133
+pequod	homepage.mac.com	2012-04-03 00:38:20	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	homepage.mac.com-pequod.warc.gz	73998
+pequod	public.me.com	2012-04-03 00:15:16	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	public.me.com-pequod.warc.gz	121597601
+pequod	web.me.com	2012-04-03 00:14:32	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	web.me.com-pequod.warc.gz	6433599
+philletourneau	gallery.me.com	2012-04-03 02:14:26	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	gallery.me.com-philletourneau.warc.gz	4189540586
+philletourneau	homepage.mac.com	2012-04-03 02:14:28	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	homepage.mac.com-philletourneau.warc.gz	3417
+philletourneau	public.me.com	2012-04-03 01:43:51	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	public.me.com-philletourneau.warc.gz	413874237
+philletourneau	web.me.com	2012-04-03 01:34:47	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	web.me.com-philletourneau.warc.gz	167249682
+tim.olson	gallery.me.com	2012-04-03 00:44:54	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	gallery.me.com-tim.olson.warc.gz	9559278
+tim.olson	homepage.mac.com	2012-04-03 00:44:57	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	homepage.mac.com-tim.olson.warc.gz	72271
+tim.olson	public.me.com	2012-04-03 00:44:49	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	public.me.com-tim.olson.warc.gz	145673396
+tim.olson	web.me.com	2012-04-03 00:43:28	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	web.me.com-tim.olson.warc.gz	10662471
+yiwase	gallery.me.com	2012-04-03 00:42:43	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	gallery.me.com-yiwase.warc.gz	8333
+yiwase	homepage.mac.com	2012-04-03 00:42:43	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	homepage.mac.com-yiwase.warc.gz	5155
+yiwase	public.me.com	2012-04-03 00:42:42	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	public.me.com-yiwase.warc.gz	1914
+yiwase	web.me.com	2012-04-03 00:42:41	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3200.tar	web.me.com-yiwase.warc.gz	17657

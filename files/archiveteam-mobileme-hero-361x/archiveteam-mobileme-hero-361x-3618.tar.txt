@@ -1,12 +1,12 @@
-ale.vivi	gallery.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	gallery.me.com-ale.vivi.warc.gz	0
-ale.vivi	homepage.mac.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	homepage.mac.com-ale.vivi.warc.gz	0
-ale.vivi	public.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	public.me.com-ale.vivi.warc.gz	0
-ale.vivi	web.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	web.me.com-ale.vivi.warc.gz	0
-annaira	gallery.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	gallery.me.com-annaira.warc.gz	0
-annaira	homepage.mac.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	homepage.mac.com-annaira.warc.gz	0
-annaira	public.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	public.me.com-annaira.warc.gz	0
-annaira	web.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	web.me.com-annaira.warc.gz	0
-dsmoote	gallery.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	gallery.me.com-dsmoote.warc.gz	0
-dsmoote	homepage.mac.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	homepage.mac.com-dsmoote.warc.gz	0
-dsmoote	public.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	public.me.com-dsmoote.warc.gz	0
-dsmoote	web.me.com		archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	web.me.com-dsmoote.warc.gz	0
+ale.vivi	gallery.me.com	2012-04-03 23:56:49	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	gallery.me.com-ale.vivi.warc.gz	2640875094
+ale.vivi	homepage.mac.com	2012-04-03 23:56:50	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	homepage.mac.com-ale.vivi.warc.gz	4911
+ale.vivi	public.me.com	2012-04-03 23:06:38	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	public.me.com-ale.vivi.warc.gz	76258481
+ale.vivi	web.me.com	2012-04-03 23:05:45	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	web.me.com-ale.vivi.warc.gz	1827573041
+annaira	gallery.me.com	2012-04-03 21:55:19	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	gallery.me.com-annaira.warc.gz	4257
+annaira	homepage.mac.com	2012-04-03 21:55:19	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	homepage.mac.com-annaira.warc.gz	4901
+annaira	public.me.com	2012-04-03 21:55:18	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	public.me.com-annaira.warc.gz	1907
+annaira	web.me.com	2012-04-03 21:55:18	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	web.me.com-annaira.warc.gz	43554670
+dsmoote	gallery.me.com	2012-04-03 21:41:22	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	gallery.me.com-dsmoote.warc.gz	17199067
+dsmoote	homepage.mac.com	2012-04-03 21:41:22	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	homepage.mac.com-dsmoote.warc.gz	4900
+dsmoote	public.me.com	2012-04-03 21:41:13	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	public.me.com-dsmoote.warc.gz	29362288
+dsmoote	web.me.com	2012-04-03 21:40:59	archiveteam-mobileme-hero-361x	archiveteam-mobileme-hero-361x-3618.tar	web.me.com-dsmoote.warc.gz	53219200

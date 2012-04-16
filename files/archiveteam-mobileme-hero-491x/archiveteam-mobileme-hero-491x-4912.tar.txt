@@ -1,12 +1,12 @@
-chelle.king	gallery.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	gallery.me.com-chelle.king.warc.gz	0
-chelle.king	homepage.mac.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	homepage.mac.com-chelle.king.warc.gz	0
-chelle.king	public.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	public.me.com-chelle.king.warc.gz	0
-chelle.king	web.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	web.me.com-chelle.king.warc.gz	0
-patrickpoels	gallery.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	gallery.me.com-patrickpoels.warc.gz	0
-patrickpoels	homepage.mac.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	homepage.mac.com-patrickpoels.warc.gz	0
-patrickpoels	public.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	public.me.com-patrickpoels.warc.gz	0
-patrickpoels	web.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	web.me.com-patrickpoels.warc.gz	0
-payote	gallery.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	gallery.me.com-payote.warc.gz	0
-payote	homepage.mac.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	homepage.mac.com-payote.warc.gz	0
-payote	public.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	public.me.com-payote.warc.gz	0
-payote	web.me.com		archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	web.me.com-payote.warc.gz	0
+chelle.king	gallery.me.com	2012-04-07 15:30:52	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	gallery.me.com-chelle.king.warc.gz	74644972
+chelle.king	homepage.mac.com	2012-04-07 15:30:52	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	homepage.mac.com-chelle.king.warc.gz	4920
+chelle.king	public.me.com	2012-04-07 15:24:25	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	public.me.com-chelle.king.warc.gz	403645435
+chelle.king	web.me.com	2012-04-07 15:13:06	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	web.me.com-chelle.king.warc.gz	176680607
+patrickpoels	gallery.me.com	2012-04-07 17:51:02	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	gallery.me.com-patrickpoels.warc.gz	1118910034
+patrickpoels	homepage.mac.com	2012-04-07 17:51:03	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	homepage.mac.com-patrickpoels.warc.gz	4920
+patrickpoels	public.me.com	2012-04-07 17:04:09	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	public.me.com-patrickpoels.warc.gz	1926
+patrickpoels	web.me.com	2012-04-07 17:04:07	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	web.me.com-patrickpoels.warc.gz	579780091
+payote	gallery.me.com	2012-04-07 14:23:07	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	gallery.me.com-payote.warc.gz	1824975688
+payote	homepage.mac.com	2012-04-07 14:23:15	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	homepage.mac.com-payote.warc.gz	95166
+payote	public.me.com	2012-04-07 13:33:14	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	public.me.com-payote.warc.gz	15315
+payote	web.me.com	2012-04-07 13:33:12	archiveteam-mobileme-hero-491x	archiveteam-mobileme-hero-491x-4912.tar	web.me.com-payote.warc.gz	177581012

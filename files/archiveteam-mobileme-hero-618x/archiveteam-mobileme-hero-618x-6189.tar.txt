@@ -1,12 +1,12 @@
-acarvajal	gallery.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	gallery.me.com-acarvajal.warc.gz	0
-acarvajal	homepage.mac.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	homepage.mac.com-acarvajal.warc.gz	0
-acarvajal	public.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	public.me.com-acarvajal.warc.gz	0
-acarvajal	web.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	web.me.com-acarvajal.warc.gz	0
-darthfrosty	gallery.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	gallery.me.com-darthfrosty.warc.gz	0
-darthfrosty	homepage.mac.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	homepage.mac.com-darthfrosty.warc.gz	0
-darthfrosty	public.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	public.me.com-darthfrosty.warc.gz	0
-darthfrosty	web.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	web.me.com-darthfrosty.warc.gz	0
-leoscurls	gallery.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	gallery.me.com-leoscurls.warc.gz	0
-leoscurls	homepage.mac.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	homepage.mac.com-leoscurls.warc.gz	0
-leoscurls	public.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	public.me.com-leoscurls.warc.gz	0
-leoscurls	web.me.com		archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	web.me.com-leoscurls.warc.gz	0
+acarvajal	gallery.me.com	2012-04-11 03:48:30	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	gallery.me.com-acarvajal.warc.gz	6979
+acarvajal	homepage.mac.com	2012-04-11 03:48:30	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	homepage.mac.com-acarvajal.warc.gz	6062
+acarvajal	public.me.com	2012-04-11 03:48:28	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	public.me.com-acarvajal.warc.gz	6479188681
+acarvajal	web.me.com	2012-04-11 00:37:34	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	web.me.com-acarvajal.warc.gz	71029
+darthfrosty	gallery.me.com	2012-04-11 00:37:27	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	gallery.me.com-darthfrosty.warc.gz	319316279
+darthfrosty	homepage.mac.com	2012-04-11 00:37:28	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	homepage.mac.com-darthfrosty.warc.gz	7902
+darthfrosty	public.me.com	2012-04-11 00:19:53	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	public.me.com-darthfrosty.warc.gz	1926
+darthfrosty	web.me.com	2012-04-11 00:19:51	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	web.me.com-darthfrosty.warc.gz	355277666
+leoscurls	gallery.me.com	2012-04-11 00:00:35	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	gallery.me.com-leoscurls.warc.gz	19284537
+leoscurls	homepage.mac.com	2012-04-11 00:00:36	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	homepage.mac.com-leoscurls.warc.gz	4922
+leoscurls	public.me.com	2012-04-10 23:59:41	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	public.me.com-leoscurls.warc.gz	3159492
+leoscurls	web.me.com	2012-04-10 23:59:30	archiveteam-mobileme-hero-618x	archiveteam-mobileme-hero-618x-6189.tar	web.me.com-leoscurls.warc.gz	1882667

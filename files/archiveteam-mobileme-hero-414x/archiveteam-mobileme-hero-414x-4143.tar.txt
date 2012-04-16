@@ -1,16 +1,16 @@
-elementarts	gallery.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	gallery.me.com-elementarts.warc.gz	0
-elementarts	homepage.mac.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	homepage.mac.com-elementarts.warc.gz	0
-elementarts	public.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	public.me.com-elementarts.warc.gz	0
-elementarts	web.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	web.me.com-elementarts.warc.gz	0
-janet.harwood	gallery.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	gallery.me.com-janet.harwood.warc.gz	0
-janet.harwood	homepage.mac.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	homepage.mac.com-janet.harwood.warc.gz	0
-janet.harwood	public.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	public.me.com-janet.harwood.warc.gz	0
-janet.harwood	web.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	web.me.com-janet.harwood.warc.gz	0
-m.s.w	gallery.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	gallery.me.com-m.s.w.warc.gz	0
-m.s.w	homepage.mac.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	homepage.mac.com-m.s.w.warc.gz	0
-m.s.w	public.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	public.me.com-m.s.w.warc.gz	0
-m.s.w	web.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	web.me.com-m.s.w.warc.gz	0
-simakaze1	gallery.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	gallery.me.com-simakaze1.warc.gz	0
-simakaze1	homepage.mac.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	homepage.mac.com-simakaze1.warc.gz	0
-simakaze1	public.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	public.me.com-simakaze1.warc.gz	0
-simakaze1	web.me.com		archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	web.me.com-simakaze1.warc.gz	0
+elementarts	gallery.me.com	2012-04-05 07:21:05	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	gallery.me.com-elementarts.warc.gz	4990
+elementarts	homepage.mac.com	2012-04-05 07:21:05	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	homepage.mac.com-elementarts.warc.gz	4904
+elementarts	public.me.com	2012-04-05 07:21:04	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	public.me.com-elementarts.warc.gz	4015
+elementarts	web.me.com	2012-04-05 07:20:51	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	web.me.com-elementarts.warc.gz	6605102837
+janet.harwood	gallery.me.com	2012-04-05 05:29:07	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	gallery.me.com-janet.harwood.warc.gz	5341595
+janet.harwood	homepage.mac.com	2012-04-05 05:29:07	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	homepage.mac.com-janet.harwood.warc.gz	4927
+janet.harwood	public.me.com	2012-04-05 05:28:55	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	public.me.com-janet.harwood.warc.gz	1932
+janet.harwood	web.me.com	2012-04-05 05:28:55	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	web.me.com-janet.harwood.warc.gz	7313219
+m.s.w	gallery.me.com	2012-04-05 05:35:32	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	gallery.me.com-m.s.w.warc.gz	114147442
+m.s.w	homepage.mac.com	2012-04-05 05:36:10	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	homepage.mac.com-m.s.w.warc.gz	869600
+m.s.w	public.me.com	2012-04-05 05:32:18	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	public.me.com-m.s.w.warc.gz	3362
+m.s.w	web.me.com	2012-04-05 05:32:16	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	web.me.com-m.s.w.warc.gz	12103204
+simakaze1	gallery.me.com	2012-04-05 05:28:02	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	gallery.me.com-simakaze1.warc.gz	8356
+simakaze1	homepage.mac.com	2012-04-05 05:28:04	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	homepage.mac.com-simakaze1.warc.gz	5153
+simakaze1	public.me.com	2012-04-05 05:28:02	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	public.me.com-simakaze1.warc.gz	1923
+simakaze1	web.me.com	2012-04-05 05:28:01	archiveteam-mobileme-hero-414x	archiveteam-mobileme-hero-414x-4143.tar	web.me.com-simakaze1.warc.gz	17724

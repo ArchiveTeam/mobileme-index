@@ -1,8 +1,8 @@
-bubbledave	gallery.me.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2155.tar	gallery.me.com-bubbledave.warc.gz	0
-bubbledave	homepage.mac.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2155.tar	homepage.mac.com-bubbledave.warc.gz	0
-bubbledave	public.me.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2155.tar	public.me.com-bubbledave.warc.gz	0
-bubbledave	web.me.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2155.tar	web.me.com-bubbledave.warc.gz	0
-oaxaca3	gallery.me.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2155.tar	gallery.me.com-oaxaca3.warc.gz	0
-oaxaca3	homepage.mac.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2155.tar	homepage.mac.com-oaxaca3.warc.gz	0
-oaxaca3	public.me.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2155.tar	public.me.com-oaxaca3.warc.gz	0
-oaxaca3	web.me.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2155.tar	web.me.com-oaxaca3.warc.gz	0
+bubbledave	gallery.me.com	2012-03-30 14:26:29	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2155.tar	gallery.me.com-bubbledave.warc.gz	1569858720
+bubbledave	homepage.mac.com	2012-03-30 14:26:30	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2155.tar	homepage.mac.com-bubbledave.warc.gz	7808
+bubbledave	public.me.com	2012-03-30 14:12:01	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2155.tar	public.me.com-bubbledave.warc.gz	5949163053
+bubbledave	web.me.com	2012-03-30 12:51:24	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2155.tar	web.me.com-bubbledave.warc.gz	193023584
+oaxaca3	gallery.me.com	2012-03-30 12:20:33	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2155.tar	gallery.me.com-oaxaca3.warc.gz	234693572
+oaxaca3	homepage.mac.com	2012-03-30 12:20:42	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2155.tar	homepage.mac.com-oaxaca3.warc.gz	1042293
+oaxaca3	public.me.com	2012-03-30 12:12:21	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2155.tar	public.me.com-oaxaca3.warc.gz	1910
+oaxaca3	web.me.com	2012-03-30 12:12:20	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2155.tar	web.me.com-oaxaca3.warc.gz	168705704

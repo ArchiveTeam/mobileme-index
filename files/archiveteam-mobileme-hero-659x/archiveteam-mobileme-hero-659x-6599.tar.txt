@@ -1,8 +1,8 @@
-andoro	gallery.me.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6599.tar	gallery.me.com-andoro.warc.gz	0
-andoro	homepage.mac.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6599.tar	homepage.mac.com-andoro.warc.gz	0
-andoro	public.me.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6599.tar	public.me.com-andoro.warc.gz	0
-andoro	web.me.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6599.tar	web.me.com-andoro.warc.gz	0
-griffincogorno	gallery.me.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6599.tar	gallery.me.com-griffincogorno.warc.gz	0
-griffincogorno	homepage.mac.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6599.tar	homepage.mac.com-griffincogorno.warc.gz	0
-griffincogorno	public.me.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6599.tar	public.me.com-griffincogorno.warc.gz	0
-griffincogorno	web.me.com		archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6599.tar	web.me.com-griffincogorno.warc.gz	0
+andoro	gallery.me.com	2012-04-12 05:10:59	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6599.tar	gallery.me.com-andoro.warc.gz	5010
+andoro	homepage.mac.com	2012-04-12 05:11:27	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6599.tar	homepage.mac.com-andoro.warc.gz	718506
+andoro	public.me.com	2012-04-12 05:10:58	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6599.tar	public.me.com-andoro.warc.gz	6167258476
+andoro	web.me.com	2012-04-12 03:24:03	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6599.tar	web.me.com-andoro.warc.gz	949616723
+griffincogorno	gallery.me.com	2012-04-12 02:20:48	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6599.tar	gallery.me.com-griffincogorno.warc.gz	409068044
+griffincogorno	homepage.mac.com	2012-04-12 02:20:49	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6599.tar	homepage.mac.com-griffincogorno.warc.gz	4920
+griffincogorno	public.me.com	2012-04-12 01:17:45	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6599.tar	public.me.com-griffincogorno.warc.gz	5038997
+griffincogorno	web.me.com	2012-04-12 01:17:30	archiveteam-mobileme-hero-659x	archiveteam-mobileme-hero-659x-6599.tar	web.me.com-griffincogorno.warc.gz	121132640

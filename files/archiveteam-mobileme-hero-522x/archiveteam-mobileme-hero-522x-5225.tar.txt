@@ -1,12 +1,12 @@
-knosis	gallery.me.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	gallery.me.com-knosis.warc.gz	0
-knosis	homepage.mac.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	homepage.mac.com-knosis.warc.gz	0
-knosis	public.me.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	public.me.com-knosis.warc.gz	0
-knosis	web.me.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	web.me.com-knosis.warc.gz	0
-neelsdeconing1	gallery.me.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	gallery.me.com-neelsdeconing1.warc.gz	0
-neelsdeconing1	homepage.mac.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	homepage.mac.com-neelsdeconing1.warc.gz	0
-neelsdeconing1	public.me.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	public.me.com-neelsdeconing1.warc.gz	0
-neelsdeconing1	web.me.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	web.me.com-neelsdeconing1.warc.gz	0
-tony_itools	gallery.me.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	gallery.me.com-tony_itools.warc.gz	0
-tony_itools	homepage.mac.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	homepage.mac.com-tony_itools.warc.gz	0
-tony_itools	public.me.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	public.me.com-tony_itools.warc.gz	0
-tony_itools	web.me.com		archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	web.me.com-tony_itools.warc.gz	0
+knosis	gallery.me.com	2012-04-08 22:19:16	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	gallery.me.com-knosis.warc.gz	2227412269
+knosis	homepage.mac.com	2012-04-08 22:19:16	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	homepage.mac.com-knosis.warc.gz	4902
+knosis	public.me.com	2012-04-08 21:57:39	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	public.me.com-knosis.warc.gz	1915
+knosis	web.me.com	2012-04-08 21:57:38	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	web.me.com-knosis.warc.gz	55026584
+neelsdeconing1	gallery.me.com	2012-04-08 22:48:19	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	gallery.me.com-neelsdeconing1.warc.gz	4305
+neelsdeconing1	homepage.mac.com	2012-04-08 22:48:20	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	homepage.mac.com-neelsdeconing1.warc.gz	7888
+neelsdeconing1	public.me.com	2012-04-08 22:48:18	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	public.me.com-neelsdeconing1.warc.gz	2536812188
+neelsdeconing1	web.me.com	2012-04-08 22:19:34	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	web.me.com-neelsdeconing1.warc.gz	7830
+tony_itools	gallery.me.com	2012-04-08 21:49:27	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	gallery.me.com-tony_itools.warc.gz	5044
+tony_itools	homepage.mac.com	2012-04-08 21:50:48	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	homepage.mac.com-tony_itools.warc.gz	4288963
+tony_itools	public.me.com	2012-04-08 21:49:22	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	public.me.com-tony_itools.warc.gz	925631
+tony_itools	web.me.com	2012-04-08 21:49:15	archiveteam-mobileme-hero-522x	archiveteam-mobileme-hero-522x-5225.tar	web.me.com-tony_itools.warc.gz	3538838

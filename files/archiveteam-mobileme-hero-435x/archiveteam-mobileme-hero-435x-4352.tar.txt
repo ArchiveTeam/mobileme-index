@@ -1,8 +1,8 @@
-bobbigstone	gallery.me.com		archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4352.tar	gallery.me.com-bobbigstone.warc.gz	0
-bobbigstone	homepage.mac.com		archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4352.tar	homepage.mac.com-bobbigstone.warc.gz	0
-bobbigstone	public.me.com		archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4352.tar	public.me.com-bobbigstone.warc.gz	0
-bobbigstone	web.me.com		archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4352.tar	web.me.com-bobbigstone.warc.gz	0
-ichinoya	gallery.me.com		archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4352.tar	gallery.me.com-ichinoya.warc.gz	0
-ichinoya	homepage.mac.com		archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4352.tar	homepage.mac.com-ichinoya.warc.gz	0
-ichinoya	public.me.com		archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4352.tar	public.me.com-ichinoya.warc.gz	0
-ichinoya	web.me.com		archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4352.tar	web.me.com-ichinoya.warc.gz	0
+bobbigstone	gallery.me.com	2012-04-05 18:43:06	archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4352.tar	gallery.me.com-bobbigstone.warc.gz	1318732576
+bobbigstone	homepage.mac.com	2012-04-05 18:43:14	archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4352.tar	homepage.mac.com-bobbigstone.warc.gz	83003
+bobbigstone	public.me.com	2012-04-05 18:11:20	archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4352.tar	public.me.com-bobbigstone.warc.gz	4788535994
+bobbigstone	web.me.com	2012-04-05 16:27:59	archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4352.tar	web.me.com-bobbigstone.warc.gz	194158513
+ichinoya	gallery.me.com	2012-04-05 16:04:12	archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4352.tar	gallery.me.com-ichinoya.warc.gz	4269
+ichinoya	homepage.mac.com	2012-04-05 16:04:17	archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4352.tar	homepage.mac.com-ichinoya.warc.gz	71420
+ichinoya	public.me.com	2012-04-05 16:04:11	archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4352.tar	public.me.com-ichinoya.warc.gz	24206
+ichinoya	web.me.com	2012-04-05 16:04:10	archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4352.tar	web.me.com-ichinoya.warc.gz	3621933

@@ -1,8 +1,8 @@
-tloewy	gallery.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2601.tar	gallery.me.com-tloewy.warc.gz	0
-tloewy	homepage.mac.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2601.tar	homepage.mac.com-tloewy.warc.gz	0
-tloewy	public.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2601.tar	public.me.com-tloewy.warc.gz	0
-tloewy	web.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2601.tar	web.me.com-tloewy.warc.gz	0
-tylerchapen	gallery.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2601.tar	gallery.me.com-tylerchapen.warc.gz	0
-tylerchapen	homepage.mac.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2601.tar	homepage.mac.com-tylerchapen.warc.gz	0
-tylerchapen	public.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2601.tar	public.me.com-tylerchapen.warc.gz	0
-tylerchapen	web.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2601.tar	web.me.com-tylerchapen.warc.gz	0
+tloewy	gallery.me.com	2012-04-01 04:28:14	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2601.tar	gallery.me.com-tloewy.warc.gz	5017
+tloewy	homepage.mac.com	2012-04-01 04:28:14	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2601.tar	homepage.mac.com-tloewy.warc.gz	4900
+tloewy	public.me.com	2012-04-01 04:28:13	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2601.tar	public.me.com-tloewy.warc.gz	1917
+tloewy	web.me.com	2012-04-01 04:28:07	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2601.tar	web.me.com-tloewy.warc.gz	919981771
+tylerchapen	gallery.me.com	2012-04-01 05:28:08	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2601.tar	gallery.me.com-tylerchapen.warc.gz	2531153629
+tylerchapen	homepage.mac.com	2012-04-01 05:28:11	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2601.tar	homepage.mac.com-tylerchapen.warc.gz	322098
+tylerchapen	public.me.com	2012-04-01 05:14:25	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2601.tar	public.me.com-tylerchapen.warc.gz	903999974
+tylerchapen	web.me.com	2012-04-01 05:02:55	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2601.tar	web.me.com-tylerchapen.warc.gz	2107002317

@@ -1,12 +1,12 @@
-socalbowling	gallery.me.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	gallery.me.com-socalbowling.warc.gz	0
-socalbowling	homepage.mac.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	homepage.mac.com-socalbowling.warc.gz	0
-socalbowling	public.me.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	public.me.com-socalbowling.warc.gz	0
-socalbowling	web.me.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	web.me.com-socalbowling.warc.gz	0
-steven.falk	gallery.me.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	gallery.me.com-steven.falk.warc.gz	0
-steven.falk	homepage.mac.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	homepage.mac.com-steven.falk.warc.gz	0
-steven.falk	public.me.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	public.me.com-steven.falk.warc.gz	0
-steven.falk	web.me.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	web.me.com-steven.falk.warc.gz	0
-svib	gallery.me.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	gallery.me.com-svib.warc.gz	0
-svib	homepage.mac.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	homepage.mac.com-svib.warc.gz	0
-svib	public.me.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	public.me.com-svib.warc.gz	0
-svib	web.me.com		archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	web.me.com-svib.warc.gz	0
+socalbowling	gallery.me.com	2012-04-07 19:28:57	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	gallery.me.com-socalbowling.warc.gz	3853503447
+socalbowling	homepage.mac.com	2012-04-07 19:29:00	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	homepage.mac.com-socalbowling.warc.gz	79034
+socalbowling	public.me.com	2012-04-07 18:13:02	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	public.me.com-socalbowling.warc.gz	1924
+socalbowling	web.me.com	2012-04-07 18:13:00	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	web.me.com-socalbowling.warc.gz	338153175
+steven.falk	gallery.me.com	2012-04-07 19:57:41	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	gallery.me.com-steven.falk.warc.gz	806132521
+steven.falk	homepage.mac.com	2012-04-07 19:57:41	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	homepage.mac.com-steven.falk.warc.gz	4933
+steven.falk	public.me.com	2012-04-07 19:34:36	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	public.me.com-steven.falk.warc.gz	1926
+steven.falk	web.me.com	2012-04-07 19:34:36	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	web.me.com-steven.falk.warc.gz	40208262
+svib	gallery.me.com	2012-04-07 17:55:47	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	gallery.me.com-svib.warc.gz	7805
+svib	homepage.mac.com	2012-04-07 17:55:47	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	homepage.mac.com-svib.warc.gz	4877
+svib	public.me.com	2012-04-07 17:55:45	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	public.me.com-svib.warc.gz	1908
+svib	web.me.com	2012-04-07 17:55:45	archiveteam-mobileme-hero-494x	archiveteam-mobileme-hero-494x-4949.tar	web.me.com-svib.warc.gz	1933899

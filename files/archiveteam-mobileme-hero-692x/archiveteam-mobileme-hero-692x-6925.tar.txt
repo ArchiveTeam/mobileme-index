@@ -1,8 +1,8 @@
-appleren	gallery.me.com		archiveteam-mobileme-hero-692x	archiveteam-mobileme-hero-692x-6925.tar	gallery.me.com-appleren.warc.gz	0
-appleren	homepage.mac.com		archiveteam-mobileme-hero-692x	archiveteam-mobileme-hero-692x-6925.tar	homepage.mac.com-appleren.warc.gz	0
-appleren	public.me.com		archiveteam-mobileme-hero-692x	archiveteam-mobileme-hero-692x-6925.tar	public.me.com-appleren.warc.gz	0
-appleren	web.me.com		archiveteam-mobileme-hero-692x	archiveteam-mobileme-hero-692x-6925.tar	web.me.com-appleren.warc.gz	0
-ggottleib	gallery.me.com		archiveteam-mobileme-hero-692x	archiveteam-mobileme-hero-692x-6925.tar	gallery.me.com-ggottleib.warc.gz	0
-ggottleib	homepage.mac.com		archiveteam-mobileme-hero-692x	archiveteam-mobileme-hero-692x-6925.tar	homepage.mac.com-ggottleib.warc.gz	0
-ggottleib	public.me.com		archiveteam-mobileme-hero-692x	archiveteam-mobileme-hero-692x-6925.tar	public.me.com-ggottleib.warc.gz	0
-ggottleib	web.me.com		archiveteam-mobileme-hero-692x	archiveteam-mobileme-hero-692x-6925.tar	web.me.com-ggottleib.warc.gz	0
+appleren	gallery.me.com	2012-04-12 16:54:45	archiveteam-mobileme-hero-692x	archiveteam-mobileme-hero-692x-6925.tar	gallery.me.com-appleren.warc.gz	5768
+appleren	homepage.mac.com	2012-04-12 16:54:45	archiveteam-mobileme-hero-692x	archiveteam-mobileme-hero-692x-6925.tar	homepage.mac.com-appleren.warc.gz	4903
+appleren	public.me.com	2012-04-12 16:54:44	archiveteam-mobileme-hero-692x	archiveteam-mobileme-hero-692x-6925.tar	public.me.com-appleren.warc.gz	1910
+appleren	web.me.com	2012-04-12 16:54:43	archiveteam-mobileme-hero-692x	archiveteam-mobileme-hero-692x-6925.tar	web.me.com-appleren.warc.gz	83368973
+ggottleib	gallery.me.com	2012-04-12 18:59:53	archiveteam-mobileme-hero-692x	archiveteam-mobileme-hero-692x-6925.tar	gallery.me.com-ggottleib.warc.gz	485328309
+ggottleib	homepage.mac.com	2012-04-12 18:59:56	archiveteam-mobileme-hero-692x	archiveteam-mobileme-hero-692x-6925.tar	homepage.mac.com-ggottleib.warc.gz	69165
+ggottleib	public.me.com	2012-04-12 18:55:15	archiveteam-mobileme-hero-692x	archiveteam-mobileme-hero-692x-6925.tar	public.me.com-ggottleib.warc.gz	5101342934
+ggottleib	web.me.com	2012-04-12 16:57:02	archiveteam-mobileme-hero-692x	archiveteam-mobileme-hero-692x-6925.tar	web.me.com-ggottleib.warc.gz	17720978

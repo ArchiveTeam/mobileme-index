@@ -1,32 +1,32 @@
-david.ackers	gallery.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	gallery.me.com-david.ackers.warc.gz	0
-david.ackers	homepage.mac.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	homepage.mac.com-david.ackers.warc.gz	0
-david.ackers	public.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	public.me.com-david.ackers.warc.gz	0
-david.ackers	web.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	web.me.com-david.ackers.warc.gz	0
-gonzalez.patrick	gallery.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	gallery.me.com-gonzalez.patrick.warc.gz	0
-gonzalez.patrick	homepage.mac.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	homepage.mac.com-gonzalez.patrick.warc.gz	0
-gonzalez.patrick	public.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	public.me.com-gonzalez.patrick.warc.gz	0
-gonzalez.patrick	web.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	web.me.com-gonzalez.patrick.warc.gz	0
-jennymayers	gallery.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	gallery.me.com-jennymayers.warc.gz	0
-jennymayers	homepage.mac.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	homepage.mac.com-jennymayers.warc.gz	0
-jennymayers	public.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	public.me.com-jennymayers.warc.gz	0
-jennymayers	web.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	web.me.com-jennymayers.warc.gz	0
-marcwerner	gallery.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	gallery.me.com-marcwerner.warc.gz	0
-marcwerner	homepage.mac.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	homepage.mac.com-marcwerner.warc.gz	0
-marcwerner	public.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	public.me.com-marcwerner.warc.gz	0
-marcwerner	web.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	web.me.com-marcwerner.warc.gz	0
-matt.cottrell	gallery.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	gallery.me.com-matt.cottrell.warc.gz	0
-matt.cottrell	homepage.mac.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	homepage.mac.com-matt.cottrell.warc.gz	0
-matt.cottrell	public.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	public.me.com-matt.cottrell.warc.gz	0
-matt.cottrell	web.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	web.me.com-matt.cottrell.warc.gz	0
-megaranmorris	gallery.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	gallery.me.com-megaranmorris.warc.gz	0
-megaranmorris	homepage.mac.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	homepage.mac.com-megaranmorris.warc.gz	0
-megaranmorris	public.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	public.me.com-megaranmorris.warc.gz	0
-megaranmorris	web.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	web.me.com-megaranmorris.warc.gz	0
-petersonrw	gallery.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	gallery.me.com-petersonrw.warc.gz	0
-petersonrw	homepage.mac.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	homepage.mac.com-petersonrw.warc.gz	0
-petersonrw	public.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	public.me.com-petersonrw.warc.gz	0
-petersonrw	web.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	web.me.com-petersonrw.warc.gz	0
-visualg	gallery.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	gallery.me.com-visualg.warc.gz	0
-visualg	homepage.mac.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	homepage.mac.com-visualg.warc.gz	0
-visualg	public.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	public.me.com-visualg.warc.gz	0
-visualg	web.me.com		archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	web.me.com-visualg.warc.gz	0
+david.ackers	gallery.me.com	2012-04-04 05:35:30	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	gallery.me.com-david.ackers.warc.gz	4170499400
+david.ackers	homepage.mac.com	2012-04-04 05:35:30	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	homepage.mac.com-david.ackers.warc.gz	4938
+david.ackers	public.me.com	2012-04-04 03:04:55	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	public.me.com-david.ackers.warc.gz	1927
+david.ackers	web.me.com	2012-04-04 03:04:51	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	web.me.com-david.ackers.warc.gz	283515737
+gonzalez.patrick	gallery.me.com	2012-04-04 01:31:13	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	gallery.me.com-gonzalez.patrick.warc.gz	5069
+gonzalez.patrick	homepage.mac.com	2012-04-04 01:31:16	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	homepage.mac.com-gonzalez.patrick.warc.gz	73530
+gonzalez.patrick	public.me.com	2012-04-04 01:31:12	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	public.me.com-gonzalez.patrick.warc.gz	28187426
+gonzalez.patrick	web.me.com	2012-04-04 01:29:48	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	web.me.com-gonzalez.patrick.warc.gz	162072946
+jennymayers	gallery.me.com	2012-04-04 02:12:44	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	gallery.me.com-jennymayers.warc.gz	5685
+jennymayers	homepage.mac.com	2012-04-04 02:12:44	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	homepage.mac.com-jennymayers.warc.gz	4919
+jennymayers	public.me.com	2012-04-04 02:12:43	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	public.me.com-jennymayers.warc.gz	1918
+jennymayers	web.me.com	2012-04-04 02:12:40	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	web.me.com-jennymayers.warc.gz	438749254
+marcwerner	gallery.me.com	2012-04-04 01:37:56	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	gallery.me.com-marcwerner.warc.gz	114706308
+marcwerner	homepage.mac.com	2012-04-04 01:37:57	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	homepage.mac.com-marcwerner.warc.gz	4915
+marcwerner	public.me.com	2012-04-04 01:31:45	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	public.me.com-marcwerner.warc.gz	69947
+marcwerner	web.me.com	2012-04-04 01:31:43	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	web.me.com-marcwerner.warc.gz	1147420
+matt.cottrell	gallery.me.com	2012-04-04 02:21:54	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	gallery.me.com-matt.cottrell.warc.gz	101578473
+matt.cottrell	homepage.mac.com	2012-04-04 02:21:54	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	homepage.mac.com-matt.cottrell.warc.gz	3389
+matt.cottrell	public.me.com	2012-04-04 02:20:31	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	public.me.com-matt.cottrell.warc.gz	1922
+matt.cottrell	web.me.com	2012-04-04 02:20:29	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	web.me.com-matt.cottrell.warc.gz	476613092
+megaranmorris	gallery.me.com	2012-04-04 01:59:44	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	gallery.me.com-megaranmorris.warc.gz	355487109
+megaranmorris	homepage.mac.com	2012-04-04 01:59:44	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	homepage.mac.com-megaranmorris.warc.gz	4938
+megaranmorris	public.me.com	2012-04-04 01:53:18	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	public.me.com-megaranmorris.warc.gz	1927
+megaranmorris	web.me.com	2012-04-04 01:53:16	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	web.me.com-megaranmorris.warc.gz	92645885
+petersonrw	gallery.me.com	2012-04-04 01:08:43	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	gallery.me.com-petersonrw.warc.gz	1012137611
+petersonrw	homepage.mac.com	2012-04-04 01:09:11	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	homepage.mac.com-petersonrw.warc.gz	332400
+petersonrw	public.me.com	2012-04-04 00:39:14	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	public.me.com-petersonrw.warc.gz	38660870
+petersonrw	web.me.com	2012-04-04 00:39:01	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	web.me.com-petersonrw.warc.gz	509636856
+visualg	gallery.me.com	2012-04-03 22:36:23	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	gallery.me.com-visualg.warc.gz	260296029
+visualg	homepage.mac.com	2012-04-03 22:36:38	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	homepage.mac.com-visualg.warc.gz	132491
+visualg	public.me.com	2012-04-03 22:28:15	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	public.me.com-visualg.warc.gz	1901
+visualg	web.me.com	2012-04-03 22:28:13	archiveteam-mobileme-hero-368x	archiveteam-mobileme-hero-368x-3686.tar	web.me.com-visualg.warc.gz	16853245

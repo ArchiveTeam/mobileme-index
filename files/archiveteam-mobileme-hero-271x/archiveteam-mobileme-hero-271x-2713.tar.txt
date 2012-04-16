@@ -1,8 +1,8 @@
-stephen.farthing	gallery.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2713.tar	gallery.me.com-stephen.farthing.warc.gz	0
-stephen.farthing	homepage.mac.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2713.tar	homepage.mac.com-stephen.farthing.warc.gz	0
-stephen.farthing	public.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2713.tar	public.me.com-stephen.farthing.warc.gz	0
-stephen.farthing	web.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2713.tar	web.me.com-stephen.farthing.warc.gz	0
-swanyo	gallery.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2713.tar	gallery.me.com-swanyo.warc.gz	0
-swanyo	homepage.mac.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2713.tar	homepage.mac.com-swanyo.warc.gz	0
-swanyo	public.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2713.tar	public.me.com-swanyo.warc.gz	0
-swanyo	web.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2713.tar	web.me.com-swanyo.warc.gz	0
+stephen.farthing	gallery.me.com	2012-04-01 16:44:46	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2713.tar	gallery.me.com-stephen.farthing.warc.gz	1277627296
+stephen.farthing	homepage.mac.com	2012-04-01 16:44:46	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2713.tar	homepage.mac.com-stephen.farthing.warc.gz	4937
+stephen.farthing	public.me.com	2012-04-01 16:13:48	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2713.tar	public.me.com-stephen.farthing.warc.gz	3356
+stephen.farthing	web.me.com	2012-04-01 16:13:46	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2713.tar	web.me.com-stephen.farthing.warc.gz	249840884
+swanyo	gallery.me.com	2012-04-01 15:55:37	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2713.tar	gallery.me.com-swanyo.warc.gz	1281925734
+swanyo	homepage.mac.com	2012-04-01 15:55:43	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2713.tar	homepage.mac.com-swanyo.warc.gz	104742
+swanyo	public.me.com	2012-04-01 15:23:32	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2713.tar	public.me.com-swanyo.warc.gz	2083911636
+swanyo	web.me.com	2012-04-01 14:46:32	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2713.tar	web.me.com-swanyo.warc.gz	269511951

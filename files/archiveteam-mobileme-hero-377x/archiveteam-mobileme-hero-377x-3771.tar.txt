@@ -1,16 +1,16 @@
-d_sakata	gallery.me.com		archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	gallery.me.com-d_sakata.warc.gz	0
-d_sakata	homepage.mac.com		archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	homepage.mac.com-d_sakata.warc.gz	0
-d_sakata	public.me.com		archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	public.me.com-d_sakata.warc.gz	0
-d_sakata	web.me.com		archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	web.me.com-d_sakata.warc.gz	0
-gswitzer	gallery.me.com		archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	gallery.me.com-gswitzer.warc.gz	0
-gswitzer	homepage.mac.com		archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	homepage.mac.com-gswitzer.warc.gz	0
-gswitzer	public.me.com		archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	public.me.com-gswitzer.warc.gz	0
-gswitzer	web.me.com		archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	web.me.com-gswitzer.warc.gz	0
-renegens	gallery.me.com		archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	gallery.me.com-renegens.warc.gz	0
-renegens	homepage.mac.com		archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	homepage.mac.com-renegens.warc.gz	0
-renegens	public.me.com		archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	public.me.com-renegens.warc.gz	0
-renegens	web.me.com		archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	web.me.com-renegens.warc.gz	0
-shawn.n.harris	gallery.me.com		archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	gallery.me.com-shawn.n.harris.warc.gz	0
-shawn.n.harris	homepage.mac.com		archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	homepage.mac.com-shawn.n.harris.warc.gz	0
-shawn.n.harris	public.me.com		archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	public.me.com-shawn.n.harris.warc.gz	0
-shawn.n.harris	web.me.com		archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	web.me.com-shawn.n.harris.warc.gz	0
+d_sakata	gallery.me.com	2012-04-04 07:35:44	archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	gallery.me.com-d_sakata.warc.gz	6596
+d_sakata	homepage.mac.com	2012-04-04 07:35:45	archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	homepage.mac.com-d_sakata.warc.gz	6045
+d_sakata	public.me.com	2012-04-04 07:35:42	archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	public.me.com-d_sakata.warc.gz	334190
+d_sakata	web.me.com	2012-04-04 07:35:40	archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	web.me.com-d_sakata.warc.gz	5108128
+gswitzer	gallery.me.com	2012-04-04 08:08:32	archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	gallery.me.com-gswitzer.warc.gz	20086017
+gswitzer	homepage.mac.com	2012-04-04 08:08:32	archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	homepage.mac.com-gswitzer.warc.gz	4909
+gswitzer	public.me.com	2012-04-04 08:08:05	archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	public.me.com-gswitzer.warc.gz	866963511
+gswitzer	web.me.com	2012-04-04 07:49:23	archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	web.me.com-gswitzer.warc.gz	372279758
+renegens	gallery.me.com	2012-04-04 09:16:04	archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	gallery.me.com-renegens.warc.gz	5547
+renegens	homepage.mac.com	2012-04-04 09:16:04	archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	homepage.mac.com-renegens.warc.gz	4914
+renegens	public.me.com	2012-04-04 09:16:03	archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	public.me.com-renegens.warc.gz	1744973855
+renegens	web.me.com	2012-04-04 08:53:07	archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	web.me.com-renegens.warc.gz	19720285
+shawn.n.harris	gallery.me.com	2012-04-04 08:48:36	archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	gallery.me.com-shawn.n.harris.warc.gz	1311551333
+shawn.n.harris	homepage.mac.com	2012-04-04 08:48:53	archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	homepage.mac.com-shawn.n.harris.warc.gz	352423
+shawn.n.harris	public.me.com	2012-04-04 08:25:03	archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	public.me.com-shawn.n.harris.warc.gz	1929
+shawn.n.harris	web.me.com	2012-04-04 08:25:02	archiveteam-mobileme-hero-377x	archiveteam-mobileme-hero-377x-3771.tar	web.me.com-shawn.n.harris.warc.gz	162774223

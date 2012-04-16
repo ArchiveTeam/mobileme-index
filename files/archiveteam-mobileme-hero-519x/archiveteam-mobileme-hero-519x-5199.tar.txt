@@ -1,24 +1,24 @@
-bdwilliams44	gallery.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	gallery.me.com-bdwilliams44.warc.gz	0
-bdwilliams44	homepage.mac.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	homepage.mac.com-bdwilliams44.warc.gz	0
-bdwilliams44	public.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	public.me.com-bdwilliams44.warc.gz	0
-bdwilliams44	web.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	web.me.com-bdwilliams44.warc.gz	0
-chapelrb	gallery.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	gallery.me.com-chapelrb.warc.gz	0
-chapelrb	homepage.mac.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	homepage.mac.com-chapelrb.warc.gz	0
-chapelrb	public.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	public.me.com-chapelrb.warc.gz	0
-chapelrb	web.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	web.me.com-chapelrb.warc.gz	0
-lh20041128160624	gallery.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	gallery.me.com-lh20041128160624.warc.gz	0
-lh20041128160624	homepage.mac.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	homepage.mac.com-lh20041128160624.warc.gz	0
-lh20041128160624	public.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	public.me.com-lh20041128160624.warc.gz	0
-lh20041128160624	web.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	web.me.com-lh20041128160624.warc.gz	0
-m_stavenuiter	gallery.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	gallery.me.com-m_stavenuiter.warc.gz	0
-m_stavenuiter	homepage.mac.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	homepage.mac.com-m_stavenuiter.warc.gz	0
-m_stavenuiter	public.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	public.me.com-m_stavenuiter.warc.gz	0
-m_stavenuiter	web.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	web.me.com-m_stavenuiter.warc.gz	0
-metorgroup	gallery.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	gallery.me.com-metorgroup.warc.gz	0
-metorgroup	homepage.mac.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	homepage.mac.com-metorgroup.warc.gz	0
-metorgroup	public.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	public.me.com-metorgroup.warc.gz	0
-metorgroup	web.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	web.me.com-metorgroup.warc.gz	0
-mtosto	gallery.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	gallery.me.com-mtosto.warc.gz	0
-mtosto	homepage.mac.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	homepage.mac.com-mtosto.warc.gz	0
-mtosto	public.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	public.me.com-mtosto.warc.gz	0
-mtosto	web.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	web.me.com-mtosto.warc.gz	0
+bdwilliams44	gallery.me.com	2012-04-08 19:50:32	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	gallery.me.com-bdwilliams44.warc.gz	4367655
+bdwilliams44	homepage.mac.com	2012-04-08 19:50:33	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	homepage.mac.com-bdwilliams44.warc.gz	4936
+bdwilliams44	public.me.com	2012-04-08 19:50:17	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	public.me.com-bdwilliams44.warc.gz	1932
+bdwilliams44	web.me.com	2012-04-08 19:50:16	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	web.me.com-bdwilliams44.warc.gz	806409
+chapelrb	gallery.me.com	2012-04-08 19:49:17	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	gallery.me.com-chapelrb.warc.gz	85075971
+chapelrb	homepage.mac.com	2012-04-08 19:49:18	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	homepage.mac.com-chapelrb.warc.gz	4898
+chapelrb	public.me.com	2012-04-08 19:41:48	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	public.me.com-chapelrb.warc.gz	272189226
+chapelrb	web.me.com	2012-04-08 19:39:30	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	web.me.com-chapelrb.warc.gz	2101657609
+lh20041128160624	gallery.me.com	2012-04-08 19:49:24	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	gallery.me.com-lh20041128160624.warc.gz	8391
+lh20041128160624	homepage.mac.com	2012-04-08 19:49:24	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	homepage.mac.com-lh20041128160624.warc.gz	5205
+lh20041128160624	public.me.com	2012-04-08 19:49:22	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	public.me.com-lh20041128160624.warc.gz	1936
+lh20041128160624	web.me.com	2012-04-08 19:49:22	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	web.me.com-lh20041128160624.warc.gz	17790
+m_stavenuiter	gallery.me.com	2012-04-08 19:50:43	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	gallery.me.com-m_stavenuiter.warc.gz	12350
+m_stavenuiter	homepage.mac.com	2012-04-08 19:50:45	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	homepage.mac.com-m_stavenuiter.warc.gz	7174
+m_stavenuiter	public.me.com	2012-04-08 19:50:41	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	public.me.com-m_stavenuiter.warc.gz	1926
+m_stavenuiter	web.me.com	2012-04-08 19:50:40	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	web.me.com-m_stavenuiter.warc.gz	22532
+metorgroup	gallery.me.com	2012-04-08 18:13:14	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	gallery.me.com-metorgroup.warc.gz	4299
+metorgroup	homepage.mac.com	2012-04-08 18:13:14	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	homepage.mac.com-metorgroup.warc.gz	4898
+metorgroup	public.me.com	2012-04-08 18:13:13	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	public.me.com-metorgroup.warc.gz	1918
+metorgroup	web.me.com	2012-04-08 18:13:12	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	web.me.com-metorgroup.warc.gz	318968526
+mtosto	gallery.me.com	2012-04-08 21:40:57	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	gallery.me.com-mtosto.warc.gz	2282029914
+mtosto	homepage.mac.com	2012-04-08 21:40:58	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	homepage.mac.com-mtosto.warc.gz	7861
+mtosto	public.me.com	2012-04-08 21:12:41	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	public.me.com-mtosto.warc.gz	21198489
+mtosto	web.me.com	2012-04-08 21:11:40	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5199.tar	web.me.com-mtosto.warc.gz	2552493712

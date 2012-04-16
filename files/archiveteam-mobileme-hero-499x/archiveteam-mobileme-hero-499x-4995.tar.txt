@@ -1,12 +1,12 @@
-enelsonbcs	gallery.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	gallery.me.com-enelsonbcs.warc.gz	0
-enelsonbcs	homepage.mac.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	homepage.mac.com-enelsonbcs.warc.gz	0
-enelsonbcs	public.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	public.me.com-enelsonbcs.warc.gz	0
-enelsonbcs	web.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	web.me.com-enelsonbcs.warc.gz	0
-leahavas	gallery.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	gallery.me.com-leahavas.warc.gz	0
-leahavas	homepage.mac.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	homepage.mac.com-leahavas.warc.gz	0
-leahavas	public.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	public.me.com-leahavas.warc.gz	0
-leahavas	web.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	web.me.com-leahavas.warc.gz	0
-rrathje	gallery.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	gallery.me.com-rrathje.warc.gz	0
-rrathje	homepage.mac.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	homepage.mac.com-rrathje.warc.gz	0
-rrathje	public.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	public.me.com-rrathje.warc.gz	0
-rrathje	web.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	web.me.com-rrathje.warc.gz	0
+enelsonbcs	gallery.me.com	2012-04-07 20:23:17	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	gallery.me.com-enelsonbcs.warc.gz	4293
+enelsonbcs	homepage.mac.com	2012-04-07 20:23:17	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	homepage.mac.com-enelsonbcs.warc.gz	4931
+enelsonbcs	public.me.com	2012-04-07 20:23:17	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	public.me.com-enelsonbcs.warc.gz	1920
+enelsonbcs	web.me.com	2012-04-07 20:23:16	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	web.me.com-enelsonbcs.warc.gz	28281185
+leahavas	gallery.me.com	2012-04-07 21:54:17	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	gallery.me.com-leahavas.warc.gz	2960361365
+leahavas	homepage.mac.com	2012-04-07 21:54:17	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	homepage.mac.com-leahavas.warc.gz	4918
+leahavas	public.me.com	2012-04-07 20:45:00	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	public.me.com-leahavas.warc.gz	398866
+leahavas	web.me.com	2012-04-07 20:44:58	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	web.me.com-leahavas.warc.gz	101504934
+rrathje	gallery.me.com	2012-04-07 22:32:32	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	gallery.me.com-rrathje.warc.gz	49073521
+rrathje	homepage.mac.com	2012-04-07 22:32:32	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	homepage.mac.com-rrathje.warc.gz	4904
+rrathje	public.me.com	2012-04-07 22:31:45	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	public.me.com-rrathje.warc.gz	1908
+rrathje	web.me.com	2012-04-07 22:31:41	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4995.tar	web.me.com-rrathje.warc.gz	1628808330

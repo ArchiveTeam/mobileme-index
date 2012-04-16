@@ -1,28 +1,28 @@
-acz	gallery.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	gallery.me.com-acz.warc.gz	0
-acz	homepage.mac.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	homepage.mac.com-acz.warc.gz	0
-acz	public.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	public.me.com-acz.warc.gz	0
-acz	web.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	web.me.com-acz.warc.gz	0
-c1556203131	gallery.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	gallery.me.com-c1556203131.warc.gz	0
-c1556203131	homepage.mac.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	homepage.mac.com-c1556203131.warc.gz	0
-c1556203131	public.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	public.me.com-c1556203131.warc.gz	0
-c1556203131	web.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	web.me.com-c1556203131.warc.gz	0
-curtbohling	gallery.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	gallery.me.com-curtbohling.warc.gz	0
-curtbohling	homepage.mac.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	homepage.mac.com-curtbohling.warc.gz	0
-curtbohling	public.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	public.me.com-curtbohling.warc.gz	0
-curtbohling	web.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	web.me.com-curtbohling.warc.gz	0
-hamil242	gallery.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	gallery.me.com-hamil242.warc.gz	0
-hamil242	homepage.mac.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	homepage.mac.com-hamil242.warc.gz	0
-hamil242	public.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	public.me.com-hamil242.warc.gz	0
-hamil242	web.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	web.me.com-hamil242.warc.gz	0
-nigel.collier	gallery.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	gallery.me.com-nigel.collier.warc.gz	0
-nigel.collier	homepage.mac.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	homepage.mac.com-nigel.collier.warc.gz	0
-nigel.collier	public.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	public.me.com-nigel.collier.warc.gz	0
-nigel.collier	web.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	web.me.com-nigel.collier.warc.gz	0
-rick.powell	gallery.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	gallery.me.com-rick.powell.warc.gz	0
-rick.powell	homepage.mac.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	homepage.mac.com-rick.powell.warc.gz	0
-rick.powell	public.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	public.me.com-rick.powell.warc.gz	0
-rick.powell	web.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	web.me.com-rick.powell.warc.gz	0
-sean_photocoffee	gallery.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	gallery.me.com-sean_photocoffee.warc.gz	0
-sean_photocoffee	homepage.mac.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	homepage.mac.com-sean_photocoffee.warc.gz	0
-sean_photocoffee	public.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	public.me.com-sean_photocoffee.warc.gz	0
-sean_photocoffee	web.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	web.me.com-sean_photocoffee.warc.gz	0
+acz	gallery.me.com	2012-04-08 23:32:35	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	gallery.me.com-acz.warc.gz	20074590
+acz	homepage.mac.com	2012-04-08 23:38:44	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	homepage.mac.com-acz.warc.gz	92029141
+acz	public.me.com	2012-04-08 23:30:58	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	public.me.com-acz.warc.gz	1902
+acz	web.me.com	2012-04-08 23:30:57	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	web.me.com-acz.warc.gz	82820965
+c1556203131	gallery.me.com	2012-04-08 23:38:46	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	gallery.me.com-c1556203131.warc.gz	8377
+c1556203131	homepage.mac.com	2012-04-08 23:38:47	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	homepage.mac.com-c1556203131.warc.gz	5184
+c1556203131	public.me.com	2012-04-08 23:38:46	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	public.me.com-c1556203131.warc.gz	1926
+c1556203131	web.me.com	2012-04-08 23:38:46	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	web.me.com-c1556203131.warc.gz	17699
+curtbohling	gallery.me.com	2012-04-09 02:52:05	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	gallery.me.com-curtbohling.warc.gz	4872173184
+curtbohling	homepage.mac.com	2012-04-09 02:52:05	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	homepage.mac.com-curtbohling.warc.gz	6070
+curtbohling	public.me.com	2012-04-09 00:48:54	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	public.me.com-curtbohling.warc.gz	3425
+curtbohling	web.me.com	2012-04-09 00:48:51	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	web.me.com-curtbohling.warc.gz	777229833
+hamil242	gallery.me.com	2012-04-08 23:08:09	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	gallery.me.com-hamil242.warc.gz	643356
+hamil242	homepage.mac.com	2012-04-08 23:08:09	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	homepage.mac.com-hamil242.warc.gz	4908
+hamil242	public.me.com	2012-04-08 23:08:07	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	public.me.com-hamil242.warc.gz	1913
+hamil242	web.me.com	2012-04-08 23:08:06	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	web.me.com-hamil242.warc.gz	85408806
+nigel.collier	gallery.me.com	2012-04-08 23:13:07	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	gallery.me.com-nigel.collier.warc.gz	5583
+nigel.collier	homepage.mac.com	2012-04-08 23:13:08	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	homepage.mac.com-nigel.collier.warc.gz	4930
+nigel.collier	public.me.com	2012-04-08 23:13:06	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	public.me.com-nigel.collier.warc.gz	15154
+nigel.collier	web.me.com	2012-04-08 23:13:05	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	web.me.com-nigel.collier.warc.gz	386761
+rick.powell	gallery.me.com	2012-04-08 23:12:41	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	gallery.me.com-rick.powell.warc.gz	104651650
+rick.powell	homepage.mac.com	2012-04-08 23:12:41	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	homepage.mac.com-rick.powell.warc.gz	4914
+rick.powell	public.me.com	2012-04-08 23:09:39	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	public.me.com-rick.powell.warc.gz	1925
+rick.powell	web.me.com	2012-04-08 23:09:39	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	web.me.com-rick.powell.warc.gz	5291673
+sean_photocoffee	gallery.me.com	2012-04-08 23:38:49	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	gallery.me.com-sean_photocoffee.warc.gz	12371
+sean_photocoffee	homepage.mac.com	2012-04-08 23:38:49	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	homepage.mac.com-sean_photocoffee.warc.gz	7167
+sean_photocoffee	public.me.com	2012-04-08 23:38:48	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	public.me.com-sean_photocoffee.warc.gz	1933
+sean_photocoffee	web.me.com	2012-04-08 23:38:48	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5286.tar	web.me.com-sean_photocoffee.warc.gz	22539

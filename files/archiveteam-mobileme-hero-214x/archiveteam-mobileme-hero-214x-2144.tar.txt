@@ -1,20 +1,20 @@
-bencoumerilh	gallery.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	gallery.me.com-bencoumerilh.warc.gz	0
-bencoumerilh	homepage.mac.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	homepage.mac.com-bencoumerilh.warc.gz	0
-bencoumerilh	public.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	public.me.com-bencoumerilh.warc.gz	0
-bencoumerilh	web.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	web.me.com-bencoumerilh.warc.gz	0
-beortiz2010	gallery.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	gallery.me.com-beortiz2010.warc.gz	0
-beortiz2010	homepage.mac.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	homepage.mac.com-beortiz2010.warc.gz	0
-beortiz2010	public.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	public.me.com-beortiz2010.warc.gz	0
-beortiz2010	web.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	web.me.com-beortiz2010.warc.gz	0
-ctimms	gallery.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	gallery.me.com-ctimms.warc.gz	0
-ctimms	homepage.mac.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	homepage.mac.com-ctimms.warc.gz	0
-ctimms	public.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	public.me.com-ctimms.warc.gz	0
-ctimms	web.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	web.me.com-ctimms.warc.gz	0
-kevin.macneil	gallery.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	gallery.me.com-kevin.macneil.warc.gz	0
-kevin.macneil	homepage.mac.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	homepage.mac.com-kevin.macneil.warc.gz	0
-kevin.macneil	public.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	public.me.com-kevin.macneil.warc.gz	0
-kevin.macneil	web.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	web.me.com-kevin.macneil.warc.gz	0
-rboeckman	gallery.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	gallery.me.com-rboeckman.warc.gz	0
-rboeckman	homepage.mac.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	homepage.mac.com-rboeckman.warc.gz	0
-rboeckman	public.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	public.me.com-rboeckman.warc.gz	0
-rboeckman	web.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	web.me.com-rboeckman.warc.gz	0
+bencoumerilh	gallery.me.com	2012-03-30 10:12:41	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	gallery.me.com-bencoumerilh.warc.gz	2539298206
+bencoumerilh	homepage.mac.com	2012-03-30 10:12:42	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	homepage.mac.com-bencoumerilh.warc.gz	4919
+bencoumerilh	public.me.com	2012-03-30 09:40:46	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	public.me.com-bencoumerilh.warc.gz	695413022
+bencoumerilh	web.me.com	2012-03-30 09:07:30	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	web.me.com-bencoumerilh.warc.gz	7675769
+beortiz2010	gallery.me.com	2012-03-30 10:13:35	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	gallery.me.com-beortiz2010.warc.gz	11475225
+beortiz2010	homepage.mac.com	2012-03-30 10:13:36	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	homepage.mac.com-beortiz2010.warc.gz	4931
+beortiz2010	public.me.com	2012-03-30 10:13:10	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	public.me.com-beortiz2010.warc.gz	1919
+beortiz2010	web.me.com	2012-03-30 10:13:09	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	web.me.com-beortiz2010.warc.gz	474237
+ctimms	gallery.me.com	2012-03-30 09:02:59	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	gallery.me.com-ctimms.warc.gz	5642
+ctimms	homepage.mac.com	2012-03-30 09:02:59	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	homepage.mac.com-ctimms.warc.gz	4902
+ctimms	public.me.com	2012-03-30 09:02:58	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	public.me.com-ctimms.warc.gz	1910
+ctimms	web.me.com	2012-03-30 09:02:57	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	web.me.com-ctimms.warc.gz	45221
+kevin.macneil	gallery.me.com	2012-03-30 13:06:10	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	gallery.me.com-kevin.macneil.warc.gz	2367287078
+kevin.macneil	homepage.mac.com	2012-03-30 13:06:12	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	homepage.mac.com-kevin.macneil.warc.gz	4927
+kevin.macneil	public.me.com	2012-03-30 11:41:02	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	public.me.com-kevin.macneil.warc.gz	228514858
+kevin.macneil	web.me.com	2012-03-30 11:29:53	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	web.me.com-kevin.macneil.warc.gz	291336489
+rboeckman	gallery.me.com	2012-03-30 10:12:48	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	gallery.me.com-rboeckman.warc.gz	8361
+rboeckman	homepage.mac.com	2012-03-30 10:12:49	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	homepage.mac.com-rboeckman.warc.gz	5166
+rboeckman	public.me.com	2012-03-30 10:12:47	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	public.me.com-rboeckman.warc.gz	1917
+rboeckman	web.me.com	2012-03-30 10:12:47	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2144.tar	web.me.com-rboeckman.warc.gz	17764

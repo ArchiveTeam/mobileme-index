@@ -1,12 +1,12 @@
-anuschwartz	gallery.me.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	gallery.me.com-anuschwartz.warc.gz	0
-anuschwartz	homepage.mac.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	homepage.mac.com-anuschwartz.warc.gz	0
-anuschwartz	public.me.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	public.me.com-anuschwartz.warc.gz	0
-anuschwartz	web.me.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	web.me.com-anuschwartz.warc.gz	0
-jdircx	gallery.me.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	gallery.me.com-jdircx.warc.gz	0
-jdircx	homepage.mac.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	homepage.mac.com-jdircx.warc.gz	0
-jdircx	public.me.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	public.me.com-jdircx.warc.gz	0
-jdircx	web.me.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	web.me.com-jdircx.warc.gz	0
-story_jeff	gallery.me.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	gallery.me.com-story_jeff.warc.gz	0
-story_jeff	homepage.mac.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	homepage.mac.com-story_jeff.warc.gz	0
-story_jeff	public.me.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	public.me.com-story_jeff.warc.gz	0
-story_jeff	web.me.com		archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	web.me.com-story_jeff.warc.gz	0
+anuschwartz	gallery.me.com	2012-04-12 01:17:42	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	gallery.me.com-anuschwartz.warc.gz	882989777
+anuschwartz	homepage.mac.com	2012-04-12 01:17:44	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	homepage.mac.com-anuschwartz.warc.gz	53055
+anuschwartz	public.me.com	2012-04-11 22:34:53	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	public.me.com-anuschwartz.warc.gz	1920
+anuschwartz	web.me.com	2012-04-11 22:34:47	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	web.me.com-anuschwartz.warc.gz	90454613
+jdircx	gallery.me.com	2012-04-11 22:27:38	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	gallery.me.com-jdircx.warc.gz	8336
+jdircx	homepage.mac.com	2012-04-11 22:27:39	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	homepage.mac.com-jdircx.warc.gz	5160
+jdircx	public.me.com	2012-04-11 22:27:37	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	public.me.com-jdircx.warc.gz	1906
+jdircx	web.me.com	2012-04-11 22:27:36	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	web.me.com-jdircx.warc.gz	17691
+story_jeff	gallery.me.com	2012-04-12 06:31:54	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	gallery.me.com-story_jeff.warc.gz	4931300830
+story_jeff	homepage.mac.com	2012-04-12 06:31:56	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	homepage.mac.com-story_jeff.warc.gz	4902
+story_jeff	public.me.com	2012-04-12 01:57:28	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	public.me.com-story_jeff.warc.gz	1926
+story_jeff	web.me.com	2012-04-12 01:57:00	archiveteam-mobileme-hero-664x	archiveteam-mobileme-hero-664x-6642.tar	web.me.com-story_jeff.warc.gz	508258791

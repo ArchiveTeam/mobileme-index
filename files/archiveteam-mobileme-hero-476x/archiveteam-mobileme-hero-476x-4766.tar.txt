@@ -1,20 +1,20 @@
-craigash	gallery.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	gallery.me.com-craigash.warc.gz	0
-craigash	homepage.mac.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	homepage.mac.com-craigash.warc.gz	0
-craigash	public.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	public.me.com-craigash.warc.gz	0
-craigash	web.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	web.me.com-craigash.warc.gz	0
-curtbetts	gallery.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	gallery.me.com-curtbetts.warc.gz	0
-curtbetts	homepage.mac.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	homepage.mac.com-curtbetts.warc.gz	0
-curtbetts	public.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	public.me.com-curtbetts.warc.gz	0
-curtbetts	web.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	web.me.com-curtbetts.warc.gz	0
-mrnovak	gallery.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	gallery.me.com-mrnovak.warc.gz	0
-mrnovak	homepage.mac.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	homepage.mac.com-mrnovak.warc.gz	0
-mrnovak	public.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	public.me.com-mrnovak.warc.gz	0
-mrnovak	web.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	web.me.com-mrnovak.warc.gz	0
-onev0ice	gallery.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	gallery.me.com-onev0ice.warc.gz	0
-onev0ice	homepage.mac.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	homepage.mac.com-onev0ice.warc.gz	0
-onev0ice	public.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	public.me.com-onev0ice.warc.gz	0
-onev0ice	web.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	web.me.com-onev0ice.warc.gz	0
-pastorodd	gallery.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	gallery.me.com-pastorodd.warc.gz	0
-pastorodd	homepage.mac.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	homepage.mac.com-pastorodd.warc.gz	0
-pastorodd	public.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	public.me.com-pastorodd.warc.gz	0
-pastorodd	web.me.com		archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	web.me.com-pastorodd.warc.gz	0
+craigash	gallery.me.com	2012-04-06 17:39:13	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	gallery.me.com-craigash.warc.gz	5142
+craigash	homepage.mac.com	2012-04-06 17:39:14	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	homepage.mac.com-craigash.warc.gz	4903
+craigash	public.me.com	2012-04-06 17:39:12	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	public.me.com-craigash.warc.gz	1920
+craigash	web.me.com	2012-04-06 17:39:11	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	web.me.com-craigash.warc.gz	31469242
+curtbetts	gallery.me.com	2012-04-06 17:34:15	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	gallery.me.com-curtbetts.warc.gz	12297
+curtbetts	homepage.mac.com	2012-04-06 17:34:15	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	homepage.mac.com-curtbetts.warc.gz	7148
+curtbetts	public.me.com	2012-04-06 17:34:14	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	public.me.com-curtbetts.warc.gz	1918
+curtbetts	web.me.com	2012-04-06 17:34:14	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	web.me.com-curtbetts.warc.gz	22428
+mrnovak	gallery.me.com	2012-04-06 18:10:30	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	gallery.me.com-mrnovak.warc.gz	1942755847
+mrnovak	homepage.mac.com	2012-04-06 18:10:30	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	homepage.mac.com-mrnovak.warc.gz	4899
+mrnovak	public.me.com	2012-04-06 17:47:53	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	public.me.com-mrnovak.warc.gz	1909
+mrnovak	web.me.com	2012-04-06 17:47:53	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	web.me.com-mrnovak.warc.gz	63880770
+onev0ice	gallery.me.com	2012-04-06 17:34:11	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	gallery.me.com-onev0ice.warc.gz	5658
+onev0ice	homepage.mac.com	2012-04-06 17:34:12	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	homepage.mac.com-onev0ice.warc.gz	4907
+onev0ice	public.me.com	2012-04-06 17:34:08	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	public.me.com-onev0ice.warc.gz	1794283222
+onev0ice	web.me.com	2012-04-06 17:11:24	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	web.me.com-onev0ice.warc.gz	523152411
+pastorodd	gallery.me.com	2012-04-06 17:41:17	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	gallery.me.com-pastorodd.warc.gz	6925714
+pastorodd	homepage.mac.com	2012-04-06 17:41:18	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	homepage.mac.com-pastorodd.warc.gz	4911
+pastorodd	public.me.com	2012-04-06 17:40:50	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	public.me.com-pastorodd.warc.gz	1920
+pastorodd	web.me.com	2012-04-06 17:40:50	archiveteam-mobileme-hero-476x	archiveteam-mobileme-hero-476x-4766.tar	web.me.com-pastorodd.warc.gz	12837116

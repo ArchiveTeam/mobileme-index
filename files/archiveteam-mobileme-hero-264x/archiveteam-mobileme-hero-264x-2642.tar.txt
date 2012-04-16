@@ -1,12 +1,12 @@
-alaingeenrits	gallery.me.com		archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	gallery.me.com-alaingeenrits.warc.gz	0
-alaingeenrits	homepage.mac.com		archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	homepage.mac.com-alaingeenrits.warc.gz	0
-alaingeenrits	public.me.com		archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	public.me.com-alaingeenrits.warc.gz	0
-alaingeenrits	web.me.com		archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	web.me.com-alaingeenrits.warc.gz	0
-capitalcan1	gallery.me.com		archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	gallery.me.com-capitalcan1.warc.gz	0
-capitalcan1	homepage.mac.com		archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	homepage.mac.com-capitalcan1.warc.gz	0
-capitalcan1	public.me.com		archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	public.me.com-capitalcan1.warc.gz	0
-capitalcan1	web.me.com		archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	web.me.com-capitalcan1.warc.gz	0
-kratochvile	gallery.me.com		archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	gallery.me.com-kratochvile.warc.gz	0
-kratochvile	homepage.mac.com		archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	homepage.mac.com-kratochvile.warc.gz	0
-kratochvile	public.me.com		archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	public.me.com-kratochvile.warc.gz	0
-kratochvile	web.me.com		archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	web.me.com-kratochvile.warc.gz	0
+alaingeenrits	gallery.me.com	2012-04-01 09:25:19	archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	gallery.me.com-alaingeenrits.warc.gz	1886855113
+alaingeenrits	homepage.mac.com	2012-04-01 09:25:34	archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	homepage.mac.com-alaingeenrits.warc.gz	263510
+alaingeenrits	public.me.com	2012-04-01 09:00:10	archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	public.me.com-alaingeenrits.warc.gz	31137176
+alaingeenrits	web.me.com	2012-04-01 08:59:07	archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	web.me.com-alaingeenrits.warc.gz	891625393
+capitalcan1	gallery.me.com	2012-04-01 07:31:26	archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	gallery.me.com-capitalcan1.warc.gz	479833477
+capitalcan1	homepage.mac.com	2012-04-01 07:31:26	archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	homepage.mac.com-capitalcan1.warc.gz	7887
+capitalcan1	public.me.com	2012-04-01 07:21:25	archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	public.me.com-capitalcan1.warc.gz	1922
+capitalcan1	web.me.com	2012-04-01 07:21:24	archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	web.me.com-capitalcan1.warc.gz	222592345
+kratochvile	gallery.me.com	2012-04-01 08:24:18	archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	gallery.me.com-kratochvile.warc.gz	1652089836
+kratochvile	homepage.mac.com	2012-04-01 08:24:25	archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	homepage.mac.com-kratochvile.warc.gz	119745
+kratochvile	public.me.com	2012-04-01 07:53:30	archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	public.me.com-kratochvile.warc.gz	28417664
+kratochvile	web.me.com	2012-04-01 07:53:16	archiveteam-mobileme-hero-264x	archiveteam-mobileme-hero-264x-2642.tar	web.me.com-kratochvile.warc.gz	385304025

@@ -1,16 +1,16 @@
-aldo.livorno	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	gallery.me.com-aldo.livorno.warc.gz	0
-aldo.livorno	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	homepage.mac.com-aldo.livorno.warc.gz	0
-aldo.livorno	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	public.me.com-aldo.livorno.warc.gz	0
-aldo.livorno	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	web.me.com-aldo.livorno.warc.gz	0
-cneldred	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	gallery.me.com-cneldred.warc.gz	0
-cneldred	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	homepage.mac.com-cneldred.warc.gz	0
-cneldred	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	public.me.com-cneldred.warc.gz	0
-cneldred	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	web.me.com-cneldred.warc.gz	0
-fvillanueva	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	gallery.me.com-fvillanueva.warc.gz	0
-fvillanueva	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	homepage.mac.com-fvillanueva.warc.gz	0
-fvillanueva	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	public.me.com-fvillanueva.warc.gz	0
-fvillanueva	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	web.me.com-fvillanueva.warc.gz	0
-rachid	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	gallery.me.com-rachid.warc.gz	0
-rachid	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	homepage.mac.com-rachid.warc.gz	0
-rachid	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	public.me.com-rachid.warc.gz	0
-rachid	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	web.me.com-rachid.warc.gz	0
+aldo.livorno	gallery.me.com	2012-04-05 04:32:13	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	gallery.me.com-aldo.livorno.warc.gz	5177673095
+aldo.livorno	homepage.mac.com	2012-04-05 04:32:16	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	homepage.mac.com-aldo.livorno.warc.gz	36945
+aldo.livorno	public.me.com	2012-04-05 01:19:42	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	public.me.com-aldo.livorno.warc.gz	1919
+aldo.livorno	web.me.com	2012-04-05 01:19:40	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	web.me.com-aldo.livorno.warc.gz	588086125
+cneldred	gallery.me.com	2012-04-05 00:38:24	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	gallery.me.com-cneldred.warc.gz	2752360
+cneldred	homepage.mac.com	2012-04-05 00:38:25	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	homepage.mac.com-cneldred.warc.gz	4900
+cneldred	public.me.com	2012-04-05 00:38:19	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	public.me.com-cneldred.warc.gz	1915
+cneldred	web.me.com	2012-04-05 00:38:14	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	web.me.com-cneldred.warc.gz	337702059
+fvillanueva	gallery.me.com	2012-04-05 00:40:02	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	gallery.me.com-fvillanueva.warc.gz	4256
+fvillanueva	homepage.mac.com	2012-04-05 00:40:03	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	homepage.mac.com-fvillanueva.warc.gz	4921
+fvillanueva	public.me.com	2012-04-05 00:40:01	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	public.me.com-fvillanueva.warc.gz	1930
+fvillanueva	web.me.com	2012-04-05 00:40:01	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	web.me.com-fvillanueva.warc.gz	3972044
+rachid	gallery.me.com	2012-04-05 00:49:00	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	gallery.me.com-rachid.warc.gz	47794872
+rachid	homepage.mac.com	2012-04-05 00:49:00	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	homepage.mac.com-rachid.warc.gz	4898
+rachid	public.me.com	2012-04-05 00:46:43	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	public.me.com-rachid.warc.gz	1908
+rachid	web.me.com	2012-04-05 00:46:41	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4088.tar	web.me.com-rachid.warc.gz	49646061

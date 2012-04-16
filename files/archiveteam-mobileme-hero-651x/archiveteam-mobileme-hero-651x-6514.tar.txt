@@ -1,8 +1,8 @@
-mj3908	gallery.me.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6514.tar	gallery.me.com-mj3908.warc.gz	0
-mj3908	homepage.mac.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6514.tar	homepage.mac.com-mj3908.warc.gz	0
-mj3908	public.me.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6514.tar	public.me.com-mj3908.warc.gz	0
-mj3908	web.me.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6514.tar	web.me.com-mj3908.warc.gz	0
-tdclark	gallery.me.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6514.tar	gallery.me.com-tdclark.warc.gz	0
-tdclark	homepage.mac.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6514.tar	homepage.mac.com-tdclark.warc.gz	0
-tdclark	public.me.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6514.tar	public.me.com-tdclark.warc.gz	0
-tdclark	web.me.com		archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6514.tar	web.me.com-tdclark.warc.gz	0
+mj3908	gallery.me.com	2012-04-11 22:22:41	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6514.tar	gallery.me.com-mj3908.warc.gz	3252446647
+mj3908	homepage.mac.com	2012-04-11 22:22:42	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6514.tar	homepage.mac.com-mj3908.warc.gz	4902
+mj3908	public.me.com	2012-04-11 17:39:13	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6514.tar	public.me.com-mj3908.warc.gz	1914
+mj3908	web.me.com	2012-04-11 17:39:08	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6514.tar	web.me.com-mj3908.warc.gz	1139426438
+tdclark	gallery.me.com	2012-04-11 17:10:58	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6514.tar	gallery.me.com-tdclark.warc.gz	58090711
+tdclark	homepage.mac.com	2012-04-11 17:10:58	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6514.tar	homepage.mac.com-tdclark.warc.gz	7840
+tdclark	public.me.com	2012-04-11 17:09:42	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6514.tar	public.me.com-tdclark.warc.gz	65265061
+tdclark	web.me.com	2012-04-11 17:07:10	archiveteam-mobileme-hero-651x	archiveteam-mobileme-hero-651x-6514.tar	web.me.com-tdclark.warc.gz	30319934

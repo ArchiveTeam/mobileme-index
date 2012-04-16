@@ -1,12 +1,12 @@
-lamargunn	gallery.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	gallery.me.com-lamargunn.warc.gz	0
-lamargunn	homepage.mac.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	homepage.mac.com-lamargunn.warc.gz	0
-lamargunn	public.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	public.me.com-lamargunn.warc.gz	0
-lamargunn	web.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	web.me.com-lamargunn.warc.gz	0
-mbessieres	gallery.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	gallery.me.com-mbessieres.warc.gz	0
-mbessieres	homepage.mac.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	homepage.mac.com-mbessieres.warc.gz	0
-mbessieres	public.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	public.me.com-mbessieres.warc.gz	0
-mbessieres	web.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	web.me.com-mbessieres.warc.gz	0
-uweoehm	gallery.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	gallery.me.com-uweoehm.warc.gz	0
-uweoehm	homepage.mac.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	homepage.mac.com-uweoehm.warc.gz	0
-uweoehm	public.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	public.me.com-uweoehm.warc.gz	0
-uweoehm	web.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	web.me.com-uweoehm.warc.gz	0
+lamargunn	gallery.me.com	2012-04-07 12:35:07	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	gallery.me.com-lamargunn.warc.gz	5130772
+lamargunn	homepage.mac.com	2012-04-07 12:35:10	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	homepage.mac.com-lamargunn.warc.gz	189152
+lamargunn	public.me.com	2012-04-07 12:34:54	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	public.me.com-lamargunn.warc.gz	4536847629
+lamargunn	web.me.com	2012-04-07 11:17:47	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	web.me.com-lamargunn.warc.gz	66567129
+mbessieres	gallery.me.com	2012-04-07 11:10:37	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	gallery.me.com-mbessieres.warc.gz	8353
+mbessieres	homepage.mac.com	2012-04-07 11:10:37	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	homepage.mac.com-mbessieres.warc.gz	5176
+mbessieres	public.me.com	2012-04-07 11:10:36	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	public.me.com-mbessieres.warc.gz	1923
+mbessieres	web.me.com	2012-04-07 11:10:36	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	web.me.com-mbessieres.warc.gz	17725
+uweoehm	gallery.me.com	2012-04-07 11:10:34	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	gallery.me.com-uweoehm.warc.gz	145340
+uweoehm	homepage.mac.com	2012-04-07 11:10:35	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	homepage.mac.com-uweoehm.warc.gz	4919
+uweoehm	public.me.com	2012-04-07 11:10:32	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	public.me.com-uweoehm.warc.gz	1909
+uweoehm	web.me.com	2012-04-07 11:10:30	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4896.tar	web.me.com-uweoehm.warc.gz	26648471

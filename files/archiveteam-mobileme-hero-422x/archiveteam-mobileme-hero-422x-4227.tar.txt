@@ -1,12 +1,12 @@
-Llatker	gallery.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	gallery.me.com-Llatker.warc.gz	0
-Llatker	homepage.mac.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	homepage.mac.com-Llatker.warc.gz	0
-Llatker	public.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	public.me.com-Llatker.warc.gz	0
-Llatker	web.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	web.me.com-Llatker.warc.gz	0
-bigdaddyindustries	gallery.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	gallery.me.com-bigdaddyindustries.warc.gz	0
-bigdaddyindustries	homepage.mac.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	homepage.mac.com-bigdaddyindustries.warc.gz	0
-bigdaddyindustries	public.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	public.me.com-bigdaddyindustries.warc.gz	0
-bigdaddyindustries	web.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	web.me.com-bigdaddyindustries.warc.gz	0
-catherine.stassin	gallery.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	gallery.me.com-catherine.stassin.warc.gz	0
-catherine.stassin	homepage.mac.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	homepage.mac.com-catherine.stassin.warc.gz	0
-catherine.stassin	public.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	public.me.com-catherine.stassin.warc.gz	0
-catherine.stassin	web.me.com		archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	web.me.com-catherine.stassin.warc.gz	0
+Llatker	gallery.me.com	2012-04-05 10:45:55	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	gallery.me.com-Llatker.warc.gz	84834271
+Llatker	homepage.mac.com	2012-04-05 10:55:34	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	homepage.mac.com-Llatker.warc.gz	492197871
+Llatker	public.me.com	2012-04-05 10:41:15	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	public.me.com-Llatker.warc.gz	1911
+Llatker	web.me.com	2012-04-05 10:41:15	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	web.me.com-Llatker.warc.gz	5338817
+bigdaddyindustries	gallery.me.com	2012-04-05 11:52:47	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	gallery.me.com-bigdaddyindustries.warc.gz	839461095
+bigdaddyindustries	homepage.mac.com	2012-04-05 11:52:48	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	homepage.mac.com-bigdaddyindustries.warc.gz	4946
+bigdaddyindustries	public.me.com	2012-04-05 11:46:13	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	public.me.com-bigdaddyindustries.warc.gz	3229113861
+bigdaddyindustries	web.me.com	2012-04-05 11:00:48	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	web.me.com-bigdaddyindustries.warc.gz	76946875
+catherine.stassin	gallery.me.com	2012-04-05 10:57:47	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	gallery.me.com-catherine.stassin.warc.gz	5987
+catherine.stassin	homepage.mac.com	2012-04-05 10:57:51	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	homepage.mac.com-catherine.stassin.warc.gz	4928
+catherine.stassin	public.me.com	2012-04-05 10:57:44	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	public.me.com-catherine.stassin.warc.gz	9020497
+catherine.stassin	web.me.com	2012-04-05 10:57:23	archiveteam-mobileme-hero-422x	archiveteam-mobileme-hero-422x-4227.tar	web.me.com-catherine.stassin.warc.gz	7799245

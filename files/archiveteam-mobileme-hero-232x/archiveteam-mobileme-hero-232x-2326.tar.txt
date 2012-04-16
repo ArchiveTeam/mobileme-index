@@ -1,20 +1,20 @@
-boyetb	gallery.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	gallery.me.com-boyetb.warc.gz	0
-boyetb	homepage.mac.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	homepage.mac.com-boyetb.warc.gz	0
-boyetb	public.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	public.me.com-boyetb.warc.gz	0
-boyetb	web.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	web.me.com-boyetb.warc.gz	0
-dock2	gallery.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	gallery.me.com-dock2.warc.gz	0
-dock2	homepage.mac.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	homepage.mac.com-dock2.warc.gz	0
-dock2	public.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	public.me.com-dock2.warc.gz	0
-dock2	web.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	web.me.com-dock2.warc.gz	0
-ethomas12	gallery.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	gallery.me.com-ethomas12.warc.gz	0
-ethomas12	homepage.mac.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	homepage.mac.com-ethomas12.warc.gz	0
-ethomas12	public.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	public.me.com-ethomas12.warc.gz	0
-ethomas12	web.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	web.me.com-ethomas12.warc.gz	0
-ores.h.b.g	gallery.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	gallery.me.com-ores.h.b.g.warc.gz	0
-ores.h.b.g	homepage.mac.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	homepage.mac.com-ores.h.b.g.warc.gz	0
-ores.h.b.g	public.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	public.me.com-ores.h.b.g.warc.gz	0
-ores.h.b.g	web.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	web.me.com-ores.h.b.g.warc.gz	0
-skirtingboard	gallery.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	gallery.me.com-skirtingboard.warc.gz	0
-skirtingboard	homepage.mac.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	homepage.mac.com-skirtingboard.warc.gz	0
-skirtingboard	public.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	public.me.com-skirtingboard.warc.gz	0
-skirtingboard	web.me.com		archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	web.me.com-skirtingboard.warc.gz	0
+boyetb	gallery.me.com	2012-03-31 05:31:07	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	gallery.me.com-boyetb.warc.gz	4938
+boyetb	homepage.mac.com	2012-03-31 05:32:23	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	homepage.mac.com-boyetb.warc.gz	3182332
+boyetb	public.me.com	2012-03-31 05:31:06	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	public.me.com-boyetb.warc.gz	6188344
+boyetb	web.me.com	2012-03-31 05:30:56	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	web.me.com-boyetb.warc.gz	533744
+dock2	gallery.me.com	2012-03-31 05:35:05	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	gallery.me.com-dock2.warc.gz	45074929
+dock2	homepage.mac.com	2012-03-31 05:35:17	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	homepage.mac.com-dock2.warc.gz	5671385
+dock2	public.me.com	2012-03-31 05:34:46	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	public.me.com-dock2.warc.gz	1354606
+dock2	web.me.com	2012-03-31 05:34:44	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	web.me.com-dock2.warc.gz	109110200
+ethomas12	gallery.me.com	2012-03-31 05:30:46	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	gallery.me.com-ethomas12.warc.gz	96315768
+ethomas12	homepage.mac.com	2012-03-31 05:30:48	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	homepage.mac.com-ethomas12.warc.gz	145292
+ethomas12	public.me.com	2012-03-31 05:29:21	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	public.me.com-ethomas12.warc.gz	59919999
+ethomas12	web.me.com	2012-03-31 05:28:18	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	web.me.com-ethomas12.warc.gz	64346902
+ores.h.b.g	gallery.me.com	2012-03-31 06:30:38	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	gallery.me.com-ores.h.b.g.warc.gz	5078
+ores.h.b.g	homepage.mac.com	2012-03-31 06:30:57	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	homepage.mac.com-ores.h.b.g.warc.gz	537078
+ores.h.b.g	public.me.com	2012-03-31 06:30:36	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	public.me.com-ores.h.b.g.warc.gz	3371519619
+ores.h.b.g	web.me.com	2012-03-31 05:53:08	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	web.me.com-ores.h.b.g.warc.gz	208708127
+skirtingboard	gallery.me.com	2012-03-31 05:45:58	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	gallery.me.com-skirtingboard.warc.gz	94313079
+skirtingboard	homepage.mac.com	2012-03-31 05:46:00	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	homepage.mac.com-skirtingboard.warc.gz	71533
+skirtingboard	public.me.com	2012-03-31 05:43:50	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	public.me.com-skirtingboard.warc.gz	469377046
+skirtingboard	web.me.com	2012-03-31 05:41:37	archiveteam-mobileme-hero-232x	archiveteam-mobileme-hero-232x-2326.tar	web.me.com-skirtingboard.warc.gz	150008850

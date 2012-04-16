@@ -1,12 +1,12 @@
-crystal_madison	gallery.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	gallery.me.com-crystal_madison.warc.gz	0
-crystal_madison	homepage.mac.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	homepage.mac.com-crystal_madison.warc.gz	0
-crystal_madison	public.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	public.me.com-crystal_madison.warc.gz	0
-crystal_madison	web.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	web.me.com-crystal_madison.warc.gz	0
-dmiracle	gallery.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	gallery.me.com-dmiracle.warc.gz	0
-dmiracle	homepage.mac.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	homepage.mac.com-dmiracle.warc.gz	0
-dmiracle	public.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	public.me.com-dmiracle.warc.gz	0
-dmiracle	web.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	web.me.com-dmiracle.warc.gz	0
-guy_foster	gallery.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	gallery.me.com-guy_foster.warc.gz	0
-guy_foster	homepage.mac.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	homepage.mac.com-guy_foster.warc.gz	0
-guy_foster	public.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	public.me.com-guy_foster.warc.gz	0
-guy_foster	web.me.com		archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	web.me.com-guy_foster.warc.gz	0
+crystal_madison	gallery.me.com	2012-04-02 11:33:51	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	gallery.me.com-crystal_madison.warc.gz	201597278
+crystal_madison	homepage.mac.com	2012-04-02 11:33:51	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	homepage.mac.com-crystal_madison.warc.gz	7888
+crystal_madison	public.me.com	2012-04-02 11:24:00	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	public.me.com-crystal_madison.warc.gz	1931
+crystal_madison	web.me.com	2012-04-02 11:23:59	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	web.me.com-crystal_madison.warc.gz	55649790
+dmiracle	gallery.me.com	2012-04-02 10:45:24	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	gallery.me.com-dmiracle.warc.gz	587681
+dmiracle	homepage.mac.com	2012-04-02 10:45:24	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	homepage.mac.com-dmiracle.warc.gz	4899
+dmiracle	public.me.com	2012-04-02 10:45:20	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	public.me.com-dmiracle.warc.gz	1915
+dmiracle	web.me.com	2012-04-02 10:45:20	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	web.me.com-dmiracle.warc.gz	68079
+guy_foster	gallery.me.com	2012-04-02 22:35:39	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	gallery.me.com-guy_foster.warc.gz	197795953
+guy_foster	homepage.mac.com	2012-04-02 22:35:39	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	homepage.mac.com-guy_foster.warc.gz	4927
+guy_foster	public.me.com	2012-04-02 22:33:08	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	public.me.com-guy_foster.warc.gz	15919659
+guy_foster	web.me.com	2012-04-02 22:32:23	archiveteam-mobileme-hero-313x	archiveteam-mobileme-hero-313x-3137.tar	web.me.com-guy_foster.warc.gz	4603399438

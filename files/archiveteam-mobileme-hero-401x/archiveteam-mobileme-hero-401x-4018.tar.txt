@@ -1,20 +1,20 @@
-blackaquaman	gallery.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	gallery.me.com-blackaquaman.warc.gz	0
-blackaquaman	homepage.mac.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	homepage.mac.com-blackaquaman.warc.gz	0
-blackaquaman	public.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	public.me.com-blackaquaman.warc.gz	0
-blackaquaman	web.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	web.me.com-blackaquaman.warc.gz	0
-dlancaster	gallery.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	gallery.me.com-dlancaster.warc.gz	0
-dlancaster	homepage.mac.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	homepage.mac.com-dlancaster.warc.gz	0
-dlancaster	public.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	public.me.com-dlancaster.warc.gz	0
-dlancaster	web.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	web.me.com-dlancaster.warc.gz	0
-ontherhodes	gallery.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	gallery.me.com-ontherhodes.warc.gz	0
-ontherhodes	homepage.mac.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	homepage.mac.com-ontherhodes.warc.gz	0
-ontherhodes	public.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	public.me.com-ontherhodes.warc.gz	0
-ontherhodes	web.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	web.me.com-ontherhodes.warc.gz	0
-sbolyard	gallery.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	gallery.me.com-sbolyard.warc.gz	0
-sbolyard	homepage.mac.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	homepage.mac.com-sbolyard.warc.gz	0
-sbolyard	public.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	public.me.com-sbolyard.warc.gz	0
-sbolyard	web.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	web.me.com-sbolyard.warc.gz	0
-veronikalis	gallery.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	gallery.me.com-veronikalis.warc.gz	0
-veronikalis	homepage.mac.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	homepage.mac.com-veronikalis.warc.gz	0
-veronikalis	public.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	public.me.com-veronikalis.warc.gz	0
-veronikalis	web.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	web.me.com-veronikalis.warc.gz	0
+blackaquaman	gallery.me.com	2012-04-04 21:56:37	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	gallery.me.com-blackaquaman.warc.gz	5737
+blackaquaman	homepage.mac.com	2012-04-04 21:56:38	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	homepage.mac.com-blackaquaman.warc.gz	4932
+blackaquaman	public.me.com	2012-04-04 21:56:36	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	public.me.com-blackaquaman.warc.gz	1918
+blackaquaman	web.me.com	2012-04-04 21:56:35	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	web.me.com-blackaquaman.warc.gz	1478625
+dlancaster	gallery.me.com	2012-04-05 00:41:51	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	gallery.me.com-dlancaster.warc.gz	2884389557
+dlancaster	homepage.mac.com	2012-04-05 00:41:51	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	homepage.mac.com-dlancaster.warc.gz	4926
+dlancaster	public.me.com	2012-04-04 23:09:12	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	public.me.com-dlancaster.warc.gz	994703261
+dlancaster	web.me.com	2012-04-04 22:49:55	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	web.me.com-dlancaster.warc.gz	688990513
+ontherhodes	gallery.me.com	2012-04-04 21:56:47	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	gallery.me.com-ontherhodes.warc.gz	12349
+ontherhodes	homepage.mac.com	2012-04-04 21:56:48	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	homepage.mac.com-ontherhodes.warc.gz	7155
+ontherhodes	public.me.com	2012-04-04 21:56:44	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	public.me.com-ontherhodes.warc.gz	1923
+ontherhodes	web.me.com	2012-04-04 21:56:44	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	web.me.com-ontherhodes.warc.gz	22527
+sbolyard	gallery.me.com	2012-04-04 21:56:52	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	gallery.me.com-sbolyard.warc.gz	8346
+sbolyard	homepage.mac.com	2012-04-04 21:56:53	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	homepage.mac.com-sbolyard.warc.gz	5146
+sbolyard	public.me.com	2012-04-04 21:56:51	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	public.me.com-sbolyard.warc.gz	1908
+sbolyard	web.me.com	2012-04-04 21:56:51	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	web.me.com-sbolyard.warc.gz	17697
+veronikalis	gallery.me.com	2012-04-04 21:54:48	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	gallery.me.com-veronikalis.warc.gz	6778128
+veronikalis	homepage.mac.com	2012-04-04 21:54:52	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	homepage.mac.com-veronikalis.warc.gz	7620
+veronikalis	public.me.com	2012-04-04 21:54:21	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	public.me.com-veronikalis.warc.gz	135936737
+veronikalis	web.me.com	2012-04-04 21:42:34	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4018.tar	web.me.com-veronikalis.warc.gz	6887953

@@ -1,20 +1,20 @@
-auglm	gallery.me.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	gallery.me.com-auglm.warc.gz	0
-auglm	homepage.mac.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	homepage.mac.com-auglm.warc.gz	0
-auglm	public.me.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	public.me.com-auglm.warc.gz	0
-auglm	web.me.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	web.me.com-auglm.warc.gz	0
-georgsehrbrock	gallery.me.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	gallery.me.com-georgsehrbrock.warc.gz	0
-georgsehrbrock	homepage.mac.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	homepage.mac.com-georgsehrbrock.warc.gz	0
-georgsehrbrock	public.me.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	public.me.com-georgsehrbrock.warc.gz	0
-georgsehrbrock	web.me.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	web.me.com-georgsehrbrock.warc.gz	0
-heathercarina	gallery.me.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	gallery.me.com-heathercarina.warc.gz	0
-heathercarina	homepage.mac.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	homepage.mac.com-heathercarina.warc.gz	0
-heathercarina	public.me.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	public.me.com-heathercarina.warc.gz	0
-heathercarina	web.me.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	web.me.com-heathercarina.warc.gz	0
-mariesoulie	gallery.me.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	gallery.me.com-mariesoulie.warc.gz	0
-mariesoulie	homepage.mac.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	homepage.mac.com-mariesoulie.warc.gz	0
-mariesoulie	public.me.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	public.me.com-mariesoulie.warc.gz	0
-mariesoulie	web.me.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	web.me.com-mariesoulie.warc.gz	0
-tonybrazil	gallery.me.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	gallery.me.com-tonybrazil.warc.gz	0
-tonybrazil	homepage.mac.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	homepage.mac.com-tonybrazil.warc.gz	0
-tonybrazil	public.me.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	public.me.com-tonybrazil.warc.gz	0
-tonybrazil	web.me.com		archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	web.me.com-tonybrazil.warc.gz	0
+auglm	gallery.me.com	2012-04-06 03:07:29	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	gallery.me.com-auglm.warc.gz	512428168
+auglm	homepage.mac.com	2012-04-06 03:07:29	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	homepage.mac.com-auglm.warc.gz	4901
+auglm	public.me.com	2012-04-06 02:57:18	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	public.me.com-auglm.warc.gz	246047089
+auglm	web.me.com	2012-04-06 02:51:47	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	web.me.com-auglm.warc.gz	16795281
+georgsehrbrock	gallery.me.com	2012-04-06 04:16:44	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	gallery.me.com-georgsehrbrock.warc.gz	4305
+georgsehrbrock	homepage.mac.com	2012-04-06 04:16:53	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	homepage.mac.com-georgsehrbrock.warc.gz	112252
+georgsehrbrock	public.me.com	2012-04-06 04:16:43	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	public.me.com-georgsehrbrock.warc.gz	2033872
+georgsehrbrock	web.me.com	2012-04-06 04:16:24	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	web.me.com-georgsehrbrock.warc.gz	7478
+heathercarina	gallery.me.com	2012-04-06 04:16:20	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	gallery.me.com-heathercarina.warc.gz	1288181689
+heathercarina	homepage.mac.com	2012-04-06 04:16:20	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	homepage.mac.com-heathercarina.warc.gz	4929
+heathercarina	public.me.com	2012-04-06 03:48:51	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	public.me.com-heathercarina.warc.gz	1923
+heathercarina	web.me.com	2012-04-06 03:48:50	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	web.me.com-heathercarina.warc.gz	241034571
+mariesoulie	gallery.me.com	2012-04-06 06:01:03	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	gallery.me.com-mariesoulie.warc.gz	179506043
+mariesoulie	homepage.mac.com	2012-04-06 06:01:03	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	homepage.mac.com-mariesoulie.warc.gz	4917
+mariesoulie	public.me.com	2012-04-06 05:52:31	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	public.me.com-mariesoulie.warc.gz	2439704654
+mariesoulie	web.me.com	2012-04-06 05:22:37	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	web.me.com-mariesoulie.warc.gz	2827672651
+tonybrazil	gallery.me.com	2012-04-06 02:47:17	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	gallery.me.com-tonybrazil.warc.gz	4265
+tonybrazil	homepage.mac.com	2012-04-06 02:47:17	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	homepage.mac.com-tonybrazil.warc.gz	4921
+tonybrazil	public.me.com	2012-04-06 02:47:16	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	public.me.com-tonybrazil.warc.gz	1927
+tonybrazil	web.me.com	2012-04-06 02:47:15	archiveteam-mobileme-hero-453x	archiveteam-mobileme-hero-453x-4530.tar	web.me.com-tonybrazil.warc.gz	6571402

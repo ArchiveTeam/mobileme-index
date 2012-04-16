@@ -1,12 +1,12 @@
-bbc_sparta	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	gallery.me.com-bbc_sparta.warc.gz	0
-bbc_sparta	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	homepage.mac.com-bbc_sparta.warc.gz	0
-bbc_sparta	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	public.me.com-bbc_sparta.warc.gz	0
-bbc_sparta	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	web.me.com-bbc_sparta.warc.gz	0
-ianhartsoe	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	gallery.me.com-ianhartsoe.warc.gz	0
-ianhartsoe	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	homepage.mac.com-ianhartsoe.warc.gz	0
-ianhartsoe	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	public.me.com-ianhartsoe.warc.gz	0
-ianhartsoe	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	web.me.com-ianhartsoe.warc.gz	0
-tgbechtel	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	gallery.me.com-tgbechtel.warc.gz	0
-tgbechtel	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	homepage.mac.com-tgbechtel.warc.gz	0
-tgbechtel	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	public.me.com-tgbechtel.warc.gz	0
-tgbechtel	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	web.me.com-tgbechtel.warc.gz	0
+bbc_sparta	gallery.me.com	2012-04-09 17:18:47	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	gallery.me.com-bbc_sparta.warc.gz	2469862256
+bbc_sparta	homepage.mac.com	2012-04-09 17:18:47	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	homepage.mac.com-bbc_sparta.warc.gz	4927
+bbc_sparta	public.me.com	2012-04-09 16:52:38	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	public.me.com-bbc_sparta.warc.gz	77472835
+bbc_sparta	web.me.com	2012-04-09 16:50:14	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	web.me.com-bbc_sparta.warc.gz	1644192393
+ianhartsoe	gallery.me.com	2012-04-09 17:18:50	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	gallery.me.com-ianhartsoe.warc.gz	12337
+ianhartsoe	homepage.mac.com	2012-04-09 17:18:50	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	homepage.mac.com-ianhartsoe.warc.gz	7160
+ianhartsoe	public.me.com	2012-04-09 17:18:49	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	public.me.com-ianhartsoe.warc.gz	1920
+ianhartsoe	web.me.com	2012-04-09 17:18:49	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	web.me.com-ianhartsoe.warc.gz	22501
+tgbechtel	gallery.me.com	2012-04-09 17:27:35	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	gallery.me.com-tgbechtel.warc.gz	413521645
+tgbechtel	homepage.mac.com	2012-04-09 17:27:35	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	homepage.mac.com-tgbechtel.warc.gz	7898
+tgbechtel	public.me.com	2012-04-09 17:23:31	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	public.me.com-tgbechtel.warc.gz	1921
+tgbechtel	web.me.com	2012-04-09 17:23:30	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5559.tar	web.me.com-tgbechtel.warc.gz	98620321

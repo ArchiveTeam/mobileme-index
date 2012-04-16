@@ -1,8 +1,8 @@
-jpetty	gallery.me.com		archiveteam-mobileme-hero-322x	archiveteam-mobileme-hero-322x-3226.tar	gallery.me.com-jpetty.warc.gz	0
-jpetty	homepage.mac.com		archiveteam-mobileme-hero-322x	archiveteam-mobileme-hero-322x-3226.tar	homepage.mac.com-jpetty.warc.gz	0
-jpetty	public.me.com		archiveteam-mobileme-hero-322x	archiveteam-mobileme-hero-322x-3226.tar	public.me.com-jpetty.warc.gz	0
-jpetty	web.me.com		archiveteam-mobileme-hero-322x	archiveteam-mobileme-hero-322x-3226.tar	web.me.com-jpetty.warc.gz	0
-mrsnewell	gallery.me.com		archiveteam-mobileme-hero-322x	archiveteam-mobileme-hero-322x-3226.tar	gallery.me.com-mrsnewell.warc.gz	0
-mrsnewell	homepage.mac.com		archiveteam-mobileme-hero-322x	archiveteam-mobileme-hero-322x-3226.tar	homepage.mac.com-mrsnewell.warc.gz	0
-mrsnewell	public.me.com		archiveteam-mobileme-hero-322x	archiveteam-mobileme-hero-322x-3226.tar	public.me.com-mrsnewell.warc.gz	0
-mrsnewell	web.me.com		archiveteam-mobileme-hero-322x	archiveteam-mobileme-hero-322x-3226.tar	web.me.com-mrsnewell.warc.gz	0
+jpetty	gallery.me.com	2012-04-03 01:54:04	archiveteam-mobileme-hero-322x	archiveteam-mobileme-hero-322x-3226.tar	gallery.me.com-jpetty.warc.gz	3283379406
+jpetty	homepage.mac.com	2012-04-03 01:54:04	archiveteam-mobileme-hero-322x	archiveteam-mobileme-hero-322x-3226.tar	homepage.mac.com-jpetty.warc.gz	4893
+jpetty	public.me.com	2012-04-03 00:13:23	archiveteam-mobileme-hero-322x	archiveteam-mobileme-hero-322x-3226.tar	public.me.com-jpetty.warc.gz	3454
+jpetty	web.me.com	2012-04-03 00:13:21	archiveteam-mobileme-hero-322x	archiveteam-mobileme-hero-322x-3226.tar	web.me.com-jpetty.warc.gz	255311820
+mrsnewell	gallery.me.com	2012-04-03 03:20:30	archiveteam-mobileme-hero-322x	archiveteam-mobileme-hero-322x-3226.tar	gallery.me.com-mrsnewell.warc.gz	75891167
+mrsnewell	homepage.mac.com	2012-04-03 03:20:30	archiveteam-mobileme-hero-322x	archiveteam-mobileme-hero-322x-3226.tar	homepage.mac.com-mrsnewell.warc.gz	4921
+mrsnewell	public.me.com	2012-04-03 03:19:36	archiveteam-mobileme-hero-322x	archiveteam-mobileme-hero-322x-3226.tar	public.me.com-mrsnewell.warc.gz	560979630
+mrsnewell	web.me.com	2012-04-03 03:06:15	archiveteam-mobileme-hero-322x	archiveteam-mobileme-hero-322x-3226.tar	web.me.com-mrsnewell.warc.gz	714207102

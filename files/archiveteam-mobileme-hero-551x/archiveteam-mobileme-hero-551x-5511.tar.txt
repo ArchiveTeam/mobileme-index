@@ -1,12 +1,12 @@
-barracojoe	gallery.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	gallery.me.com-barracojoe.warc.gz	0
-barracojoe	homepage.mac.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	homepage.mac.com-barracojoe.warc.gz	0
-barracojoe	public.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	public.me.com-barracojoe.warc.gz	0
-barracojoe	web.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	web.me.com-barracojoe.warc.gz	0
-lorenzo	gallery.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	gallery.me.com-lorenzo.warc.gz	0
-lorenzo	homepage.mac.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	homepage.mac.com-lorenzo.warc.gz	0
-lorenzo	public.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	public.me.com-lorenzo.warc.gz	0
-lorenzo	web.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	web.me.com-lorenzo.warc.gz	0
-the_maestro2k	gallery.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	gallery.me.com-the_maestro2k.warc.gz	0
-the_maestro2k	homepage.mac.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	homepage.mac.com-the_maestro2k.warc.gz	0
-the_maestro2k	public.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	public.me.com-the_maestro2k.warc.gz	0
-the_maestro2k	web.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	web.me.com-the_maestro2k.warc.gz	0
+barracojoe	gallery.me.com	2012-04-09 14:28:51	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	gallery.me.com-barracojoe.warc.gz	5128239054
+barracojoe	homepage.mac.com	2012-04-09 14:28:52	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	homepage.mac.com-barracojoe.warc.gz	4926
+barracojoe	public.me.com	2012-04-09 12:53:12	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	public.me.com-barracojoe.warc.gz	1923
+barracojoe	web.me.com	2012-04-09 12:53:10	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	web.me.com-barracojoe.warc.gz	708089445
+lorenzo	gallery.me.com	2012-04-09 12:28:51	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	gallery.me.com-lorenzo.warc.gz	5031
+lorenzo	homepage.mac.com	2012-04-09 12:28:53	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	homepage.mac.com-lorenzo.warc.gz	4917
+lorenzo	public.me.com	2012-04-09 12:28:49	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	public.me.com-lorenzo.warc.gz	1906
+lorenzo	web.me.com	2012-04-09 12:28:48	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	web.me.com-lorenzo.warc.gz	553786446
+the_maestro2k	gallery.me.com	2012-04-09 12:16:30	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	gallery.me.com-the_maestro2k.warc.gz	8367
+the_maestro2k	homepage.mac.com	2012-04-09 12:16:30	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	homepage.mac.com-the_maestro2k.warc.gz	5182
+the_maestro2k	public.me.com	2012-04-09 12:16:29	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	public.me.com-the_maestro2k.warc.gz	1931
+the_maestro2k	web.me.com	2012-04-09 12:16:28	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5511.tar	web.me.com-the_maestro2k.warc.gz	17721

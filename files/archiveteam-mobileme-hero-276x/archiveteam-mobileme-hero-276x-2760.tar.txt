@@ -1,28 +1,28 @@
-bareads	gallery.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	gallery.me.com-bareads.warc.gz	0
-bareads	homepage.mac.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	homepage.mac.com-bareads.warc.gz	0
-bareads	public.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	public.me.com-bareads.warc.gz	0
-bareads	web.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	web.me.com-bareads.warc.gz	0
-bygdog	gallery.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	gallery.me.com-bygdog.warc.gz	0
-bygdog	homepage.mac.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	homepage.mac.com-bygdog.warc.gz	0
-bygdog	public.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	public.me.com-bygdog.warc.gz	0
-bygdog	web.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	web.me.com-bygdog.warc.gz	0
-genn001	gallery.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	gallery.me.com-genn001.warc.gz	0
-genn001	homepage.mac.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	homepage.mac.com-genn001.warc.gz	0
-genn001	public.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	public.me.com-genn001.warc.gz	0
-genn001	web.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	web.me.com-genn001.warc.gz	0
-janetsimonsen	gallery.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	gallery.me.com-janetsimonsen.warc.gz	0
-janetsimonsen	homepage.mac.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	homepage.mac.com-janetsimonsen.warc.gz	0
-janetsimonsen	public.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	public.me.com-janetsimonsen.warc.gz	0
-janetsimonsen	web.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	web.me.com-janetsimonsen.warc.gz	0
-johnsutter	gallery.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	gallery.me.com-johnsutter.warc.gz	0
-johnsutter	homepage.mac.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	homepage.mac.com-johnsutter.warc.gz	0
-johnsutter	public.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	public.me.com-johnsutter.warc.gz	0
-johnsutter	web.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	web.me.com-johnsutter.warc.gz	0
-softball4	gallery.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	gallery.me.com-softball4.warc.gz	0
-softball4	homepage.mac.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	homepage.mac.com-softball4.warc.gz	0
-softball4	public.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	public.me.com-softball4.warc.gz	0
-softball4	web.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	web.me.com-softball4.warc.gz	0
-srovets	gallery.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	gallery.me.com-srovets.warc.gz	0
-srovets	homepage.mac.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	homepage.mac.com-srovets.warc.gz	0
-srovets	public.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	public.me.com-srovets.warc.gz	0
-srovets	web.me.com		archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	web.me.com-srovets.warc.gz	0
+bareads	gallery.me.com	2012-04-01 20:59:29	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	gallery.me.com-bareads.warc.gz	5741
+bareads	homepage.mac.com	2012-04-01 20:59:29	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	homepage.mac.com-bareads.warc.gz	4878
+bareads	public.me.com	2012-04-01 20:59:28	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	public.me.com-bareads.warc.gz	663399336
+bareads	web.me.com	2012-04-01 20:52:04	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	web.me.com-bareads.warc.gz	60344668
+bygdog	gallery.me.com	2012-04-01 20:50:06	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	gallery.me.com-bygdog.warc.gz	8335
+bygdog	homepage.mac.com	2012-04-01 20:50:07	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	homepage.mac.com-bygdog.warc.gz	5161
+bygdog	public.me.com	2012-04-01 20:50:06	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	public.me.com-bygdog.warc.gz	1917
+bygdog	web.me.com	2012-04-01 20:50:06	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	web.me.com-bygdog.warc.gz	17713
+genn001	gallery.me.com	2012-04-01 20:00:04	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	gallery.me.com-genn001.warc.gz	5008
+genn001	homepage.mac.com	2012-04-01 20:00:04	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	homepage.mac.com-genn001.warc.gz	7814
+genn001	public.me.com	2012-04-01 20:00:04	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	public.me.com-genn001.warc.gz	3880
+genn001	web.me.com	2012-04-01 20:00:03	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	web.me.com-genn001.warc.gz	28842
+janetsimonsen	gallery.me.com	2012-04-01 20:50:05	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	gallery.me.com-janetsimonsen.warc.gz	5035
+janetsimonsen	homepage.mac.com	2012-04-01 20:50:05	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	homepage.mac.com-janetsimonsen.warc.gz	4922
+janetsimonsen	public.me.com	2012-04-01 20:50:00	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	public.me.com-janetsimonsen.warc.gz	1924
+janetsimonsen	web.me.com	2012-04-01 20:50:00	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	web.me.com-janetsimonsen.warc.gz	473877996
+johnsutter	gallery.me.com	2012-04-01 21:49:06	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	gallery.me.com-johnsutter.warc.gz	1772367609
+johnsutter	homepage.mac.com	2012-04-01 21:49:06	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	homepage.mac.com-johnsutter.warc.gz	4911
+johnsutter	public.me.com	2012-04-01 21:34:41	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	public.me.com-johnsutter.warc.gz	1915
+johnsutter	web.me.com	2012-04-01 21:34:40	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	web.me.com-johnsutter.warc.gz	1695081371
+softball4	gallery.me.com	2012-04-01 21:00:24	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	gallery.me.com-softball4.warc.gz	3881355
+softball4	homepage.mac.com	2012-04-01 21:00:24	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	homepage.mac.com-softball4.warc.gz	4917
+softball4	public.me.com	2012-04-01 21:00:20	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	public.me.com-softball4.warc.gz	1914
+softball4	web.me.com	2012-04-01 21:00:20	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	web.me.com-softball4.warc.gz	4617369
+srovets	gallery.me.com	2012-04-01 21:00:26	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	gallery.me.com-srovets.warc.gz	8350
+srovets	homepage.mac.com	2012-04-01 21:00:26	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	homepage.mac.com-srovets.warc.gz	5163
+srovets	public.me.com	2012-04-01 21:00:25	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	public.me.com-srovets.warc.gz	1908
+srovets	web.me.com	2012-04-01 21:00:25	archiveteam-mobileme-hero-276x	archiveteam-mobileme-hero-276x-2760.tar	web.me.com-srovets.warc.gz	17674

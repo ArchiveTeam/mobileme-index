@@ -1,16 +1,16 @@
-alan.dodsworth	gallery.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	gallery.me.com-alan.dodsworth.warc.gz	0
-alan.dodsworth	homepage.mac.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	homepage.mac.com-alan.dodsworth.warc.gz	0
-alan.dodsworth	public.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	public.me.com-alan.dodsworth.warc.gz	0
-alan.dodsworth	web.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	web.me.com-alan.dodsworth.warc.gz	0
-dhinx	gallery.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	gallery.me.com-dhinx.warc.gz	0
-dhinx	homepage.mac.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	homepage.mac.com-dhinx.warc.gz	0
-dhinx	public.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	public.me.com-dhinx.warc.gz	0
-dhinx	web.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	web.me.com-dhinx.warc.gz	0
-keithric	gallery.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	gallery.me.com-keithric.warc.gz	0
-keithric	homepage.mac.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	homepage.mac.com-keithric.warc.gz	0
-keithric	public.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	public.me.com-keithric.warc.gz	0
-keithric	web.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	web.me.com-keithric.warc.gz	0
-thomasplante	gallery.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	gallery.me.com-thomasplante.warc.gz	0
-thomasplante	homepage.mac.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	homepage.mac.com-thomasplante.warc.gz	0
-thomasplante	public.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	public.me.com-thomasplante.warc.gz	0
-thomasplante	web.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	web.me.com-thomasplante.warc.gz	0
+alan.dodsworth	gallery.me.com	2012-04-10 10:20:13	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	gallery.me.com-alan.dodsworth.warc.gz	5050
+alan.dodsworth	homepage.mac.com	2012-04-10 10:20:14	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	homepage.mac.com-alan.dodsworth.warc.gz	4940
+alan.dodsworth	public.me.com	2012-04-10 10:20:13	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	public.me.com-alan.dodsworth.warc.gz	1927
+alan.dodsworth	web.me.com	2012-04-10 10:20:13	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	web.me.com-alan.dodsworth.warc.gz	2590683
+dhinx	gallery.me.com	2012-04-10 13:55:39	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	gallery.me.com-dhinx.warc.gz	6385794185
+dhinx	homepage.mac.com	2012-04-10 13:55:40	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	homepage.mac.com-dhinx.warc.gz	4884
+dhinx	public.me.com	2012-04-10 12:09:30	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	public.me.com-dhinx.warc.gz	1908
+dhinx	web.me.com	2012-04-10 12:09:29	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	web.me.com-dhinx.warc.gz	647249902
+keithric	gallery.me.com	2012-04-10 11:07:36	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	gallery.me.com-keithric.warc.gz	23468264
+keithric	homepage.mac.com	2012-04-10 11:07:39	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	homepage.mac.com-keithric.warc.gz	140415
+keithric	public.me.com	2012-04-10 11:07:15	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	public.me.com-keithric.warc.gz	12919951
+keithric	web.me.com	2012-04-10 11:06:46	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	web.me.com-keithric.warc.gz	24751484
+thomasplante	gallery.me.com	2012-04-10 11:05:57	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	gallery.me.com-thomasplante.warc.gz	1315992982
+thomasplante	homepage.mac.com	2012-04-10 11:05:57	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	homepage.mac.com-thomasplante.warc.gz	4903
+thomasplante	public.me.com	2012-04-10 10:42:11	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	public.me.com-thomasplante.warc.gz	214338026
+thomasplante	web.me.com	2012-04-10 10:38:56	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5957.tar	web.me.com-thomasplante.warc.gz	224914649

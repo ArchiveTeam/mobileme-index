@@ -1,16 +1,16 @@
-carloscazares	gallery.me.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	gallery.me.com-carloscazares.warc.gz	0
-carloscazares	homepage.mac.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	homepage.mac.com-carloscazares.warc.gz	0
-carloscazares	public.me.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	public.me.com-carloscazares.warc.gz	0
-carloscazares	web.me.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	web.me.com-carloscazares.warc.gz	0
-chelseadev	gallery.me.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	gallery.me.com-chelseadev.warc.gz	0
-chelseadev	homepage.mac.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	homepage.mac.com-chelseadev.warc.gz	0
-chelseadev	public.me.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	public.me.com-chelseadev.warc.gz	0
-chelseadev	web.me.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	web.me.com-chelseadev.warc.gz	0
-hilloring	gallery.me.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	gallery.me.com-hilloring.warc.gz	0
-hilloring	homepage.mac.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	homepage.mac.com-hilloring.warc.gz	0
-hilloring	public.me.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	public.me.com-hilloring.warc.gz	0
-hilloring	web.me.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	web.me.com-hilloring.warc.gz	0
-swedishpotato	gallery.me.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	gallery.me.com-swedishpotato.warc.gz	0
-swedishpotato	homepage.mac.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	homepage.mac.com-swedishpotato.warc.gz	0
-swedishpotato	public.me.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	public.me.com-swedishpotato.warc.gz	0
-swedishpotato	web.me.com		archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	web.me.com-swedishpotato.warc.gz	0
+carloscazares	gallery.me.com	2012-04-09 14:48:04	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	gallery.me.com-carloscazares.warc.gz	1084564738
+carloscazares	homepage.mac.com	2012-04-09 14:48:08	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	homepage.mac.com-carloscazares.warc.gz	4926
+carloscazares	public.me.com	2012-04-09 13:56:44	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	public.me.com-carloscazares.warc.gz	1918
+carloscazares	web.me.com	2012-04-09 13:56:42	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	web.me.com-carloscazares.warc.gz	265018726
+chelseadev	gallery.me.com	2012-04-09 15:05:17	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	gallery.me.com-chelseadev.warc.gz	4280
+chelseadev	homepage.mac.com	2012-04-09 15:05:18	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	homepage.mac.com-chelseadev.warc.gz	3491
+chelseadev	public.me.com	2012-04-09 15:05:17	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	public.me.com-chelseadev.warc.gz	1919
+chelseadev	web.me.com	2012-04-09 15:05:16	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	web.me.com-chelseadev.warc.gz	19223
+hilloring	gallery.me.com	2012-04-09 15:04:59	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	gallery.me.com-hilloring.warc.gz	5934
+hilloring	homepage.mac.com	2012-04-09 15:05:11	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	homepage.mac.com-hilloring.warc.gz	176894
+hilloring	public.me.com	2012-04-09 15:04:57	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	public.me.com-hilloring.warc.gz	1922
+hilloring	web.me.com	2012-04-09 15:04:56	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	web.me.com-hilloring.warc.gz	78250587
+swedishpotato	gallery.me.com	2012-04-09 18:59:52	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	gallery.me.com-swedishpotato.warc.gz	3869138725
+swedishpotato	homepage.mac.com	2012-04-09 18:59:54	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	homepage.mac.com-swedishpotato.warc.gz	4928
+swedishpotato	public.me.com	2012-04-09 15:42:03	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	public.me.com-swedishpotato.warc.gz	73825594
+swedishpotato	web.me.com	2012-04-09 15:36:53	archiveteam-mobileme-hero-559x	archiveteam-mobileme-hero-559x-5596.tar	web.me.com-swedishpotato.warc.gz	838231667

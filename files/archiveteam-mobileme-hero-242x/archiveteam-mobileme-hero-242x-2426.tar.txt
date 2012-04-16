@@ -1,20 +1,20 @@
-abigail.schaller	gallery.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	gallery.me.com-abigail.schaller.warc.gz	0
-abigail.schaller	homepage.mac.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	homepage.mac.com-abigail.schaller.warc.gz	0
-abigail.schaller	public.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	public.me.com-abigail.schaller.warc.gz	0
-abigail.schaller	web.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	web.me.com-abigail.schaller.warc.gz	0
-georgepellegrino	gallery.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	gallery.me.com-georgepellegrino.warc.gz	0
-georgepellegrino	homepage.mac.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	homepage.mac.com-georgepellegrino.warc.gz	0
-georgepellegrino	public.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	public.me.com-georgepellegrino.warc.gz	0
-georgepellegrino	web.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	web.me.com-georgepellegrino.warc.gz	0
-jasonmorris	gallery.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	gallery.me.com-jasonmorris.warc.gz	0
-jasonmorris	homepage.mac.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	homepage.mac.com-jasonmorris.warc.gz	0
-jasonmorris	public.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	public.me.com-jasonmorris.warc.gz	0
-jasonmorris	web.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	web.me.com-jasonmorris.warc.gz	0
-jbernas	gallery.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	gallery.me.com-jbernas.warc.gz	0
-jbernas	homepage.mac.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	homepage.mac.com-jbernas.warc.gz	0
-jbernas	public.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	public.me.com-jbernas.warc.gz	0
-jbernas	web.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	web.me.com-jbernas.warc.gz	0
-neXTSTORM	gallery.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	gallery.me.com-neXTSTORM.warc.gz	0
-neXTSTORM	homepage.mac.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	homepage.mac.com-neXTSTORM.warc.gz	0
-neXTSTORM	public.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	public.me.com-neXTSTORM.warc.gz	0
-neXTSTORM	web.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	web.me.com-neXTSTORM.warc.gz	0
+abigail.schaller	gallery.me.com	2012-03-31 11:33:41	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	gallery.me.com-abigail.schaller.warc.gz	12343
+abigail.schaller	homepage.mac.com	2012-03-31 11:33:41	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	homepage.mac.com-abigail.schaller.warc.gz	7168
+abigail.schaller	public.me.com	2012-03-31 11:33:40	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	public.me.com-abigail.schaller.warc.gz	1933
+abigail.schaller	web.me.com	2012-03-31 11:33:40	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	web.me.com-abigail.schaller.warc.gz	22502
+georgepellegrino	gallery.me.com	2012-03-31 11:33:38	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	gallery.me.com-georgepellegrino.warc.gz	6067
+georgepellegrino	homepage.mac.com	2012-03-31 11:33:39	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	homepage.mac.com-georgepellegrino.warc.gz	4942
+georgepellegrino	public.me.com	2012-03-31 11:33:37	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	public.me.com-georgepellegrino.warc.gz	294308
+georgepellegrino	web.me.com	2012-03-31 11:33:19	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	web.me.com-georgepellegrino.warc.gz	141411823
+jasonmorris	gallery.me.com	2012-03-31 11:24:02	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	gallery.me.com-jasonmorris.warc.gz	5042
+jasonmorris	homepage.mac.com	2012-03-31 11:24:03	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	homepage.mac.com-jasonmorris.warc.gz	4925
+jasonmorris	public.me.com	2012-03-31 11:24:01	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	public.me.com-jasonmorris.warc.gz	132780904
+jasonmorris	web.me.com	2012-03-31 11:20:28	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	web.me.com-jasonmorris.warc.gz	14811383
+jbernas	gallery.me.com	2012-03-31 14:42:59	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	gallery.me.com-jbernas.warc.gz	4695046163
+jbernas	homepage.mac.com	2012-03-31 14:43:00	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	homepage.mac.com-jbernas.warc.gz	4906
+jbernas	public.me.com	2012-03-31 13:57:44	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	public.me.com-jbernas.warc.gz	84061382
+jbernas	web.me.com	2012-03-31 13:54:46	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	web.me.com-jbernas.warc.gz	6569005019
+neXTSTORM	gallery.me.com	2012-03-31 12:19:21	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	gallery.me.com-neXTSTORM.warc.gz	104783303
+neXTSTORM	homepage.mac.com	2012-03-31 12:19:22	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	homepage.mac.com-neXTSTORM.warc.gz	4920
+neXTSTORM	public.me.com	2012-03-31 12:18:48	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	public.me.com-neXTSTORM.warc.gz	1926
+neXTSTORM	web.me.com	2012-03-31 12:18:42	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2426.tar	web.me.com-neXTSTORM.warc.gz	1068053990

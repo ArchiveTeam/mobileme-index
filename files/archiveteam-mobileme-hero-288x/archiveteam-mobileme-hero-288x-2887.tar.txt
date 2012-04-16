@@ -1,20 +1,20 @@
-aburcher	gallery.me.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	gallery.me.com-aburcher.warc.gz	0
-aburcher	homepage.mac.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	homepage.mac.com-aburcher.warc.gz	0
-aburcher	public.me.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	public.me.com-aburcher.warc.gz	0
-aburcher	web.me.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	web.me.com-aburcher.warc.gz	0
-fun4run	gallery.me.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	gallery.me.com-fun4run.warc.gz	0
-fun4run	homepage.mac.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	homepage.mac.com-fun4run.warc.gz	0
-fun4run	public.me.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	public.me.com-fun4run.warc.gz	0
-fun4run	web.me.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	web.me.com-fun4run.warc.gz	0
-hhall1	gallery.me.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	gallery.me.com-hhall1.warc.gz	0
-hhall1	homepage.mac.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	homepage.mac.com-hhall1.warc.gz	0
-hhall1	public.me.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	public.me.com-hhall1.warc.gz	0
-hhall1	web.me.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	web.me.com-hhall1.warc.gz	0
-jcurty	gallery.me.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	gallery.me.com-jcurty.warc.gz	0
-jcurty	homepage.mac.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	homepage.mac.com-jcurty.warc.gz	0
-jcurty	public.me.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	public.me.com-jcurty.warc.gz	0
-jcurty	web.me.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	web.me.com-jcurty.warc.gz	0
-nannan	gallery.me.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	gallery.me.com-nannan.warc.gz	0
-nannan	homepage.mac.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	homepage.mac.com-nannan.warc.gz	0
-nannan	public.me.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	public.me.com-nannan.warc.gz	0
-nannan	web.me.com		archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	web.me.com-nannan.warc.gz	0
+aburcher	gallery.me.com	2012-04-02 07:10:01	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	gallery.me.com-aburcher.warc.gz	5213
+aburcher	homepage.mac.com	2012-04-02 07:10:01	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	homepage.mac.com-aburcher.warc.gz	4910
+aburcher	public.me.com	2012-04-02 07:10:00	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	public.me.com-aburcher.warc.gz	1910
+aburcher	web.me.com	2012-04-02 07:09:58	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	web.me.com-aburcher.warc.gz	78334291
+fun4run	gallery.me.com	2012-04-02 06:44:00	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	gallery.me.com-fun4run.warc.gz	2545001415
+fun4run	homepage.mac.com	2012-04-02 06:44:00	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	homepage.mac.com-fun4run.warc.gz	4902
+fun4run	public.me.com	2012-04-02 06:08:48	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	public.me.com-fun4run.warc.gz	6589
+fun4run	web.me.com	2012-04-02 06:08:45	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	web.me.com-fun4run.warc.gz	343952510
+hhall1	gallery.me.com	2012-04-02 05:13:32	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	gallery.me.com-hhall1.warc.gz	5669
+hhall1	homepage.mac.com	2012-04-02 05:13:33	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	homepage.mac.com-hhall1.warc.gz	4893
+hhall1	public.me.com	2012-04-02 05:13:31	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	public.me.com-hhall1.warc.gz	1908
+hhall1	web.me.com	2012-04-02 05:13:30	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	web.me.com-hhall1.warc.gz	45219
+jcurty	gallery.me.com	2012-04-02 09:45:46	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	gallery.me.com-jcurty.warc.gz	3259174963
+jcurty	homepage.mac.com	2012-04-02 09:45:47	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	homepage.mac.com-jcurty.warc.gz	4903
+jcurty	public.me.com	2012-04-02 08:00:12	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	public.me.com-jcurty.warc.gz	36080483
+jcurty	web.me.com	2012-04-02 07:57:30	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	web.me.com-jcurty.warc.gz	648848999
+nannan	gallery.me.com	2012-04-02 05:37:06	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	gallery.me.com-nannan.warc.gz	23858304
+nannan	homepage.mac.com	2012-04-02 05:37:21	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	homepage.mac.com-nannan.warc.gz	139632
+nannan	public.me.com	2012-04-02 05:35:00	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	public.me.com-nannan.warc.gz	1913
+nannan	web.me.com	2012-04-02 05:34:57	archiveteam-mobileme-hero-288x	archiveteam-mobileme-hero-288x-2887.tar	web.me.com-nannan.warc.gz	98763693

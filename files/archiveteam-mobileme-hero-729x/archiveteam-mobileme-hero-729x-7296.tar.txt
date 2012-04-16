@@ -1,20 +1,20 @@
-ainsworth.mac	gallery.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	gallery.me.com-ainsworth.mac.warc.gz	0
-ainsworth.mac	homepage.mac.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	homepage.mac.com-ainsworth.mac.warc.gz	0
-ainsworth.mac	public.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	public.me.com-ainsworth.mac.warc.gz	0
-ainsworth.mac	web.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	web.me.com-ainsworth.mac.warc.gz	0
-ap_llywelyn	gallery.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	gallery.me.com-ap_llywelyn.warc.gz	0
-ap_llywelyn	homepage.mac.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	homepage.mac.com-ap_llywelyn.warc.gz	0
-ap_llywelyn	public.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	public.me.com-ap_llywelyn.warc.gz	0
-ap_llywelyn	web.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	web.me.com-ap_llywelyn.warc.gz	0
-fillipe415	gallery.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	gallery.me.com-fillipe415.warc.gz	0
-fillipe415	homepage.mac.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	homepage.mac.com-fillipe415.warc.gz	0
-fillipe415	public.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	public.me.com-fillipe415.warc.gz	0
-fillipe415	web.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	web.me.com-fillipe415.warc.gz	0
-haughhagedron	gallery.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	gallery.me.com-haughhagedron.warc.gz	0
-haughhagedron	homepage.mac.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	homepage.mac.com-haughhagedron.warc.gz	0
-haughhagedron	public.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	public.me.com-haughhagedron.warc.gz	0
-haughhagedron	web.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	web.me.com-haughhagedron.warc.gz	0
-rpr	gallery.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	gallery.me.com-rpr.warc.gz	0
-rpr	homepage.mac.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	homepage.mac.com-rpr.warc.gz	0
-rpr	public.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	public.me.com-rpr.warc.gz	0
-rpr	web.me.com		archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	web.me.com-rpr.warc.gz	0
+ainsworth.mac	gallery.me.com	2012-04-13 10:47:46	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	gallery.me.com-ainsworth.mac.warc.gz	9230675
+ainsworth.mac	homepage.mac.com	2012-04-13 10:47:52	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	homepage.mac.com-ainsworth.mac.warc.gz	121602
+ainsworth.mac	public.me.com	2012-04-13 10:47:23	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	public.me.com-ainsworth.mac.warc.gz	1923
+ainsworth.mac	web.me.com	2012-04-13 10:47:23	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	web.me.com-ainsworth.mac.warc.gz	83486450
+ap_llywelyn	gallery.me.com	2012-04-13 10:22:05	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	gallery.me.com-ap_llywelyn.warc.gz	4287
+ap_llywelyn	homepage.mac.com	2012-04-13 10:22:15	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	homepage.mac.com-ap_llywelyn.warc.gz	1350475
+ap_llywelyn	public.me.com	2012-04-13 10:22:04	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	public.me.com-ap_llywelyn.warc.gz	5328
+ap_llywelyn	web.me.com	2012-04-13 10:22:04	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	web.me.com-ap_llywelyn.warc.gz	5571653
+fillipe415	gallery.me.com	2012-04-13 10:47:56	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	gallery.me.com-fillipe415.warc.gz	4249
+fillipe415	homepage.mac.com	2012-04-13 10:47:56	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	homepage.mac.com-fillipe415.warc.gz	4906
+fillipe415	public.me.com	2012-04-13 10:47:55	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	public.me.com-fillipe415.warc.gz	1919
+fillipe415	web.me.com	2012-04-13 10:47:55	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	web.me.com-fillipe415.warc.gz	7417
+haughhagedron	gallery.me.com	2012-04-13 10:35:33	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	gallery.me.com-haughhagedron.warc.gz	49610587
+haughhagedron	homepage.mac.com	2012-04-13 10:35:34	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	homepage.mac.com-haughhagedron.warc.gz	4928
+haughhagedron	public.me.com	2012-04-13 10:32:07	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	public.me.com-haughhagedron.warc.gz	1927
+haughhagedron	web.me.com	2012-04-13 10:32:07	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	web.me.com-haughhagedron.warc.gz	42059728
+rpr	gallery.me.com	2012-04-13 12:08:36	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	gallery.me.com-rpr.warc.gz	5795215848
+rpr	homepage.mac.com	2012-04-13 12:08:36	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	homepage.mac.com-rpr.warc.gz	4887
+rpr	public.me.com	2012-04-13 11:03:56	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	public.me.com-rpr.warc.gz	23323778
+rpr	web.me.com	2012-04-13 11:03:22	archiveteam-mobileme-hero-729x	archiveteam-mobileme-hero-729x-7296.tar	web.me.com-rpr.warc.gz	56652207

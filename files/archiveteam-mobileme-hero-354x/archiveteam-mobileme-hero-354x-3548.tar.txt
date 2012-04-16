@@ -1,20 +1,20 @@
-arpayne	gallery.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	gallery.me.com-arpayne.warc.gz	0
-arpayne	homepage.mac.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	homepage.mac.com-arpayne.warc.gz	0
-arpayne	public.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	public.me.com-arpayne.warc.gz	0
-arpayne	web.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	web.me.com-arpayne.warc.gz	0
-jedimail	gallery.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	gallery.me.com-jedimail.warc.gz	0
-jedimail	homepage.mac.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	homepage.mac.com-jedimail.warc.gz	0
-jedimail	public.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	public.me.com-jedimail.warc.gz	0
-jedimail	web.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	web.me.com-jedimail.warc.gz	0
-mk293	gallery.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	gallery.me.com-mk293.warc.gz	0
-mk293	homepage.mac.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	homepage.mac.com-mk293.warc.gz	0
-mk293	public.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	public.me.com-mk293.warc.gz	0
-mk293	web.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	web.me.com-mk293.warc.gz	0
-southeastern337	gallery.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	gallery.me.com-southeastern337.warc.gz	0
-southeastern337	homepage.mac.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	homepage.mac.com-southeastern337.warc.gz	0
-southeastern337	public.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	public.me.com-southeastern337.warc.gz	0
-southeastern337	web.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	web.me.com-southeastern337.warc.gz	0
-wynia	gallery.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	gallery.me.com-wynia.warc.gz	0
-wynia	homepage.mac.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	homepage.mac.com-wynia.warc.gz	0
-wynia	public.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	public.me.com-wynia.warc.gz	0
-wynia	web.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	web.me.com-wynia.warc.gz	0
+arpayne	gallery.me.com	2012-04-03 17:45:38	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	gallery.me.com-arpayne.warc.gz	1964139760
+arpayne	homepage.mac.com	2012-04-03 17:45:38	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	homepage.mac.com-arpayne.warc.gz	4904
+arpayne	public.me.com	2012-04-03 17:24:25	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	public.me.com-arpayne.warc.gz	153142227
+arpayne	web.me.com	2012-04-03 17:22:25	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	web.me.com-arpayne.warc.gz	30189016
+jedimail	gallery.me.com	2012-04-03 20:28:54	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	gallery.me.com-jedimail.warc.gz	1772479805
+jedimail	homepage.mac.com	2012-04-03 20:29:03	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	homepage.mac.com-jedimail.warc.gz	213244
+jedimail	public.me.com	2012-04-03 19:27:35	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	public.me.com-jedimail.warc.gz	19483
+jedimail	web.me.com	2012-04-03 19:27:10	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	web.me.com-jedimail.warc.gz	1356639051
+mk293	gallery.me.com	2012-04-03 17:04:45	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	gallery.me.com-mk293.warc.gz	7936
+mk293	homepage.mac.com	2012-04-03 17:04:45	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	homepage.mac.com-mk293.warc.gz	4907
+mk293	public.me.com	2012-04-03 17:04:43	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	public.me.com-mk293.warc.gz	1908
+mk293	web.me.com	2012-04-03 17:04:43	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	web.me.com-mk293.warc.gz	76296274
+southeastern337	gallery.me.com	2012-04-03 17:15:58	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	gallery.me.com-southeastern337.warc.gz	23063754
+southeastern337	homepage.mac.com	2012-04-03 17:16:03	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	homepage.mac.com-southeastern337.warc.gz	110871
+southeastern337	public.me.com	2012-04-03 17:15:49	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	public.me.com-southeastern337.warc.gz	1830942
+southeastern337	web.me.com	2012-04-03 17:15:47	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	web.me.com-southeastern337.warc.gz	128175893
+wynia	gallery.me.com	2012-04-03 17:16:06	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	gallery.me.com-wynia.warc.gz	12329
+wynia	homepage.mac.com	2012-04-03 17:16:06	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	homepage.mac.com-wynia.warc.gz	7145
+wynia	public.me.com	2012-04-03 17:16:05	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	public.me.com-wynia.warc.gz	1913
+wynia	web.me.com	2012-04-03 17:16:05	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3548.tar	web.me.com-wynia.warc.gz	22456

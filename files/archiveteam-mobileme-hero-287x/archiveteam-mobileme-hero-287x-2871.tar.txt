@@ -1,8 +1,8 @@
-matthias.schwab	gallery.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2871.tar	gallery.me.com-matthias.schwab.warc.gz	0
-matthias.schwab	homepage.mac.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2871.tar	homepage.mac.com-matthias.schwab.warc.gz	0
-matthias.schwab	public.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2871.tar	public.me.com-matthias.schwab.warc.gz	0
-matthias.schwab	web.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2871.tar	web.me.com-matthias.schwab.warc.gz	0
-sergio.lopez	gallery.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2871.tar	gallery.me.com-sergio.lopez.warc.gz	0
-sergio.lopez	homepage.mac.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2871.tar	homepage.mac.com-sergio.lopez.warc.gz	0
-sergio.lopez	public.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2871.tar	public.me.com-sergio.lopez.warc.gz	0
-sergio.lopez	web.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2871.tar	web.me.com-sergio.lopez.warc.gz	0
+matthias.schwab	gallery.me.com	2012-04-02 07:14:43	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2871.tar	gallery.me.com-matthias.schwab.warc.gz	5443922
+matthias.schwab	homepage.mac.com	2012-04-02 07:14:43	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2871.tar	homepage.mac.com-matthias.schwab.warc.gz	4945
+matthias.schwab	public.me.com	2012-04-02 07:14:31	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2871.tar	public.me.com-matthias.schwab.warc.gz	1933
+matthias.schwab	web.me.com	2012-04-02 07:14:30	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2871.tar	web.me.com-matthias.schwab.warc.gz	14870516
+sergio.lopez	gallery.me.com	2012-04-02 08:53:25	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2871.tar	gallery.me.com-sergio.lopez.warc.gz	4348583068
+sergio.lopez	homepage.mac.com	2012-04-02 08:53:26	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2871.tar	homepage.mac.com-sergio.lopez.warc.gz	7758
+sergio.lopez	public.me.com	2012-04-02 07:58:09	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2871.tar	public.me.com-sergio.lopez.warc.gz	3412
+sergio.lopez	web.me.com	2012-04-02 07:58:00	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2871.tar	web.me.com-sergio.lopez.warc.gz	1370954978

@@ -1,8 +1,8 @@
-chrismilian	gallery.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4320.tar	gallery.me.com-chrismilian.warc.gz	0
-chrismilian	homepage.mac.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4320.tar	homepage.mac.com-chrismilian.warc.gz	0
-chrismilian	public.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4320.tar	public.me.com-chrismilian.warc.gz	0
-chrismilian	web.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4320.tar	web.me.com-chrismilian.warc.gz	0
-extortive	gallery.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4320.tar	gallery.me.com-extortive.warc.gz	0
-extortive	homepage.mac.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4320.tar	homepage.mac.com-extortive.warc.gz	0
-extortive	public.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4320.tar	public.me.com-extortive.warc.gz	0
-extortive	web.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4320.tar	web.me.com-extortive.warc.gz	0
+chrismilian	gallery.me.com	2012-04-05 17:17:48	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4320.tar	gallery.me.com-chrismilian.warc.gz	2242397978
+chrismilian	homepage.mac.com	2012-04-05 17:17:55	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4320.tar	homepage.mac.com-chrismilian.warc.gz	139861
+chrismilian	public.me.com	2012-04-05 16:38:06	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4320.tar	public.me.com-chrismilian.warc.gz	1741361347
+chrismilian	web.me.com	2012-04-05 15:57:55	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4320.tar	web.me.com-chrismilian.warc.gz	4157455854
+extortive	gallery.me.com	2012-04-05 14:13:56	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4320.tar	gallery.me.com-extortive.warc.gz	8338
+extortive	homepage.mac.com	2012-04-05 14:13:56	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4320.tar	homepage.mac.com-extortive.warc.gz	5157
+extortive	public.me.com	2012-04-05 14:13:55	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4320.tar	public.me.com-extortive.warc.gz	1909
+extortive	web.me.com	2012-04-05 14:13:55	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4320.tar	web.me.com-extortive.warc.gz	17698

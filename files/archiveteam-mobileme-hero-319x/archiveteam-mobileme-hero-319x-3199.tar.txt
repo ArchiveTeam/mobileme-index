@@ -1,12 +1,12 @@
-ardoreal	gallery.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	gallery.me.com-ardoreal.warc.gz	0
-ardoreal	homepage.mac.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	homepage.mac.com-ardoreal.warc.gz	0
-ardoreal	public.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	public.me.com-ardoreal.warc.gz	0
-ardoreal	web.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	web.me.com-ardoreal.warc.gz	0
-bluerosecases	gallery.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	gallery.me.com-bluerosecases.warc.gz	0
-bluerosecases	homepage.mac.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	homepage.mac.com-bluerosecases.warc.gz	0
-bluerosecases	public.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	public.me.com-bluerosecases.warc.gz	0
-bluerosecases	web.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	web.me.com-bluerosecases.warc.gz	0
-hcfscwebmaster	gallery.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	gallery.me.com-hcfscwebmaster.warc.gz	0
-hcfscwebmaster	homepage.mac.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	homepage.mac.com-hcfscwebmaster.warc.gz	0
-hcfscwebmaster	public.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	public.me.com-hcfscwebmaster.warc.gz	0
-hcfscwebmaster	web.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	web.me.com-hcfscwebmaster.warc.gz	0
+ardoreal	gallery.me.com	2012-04-02 23:45:35	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	gallery.me.com-ardoreal.warc.gz	12300
+ardoreal	homepage.mac.com	2012-04-02 23:45:35	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	homepage.mac.com-ardoreal.warc.gz	7147
+ardoreal	public.me.com	2012-04-02 23:45:34	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	public.me.com-ardoreal.warc.gz	1910
+ardoreal	web.me.com	2012-04-02 23:45:34	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	web.me.com-ardoreal.warc.gz	22453
+bluerosecases	gallery.me.com	2012-04-02 23:45:32	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	gallery.me.com-bluerosecases.warc.gz	12363
+bluerosecases	homepage.mac.com	2012-04-02 23:45:32	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	homepage.mac.com-bluerosecases.warc.gz	7154
+bluerosecases	public.me.com	2012-04-02 23:45:31	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	public.me.com-bluerosecases.warc.gz	1929
+bluerosecases	web.me.com	2012-04-02 23:45:31	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	web.me.com-bluerosecases.warc.gz	22507
+hcfscwebmaster	gallery.me.com	2012-04-03 02:16:07	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	gallery.me.com-hcfscwebmaster.warc.gz	99514646
+hcfscwebmaster	homepage.mac.com	2012-04-03 02:16:08	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	homepage.mac.com-hcfscwebmaster.warc.gz	7917
+hcfscwebmaster	public.me.com	2012-04-03 02:09:25	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	public.me.com-hcfscwebmaster.warc.gz	34525
+hcfscwebmaster	web.me.com	2012-04-03 02:09:11	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3199.tar	web.me.com-hcfscwebmaster.warc.gz	5347888437

@@ -1,16 +1,16 @@
-blomster	gallery.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	gallery.me.com-blomster.warc.gz	0
-blomster	homepage.mac.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	homepage.mac.com-blomster.warc.gz	0
-blomster	public.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	public.me.com-blomster.warc.gz	0
-blomster	web.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	web.me.com-blomster.warc.gz	0
-clivebull	gallery.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	gallery.me.com-clivebull.warc.gz	0
-clivebull	homepage.mac.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	homepage.mac.com-clivebull.warc.gz	0
-clivebull	public.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	public.me.com-clivebull.warc.gz	0
-clivebull	web.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	web.me.com-clivebull.warc.gz	0
-jonasjansson	gallery.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	gallery.me.com-jonasjansson.warc.gz	0
-jonasjansson	homepage.mac.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	homepage.mac.com-jonasjansson.warc.gz	0
-jonasjansson	public.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	public.me.com-jonasjansson.warc.gz	0
-jonasjansson	web.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	web.me.com-jonasjansson.warc.gz	0
-wombat59	gallery.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	gallery.me.com-wombat59.warc.gz	0
-wombat59	homepage.mac.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	homepage.mac.com-wombat59.warc.gz	0
-wombat59	public.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	public.me.com-wombat59.warc.gz	0
-wombat59	web.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	web.me.com-wombat59.warc.gz	0
+blomster	gallery.me.com	2012-04-01 19:06:09	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	gallery.me.com-blomster.warc.gz	1795550350
+blomster	homepage.mac.com	2012-04-01 19:06:10	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	homepage.mac.com-blomster.warc.gz	4893
+blomster	public.me.com	2012-04-01 17:44:00	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	public.me.com-blomster.warc.gz	1912
+blomster	web.me.com	2012-04-01 17:43:59	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	web.me.com-blomster.warc.gz	14761466
+clivebull	gallery.me.com	2012-04-01 17:36:23	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	gallery.me.com-clivebull.warc.gz	2213506
+clivebull	homepage.mac.com	2012-04-01 17:36:23	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	homepage.mac.com-clivebull.warc.gz	4913
+clivebull	public.me.com	2012-04-01 17:36:10	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	public.me.com-clivebull.warc.gz	1915
+clivebull	web.me.com	2012-04-01 17:36:09	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	web.me.com-clivebull.warc.gz	415974993
+jonasjansson	gallery.me.com	2012-04-01 17:30:00	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	gallery.me.com-jonasjansson.warc.gz	1886393317
+jonasjansson	homepage.mac.com	2012-04-01 17:30:01	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	homepage.mac.com-jonasjansson.warc.gz	7879
+jonasjansson	public.me.com	2012-04-01 16:34:51	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	public.me.com-jonasjansson.warc.gz	3478
+jonasjansson	web.me.com	2012-04-01 16:34:48	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	web.me.com-jonasjansson.warc.gz	104580822
+wombat59	gallery.me.com	2012-04-01 19:55:29	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	gallery.me.com-wombat59.warc.gz	562734133
+wombat59	homepage.mac.com	2012-04-01 19:55:33	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	homepage.mac.com-wombat59.warc.gz	36856
+wombat59	public.me.com	2012-04-01 19:32:10	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	public.me.com-wombat59.warc.gz	24084000
+wombat59	web.me.com	2012-04-01 19:30:55	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2746.tar	web.me.com-wombat59.warc.gz	105020687

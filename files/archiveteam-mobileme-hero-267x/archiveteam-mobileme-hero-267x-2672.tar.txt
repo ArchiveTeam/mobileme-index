@@ -1,4 +1,4 @@
-bandbob	gallery.me.com		archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2672.tar	gallery.me.com-bandbob.warc.gz	0
-bandbob	homepage.mac.com		archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2672.tar	homepage.mac.com-bandbob.warc.gz	0
-bandbob	public.me.com		archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2672.tar	public.me.com-bandbob.warc.gz	0
-bandbob	web.me.com		archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2672.tar	web.me.com-bandbob.warc.gz	0
+bandbob	gallery.me.com	2012-04-01 12:36:18	archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2672.tar	gallery.me.com-bandbob.warc.gz	5006427817
+bandbob	homepage.mac.com	2012-04-01 12:37:40	archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2672.tar	homepage.mac.com-bandbob.warc.gz	1829168
+bandbob	public.me.com	2012-04-01 11:45:10	archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2672.tar	public.me.com-bandbob.warc.gz	39389670
+bandbob	web.me.com	2012-04-01 11:44:21	archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2672.tar	web.me.com-bandbob.warc.gz	1116866841

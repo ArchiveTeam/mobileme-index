@@ -1,16 +1,16 @@
-crating.raphael	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	gallery.me.com-crating.raphael.warc.gz	0
-crating.raphael	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	homepage.mac.com-crating.raphael.warc.gz	0
-crating.raphael	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	public.me.com-crating.raphael.warc.gz	0
-crating.raphael	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	web.me.com-crating.raphael.warc.gz	0
-eric.tassan	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	gallery.me.com-eric.tassan.warc.gz	0
-eric.tassan	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	homepage.mac.com-eric.tassan.warc.gz	0
-eric.tassan	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	public.me.com-eric.tassan.warc.gz	0
-eric.tassan	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	web.me.com-eric.tassan.warc.gz	0
-jp.everts	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	gallery.me.com-jp.everts.warc.gz	0
-jp.everts	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	homepage.mac.com-jp.everts.warc.gz	0
-jp.everts	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	public.me.com-jp.everts.warc.gz	0
-jp.everts	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	web.me.com-jp.everts.warc.gz	0
-peppermel	gallery.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	gallery.me.com-peppermel.warc.gz	0
-peppermel	homepage.mac.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	homepage.mac.com-peppermel.warc.gz	0
-peppermel	public.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	public.me.com-peppermel.warc.gz	0
-peppermel	web.me.com		archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	web.me.com-peppermel.warc.gz	0
+crating.raphael	gallery.me.com	2012-04-11 07:40:31	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	gallery.me.com-crating.raphael.warc.gz	1967898
+crating.raphael	homepage.mac.com	2012-04-11 07:40:31	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	homepage.mac.com-crating.raphael.warc.gz	4936
+crating.raphael	public.me.com	2012-04-11 07:40:26	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	public.me.com-crating.raphael.warc.gz	1930
+crating.raphael	web.me.com	2012-04-11 07:40:26	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	web.me.com-crating.raphael.warc.gz	173307045
+eric.tassan	gallery.me.com	2012-04-11 10:03:11	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	gallery.me.com-eric.tassan.warc.gz	2557980017
+eric.tassan	homepage.mac.com	2012-04-11 10:03:21	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	homepage.mac.com-eric.tassan.warc.gz	2825519
+eric.tassan	public.me.com	2012-04-11 09:22:05	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	public.me.com-eric.tassan.warc.gz	612852277
+eric.tassan	web.me.com	2012-04-11 09:16:45	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	web.me.com-eric.tassan.warc.gz	355667452
+jp.everts	gallery.me.com	2012-04-11 08:47:03	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	gallery.me.com-jp.everts.warc.gz	1685299351
+jp.everts	homepage.mac.com	2012-04-11 08:47:04	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	homepage.mac.com-jp.everts.warc.gz	4907
+jp.everts	public.me.com	2012-04-11 08:21:56	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	public.me.com-jp.everts.warc.gz	6732121
+jp.everts	web.me.com	2012-04-11 08:21:44	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	web.me.com-jp.everts.warc.gz	922428147
+peppermel	gallery.me.com	2012-04-11 07:32:55	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	gallery.me.com-peppermel.warc.gz	11660583
+peppermel	homepage.mac.com	2012-04-11 07:32:56	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	homepage.mac.com-peppermel.warc.gz	4913
+peppermel	public.me.com	2012-04-11 07:32:41	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	public.me.com-peppermel.warc.gz	1917
+peppermel	web.me.com	2012-04-11 07:32:41	archiveteam-mobileme-hero-631x	archiveteam-mobileme-hero-631x-6318.tar	web.me.com-peppermel.warc.gz	2301074

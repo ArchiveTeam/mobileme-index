@@ -1,20 +1,20 @@
-cdstranahan	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	gallery.me.com-cdstranahan.warc.gz	0
-cdstranahan	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	homepage.mac.com-cdstranahan.warc.gz	0
-cdstranahan	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	public.me.com-cdstranahan.warc.gz	0
-cdstranahan	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	web.me.com-cdstranahan.warc.gz	0
-cosmo26	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	gallery.me.com-cosmo26.warc.gz	0
-cosmo26	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	homepage.mac.com-cosmo26.warc.gz	0
-cosmo26	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	public.me.com-cosmo26.warc.gz	0
-cosmo26	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	web.me.com-cosmo26.warc.gz	0
-kirksstudio	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	gallery.me.com-kirksstudio.warc.gz	0
-kirksstudio	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	homepage.mac.com-kirksstudio.warc.gz	0
-kirksstudio	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	public.me.com-kirksstudio.warc.gz	0
-kirksstudio	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	web.me.com-kirksstudio.warc.gz	0
-nakamuramarket	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	gallery.me.com-nakamuramarket.warc.gz	0
-nakamuramarket	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	homepage.mac.com-nakamuramarket.warc.gz	0
-nakamuramarket	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	public.me.com-nakamuramarket.warc.gz	0
-nakamuramarket	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	web.me.com-nakamuramarket.warc.gz	0
-troymcdunn	gallery.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	gallery.me.com-troymcdunn.warc.gz	0
-troymcdunn	homepage.mac.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	homepage.mac.com-troymcdunn.warc.gz	0
-troymcdunn	public.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	public.me.com-troymcdunn.warc.gz	0
-troymcdunn	web.me.com		archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	web.me.com-troymcdunn.warc.gz	0
+cdstranahan	gallery.me.com	2012-04-01 05:59:06	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	gallery.me.com-cdstranahan.warc.gz	387822104
+cdstranahan	homepage.mac.com	2012-04-01 05:59:07	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	homepage.mac.com-cdstranahan.warc.gz	4934
+cdstranahan	public.me.com	2012-04-01 05:52:40	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	public.me.com-cdstranahan.warc.gz	1690590660
+cdstranahan	web.me.com	2012-04-01 05:32:32	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	web.me.com-cdstranahan.warc.gz	220965229
+cosmo26	gallery.me.com	2012-04-01 05:16:54	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	gallery.me.com-cosmo26.warc.gz	3571885
+cosmo26	homepage.mac.com	2012-04-01 05:16:54	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	homepage.mac.com-cosmo26.warc.gz	4914
+cosmo26	public.me.com	2012-04-01 05:16:46	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	public.me.com-cosmo26.warc.gz	37077
+cosmo26	web.me.com	2012-04-01 05:16:45	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	web.me.com-cosmo26.warc.gz	63887104
+kirksstudio	gallery.me.com	2012-04-01 07:30:17	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	gallery.me.com-kirksstudio.warc.gz	5195529854
+kirksstudio	homepage.mac.com	2012-04-01 07:30:20	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	homepage.mac.com-kirksstudio.warc.gz	79624
+kirksstudio	public.me.com	2012-04-01 06:53:07	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	public.me.com-kirksstudio.warc.gz	1929
+kirksstudio	web.me.com	2012-04-01 06:53:06	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	web.me.com-kirksstudio.warc.gz	1285843142
+nakamuramarket	gallery.me.com	2012-04-01 05:59:17	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	gallery.me.com-nakamuramarket.warc.gz	5141
+nakamuramarket	homepage.mac.com	2012-04-01 05:59:17	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	homepage.mac.com-nakamuramarket.warc.gz	6043
+nakamuramarket	public.me.com	2012-04-01 05:59:16	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	public.me.com-nakamuramarket.warc.gz	1931
+nakamuramarket	web.me.com	2012-04-01 05:59:16	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	web.me.com-nakamuramarket.warc.gz	33009
+troymcdunn	gallery.me.com	2012-04-01 05:59:10	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	gallery.me.com-troymcdunn.warc.gz	12341
+troymcdunn	homepage.mac.com	2012-04-01 05:59:10	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	homepage.mac.com-troymcdunn.warc.gz	7160
+troymcdunn	public.me.com	2012-04-01 05:59:09	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	public.me.com-troymcdunn.warc.gz	1921
+troymcdunn	web.me.com	2012-04-01 05:59:09	archiveteam-mobileme-hero-261x	archiveteam-mobileme-hero-261x-2618.tar	web.me.com-troymcdunn.warc.gz	22509

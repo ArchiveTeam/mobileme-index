@@ -1,12 +1,12 @@
-cmdouyard	gallery.me.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	gallery.me.com-cmdouyard.warc.gz	0
-cmdouyard	homepage.mac.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	homepage.mac.com-cmdouyard.warc.gz	0
-cmdouyard	public.me.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	public.me.com-cmdouyard.warc.gz	0
-cmdouyard	web.me.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	web.me.com-cmdouyard.warc.gz	0
-delfenriquez	gallery.me.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	gallery.me.com-delfenriquez.warc.gz	0
-delfenriquez	homepage.mac.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	homepage.mac.com-delfenriquez.warc.gz	0
-delfenriquez	public.me.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	public.me.com-delfenriquez.warc.gz	0
-delfenriquez	web.me.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	web.me.com-delfenriquez.warc.gz	0
-escritoesta	gallery.me.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	gallery.me.com-escritoesta.warc.gz	0
-escritoesta	homepage.mac.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	homepage.mac.com-escritoesta.warc.gz	0
-escritoesta	public.me.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	public.me.com-escritoesta.warc.gz	0
-escritoesta	web.me.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	web.me.com-escritoesta.warc.gz	0
+cmdouyard	gallery.me.com	2012-04-06 04:58:33	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	gallery.me.com-cmdouyard.warc.gz	12315
+cmdouyard	homepage.mac.com	2012-04-06 04:58:33	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	homepage.mac.com-cmdouyard.warc.gz	7152
+cmdouyard	public.me.com	2012-04-06 04:58:32	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	public.me.com-cmdouyard.warc.gz	1916
+cmdouyard	web.me.com	2012-04-06 04:58:31	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	web.me.com-cmdouyard.warc.gz	22480
+delfenriquez	gallery.me.com	2012-04-06 05:27:12	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	gallery.me.com-delfenriquez.warc.gz	2420241186
+delfenriquez	homepage.mac.com	2012-04-06 05:27:12	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	homepage.mac.com-delfenriquez.warc.gz	4905
+delfenriquez	public.me.com	2012-04-06 05:00:53	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	public.me.com-delfenriquez.warc.gz	1928
+delfenriquez	web.me.com	2012-04-06 05:00:52	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	web.me.com-delfenriquez.warc.gz	8945359
+escritoesta	gallery.me.com	2012-04-06 07:04:32	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	gallery.me.com-escritoesta.warc.gz	63000423
+escritoesta	homepage.mac.com	2012-04-06 07:04:33	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	homepage.mac.com-escritoesta.warc.gz	4925
+escritoesta	public.me.com	2012-04-06 07:02:48	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	public.me.com-escritoesta.warc.gz	6125710664
+escritoesta	web.me.com	2012-04-06 05:27:36	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4559.tar	web.me.com-escritoesta.warc.gz	1145301

@@ -1,40 +1,40 @@
-MNNT.RUDE	gallery.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-MNNT.RUDE.warc.gz	0
-MNNT.RUDE	homepage.mac.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-MNNT.RUDE.warc.gz	0
-MNNT.RUDE	public.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-MNNT.RUDE.warc.gz	0
-MNNT.RUDE	web.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-MNNT.RUDE.warc.gz	0
-bill.french	gallery.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-bill.french.warc.gz	0
-bill.french	homepage.mac.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-bill.french.warc.gz	0
-bill.french	public.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-bill.french.warc.gz	0
-bill.french	web.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-bill.french.warc.gz	0
-dmlast	gallery.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-dmlast.warc.gz	0
-dmlast	homepage.mac.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-dmlast.warc.gz	0
-dmlast	public.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-dmlast.warc.gz	0
-dmlast	web.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-dmlast.warc.gz	0
-janettekotichas	gallery.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-janettekotichas.warc.gz	0
-janettekotichas	homepage.mac.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-janettekotichas.warc.gz	0
-janettekotichas	public.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-janettekotichas.warc.gz	0
-janettekotichas	web.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-janettekotichas.warc.gz	0
-jborst1	gallery.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-jborst1.warc.gz	0
-jborst1	homepage.mac.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-jborst1.warc.gz	0
-jborst1	public.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-jborst1.warc.gz	0
-jborst1	web.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-jborst1.warc.gz	0
-kephart	gallery.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-kephart.warc.gz	0
-kephart	homepage.mac.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-kephart.warc.gz	0
-kephart	public.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-kephart.warc.gz	0
-kephart	web.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-kephart.warc.gz	0
-kurtcole	gallery.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-kurtcole.warc.gz	0
-kurtcole	homepage.mac.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-kurtcole.warc.gz	0
-kurtcole	public.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-kurtcole.warc.gz	0
-kurtcole	web.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-kurtcole.warc.gz	0
-pierre.jasmin	gallery.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-pierre.jasmin.warc.gz	0
-pierre.jasmin	homepage.mac.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-pierre.jasmin.warc.gz	0
-pierre.jasmin	public.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-pierre.jasmin.warc.gz	0
-pierre.jasmin	web.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-pierre.jasmin.warc.gz	0
-swedishfish1	gallery.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-swedishfish1.warc.gz	0
-swedishfish1	homepage.mac.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-swedishfish1.warc.gz	0
-swedishfish1	public.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-swedishfish1.warc.gz	0
-swedishfish1	web.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-swedishfish1.warc.gz	0
-tgold96	gallery.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-tgold96.warc.gz	0
-tgold96	homepage.mac.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-tgold96.warc.gz	0
-tgold96	public.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-tgold96.warc.gz	0
-tgold96	web.me.com		archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-tgold96.warc.gz	0
+MNNT.RUDE	gallery.me.com	2012-04-05 06:09:08	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-MNNT.RUDE.warc.gz	299097378
+MNNT.RUDE	homepage.mac.com	2012-04-05 06:09:08	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-MNNT.RUDE.warc.gz	4933
+MNNT.RUDE	public.me.com	2012-04-05 06:04:51	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-MNNT.RUDE.warc.gz	1918
+MNNT.RUDE	web.me.com	2012-04-05 06:04:51	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-MNNT.RUDE.warc.gz	9193858
+bill.french	gallery.me.com	2012-04-05 06:09:10	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-bill.french.warc.gz	12354
+bill.french	homepage.mac.com	2012-04-05 06:09:10	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-bill.french.warc.gz	7172
+bill.french	public.me.com	2012-04-05 06:09:10	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-bill.french.warc.gz	1922
+bill.french	web.me.com	2012-04-05 06:09:09	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-bill.french.warc.gz	22549
+dmlast	gallery.me.com	2012-04-05 07:56:54	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-dmlast.warc.gz	189093756
+dmlast	homepage.mac.com	2012-04-05 07:56:56	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-dmlast.warc.gz	41139
+dmlast	public.me.com	2012-04-05 07:53:37	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-dmlast.warc.gz	1914
+dmlast	web.me.com	2012-04-05 07:52:00	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-dmlast.warc.gz	2638793230
+janettekotichas	gallery.me.com	2012-04-05 06:10:31	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-janettekotichas.warc.gz	412523
+janettekotichas	homepage.mac.com	2012-04-05 06:10:31	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-janettekotichas.warc.gz	4936
+janettekotichas	public.me.com	2012-04-05 06:10:29	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-janettekotichas.warc.gz	1939
+janettekotichas	web.me.com	2012-04-05 06:10:29	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-janettekotichas.warc.gz	18763165
+jborst1	gallery.me.com	2012-04-05 06:12:32	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-jborst1.warc.gz	4246
+jborst1	homepage.mac.com	2012-04-05 06:12:34	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-jborst1.warc.gz	36881
+jborst1	public.me.com	2012-04-05 06:12:32	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-jborst1.warc.gz	31265625
+jborst1	web.me.com	2012-04-05 06:12:03	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-jborst1.warc.gz	14592939
+kephart	gallery.me.com	2012-04-05 08:30:46	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-kephart.warc.gz	2321798854
+kephart	homepage.mac.com	2012-04-05 08:31:41	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-kephart.warc.gz	8808579
+kephart	public.me.com	2012-04-05 08:05:25	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-kephart.warc.gz	30135731
+kephart	web.me.com	2012-04-05 08:04:46	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-kephart.warc.gz	211005005
+kurtcole	gallery.me.com	2012-04-05 06:09:13	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-kurtcole.warc.gz	12349
+kurtcole	homepage.mac.com	2012-04-05 06:09:13	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-kurtcole.warc.gz	7166
+kurtcole	public.me.com	2012-04-05 06:09:13	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-kurtcole.warc.gz	1917
+kurtcole	web.me.com	2012-04-05 06:09:13	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-kurtcole.warc.gz	22511
+pierre.jasmin	gallery.me.com	2012-04-05 06:21:22	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-pierre.jasmin.warc.gz	4267
+pierre.jasmin	homepage.mac.com	2012-04-05 06:21:22	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-pierre.jasmin.warc.gz	4934
+pierre.jasmin	public.me.com	2012-04-05 06:21:22	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-pierre.jasmin.warc.gz	1923
+pierre.jasmin	web.me.com	2012-04-05 06:21:21	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-pierre.jasmin.warc.gz	95976025
+swedishfish1	gallery.me.com	2012-04-05 06:10:33	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-swedishfish1.warc.gz	12370
+swedishfish1	homepage.mac.com	2012-04-05 06:10:33	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-swedishfish1.warc.gz	7168
+swedishfish1	public.me.com	2012-04-05 06:10:33	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-swedishfish1.warc.gz	1926
+swedishfish1	web.me.com	2012-04-05 06:10:33	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-swedishfish1.warc.gz	22575
+tgold96	gallery.me.com	2012-04-05 06:09:12	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	gallery.me.com-tgold96.warc.gz	8345
+tgold96	homepage.mac.com	2012-04-05 06:09:12	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	homepage.mac.com-tgold96.warc.gz	5160
+tgold96	public.me.com	2012-04-05 06:09:11	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	public.me.com-tgold96.warc.gz	1908
+tgold96	web.me.com	2012-04-05 06:09:11	archiveteam-mobileme-hero-416x	archiveteam-mobileme-hero-416x-4167.tar	web.me.com-tgold96.warc.gz	17672

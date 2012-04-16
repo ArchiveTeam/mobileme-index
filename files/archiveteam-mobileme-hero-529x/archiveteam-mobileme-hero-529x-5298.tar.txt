@@ -1,20 +1,20 @@
-aareid	gallery.me.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	gallery.me.com-aareid.warc.gz	0
-aareid	homepage.mac.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	homepage.mac.com-aareid.warc.gz	0
-aareid	public.me.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	public.me.com-aareid.warc.gz	0
-aareid	web.me.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	web.me.com-aareid.warc.gz	0
-bugos	gallery.me.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	gallery.me.com-bugos.warc.gz	0
-bugos	homepage.mac.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	homepage.mac.com-bugos.warc.gz	0
-bugos	public.me.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	public.me.com-bugos.warc.gz	0
-bugos	web.me.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	web.me.com-bugos.warc.gz	0
-cepinge	gallery.me.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	gallery.me.com-cepinge.warc.gz	0
-cepinge	homepage.mac.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	homepage.mac.com-cepinge.warc.gz	0
-cepinge	public.me.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	public.me.com-cepinge.warc.gz	0
-cepinge	web.me.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	web.me.com-cepinge.warc.gz	0
-lymanneal	gallery.me.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	gallery.me.com-lymanneal.warc.gz	0
-lymanneal	homepage.mac.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	homepage.mac.com-lymanneal.warc.gz	0
-lymanneal	public.me.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	public.me.com-lymanneal.warc.gz	0
-lymanneal	web.me.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	web.me.com-lymanneal.warc.gz	0
-westhoven5	gallery.me.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	gallery.me.com-westhoven5.warc.gz	0
-westhoven5	homepage.mac.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	homepage.mac.com-westhoven5.warc.gz	0
-westhoven5	public.me.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	public.me.com-westhoven5.warc.gz	0
-westhoven5	web.me.com		archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	web.me.com-westhoven5.warc.gz	0
+aareid	gallery.me.com	2012-04-09 01:40:48	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	gallery.me.com-aareid.warc.gz	8345
+aareid	homepage.mac.com	2012-04-09 01:40:48	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	homepage.mac.com-aareid.warc.gz	5152
+aareid	public.me.com	2012-04-09 01:40:47	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	public.me.com-aareid.warc.gz	1904
+aareid	web.me.com	2012-04-09 01:40:47	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	web.me.com-aareid.warc.gz	17675
+bugos	gallery.me.com	2012-04-09 01:41:23	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	gallery.me.com-bugos.warc.gz	5380
+bugos	homepage.mac.com	2012-04-09 01:41:24	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	homepage.mac.com-bugos.warc.gz	36900
+bugos	public.me.com	2012-04-09 01:41:22	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	public.me.com-bugos.warc.gz	3319
+bugos	web.me.com	2012-04-09 01:41:21	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	web.me.com-bugos.warc.gz	4294084
+cepinge	gallery.me.com	2012-04-09 01:40:01	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	gallery.me.com-cepinge.warc.gz	4230
+cepinge	homepage.mac.com	2012-04-09 01:40:46	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	homepage.mac.com-cepinge.warc.gz	1717627
+cepinge	public.me.com	2012-04-09 01:40:00	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	public.me.com-cepinge.warc.gz	1908
+cepinge	web.me.com	2012-04-09 01:40:00	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	web.me.com-cepinge.warc.gz	84099244
+lymanneal	gallery.me.com	2012-04-09 01:56:46	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	gallery.me.com-lymanneal.warc.gz	50167063
+lymanneal	homepage.mac.com	2012-04-09 01:56:53	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	homepage.mac.com-lymanneal.warc.gz	131864
+lymanneal	public.me.com	2012-04-09 01:51:10	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	public.me.com-lymanneal.warc.gz	93833479
+lymanneal	web.me.com	2012-04-09 01:48:09	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	web.me.com-lymanneal.warc.gz	66575163
+westhoven5	gallery.me.com	2012-04-09 03:27:01	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	gallery.me.com-westhoven5.warc.gz	5021354238
+westhoven5	homepage.mac.com	2012-04-09 03:27:06	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	homepage.mac.com-westhoven5.warc.gz	122730
+westhoven5	public.me.com	2012-04-09 02:08:41	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	public.me.com-westhoven5.warc.gz	1925
+westhoven5	web.me.com	2012-04-09 02:08:41	archiveteam-mobileme-hero-529x	archiveteam-mobileme-hero-529x-5298.tar	web.me.com-westhoven5.warc.gz	279251905

@@ -1,20 +1,20 @@
-btownshend	gallery.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	gallery.me.com-btownshend.warc.gz	0
-btownshend	homepage.mac.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	homepage.mac.com-btownshend.warc.gz	0
-btownshend	public.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	public.me.com-btownshend.warc.gz	0
-btownshend	web.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	web.me.com-btownshend.warc.gz	0
-eriknic45	gallery.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	gallery.me.com-eriknic45.warc.gz	0
-eriknic45	homepage.mac.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	homepage.mac.com-eriknic45.warc.gz	0
-eriknic45	public.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	public.me.com-eriknic45.warc.gz	0
-eriknic45	web.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	web.me.com-eriknic45.warc.gz	0
-harzapalo	gallery.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	gallery.me.com-harzapalo.warc.gz	0
-harzapalo	homepage.mac.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	homepage.mac.com-harzapalo.warc.gz	0
-harzapalo	public.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	public.me.com-harzapalo.warc.gz	0
-harzapalo	web.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	web.me.com-harzapalo.warc.gz	0
-jordansky	gallery.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	gallery.me.com-jordansky.warc.gz	0
-jordansky	homepage.mac.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	homepage.mac.com-jordansky.warc.gz	0
-jordansky	public.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	public.me.com-jordansky.warc.gz	0
-jordansky	web.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	web.me.com-jordansky.warc.gz	0
-lomic1	gallery.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	gallery.me.com-lomic1.warc.gz	0
-lomic1	homepage.mac.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	homepage.mac.com-lomic1.warc.gz	0
-lomic1	public.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	public.me.com-lomic1.warc.gz	0
-lomic1	web.me.com		archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	web.me.com-lomic1.warc.gz	0
+btownshend	gallery.me.com	2012-03-31 08:19:33	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	gallery.me.com-btownshend.warc.gz	6936032
+btownshend	homepage.mac.com	2012-03-31 08:19:33	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	homepage.mac.com-btownshend.warc.gz	4929
+btownshend	public.me.com	2012-03-31 08:19:00	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	public.me.com-btownshend.warc.gz	1922
+btownshend	web.me.com	2012-03-31 08:18:59	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	web.me.com-btownshend.warc.gz	22205732
+eriknic45	gallery.me.com	2012-03-31 08:15:16	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	gallery.me.com-eriknic45.warc.gz	45871349
+eriknic45	homepage.mac.com	2012-03-31 08:15:16	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	homepage.mac.com-eriknic45.warc.gz	4909
+eriknic45	public.me.com	2012-03-31 08:13:08	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	public.me.com-eriknic45.warc.gz	418800324
+eriknic45	web.me.com	2012-03-31 08:09:57	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	web.me.com-eriknic45.warc.gz	357553322
+harzapalo	gallery.me.com	2012-03-31 06:45:30	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	gallery.me.com-harzapalo.warc.gz	210101275
+harzapalo	homepage.mac.com	2012-03-31 06:45:31	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	homepage.mac.com-harzapalo.warc.gz	7860
+harzapalo	public.me.com	2012-03-31 06:39:44	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	public.me.com-harzapalo.warc.gz	1918
+harzapalo	web.me.com	2012-03-31 06:39:42	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	web.me.com-harzapalo.warc.gz	444870272
+jordansky	gallery.me.com	2012-03-31 07:44:22	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	gallery.me.com-jordansky.warc.gz	1387029639
+jordansky	homepage.mac.com	2012-03-31 07:44:22	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	homepage.mac.com-jordansky.warc.gz	4918
+jordansky	public.me.com	2012-03-31 06:54:16	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	public.me.com-jordansky.warc.gz	124485560
+jordansky	web.me.com	2012-03-31 06:52:54	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	web.me.com-jordansky.warc.gz	9921923
+lomic1	gallery.me.com	2012-03-31 10:14:55	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	gallery.me.com-lomic1.warc.gz	1346309754
+lomic1	homepage.mac.com	2012-03-31 10:14:58	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	homepage.mac.com-lomic1.warc.gz	62322
+lomic1	public.me.com	2012-03-31 08:52:55	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	public.me.com-lomic1.warc.gz	6291177
+lomic1	web.me.com	2012-03-31 08:52:31	archiveteam-mobileme-hero-237x	archiveteam-mobileme-hero-237x-2378.tar	web.me.com-lomic1.warc.gz	404001138

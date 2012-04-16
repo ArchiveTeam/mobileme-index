@@ -1,8 +1,8 @@
-marcasbradley	gallery.me.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2204.tar	gallery.me.com-marcasbradley.warc.gz	0
-marcasbradley	homepage.mac.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2204.tar	homepage.mac.com-marcasbradley.warc.gz	0
-marcasbradley	public.me.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2204.tar	public.me.com-marcasbradley.warc.gz	0
-marcasbradley	web.me.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2204.tar	web.me.com-marcasbradley.warc.gz	0
-thelec	gallery.me.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2204.tar	gallery.me.com-thelec.warc.gz	0
-thelec	homepage.mac.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2204.tar	homepage.mac.com-thelec.warc.gz	0
-thelec	public.me.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2204.tar	public.me.com-thelec.warc.gz	0
-thelec	web.me.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2204.tar	web.me.com-thelec.warc.gz	0
+marcasbradley	gallery.me.com	2012-03-30 20:06:58	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2204.tar	gallery.me.com-marcasbradley.warc.gz	1904791024
+marcasbradley	homepage.mac.com	2012-03-30 20:06:59	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2204.tar	homepage.mac.com-marcasbradley.warc.gz	36995
+marcasbradley	public.me.com	2012-03-30 19:44:27	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2204.tar	public.me.com-marcasbradley.warc.gz	1930
+marcasbradley	web.me.com	2012-03-30 19:44:26	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2204.tar	web.me.com-marcasbradley.warc.gz	356679645
+thelec	gallery.me.com	2012-03-30 19:22:14	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2204.tar	gallery.me.com-thelec.warc.gz	1878239500
+thelec	homepage.mac.com	2012-03-30 19:22:14	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2204.tar	homepage.mac.com-thelec.warc.gz	4899
+thelec	public.me.com	2012-03-30 18:59:50	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2204.tar	public.me.com-thelec.warc.gz	92069689
+thelec	web.me.com	2012-03-30 18:59:19	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2204.tar	web.me.com-thelec.warc.gz	530784721

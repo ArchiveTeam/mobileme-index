@@ -1,28 +1,28 @@
-a.hedges	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	gallery.me.com-a.hedges.warc.gz	0
-a.hedges	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	homepage.mac.com-a.hedges.warc.gz	0
-a.hedges	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	public.me.com-a.hedges.warc.gz	0
-a.hedges	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	web.me.com-a.hedges.warc.gz	0
-carolem	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	gallery.me.com-carolem.warc.gz	0
-carolem	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	homepage.mac.com-carolem.warc.gz	0
-carolem	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	public.me.com-carolem.warc.gz	0
-carolem	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	web.me.com-carolem.warc.gz	0
-jijackson	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	gallery.me.com-jijackson.warc.gz	0
-jijackson	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	homepage.mac.com-jijackson.warc.gz	0
-jijackson	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	public.me.com-jijackson.warc.gz	0
-jijackson	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	web.me.com-jijackson.warc.gz	0
-mmmain	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	gallery.me.com-mmmain.warc.gz	0
-mmmain	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	homepage.mac.com-mmmain.warc.gz	0
-mmmain	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	public.me.com-mmmain.warc.gz	0
-mmmain	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	web.me.com-mmmain.warc.gz	0
-squef	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	gallery.me.com-squef.warc.gz	0
-squef	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	homepage.mac.com-squef.warc.gz	0
-squef	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	public.me.com-squef.warc.gz	0
-squef	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	web.me.com-squef.warc.gz	0
-wayneberryman.mac	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	gallery.me.com-wayneberryman.mac.warc.gz	0
-wayneberryman.mac	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	homepage.mac.com-wayneberryman.mac.warc.gz	0
-wayneberryman.mac	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	public.me.com-wayneberryman.mac.warc.gz	0
-wayneberryman.mac	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	web.me.com-wayneberryman.mac.warc.gz	0
-xuf	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	gallery.me.com-xuf.warc.gz	0
-xuf	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	homepage.mac.com-xuf.warc.gz	0
-xuf	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	public.me.com-xuf.warc.gz	0
-xuf	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	web.me.com-xuf.warc.gz	0
+a.hedges	gallery.me.com	2012-04-07 21:11:57	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	gallery.me.com-a.hedges.warc.gz	4263
+a.hedges	homepage.mac.com	2012-04-07 21:11:59	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	homepage.mac.com-a.hedges.warc.gz	36821
+a.hedges	public.me.com	2012-04-07 21:11:56	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	public.me.com-a.hedges.warc.gz	1910
+a.hedges	web.me.com	2012-04-07 21:11:56	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	web.me.com-a.hedges.warc.gz	7395
+carolem	gallery.me.com	2012-04-07 21:07:13	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	gallery.me.com-carolem.warc.gz	1220018787
+carolem	homepage.mac.com	2012-04-07 21:07:19	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	homepage.mac.com-carolem.warc.gz	114808
+carolem	public.me.com	2012-04-07 20:38:50	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	public.me.com-carolem.warc.gz	1011366012
+carolem	web.me.com	2012-04-07 20:22:25	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	web.me.com-carolem.warc.gz	17273260
+jijackson	gallery.me.com	2012-04-07 22:52:36	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	gallery.me.com-jijackson.warc.gz	5209
+jijackson	homepage.mac.com	2012-04-07 22:52:37	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	homepage.mac.com-jijackson.warc.gz	4914
+jijackson	public.me.com	2012-04-07 22:52:36	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	public.me.com-jijackson.warc.gz	97520437
+jijackson	web.me.com	2012-04-07 22:50:08	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	web.me.com-jijackson.warc.gz	33037
+mmmain	gallery.me.com	2012-04-07 21:11:54	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	gallery.me.com-mmmain.warc.gz	278264
+mmmain	homepage.mac.com	2012-04-07 21:11:55	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	homepage.mac.com-mmmain.warc.gz	6033
+mmmain	public.me.com	2012-04-07 21:11:52	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	public.me.com-mmmain.warc.gz	3542
+mmmain	web.me.com	2012-04-07 21:11:51	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	web.me.com-mmmain.warc.gz	46916057
+squef	gallery.me.com	2012-04-07 22:50:06	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	gallery.me.com-squef.warc.gz	200332775
+squef	homepage.mac.com	2012-04-07 22:50:06	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	homepage.mac.com-squef.warc.gz	4885
+squef	public.me.com	2012-04-07 22:48:53	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	public.me.com-squef.warc.gz	1913
+squef	web.me.com	2012-04-07 22:48:39	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	web.me.com-squef.warc.gz	856686770
+wayneberryman.mac	gallery.me.com	2012-04-07 23:16:43	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	gallery.me.com-wayneberryman.mac.warc.gz	888441489
+wayneberryman.mac	homepage.mac.com	2012-04-07 23:17:21	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	homepage.mac.com-wayneberryman.mac.warc.gz	1415881
+wayneberryman.mac	public.me.com	2012-04-07 22:55:52	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	public.me.com-wayneberryman.mac.warc.gz	1936
+wayneberryman.mac	web.me.com	2012-04-07 22:55:51	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	web.me.com-wayneberryman.mac.warc.gz	8957397
+xuf	gallery.me.com	2012-04-07 22:52:39	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	gallery.me.com-xuf.warc.gz	4215
+xuf	homepage.mac.com	2012-04-07 22:52:48	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	homepage.mac.com-xuf.warc.gz	243347
+xuf	public.me.com	2012-04-07 22:52:38	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	public.me.com-xuf.warc.gz	1896
+xuf	web.me.com	2012-04-07 22:52:38	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5008.tar	web.me.com-xuf.warc.gz	7374

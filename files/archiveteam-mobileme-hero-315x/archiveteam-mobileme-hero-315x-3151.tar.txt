@@ -1,28 +1,28 @@
-banyan	gallery.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	gallery.me.com-banyan.warc.gz	0
-banyan	homepage.mac.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	homepage.mac.com-banyan.warc.gz	0
-banyan	public.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	public.me.com-banyan.warc.gz	0
-banyan	web.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	web.me.com-banyan.warc.gz	0
-dkmurdock	gallery.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	gallery.me.com-dkmurdock.warc.gz	0
-dkmurdock	homepage.mac.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	homepage.mac.com-dkmurdock.warc.gz	0
-dkmurdock	public.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	public.me.com-dkmurdock.warc.gz	0
-dkmurdock	web.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	web.me.com-dkmurdock.warc.gz	0
-echucacelebrant	gallery.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	gallery.me.com-echucacelebrant.warc.gz	0
-echucacelebrant	homepage.mac.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	homepage.mac.com-echucacelebrant.warc.gz	0
-echucacelebrant	public.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	public.me.com-echucacelebrant.warc.gz	0
-echucacelebrant	web.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	web.me.com-echucacelebrant.warc.gz	0
-ichan_011	gallery.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	gallery.me.com-ichan_011.warc.gz	0
-ichan_011	homepage.mac.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	homepage.mac.com-ichan_011.warc.gz	0
-ichan_011	public.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	public.me.com-ichan_011.warc.gz	0
-ichan_011	web.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	web.me.com-ichan_011.warc.gz	0
-mekenna_melvin	gallery.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	gallery.me.com-mekenna_melvin.warc.gz	0
-mekenna_melvin	homepage.mac.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	homepage.mac.com-mekenna_melvin.warc.gz	0
-mekenna_melvin	public.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	public.me.com-mekenna_melvin.warc.gz	0
-mekenna_melvin	web.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	web.me.com-mekenna_melvin.warc.gz	0
-music.works	gallery.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	gallery.me.com-music.works.warc.gz	0
-music.works	homepage.mac.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	homepage.mac.com-music.works.warc.gz	0
-music.works	public.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	public.me.com-music.works.warc.gz	0
-music.works	web.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	web.me.com-music.works.warc.gz	0
-nlforrest	gallery.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	gallery.me.com-nlforrest.warc.gz	0
-nlforrest	homepage.mac.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	homepage.mac.com-nlforrest.warc.gz	0
-nlforrest	public.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	public.me.com-nlforrest.warc.gz	0
-nlforrest	web.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	web.me.com-nlforrest.warc.gz	0
+banyan	gallery.me.com	2012-04-02 21:19:33	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	gallery.me.com-banyan.warc.gz	17750570
+banyan	homepage.mac.com	2012-04-02 21:19:33	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	homepage.mac.com-banyan.warc.gz	4897
+banyan	public.me.com	2012-04-02 21:19:04	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	public.me.com-banyan.warc.gz	20300804
+banyan	web.me.com	2012-04-02 21:17:58	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	web.me.com-banyan.warc.gz	78867
+dkmurdock	gallery.me.com	2012-04-02 21:17:47	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	gallery.me.com-dkmurdock.warc.gz	40337480
+dkmurdock	homepage.mac.com	2012-04-02 21:17:48	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	homepage.mac.com-dkmurdock.warc.gz	4910
+dkmurdock	public.me.com	2012-04-02 21:16:14	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	public.me.com-dkmurdock.warc.gz	4175
+dkmurdock	web.me.com	2012-04-02 21:16:08	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	web.me.com-dkmurdock.warc.gz	939716241
+echucacelebrant	gallery.me.com	2012-04-02 21:35:04	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	gallery.me.com-echucacelebrant.warc.gz	5708
+echucacelebrant	homepage.mac.com	2012-04-02 21:35:04	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	homepage.mac.com-echucacelebrant.warc.gz	4924
+echucacelebrant	public.me.com	2012-04-02 21:35:02	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	public.me.com-echucacelebrant.warc.gz	1926
+echucacelebrant	web.me.com	2012-04-02 21:35:01	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	web.me.com-echucacelebrant.warc.gz	7463733
+ichan_011	gallery.me.com	2012-04-02 21:19:39	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	gallery.me.com-ichan_011.warc.gz	8353
+ichan_011	homepage.mac.com	2012-04-02 21:19:39	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	homepage.mac.com-ichan_011.warc.gz	5162
+ichan_011	public.me.com	2012-04-02 21:19:38	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	public.me.com-ichan_011.warc.gz	1911
+ichan_011	web.me.com	2012-04-02 21:19:37	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	web.me.com-ichan_011.warc.gz	17758
+mekenna_melvin	gallery.me.com	2012-04-02 21:32:32	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	gallery.me.com-mekenna_melvin.warc.gz	5062
+mekenna_melvin	homepage.mac.com	2012-04-02 21:32:32	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	homepage.mac.com-mekenna_melvin.warc.gz	4936
+mekenna_melvin	public.me.com	2012-04-02 21:32:30	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	public.me.com-mekenna_melvin.warc.gz	1926
+mekenna_melvin	web.me.com	2012-04-02 21:32:29	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	web.me.com-mekenna_melvin.warc.gz	378472813
+music.works	gallery.me.com	2012-04-02 20:10:26	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	gallery.me.com-music.works.warc.gz	351332991
+music.works	homepage.mac.com	2012-04-02 20:10:32	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	homepage.mac.com-music.works.warc.gz	49306
+music.works	public.me.com	2012-04-02 20:01:11	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	public.me.com-music.works.warc.gz	25004728
+music.works	web.me.com	2012-04-02 19:59:28	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	web.me.com-music.works.warc.gz	69370211
+nlforrest	gallery.me.com	2012-04-02 23:14:11	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	gallery.me.com-nlforrest.warc.gz	1983675860
+nlforrest	homepage.mac.com	2012-04-02 23:14:22	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	homepage.mac.com-nlforrest.warc.gz	146654
+nlforrest	public.me.com	2012-04-02 22:34:56	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	public.me.com-nlforrest.warc.gz	1919
+nlforrest	web.me.com	2012-04-02 22:34:44	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3151.tar	web.me.com-nlforrest.warc.gz	696374143

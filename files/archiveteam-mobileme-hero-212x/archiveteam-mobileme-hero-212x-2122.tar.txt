@@ -1,16 +1,16 @@
-russkinne	gallery.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	gallery.me.com-russkinne.warc.gz	0
-russkinne	homepage.mac.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	homepage.mac.com-russkinne.warc.gz	0
-russkinne	public.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	public.me.com-russkinne.warc.gz	0
-russkinne	web.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	web.me.com-russkinne.warc.gz	0
-sagefire	gallery.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	gallery.me.com-sagefire.warc.gz	0
-sagefire	homepage.mac.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	homepage.mac.com-sagefire.warc.gz	0
-sagefire	public.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	public.me.com-sagefire.warc.gz	0
-sagefire	web.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	web.me.com-sagefire.warc.gz	0
-tadfettig	gallery.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	gallery.me.com-tadfettig.warc.gz	0
-tadfettig	homepage.mac.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	homepage.mac.com-tadfettig.warc.gz	0
-tadfettig	public.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	public.me.com-tadfettig.warc.gz	0
-tadfettig	web.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	web.me.com-tadfettig.warc.gz	0
-vaagloria	gallery.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	gallery.me.com-vaagloria.warc.gz	0
-vaagloria	homepage.mac.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	homepage.mac.com-vaagloria.warc.gz	0
-vaagloria	public.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	public.me.com-vaagloria.warc.gz	0
-vaagloria	web.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	web.me.com-vaagloria.warc.gz	0
+russkinne	gallery.me.com	2012-03-30 08:57:19	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	gallery.me.com-russkinne.warc.gz	5705
+russkinne	homepage.mac.com	2012-03-30 08:57:19	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	homepage.mac.com-russkinne.warc.gz	4923
+russkinne	public.me.com	2012-03-30 08:57:18	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	public.me.com-russkinne.warc.gz	36324680
+russkinne	web.me.com	2012-03-30 08:55:54	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	web.me.com-russkinne.warc.gz	2433470
+sagefire	gallery.me.com	2012-03-30 09:05:13	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	gallery.me.com-sagefire.warc.gz	4252
+sagefire	homepage.mac.com	2012-03-30 09:05:13	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	homepage.mac.com-sagefire.warc.gz	4905
+sagefire	public.me.com	2012-03-30 09:05:12	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	public.me.com-sagefire.warc.gz	1912
+sagefire	web.me.com	2012-03-30 09:05:12	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	web.me.com-sagefire.warc.gz	70445658
+tadfettig	gallery.me.com	2012-03-30 11:26:34	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	gallery.me.com-tadfettig.warc.gz	5019
+tadfettig	homepage.mac.com	2012-03-30 11:26:35	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	homepage.mac.com-tadfettig.warc.gz	4913
+tadfettig	public.me.com	2012-03-30 11:26:33	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	public.me.com-tadfettig.warc.gz	6314345648
+tadfettig	web.me.com	2012-03-30 09:06:39	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	web.me.com-tadfettig.warc.gz	9588080
+vaagloria	gallery.me.com	2012-03-30 08:55:30	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	gallery.me.com-vaagloria.warc.gz	4243
+vaagloria	homepage.mac.com	2012-03-30 08:55:30	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	homepage.mac.com-vaagloria.warc.gz	4908
+vaagloria	public.me.com	2012-03-30 08:55:30	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	public.me.com-vaagloria.warc.gz	1921
+vaagloria	web.me.com	2012-03-30 08:55:29	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2122.tar	web.me.com-vaagloria.warc.gz	10825119

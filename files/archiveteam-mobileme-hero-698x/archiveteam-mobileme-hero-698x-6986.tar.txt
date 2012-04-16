@@ -1,24 +1,24 @@
-a_r_t_s	gallery.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	gallery.me.com-a_r_t_s.warc.gz	0
-a_r_t_s	homepage.mac.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	homepage.mac.com-a_r_t_s.warc.gz	0
-a_r_t_s	public.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	public.me.com-a_r_t_s.warc.gz	0
-a_r_t_s	web.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	web.me.com-a_r_t_s.warc.gz	0
-adamblackburn	gallery.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	gallery.me.com-adamblackburn.warc.gz	0
-adamblackburn	homepage.mac.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	homepage.mac.com-adamblackburn.warc.gz	0
-adamblackburn	public.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	public.me.com-adamblackburn.warc.gz	0
-adamblackburn	web.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	web.me.com-adamblackburn.warc.gz	0
-bergeronart	gallery.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	gallery.me.com-bergeronart.warc.gz	0
-bergeronart	homepage.mac.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	homepage.mac.com-bergeronart.warc.gz	0
-bergeronart	public.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	public.me.com-bergeronart.warc.gz	0
-bergeronart	web.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	web.me.com-bergeronart.warc.gz	0
-cydvicious	gallery.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	gallery.me.com-cydvicious.warc.gz	0
-cydvicious	homepage.mac.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	homepage.mac.com-cydvicious.warc.gz	0
-cydvicious	public.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	public.me.com-cydvicious.warc.gz	0
-cydvicious	web.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	web.me.com-cydvicious.warc.gz	0
-ski888	gallery.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	gallery.me.com-ski888.warc.gz	0
-ski888	homepage.mac.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	homepage.mac.com-ski888.warc.gz	0
-ski888	public.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	public.me.com-ski888.warc.gz	0
-ski888	web.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	web.me.com-ski888.warc.gz	0
-zbeckman	gallery.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	gallery.me.com-zbeckman.warc.gz	0
-zbeckman	homepage.mac.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	homepage.mac.com-zbeckman.warc.gz	0
-zbeckman	public.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	public.me.com-zbeckman.warc.gz	0
-zbeckman	web.me.com		archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	web.me.com-zbeckman.warc.gz	0
+a_r_t_s	gallery.me.com	2012-04-12 19:21:44	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	gallery.me.com-a_r_t_s.warc.gz	108331236
+a_r_t_s	homepage.mac.com	2012-04-12 19:21:45	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	homepage.mac.com-a_r_t_s.warc.gz	4914
+a_r_t_s	public.me.com	2012-04-12 19:18:51	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	public.me.com-a_r_t_s.warc.gz	1918
+a_r_t_s	web.me.com	2012-04-12 19:18:49	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	web.me.com-a_r_t_s.warc.gz	534663388
+adamblackburn	gallery.me.com	2012-04-12 19:47:48	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	gallery.me.com-adamblackburn.warc.gz	233103
+adamblackburn	homepage.mac.com	2012-04-12 19:47:49	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	homepage.mac.com-adamblackburn.warc.gz	4941
+adamblackburn	public.me.com	2012-04-12 19:47:45	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	public.me.com-adamblackburn.warc.gz	89846772
+adamblackburn	web.me.com	2012-04-12 19:44:19	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	web.me.com-adamblackburn.warc.gz	13480525
+bergeronart	gallery.me.com	2012-04-12 20:12:00	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	gallery.me.com-bergeronart.warc.gz	1056476865
+bergeronart	homepage.mac.com	2012-04-12 20:12:04	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	homepage.mac.com-bergeronart.warc.gz	130636
+bergeronart	public.me.com	2012-04-12 20:04:08	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	public.me.com-bergeronart.warc.gz	1920
+bergeronart	web.me.com	2012-04-12 20:04:06	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	web.me.com-bergeronart.warc.gz	343812200
+cydvicious	gallery.me.com	2012-04-12 20:31:25	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	gallery.me.com-cydvicious.warc.gz	438984351
+cydvicious	homepage.mac.com	2012-04-12 20:31:25	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	homepage.mac.com-cydvicious.warc.gz	4935
+cydvicious	public.me.com	2012-04-12 20:14:21	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	public.me.com-cydvicious.warc.gz	1915
+cydvicious	web.me.com	2012-04-12 20:14:21	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	web.me.com-cydvicious.warc.gz	5266998
+ski888	gallery.me.com	2012-04-12 22:17:28	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	gallery.me.com-ski888.warc.gz	4230
+ski888	homepage.mac.com	2012-04-12 22:18:50	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	homepage.mac.com-ski888.warc.gz	1568134
+ski888	public.me.com	2012-04-12 22:17:25	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	public.me.com-ski888.warc.gz	231748712
+ski888	web.me.com	2012-04-12 22:11:33	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	web.me.com-ski888.warc.gz	7837847311
+zbeckman	gallery.me.com	2012-04-12 19:43:10	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	gallery.me.com-zbeckman.warc.gz	1142135141
+zbeckman	homepage.mac.com	2012-04-12 19:43:11	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	homepage.mac.com-zbeckman.warc.gz	4895
+zbeckman	public.me.com	2012-04-12 19:26:58	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	public.me.com-zbeckman.warc.gz	217227
+zbeckman	web.me.com	2012-04-12 19:26:56	archiveteam-mobileme-hero-698x	archiveteam-mobileme-hero-698x-6986.tar	web.me.com-zbeckman.warc.gz	85332001

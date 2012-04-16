@@ -1,12 +1,12 @@
-harwal	gallery.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	gallery.me.com-harwal.warc.gz	0
-harwal	homepage.mac.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	homepage.mac.com-harwal.warc.gz	0
-harwal	public.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	public.me.com-harwal.warc.gz	0
-harwal	web.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	web.me.com-harwal.warc.gz	0
-jatha	gallery.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	gallery.me.com-jatha.warc.gz	0
-jatha	homepage.mac.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	homepage.mac.com-jatha.warc.gz	0
-jatha	public.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	public.me.com-jatha.warc.gz	0
-jatha	web.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	web.me.com-jatha.warc.gz	0
-kenneth.orr	gallery.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	gallery.me.com-kenneth.orr.warc.gz	0
-kenneth.orr	homepage.mac.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	homepage.mac.com-kenneth.orr.warc.gz	0
-kenneth.orr	public.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	public.me.com-kenneth.orr.warc.gz	0
-kenneth.orr	web.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	web.me.com-kenneth.orr.warc.gz	0
+harwal	gallery.me.com	2012-04-09 08:54:18	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	gallery.me.com-harwal.warc.gz	145430534
+harwal	homepage.mac.com	2012-04-09 08:54:21	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	homepage.mac.com-harwal.warc.gz	80007
+harwal	public.me.com	2012-04-09 08:51:18	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	public.me.com-harwal.warc.gz	220784894
+harwal	web.me.com	2012-04-09 08:50:21	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	web.me.com-harwal.warc.gz	435661196
+jatha	gallery.me.com	2012-04-09 07:29:27	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	gallery.me.com-jatha.warc.gz	206903745
+jatha	homepage.mac.com	2012-04-09 07:29:29	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	homepage.mac.com-jatha.warc.gz	4903
+jatha	public.me.com	2012-04-09 07:24:52	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	public.me.com-jatha.warc.gz	1918
+jatha	web.me.com	2012-04-09 07:24:52	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	web.me.com-jatha.warc.gz	151760151
+kenneth.orr	gallery.me.com	2012-04-09 08:30:21	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	gallery.me.com-kenneth.orr.warc.gz	2792512824
+kenneth.orr	homepage.mac.com	2012-04-09 08:30:21	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	homepage.mac.com-kenneth.orr.warc.gz	4919
+kenneth.orr	public.me.com	2012-04-09 07:55:28	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	public.me.com-kenneth.orr.warc.gz	1920
+kenneth.orr	web.me.com	2012-04-09 07:55:25	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5407.tar	web.me.com-kenneth.orr.warc.gz	410577764

@@ -1,8 +1,8 @@
-atat	gallery.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3452.tar	gallery.me.com-atat.warc.gz	0
-atat	homepage.mac.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3452.tar	homepage.mac.com-atat.warc.gz	0
-atat	public.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3452.tar	public.me.com-atat.warc.gz	0
-atat	web.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3452.tar	web.me.com-atat.warc.gz	0
-markjulie	gallery.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3452.tar	gallery.me.com-markjulie.warc.gz	0
-markjulie	homepage.mac.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3452.tar	homepage.mac.com-markjulie.warc.gz	0
-markjulie	public.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3452.tar	public.me.com-markjulie.warc.gz	0
-markjulie	web.me.com		archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3452.tar	web.me.com-markjulie.warc.gz	0
+atat	gallery.me.com	2012-04-03 10:41:09	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3452.tar	gallery.me.com-atat.warc.gz	12308
+atat	homepage.mac.com	2012-04-03 10:41:09	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3452.tar	homepage.mac.com-atat.warc.gz	7123
+atat	public.me.com	2012-04-03 10:41:06	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3452.tar	public.me.com-atat.warc.gz	1905
+atat	web.me.com	2012-04-03 10:41:05	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3452.tar	web.me.com-atat.warc.gz	22403
+markjulie	gallery.me.com	2012-04-03 14:30:00	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3452.tar	gallery.me.com-markjulie.warc.gz	2262432752
+markjulie	homepage.mac.com	2012-04-03 14:30:05	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3452.tar	homepage.mac.com-markjulie.warc.gz	41230
+markjulie	public.me.com	2012-04-03 13:29:28	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3452.tar	public.me.com-markjulie.warc.gz	112741607
+markjulie	web.me.com	2012-04-03 13:24:41	archiveteam-mobileme-hero-345x	archiveteam-mobileme-hero-345x-3452.tar	web.me.com-markjulie.warc.gz	2948656221

@@ -1,8 +1,8 @@
-psy10	gallery.me.com		archiveteam-mobileme-hero-467x	archiveteam-mobileme-hero-467x-4671.tar	gallery.me.com-psy10.warc.gz	0
-psy10	homepage.mac.com		archiveteam-mobileme-hero-467x	archiveteam-mobileme-hero-467x-4671.tar	homepage.mac.com-psy10.warc.gz	0
-psy10	public.me.com		archiveteam-mobileme-hero-467x	archiveteam-mobileme-hero-467x-4671.tar	public.me.com-psy10.warc.gz	0
-psy10	web.me.com		archiveteam-mobileme-hero-467x	archiveteam-mobileme-hero-467x-4671.tar	web.me.com-psy10.warc.gz	0
-sallybuckby	gallery.me.com		archiveteam-mobileme-hero-467x	archiveteam-mobileme-hero-467x-4671.tar	gallery.me.com-sallybuckby.warc.gz	0
-sallybuckby	homepage.mac.com		archiveteam-mobileme-hero-467x	archiveteam-mobileme-hero-467x-4671.tar	homepage.mac.com-sallybuckby.warc.gz	0
-sallybuckby	public.me.com		archiveteam-mobileme-hero-467x	archiveteam-mobileme-hero-467x-4671.tar	public.me.com-sallybuckby.warc.gz	0
-sallybuckby	web.me.com		archiveteam-mobileme-hero-467x	archiveteam-mobileme-hero-467x-4671.tar	web.me.com-sallybuckby.warc.gz	0
+psy10	gallery.me.com	2012-04-06 12:33:32	archiveteam-mobileme-hero-467x	archiveteam-mobileme-hero-467x-4671.tar	gallery.me.com-psy10.warc.gz	4273
+psy10	homepage.mac.com	2012-04-06 12:33:32	archiveteam-mobileme-hero-467x	archiveteam-mobileme-hero-467x-4671.tar	homepage.mac.com-psy10.warc.gz	4892
+psy10	public.me.com	2012-04-06 12:33:31	archiveteam-mobileme-hero-467x	archiveteam-mobileme-hero-467x-4671.tar	public.me.com-psy10.warc.gz	1912
+psy10	web.me.com	2012-04-06 12:33:14	archiveteam-mobileme-hero-467x	archiveteam-mobileme-hero-467x-4671.tar	web.me.com-psy10.warc.gz	6319776258
+sallybuckby	gallery.me.com	2012-04-06 11:33:53	archiveteam-mobileme-hero-467x	archiveteam-mobileme-hero-467x-4671.tar	gallery.me.com-sallybuckby.warc.gz	24776480
+sallybuckby	homepage.mac.com	2012-04-06 11:33:53	archiveteam-mobileme-hero-467x	archiveteam-mobileme-hero-467x-4671.tar	homepage.mac.com-sallybuckby.warc.gz	4924
+sallybuckby	public.me.com	2012-04-06 11:32:43	archiveteam-mobileme-hero-467x	archiveteam-mobileme-hero-467x-4671.tar	public.me.com-sallybuckby.warc.gz	1921
+sallybuckby	web.me.com	2012-04-06 11:32:42	archiveteam-mobileme-hero-467x	archiveteam-mobileme-hero-467x-4671.tar	web.me.com-sallybuckby.warc.gz	26787232

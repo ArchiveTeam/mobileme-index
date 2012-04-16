@@ -1,12 +1,12 @@
-coxdenise	gallery.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	gallery.me.com-coxdenise.warc.gz	0
-coxdenise	homepage.mac.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	homepage.mac.com-coxdenise.warc.gz	0
-coxdenise	public.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	public.me.com-coxdenise.warc.gz	0
-coxdenise	web.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	web.me.com-coxdenise.warc.gz	0
-ragnargrippe	gallery.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	gallery.me.com-ragnargrippe.warc.gz	0
-ragnargrippe	homepage.mac.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	homepage.mac.com-ragnargrippe.warc.gz	0
-ragnargrippe	public.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	public.me.com-ragnargrippe.warc.gz	0
-ragnargrippe	web.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	web.me.com-ragnargrippe.warc.gz	0
-rob.bushman	gallery.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	gallery.me.com-rob.bushman.warc.gz	0
-rob.bushman	homepage.mac.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	homepage.mac.com-rob.bushman.warc.gz	0
-rob.bushman	public.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	public.me.com-rob.bushman.warc.gz	0
-rob.bushman	web.me.com		archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	web.me.com-rob.bushman.warc.gz	0
+coxdenise	gallery.me.com	2012-04-11 00:16:12	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	gallery.me.com-coxdenise.warc.gz	4249
+coxdenise	homepage.mac.com	2012-04-11 00:16:13	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	homepage.mac.com-coxdenise.warc.gz	4907
+coxdenise	public.me.com	2012-04-11 00:16:12	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	public.me.com-coxdenise.warc.gz	1923
+coxdenise	web.me.com	2012-04-11 00:16:11	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	web.me.com-coxdenise.warc.gz	2035898
+ragnargrippe	gallery.me.com	2012-04-11 02:27:58	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	gallery.me.com-ragnargrippe.warc.gz	4254
+ragnargrippe	homepage.mac.com	2012-04-11 02:27:59	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	homepage.mac.com-ragnargrippe.warc.gz	4933
+ragnargrippe	public.me.com	2012-04-11 02:27:57	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	public.me.com-ragnargrippe.warc.gz	1928
+ragnargrippe	web.me.com	2012-04-11 02:27:48	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	web.me.com-ragnargrippe.warc.gz	2669600416
+rob.bushman	gallery.me.com	2012-04-11 03:01:41	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	gallery.me.com-rob.bushman.warc.gz	6661
+rob.bushman	homepage.mac.com	2012-04-11 03:01:42	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	homepage.mac.com-rob.bushman.warc.gz	4925
+rob.bushman	public.me.com	2012-04-11 03:01:39	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	public.me.com-rob.bushman.warc.gz	2037854100
+rob.bushman	web.me.com	2012-04-11 02:33:30	archiveteam-mobileme-hero-617x	archiveteam-mobileme-hero-617x-6176.tar	web.me.com-rob.bushman.warc.gz	17864365

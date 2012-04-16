@@ -1,12 +1,12 @@
-anapafreedomworks	gallery.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	gallery.me.com-anapafreedomworks.warc.gz	0
-anapafreedomworks	homepage.mac.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	homepage.mac.com-anapafreedomworks.warc.gz	0
-anapafreedomworks	public.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	public.me.com-anapafreedomworks.warc.gz	0
-anapafreedomworks	web.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	web.me.com-anapafreedomworks.warc.gz	0
-baronlf	gallery.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	gallery.me.com-baronlf.warc.gz	0
-baronlf	homepage.mac.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	homepage.mac.com-baronlf.warc.gz	0
-baronlf	public.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	public.me.com-baronlf.warc.gz	0
-baronlf	web.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	web.me.com-baronlf.warc.gz	0
-myttman99	gallery.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	gallery.me.com-myttman99.warc.gz	0
-myttman99	homepage.mac.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	homepage.mac.com-myttman99.warc.gz	0
-myttman99	public.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	public.me.com-myttman99.warc.gz	0
-myttman99	web.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	web.me.com-myttman99.warc.gz	0
+anapafreedomworks	gallery.me.com	2012-03-31 17:05:32	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	gallery.me.com-anapafreedomworks.warc.gz	5323
+anapafreedomworks	homepage.mac.com	2012-03-31 17:05:33	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	homepage.mac.com-anapafreedomworks.warc.gz	4946
+anapafreedomworks	public.me.com	2012-03-31 17:05:32	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	public.me.com-anapafreedomworks.warc.gz	1932
+anapafreedomworks	web.me.com	2012-03-31 17:05:32	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	web.me.com-anapafreedomworks.warc.gz	294693
+baronlf	gallery.me.com	2012-04-01 18:47:10	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	gallery.me.com-baronlf.warc.gz	5004860664
+baronlf	homepage.mac.com	2012-04-01 18:47:11	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	homepage.mac.com-baronlf.warc.gz	36935
+baronlf	public.me.com	2012-04-01 17:44:13	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	public.me.com-baronlf.warc.gz	36541809
+baronlf	web.me.com	2012-04-01 17:42:47	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	web.me.com-baronlf.warc.gz	3525855749
+myttman99	gallery.me.com	2012-03-31 17:05:16	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	gallery.me.com-myttman99.warc.gz	8353
+myttman99	homepage.mac.com	2012-03-31 17:05:16	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	homepage.mac.com-myttman99.warc.gz	5173
+myttman99	public.me.com	2012-03-31 17:05:16	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	public.me.com-myttman99.warc.gz	1919
+myttman99	web.me.com	2012-03-31 17:05:15	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2730.tar	web.me.com-myttman99.warc.gz	17786

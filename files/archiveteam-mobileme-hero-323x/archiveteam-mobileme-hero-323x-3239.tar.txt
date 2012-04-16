@@ -1,12 +1,12 @@
-aidans	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	gallery.me.com-aidans.warc.gz	0
-aidans	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	homepage.mac.com-aidans.warc.gz	0
-aidans	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	public.me.com-aidans.warc.gz	0
-aidans	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	web.me.com-aidans.warc.gz	0
-ghentskyhawk	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	gallery.me.com-ghentskyhawk.warc.gz	0
-ghentskyhawk	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	homepage.mac.com-ghentskyhawk.warc.gz	0
-ghentskyhawk	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	public.me.com-ghentskyhawk.warc.gz	0
-ghentskyhawk	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	web.me.com-ghentskyhawk.warc.gz	0
-winnierossi	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	gallery.me.com-winnierossi.warc.gz	0
-winnierossi	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	homepage.mac.com-winnierossi.warc.gz	0
-winnierossi	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	public.me.com-winnierossi.warc.gz	0
-winnierossi	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	web.me.com-winnierossi.warc.gz	0
+aidans	gallery.me.com	2012-04-03 04:07:45	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	gallery.me.com-aidans.warc.gz	1566279592
+aidans	homepage.mac.com	2012-04-03 04:07:46	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	homepage.mac.com-aidans.warc.gz	4902
+aidans	public.me.com	2012-04-03 03:10:32	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	public.me.com-aidans.warc.gz	3368
+aidans	web.me.com	2012-04-03 03:09:54	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	web.me.com-aidans.warc.gz	1180455577
+ghentskyhawk	gallery.me.com	2012-04-03 01:52:27	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	gallery.me.com-ghentskyhawk.warc.gz	922668825
+ghentskyhawk	homepage.mac.com	2012-04-03 01:52:27	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	homepage.mac.com-ghentskyhawk.warc.gz	4923
+ghentskyhawk	public.me.com	2012-04-03 01:43:46	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	public.me.com-ghentskyhawk.warc.gz	505970492
+ghentskyhawk	web.me.com	2012-04-03 01:37:40	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	web.me.com-ghentskyhawk.warc.gz	4071151
+winnierossi	gallery.me.com	2012-04-03 01:37:07	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	gallery.me.com-winnierossi.warc.gz	43176921
+winnierossi	homepage.mac.com	2012-04-03 01:37:07	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	homepage.mac.com-winnierossi.warc.gz	4913
+winnierossi	public.me.com	2012-04-03 01:34:32	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	public.me.com-winnierossi.warc.gz	27002
+winnierossi	web.me.com	2012-04-03 01:34:28	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3239.tar	web.me.com-winnierossi.warc.gz	674433603

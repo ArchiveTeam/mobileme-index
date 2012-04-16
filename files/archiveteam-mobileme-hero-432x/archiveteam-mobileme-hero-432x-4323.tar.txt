@@ -1,20 +1,20 @@
-boverfelt	gallery.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	gallery.me.com-boverfelt.warc.gz	0
-boverfelt	homepage.mac.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	homepage.mac.com-boverfelt.warc.gz	0
-boverfelt	public.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	public.me.com-boverfelt.warc.gz	0
-boverfelt	web.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	web.me.com-boverfelt.warc.gz	0
-kristihtaylor	gallery.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	gallery.me.com-kristihtaylor.warc.gz	0
-kristihtaylor	homepage.mac.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	homepage.mac.com-kristihtaylor.warc.gz	0
-kristihtaylor	public.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	public.me.com-kristihtaylor.warc.gz	0
-kristihtaylor	web.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	web.me.com-kristihtaylor.warc.gz	0
-peggyfroerer	gallery.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	gallery.me.com-peggyfroerer.warc.gz	0
-peggyfroerer	homepage.mac.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	homepage.mac.com-peggyfroerer.warc.gz	0
-peggyfroerer	public.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	public.me.com-peggyfroerer.warc.gz	0
-peggyfroerer	web.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	web.me.com-peggyfroerer.warc.gz	0
-roadrunnersmt	gallery.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	gallery.me.com-roadrunnersmt.warc.gz	0
-roadrunnersmt	homepage.mac.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	homepage.mac.com-roadrunnersmt.warc.gz	0
-roadrunnersmt	public.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	public.me.com-roadrunnersmt.warc.gz	0
-roadrunnersmt	web.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	web.me.com-roadrunnersmt.warc.gz	0
-robwamp	gallery.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	gallery.me.com-robwamp.warc.gz	0
-robwamp	homepage.mac.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	homepage.mac.com-robwamp.warc.gz	0
-robwamp	public.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	public.me.com-robwamp.warc.gz	0
-robwamp	web.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	web.me.com-robwamp.warc.gz	0
+boverfelt	gallery.me.com	2012-04-05 17:26:01	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	gallery.me.com-boverfelt.warc.gz	3325023801
+boverfelt	homepage.mac.com	2012-04-05 17:26:01	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	homepage.mac.com-boverfelt.warc.gz	4921
+boverfelt	public.me.com	2012-04-05 16:10:38	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	public.me.com-boverfelt.warc.gz	1916
+boverfelt	web.me.com	2012-04-05 16:10:36	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	web.me.com-boverfelt.warc.gz	1046432614
+kristihtaylor	gallery.me.com	2012-04-05 15:47:10	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	gallery.me.com-kristihtaylor.warc.gz	5707
+kristihtaylor	homepage.mac.com	2012-04-05 15:47:11	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	homepage.mac.com-kristihtaylor.warc.gz	4940
+kristihtaylor	public.me.com	2012-04-05 15:47:09	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	public.me.com-kristihtaylor.warc.gz	1931
+kristihtaylor	web.me.com	2012-04-05 15:47:09	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	web.me.com-kristihtaylor.warc.gz	185056538
+peggyfroerer	gallery.me.com	2012-04-05 15:24:33	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	gallery.me.com-peggyfroerer.warc.gz	4309
+peggyfroerer	homepage.mac.com	2012-04-05 15:24:33	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	homepage.mac.com-peggyfroerer.warc.gz	4927
+peggyfroerer	public.me.com	2012-04-05 15:24:32	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	public.me.com-peggyfroerer.warc.gz	1929
+peggyfroerer	web.me.com	2012-04-05 15:24:32	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	web.me.com-peggyfroerer.warc.gz	9756898
+roadrunnersmt	gallery.me.com	2012-04-05 15:24:35	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	gallery.me.com-roadrunnersmt.warc.gz	8376
+roadrunnersmt	homepage.mac.com	2012-04-05 15:24:35	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	homepage.mac.com-roadrunnersmt.warc.gz	5188
+roadrunnersmt	public.me.com	2012-04-05 15:24:35	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	public.me.com-roadrunnersmt.warc.gz	1923
+roadrunnersmt	web.me.com	2012-04-05 15:24:35	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	web.me.com-roadrunnersmt.warc.gz	17667
+robwamp	gallery.me.com	2012-04-05 15:22:37	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	gallery.me.com-robwamp.warc.gz	792272964
+robwamp	homepage.mac.com	2012-04-05 15:22:38	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	homepage.mac.com-robwamp.warc.gz	4913
+robwamp	public.me.com	2012-04-05 15:02:11	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	public.me.com-robwamp.warc.gz	1914
+robwamp	web.me.com	2012-04-05 15:02:05	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4323.tar	web.me.com-robwamp.warc.gz	625235595

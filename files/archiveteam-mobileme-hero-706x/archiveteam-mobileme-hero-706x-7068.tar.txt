@@ -1,20 +1,20 @@
-ac_corporation	gallery.me.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	gallery.me.com-ac_corporation.warc.gz	0
-ac_corporation	homepage.mac.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	homepage.mac.com-ac_corporation.warc.gz	0
-ac_corporation	public.me.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	public.me.com-ac_corporation.warc.gz	0
-ac_corporation	web.me.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	web.me.com-ac_corporation.warc.gz	0
-aidanoneill	gallery.me.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	gallery.me.com-aidanoneill.warc.gz	0
-aidanoneill	homepage.mac.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	homepage.mac.com-aidanoneill.warc.gz	0
-aidanoneill	public.me.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	public.me.com-aidanoneill.warc.gz	0
-aidanoneill	web.me.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	web.me.com-aidanoneill.warc.gz	0
-reb	gallery.me.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	gallery.me.com-reb.warc.gz	0
-reb	homepage.mac.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	homepage.mac.com-reb.warc.gz	0
-reb	public.me.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	public.me.com-reb.warc.gz	0
-reb	web.me.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	web.me.com-reb.warc.gz	0
-rrd	gallery.me.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	gallery.me.com-rrd.warc.gz	0
-rrd	homepage.mac.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	homepage.mac.com-rrd.warc.gz	0
-rrd	public.me.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	public.me.com-rrd.warc.gz	0
-rrd	web.me.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	web.me.com-rrd.warc.gz	0
-yakupiliksiz	gallery.me.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	gallery.me.com-yakupiliksiz.warc.gz	0
-yakupiliksiz	homepage.mac.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	homepage.mac.com-yakupiliksiz.warc.gz	0
-yakupiliksiz	public.me.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	public.me.com-yakupiliksiz.warc.gz	0
-yakupiliksiz	web.me.com		archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	web.me.com-yakupiliksiz.warc.gz	0
+ac_corporation	gallery.me.com	2012-04-13 01:12:39	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	gallery.me.com-ac_corporation.warc.gz	8382
+ac_corporation	homepage.mac.com	2012-04-13 01:12:39	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	homepage.mac.com-ac_corporation.warc.gz	5173
+ac_corporation	public.me.com	2012-04-13 01:12:38	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	public.me.com-ac_corporation.warc.gz	1929
+ac_corporation	web.me.com	2012-04-13 01:12:37	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	web.me.com-ac_corporation.warc.gz	17762
+aidanoneill	gallery.me.com	2012-04-13 01:27:33	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	gallery.me.com-aidanoneill.warc.gz	9272833
+aidanoneill	homepage.mac.com	2012-04-13 01:27:34	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	homepage.mac.com-aidanoneill.warc.gz	4914
+aidanoneill	public.me.com	2012-04-13 01:27:12	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	public.me.com-aidanoneill.warc.gz	1917
+aidanoneill	web.me.com	2012-04-13 01:27:12	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	web.me.com-aidanoneill.warc.gz	113335118
+reb	gallery.me.com	2012-04-13 01:12:36	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	gallery.me.com-reb.warc.gz	1355476345
+reb	homepage.mac.com	2012-04-13 01:12:36	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	homepage.mac.com-reb.warc.gz	4863
+reb	public.me.com	2012-04-13 00:38:01	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	public.me.com-reb.warc.gz	187803191
+reb	web.me.com	2012-04-13 00:33:02	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	web.me.com-reb.warc.gz	298501865
+rrd	gallery.me.com	2012-04-13 02:43:53	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	gallery.me.com-rrd.warc.gz	191649580
+rrd	homepage.mac.com	2012-04-13 02:43:54	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	homepage.mac.com-rrd.warc.gz	7647
+rrd	public.me.com	2012-04-13 02:36:09	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	public.me.com-rrd.warc.gz	88765688
+rrd	web.me.com	2012-04-13 02:28:52	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	web.me.com-rrd.warc.gz	49454687
+yakupiliksiz	gallery.me.com	2012-04-13 02:19:04	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	gallery.me.com-yakupiliksiz.warc.gz	6083
+yakupiliksiz	homepage.mac.com	2012-04-13 02:19:05	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	homepage.mac.com-yakupiliksiz.warc.gz	4914
+yakupiliksiz	public.me.com	2012-04-13 02:19:02	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	public.me.com-yakupiliksiz.warc.gz	140379630
+yakupiliksiz	web.me.com	2012-04-13 02:12:26	archiveteam-mobileme-hero-706x	archiveteam-mobileme-hero-706x-7068.tar	web.me.com-yakupiliksiz.warc.gz	2093840880

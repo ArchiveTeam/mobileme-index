@@ -1,20 +1,20 @@
-davidkahl1	gallery.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	gallery.me.com-davidkahl1.warc.gz	0
-davidkahl1	homepage.mac.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	homepage.mac.com-davidkahl1.warc.gz	0
-davidkahl1	public.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	public.me.com-davidkahl1.warc.gz	0
-davidkahl1	web.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	web.me.com-davidkahl1.warc.gz	0
-jega1	gallery.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	gallery.me.com-jega1.warc.gz	0
-jega1	homepage.mac.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	homepage.mac.com-jega1.warc.gz	0
-jega1	public.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	public.me.com-jega1.warc.gz	0
-jega1	web.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	web.me.com-jega1.warc.gz	0
-ktmdbd	gallery.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	gallery.me.com-ktmdbd.warc.gz	0
-ktmdbd	homepage.mac.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	homepage.mac.com-ktmdbd.warc.gz	0
-ktmdbd	public.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	public.me.com-ktmdbd.warc.gz	0
-ktmdbd	web.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	web.me.com-ktmdbd.warc.gz	0
-m.gebhardt	gallery.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	gallery.me.com-m.gebhardt.warc.gz	0
-m.gebhardt	homepage.mac.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	homepage.mac.com-m.gebhardt.warc.gz	0
-m.gebhardt	public.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	public.me.com-m.gebhardt.warc.gz	0
-m.gebhardt	web.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	web.me.com-m.gebhardt.warc.gz	0
-suber	gallery.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	gallery.me.com-suber.warc.gz	0
-suber	homepage.mac.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	homepage.mac.com-suber.warc.gz	0
-suber	public.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	public.me.com-suber.warc.gz	0
-suber	web.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	web.me.com-suber.warc.gz	0
+davidkahl1	gallery.me.com	2012-04-04 11:23:11	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	gallery.me.com-davidkahl1.warc.gz	210511312
+davidkahl1	homepage.mac.com	2012-04-04 11:23:11	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	homepage.mac.com-davidkahl1.warc.gz	4927
+davidkahl1	public.me.com	2012-04-04 11:21:40	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	public.me.com-davidkahl1.warc.gz	51766574
+davidkahl1	web.me.com	2012-04-04 11:20:34	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	web.me.com-davidkahl1.warc.gz	1517896
+jega1	gallery.me.com	2012-04-04 11:17:52	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	gallery.me.com-jega1.warc.gz	109825491
+jega1	homepage.mac.com	2012-04-04 11:17:52	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	homepage.mac.com-jega1.warc.gz	4893
+jega1	public.me.com	2012-04-04 11:15:17	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	public.me.com-jega1.warc.gz	101956653
+jega1	web.me.com	2012-04-04 11:14:25	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	web.me.com-jega1.warc.gz	1357864177
+ktmdbd	gallery.me.com	2012-04-04 11:20:06	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	gallery.me.com-ktmdbd.warc.gz	8329
+ktmdbd	homepage.mac.com	2012-04-04 11:20:06	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	homepage.mac.com-ktmdbd.warc.gz	5166
+ktmdbd	public.me.com	2012-04-04 11:20:05	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	public.me.com-ktmdbd.warc.gz	1912
+ktmdbd	web.me.com	2012-04-04 11:20:05	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	web.me.com-ktmdbd.warc.gz	17706
+m.gebhardt	gallery.me.com	2012-04-04 11:20:04	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	gallery.me.com-m.gebhardt.warc.gz	5120862
+m.gebhardt	homepage.mac.com	2012-04-04 11:20:04	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	homepage.mac.com-m.gebhardt.warc.gz	4927
+m.gebhardt	public.me.com	2012-04-04 11:19:50	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	public.me.com-m.gebhardt.warc.gz	114639538
+m.gebhardt	web.me.com	2012-04-04 11:18:08	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	web.me.com-m.gebhardt.warc.gz	558441
+suber	gallery.me.com	2012-04-04 14:33:01	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	gallery.me.com-suber.warc.gz	4518232192
+suber	homepage.mac.com	2012-04-04 14:33:02	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	homepage.mac.com-suber.warc.gz	107622
+suber	public.me.com	2012-04-04 13:26:54	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	public.me.com-suber.warc.gz	238277294
+suber	web.me.com	2012-04-04 13:19:54	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3850.tar	web.me.com-suber.warc.gz	4133646501

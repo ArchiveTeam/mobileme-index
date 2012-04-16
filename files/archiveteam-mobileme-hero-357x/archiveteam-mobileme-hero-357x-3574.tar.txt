@@ -1,8 +1,8 @@
-jengeraghty	gallery.me.com		archiveteam-mobileme-hero-357x	archiveteam-mobileme-hero-357x-3574.tar	gallery.me.com-jengeraghty.warc.gz	0
-jengeraghty	homepage.mac.com		archiveteam-mobileme-hero-357x	archiveteam-mobileme-hero-357x-3574.tar	homepage.mac.com-jengeraghty.warc.gz	0
-jengeraghty	public.me.com		archiveteam-mobileme-hero-357x	archiveteam-mobileme-hero-357x-3574.tar	public.me.com-jengeraghty.warc.gz	0
-jengeraghty	web.me.com		archiveteam-mobileme-hero-357x	archiveteam-mobileme-hero-357x-3574.tar	web.me.com-jengeraghty.warc.gz	0
-lefflefferts	gallery.me.com		archiveteam-mobileme-hero-357x	archiveteam-mobileme-hero-357x-3574.tar	gallery.me.com-lefflefferts.warc.gz	0
-lefflefferts	homepage.mac.com		archiveteam-mobileme-hero-357x	archiveteam-mobileme-hero-357x-3574.tar	homepage.mac.com-lefflefferts.warc.gz	0
-lefflefferts	public.me.com		archiveteam-mobileme-hero-357x	archiveteam-mobileme-hero-357x-3574.tar	public.me.com-lefflefferts.warc.gz	0
-lefflefferts	web.me.com		archiveteam-mobileme-hero-357x	archiveteam-mobileme-hero-357x-3574.tar	web.me.com-lefflefferts.warc.gz	0
+jengeraghty	gallery.me.com	2012-04-03 22:16:02	archiveteam-mobileme-hero-357x	archiveteam-mobileme-hero-357x-3574.tar	gallery.me.com-jengeraghty.warc.gz	242668716
+jengeraghty	homepage.mac.com	2012-04-03 22:16:02	archiveteam-mobileme-hero-357x	archiveteam-mobileme-hero-357x-3574.tar	homepage.mac.com-jengeraghty.warc.gz	4926
+jengeraghty	public.me.com	2012-04-03 22:14:35	archiveteam-mobileme-hero-357x	archiveteam-mobileme-hero-357x-3574.tar	public.me.com-jengeraghty.warc.gz	15372
+jengeraghty	web.me.com	2012-04-03 22:13:13	archiveteam-mobileme-hero-357x	archiveteam-mobileme-hero-357x-3574.tar	web.me.com-jengeraghty.warc.gz	3135310075
+lefflefferts	gallery.me.com	2012-04-03 18:00:58	archiveteam-mobileme-hero-357x	archiveteam-mobileme-hero-357x-3574.tar	gallery.me.com-lefflefferts.warc.gz	186451863
+lefflefferts	homepage.mac.com	2012-04-03 18:01:05	archiveteam-mobileme-hero-357x	archiveteam-mobileme-hero-357x-3574.tar	homepage.mac.com-lefflefferts.warc.gz	132206
+lefflefferts	public.me.com	2012-04-03 17:57:57	archiveteam-mobileme-hero-357x	archiveteam-mobileme-hero-357x-3574.tar	public.me.com-lefflefferts.warc.gz	960315833
+lefflefferts	web.me.com	2012-04-03 17:44:14	archiveteam-mobileme-hero-357x	archiveteam-mobileme-hero-357x-3574.tar	web.me.com-lefflefferts.warc.gz	256922091

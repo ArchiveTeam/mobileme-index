@@ -1,20 +1,20 @@
-anthonywilloughby	gallery.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	gallery.me.com-anthonywilloughby.warc.gz	0
-anthonywilloughby	homepage.mac.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	homepage.mac.com-anthonywilloughby.warc.gz	0
-anthonywilloughby	public.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	public.me.com-anthonywilloughby.warc.gz	0
-anthonywilloughby	web.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	web.me.com-anthonywilloughby.warc.gz	0
-dhtml	gallery.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	gallery.me.com-dhtml.warc.gz	0
-dhtml	homepage.mac.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	homepage.mac.com-dhtml.warc.gz	0
-dhtml	public.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	public.me.com-dhtml.warc.gz	0
-dhtml	web.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	web.me.com-dhtml.warc.gz	0
-oligrob	gallery.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	gallery.me.com-oligrob.warc.gz	0
-oligrob	homepage.mac.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	homepage.mac.com-oligrob.warc.gz	0
-oligrob	public.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	public.me.com-oligrob.warc.gz	0
-oligrob	web.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	web.me.com-oligrob.warc.gz	0
-pdimas	gallery.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	gallery.me.com-pdimas.warc.gz	0
-pdimas	homepage.mac.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	homepage.mac.com-pdimas.warc.gz	0
-pdimas	public.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	public.me.com-pdimas.warc.gz	0
-pdimas	web.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	web.me.com-pdimas.warc.gz	0
-zoniclan	gallery.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	gallery.me.com-zoniclan.warc.gz	0
-zoniclan	homepage.mac.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	homepage.mac.com-zoniclan.warc.gz	0
-zoniclan	public.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	public.me.com-zoniclan.warc.gz	0
-zoniclan	web.me.com		archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	web.me.com-zoniclan.warc.gz	0
+anthonywilloughby	gallery.me.com	2012-04-03 02:33:19	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	gallery.me.com-anthonywilloughby.warc.gz	4326
+anthonywilloughby	homepage.mac.com	2012-04-03 02:33:19	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	homepage.mac.com-anthonywilloughby.warc.gz	4951
+anthonywilloughby	public.me.com	2012-04-03 02:33:18	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	public.me.com-anthonywilloughby.warc.gz	1937
+anthonywilloughby	web.me.com	2012-04-03 02:33:16	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	web.me.com-anthonywilloughby.warc.gz	7083844
+dhtml	gallery.me.com	2012-04-03 01:36:43	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	gallery.me.com-dhtml.warc.gz	8314
+dhtml	homepage.mac.com	2012-04-03 01:36:44	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	homepage.mac.com-dhtml.warc.gz	5137
+dhtml	public.me.com	2012-04-03 01:36:43	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	public.me.com-dhtml.warc.gz	1906
+dhtml	web.me.com	2012-04-03 01:36:43	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	web.me.com-dhtml.warc.gz	17660
+oligrob	gallery.me.com	2012-04-03 02:31:10	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	gallery.me.com-oligrob.warc.gz	3019213251
+oligrob	homepage.mac.com	2012-04-03 02:31:14	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	homepage.mac.com-oligrob.warc.gz	147527
+oligrob	public.me.com	2012-04-03 01:58:51	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	public.me.com-oligrob.warc.gz	72606477
+oligrob	web.me.com	2012-04-03 01:56:12	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	web.me.com-oligrob.warc.gz	574896106
+pdimas	gallery.me.com	2012-04-03 02:39:10	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	gallery.me.com-pdimas.warc.gz	185662112
+pdimas	homepage.mac.com	2012-04-03 02:39:11	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	homepage.mac.com-pdimas.warc.gz	7871
+pdimas	public.me.com	2012-04-03 02:36:40	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	public.me.com-pdimas.warc.gz	113786601
+pdimas	web.me.com	2012-04-03 02:34:29	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	web.me.com-pdimas.warc.gz	4811114
+zoniclan	gallery.me.com	2012-04-03 01:36:41	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	gallery.me.com-zoniclan.warc.gz	3036725
+zoniclan	homepage.mac.com	2012-04-03 01:36:41	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	homepage.mac.com-zoniclan.warc.gz	4886
+zoniclan	public.me.com	2012-04-03 01:36:36	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	public.me.com-zoniclan.warc.gz	990894
+zoniclan	web.me.com	2012-04-03 01:36:22	archiveteam-mobileme-hero-320x	archiveteam-mobileme-hero-320x-3209.tar	web.me.com-zoniclan.warc.gz	538173251

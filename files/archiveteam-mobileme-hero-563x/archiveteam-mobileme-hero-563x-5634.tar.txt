@@ -1,12 +1,12 @@
-lidje64	gallery.me.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	gallery.me.com-lidje64.warc.gz	0
-lidje64	homepage.mac.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	homepage.mac.com-lidje64.warc.gz	0
-lidje64	public.me.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	public.me.com-lidje64.warc.gz	0
-lidje64	web.me.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	web.me.com-lidje64.warc.gz	0
-mjcarrington	gallery.me.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	gallery.me.com-mjcarrington.warc.gz	0
-mjcarrington	homepage.mac.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	homepage.mac.com-mjcarrington.warc.gz	0
-mjcarrington	public.me.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	public.me.com-mjcarrington.warc.gz	0
-mjcarrington	web.me.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	web.me.com-mjcarrington.warc.gz	0
-soulosphere	gallery.me.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	gallery.me.com-soulosphere.warc.gz	0
-soulosphere	homepage.mac.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	homepage.mac.com-soulosphere.warc.gz	0
-soulosphere	public.me.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	public.me.com-soulosphere.warc.gz	0
-soulosphere	web.me.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	web.me.com-soulosphere.warc.gz	0
+lidje64	gallery.me.com	2012-04-09 21:26:11	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	gallery.me.com-lidje64.warc.gz	6322493083
+lidje64	homepage.mac.com	2012-04-09 21:26:11	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	homepage.mac.com-lidje64.warc.gz	4898
+lidje64	public.me.com	2012-04-09 19:39:40	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	public.me.com-lidje64.warc.gz	286155770
+lidje64	web.me.com	2012-04-09 19:30:35	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	web.me.com-lidje64.warc.gz	22732431
+mjcarrington	gallery.me.com	2012-04-09 19:20:42	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	gallery.me.com-mjcarrington.warc.gz	16537
+mjcarrington	homepage.mac.com	2012-04-09 19:20:43	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	homepage.mac.com-mjcarrington.warc.gz	4926
+mjcarrington	public.me.com	2012-04-09 19:20:41	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	public.me.com-mjcarrington.warc.gz	1924
+mjcarrington	web.me.com	2012-04-09 19:20:41	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	web.me.com-mjcarrington.warc.gz	12364006
+soulosphere	gallery.me.com	2012-04-09 19:19:49	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	gallery.me.com-soulosphere.warc.gz	6992
+soulosphere	homepage.mac.com	2012-04-09 19:19:49	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	homepage.mac.com-soulosphere.warc.gz	4916
+soulosphere	public.me.com	2012-04-09 19:19:48	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	public.me.com-soulosphere.warc.gz	1921
+soulosphere	web.me.com	2012-04-09 19:19:47	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5634.tar	web.me.com-soulosphere.warc.gz	45096962

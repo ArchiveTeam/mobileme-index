@@ -1,16 +1,16 @@
-c742956971	gallery.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	gallery.me.com-c742956971.warc.gz	0
-c742956971	homepage.mac.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	homepage.mac.com-c742956971.warc.gz	0
-c742956971	public.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	public.me.com-c742956971.warc.gz	0
-c742956971	web.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	web.me.com-c742956971.warc.gz	0
-meplourde	gallery.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	gallery.me.com-meplourde.warc.gz	0
-meplourde	homepage.mac.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	homepage.mac.com-meplourde.warc.gz	0
-meplourde	public.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	public.me.com-meplourde.warc.gz	0
-meplourde	web.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	web.me.com-meplourde.warc.gz	0
-p.draper	gallery.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	gallery.me.com-p.draper.warc.gz	0
-p.draper	homepage.mac.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	homepage.mac.com-p.draper.warc.gz	0
-p.draper	public.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	public.me.com-p.draper.warc.gz	0
-p.draper	web.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	web.me.com-p.draper.warc.gz	0
-pjsiers	gallery.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	gallery.me.com-pjsiers.warc.gz	0
-pjsiers	homepage.mac.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	homepage.mac.com-pjsiers.warc.gz	0
-pjsiers	public.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	public.me.com-pjsiers.warc.gz	0
-pjsiers	web.me.com		archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	web.me.com-pjsiers.warc.gz	0
+c742956971	gallery.me.com	2012-04-04 13:37:23	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	gallery.me.com-c742956971.warc.gz	8356
+c742956971	homepage.mac.com	2012-04-04 13:37:23	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	homepage.mac.com-c742956971.warc.gz	5170
+c742956971	public.me.com	2012-04-04 13:37:22	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	public.me.com-c742956971.warc.gz	1920
+c742956971	web.me.com	2012-04-04 13:37:22	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	web.me.com-c742956971.warc.gz	17715
+meplourde	gallery.me.com	2012-04-04 13:37:14	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	gallery.me.com-meplourde.warc.gz	483438458
+meplourde	homepage.mac.com	2012-04-04 13:37:20	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	homepage.mac.com-meplourde.warc.gz	126141
+meplourde	public.me.com	2012-04-04 13:32:27	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	public.me.com-meplourde.warc.gz	1918
+meplourde	web.me.com	2012-04-04 13:32:26	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	web.me.com-meplourde.warc.gz	477477401
+p.draper	gallery.me.com	2012-04-04 13:23:05	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	gallery.me.com-p.draper.warc.gz	1375384208
+p.draper	homepage.mac.com	2012-04-04 13:23:05	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	homepage.mac.com-p.draper.warc.gz	4907
+p.draper	public.me.com	2012-04-04 09:29:27	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	public.me.com-p.draper.warc.gz	1906
+p.draper	web.me.com	2012-04-04 09:29:26	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	web.me.com-p.draper.warc.gz	242780994
+pjsiers	gallery.me.com	2012-04-04 14:25:00	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	gallery.me.com-pjsiers.warc.gz	1311759653
+pjsiers	homepage.mac.com	2012-04-04 14:25:00	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	homepage.mac.com-pjsiers.warc.gz	4910
+pjsiers	public.me.com	2012-04-04 13:50:18	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	public.me.com-pjsiers.warc.gz	1848707
+pjsiers	web.me.com	2012-04-04 13:50:15	archiveteam-mobileme-hero-384x	archiveteam-mobileme-hero-384x-3849.tar	web.me.com-pjsiers.warc.gz	649586590

@@ -1,20 +1,20 @@
-eviled	gallery.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	gallery.me.com-eviled.warc.gz	0
-eviled	homepage.mac.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	homepage.mac.com-eviled.warc.gz	0
-eviled	public.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	public.me.com-eviled.warc.gz	0
-eviled	web.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	web.me.com-eviled.warc.gz	0
-luisgdiaz	gallery.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	gallery.me.com-luisgdiaz.warc.gz	0
-luisgdiaz	homepage.mac.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	homepage.mac.com-luisgdiaz.warc.gz	0
-luisgdiaz	public.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	public.me.com-luisgdiaz.warc.gz	0
-luisgdiaz	web.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	web.me.com-luisgdiaz.warc.gz	0
-smunter	gallery.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	gallery.me.com-smunter.warc.gz	0
-smunter	homepage.mac.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	homepage.mac.com-smunter.warc.gz	0
-smunter	public.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	public.me.com-smunter.warc.gz	0
-smunter	web.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	web.me.com-smunter.warc.gz	0
-thadroe1	gallery.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	gallery.me.com-thadroe1.warc.gz	0
-thadroe1	homepage.mac.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	homepage.mac.com-thadroe1.warc.gz	0
-thadroe1	public.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	public.me.com-thadroe1.warc.gz	0
-thadroe1	web.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	web.me.com-thadroe1.warc.gz	0
-thomas.okon	gallery.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	gallery.me.com-thomas.okon.warc.gz	0
-thomas.okon	homepage.mac.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	homepage.mac.com-thomas.okon.warc.gz	0
-thomas.okon	public.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	public.me.com-thomas.okon.warc.gz	0
-thomas.okon	web.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	web.me.com-thomas.okon.warc.gz	0
+eviled	gallery.me.com	2012-04-12 01:41:43	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	gallery.me.com-eviled.warc.gz	328475948
+eviled	homepage.mac.com	2012-04-12 01:42:01	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	homepage.mac.com-eviled.warc.gz	177418
+eviled	public.me.com	2012-04-12 00:41:02	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	public.me.com-eviled.warc.gz	1228555375
+eviled	web.me.com	2012-04-12 00:22:57	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	web.me.com-eviled.warc.gz	21483832
+luisgdiaz	gallery.me.com	2012-04-12 00:16:40	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	gallery.me.com-luisgdiaz.warc.gz	1566656722
+luisgdiaz	homepage.mac.com	2012-04-12 00:17:09	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	homepage.mac.com-luisgdiaz.warc.gz	9383081
+luisgdiaz	public.me.com	2012-04-11 19:50:42	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	public.me.com-luisgdiaz.warc.gz	1920
+luisgdiaz	web.me.com	2012-04-11 19:50:41	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	web.me.com-luisgdiaz.warc.gz	1022685180
+smunter	gallery.me.com	2012-04-12 01:42:06	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	gallery.me.com-smunter.warc.gz	8339
+smunter	homepage.mac.com	2012-04-12 01:42:06	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	homepage.mac.com-smunter.warc.gz	5163
+smunter	public.me.com	2012-04-12 01:42:05	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	public.me.com-smunter.warc.gz	1912
+smunter	web.me.com	2012-04-12 01:42:04	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	web.me.com-smunter.warc.gz	17674
+thadroe1	gallery.me.com	2012-04-12 00:17:18	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	gallery.me.com-thadroe1.warc.gz	12335
+thadroe1	homepage.mac.com	2012-04-12 00:17:18	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	homepage.mac.com-thadroe1.warc.gz	7140
+thadroe1	public.me.com	2012-04-12 00:17:13	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	public.me.com-thadroe1.warc.gz	1921
+thadroe1	web.me.com	2012-04-12 00:17:13	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	web.me.com-thadroe1.warc.gz	22449
+thomas.okon	gallery.me.com	2012-04-12 03:49:23	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	gallery.me.com-thomas.okon.warc.gz	820805932
+thomas.okon	homepage.mac.com	2012-04-12 03:49:24	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	homepage.mac.com-thomas.okon.warc.gz	4920
+thomas.okon	public.me.com	2012-04-12 02:29:51	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	public.me.com-thomas.okon.warc.gz	1926
+thomas.okon	web.me.com	2012-04-12 02:29:50	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6557.tar	web.me.com-thomas.okon.warc.gz	686680579

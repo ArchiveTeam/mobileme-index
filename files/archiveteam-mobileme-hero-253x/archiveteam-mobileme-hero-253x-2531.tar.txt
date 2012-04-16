@@ -1,20 +1,20 @@
-amitomo	gallery.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	gallery.me.com-amitomo.warc.gz	0
-amitomo	homepage.mac.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	homepage.mac.com-amitomo.warc.gz	0
-amitomo	public.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	public.me.com-amitomo.warc.gz	0
-amitomo	web.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	web.me.com-amitomo.warc.gz	0
-chancepataki	gallery.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	gallery.me.com-chancepataki.warc.gz	0
-chancepataki	homepage.mac.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	homepage.mac.com-chancepataki.warc.gz	0
-chancepataki	public.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	public.me.com-chancepataki.warc.gz	0
-chancepataki	web.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	web.me.com-chancepataki.warc.gz	0
-johnsondanny	gallery.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	gallery.me.com-johnsondanny.warc.gz	0
-johnsondanny	homepage.mac.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	homepage.mac.com-johnsondanny.warc.gz	0
-johnsondanny	public.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	public.me.com-johnsondanny.warc.gz	0
-johnsondanny	web.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	web.me.com-johnsondanny.warc.gz	0
-mdennert	gallery.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	gallery.me.com-mdennert.warc.gz	0
-mdennert	homepage.mac.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	homepage.mac.com-mdennert.warc.gz	0
-mdennert	public.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	public.me.com-mdennert.warc.gz	0
-mdennert	web.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	web.me.com-mdennert.warc.gz	0
-taixi	gallery.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	gallery.me.com-taixi.warc.gz	0
-taixi	homepage.mac.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	homepage.mac.com-taixi.warc.gz	0
-taixi	public.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	public.me.com-taixi.warc.gz	0
-taixi	web.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	web.me.com-taixi.warc.gz	0
+amitomo	gallery.me.com	2012-03-31 16:57:27	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	gallery.me.com-amitomo.warc.gz	213294
+amitomo	homepage.mac.com	2012-03-31 16:57:27	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	homepage.mac.com-amitomo.warc.gz	8185
+amitomo	public.me.com	2012-03-31 16:57:17	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	public.me.com-amitomo.warc.gz	1904
+amitomo	web.me.com	2012-03-31 16:57:16	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	web.me.com-amitomo.warc.gz	8047837
+chancepataki	gallery.me.com	2012-03-31 16:52:16	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	gallery.me.com-chancepataki.warc.gz	4305
+chancepataki	homepage.mac.com	2012-03-31 16:52:17	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	homepage.mac.com-chancepataki.warc.gz	4924
+chancepataki	public.me.com	2012-03-31 16:52:08	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	public.me.com-chancepataki.warc.gz	1927
+chancepataki	web.me.com	2012-03-31 16:52:08	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	web.me.com-chancepataki.warc.gz	6268484
+johnsondanny	gallery.me.com	2012-03-31 18:28:58	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	gallery.me.com-johnsondanny.warc.gz	1061196929
+johnsondanny	homepage.mac.com	2012-03-31 18:28:58	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	homepage.mac.com-johnsondanny.warc.gz	4939
+johnsondanny	public.me.com	2012-03-31 17:24:43	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	public.me.com-johnsondanny.warc.gz	1924
+johnsondanny	web.me.com	2012-03-31 17:24:41	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	web.me.com-johnsondanny.warc.gz	78477336
+mdennert	gallery.me.com	2012-03-31 22:44:40	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	gallery.me.com-mdennert.warc.gz	2229572
+mdennert	homepage.mac.com	2012-03-31 22:44:41	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	homepage.mac.com-mdennert.warc.gz	4913
+mdennert	public.me.com	2012-03-31 22:44:15	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	public.me.com-mdennert.warc.gz	7384109756
+mdennert	web.me.com	2012-03-31 19:14:11	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	web.me.com-mdennert.warc.gz	131689507
+taixi	gallery.me.com	2012-03-31 16:45:24	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	gallery.me.com-taixi.warc.gz	130128330
+taixi	homepage.mac.com	2012-03-31 16:45:25	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	homepage.mac.com-taixi.warc.gz	7826
+taixi	public.me.com	2012-03-31 16:39:54	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	public.me.com-taixi.warc.gz	144882890
+taixi	web.me.com	2012-03-31 16:38:24	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2531.tar	web.me.com-taixi.warc.gz	1021961418

@@ -1,16 +1,16 @@
-capt_memo	gallery.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	gallery.me.com-capt_memo.warc.gz	0
-capt_memo	homepage.mac.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	homepage.mac.com-capt_memo.warc.gz	0
-capt_memo	public.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	public.me.com-capt_memo.warc.gz	0
-capt_memo	web.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	web.me.com-capt_memo.warc.gz	0
-federico.carminati	gallery.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	gallery.me.com-federico.carminati.warc.gz	0
-federico.carminati	homepage.mac.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	homepage.mac.com-federico.carminati.warc.gz	0
-federico.carminati	public.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	public.me.com-federico.carminati.warc.gz	0
-federico.carminati	web.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	web.me.com-federico.carminati.warc.gz	0
-gstrom	gallery.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	gallery.me.com-gstrom.warc.gz	0
-gstrom	homepage.mac.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	homepage.mac.com-gstrom.warc.gz	0
-gstrom	public.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	public.me.com-gstrom.warc.gz	0
-gstrom	web.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	web.me.com-gstrom.warc.gz	0
-pemogck	gallery.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	gallery.me.com-pemogck.warc.gz	0
-pemogck	homepage.mac.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	homepage.mac.com-pemogck.warc.gz	0
-pemogck	public.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	public.me.com-pemogck.warc.gz	0
-pemogck	web.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	web.me.com-pemogck.warc.gz	0
+capt_memo	gallery.me.com	2012-04-06 15:34:55	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	gallery.me.com-capt_memo.warc.gz	5154
+capt_memo	homepage.mac.com	2012-04-06 15:34:59	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	homepage.mac.com-capt_memo.warc.gz	90469
+capt_memo	public.me.com	2012-04-06 15:34:54	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	public.me.com-capt_memo.warc.gz	2693185
+capt_memo	web.me.com	2012-04-06 15:34:48	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	web.me.com-capt_memo.warc.gz	286490592
+federico.carminati	gallery.me.com	2012-04-06 18:20:55	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	gallery.me.com-federico.carminati.warc.gz	2143670235
+federico.carminati	homepage.mac.com	2012-04-06 18:21:49	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	homepage.mac.com-federico.carminati.warc.gz	8189781
+federico.carminati	public.me.com	2012-04-06 17:17:53	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	public.me.com-federico.carminati.warc.gz	3443
+federico.carminati	web.me.com	2012-04-06 17:17:29	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	web.me.com-federico.carminati.warc.gz	1394349935
+gstrom	gallery.me.com	2012-04-06 15:28:47	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	gallery.me.com-gstrom.warc.gz	415633501
+gstrom	homepage.mac.com	2012-04-06 15:28:48	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	homepage.mac.com-gstrom.warc.gz	4892
+gstrom	public.me.com	2012-04-06 15:23:13	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	public.me.com-gstrom.warc.gz	33964629
+gstrom	web.me.com	2012-04-06 15:22:24	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	web.me.com-gstrom.warc.gz	1237942
+pemogck	gallery.me.com	2012-04-06 15:21:46	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	gallery.me.com-pemogck.warc.gz	30210505
+pemogck	homepage.mac.com	2012-04-06 15:21:46	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	homepage.mac.com-pemogck.warc.gz	4922
+pemogck	public.me.com	2012-04-06 15:21:24	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	public.me.com-pemogck.warc.gz	1907
+pemogck	web.me.com	2012-04-06 15:21:23	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4775.tar	web.me.com-pemogck.warc.gz	30159012

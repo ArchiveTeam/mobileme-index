@@ -1,8 +1,8 @@
-dianehinkle	gallery.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4713.tar	gallery.me.com-dianehinkle.warc.gz	0
-dianehinkle	homepage.mac.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4713.tar	homepage.mac.com-dianehinkle.warc.gz	0
-dianehinkle	public.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4713.tar	public.me.com-dianehinkle.warc.gz	0
-dianehinkle	web.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4713.tar	web.me.com-dianehinkle.warc.gz	0
-dkempson	gallery.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4713.tar	gallery.me.com-dkempson.warc.gz	0
-dkempson	homepage.mac.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4713.tar	homepage.mac.com-dkempson.warc.gz	0
-dkempson	public.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4713.tar	public.me.com-dkempson.warc.gz	0
-dkempson	web.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4713.tar	web.me.com-dkempson.warc.gz	0
+dianehinkle	gallery.me.com	2012-04-06 14:48:12	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4713.tar	gallery.me.com-dianehinkle.warc.gz	5948284363
+dianehinkle	homepage.mac.com	2012-04-06 14:48:12	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4713.tar	homepage.mac.com-dianehinkle.warc.gz	4921
+dianehinkle	public.me.com	2012-04-06 14:09:47	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4713.tar	public.me.com-dianehinkle.warc.gz	1923
+dianehinkle	web.me.com	2012-04-06 14:09:46	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4713.tar	web.me.com-dianehinkle.warc.gz	29988610
+dkempson	gallery.me.com	2012-04-06 14:08:36	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4713.tar	gallery.me.com-dkempson.warc.gz	4268
+dkempson	homepage.mac.com	2012-04-06 14:08:36	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4713.tar	homepage.mac.com-dkempson.warc.gz	4897
+dkempson	public.me.com	2012-04-06 14:08:35	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4713.tar	public.me.com-dkempson.warc.gz	1915
+dkempson	web.me.com	2012-04-06 14:08:34	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4713.tar	web.me.com-dkempson.warc.gz	892395

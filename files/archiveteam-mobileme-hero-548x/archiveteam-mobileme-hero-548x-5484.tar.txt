@@ -1,12 +1,12 @@
-Bob6stringer	gallery.me.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	gallery.me.com-Bob6stringer.warc.gz	0
-Bob6stringer	homepage.mac.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	homepage.mac.com-Bob6stringer.warc.gz	0
-Bob6stringer	public.me.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	public.me.com-Bob6stringer.warc.gz	0
-Bob6stringer	web.me.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	web.me.com-Bob6stringer.warc.gz	0
-ggidee	gallery.me.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	gallery.me.com-ggidee.warc.gz	0
-ggidee	homepage.mac.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	homepage.mac.com-ggidee.warc.gz	0
-ggidee	public.me.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	public.me.com-ggidee.warc.gz	0
-ggidee	web.me.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	web.me.com-ggidee.warc.gz	0
-nblout	gallery.me.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	gallery.me.com-nblout.warc.gz	0
-nblout	homepage.mac.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	homepage.mac.com-nblout.warc.gz	0
-nblout	public.me.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	public.me.com-nblout.warc.gz	0
-nblout	web.me.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	web.me.com-nblout.warc.gz	0
+Bob6stringer	gallery.me.com	2012-04-09 10:39:58	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	gallery.me.com-Bob6stringer.warc.gz	2178203878
+Bob6stringer	homepage.mac.com	2012-04-09 10:39:58	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	homepage.mac.com-Bob6stringer.warc.gz	7900
+Bob6stringer	public.me.com	2012-04-09 10:20:09	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	public.me.com-Bob6stringer.warc.gz	444538623
+Bob6stringer	web.me.com	2012-04-09 10:13:28	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	web.me.com-Bob6stringer.warc.gz	422614626
+ggidee	gallery.me.com	2012-04-09 09:59:44	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	gallery.me.com-ggidee.warc.gz	8954
+ggidee	homepage.mac.com	2012-04-09 09:59:46	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	homepage.mac.com-ggidee.warc.gz	36834
+ggidee	public.me.com	2012-04-09 09:59:43	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	public.me.com-ggidee.warc.gz	1906
+ggidee	web.me.com	2012-04-09 09:59:43	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	web.me.com-ggidee.warc.gz	156422210
+nblout	gallery.me.com	2012-04-09 12:53:39	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	gallery.me.com-nblout.warc.gz	3903247076
+nblout	homepage.mac.com	2012-04-09 12:53:39	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	homepage.mac.com-nblout.warc.gz	4911
+nblout	public.me.com	2012-04-09 12:17:45	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	public.me.com-nblout.warc.gz	3553625148
+nblout	web.me.com	2012-04-09 10:44:53	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5484.tar	web.me.com-nblout.warc.gz	152773289

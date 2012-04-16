@@ -1,16 +1,16 @@
-marianshapiro	gallery.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	gallery.me.com-marianshapiro.warc.gz	0
-marianshapiro	homepage.mac.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	homepage.mac.com-marianshapiro.warc.gz	0
-marianshapiro	public.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	public.me.com-marianshapiro.warc.gz	0
-marianshapiro	web.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	web.me.com-marianshapiro.warc.gz	0
-msalmirs	gallery.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	gallery.me.com-msalmirs.warc.gz	0
-msalmirs	homepage.mac.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	homepage.mac.com-msalmirs.warc.gz	0
-msalmirs	public.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	public.me.com-msalmirs.warc.gz	0
-msalmirs	web.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	web.me.com-msalmirs.warc.gz	0
-tporter12	gallery.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	gallery.me.com-tporter12.warc.gz	0
-tporter12	homepage.mac.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	homepage.mac.com-tporter12.warc.gz	0
-tporter12	public.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	public.me.com-tporter12.warc.gz	0
-tporter12	web.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	web.me.com-tporter12.warc.gz	0
-vacance_vision	gallery.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	gallery.me.com-vacance_vision.warc.gz	0
-vacance_vision	homepage.mac.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	homepage.mac.com-vacance_vision.warc.gz	0
-vacance_vision	public.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	public.me.com-vacance_vision.warc.gz	0
-vacance_vision	web.me.com		archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	web.me.com-vacance_vision.warc.gz	0
+marianshapiro	gallery.me.com	2012-04-01 04:50:22	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	gallery.me.com-marianshapiro.warc.gz	6358674556
+marianshapiro	homepage.mac.com	2012-04-01 04:58:23	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	homepage.mac.com-marianshapiro.warc.gz	4936
+marianshapiro	public.me.com	2012-03-31 21:23:55	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	public.me.com-marianshapiro.warc.gz	1925
+marianshapiro	web.me.com	2012-03-31 21:23:44	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	web.me.com-marianshapiro.warc.gz	438489437
+msalmirs	gallery.me.com	2012-03-31 18:20:27	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	gallery.me.com-msalmirs.warc.gz	8347
+msalmirs	homepage.mac.com	2012-03-31 18:20:27	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	homepage.mac.com-msalmirs.warc.gz	5172
+msalmirs	public.me.com	2012-03-31 18:20:27	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	public.me.com-msalmirs.warc.gz	1921
+msalmirs	web.me.com	2012-03-31 18:20:26	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	web.me.com-msalmirs.warc.gz	17769
+tporter12	gallery.me.com	2012-03-31 18:20:24	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	gallery.me.com-tporter12.warc.gz	187396513
+tporter12	homepage.mac.com	2012-03-31 18:20:24	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	homepage.mac.com-tporter12.warc.gz	4927
+tporter12	public.me.com	2012-03-31 17:43:47	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	public.me.com-tporter12.warc.gz	607298616
+tporter12	web.me.com	2012-03-31 17:26:06	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	web.me.com-tporter12.warc.gz	23050309
+vacance_vision	gallery.me.com	2012-03-31 17:16:48	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	gallery.me.com-vacance_vision.warc.gz	8379
+vacance_vision	homepage.mac.com	2012-03-31 17:16:48	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	homepage.mac.com-vacance_vision.warc.gz	5187
+vacance_vision	public.me.com	2012-03-31 17:16:47	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	public.me.com-vacance_vision.warc.gz	1934
+vacance_vision	web.me.com	2012-03-31 17:16:47	archiveteam-mobileme-hero-259x	archiveteam-mobileme-hero-259x-2591.tar	web.me.com-vacance_vision.warc.gz	17804

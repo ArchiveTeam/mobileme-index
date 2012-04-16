@@ -1,12 +1,12 @@
-mac_filko	gallery.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	gallery.me.com-mac_filko.warc.gz	0
-mac_filko	homepage.mac.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	homepage.mac.com-mac_filko.warc.gz	0
-mac_filko	public.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	public.me.com-mac_filko.warc.gz	0
-mac_filko	web.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	web.me.com-mac_filko.warc.gz	0
-ncizej	gallery.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	gallery.me.com-ncizej.warc.gz	0
-ncizej	homepage.mac.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	homepage.mac.com-ncizej.warc.gz	0
-ncizej	public.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	public.me.com-ncizej.warc.gz	0
-ncizej	web.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	web.me.com-ncizej.warc.gz	0
-svandorn	gallery.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	gallery.me.com-svandorn.warc.gz	0
-svandorn	homepage.mac.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	homepage.mac.com-svandorn.warc.gz	0
-svandorn	public.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	public.me.com-svandorn.warc.gz	0
-svandorn	web.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	web.me.com-svandorn.warc.gz	0
+mac_filko	gallery.me.com	2012-04-05 14:19:04	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	gallery.me.com-mac_filko.warc.gz	12339
+mac_filko	homepage.mac.com	2012-04-05 14:19:04	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	homepage.mac.com-mac_filko.warc.gz	7168
+mac_filko	public.me.com	2012-04-05 14:19:03	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	public.me.com-mac_filko.warc.gz	1917
+mac_filko	web.me.com	2012-04-05 14:19:03	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	web.me.com-mac_filko.warc.gz	22486
+ncizej	gallery.me.com	2012-04-05 14:19:01	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	gallery.me.com-ncizej.warc.gz	1823862970
+ncizej	homepage.mac.com	2012-04-05 14:19:02	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	homepage.mac.com-ncizej.warc.gz	7811
+ncizej	public.me.com	2012-04-05 13:35:08	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	public.me.com-ncizej.warc.gz	1916
+ncizej	web.me.com	2012-04-05 13:34:49	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	web.me.com-ncizej.warc.gz	1288816066
+svandorn	gallery.me.com	2012-04-05 15:51:48	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	gallery.me.com-svandorn.warc.gz	4433052419
+svandorn	homepage.mac.com	2012-04-05 15:51:49	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	homepage.mac.com-svandorn.warc.gz	628233
+svandorn	public.me.com	2012-04-05 14:41:36	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	public.me.com-svandorn.warc.gz	16025
+svandorn	web.me.com	2012-04-05 14:41:34	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4297.tar	web.me.com-svandorn.warc.gz	291998889

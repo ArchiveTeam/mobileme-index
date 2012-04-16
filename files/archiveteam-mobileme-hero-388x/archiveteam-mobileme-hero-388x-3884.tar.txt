@@ -1,16 +1,16 @@
-bigrat	gallery.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	gallery.me.com-bigrat.warc.gz	0
-bigrat	homepage.mac.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	homepage.mac.com-bigrat.warc.gz	0
-bigrat	public.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	public.me.com-bigrat.warc.gz	0
-bigrat	web.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	web.me.com-bigrat.warc.gz	0
-dommoreci	gallery.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	gallery.me.com-dommoreci.warc.gz	0
-dommoreci	homepage.mac.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	homepage.mac.com-dommoreci.warc.gz	0
-dommoreci	public.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	public.me.com-dommoreci.warc.gz	0
-dommoreci	web.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	web.me.com-dommoreci.warc.gz	0
-heathers_pearls	gallery.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	gallery.me.com-heathers_pearls.warc.gz	0
-heathers_pearls	homepage.mac.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	homepage.mac.com-heathers_pearls.warc.gz	0
-heathers_pearls	public.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	public.me.com-heathers_pearls.warc.gz	0
-heathers_pearls	web.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	web.me.com-heathers_pearls.warc.gz	0
-justinbradshaw	gallery.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	gallery.me.com-justinbradshaw.warc.gz	0
-justinbradshaw	homepage.mac.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	homepage.mac.com-justinbradshaw.warc.gz	0
-justinbradshaw	public.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	public.me.com-justinbradshaw.warc.gz	0
-justinbradshaw	web.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	web.me.com-justinbradshaw.warc.gz	0
+bigrat	gallery.me.com	2012-04-04 11:45:04	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	gallery.me.com-bigrat.warc.gz	12278
+bigrat	homepage.mac.com	2012-04-04 11:45:04	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	homepage.mac.com-bigrat.warc.gz	7133
+bigrat	public.me.com	2012-04-04 11:45:03	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	public.me.com-bigrat.warc.gz	1907
+bigrat	web.me.com	2012-04-04 11:45:03	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	web.me.com-bigrat.warc.gz	22400
+dommoreci	gallery.me.com	2012-04-04 11:44:20	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	gallery.me.com-dommoreci.warc.gz	2201334265
+dommoreci	homepage.mac.com	2012-04-04 11:45:01	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	homepage.mac.com-dommoreci.warc.gz	603306
+dommoreci	public.me.com	2012-04-04 11:07:10	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	public.me.com-dommoreci.warc.gz	313873
+dommoreci	web.me.com	2012-04-04 11:07:05	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	web.me.com-dommoreci.warc.gz	446547553
+heathers_pearls	gallery.me.com	2012-04-04 14:30:29	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	gallery.me.com-heathers_pearls.warc.gz	7571919
+heathers_pearls	homepage.mac.com	2012-04-04 14:30:29	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	homepage.mac.com-heathers_pearls.warc.gz	4942
+heathers_pearls	public.me.com	2012-04-04 14:30:12	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	public.me.com-heathers_pearls.warc.gz	1928
+heathers_pearls	web.me.com	2012-04-04 14:29:10	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	web.me.com-heathers_pearls.warc.gz	1097367645
+justinbradshaw	gallery.me.com	2012-04-04 16:31:34	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	gallery.me.com-justinbradshaw.warc.gz	3153500180
+justinbradshaw	homepage.mac.com	2012-04-04 16:32:18	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	homepage.mac.com-justinbradshaw.warc.gz	926106
+justinbradshaw	public.me.com	2012-04-04 15:22:13	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	public.me.com-justinbradshaw.warc.gz	538446880
+justinbradshaw	web.me.com	2012-04-04 15:04:53	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3884.tar	web.me.com-justinbradshaw.warc.gz	742209727

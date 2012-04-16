@@ -1,36 +1,36 @@
-beap	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	gallery.me.com-beap.warc.gz	0
-beap	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	homepage.mac.com-beap.warc.gz	0
-beap	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	public.me.com-beap.warc.gz	0
-beap	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	web.me.com-beap.warc.gz	0
-bgp4	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	gallery.me.com-bgp4.warc.gz	0
-bgp4	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	homepage.mac.com-bgp4.warc.gz	0
-bgp4	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	public.me.com-bgp4.warc.gz	0
-bgp4	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	web.me.com-bgp4.warc.gz	0
-cscholiers	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	gallery.me.com-cscholiers.warc.gz	0
-cscholiers	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	homepage.mac.com-cscholiers.warc.gz	0
-cscholiers	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	public.me.com-cscholiers.warc.gz	0
-cscholiers	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	web.me.com-cscholiers.warc.gz	0
-danielleboudreau	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	gallery.me.com-danielleboudreau.warc.gz	0
-danielleboudreau	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	homepage.mac.com-danielleboudreau.warc.gz	0
-danielleboudreau	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	public.me.com-danielleboudreau.warc.gz	0
-danielleboudreau	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	web.me.com-danielleboudreau.warc.gz	0
-farrelldesign	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	gallery.me.com-farrelldesign.warc.gz	0
-farrelldesign	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	homepage.mac.com-farrelldesign.warc.gz	0
-farrelldesign	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	public.me.com-farrelldesign.warc.gz	0
-farrelldesign	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	web.me.com-farrelldesign.warc.gz	0
-garysdavis	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	gallery.me.com-garysdavis.warc.gz	0
-garysdavis	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	homepage.mac.com-garysdavis.warc.gz	0
-garysdavis	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	public.me.com-garysdavis.warc.gz	0
-garysdavis	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	web.me.com-garysdavis.warc.gz	0
-jennifergalliford	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	gallery.me.com-jennifergalliford.warc.gz	0
-jennifergalliford	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	homepage.mac.com-jennifergalliford.warc.gz	0
-jennifergalliford	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	public.me.com-jennifergalliford.warc.gz	0
-jennifergalliford	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	web.me.com-jennifergalliford.warc.gz	0
-spector	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	gallery.me.com-spector.warc.gz	0
-spector	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	homepage.mac.com-spector.warc.gz	0
-spector	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	public.me.com-spector.warc.gz	0
-spector	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	web.me.com-spector.warc.gz	0
-wangapoa	gallery.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	gallery.me.com-wangapoa.warc.gz	0
-wangapoa	homepage.mac.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	homepage.mac.com-wangapoa.warc.gz	0
-wangapoa	public.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	public.me.com-wangapoa.warc.gz	0
-wangapoa	web.me.com		archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	web.me.com-wangapoa.warc.gz	0
+beap	gallery.me.com	2012-04-01 22:23:45	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	gallery.me.com-beap.warc.gz	8319
+beap	homepage.mac.com	2012-04-01 22:23:46	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	homepage.mac.com-beap.warc.gz	5156
+beap	public.me.com	2012-04-01 22:23:45	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	public.me.com-beap.warc.gz	1907
+beap	web.me.com	2012-04-01 22:23:45	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	web.me.com-beap.warc.gz	17607
+bgp4	gallery.me.com	2012-04-01 22:23:43	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	gallery.me.com-bgp4.warc.gz	4253
+bgp4	homepage.mac.com	2012-04-01 22:23:44	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	homepage.mac.com-bgp4.warc.gz	4893
+bgp4	public.me.com	2012-04-01 22:23:43	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	public.me.com-bgp4.warc.gz	1910
+bgp4	web.me.com	2012-04-01 22:23:43	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	web.me.com-bgp4.warc.gz	1112532
+cscholiers	gallery.me.com	2012-04-01 23:26:21	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	gallery.me.com-cscholiers.warc.gz	2602012080
+cscholiers	homepage.mac.com	2012-04-01 23:26:21	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	homepage.mac.com-cscholiers.warc.gz	4929
+cscholiers	public.me.com	2012-04-01 23:06:26	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	public.me.com-cscholiers.warc.gz	9109021
+cscholiers	web.me.com	2012-04-01 23:06:14	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	web.me.com-cscholiers.warc.gz	480513028
+danielleboudreau	gallery.me.com	2012-04-01 22:23:07	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	gallery.me.com-danielleboudreau.warc.gz	5014
+danielleboudreau	homepage.mac.com	2012-04-01 22:23:08	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	homepage.mac.com-danielleboudreau.warc.gz	7933
+danielleboudreau	public.me.com	2012-04-01 22:23:06	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	public.me.com-danielleboudreau.warc.gz	93715661
+danielleboudreau	web.me.com	2012-04-01 22:22:37	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	web.me.com-danielleboudreau.warc.gz	180051050
+farrelldesign	gallery.me.com	2012-04-01 22:02:30	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	gallery.me.com-farrelldesign.warc.gz	34091884
+farrelldesign	homepage.mac.com	2012-04-01 22:02:30	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	homepage.mac.com-farrelldesign.warc.gz	4910
+farrelldesign	public.me.com	2012-04-01 22:01:08	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	public.me.com-farrelldesign.warc.gz	1913
+farrelldesign	web.me.com	2012-04-01 22:01:08	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	web.me.com-farrelldesign.warc.gz	51870791
+garysdavis	gallery.me.com	2012-04-01 21:51:21	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	gallery.me.com-garysdavis.warc.gz	41374179
+garysdavis	homepage.mac.com	2012-04-01 21:51:21	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	homepage.mac.com-garysdavis.warc.gz	4914
+garysdavis	public.me.com	2012-04-01 21:51:06	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	public.me.com-garysdavis.warc.gz	1926
+garysdavis	web.me.com	2012-04-01 21:51:06	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	web.me.com-garysdavis.warc.gz	3432733
+jennifergalliford	gallery.me.com	2012-04-01 22:29:14	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	gallery.me.com-jennifergalliford.warc.gz	5059
+jennifergalliford	homepage.mac.com	2012-04-01 22:29:14	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	homepage.mac.com-jennifergalliford.warc.gz	4936
+jennifergalliford	public.me.com	2012-04-01 22:29:13	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	public.me.com-jennifergalliford.warc.gz	1932
+jennifergalliford	web.me.com	2012-04-01 22:29:13	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	web.me.com-jennifergalliford.warc.gz	25053204
+spector	gallery.me.com	2012-04-01 22:52:58	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	gallery.me.com-spector.warc.gz	93122837
+spector	homepage.mac.com	2012-04-01 22:52:58	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	homepage.mac.com-spector.warc.gz	7861
+spector	public.me.com	2012-04-01 22:52:00	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	public.me.com-spector.warc.gz	856243563
+spector	web.me.com	2012-04-01 22:29:37	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	web.me.com-spector.warc.gz	5288950
+wangapoa	gallery.me.com	2012-04-01 22:53:13	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	gallery.me.com-wangapoa.warc.gz	2017436
+wangapoa	homepage.mac.com	2012-04-01 22:53:13	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	homepage.mac.com-wangapoa.warc.gz	4913
+wangapoa	public.me.com	2012-04-01 22:53:05	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	public.me.com-wangapoa.warc.gz	1919
+wangapoa	web.me.com	2012-04-01 22:53:04	archiveteam-mobileme-hero-277x	archiveteam-mobileme-hero-277x-2779.tar	web.me.com-wangapoa.warc.gz	71460

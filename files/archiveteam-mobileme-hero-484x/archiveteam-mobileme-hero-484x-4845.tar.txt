@@ -1,8 +1,8 @@
-akinoringo	gallery.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4845.tar	gallery.me.com-akinoringo.warc.gz	0
-akinoringo	homepage.mac.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4845.tar	homepage.mac.com-akinoringo.warc.gz	0
-akinoringo	public.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4845.tar	public.me.com-akinoringo.warc.gz	0
-akinoringo	web.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4845.tar	web.me.com-akinoringo.warc.gz	0
-garykaminsky	gallery.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4845.tar	gallery.me.com-garykaminsky.warc.gz	0
-garykaminsky	homepage.mac.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4845.tar	homepage.mac.com-garykaminsky.warc.gz	0
-garykaminsky	public.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4845.tar	public.me.com-garykaminsky.warc.gz	0
-garykaminsky	web.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4845.tar	web.me.com-garykaminsky.warc.gz	0
+akinoringo	gallery.me.com	2012-04-07 00:55:35	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4845.tar	gallery.me.com-akinoringo.warc.gz	1304117209
+akinoringo	homepage.mac.com	2012-04-07 00:55:37	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4845.tar	homepage.mac.com-akinoringo.warc.gz	36893
+akinoringo	public.me.com	2012-04-07 00:38:02	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4845.tar	public.me.com-akinoringo.warc.gz	1919
+akinoringo	web.me.com	2012-04-07 00:38:02	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4845.tar	web.me.com-akinoringo.warc.gz	4566412
+garykaminsky	gallery.me.com	2012-04-07 01:38:39	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4845.tar	gallery.me.com-garykaminsky.warc.gz	4238295439
+garykaminsky	homepage.mac.com	2012-04-07 01:38:42	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4845.tar	homepage.mac.com-garykaminsky.warc.gz	82434
+garykaminsky	public.me.com	2012-04-07 00:59:16	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4845.tar	public.me.com-garykaminsky.warc.gz	1937
+garykaminsky	web.me.com	2012-04-07 00:59:15	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4845.tar	web.me.com-garykaminsky.warc.gz	16634927

@@ -1,16 +1,16 @@
-bwanadik1	gallery.me.com		archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	gallery.me.com-bwanadik1.warc.gz	0
-bwanadik1	homepage.mac.com		archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	homepage.mac.com-bwanadik1.warc.gz	0
-bwanadik1	public.me.com		archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	public.me.com-bwanadik1.warc.gz	0
-bwanadik1	web.me.com		archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	web.me.com-bwanadik1.warc.gz	0
-caroline.eves	gallery.me.com		archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	gallery.me.com-caroline.eves.warc.gz	0
-caroline.eves	homepage.mac.com		archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	homepage.mac.com-caroline.eves.warc.gz	0
-caroline.eves	public.me.com		archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	public.me.com-caroline.eves.warc.gz	0
-caroline.eves	web.me.com		archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	web.me.com-caroline.eves.warc.gz	0
-gjhigh	gallery.me.com		archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	gallery.me.com-gjhigh.warc.gz	0
-gjhigh	homepage.mac.com		archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	homepage.mac.com-gjhigh.warc.gz	0
-gjhigh	public.me.com		archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	public.me.com-gjhigh.warc.gz	0
-gjhigh	web.me.com		archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	web.me.com-gjhigh.warc.gz	0
-piclss1	gallery.me.com		archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	gallery.me.com-piclss1.warc.gz	0
-piclss1	homepage.mac.com		archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	homepage.mac.com-piclss1.warc.gz	0
-piclss1	public.me.com		archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	public.me.com-piclss1.warc.gz	0
-piclss1	web.me.com		archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	web.me.com-piclss1.warc.gz	0
+bwanadik1	gallery.me.com	2012-04-09 22:29:57	archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	gallery.me.com-bwanadik1.warc.gz	5006
+bwanadik1	homepage.mac.com	2012-04-09 22:30:01	archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	homepage.mac.com-bwanadik1.warc.gz	4926
+bwanadik1	public.me.com	2012-04-09 22:29:56	archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	public.me.com-bwanadik1.warc.gz	1920
+bwanadik1	web.me.com	2012-04-09 22:29:55	archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	web.me.com-bwanadik1.warc.gz	66293831
+caroline.eves	gallery.me.com	2012-04-09 22:31:50	archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	gallery.me.com-caroline.eves.warc.gz	4274
+caroline.eves	homepage.mac.com	2012-04-09 22:31:50	archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	homepage.mac.com-caroline.eves.warc.gz	4921
+caroline.eves	public.me.com	2012-04-09 22:31:49	archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	public.me.com-caroline.eves.warc.gz	3485
+caroline.eves	web.me.com	2012-04-09 22:31:49	archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	web.me.com-caroline.eves.warc.gz	7796605
+gjhigh	gallery.me.com	2012-04-10 00:29:47	archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	gallery.me.com-gjhigh.warc.gz	3996097704
+gjhigh	homepage.mac.com	2012-04-10 00:29:47	archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	homepage.mac.com-gjhigh.warc.gz	4892
+gjhigh	public.me.com	2012-04-09 22:53:02	archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	public.me.com-gjhigh.warc.gz	1917
+gjhigh	web.me.com	2012-04-09 22:53:01	archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	web.me.com-gjhigh.warc.gz	53376367
+piclss1	gallery.me.com	2012-04-09 22:08:51	archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	gallery.me.com-piclss1.warc.gz	72383038
+piclss1	homepage.mac.com	2012-04-09 22:08:51	archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	homepage.mac.com-piclss1.warc.gz	4917
+piclss1	public.me.com	2012-04-09 22:07:07	archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	public.me.com-piclss1.warc.gz	161639939
+piclss1	web.me.com	2012-04-09 22:02:15	archiveteam-mobileme-hero-568x	archiveteam-mobileme-hero-568x-5685.tar	web.me.com-piclss1.warc.gz	229132441

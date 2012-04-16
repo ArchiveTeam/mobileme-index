@@ -1,20 +1,20 @@
-bjorn.nyberg	gallery.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	gallery.me.com-bjorn.nyberg.warc.gz	0
-bjorn.nyberg	homepage.mac.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	homepage.mac.com-bjorn.nyberg.warc.gz	0
-bjorn.nyberg	public.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	public.me.com-bjorn.nyberg.warc.gz	0
-bjorn.nyberg	web.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	web.me.com-bjorn.nyberg.warc.gz	0
-dkc4	gallery.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	gallery.me.com-dkc4.warc.gz	0
-dkc4	homepage.mac.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	homepage.mac.com-dkc4.warc.gz	0
-dkc4	public.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	public.me.com-dkc4.warc.gz	0
-dkc4	web.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	web.me.com-dkc4.warc.gz	0
-hyperdrive	gallery.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	gallery.me.com-hyperdrive.warc.gz	0
-hyperdrive	homepage.mac.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	homepage.mac.com-hyperdrive.warc.gz	0
-hyperdrive	public.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	public.me.com-hyperdrive.warc.gz	0
-hyperdrive	web.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	web.me.com-hyperdrive.warc.gz	0
-martha_grant	gallery.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	gallery.me.com-martha_grant.warc.gz	0
-martha_grant	homepage.mac.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	homepage.mac.com-martha_grant.warc.gz	0
-martha_grant	public.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	public.me.com-martha_grant.warc.gz	0
-martha_grant	web.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	web.me.com-martha_grant.warc.gz	0
-richardbosch	gallery.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	gallery.me.com-richardbosch.warc.gz	0
-richardbosch	homepage.mac.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	homepage.mac.com-richardbosch.warc.gz	0
-richardbosch	public.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	public.me.com-richardbosch.warc.gz	0
-richardbosch	web.me.com		archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	web.me.com-richardbosch.warc.gz	0
+bjorn.nyberg	gallery.me.com	2012-04-03 20:15:09	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	gallery.me.com-bjorn.nyberg.warc.gz	811991539
+bjorn.nyberg	homepage.mac.com	2012-04-03 20:15:10	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	homepage.mac.com-bjorn.nyberg.warc.gz	4916
+bjorn.nyberg	public.me.com	2012-04-03 19:59:06	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	public.me.com-bjorn.nyberg.warc.gz	1933
+bjorn.nyberg	web.me.com	2012-04-03 19:59:05	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	web.me.com-bjorn.nyberg.warc.gz	55231928
+dkc4	gallery.me.com	2012-04-03 19:45:46	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	gallery.me.com-dkc4.warc.gz	42620132
+dkc4	homepage.mac.com	2012-04-03 19:45:46	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	homepage.mac.com-dkc4.warc.gz	4893
+dkc4	public.me.com	2012-04-03 19:45:21	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	public.me.com-dkc4.warc.gz	2843689
+dkc4	web.me.com	2012-04-03 19:45:11	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	web.me.com-dkc4.warc.gz	326303994
+hyperdrive	gallery.me.com	2012-04-03 19:23:34	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	gallery.me.com-hyperdrive.warc.gz	8345
+hyperdrive	homepage.mac.com	2012-04-03 19:23:35	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	homepage.mac.com-hyperdrive.warc.gz	5168
+hyperdrive	public.me.com	2012-04-03 19:23:34	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	public.me.com-hyperdrive.warc.gz	1918
+hyperdrive	web.me.com	2012-04-03 19:23:33	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	web.me.com-hyperdrive.warc.gz	17688
+martha_grant	gallery.me.com	2012-04-03 17:16:33	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	gallery.me.com-martha_grant.warc.gz	509810834
+martha_grant	homepage.mac.com	2012-04-03 17:16:39	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	homepage.mac.com-martha_grant.warc.gz	101757
+martha_grant	public.me.com	2012-04-03 17:06:08	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	public.me.com-martha_grant.warc.gz	27065
+martha_grant	web.me.com	2012-04-03 17:06:07	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	web.me.com-martha_grant.warc.gz	34568706
+richardbosch	gallery.me.com	2012-04-03 19:23:28	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	gallery.me.com-richardbosch.warc.gz	1928635158
+richardbosch	homepage.mac.com	2012-04-03 19:23:32	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	homepage.mac.com-richardbosch.warc.gz	71113
+richardbosch	public.me.com	2012-04-03 18:35:48	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	public.me.com-richardbosch.warc.gz	15869232
+richardbosch	web.me.com	2012-04-03 18:34:15	archiveteam-mobileme-hero-354x	archiveteam-mobileme-hero-354x-3546.tar	web.me.com-richardbosch.warc.gz	588036411

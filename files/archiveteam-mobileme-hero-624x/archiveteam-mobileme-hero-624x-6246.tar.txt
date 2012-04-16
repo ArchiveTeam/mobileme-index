@@ -1,12 +1,12 @@
-allison.m.shoemaker	gallery.me.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	gallery.me.com-allison.m.shoemaker.warc.gz	0
-allison.m.shoemaker	homepage.mac.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	homepage.mac.com-allison.m.shoemaker.warc.gz	0
-allison.m.shoemaker	public.me.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	public.me.com-allison.m.shoemaker.warc.gz	0
-allison.m.shoemaker	web.me.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	web.me.com-allison.m.shoemaker.warc.gz	0
-atzenhof	gallery.me.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	gallery.me.com-atzenhof.warc.gz	0
-atzenhof	homepage.mac.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	homepage.mac.com-atzenhof.warc.gz	0
-atzenhof	public.me.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	public.me.com-atzenhof.warc.gz	0
-atzenhof	web.me.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	web.me.com-atzenhof.warc.gz	0
-soweber	gallery.me.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	gallery.me.com-soweber.warc.gz	0
-soweber	homepage.mac.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	homepage.mac.com-soweber.warc.gz	0
-soweber	public.me.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	public.me.com-soweber.warc.gz	0
-soweber	web.me.com		archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	web.me.com-soweber.warc.gz	0
+allison.m.shoemaker	gallery.me.com	2012-04-11 06:16:05	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	gallery.me.com-allison.m.shoemaker.warc.gz	531410724
+allison.m.shoemaker	homepage.mac.com	2012-04-11 06:16:32	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	homepage.mac.com-allison.m.shoemaker.warc.gz	4936
+allison.m.shoemaker	public.me.com	2012-04-11 05:25:19	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	public.me.com-allison.m.shoemaker.warc.gz	6909020003
+allison.m.shoemaker	web.me.com	2012-04-10 23:28:00	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	web.me.com-allison.m.shoemaker.warc.gz	400810391
+atzenhof	gallery.me.com	2012-04-10 22:40:16	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	gallery.me.com-atzenhof.warc.gz	5666
+atzenhof	homepage.mac.com	2012-04-10 22:40:16	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	homepage.mac.com-atzenhof.warc.gz	4897
+atzenhof	public.me.com	2012-04-10 22:40:14	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	public.me.com-atzenhof.warc.gz	1920
+atzenhof	web.me.com	2012-04-10 22:40:09	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	web.me.com-atzenhof.warc.gz	346724199
+soweber	gallery.me.com	2012-04-10 21:13:15	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	gallery.me.com-soweber.warc.gz	505456741
+soweber	homepage.mac.com	2012-04-10 21:13:21	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	homepage.mac.com-soweber.warc.gz	4901
+soweber	public.me.com	2012-04-10 20:42:17	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	public.me.com-soweber.warc.gz	1914
+soweber	web.me.com	2012-04-10 20:42:08	archiveteam-mobileme-hero-624x	archiveteam-mobileme-hero-624x-6246.tar	web.me.com-soweber.warc.gz	30196846

@@ -1,24 +1,24 @@
-aaronbhatnagar	gallery.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	gallery.me.com-aaronbhatnagar.warc.gz	0
-aaronbhatnagar	homepage.mac.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	homepage.mac.com-aaronbhatnagar.warc.gz	0
-aaronbhatnagar	public.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	public.me.com-aaronbhatnagar.warc.gz	0
-aaronbhatnagar	web.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	web.me.com-aaronbhatnagar.warc.gz	0
-fromaz12	gallery.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	gallery.me.com-fromaz12.warc.gz	0
-fromaz12	homepage.mac.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	homepage.mac.com-fromaz12.warc.gz	0
-fromaz12	public.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	public.me.com-fromaz12.warc.gz	0
-fromaz12	web.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	web.me.com-fromaz12.warc.gz	0
-garethdoran	gallery.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	gallery.me.com-garethdoran.warc.gz	0
-garethdoran	homepage.mac.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	homepage.mac.com-garethdoran.warc.gz	0
-garethdoran	public.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	public.me.com-garethdoran.warc.gz	0
-garethdoran	web.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	web.me.com-garethdoran.warc.gz	0
-harrygilbert	gallery.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	gallery.me.com-harrygilbert.warc.gz	0
-harrygilbert	homepage.mac.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	homepage.mac.com-harrygilbert.warc.gz	0
-harrygilbert	public.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	public.me.com-harrygilbert.warc.gz	0
-harrygilbert	web.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	web.me.com-harrygilbert.warc.gz	0
-jordimmas	gallery.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	gallery.me.com-jordimmas.warc.gz	0
-jordimmas	homepage.mac.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	homepage.mac.com-jordimmas.warc.gz	0
-jordimmas	public.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	public.me.com-jordimmas.warc.gz	0
-jordimmas	web.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	web.me.com-jordimmas.warc.gz	0
-mr.phillips	gallery.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	gallery.me.com-mr.phillips.warc.gz	0
-mr.phillips	homepage.mac.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	homepage.mac.com-mr.phillips.warc.gz	0
-mr.phillips	public.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	public.me.com-mr.phillips.warc.gz	0
-mr.phillips	web.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	web.me.com-mr.phillips.warc.gz	0
+aaronbhatnagar	gallery.me.com	2012-04-07 03:21:55	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	gallery.me.com-aaronbhatnagar.warc.gz	30882782
+aaronbhatnagar	homepage.mac.com	2012-04-07 03:21:56	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	homepage.mac.com-aaronbhatnagar.warc.gz	4939
+aaronbhatnagar	public.me.com	2012-04-07 03:20:53	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	public.me.com-aaronbhatnagar.warc.gz	3348
+aaronbhatnagar	web.me.com	2012-04-07 03:20:52	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	web.me.com-aaronbhatnagar.warc.gz	38901466
+fromaz12	gallery.me.com	2012-04-07 03:17:59	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	gallery.me.com-fromaz12.warc.gz	12089461
+fromaz12	homepage.mac.com	2012-04-07 03:17:59	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	homepage.mac.com-fromaz12.warc.gz	4915
+fromaz12	public.me.com	2012-04-07 03:17:39	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	public.me.com-fromaz12.warc.gz	3327
+fromaz12	web.me.com	2012-04-07 03:17:38	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	web.me.com-fromaz12.warc.gz	23914026
+garethdoran	gallery.me.com	2012-04-07 07:00:03	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	gallery.me.com-garethdoran.warc.gz	4533720029
+garethdoran	homepage.mac.com	2012-04-07 07:00:04	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	homepage.mac.com-garethdoran.warc.gz	4916
+garethdoran	public.me.com	2012-04-07 05:55:48	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	public.me.com-garethdoran.warc.gz	1921
+garethdoran	web.me.com	2012-04-07 05:55:45	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	web.me.com-garethdoran.warc.gz	216434974
+harrygilbert	gallery.me.com	2012-04-07 03:58:37	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	gallery.me.com-harrygilbert.warc.gz	1048684306
+harrygilbert	homepage.mac.com	2012-04-07 03:58:48	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	homepage.mac.com-harrygilbert.warc.gz	234527
+harrygilbert	public.me.com	2012-04-07 03:26:00	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	public.me.com-harrygilbert.warc.gz	1927
+harrygilbert	web.me.com	2012-04-07 03:26:00	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	web.me.com-harrygilbert.warc.gz	12140810
+jordimmas	gallery.me.com	2012-04-07 03:14:38	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	gallery.me.com-jordimmas.warc.gz	4280
+jordimmas	homepage.mac.com	2012-04-07 03:14:38	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	homepage.mac.com-jordimmas.warc.gz	4921
+jordimmas	public.me.com	2012-04-07 03:14:37	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	public.me.com-jordimmas.warc.gz	108594
+jordimmas	web.me.com	2012-04-07 03:14:36	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	web.me.com-jordimmas.warc.gz	1587948
+mr.phillips	gallery.me.com	2012-04-07 05:41:20	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	gallery.me.com-mr.phillips.warc.gz	954011971
+mr.phillips	homepage.mac.com	2012-04-07 05:41:23	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	homepage.mac.com-mr.phillips.warc.gz	36955
+mr.phillips	public.me.com	2012-04-07 05:05:16	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	public.me.com-mr.phillips.warc.gz	1926
+mr.phillips	web.me.com	2012-04-07 05:05:02	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4856.tar	web.me.com-mr.phillips.warc.gz	692110127

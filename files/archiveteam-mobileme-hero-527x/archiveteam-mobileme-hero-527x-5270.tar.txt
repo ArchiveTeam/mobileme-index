@@ -1,12 +1,12 @@
-jhacquin	gallery.me.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	gallery.me.com-jhacquin.warc.gz	0
-jhacquin	homepage.mac.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	homepage.mac.com-jhacquin.warc.gz	0
-jhacquin	public.me.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	public.me.com-jhacquin.warc.gz	0
-jhacquin	web.me.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	web.me.com-jhacquin.warc.gz	0
-nchjmfpn	gallery.me.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	gallery.me.com-nchjmfpn.warc.gz	0
-nchjmfpn	homepage.mac.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	homepage.mac.com-nchjmfpn.warc.gz	0
-nchjmfpn	public.me.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	public.me.com-nchjmfpn.warc.gz	0
-nchjmfpn	web.me.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	web.me.com-nchjmfpn.warc.gz	0
-yoshiotazaki	gallery.me.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	gallery.me.com-yoshiotazaki.warc.gz	0
-yoshiotazaki	homepage.mac.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	homepage.mac.com-yoshiotazaki.warc.gz	0
-yoshiotazaki	public.me.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	public.me.com-yoshiotazaki.warc.gz	0
-yoshiotazaki	web.me.com		archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	web.me.com-yoshiotazaki.warc.gz	0
+jhacquin	gallery.me.com	2012-04-09 01:45:57	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	gallery.me.com-jhacquin.warc.gz	1781158985
+jhacquin	homepage.mac.com	2012-04-09 01:45:57	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	homepage.mac.com-jhacquin.warc.gz	4912
+jhacquin	public.me.com	2012-04-09 01:26:14	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	public.me.com-jhacquin.warc.gz	123046450
+jhacquin	web.me.com	2012-04-09 01:23:10	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	web.me.com-jhacquin.warc.gz	8919564
+nchjmfpn	gallery.me.com	2012-04-09 00:58:58	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	gallery.me.com-nchjmfpn.warc.gz	5615
+nchjmfpn	homepage.mac.com	2012-04-09 00:58:58	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	homepage.mac.com-nchjmfpn.warc.gz	6026
+nchjmfpn	public.me.com	2012-04-09 00:58:54	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	public.me.com-nchjmfpn.warc.gz	1916
+nchjmfpn	web.me.com	2012-04-09 00:57:20	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	web.me.com-nchjmfpn.warc.gz	2503448078
+yoshiotazaki	gallery.me.com	2012-04-09 01:19:54	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	gallery.me.com-yoshiotazaki.warc.gz	214518717
+yoshiotazaki	homepage.mac.com	2012-04-09 01:19:55	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	homepage.mac.com-yoshiotazaki.warc.gz	4940
+yoshiotazaki	public.me.com	2012-04-09 01:03:20	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	public.me.com-yoshiotazaki.warc.gz	1932
+yoshiotazaki	web.me.com	2012-04-09 01:03:20	archiveteam-mobileme-hero-527x	archiveteam-mobileme-hero-527x-5270.tar	web.me.com-yoshiotazaki.warc.gz	19744546

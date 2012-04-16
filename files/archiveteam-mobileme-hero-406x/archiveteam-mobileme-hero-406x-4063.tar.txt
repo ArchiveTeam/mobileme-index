@@ -1,12 +1,12 @@
-marymullan1	gallery.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	gallery.me.com-marymullan1.warc.gz	0
-marymullan1	homepage.mac.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	homepage.mac.com-marymullan1.warc.gz	0
-marymullan1	public.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	public.me.com-marymullan1.warc.gz	0
-marymullan1	web.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	web.me.com-marymullan1.warc.gz	0
-sebastianmorsch	gallery.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	gallery.me.com-sebastianmorsch.warc.gz	0
-sebastianmorsch	homepage.mac.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	homepage.mac.com-sebastianmorsch.warc.gz	0
-sebastianmorsch	public.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	public.me.com-sebastianmorsch.warc.gz	0
-sebastianmorsch	web.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	web.me.com-sebastianmorsch.warc.gz	0
-toreadornottoread	gallery.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	gallery.me.com-toreadornottoread.warc.gz	0
-toreadornottoread	homepage.mac.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	homepage.mac.com-toreadornottoread.warc.gz	0
-toreadornottoread	public.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	public.me.com-toreadornottoread.warc.gz	0
-toreadornottoread	web.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	web.me.com-toreadornottoread.warc.gz	0
+marymullan1	gallery.me.com	2012-04-05 03:28:42	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	gallery.me.com-marymullan1.warc.gz	2806249915
+marymullan1	homepage.mac.com	2012-04-05 03:28:42	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	homepage.mac.com-marymullan1.warc.gz	4928
+marymullan1	public.me.com	2012-04-05 02:55:22	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	public.me.com-marymullan1.warc.gz	1919
+marymullan1	web.me.com	2012-04-05 02:55:21	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	web.me.com-marymullan1.warc.gz	41514882
+sebastianmorsch	gallery.me.com	2012-04-05 01:47:26	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	gallery.me.com-sebastianmorsch.warc.gz	116869902
+sebastianmorsch	homepage.mac.com	2012-04-05 01:47:26	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	homepage.mac.com-sebastianmorsch.warc.gz	3416
+sebastianmorsch	public.me.com	2012-04-05 01:46:52	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	public.me.com-sebastianmorsch.warc.gz	15225
+sebastianmorsch	web.me.com	2012-04-05 01:46:51	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	web.me.com-sebastianmorsch.warc.gz	737906
+toreadornottoread	gallery.me.com	2012-04-05 02:48:12	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	gallery.me.com-toreadornottoread.warc.gz	5049
+toreadornottoread	homepage.mac.com	2012-04-05 02:48:12	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	homepage.mac.com-toreadornottoread.warc.gz	4939
+toreadornottoread	public.me.com	2012-04-05 02:48:11	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	public.me.com-toreadornottoread.warc.gz	1930
+toreadornottoread	web.me.com	2012-04-05 02:48:07	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4063.tar	web.me.com-toreadornottoread.warc.gz	2567849657

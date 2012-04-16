@@ -1,12 +1,12 @@
-changed4him	gallery.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	gallery.me.com-changed4him.warc.gz	0
-changed4him	homepage.mac.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	homepage.mac.com-changed4him.warc.gz	0
-changed4him	public.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	public.me.com-changed4him.warc.gz	0
-changed4him	web.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	web.me.com-changed4him.warc.gz	0
-hrbradford	gallery.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	gallery.me.com-hrbradford.warc.gz	0
-hrbradford	homepage.mac.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	homepage.mac.com-hrbradford.warc.gz	0
-hrbradford	public.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	public.me.com-hrbradford.warc.gz	0
-hrbradford	web.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	web.me.com-hrbradford.warc.gz	0
-v7cia	gallery.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	gallery.me.com-v7cia.warc.gz	0
-v7cia	homepage.mac.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	homepage.mac.com-v7cia.warc.gz	0
-v7cia	public.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	public.me.com-v7cia.warc.gz	0
-v7cia	web.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	web.me.com-v7cia.warc.gz	0
+changed4him	gallery.me.com	2012-04-02 22:58:25	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	gallery.me.com-changed4him.warc.gz	2738081769
+changed4him	homepage.mac.com	2012-04-02 22:58:25	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	homepage.mac.com-changed4him.warc.gz	4926
+changed4him	public.me.com	2012-04-02 22:45:40	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	public.me.com-changed4him.warc.gz	1925
+changed4him	web.me.com	2012-04-02 22:45:39	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	web.me.com-changed4him.warc.gz	221927030
+hrbradford	gallery.me.com	2012-04-02 22:14:27	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	gallery.me.com-hrbradford.warc.gz	2013038387
+hrbradford	homepage.mac.com	2012-04-02 22:14:27	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	homepage.mac.com-hrbradford.warc.gz	4934
+hrbradford	public.me.com	2012-04-02 21:47:33	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	public.me.com-hrbradford.warc.gz	25716469
+hrbradford	web.me.com	2012-04-02 21:47:20	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	web.me.com-hrbradford.warc.gz	115726119
+v7cia	gallery.me.com	2012-04-02 22:16:39	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	gallery.me.com-v7cia.warc.gz	5673
+v7cia	homepage.mac.com	2012-04-02 22:16:40	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	homepage.mac.com-v7cia.warc.gz	6023
+v7cia	public.me.com	2012-04-02 22:16:38	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	public.me.com-v7cia.warc.gz	1908
+v7cia	web.me.com	2012-04-02 22:16:38	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3143.tar	web.me.com-v7cia.warc.gz	13256096

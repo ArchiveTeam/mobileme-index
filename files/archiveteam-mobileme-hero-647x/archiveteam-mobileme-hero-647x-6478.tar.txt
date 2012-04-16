@@ -1,16 +1,16 @@
-RobSnow	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	gallery.me.com-RobSnow.warc.gz	0
-RobSnow	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	homepage.mac.com-RobSnow.warc.gz	0
-RobSnow	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	public.me.com-RobSnow.warc.gz	0
-RobSnow	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	web.me.com-RobSnow.warc.gz	0
-chodlang1	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	gallery.me.com-chodlang1.warc.gz	0
-chodlang1	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	homepage.mac.com-chodlang1.warc.gz	0
-chodlang1	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	public.me.com-chodlang1.warc.gz	0
-chodlang1	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	web.me.com-chodlang1.warc.gz	0
-jfblais	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	gallery.me.com-jfblais.warc.gz	0
-jfblais	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	homepage.mac.com-jfblais.warc.gz	0
-jfblais	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	public.me.com-jfblais.warc.gz	0
-jfblais	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	web.me.com-jfblais.warc.gz	0
-tylermsmith	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	gallery.me.com-tylermsmith.warc.gz	0
-tylermsmith	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	homepage.mac.com-tylermsmith.warc.gz	0
-tylermsmith	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	public.me.com-tylermsmith.warc.gz	0
-tylermsmith	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	web.me.com-tylermsmith.warc.gz	0
+RobSnow	gallery.me.com	2012-04-11 18:10:30	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	gallery.me.com-RobSnow.warc.gz	322531080
+RobSnow	homepage.mac.com	2012-04-11 18:10:30	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	homepage.mac.com-RobSnow.warc.gz	4907
+RobSnow	public.me.com	2012-04-11 17:44:56	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	public.me.com-RobSnow.warc.gz	1176039380
+RobSnow	web.me.com	2012-04-11 17:23:39	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	web.me.com-RobSnow.warc.gz	3500621297
+chodlang1	gallery.me.com	2012-04-11 15:01:32	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	gallery.me.com-chodlang1.warc.gz	4244
+chodlang1	homepage.mac.com	2012-04-11 15:11:23	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	homepage.mac.com-chodlang1.warc.gz	28843313
+chodlang1	public.me.com	2012-04-11 15:01:32	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	public.me.com-chodlang1.warc.gz	65980566
+chodlang1	web.me.com	2012-04-11 15:01:02	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	web.me.com-chodlang1.warc.gz	157021374
+jfblais	gallery.me.com	2012-04-11 14:29:41	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	gallery.me.com-jfblais.warc.gz	8344
+jfblais	homepage.mac.com	2012-04-11 14:29:42	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	homepage.mac.com-jfblais.warc.gz	5159
+jfblais	public.me.com	2012-04-11 14:29:40	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	public.me.com-jfblais.warc.gz	1917
+jfblais	web.me.com	2012-04-11 14:29:39	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	web.me.com-jfblais.warc.gz	17745
+tylermsmith	gallery.me.com	2012-04-11 14:55:16	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	gallery.me.com-tylermsmith.warc.gz	144274838
+tylermsmith	homepage.mac.com	2012-04-11 14:55:16	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	homepage.mac.com-tylermsmith.warc.gz	4895
+tylermsmith	public.me.com	2012-04-11 14:43:24	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	public.me.com-tylermsmith.warc.gz	1926
+tylermsmith	web.me.com	2012-04-11 14:43:24	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6478.tar	web.me.com-tylermsmith.warc.gz	33243274

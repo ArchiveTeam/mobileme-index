@@ -1,28 +1,28 @@
-amcnab	gallery.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	gallery.me.com-amcnab.warc.gz	0
-amcnab	homepage.mac.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	homepage.mac.com-amcnab.warc.gz	0
-amcnab	public.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	public.me.com-amcnab.warc.gz	0
-amcnab	web.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	web.me.com-amcnab.warc.gz	0
-bidsville	gallery.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	gallery.me.com-bidsville.warc.gz	0
-bidsville	homepage.mac.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	homepage.mac.com-bidsville.warc.gz	0
-bidsville	public.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	public.me.com-bidsville.warc.gz	0
-bidsville	web.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	web.me.com-bidsville.warc.gz	0
-c_nierva	gallery.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	gallery.me.com-c_nierva.warc.gz	0
-c_nierva	homepage.mac.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	homepage.mac.com-c_nierva.warc.gz	0
-c_nierva	public.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	public.me.com-c_nierva.warc.gz	0
-c_nierva	web.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	web.me.com-c_nierva.warc.gz	0
-lynnejordan1	gallery.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	gallery.me.com-lynnejordan1.warc.gz	0
-lynnejordan1	homepage.mac.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	homepage.mac.com-lynnejordan1.warc.gz	0
-lynnejordan1	public.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	public.me.com-lynnejordan1.warc.gz	0
-lynnejordan1	web.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	web.me.com-lynnejordan1.warc.gz	0
-oberwerk	gallery.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	gallery.me.com-oberwerk.warc.gz	0
-oberwerk	homepage.mac.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	homepage.mac.com-oberwerk.warc.gz	0
-oberwerk	public.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	public.me.com-oberwerk.warc.gz	0
-oberwerk	web.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	web.me.com-oberwerk.warc.gz	0
-stijn.decordier	gallery.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	gallery.me.com-stijn.decordier.warc.gz	0
-stijn.decordier	homepage.mac.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	homepage.mac.com-stijn.decordier.warc.gz	0
-stijn.decordier	public.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	public.me.com-stijn.decordier.warc.gz	0
-stijn.decordier	web.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	web.me.com-stijn.decordier.warc.gz	0
-susansironi	gallery.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	gallery.me.com-susansironi.warc.gz	0
-susansironi	homepage.mac.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	homepage.mac.com-susansironi.warc.gz	0
-susansironi	public.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	public.me.com-susansironi.warc.gz	0
-susansironi	web.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	web.me.com-susansironi.warc.gz	0
+amcnab	gallery.me.com	2012-04-10 04:32:42	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	gallery.me.com-amcnab.warc.gz	873777170
+amcnab	homepage.mac.com	2012-04-10 04:32:44	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	homepage.mac.com-amcnab.warc.gz	36831
+amcnab	public.me.com	2012-04-10 04:20:20	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	public.me.com-amcnab.warc.gz	5059862933
+amcnab	web.me.com	2012-04-10 01:43:49	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	web.me.com-amcnab.warc.gz	123268752
+bidsville	gallery.me.com	2012-04-10 01:30:12	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	gallery.me.com-bidsville.warc.gz	8347
+bidsville	homepage.mac.com	2012-04-10 01:30:12	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	homepage.mac.com-bidsville.warc.gz	5150
+bidsville	public.me.com	2012-04-10 01:30:11	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	public.me.com-bidsville.warc.gz	1914
+bidsville	web.me.com	2012-04-10 01:30:10	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	web.me.com-bidsville.warc.gz	17684
+c_nierva	gallery.me.com	2012-04-10 01:29:51	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	gallery.me.com-c_nierva.warc.gz	4281
+c_nierva	homepage.mac.com	2012-04-10 01:29:52	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	homepage.mac.com-c_nierva.warc.gz	4904
+c_nierva	public.me.com	2012-04-10 01:29:51	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	public.me.com-c_nierva.warc.gz	1919
+c_nierva	web.me.com	2012-04-10 01:29:50	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	web.me.com-c_nierva.warc.gz	1023270
+lynnejordan1	gallery.me.com	2012-04-10 01:23:32	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	gallery.me.com-lynnejordan1.warc.gz	4281
+lynnejordan1	homepage.mac.com	2012-04-10 01:23:32	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	homepage.mac.com-lynnejordan1.warc.gz	4919
+lynnejordan1	public.me.com	2012-04-10 01:23:31	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	public.me.com-lynnejordan1.warc.gz	1929
+lynnejordan1	web.me.com	2012-04-10 01:23:31	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	web.me.com-lynnejordan1.warc.gz	8703052
+oberwerk	gallery.me.com	2012-04-10 01:29:31	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	gallery.me.com-oberwerk.warc.gz	31310755
+oberwerk	homepage.mac.com	2012-04-10 01:29:31	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	homepage.mac.com-oberwerk.warc.gz	4919
+oberwerk	public.me.com	2012-04-10 01:28:15	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	public.me.com-oberwerk.warc.gz	1921
+oberwerk	web.me.com	2012-04-10 01:28:14	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	web.me.com-oberwerk.warc.gz	16134517
+stijn.decordier	gallery.me.com	2012-04-10 01:30:09	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	gallery.me.com-stijn.decordier.warc.gz	5713
+stijn.decordier	homepage.mac.com	2012-04-10 01:30:09	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	homepage.mac.com-stijn.decordier.warc.gz	4924
+stijn.decordier	public.me.com	2012-04-10 01:30:08	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	public.me.com-stijn.decordier.warc.gz	1921
+stijn.decordier	web.me.com	2012-04-10 01:30:08	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	web.me.com-stijn.decordier.warc.gz	2351201
+susansironi	gallery.me.com	2012-04-10 01:25:31	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	gallery.me.com-susansironi.warc.gz	4264
+susansironi	homepage.mac.com	2012-04-10 01:25:42	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	homepage.mac.com-susansironi.warc.gz	94840
+susansironi	public.me.com	2012-04-10 01:25:30	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	public.me.com-susansironi.warc.gz	1924
+susansironi	web.me.com	2012-04-10 01:25:30	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5757.tar	web.me.com-susansironi.warc.gz	13678301

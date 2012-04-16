@@ -1,8 +1,8 @@
-kschimmel	gallery.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6333.tar	gallery.me.com-kschimmel.warc.gz	0
-kschimmel	homepage.mac.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6333.tar	homepage.mac.com-kschimmel.warc.gz	0
-kschimmel	public.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6333.tar	public.me.com-kschimmel.warc.gz	0
-kschimmel	web.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6333.tar	web.me.com-kschimmel.warc.gz	0
-tishaw1966	gallery.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6333.tar	gallery.me.com-tishaw1966.warc.gz	0
-tishaw1966	homepage.mac.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6333.tar	homepage.mac.com-tishaw1966.warc.gz	0
-tishaw1966	public.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6333.tar	public.me.com-tishaw1966.warc.gz	0
-tishaw1966	web.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6333.tar	web.me.com-tishaw1966.warc.gz	0
+kschimmel	gallery.me.com	2012-04-11 10:40:45	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6333.tar	gallery.me.com-kschimmel.warc.gz	5105
+kschimmel	homepage.mac.com	2012-04-11 10:40:45	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6333.tar	homepage.mac.com-kschimmel.warc.gz	4891
+kschimmel	public.me.com	2012-04-11 10:40:44	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6333.tar	public.me.com-kschimmel.warc.gz	3192400897
+kschimmel	web.me.com	2012-04-11 10:10:12	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6333.tar	web.me.com-kschimmel.warc.gz	1288393
+tishaw1966	gallery.me.com	2012-04-11 10:09:56	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6333.tar	gallery.me.com-tishaw1966.warc.gz	925081567
+tishaw1966	homepage.mac.com	2012-04-11 10:09:56	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6333.tar	homepage.mac.com-tishaw1966.warc.gz	4911
+tishaw1966	public.me.com	2012-04-11 10:02:11	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6333.tar	public.me.com-tishaw1966.warc.gz	296623487
+tishaw1966	web.me.com	2012-04-11 09:57:55	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6333.tar	web.me.com-tishaw1966.warc.gz	70756805

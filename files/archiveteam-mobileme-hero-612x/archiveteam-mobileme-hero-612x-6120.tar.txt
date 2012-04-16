@@ -1,24 +1,24 @@
-graftedin	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	gallery.me.com-graftedin.warc.gz	0
-graftedin	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	homepage.mac.com-graftedin.warc.gz	0
-graftedin	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	public.me.com-graftedin.warc.gz	0
-graftedin	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	web.me.com-graftedin.warc.gz	0
-lukaszkaminski	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	gallery.me.com-lukaszkaminski.warc.gz	0
-lukaszkaminski	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	homepage.mac.com-lukaszkaminski.warc.gz	0
-lukaszkaminski	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	public.me.com-lukaszkaminski.warc.gz	0
-lukaszkaminski	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	web.me.com-lukaszkaminski.warc.gz	0
-lukaszza	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	gallery.me.com-lukaszza.warc.gz	0
-lukaszza	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	homepage.mac.com-lukaszza.warc.gz	0
-lukaszza	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	public.me.com-lukaszza.warc.gz	0
-lukaszza	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	web.me.com-lukaszza.warc.gz	0
-meana	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	gallery.me.com-meana.warc.gz	0
-meana	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	homepage.mac.com-meana.warc.gz	0
-meana	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	public.me.com-meana.warc.gz	0
-meana	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	web.me.com-meana.warc.gz	0
-peter.paris	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	gallery.me.com-peter.paris.warc.gz	0
-peter.paris	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	homepage.mac.com-peter.paris.warc.gz	0
-peter.paris	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	public.me.com-peter.paris.warc.gz	0
-peter.paris	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	web.me.com-peter.paris.warc.gz	0
-photoartz1	gallery.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	gallery.me.com-photoartz1.warc.gz	0
-photoartz1	homepage.mac.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	homepage.mac.com-photoartz1.warc.gz	0
-photoartz1	public.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	public.me.com-photoartz1.warc.gz	0
-photoartz1	web.me.com		archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	web.me.com-photoartz1.warc.gz	0
+graftedin	gallery.me.com	2012-04-10 21:40:50	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	gallery.me.com-graftedin.warc.gz	12319
+graftedin	homepage.mac.com	2012-04-10 21:40:51	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	homepage.mac.com-graftedin.warc.gz	7141
+graftedin	public.me.com	2012-04-10 21:40:49	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	public.me.com-graftedin.warc.gz	1914
+graftedin	web.me.com	2012-04-10 21:40:49	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	web.me.com-graftedin.warc.gz	22437
+lukaszkaminski	gallery.me.com	2012-04-10 22:05:48	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	gallery.me.com-lukaszkaminski.warc.gz	7691
+lukaszkaminski	homepage.mac.com	2012-04-10 22:05:49	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	homepage.mac.com-lukaszkaminski.warc.gz	4941
+lukaszkaminski	public.me.com	2012-04-10 22:05:47	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	public.me.com-lukaszkaminski.warc.gz	315943392
+lukaszkaminski	web.me.com	2012-04-10 22:00:07	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	web.me.com-lukaszkaminski.warc.gz	5542679
+lukaszza	gallery.me.com	2012-04-10 22:30:09	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	gallery.me.com-lukaszza.warc.gz	748684427
+lukaszza	homepage.mac.com	2012-04-10 22:30:09	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	homepage.mac.com-lukaszza.warc.gz	4914
+lukaszza	public.me.com	2012-04-10 22:13:59	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	public.me.com-lukaszza.warc.gz	4509
+lukaszza	web.me.com	2012-04-10 22:13:58	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	web.me.com-lukaszza.warc.gz	83379575
+meana	gallery.me.com	2012-04-10 21:40:46	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	gallery.me.com-meana.warc.gz	12298
+meana	homepage.mac.com	2012-04-10 21:40:46	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	homepage.mac.com-meana.warc.gz	7122
+meana	public.me.com	2012-04-10 21:40:45	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	public.me.com-meana.warc.gz	1904
+meana	web.me.com	2012-04-10 21:40:42	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	web.me.com-meana.warc.gz	22384
+peter.paris	gallery.me.com	2012-04-10 21:58:44	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	gallery.me.com-peter.paris.warc.gz	846003732
+peter.paris	homepage.mac.com	2012-04-10 21:58:44	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	homepage.mac.com-peter.paris.warc.gz	7883
+peter.paris	public.me.com	2012-04-10 21:51:21	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	public.me.com-peter.paris.warc.gz	1920
+peter.paris	web.me.com	2012-04-10 21:51:21	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	web.me.com-peter.paris.warc.gz	611675769
+photoartz1	gallery.me.com	2012-04-10 23:18:15	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	gallery.me.com-photoartz1.warc.gz	1731307656
+photoartz1	homepage.mac.com	2012-04-10 23:18:16	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	homepage.mac.com-photoartz1.warc.gz	4899
+photoartz1	public.me.com	2012-04-10 22:44:52	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	public.me.com-photoartz1.warc.gz	127040318
+photoartz1	web.me.com	2012-04-10 22:42:13	archiveteam-mobileme-hero-612x	archiveteam-mobileme-hero-612x-6120.tar	web.me.com-photoartz1.warc.gz	47633425

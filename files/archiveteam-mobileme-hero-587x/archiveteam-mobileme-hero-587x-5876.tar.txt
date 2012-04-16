@@ -1,20 +1,20 @@
-cfs1820	gallery.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	gallery.me.com-cfs1820.warc.gz	0
-cfs1820	homepage.mac.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	homepage.mac.com-cfs1820.warc.gz	0
-cfs1820	public.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	public.me.com-cfs1820.warc.gz	0
-cfs1820	web.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	web.me.com-cfs1820.warc.gz	0
-loaderdla	gallery.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	gallery.me.com-loaderdla.warc.gz	0
-loaderdla	homepage.mac.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	homepage.mac.com-loaderdla.warc.gz	0
-loaderdla	public.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	public.me.com-loaderdla.warc.gz	0
-loaderdla	web.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	web.me.com-loaderdla.warc.gz	0
-losta	gallery.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	gallery.me.com-losta.warc.gz	0
-losta	homepage.mac.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	homepage.mac.com-losta.warc.gz	0
-losta	public.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	public.me.com-losta.warc.gz	0
-losta	web.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	web.me.com-losta.warc.gz	0
-oharatudor	gallery.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	gallery.me.com-oharatudor.warc.gz	0
-oharatudor	homepage.mac.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	homepage.mac.com-oharatudor.warc.gz	0
-oharatudor	public.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	public.me.com-oharatudor.warc.gz	0
-oharatudor	web.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	web.me.com-oharatudor.warc.gz	0
-wellmcg	gallery.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	gallery.me.com-wellmcg.warc.gz	0
-wellmcg	homepage.mac.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	homepage.mac.com-wellmcg.warc.gz	0
-wellmcg	public.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	public.me.com-wellmcg.warc.gz	0
-wellmcg	web.me.com		archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	web.me.com-wellmcg.warc.gz	0
+cfs1820	gallery.me.com	2012-04-10 07:53:18	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	gallery.me.com-cfs1820.warc.gz	598872181
+cfs1820	homepage.mac.com	2012-04-10 07:53:22	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	homepage.mac.com-cfs1820.warc.gz	4899
+cfs1820	public.me.com	2012-04-10 07:26:46	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	public.me.com-cfs1820.warc.gz	1910
+cfs1820	web.me.com	2012-04-10 07:26:46	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	web.me.com-cfs1820.warc.gz	16369575
+loaderdla	gallery.me.com	2012-04-10 07:18:45	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	gallery.me.com-loaderdla.warc.gz	5117
+loaderdla	homepage.mac.com	2012-04-10 07:18:45	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	homepage.mac.com-loaderdla.warc.gz	4897
+loaderdla	public.me.com	2012-04-10 07:18:43	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	public.me.com-loaderdla.warc.gz	1917
+loaderdla	web.me.com	2012-04-10 07:18:40	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	web.me.com-loaderdla.warc.gz	1921623781
+losta	gallery.me.com	2012-04-10 09:28:58	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	gallery.me.com-losta.warc.gz	882963789
+losta	homepage.mac.com	2012-04-10 09:29:07	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	homepage.mac.com-losta.warc.gz	81182
+losta	public.me.com	2012-04-10 09:04:18	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	public.me.com-losta.warc.gz	1908
+losta	web.me.com	2012-04-10 09:04:17	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	web.me.com-losta.warc.gz	305392225
+oharatudor	gallery.me.com	2012-04-10 08:30:24	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	gallery.me.com-oharatudor.warc.gz	42785433
+oharatudor	homepage.mac.com	2012-04-10 08:30:47	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	homepage.mac.com-oharatudor.warc.gz	169159
+oharatudor	public.me.com	2012-04-10 08:29:25	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	public.me.com-oharatudor.warc.gz	1916
+oharatudor	web.me.com	2012-04-10 08:29:24	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	web.me.com-oharatudor.warc.gz	689347594
+wellmcg	gallery.me.com	2012-04-10 08:12:01	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	gallery.me.com-wellmcg.warc.gz	5676
+wellmcg	homepage.mac.com	2012-04-10 08:12:01	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	homepage.mac.com-wellmcg.warc.gz	3230
+wellmcg	public.me.com	2012-04-10 08:11:59	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	public.me.com-wellmcg.warc.gz	567537409
+wellmcg	web.me.com	2012-04-10 07:53:36	archiveteam-mobileme-hero-587x	archiveteam-mobileme-hero-587x-5876.tar	web.me.com-wellmcg.warc.gz	133322

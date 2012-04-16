@@ -1,20 +1,20 @@
-dennyj	gallery.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	gallery.me.com-dennyj.warc.gz	0
-dennyj	homepage.mac.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	homepage.mac.com-dennyj.warc.gz	0
-dennyj	public.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	public.me.com-dennyj.warc.gz	0
-dennyj	web.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	web.me.com-dennyj.warc.gz	0
-doughitchner	gallery.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	gallery.me.com-doughitchner.warc.gz	0
-doughitchner	homepage.mac.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	homepage.mac.com-doughitchner.warc.gz	0
-doughitchner	public.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	public.me.com-doughitchner.warc.gz	0
-doughitchner	web.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	web.me.com-doughitchner.warc.gz	0
-hwilliams5	gallery.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	gallery.me.com-hwilliams5.warc.gz	0
-hwilliams5	homepage.mac.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	homepage.mac.com-hwilliams5.warc.gz	0
-hwilliams5	public.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	public.me.com-hwilliams5.warc.gz	0
-hwilliams5	web.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	web.me.com-hwilliams5.warc.gz	0
-kishikawa_kazuhiro	gallery.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	gallery.me.com-kishikawa_kazuhiro.warc.gz	0
-kishikawa_kazuhiro	homepage.mac.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	homepage.mac.com-kishikawa_kazuhiro.warc.gz	0
-kishikawa_kazuhiro	public.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	public.me.com-kishikawa_kazuhiro.warc.gz	0
-kishikawa_kazuhiro	web.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	web.me.com-kishikawa_kazuhiro.warc.gz	0
-matthew.metzger	gallery.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	gallery.me.com-matthew.metzger.warc.gz	0
-matthew.metzger	homepage.mac.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	homepage.mac.com-matthew.metzger.warc.gz	0
-matthew.metzger	public.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	public.me.com-matthew.metzger.warc.gz	0
-matthew.metzger	web.me.com		archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	web.me.com-matthew.metzger.warc.gz	0
+dennyj	gallery.me.com	2012-04-09 09:09:38	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	gallery.me.com-dennyj.warc.gz	3790797255
+dennyj	homepage.mac.com	2012-04-09 09:09:39	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	homepage.mac.com-dennyj.warc.gz	4890
+dennyj	public.me.com	2012-04-09 08:24:27	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	public.me.com-dennyj.warc.gz	1913
+dennyj	web.me.com	2012-04-09 08:23:13	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	web.me.com-dennyj.warc.gz	3104749477
+doughitchner	gallery.me.com	2012-04-09 07:03:07	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	gallery.me.com-doughitchner.warc.gz	12343
+doughitchner	homepage.mac.com	2012-04-09 07:03:07	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	homepage.mac.com-doughitchner.warc.gz	7144
+doughitchner	public.me.com	2012-04-09 07:03:06	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	public.me.com-doughitchner.warc.gz	1923
+doughitchner	web.me.com	2012-04-09 07:03:06	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	web.me.com-doughitchner.warc.gz	22446
+hwilliams5	gallery.me.com	2012-04-09 07:09:14	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	gallery.me.com-hwilliams5.warc.gz	148827719
+hwilliams5	homepage.mac.com	2012-04-09 07:09:14	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	homepage.mac.com-hwilliams5.warc.gz	4927
+hwilliams5	public.me.com	2012-04-09 07:06:35	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	public.me.com-hwilliams5.warc.gz	1928
+hwilliams5	web.me.com	2012-04-09 07:06:35	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	web.me.com-hwilliams5.warc.gz	8973011
+kishikawa_kazuhiro	gallery.me.com	2012-04-09 07:04:16	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	gallery.me.com-kishikawa_kazuhiro.warc.gz	1027970
+kishikawa_kazuhiro	homepage.mac.com	2012-04-09 07:04:16	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	homepage.mac.com-kishikawa_kazuhiro.warc.gz	4979
+kishikawa_kazuhiro	public.me.com	2012-04-09 07:04:14	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	public.me.com-kishikawa_kazuhiro.warc.gz	1944
+kishikawa_kazuhiro	web.me.com	2012-04-09 07:04:14	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	web.me.com-kishikawa_kazuhiro.warc.gz	6464421
+matthew.metzger	gallery.me.com	2012-04-09 07:33:19	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	gallery.me.com-matthew.metzger.warc.gz	27891075
+matthew.metzger	homepage.mac.com	2012-04-09 07:33:20	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	homepage.mac.com-matthew.metzger.warc.gz	4949
+matthew.metzger	public.me.com	2012-04-09 07:32:19	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	public.me.com-matthew.metzger.warc.gz	1933
+matthew.metzger	web.me.com	2012-04-09 07:32:19	archiveteam-mobileme-hero-541x	archiveteam-mobileme-hero-541x-5416.tar	web.me.com-matthew.metzger.warc.gz	127594384

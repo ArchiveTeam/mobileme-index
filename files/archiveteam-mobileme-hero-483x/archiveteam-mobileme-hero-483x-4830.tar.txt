@@ -1,32 +1,32 @@
-brand10	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	gallery.me.com-brand10.warc.gz	0
-brand10	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	homepage.mac.com-brand10.warc.gz	0
-brand10	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	public.me.com-brand10.warc.gz	0
-brand10	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	web.me.com-brand10.warc.gz	0
-c377834953	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	gallery.me.com-c377834953.warc.gz	0
-c377834953	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	homepage.mac.com-c377834953.warc.gz	0
-c377834953	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	public.me.com-c377834953.warc.gz	0
-c377834953	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	web.me.com-c377834953.warc.gz	0
-dstierer	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	gallery.me.com-dstierer.warc.gz	0
-dstierer	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	homepage.mac.com-dstierer.warc.gz	0
-dstierer	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	public.me.com-dstierer.warc.gz	0
-dstierer	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	web.me.com-dstierer.warc.gz	0
-lovelyluke	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	gallery.me.com-lovelyluke.warc.gz	0
-lovelyluke	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	homepage.mac.com-lovelyluke.warc.gz	0
-lovelyluke	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	public.me.com-lovelyluke.warc.gz	0
-lovelyluke	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	web.me.com-lovelyluke.warc.gz	0
-mheisler03	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	gallery.me.com-mheisler03.warc.gz	0
-mheisler03	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	homepage.mac.com-mheisler03.warc.gz	0
-mheisler03	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	public.me.com-mheisler03.warc.gz	0
-mheisler03	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	web.me.com-mheisler03.warc.gz	0
-ptandrews	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	gallery.me.com-ptandrews.warc.gz	0
-ptandrews	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	homepage.mac.com-ptandrews.warc.gz	0
-ptandrews	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	public.me.com-ptandrews.warc.gz	0
-ptandrews	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	web.me.com-ptandrews.warc.gz	0
-rayner4	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	gallery.me.com-rayner4.warc.gz	0
-rayner4	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	homepage.mac.com-rayner4.warc.gz	0
-rayner4	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	public.me.com-rayner4.warc.gz	0
-rayner4	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	web.me.com-rayner4.warc.gz	0
-saltobello	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	gallery.me.com-saltobello.warc.gz	0
-saltobello	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	homepage.mac.com-saltobello.warc.gz	0
-saltobello	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	public.me.com-saltobello.warc.gz	0
-saltobello	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	web.me.com-saltobello.warc.gz	0
+brand10	gallery.me.com	2012-04-06 23:39:35	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	gallery.me.com-brand10.warc.gz	923240
+brand10	homepage.mac.com	2012-04-06 23:39:35	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	homepage.mac.com-brand10.warc.gz	4917
+brand10	public.me.com	2012-04-06 23:39:31	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	public.me.com-brand10.warc.gz	1909
+brand10	web.me.com	2012-04-06 23:39:30	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	web.me.com-brand10.warc.gz	16917512
+c377834953	gallery.me.com	2012-04-06 23:39:45	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	gallery.me.com-c377834953.warc.gz	8371
+c377834953	homepage.mac.com	2012-04-06 23:39:45	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	homepage.mac.com-c377834953.warc.gz	5185
+c377834953	public.me.com	2012-04-06 23:39:45	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	public.me.com-c377834953.warc.gz	1924
+c377834953	web.me.com	2012-04-06 23:39:45	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	web.me.com-c377834953.warc.gz	17719
+dstierer	gallery.me.com	2012-04-06 23:39:37	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	gallery.me.com-dstierer.warc.gz	8337
+dstierer	homepage.mac.com	2012-04-06 23:39:41	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	homepage.mac.com-dstierer.warc.gz	5167
+dstierer	public.me.com	2012-04-06 23:39:37	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	public.me.com-dstierer.warc.gz	1912
+dstierer	web.me.com	2012-04-06 23:39:36	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	web.me.com-dstierer.warc.gz	17682
+lovelyluke	gallery.me.com	2012-04-07 00:51:44	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	gallery.me.com-lovelyluke.warc.gz	558226
+lovelyluke	homepage.mac.com	2012-04-07 00:51:44	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	homepage.mac.com-lovelyluke.warc.gz	4921
+lovelyluke	public.me.com	2012-04-07 00:51:38	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	public.me.com-lovelyluke.warc.gz	163443435
+lovelyluke	web.me.com	2012-04-07 00:46:20	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	web.me.com-lovelyluke.warc.gz	1486070422
+mheisler03	gallery.me.com	2012-04-06 23:47:37	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	gallery.me.com-mheisler03.warc.gz	4278
+mheisler03	homepage.mac.com	2012-04-06 23:47:39	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	homepage.mac.com-mheisler03.warc.gz	55195
+mheisler03	public.me.com	2012-04-06 23:47:36	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	public.me.com-mheisler03.warc.gz	1925
+mheisler03	web.me.com	2012-04-06 23:47:36	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	web.me.com-mheisler03.warc.gz	7462
+ptandrews	gallery.me.com	2012-04-07 02:35:38	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	gallery.me.com-ptandrews.warc.gz	3203595825
+ptandrews	homepage.mac.com	2012-04-07 02:35:42	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	homepage.mac.com-ptandrews.warc.gz	100986
+ptandrews	public.me.com	2012-04-07 01:53:49	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	public.me.com-ptandrews.warc.gz	1918
+ptandrews	web.me.com	2012-04-07 01:53:43	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	web.me.com-ptandrews.warc.gz	1240493664
+rayner4	gallery.me.com	2012-04-06 23:47:31	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	gallery.me.com-rayner4.warc.gz	519841807
+rayner4	homepage.mac.com	2012-04-06 23:47:34	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	homepage.mac.com-rayner4.warc.gz	76744
+rayner4	public.me.com	2012-04-06 23:43:45	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	public.me.com-rayner4.warc.gz	450359601
+rayner4	web.me.com	2012-04-06 23:41:41	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	web.me.com-rayner4.warc.gz	4483538
+saltobello	gallery.me.com	2012-04-07 01:07:05	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	gallery.me.com-saltobello.warc.gz	100369102
+saltobello	homepage.mac.com	2012-04-07 01:07:06	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	homepage.mac.com-saltobello.warc.gz	7899
+saltobello	public.me.com	2012-04-07 01:04:28	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	public.me.com-saltobello.warc.gz	431555026
+saltobello	web.me.com	2012-04-07 01:02:03	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4830.tar	web.me.com-saltobello.warc.gz	580226016

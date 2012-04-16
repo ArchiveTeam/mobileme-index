@@ -1,12 +1,12 @@
-darrenblamb	gallery.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	gallery.me.com-darrenblamb.warc.gz	0
-darrenblamb	homepage.mac.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	homepage.mac.com-darrenblamb.warc.gz	0
-darrenblamb	public.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	public.me.com-darrenblamb.warc.gz	0
-darrenblamb	web.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	web.me.com-darrenblamb.warc.gz	0
-heimdalls_horn	gallery.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	gallery.me.com-heimdalls_horn.warc.gz	0
-heimdalls_horn	homepage.mac.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	homepage.mac.com-heimdalls_horn.warc.gz	0
-heimdalls_horn	public.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	public.me.com-heimdalls_horn.warc.gz	0
-heimdalls_horn	web.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	web.me.com-heimdalls_horn.warc.gz	0
-monkey2000	gallery.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	gallery.me.com-monkey2000.warc.gz	0
-monkey2000	homepage.mac.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	homepage.mac.com-monkey2000.warc.gz	0
-monkey2000	public.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	public.me.com-monkey2000.warc.gz	0
-monkey2000	web.me.com		archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	web.me.com-monkey2000.warc.gz	0
+darrenblamb	gallery.me.com	2012-04-04 11:14:47	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	gallery.me.com-darrenblamb.warc.gz	8348
+darrenblamb	homepage.mac.com	2012-04-04 11:14:48	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	homepage.mac.com-darrenblamb.warc.gz	5166
+darrenblamb	public.me.com	2012-04-04 11:14:47	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	public.me.com-darrenblamb.warc.gz	1917
+darrenblamb	web.me.com	2012-04-04 11:14:46	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	web.me.com-darrenblamb.warc.gz	17713
+heimdalls_horn	gallery.me.com	2012-04-04 11:14:44	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	gallery.me.com-heimdalls_horn.warc.gz	487993632
+heimdalls_horn	homepage.mac.com	2012-04-04 11:14:45	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	homepage.mac.com-heimdalls_horn.warc.gz	4921
+heimdalls_horn	public.me.com	2012-04-04 11:03:48	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	public.me.com-heimdalls_horn.warc.gz	122611341
+heimdalls_horn	web.me.com	2012-04-04 11:00:34	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	web.me.com-heimdalls_horn.warc.gz	6292872
+monkey2000	gallery.me.com	2012-04-04 15:31:49	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	gallery.me.com-monkey2000.warc.gz	7265604183
+monkey2000	homepage.mac.com	2012-04-04 15:31:50	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	homepage.mac.com-monkey2000.warc.gz	4904
+monkey2000	public.me.com	2012-04-04 12:26:06	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	public.me.com-monkey2000.warc.gz	1918
+monkey2000	web.me.com	2012-04-04 12:25:40	archiveteam-mobileme-hero-386x	archiveteam-mobileme-hero-386x-3865.tar	web.me.com-monkey2000.warc.gz	1477611286

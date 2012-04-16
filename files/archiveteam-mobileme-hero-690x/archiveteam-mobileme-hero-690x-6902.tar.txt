@@ -1,12 +1,12 @@
-dfuller1	gallery.me.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	gallery.me.com-dfuller1.warc.gz	0
-dfuller1	homepage.mac.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	homepage.mac.com-dfuller1.warc.gz	0
-dfuller1	public.me.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	public.me.com-dfuller1.warc.gz	0
-dfuller1	web.me.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	web.me.com-dfuller1.warc.gz	0
-therealpimpaway	gallery.me.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	gallery.me.com-therealpimpaway.warc.gz	0
-therealpimpaway	homepage.mac.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	homepage.mac.com-therealpimpaway.warc.gz	0
-therealpimpaway	public.me.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	public.me.com-therealpimpaway.warc.gz	0
-therealpimpaway	web.me.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	web.me.com-therealpimpaway.warc.gz	0
-woodcraft121	gallery.me.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	gallery.me.com-woodcraft121.warc.gz	0
-woodcraft121	homepage.mac.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	homepage.mac.com-woodcraft121.warc.gz	0
-woodcraft121	public.me.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	public.me.com-woodcraft121.warc.gz	0
-woodcraft121	web.me.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	web.me.com-woodcraft121.warc.gz	0
+dfuller1	gallery.me.com	2012-04-12 18:20:53	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	gallery.me.com-dfuller1.warc.gz	2955282947
+dfuller1	homepage.mac.com	2012-04-12 18:20:56	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	homepage.mac.com-dfuller1.warc.gz	4917
+dfuller1	public.me.com	2012-04-12 17:30:37	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	public.me.com-dfuller1.warc.gz	1912
+dfuller1	web.me.com	2012-04-12 17:30:18	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	web.me.com-dfuller1.warc.gz	2226381278
+therealpimpaway	gallery.me.com	2012-04-12 16:29:54	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	gallery.me.com-therealpimpaway.warc.gz	456792516
+therealpimpaway	homepage.mac.com	2012-04-12 16:29:54	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	homepage.mac.com-therealpimpaway.warc.gz	4943
+therealpimpaway	public.me.com	2012-04-12 16:07:17	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	public.me.com-therealpimpaway.warc.gz	1932
+therealpimpaway	web.me.com	2012-04-12 16:07:16	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	web.me.com-therealpimpaway.warc.gz	47021332
+woodcraft121	gallery.me.com	2012-04-12 16:30:39	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	gallery.me.com-woodcraft121.warc.gz	427324
+woodcraft121	homepage.mac.com	2012-04-12 16:30:39	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	homepage.mac.com-woodcraft121.warc.gz	4935
+woodcraft121	public.me.com	2012-04-12 16:30:34	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	public.me.com-woodcraft121.warc.gz	1927
+woodcraft121	web.me.com	2012-04-12 16:30:34	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6902.tar	web.me.com-woodcraft121.warc.gz	2915055

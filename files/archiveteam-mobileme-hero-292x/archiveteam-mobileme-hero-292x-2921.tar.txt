@@ -1,36 +1,36 @@
-aoc_paris1	gallery.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	gallery.me.com-aoc_paris1.warc.gz	0
-aoc_paris1	homepage.mac.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	homepage.mac.com-aoc_paris1.warc.gz	0
-aoc_paris1	public.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	public.me.com-aoc_paris1.warc.gz	0
-aoc_paris1	web.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	web.me.com-aoc_paris1.warc.gz	0
-berniburn	gallery.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	gallery.me.com-berniburn.warc.gz	0
-berniburn	homepage.mac.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	homepage.mac.com-berniburn.warc.gz	0
-berniburn	public.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	public.me.com-berniburn.warc.gz	0
-berniburn	web.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	web.me.com-berniburn.warc.gz	0
-buymiami	gallery.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	gallery.me.com-buymiami.warc.gz	0
-buymiami	homepage.mac.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	homepage.mac.com-buymiami.warc.gz	0
-buymiami	public.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	public.me.com-buymiami.warc.gz	0
-buymiami	web.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	web.me.com-buymiami.warc.gz	0
-calytberg	gallery.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	gallery.me.com-calytberg.warc.gz	0
-calytberg	homepage.mac.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	homepage.mac.com-calytberg.warc.gz	0
-calytberg	public.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	public.me.com-calytberg.warc.gz	0
-calytberg	web.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	web.me.com-calytberg.warc.gz	0
-dalbs1	gallery.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	gallery.me.com-dalbs1.warc.gz	0
-dalbs1	homepage.mac.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	homepage.mac.com-dalbs1.warc.gz	0
-dalbs1	public.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	public.me.com-dalbs1.warc.gz	0
-dalbs1	web.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	web.me.com-dalbs1.warc.gz	0
-dpdp	gallery.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	gallery.me.com-dpdp.warc.gz	0
-dpdp	homepage.mac.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	homepage.mac.com-dpdp.warc.gz	0
-dpdp	public.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	public.me.com-dpdp.warc.gz	0
-dpdp	web.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	web.me.com-dpdp.warc.gz	0
-msted	gallery.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	gallery.me.com-msted.warc.gz	0
-msted	homepage.mac.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	homepage.mac.com-msted.warc.gz	0
-msted	public.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	public.me.com-msted.warc.gz	0
-msted	web.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	web.me.com-msted.warc.gz	0
-ricrdomcrae	gallery.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	gallery.me.com-ricrdomcrae.warc.gz	0
-ricrdomcrae	homepage.mac.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	homepage.mac.com-ricrdomcrae.warc.gz	0
-ricrdomcrae	public.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	public.me.com-ricrdomcrae.warc.gz	0
-ricrdomcrae	web.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	web.me.com-ricrdomcrae.warc.gz	0
-scelio	gallery.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	gallery.me.com-scelio.warc.gz	0
-scelio	homepage.mac.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	homepage.mac.com-scelio.warc.gz	0
-scelio	public.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	public.me.com-scelio.warc.gz	0
-scelio	web.me.com		archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	web.me.com-scelio.warc.gz	0
+aoc_paris1	gallery.me.com	2012-04-02 09:38:51	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	gallery.me.com-aoc_paris1.warc.gz	12306
+aoc_paris1	homepage.mac.com	2012-04-02 09:38:52	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	homepage.mac.com-aoc_paris1.warc.gz	7148
+aoc_paris1	public.me.com	2012-04-02 09:38:51	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	public.me.com-aoc_paris1.warc.gz	1918
+aoc_paris1	web.me.com	2012-04-02 09:38:51	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	web.me.com-aoc_paris1.warc.gz	22480
+berniburn	gallery.me.com	2012-04-02 09:11:30	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	gallery.me.com-berniburn.warc.gz	378097151
+berniburn	homepage.mac.com	2012-04-02 09:11:32	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	homepage.mac.com-berniburn.warc.gz	68829
+berniburn	public.me.com	2012-04-02 09:04:04	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	public.me.com-berniburn.warc.gz	1917
+berniburn	web.me.com	2012-04-02 09:04:04	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	web.me.com-berniburn.warc.gz	6168090
+buymiami	gallery.me.com	2012-04-02 09:52:13	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	gallery.me.com-buymiami.warc.gz	5217
+buymiami	homepage.mac.com	2012-04-02 09:52:13	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	homepage.mac.com-buymiami.warc.gz	4905
+buymiami	public.me.com	2012-04-02 09:52:12	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	public.me.com-buymiami.warc.gz	1911
+buymiami	web.me.com	2012-04-02 09:52:11	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	web.me.com-buymiami.warc.gz	72481696
+calytberg	gallery.me.com	2012-04-02 09:00:15	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	gallery.me.com-calytberg.warc.gz	50389573
+calytberg	homepage.mac.com	2012-04-02 09:00:16	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	homepage.mac.com-calytberg.warc.gz	4913
+calytberg	public.me.com	2012-04-02 08:58:49	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	public.me.com-calytberg.warc.gz	1923
+calytberg	web.me.com	2012-04-02 08:58:49	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	web.me.com-calytberg.warc.gz	15328019
+dalbs1	gallery.me.com	2012-04-02 11:29:14	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	gallery.me.com-dalbs1.warc.gz	5643
+dalbs1	homepage.mac.com	2012-04-02 11:29:14	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	homepage.mac.com-dalbs1.warc.gz	4904
+dalbs1	public.me.com	2012-04-02 11:29:13	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	public.me.com-dalbs1.warc.gz	4031121292
+dalbs1	web.me.com	2012-04-02 09:52:38	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	web.me.com-dalbs1.warc.gz	1649917
+dpdp	gallery.me.com	2012-04-02 09:38:21	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	gallery.me.com-dpdp.warc.gz	448744625
+dpdp	homepage.mac.com	2012-04-02 09:38:23	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	homepage.mac.com-dpdp.warc.gz	62735
+dpdp	public.me.com	2012-04-02 09:31:20	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	public.me.com-dpdp.warc.gz	1898
+dpdp	web.me.com	2012-04-02 09:31:19	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	web.me.com-dpdp.warc.gz	118768525
+msted	gallery.me.com	2012-04-02 09:44:21	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	gallery.me.com-msted.warc.gz	98298241
+msted	homepage.mac.com	2012-04-02 09:44:25	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	homepage.mac.com-msted.warc.gz	285336
+msted	public.me.com	2012-04-02 09:40:41	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	public.me.com-msted.warc.gz	1914
+msted	web.me.com	2012-04-02 09:40:40	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	web.me.com-msted.warc.gz	6549670
+ricrdomcrae	gallery.me.com	2012-04-02 08:56:55	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	gallery.me.com-ricrdomcrae.warc.gz	8365
+ricrdomcrae	homepage.mac.com	2012-04-02 08:56:55	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	homepage.mac.com-ricrdomcrae.warc.gz	5189
+ricrdomcrae	public.me.com	2012-04-02 08:56:54	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	public.me.com-ricrdomcrae.warc.gz	1926
+ricrdomcrae	web.me.com	2012-04-02 08:56:54	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	web.me.com-ricrdomcrae.warc.gz	17686
+scelio	gallery.me.com	2012-04-02 09:38:49	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	gallery.me.com-scelio.warc.gz	4269
+scelio	homepage.mac.com	2012-04-02 09:38:49	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	homepage.mac.com-scelio.warc.gz	4904
+scelio	public.me.com	2012-04-02 09:38:49	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	public.me.com-scelio.warc.gz	1909
+scelio	web.me.com	2012-04-02 09:38:48	archiveteam-mobileme-hero-292x	archiveteam-mobileme-hero-292x-2921.tar	web.me.com-scelio.warc.gz	3297112

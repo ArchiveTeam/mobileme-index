@@ -1,28 +1,28 @@
-aplou1	gallery.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	gallery.me.com-aplou1.warc.gz	0
-aplou1	homepage.mac.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	homepage.mac.com-aplou1.warc.gz	0
-aplou1	public.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	public.me.com-aplou1.warc.gz	0
-aplou1	web.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	web.me.com-aplou1.warc.gz	0
-armavilla	gallery.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	gallery.me.com-armavilla.warc.gz	0
-armavilla	homepage.mac.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	homepage.mac.com-armavilla.warc.gz	0
-armavilla	public.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	public.me.com-armavilla.warc.gz	0
-armavilla	web.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	web.me.com-armavilla.warc.gz	0
-davidbetts	gallery.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	gallery.me.com-davidbetts.warc.gz	0
-davidbetts	homepage.mac.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	homepage.mac.com-davidbetts.warc.gz	0
-davidbetts	public.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	public.me.com-davidbetts.warc.gz	0
-davidbetts	web.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	web.me.com-davidbetts.warc.gz	0
-francemo	gallery.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	gallery.me.com-francemo.warc.gz	0
-francemo	homepage.mac.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	homepage.mac.com-francemo.warc.gz	0
-francemo	public.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	public.me.com-francemo.warc.gz	0
-francemo	web.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	web.me.com-francemo.warc.gz	0
-segoh	gallery.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	gallery.me.com-segoh.warc.gz	0
-segoh	homepage.mac.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	homepage.mac.com-segoh.warc.gz	0
-segoh	public.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	public.me.com-segoh.warc.gz	0
-segoh	web.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	web.me.com-segoh.warc.gz	0
-wajisin	gallery.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	gallery.me.com-wajisin.warc.gz	0
-wajisin	homepage.mac.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	homepage.mac.com-wajisin.warc.gz	0
-wajisin	public.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	public.me.com-wajisin.warc.gz	0
-wajisin	web.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	web.me.com-wajisin.warc.gz	0
-webdice	gallery.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	gallery.me.com-webdice.warc.gz	0
-webdice	homepage.mac.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	homepage.mac.com-webdice.warc.gz	0
-webdice	public.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	public.me.com-webdice.warc.gz	0
-webdice	web.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	web.me.com-webdice.warc.gz	0
+aplou1	gallery.me.com	2012-04-07 07:45:08	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	gallery.me.com-aplou1.warc.gz	5660
+aplou1	homepage.mac.com	2012-04-07 07:45:08	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	homepage.mac.com-aplou1.warc.gz	4897
+aplou1	public.me.com	2012-04-07 07:45:07	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	public.me.com-aplou1.warc.gz	1913
+aplou1	web.me.com	2012-04-07 07:45:07	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	web.me.com-aplou1.warc.gz	30758020
+armavilla	gallery.me.com	2012-04-07 08:35:03	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	gallery.me.com-armavilla.warc.gz	326646409
+armavilla	homepage.mac.com	2012-04-07 08:35:04	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	homepage.mac.com-armavilla.warc.gz	4916
+armavilla	public.me.com	2012-04-07 08:28:48	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	public.me.com-armavilla.warc.gz	268548284
+armavilla	web.me.com	2012-04-07 08:24:53	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	web.me.com-armavilla.warc.gz	287574624
+davidbetts	gallery.me.com	2012-04-07 08:57:25	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	gallery.me.com-davidbetts.warc.gz	1581381620
+davidbetts	homepage.mac.com	2012-04-07 08:57:55	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	homepage.mac.com-davidbetts.warc.gz	603443
+davidbetts	public.me.com	2012-04-07 08:40:45	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	public.me.com-davidbetts.warc.gz	4727954
+davidbetts	web.me.com	2012-04-07 08:40:39	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	web.me.com-davidbetts.warc.gz	144747909
+francemo	gallery.me.com	2012-04-07 07:44:26	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	gallery.me.com-francemo.warc.gz	5019
+francemo	homepage.mac.com	2012-04-07 07:44:26	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	homepage.mac.com-francemo.warc.gz	4912
+francemo	public.me.com	2012-04-07 07:44:25	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	public.me.com-francemo.warc.gz	1913
+francemo	web.me.com	2012-04-07 07:44:25	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	web.me.com-francemo.warc.gz	90647353
+segoh	gallery.me.com	2012-04-07 08:08:53	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	gallery.me.com-segoh.warc.gz	24445625
+segoh	homepage.mac.com	2012-04-07 08:08:53	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	homepage.mac.com-segoh.warc.gz	4881
+segoh	public.me.com	2012-04-07 08:08:42	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	public.me.com-segoh.warc.gz	1912
+segoh	web.me.com	2012-04-07 08:08:41	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	web.me.com-segoh.warc.gz	401419538
+wajisin	gallery.me.com	2012-04-07 09:44:13	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	gallery.me.com-wajisin.warc.gz	2776424470
+wajisin	homepage.mac.com	2012-04-07 09:44:14	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	homepage.mac.com-wajisin.warc.gz	68356
+wajisin	public.me.com	2012-04-07 09:32:44	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	public.me.com-wajisin.warc.gz	867063177
+wajisin	web.me.com	2012-04-07 09:19:17	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	web.me.com-wajisin.warc.gz	778588425
+webdice	gallery.me.com	2012-04-07 09:01:45	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	gallery.me.com-webdice.warc.gz	4235
+webdice	homepage.mac.com	2012-04-07 09:01:45	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	homepage.mac.com-webdice.warc.gz	4907
+webdice	public.me.com	2012-04-07 09:01:44	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	public.me.com-webdice.warc.gz	1909
+webdice	web.me.com	2012-04-07 09:01:44	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4888.tar	web.me.com-webdice.warc.gz	23221713

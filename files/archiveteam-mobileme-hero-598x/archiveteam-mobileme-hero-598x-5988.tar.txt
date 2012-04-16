@@ -1,16 +1,16 @@
-k.alford	gallery.me.com		archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	gallery.me.com-k.alford.warc.gz	0
-k.alford	homepage.mac.com		archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	homepage.mac.com-k.alford.warc.gz	0
-k.alford	public.me.com		archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	public.me.com-k.alford.warc.gz	0
-k.alford	web.me.com		archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	web.me.com-k.alford.warc.gz	0
-pablolagartos	gallery.me.com		archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	gallery.me.com-pablolagartos.warc.gz	0
-pablolagartos	homepage.mac.com		archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	homepage.mac.com-pablolagartos.warc.gz	0
-pablolagartos	public.me.com		archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	public.me.com-pablolagartos.warc.gz	0
-pablolagartos	web.me.com		archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	web.me.com-pablolagartos.warc.gz	0
-rosstudio	gallery.me.com		archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	gallery.me.com-rosstudio.warc.gz	0
-rosstudio	homepage.mac.com		archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	homepage.mac.com-rosstudio.warc.gz	0
-rosstudio	public.me.com		archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	public.me.com-rosstudio.warc.gz	0
-rosstudio	web.me.com		archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	web.me.com-rosstudio.warc.gz	0
-theryanashford	gallery.me.com		archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	gallery.me.com-theryanashford.warc.gz	0
-theryanashford	homepage.mac.com		archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	homepage.mac.com-theryanashford.warc.gz	0
-theryanashford	public.me.com		archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	public.me.com-theryanashford.warc.gz	0
-theryanashford	web.me.com		archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	web.me.com-theryanashford.warc.gz	0
+k.alford	gallery.me.com	2012-04-10 13:48:01	archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	gallery.me.com-k.alford.warc.gz	1451422326
+k.alford	homepage.mac.com	2012-04-10 13:48:01	archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	homepage.mac.com-k.alford.warc.gz	4906
+k.alford	public.me.com	2012-04-10 13:31:22	archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	public.me.com-k.alford.warc.gz	271843
+k.alford	web.me.com	2012-04-10 13:31:20	archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	web.me.com-k.alford.warc.gz	7372329
+pablolagartos	gallery.me.com	2012-04-10 14:06:51	archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	gallery.me.com-pablolagartos.warc.gz	4266
+pablolagartos	homepage.mac.com	2012-04-10 14:06:53	archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	homepage.mac.com-pablolagartos.warc.gz	53058
+pablolagartos	public.me.com	2012-04-10 14:06:51	archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	public.me.com-pablolagartos.warc.gz	44994
+pablolagartos	web.me.com	2012-04-10 14:06:50	archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	web.me.com-pablolagartos.warc.gz	7435
+rosstudio	gallery.me.com	2012-04-10 14:06:48	archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	gallery.me.com-rosstudio.warc.gz	99352443
+rosstudio	homepage.mac.com	2012-04-10 14:06:48	archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	homepage.mac.com-rosstudio.warc.gz	4900
+rosstudio	public.me.com	2012-04-10 14:03:05	archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	public.me.com-rosstudio.warc.gz	1914
+rosstudio	web.me.com	2012-04-10 14:03:05	archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	web.me.com-rosstudio.warc.gz	20785946
+theryanashford	gallery.me.com	2012-04-10 15:39:24	archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	gallery.me.com-theryanashford.warc.gz	355929085
+theryanashford	homepage.mac.com	2012-04-10 15:39:24	archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	homepage.mac.com-theryanashford.warc.gz	4934
+theryanashford	public.me.com	2012-04-10 15:33:00	archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	public.me.com-theryanashford.warc.gz	35769278
+theryanashford	web.me.com	2012-04-10 15:31:42	archiveteam-mobileme-hero-598x	archiveteam-mobileme-hero-598x-5988.tar	web.me.com-theryanashford.warc.gz	7540438577

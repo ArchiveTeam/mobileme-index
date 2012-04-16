@@ -1,24 +1,24 @@
-amcleish.	gallery.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	gallery.me.com-amcleish..warc.gz	0
-amcleish.	homepage.mac.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	homepage.mac.com-amcleish..warc.gz	0
-amcleish.	public.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	public.me.com-amcleish..warc.gz	0
-amcleish.	web.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	web.me.com-amcleish..warc.gz	0
-drcp	gallery.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	gallery.me.com-drcp.warc.gz	0
-drcp	homepage.mac.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	homepage.mac.com-drcp.warc.gz	0
-drcp	public.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	public.me.com-drcp.warc.gz	0
-drcp	web.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	web.me.com-drcp.warc.gz	0
-richlambert1	gallery.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	gallery.me.com-richlambert1.warc.gz	0
-richlambert1	homepage.mac.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	homepage.mac.com-richlambert1.warc.gz	0
-richlambert1	public.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	public.me.com-richlambert1.warc.gz	0
-richlambert1	web.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	web.me.com-richlambert1.warc.gz	0
-rvande	gallery.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	gallery.me.com-rvande.warc.gz	0
-rvande	homepage.mac.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	homepage.mac.com-rvande.warc.gz	0
-rvande	public.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	public.me.com-rvande.warc.gz	0
-rvande	web.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	web.me.com-rvande.warc.gz	0
-thomas.pollinger	gallery.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	gallery.me.com-thomas.pollinger.warc.gz	0
-thomas.pollinger	homepage.mac.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	homepage.mac.com-thomas.pollinger.warc.gz	0
-thomas.pollinger	public.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	public.me.com-thomas.pollinger.warc.gz	0
-thomas.pollinger	web.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	web.me.com-thomas.pollinger.warc.gz	0
-tylorbelshe	gallery.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	gallery.me.com-tylorbelshe.warc.gz	0
-tylorbelshe	homepage.mac.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	homepage.mac.com-tylorbelshe.warc.gz	0
-tylorbelshe	public.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	public.me.com-tylorbelshe.warc.gz	0
-tylorbelshe	web.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	web.me.com-tylorbelshe.warc.gz	0
+amcleish.	gallery.me.com	2012-04-02 02:09:51	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	gallery.me.com-amcleish..warc.gz	8361
+amcleish.	homepage.mac.com	2012-04-02 02:09:51	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	homepage.mac.com-amcleish..warc.gz	5174
+amcleish.	public.me.com	2012-04-02 02:09:50	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	public.me.com-amcleish..warc.gz	1911
+amcleish.	web.me.com	2012-04-02 02:09:50	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	web.me.com-amcleish..warc.gz	17688
+drcp	gallery.me.com	2012-04-02 00:38:14	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	gallery.me.com-drcp.warc.gz	824940321
+drcp	homepage.mac.com	2012-04-02 00:38:37	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	homepage.mac.com-drcp.warc.gz	728511
+drcp	public.me.com	2012-04-02 00:20:22	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	public.me.com-drcp.warc.gz	3416
+drcp	web.me.com	2012-04-02 00:19:53	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	web.me.com-drcp.warc.gz	1538289368
+richlambert1	gallery.me.com	2012-04-02 00:40:03	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	gallery.me.com-richlambert1.warc.gz	5041
+richlambert1	homepage.mac.com	2012-04-02 00:40:04	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	homepage.mac.com-richlambert1.warc.gz	4933
+richlambert1	public.me.com	2012-04-02 00:40:03	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	public.me.com-richlambert1.warc.gz	1924
+richlambert1	web.me.com	2012-04-02 00:40:02	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	web.me.com-richlambert1.warc.gz	17119320
+rvande	gallery.me.com	2012-04-02 03:37:31	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	gallery.me.com-rvande.warc.gz	1907657797
+rvande	homepage.mac.com	2012-04-02 03:37:31	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	homepage.mac.com-rvande.warc.gz	4891
+rvande	public.me.com	2012-04-02 02:51:30	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	public.me.com-rvande.warc.gz	372167567
+rvande	web.me.com	2012-04-02 02:47:06	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	web.me.com-rvande.warc.gz	664858366
+thomas.pollinger	gallery.me.com	2012-04-02 02:09:49	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	gallery.me.com-thomas.pollinger.warc.gz	730004320
+thomas.pollinger	homepage.mac.com	2012-04-02 02:09:49	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	homepage.mac.com-thomas.pollinger.warc.gz	4929
+thomas.pollinger	public.me.com	2012-04-02 01:45:37	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	public.me.com-thomas.pollinger.warc.gz	1934
+thomas.pollinger	web.me.com	2012-04-02 01:45:19	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	web.me.com-thomas.pollinger.warc.gz	1079671881
+tylorbelshe	gallery.me.com	2012-04-01 23:41:23	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	gallery.me.com-tylorbelshe.warc.gz	5262
+tylorbelshe	homepage.mac.com	2012-04-01 23:44:09	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	homepage.mac.com-tylorbelshe.warc.gz	8182866
+tylorbelshe	public.me.com	2012-04-01 23:41:23	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	public.me.com-tylorbelshe.warc.gz	1924
+tylorbelshe	web.me.com	2012-04-01 23:41:22	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2812.tar	web.me.com-tylorbelshe.warc.gz	10323882

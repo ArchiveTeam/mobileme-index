@@ -1,8 +1,8 @@
-nhs	gallery.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2733.tar	gallery.me.com-nhs.warc.gz	0
-nhs	homepage.mac.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2733.tar	homepage.mac.com-nhs.warc.gz	0
-nhs	public.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2733.tar	public.me.com-nhs.warc.gz	0
-nhs	web.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2733.tar	web.me.com-nhs.warc.gz	0
-wildguitarman3	gallery.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2733.tar	gallery.me.com-wildguitarman3.warc.gz	0
-wildguitarman3	homepage.mac.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2733.tar	homepage.mac.com-wildguitarman3.warc.gz	0
-wildguitarman3	public.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2733.tar	public.me.com-wildguitarman3.warc.gz	0
-wildguitarman3	web.me.com		archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2733.tar	web.me.com-wildguitarman3.warc.gz	0
+nhs	gallery.me.com	2012-04-01 17:26:07	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2733.tar	gallery.me.com-nhs.warc.gz	42422809
+nhs	homepage.mac.com	2012-04-01 17:26:07	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2733.tar	homepage.mac.com-nhs.warc.gz	4898
+nhs	public.me.com	2012-04-01 17:25:34	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2733.tar	public.me.com-nhs.warc.gz	40332645
+nhs	web.me.com	2012-04-01 17:24:43	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2733.tar	web.me.com-nhs.warc.gz	641114
+wildguitarman3	gallery.me.com	2012-04-01 18:42:46	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2733.tar	gallery.me.com-wildguitarman3.warc.gz	4404924259
+wildguitarman3	homepage.mac.com	2012-04-01 18:42:47	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2733.tar	homepage.mac.com-wildguitarman3.warc.gz	4926
+wildguitarman3	public.me.com	2012-04-01 18:22:50	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2733.tar	public.me.com-wildguitarman3.warc.gz	1927
+wildguitarman3	web.me.com	2012-04-01 18:22:15	archiveteam-mobileme-hero-273x	archiveteam-mobileme-hero-273x-2733.tar	web.me.com-wildguitarman3.warc.gz	4655605181

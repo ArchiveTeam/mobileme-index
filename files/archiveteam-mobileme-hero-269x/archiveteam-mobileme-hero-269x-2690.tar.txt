@@ -1,16 +1,16 @@
-edprocter	gallery.me.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	gallery.me.com-edprocter.warc.gz	0
-edprocter	homepage.mac.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	homepage.mac.com-edprocter.warc.gz	0
-edprocter	public.me.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	public.me.com-edprocter.warc.gz	0
-edprocter	web.me.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	web.me.com-edprocter.warc.gz	0
-eeclarkson	gallery.me.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	gallery.me.com-eeclarkson.warc.gz	0
-eeclarkson	homepage.mac.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	homepage.mac.com-eeclarkson.warc.gz	0
-eeclarkson	public.me.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	public.me.com-eeclarkson.warc.gz	0
-eeclarkson	web.me.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	web.me.com-eeclarkson.warc.gz	0
-eoshana	gallery.me.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	gallery.me.com-eoshana.warc.gz	0
-eoshana	homepage.mac.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	homepage.mac.com-eoshana.warc.gz	0
-eoshana	public.me.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	public.me.com-eoshana.warc.gz	0
-eoshana	web.me.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	web.me.com-eoshana.warc.gz	0
-macleanstudio	gallery.me.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	gallery.me.com-macleanstudio.warc.gz	0
-macleanstudio	homepage.mac.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	homepage.mac.com-macleanstudio.warc.gz	0
-macleanstudio	public.me.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	public.me.com-macleanstudio.warc.gz	0
-macleanstudio	web.me.com		archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	web.me.com-macleanstudio.warc.gz	0
+edprocter	gallery.me.com	2012-04-01 13:14:53	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	gallery.me.com-edprocter.warc.gz	400055397
+edprocter	homepage.mac.com	2012-04-01 13:14:53	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	homepage.mac.com-edprocter.warc.gz	4926
+edprocter	public.me.com	2012-04-01 13:06:59	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	public.me.com-edprocter.warc.gz	1915
+edprocter	web.me.com	2012-04-01 13:06:58	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	web.me.com-edprocter.warc.gz	570218389
+eeclarkson	gallery.me.com	2012-04-01 13:17:19	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	gallery.me.com-eeclarkson.warc.gz	49485617
+eeclarkson	homepage.mac.com	2012-04-01 13:17:20	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	homepage.mac.com-eeclarkson.warc.gz	4898
+eeclarkson	public.me.com	2012-04-01 13:16:42	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	public.me.com-eeclarkson.warc.gz	1919
+eeclarkson	web.me.com	2012-04-01 13:16:42	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	web.me.com-eeclarkson.warc.gz	35623126
+eoshana	gallery.me.com	2012-04-01 12:33:28	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	gallery.me.com-eoshana.warc.gz	5439480
+eoshana	homepage.mac.com	2012-04-01 12:33:29	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	homepage.mac.com-eoshana.warc.gz	4897
+eoshana	public.me.com	2012-04-01 12:33:23	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	public.me.com-eoshana.warc.gz	1908
+eoshana	web.me.com	2012-04-01 12:33:23	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	web.me.com-eoshana.warc.gz	19310000
+macleanstudio	gallery.me.com	2012-04-01 14:11:03	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	gallery.me.com-macleanstudio.warc.gz	2378175008
+macleanstudio	homepage.mac.com	2012-04-01 14:11:04	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	homepage.mac.com-macleanstudio.warc.gz	4929
+macleanstudio	public.me.com	2012-04-01 13:48:48	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	public.me.com-macleanstudio.warc.gz	668969497
+macleanstudio	web.me.com	2012-04-01 13:37:35	archiveteam-mobileme-hero-269x	archiveteam-mobileme-hero-269x-2690.tar	web.me.com-macleanstudio.warc.gz	741860645

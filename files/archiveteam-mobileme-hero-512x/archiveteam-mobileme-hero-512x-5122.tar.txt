@@ -1,12 +1,12 @@
-droefie	gallery.me.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	gallery.me.com-droefie.warc.gz	0
-droefie	homepage.mac.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	homepage.mac.com-droefie.warc.gz	0
-droefie	public.me.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	public.me.com-droefie.warc.gz	0
-droefie	web.me.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	web.me.com-droefie.warc.gz	0
-jolieoliver	gallery.me.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	gallery.me.com-jolieoliver.warc.gz	0
-jolieoliver	homepage.mac.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	homepage.mac.com-jolieoliver.warc.gz	0
-jolieoliver	public.me.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	public.me.com-jolieoliver.warc.gz	0
-jolieoliver	web.me.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	web.me.com-jolieoliver.warc.gz	0
-thepetersonhome	gallery.me.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	gallery.me.com-thepetersonhome.warc.gz	0
-thepetersonhome	homepage.mac.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	homepage.mac.com-thepetersonhome.warc.gz	0
-thepetersonhome	public.me.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	public.me.com-thepetersonhome.warc.gz	0
-thepetersonhome	web.me.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	web.me.com-thepetersonhome.warc.gz	0
+droefie	gallery.me.com	2012-04-08 04:58:01	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	gallery.me.com-droefie.warc.gz	329175744
+droefie	homepage.mac.com	2012-04-08 04:58:01	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	homepage.mac.com-droefie.warc.gz	4884
+droefie	public.me.com	2012-04-08 04:55:39	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	public.me.com-droefie.warc.gz	1909
+droefie	web.me.com	2012-04-08 04:55:38	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	web.me.com-droefie.warc.gz	67372442
+jolieoliver	gallery.me.com	2012-04-08 04:39:29	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	gallery.me.com-jolieoliver.warc.gz	2405249486
+jolieoliver	homepage.mac.com	2012-04-08 04:39:29	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	homepage.mac.com-jolieoliver.warc.gz	4910
+jolieoliver	public.me.com	2012-04-08 03:58:31	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	public.me.com-jolieoliver.warc.gz	832346207
+jolieoliver	web.me.com	2012-04-08 03:44:18	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	web.me.com-jolieoliver.warc.gz	218365703
+thepetersonhome	gallery.me.com	2012-04-08 04:50:53	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	gallery.me.com-thepetersonhome.warc.gz	329997019
+thepetersonhome	homepage.mac.com	2012-04-08 04:50:53	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	homepage.mac.com-thepetersonhome.warc.gz	4922
+thepetersonhome	public.me.com	2012-04-08 04:45:47	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	public.me.com-thepetersonhome.warc.gz	1931
+thepetersonhome	web.me.com	2012-04-08 04:45:47	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5122.tar	web.me.com-thepetersonhome.warc.gz	116991144

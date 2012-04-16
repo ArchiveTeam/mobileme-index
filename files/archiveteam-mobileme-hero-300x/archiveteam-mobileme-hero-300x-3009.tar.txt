@@ -1,16 +1,16 @@
-michelemanganaro	gallery.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	gallery.me.com-michelemanganaro.warc.gz	0
-michelemanganaro	homepage.mac.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	homepage.mac.com-michelemanganaro.warc.gz	0
-michelemanganaro	public.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	public.me.com-michelemanganaro.warc.gz	0
-michelemanganaro	web.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	web.me.com-michelemanganaro.warc.gz	0
-mlanger	gallery.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	gallery.me.com-mlanger.warc.gz	0
-mlanger	homepage.mac.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	homepage.mac.com-mlanger.warc.gz	0
-mlanger	public.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	public.me.com-mlanger.warc.gz	0
-mlanger	web.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	web.me.com-mlanger.warc.gz	0
-richardcstokes	gallery.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	gallery.me.com-richardcstokes.warc.gz	0
-richardcstokes	homepage.mac.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	homepage.mac.com-richardcstokes.warc.gz	0
-richardcstokes	public.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	public.me.com-richardcstokes.warc.gz	0
-richardcstokes	web.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	web.me.com-richardcstokes.warc.gz	0
-robertweisz	gallery.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	gallery.me.com-robertweisz.warc.gz	0
-robertweisz	homepage.mac.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	homepage.mac.com-robertweisz.warc.gz	0
-robertweisz	public.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	public.me.com-robertweisz.warc.gz	0
-robertweisz	web.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	web.me.com-robertweisz.warc.gz	0
+michelemanganaro	gallery.me.com	2012-04-02 12:49:58	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	gallery.me.com-michelemanganaro.warc.gz	8368
+michelemanganaro	homepage.mac.com	2012-04-02 12:49:58	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	homepage.mac.com-michelemanganaro.warc.gz	5207
+michelemanganaro	public.me.com	2012-04-02 12:49:58	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	public.me.com-michelemanganaro.warc.gz	1926
+michelemanganaro	web.me.com	2012-04-02 12:49:57	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	web.me.com-michelemanganaro.warc.gz	17764
+mlanger	gallery.me.com	2012-04-02 12:49:56	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	gallery.me.com-mlanger.warc.gz	370515082
+mlanger	homepage.mac.com	2012-04-02 12:49:56	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	homepage.mac.com-mlanger.warc.gz	4903
+mlanger	public.me.com	2012-04-02 12:46:54	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	public.me.com-mlanger.warc.gz	31561363
+mlanger	web.me.com	2012-04-02 12:46:14	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	web.me.com-mlanger.warc.gz	2336310
+richardcstokes	gallery.me.com	2012-04-02 15:52:57	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	gallery.me.com-richardcstokes.warc.gz	511361225
+richardcstokes	homepage.mac.com	2012-04-02 15:52:58	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	homepage.mac.com-richardcstokes.warc.gz	4944
+richardcstokes	public.me.com	2012-04-02 15:29:50	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	public.me.com-richardcstokes.warc.gz	7870644747
+richardcstokes	web.me.com	2012-04-02 13:27:53	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	web.me.com-richardcstokes.warc.gz	605005373
+robertweisz	gallery.me.com	2012-04-02 12:45:53	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	gallery.me.com-robertweisz.warc.gz	4291
+robertweisz	homepage.mac.com	2012-04-02 12:45:53	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	homepage.mac.com-robertweisz.warc.gz	4909
+robertweisz	public.me.com	2012-04-02 12:45:52	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	public.me.com-robertweisz.warc.gz	1922
+robertweisz	web.me.com	2012-04-02 12:45:51	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3009.tar	web.me.com-robertweisz.warc.gz	7433

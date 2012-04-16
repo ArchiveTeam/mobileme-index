@@ -1,8 +1,8 @@
-mchd	gallery.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4607.tar	gallery.me.com-mchd.warc.gz	0
-mchd	homepage.mac.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4607.tar	homepage.mac.com-mchd.warc.gz	0
-mchd	public.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4607.tar	public.me.com-mchd.warc.gz	0
-mchd	web.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4607.tar	web.me.com-mchd.warc.gz	0
-thecannons	gallery.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4607.tar	gallery.me.com-thecannons.warc.gz	0
-thecannons	homepage.mac.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4607.tar	homepage.mac.com-thecannons.warc.gz	0
-thecannons	public.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4607.tar	public.me.com-thecannons.warc.gz	0
-thecannons	web.me.com		archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4607.tar	web.me.com-thecannons.warc.gz	0
+mchd	gallery.me.com	2012-04-06 09:58:00	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4607.tar	gallery.me.com-mchd.warc.gz	3978631243
+mchd	homepage.mac.com	2012-04-06 09:58:00	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4607.tar	homepage.mac.com-mchd.warc.gz	4905
+mchd	public.me.com	2012-04-06 08:18:56	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4607.tar	public.me.com-mchd.warc.gz	1910
+mchd	web.me.com	2012-04-06 08:18:55	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4607.tar	web.me.com-mchd.warc.gz	79289925
+thecannons	gallery.me.com	2012-04-06 10:33:20	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4607.tar	gallery.me.com-thecannons.warc.gz	706457953
+thecannons	homepage.mac.com	2012-04-06 10:33:34	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4607.tar	homepage.mac.com-thecannons.warc.gz	235978
+thecannons	public.me.com	2012-04-06 10:19:57	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4607.tar	public.me.com-thecannons.warc.gz	1915
+thecannons	web.me.com	2012-04-06 10:19:56	archiveteam-mobileme-hero-460x	archiveteam-mobileme-hero-460x-4607.tar	web.me.com-thecannons.warc.gz	609222879

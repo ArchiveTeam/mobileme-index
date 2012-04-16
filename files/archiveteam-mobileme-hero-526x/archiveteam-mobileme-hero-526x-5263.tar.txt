@@ -1,16 +1,16 @@
-bmckenney	gallery.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	gallery.me.com-bmckenney.warc.gz	0
-bmckenney	homepage.mac.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	homepage.mac.com-bmckenney.warc.gz	0
-bmckenney	public.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	public.me.com-bmckenney.warc.gz	0
-bmckenney	web.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	web.me.com-bmckenney.warc.gz	0
-dnarter	gallery.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	gallery.me.com-dnarter.warc.gz	0
-dnarter	homepage.mac.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	homepage.mac.com-dnarter.warc.gz	0
-dnarter	public.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	public.me.com-dnarter.warc.gz	0
-dnarter	web.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	web.me.com-dnarter.warc.gz	0
-stiged	gallery.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	gallery.me.com-stiged.warc.gz	0
-stiged	homepage.mac.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	homepage.mac.com-stiged.warc.gz	0
-stiged	public.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	public.me.com-stiged.warc.gz	0
-stiged	web.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	web.me.com-stiged.warc.gz	0
-weidon	gallery.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	gallery.me.com-weidon.warc.gz	0
-weidon	homepage.mac.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	homepage.mac.com-weidon.warc.gz	0
-weidon	public.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	public.me.com-weidon.warc.gz	0
-weidon	web.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	web.me.com-weidon.warc.gz	0
+bmckenney	gallery.me.com	2012-04-09 00:47:25	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	gallery.me.com-bmckenney.warc.gz	1049812440
+bmckenney	homepage.mac.com	2012-04-09 00:47:39	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	homepage.mac.com-bmckenney.warc.gz	105673
+bmckenney	public.me.com	2012-04-09 00:25:25	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	public.me.com-bmckenney.warc.gz	219135851
+bmckenney	web.me.com	2012-04-09 00:17:26	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	web.me.com-bmckenney.warc.gz	3862883206
+dnarter	gallery.me.com	2012-04-08 22:14:05	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	gallery.me.com-dnarter.warc.gz	795574770
+dnarter	homepage.mac.com	2012-04-08 22:14:06	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	homepage.mac.com-dnarter.warc.gz	4899
+dnarter	public.me.com	2012-04-08 22:08:28	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	public.me.com-dnarter.warc.gz	1913
+dnarter	web.me.com	2012-04-08 22:08:27	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	web.me.com-dnarter.warc.gz	633546538
+stiged	gallery.me.com	2012-04-08 22:34:30	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	gallery.me.com-stiged.warc.gz	4271
+stiged	homepage.mac.com	2012-04-08 22:34:30	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	homepage.mac.com-stiged.warc.gz	4895
+stiged	public.me.com	2012-04-08 22:34:28	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	public.me.com-stiged.warc.gz	1911
+stiged	web.me.com	2012-04-08 22:34:28	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	web.me.com-stiged.warc.gz	21683997
+weidon	gallery.me.com	2012-04-08 22:26:08	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	gallery.me.com-weidon.warc.gz	4269
+weidon	homepage.mac.com	2012-04-08 22:26:12	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	homepage.mac.com-weidon.warc.gz	4883
+weidon	public.me.com	2012-04-08 22:26:07	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	public.me.com-weidon.warc.gz	1915
+weidon	web.me.com	2012-04-08 22:26:07	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5263.tar	web.me.com-weidon.warc.gz	11607546

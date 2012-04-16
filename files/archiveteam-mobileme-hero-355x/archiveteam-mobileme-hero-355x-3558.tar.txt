@@ -1,24 +1,24 @@
-h_dupras	gallery.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	gallery.me.com-h_dupras.warc.gz	0
-h_dupras	homepage.mac.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	homepage.mac.com-h_dupras.warc.gz	0
-h_dupras	public.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	public.me.com-h_dupras.warc.gz	0
-h_dupras	web.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	web.me.com-h_dupras.warc.gz	0
-pmartel	gallery.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	gallery.me.com-pmartel.warc.gz	0
-pmartel	homepage.mac.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	homepage.mac.com-pmartel.warc.gz	0
-pmartel	public.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	public.me.com-pmartel.warc.gz	0
-pmartel	web.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	web.me.com-pmartel.warc.gz	0
-rickpalin	gallery.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	gallery.me.com-rickpalin.warc.gz	0
-rickpalin	homepage.mac.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	homepage.mac.com-rickpalin.warc.gz	0
-rickpalin	public.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	public.me.com-rickpalin.warc.gz	0
-rickpalin	web.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	web.me.com-rickpalin.warc.gz	0
-semcc23	gallery.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	gallery.me.com-semcc23.warc.gz	0
-semcc23	homepage.mac.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	homepage.mac.com-semcc23.warc.gz	0
-semcc23	public.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	public.me.com-semcc23.warc.gz	0
-semcc23	web.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	web.me.com-semcc23.warc.gz	0
-sonicmandesign	gallery.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	gallery.me.com-sonicmandesign.warc.gz	0
-sonicmandesign	homepage.mac.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	homepage.mac.com-sonicmandesign.warc.gz	0
-sonicmandesign	public.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	public.me.com-sonicmandesign.warc.gz	0
-sonicmandesign	web.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	web.me.com-sonicmandesign.warc.gz	0
-usubakagerou	gallery.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	gallery.me.com-usubakagerou.warc.gz	0
-usubakagerou	homepage.mac.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	homepage.mac.com-usubakagerou.warc.gz	0
-usubakagerou	public.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	public.me.com-usubakagerou.warc.gz	0
-usubakagerou	web.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	web.me.com-usubakagerou.warc.gz	0
+h_dupras	gallery.me.com	2012-04-03 15:20:29	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	gallery.me.com-h_dupras.warc.gz	987734079
+h_dupras	homepage.mac.com	2012-04-03 15:20:29	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	homepage.mac.com-h_dupras.warc.gz	4919
+h_dupras	public.me.com	2012-04-03 15:07:35	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	public.me.com-h_dupras.warc.gz	15412
+h_dupras	web.me.com	2012-04-03 15:07:33	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	web.me.com-h_dupras.warc.gz	309565831
+pmartel	gallery.me.com	2012-04-03 15:00:45	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	gallery.me.com-pmartel.warc.gz	203675246
+pmartel	homepage.mac.com	2012-04-03 15:00:52	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	homepage.mac.com-pmartel.warc.gz	121262
+pmartel	public.me.com	2012-04-03 14:59:11	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	public.me.com-pmartel.warc.gz	576612458
+pmartel	web.me.com	2012-04-03 14:44:24	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	web.me.com-pmartel.warc.gz	466608
+rickpalin	gallery.me.com	2012-04-03 14:12:38	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	gallery.me.com-rickpalin.warc.gz	389776223
+rickpalin	homepage.mac.com	2012-04-03 14:12:38	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	homepage.mac.com-rickpalin.warc.gz	4918
+rickpalin	public.me.com	2012-04-03 14:08:57	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	public.me.com-rickpalin.warc.gz	1919
+rickpalin	web.me.com	2012-04-03 14:08:48	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	web.me.com-rickpalin.warc.gz	614398937
+semcc23	gallery.me.com	2012-04-03 21:06:06	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	gallery.me.com-semcc23.warc.gz	4905371720
+semcc23	homepage.mac.com	2012-04-03 21:06:07	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	homepage.mac.com-semcc23.warc.gz	4917
+semcc23	public.me.com	2012-04-03 19:58:28	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	public.me.com-semcc23.warc.gz	1914
+semcc23	web.me.com	2012-04-03 19:50:56	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	web.me.com-semcc23.warc.gz	2974949444
+sonicmandesign	gallery.me.com	2012-04-03 14:21:04	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	gallery.me.com-sonicmandesign.warc.gz	180770566
+sonicmandesign	homepage.mac.com	2012-04-03 14:21:04	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	homepage.mac.com-sonicmandesign.warc.gz	4917
+sonicmandesign	public.me.com	2012-04-03 14:16:59	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	public.me.com-sonicmandesign.warc.gz	4670
+sonicmandesign	web.me.com	2012-04-03 14:16:58	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	web.me.com-sonicmandesign.warc.gz	20149189
+usubakagerou	gallery.me.com	2012-04-03 15:20:31	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	gallery.me.com-usubakagerou.warc.gz	8366
+usubakagerou	homepage.mac.com	2012-04-03 15:20:31	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	homepage.mac.com-usubakagerou.warc.gz	5186
+usubakagerou	public.me.com	2012-04-03 15:20:31	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	public.me.com-usubakagerou.warc.gz	1921
+usubakagerou	web.me.com	2012-04-03 15:20:30	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3558.tar	web.me.com-usubakagerou.warc.gz	17726

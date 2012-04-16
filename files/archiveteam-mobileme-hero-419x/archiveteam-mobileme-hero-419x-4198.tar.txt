@@ -1,16 +1,16 @@
-danielmelki	gallery.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	gallery.me.com-danielmelki.warc.gz	0
-danielmelki	homepage.mac.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	homepage.mac.com-danielmelki.warc.gz	0
-danielmelki	public.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	public.me.com-danielmelki.warc.gz	0
-danielmelki	web.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	web.me.com-danielmelki.warc.gz	0
-ferragina	gallery.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	gallery.me.com-ferragina.warc.gz	0
-ferragina	homepage.mac.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	homepage.mac.com-ferragina.warc.gz	0
-ferragina	public.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	public.me.com-ferragina.warc.gz	0
-ferragina	web.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	web.me.com-ferragina.warc.gz	0
-jgraphic	gallery.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	gallery.me.com-jgraphic.warc.gz	0
-jgraphic	homepage.mac.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	homepage.mac.com-jgraphic.warc.gz	0
-jgraphic	public.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	public.me.com-jgraphic.warc.gz	0
-jgraphic	web.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	web.me.com-jgraphic.warc.gz	0
-kal	gallery.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	gallery.me.com-kal.warc.gz	0
-kal	homepage.mac.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	homepage.mac.com-kal.warc.gz	0
-kal	public.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	public.me.com-kal.warc.gz	0
-kal	web.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	web.me.com-kal.warc.gz	0
+danielmelki	gallery.me.com	2012-04-05 00:59:35	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	gallery.me.com-danielmelki.warc.gz	1266004
+danielmelki	homepage.mac.com	2012-04-05 00:59:35	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	homepage.mac.com-danielmelki.warc.gz	4920
+danielmelki	public.me.com	2012-04-05 00:59:29	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	public.me.com-danielmelki.warc.gz	1922
+danielmelki	web.me.com	2012-04-05 00:59:28	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	web.me.com-danielmelki.warc.gz	1382751
+ferragina	gallery.me.com	2012-04-05 01:21:38	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	gallery.me.com-ferragina.warc.gz	5128
+ferragina	homepage.mac.com	2012-04-05 01:21:39	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	homepage.mac.com-ferragina.warc.gz	4901
+ferragina	public.me.com	2012-04-05 01:21:37	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	public.me.com-ferragina.warc.gz	4472
+ferragina	web.me.com	2012-04-05 01:21:34	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	web.me.com-ferragina.warc.gz	228641284
+jgraphic	gallery.me.com	2012-04-05 01:21:43	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	gallery.me.com-jgraphic.warc.gz	8334
+jgraphic	homepage.mac.com	2012-04-05 01:21:43	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	homepage.mac.com-jgraphic.warc.gz	5152
+jgraphic	public.me.com	2012-04-05 01:21:42	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	public.me.com-jgraphic.warc.gz	1922
+jgraphic	web.me.com	2012-04-05 01:21:42	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	web.me.com-jgraphic.warc.gz	17700
+kal	gallery.me.com	2012-04-05 09:53:09	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	gallery.me.com-kal.warc.gz	6702939708
+kal	homepage.mac.com	2012-04-05 09:53:09	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	homepage.mac.com-kal.warc.gz	4885
+kal	public.me.com	2012-04-05 04:21:44	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	public.me.com-kal.warc.gz	5312161
+kal	web.me.com	2012-04-05 04:21:17	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4198.tar	web.me.com-kal.warc.gz	2751402337

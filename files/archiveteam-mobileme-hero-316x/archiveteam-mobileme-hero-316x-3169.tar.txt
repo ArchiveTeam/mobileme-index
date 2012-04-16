@@ -1,16 +1,16 @@
-edwincassidy	gallery.me.com		archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	gallery.me.com-edwincassidy.warc.gz	0
-edwincassidy	homepage.mac.com		archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	homepage.mac.com-edwincassidy.warc.gz	0
-edwincassidy	public.me.com		archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	public.me.com-edwincassidy.warc.gz	0
-edwincassidy	web.me.com		archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	web.me.com-edwincassidy.warc.gz	0
-j.oesch	gallery.me.com		archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	gallery.me.com-j.oesch.warc.gz	0
-j.oesch	homepage.mac.com		archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	homepage.mac.com-j.oesch.warc.gz	0
-j.oesch	public.me.com		archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	public.me.com-j.oesch.warc.gz	0
-j.oesch	web.me.com		archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	web.me.com-j.oesch.warc.gz	0
-maryecawley	gallery.me.com		archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	gallery.me.com-maryecawley.warc.gz	0
-maryecawley	homepage.mac.com		archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	homepage.mac.com-maryecawley.warc.gz	0
-maryecawley	public.me.com		archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	public.me.com-maryecawley.warc.gz	0
-maryecawley	web.me.com		archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	web.me.com-maryecawley.warc.gz	0
-mcfarland.03	gallery.me.com		archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	gallery.me.com-mcfarland.03.warc.gz	0
-mcfarland.03	homepage.mac.com		archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	homepage.mac.com-mcfarland.03.warc.gz	0
-mcfarland.03	public.me.com		archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	public.me.com-mcfarland.03.warc.gz	0
-mcfarland.03	web.me.com		archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	web.me.com-mcfarland.03.warc.gz	0
+edwincassidy	gallery.me.com	2012-04-02 23:34:16	archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	gallery.me.com-edwincassidy.warc.gz	564394350
+edwincassidy	homepage.mac.com	2012-04-02 23:35:13	archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	homepage.mac.com-edwincassidy.warc.gz	1505311
+edwincassidy	public.me.com	2012-04-02 23:19:12	archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	public.me.com-edwincassidy.warc.gz	4001989
+edwincassidy	web.me.com	2012-04-02 23:19:08	archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	web.me.com-edwincassidy.warc.gz	104019552
+j.oesch	gallery.me.com	2012-04-02 23:05:00	archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	gallery.me.com-j.oesch.warc.gz	5706
+j.oesch	homepage.mac.com	2012-04-02 23:05:01	archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	homepage.mac.com-j.oesch.warc.gz	4913
+j.oesch	public.me.com	2012-04-02 23:05:00	archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	public.me.com-j.oesch.warc.gz	1905
+j.oesch	web.me.com	2012-04-02 23:04:59	archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	web.me.com-j.oesch.warc.gz	76975475
+maryecawley	gallery.me.com	2012-04-03 00:18:25	archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	gallery.me.com-maryecawley.warc.gz	3064888950
+maryecawley	homepage.mac.com	2012-04-03 00:18:25	archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	homepage.mac.com-maryecawley.warc.gz	4934
+maryecawley	public.me.com	2012-04-02 23:52:33	archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	public.me.com-maryecawley.warc.gz	1929
+maryecawley	web.me.com	2012-04-02 23:52:05	archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	web.me.com-maryecawley.warc.gz	374035761
+mcfarland.03	gallery.me.com	2012-04-02 23:00:59	archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	gallery.me.com-mcfarland.03.warc.gz	113823757
+mcfarland.03	homepage.mac.com	2012-04-02 23:00:59	archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	homepage.mac.com-mcfarland.03.warc.gz	4928
+mcfarland.03	public.me.com	2012-04-02 22:59:03	archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	public.me.com-mcfarland.03.warc.gz	1926
+mcfarland.03	web.me.com	2012-04-02 22:59:03	archiveteam-mobileme-hero-316x	archiveteam-mobileme-hero-316x-3169.tar	web.me.com-mcfarland.03.warc.gz	120857298

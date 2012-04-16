@@ -1,12 +1,12 @@
-france_bulgarie	gallery.me.com		archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	gallery.me.com-france_bulgarie.warc.gz	0
-france_bulgarie	homepage.mac.com		archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	homepage.mac.com-france_bulgarie.warc.gz	0
-france_bulgarie	public.me.com		archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	public.me.com-france_bulgarie.warc.gz	0
-france_bulgarie	web.me.com		archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	web.me.com-france_bulgarie.warc.gz	0
-j2cole	gallery.me.com		archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	gallery.me.com-j2cole.warc.gz	0
-j2cole	homepage.mac.com		archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	homepage.mac.com-j2cole.warc.gz	0
-j2cole	public.me.com		archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	public.me.com-j2cole.warc.gz	0
-j2cole	web.me.com		archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	web.me.com-j2cole.warc.gz	0
-timeitself	gallery.me.com		archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	gallery.me.com-timeitself.warc.gz	0
-timeitself	homepage.mac.com		archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	homepage.mac.com-timeitself.warc.gz	0
-timeitself	public.me.com		archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	public.me.com-timeitself.warc.gz	0
-timeitself	web.me.com		archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	web.me.com-timeitself.warc.gz	0
+france_bulgarie	gallery.me.com	2012-04-13 09:17:02	archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	gallery.me.com-france_bulgarie.warc.gz	8383
+france_bulgarie	homepage.mac.com	2012-04-13 09:17:02	archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	homepage.mac.com-france_bulgarie.warc.gz	5209
+france_bulgarie	public.me.com	2012-04-13 09:17:01	archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	public.me.com-france_bulgarie.warc.gz	1933
+france_bulgarie	web.me.com	2012-04-13 09:17:01	archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	web.me.com-france_bulgarie.warc.gz	17807
+j2cole	gallery.me.com	2012-04-13 11:43:42	archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	gallery.me.com-j2cole.warc.gz	1821756405
+j2cole	homepage.mac.com	2012-04-13 11:43:45	archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	homepage.mac.com-j2cole.warc.gz	116293
+j2cole	public.me.com	2012-04-13 11:10:08	archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	public.me.com-j2cole.warc.gz	537811993
+j2cole	web.me.com	2012-04-13 10:51:58	archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	web.me.com-j2cole.warc.gz	2343319039
+timeitself	gallery.me.com	2012-04-13 09:33:12	archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	gallery.me.com-timeitself.warc.gz	178748881
+timeitself	homepage.mac.com	2012-04-13 09:33:12	archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	homepage.mac.com-timeitself.warc.gz	4918
+timeitself	public.me.com	2012-04-13 09:29:33	archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	public.me.com-timeitself.warc.gz	1922
+timeitself	web.me.com	2012-04-13 09:29:32	archiveteam-mobileme-hero-728x	archiveteam-mobileme-hero-728x-7289.tar	web.me.com-timeitself.warc.gz	151467133

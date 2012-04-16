@@ -1,20 +1,20 @@
-delaix	gallery.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	gallery.me.com-delaix.warc.gz	0
-delaix	homepage.mac.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	homepage.mac.com-delaix.warc.gz	0
-delaix	public.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	public.me.com-delaix.warc.gz	0
-delaix	web.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	web.me.com-delaix.warc.gz	0
-eweinbrecht	gallery.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	gallery.me.com-eweinbrecht.warc.gz	0
-eweinbrecht	homepage.mac.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	homepage.mac.com-eweinbrecht.warc.gz	0
-eweinbrecht	public.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	public.me.com-eweinbrecht.warc.gz	0
-eweinbrecht	web.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	web.me.com-eweinbrecht.warc.gz	0
-jakesrodshop	gallery.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	gallery.me.com-jakesrodshop.warc.gz	0
-jakesrodshop	homepage.mac.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	homepage.mac.com-jakesrodshop.warc.gz	0
-jakesrodshop	public.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	public.me.com-jakesrodshop.warc.gz	0
-jakesrodshop	web.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	web.me.com-jakesrodshop.warc.gz	0
-mrjoshbecker	gallery.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	gallery.me.com-mrjoshbecker.warc.gz	0
-mrjoshbecker	homepage.mac.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	homepage.mac.com-mrjoshbecker.warc.gz	0
-mrjoshbecker	public.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	public.me.com-mrjoshbecker.warc.gz	0
-mrjoshbecker	web.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	web.me.com-mrjoshbecker.warc.gz	0
-tomfh	gallery.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	gallery.me.com-tomfh.warc.gz	0
-tomfh	homepage.mac.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	homepage.mac.com-tomfh.warc.gz	0
-tomfh	public.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	public.me.com-tomfh.warc.gz	0
-tomfh	web.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	web.me.com-tomfh.warc.gz	0
+delaix	gallery.me.com	2012-04-03 08:04:24	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	gallery.me.com-delaix.warc.gz	184055021
+delaix	homepage.mac.com	2012-04-03 08:04:30	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	homepage.mac.com-delaix.warc.gz	113082
+delaix	public.me.com	2012-04-03 07:58:37	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	public.me.com-delaix.warc.gz	156788129
+delaix	web.me.com	2012-04-03 07:55:08	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	web.me.com-delaix.warc.gz	5754865
+eweinbrecht	gallery.me.com	2012-04-03 10:17:10	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	gallery.me.com-eweinbrecht.warc.gz	2140384
+eweinbrecht	homepage.mac.com	2012-04-03 10:17:10	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	homepage.mac.com-eweinbrecht.warc.gz	4926
+eweinbrecht	public.me.com	2012-04-03 10:17:06	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	public.me.com-eweinbrecht.warc.gz	4280725140
+eweinbrecht	web.me.com	2012-04-03 08:52:29	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	web.me.com-eweinbrecht.warc.gz	1831075
+jakesrodshop	gallery.me.com	2012-04-03 08:51:51	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	gallery.me.com-jakesrodshop.warc.gz	228747030
+jakesrodshop	homepage.mac.com	2012-04-03 08:51:51	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	homepage.mac.com-jakesrodshop.warc.gz	4935
+jakesrodshop	public.me.com	2012-04-03 08:42:29	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	public.me.com-jakesrodshop.warc.gz	1929
+jakesrodshop	web.me.com	2012-04-03 08:42:29	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	web.me.com-jakesrodshop.warc.gz	136874827
+mrjoshbecker	gallery.me.com	2012-04-03 07:53:28	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	gallery.me.com-mrjoshbecker.warc.gz	12346
+mrjoshbecker	homepage.mac.com	2012-04-03 07:53:28	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	homepage.mac.com-mrjoshbecker.warc.gz	7159
+mrjoshbecker	public.me.com	2012-04-03 07:53:27	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	public.me.com-mrjoshbecker.warc.gz	1930
+mrjoshbecker	web.me.com	2012-04-03 07:53:26	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	web.me.com-mrjoshbecker.warc.gz	22531
+tomfh	gallery.me.com	2012-04-03 08:17:59	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	gallery.me.com-tomfh.warc.gz	195058
+tomfh	homepage.mac.com	2012-04-03 08:17:59	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	homepage.mac.com-tomfh.warc.gz	4904
+tomfh	public.me.com	2012-04-03 08:17:58	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	public.me.com-tomfh.warc.gz	1910
+tomfh	web.me.com	2012-04-03 08:17:57	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3369.tar	web.me.com-tomfh.warc.gz	77995724

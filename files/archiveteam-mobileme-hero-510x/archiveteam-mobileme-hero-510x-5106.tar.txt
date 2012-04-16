@@ -1,16 +1,16 @@
-maxey	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	gallery.me.com-maxey.warc.gz	0
-maxey	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	homepage.mac.com-maxey.warc.gz	0
-maxey	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	public.me.com-maxey.warc.gz	0
-maxey	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	web.me.com-maxey.warc.gz	0
-mikeetjo	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	gallery.me.com-mikeetjo.warc.gz	0
-mikeetjo	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	homepage.mac.com-mikeetjo.warc.gz	0
-mikeetjo	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	public.me.com-mikeetjo.warc.gz	0
-mikeetjo	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	web.me.com-mikeetjo.warc.gz	0
-nakamichi	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	gallery.me.com-nakamichi.warc.gz	0
-nakamichi	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	homepage.mac.com-nakamichi.warc.gz	0
-nakamichi	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	public.me.com-nakamichi.warc.gz	0
-nakamichi	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	web.me.com-nakamichi.warc.gz	0
-sban	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	gallery.me.com-sban.warc.gz	0
-sban	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	homepage.mac.com-sban.warc.gz	0
-sban	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	public.me.com-sban.warc.gz	0
-sban	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	web.me.com-sban.warc.gz	0
+maxey	gallery.me.com	2012-04-08 02:14:07	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	gallery.me.com-maxey.warc.gz	4221
+maxey	homepage.mac.com	2012-04-08 02:14:07	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	homepage.mac.com-maxey.warc.gz	4895
+maxey	public.me.com	2012-04-08 02:14:05	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	public.me.com-maxey.warc.gz	1911
+maxey	web.me.com	2012-04-08 02:14:02	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	web.me.com-maxey.warc.gz	2998208391
+mikeetjo	gallery.me.com	2012-04-08 03:41:10	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	gallery.me.com-mikeetjo.warc.gz	12347
+mikeetjo	homepage.mac.com	2012-04-08 03:41:12	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	homepage.mac.com-mikeetjo.warc.gz	7158
+mikeetjo	public.me.com	2012-04-08 03:41:07	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	public.me.com-mikeetjo.warc.gz	1926
+mikeetjo	web.me.com	2012-04-08 03:41:06	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	web.me.com-mikeetjo.warc.gz	22529
+nakamichi	gallery.me.com	2012-04-08 03:40:57	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	gallery.me.com-nakamichi.warc.gz	25848952
+nakamichi	homepage.mac.com	2012-04-08 03:40:58	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	homepage.mac.com-nakamichi.warc.gz	4920
+nakamichi	public.me.com	2012-04-08 03:39:21	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	public.me.com-nakamichi.warc.gz	1920
+nakamichi	web.me.com	2012-04-08 03:38:59	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	web.me.com-nakamichi.warc.gz	1199890757
+sban	gallery.me.com	2012-04-08 04:07:14	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	gallery.me.com-sban.warc.gz	217987748
+sban	homepage.mac.com	2012-04-08 04:07:17	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	homepage.mac.com-sban.warc.gz	4875
+sban	public.me.com	2012-04-08 03:48:04	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	public.me.com-sban.warc.gz	10103895
+sban	web.me.com	2012-04-08 03:47:02	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5106.tar	web.me.com-sban.warc.gz	12714687

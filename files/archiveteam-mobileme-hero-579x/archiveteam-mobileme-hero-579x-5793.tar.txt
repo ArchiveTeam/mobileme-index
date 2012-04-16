@@ -1,12 +1,12 @@
-eye.for.ink	gallery.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	gallery.me.com-eye.for.ink.warc.gz	0
-eye.for.ink	homepage.mac.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	homepage.mac.com-eye.for.ink.warc.gz	0
-eye.for.ink	public.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	public.me.com-eye.for.ink.warc.gz	0
-eye.for.ink	web.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	web.me.com-eye.for.ink.warc.gz	0
-jvirata	gallery.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	gallery.me.com-jvirata.warc.gz	0
-jvirata	homepage.mac.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	homepage.mac.com-jvirata.warc.gz	0
-jvirata	public.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	public.me.com-jvirata.warc.gz	0
-jvirata	web.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	web.me.com-jvirata.warc.gz	0
-shawnwalden	gallery.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	gallery.me.com-shawnwalden.warc.gz	0
-shawnwalden	homepage.mac.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	homepage.mac.com-shawnwalden.warc.gz	0
-shawnwalden	public.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	public.me.com-shawnwalden.warc.gz	0
-shawnwalden	web.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	web.me.com-shawnwalden.warc.gz	0
+eye.for.ink	gallery.me.com	2012-04-10 04:29:28	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	gallery.me.com-eye.for.ink.warc.gz	4289
+eye.for.ink	homepage.mac.com	2012-04-10 04:29:31	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	homepage.mac.com-eye.for.ink.warc.gz	4922
+eye.for.ink	public.me.com	2012-04-10 04:29:27	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	public.me.com-eye.for.ink.warc.gz	1926
+eye.for.ink	web.me.com	2012-04-10 04:29:27	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	web.me.com-eye.for.ink.warc.gz	6019859
+jvirata	gallery.me.com	2012-04-10 04:27:37	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	gallery.me.com-jvirata.warc.gz	6075
+jvirata	homepage.mac.com	2012-04-10 04:27:45	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	homepage.mac.com-jvirata.warc.gz	234703
+jvirata	public.me.com	2012-04-10 04:27:36	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	public.me.com-jvirata.warc.gz	373204234
+jvirata	web.me.com	2012-04-10 04:19:47	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	web.me.com-jvirata.warc.gz	60569
+shawnwalden	gallery.me.com	2012-04-10 05:50:21	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	gallery.me.com-shawnwalden.warc.gz	1235967268
+shawnwalden	homepage.mac.com	2012-04-10 05:50:23	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	homepage.mac.com-shawnwalden.warc.gz	36915
+shawnwalden	public.me.com	2012-04-10 05:20:28	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	public.me.com-shawnwalden.warc.gz	3200386324
+shawnwalden	web.me.com	2012-04-10 04:45:47	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5793.tar	web.me.com-shawnwalden.warc.gz	747924321

@@ -1,8 +1,8 @@
-kguy	gallery.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3287.tar	gallery.me.com-kguy.warc.gz	0
-kguy	homepage.mac.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3287.tar	homepage.mac.com-kguy.warc.gz	0
-kguy	public.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3287.tar	public.me.com-kguy.warc.gz	0
-kguy	web.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3287.tar	web.me.com-kguy.warc.gz	0
-spengler	gallery.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3287.tar	gallery.me.com-spengler.warc.gz	0
-spengler	homepage.mac.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3287.tar	homepage.mac.com-spengler.warc.gz	0
-spengler	public.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3287.tar	public.me.com-spengler.warc.gz	0
-spengler	web.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3287.tar	web.me.com-spengler.warc.gz	0
+kguy	gallery.me.com	2012-04-03 06:27:30	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3287.tar	gallery.me.com-kguy.warc.gz	187213276
+kguy	homepage.mac.com	2012-04-03 06:27:31	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3287.tar	homepage.mac.com-kguy.warc.gz	4893
+kguy	public.me.com	2012-04-03 06:24:58	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3287.tar	public.me.com-kguy.warc.gz	8257338
+kguy	web.me.com	2012-04-03 06:24:48	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3287.tar	web.me.com-kguy.warc.gz	42454951
+spengler	gallery.me.com	2012-04-03 06:21:46	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3287.tar	gallery.me.com-spengler.warc.gz	3834692537
+spengler	homepage.mac.com	2012-04-03 06:21:57	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3287.tar	homepage.mac.com-spengler.warc.gz	1218224
+spengler	public.me.com	2012-04-03 05:33:19	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3287.tar	public.me.com-spengler.warc.gz	1913
+spengler	web.me.com	2012-04-03 05:33:19	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3287.tar	web.me.com-spengler.warc.gz	314176071

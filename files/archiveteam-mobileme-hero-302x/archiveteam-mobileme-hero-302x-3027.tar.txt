@@ -1,20 +1,20 @@
-dominikhoffmann	gallery.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	gallery.me.com-dominikhoffmann.warc.gz	0
-dominikhoffmann	homepage.mac.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	homepage.mac.com-dominikhoffmann.warc.gz	0
-dominikhoffmann	public.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	public.me.com-dominikhoffmann.warc.gz	0
-dominikhoffmann	web.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	web.me.com-dominikhoffmann.warc.gz	0
-jon.erik.skare	gallery.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	gallery.me.com-jon.erik.skare.warc.gz	0
-jon.erik.skare	homepage.mac.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	homepage.mac.com-jon.erik.skare.warc.gz	0
-jon.erik.skare	public.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	public.me.com-jon.erik.skare.warc.gz	0
-jon.erik.skare	web.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	web.me.com-jon.erik.skare.warc.gz	0
-laureetloic	gallery.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	gallery.me.com-laureetloic.warc.gz	0
-laureetloic	homepage.mac.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	homepage.mac.com-laureetloic.warc.gz	0
-laureetloic	public.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	public.me.com-laureetloic.warc.gz	0
-laureetloic	web.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	web.me.com-laureetloic.warc.gz	0
-marcosappelt	gallery.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	gallery.me.com-marcosappelt.warc.gz	0
-marcosappelt	homepage.mac.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	homepage.mac.com-marcosappelt.warc.gz	0
-marcosappelt	public.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	public.me.com-marcosappelt.warc.gz	0
-marcosappelt	web.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	web.me.com-marcosappelt.warc.gz	0
-mikehalstead	gallery.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	gallery.me.com-mikehalstead.warc.gz	0
-mikehalstead	homepage.mac.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	homepage.mac.com-mikehalstead.warc.gz	0
-mikehalstead	public.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	public.me.com-mikehalstead.warc.gz	0
-mikehalstead	web.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	web.me.com-mikehalstead.warc.gz	0
+dominikhoffmann	gallery.me.com	2012-04-02 13:51:13	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	gallery.me.com-dominikhoffmann.warc.gz	591400155
+dominikhoffmann	homepage.mac.com	2012-04-02 13:51:14	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	homepage.mac.com-dominikhoffmann.warc.gz	4939
+dominikhoffmann	public.me.com	2012-04-02 13:37:29	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	public.me.com-dominikhoffmann.warc.gz	16493007
+dominikhoffmann	web.me.com	2012-04-02 13:37:20	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	web.me.com-dominikhoffmann.warc.gz	4799589
+jon.erik.skare	gallery.me.com	2012-04-02 13:51:45	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	gallery.me.com-jon.erik.skare.warc.gz	5269
+jon.erik.skare	homepage.mac.com	2012-04-02 13:51:45	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	homepage.mac.com-jon.erik.skare.warc.gz	4936
+jon.erik.skare	public.me.com	2012-04-02 13:51:44	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	public.me.com-jon.erik.skare.warc.gz	1930
+jon.erik.skare	web.me.com	2012-04-02 13:51:44	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	web.me.com-jon.erik.skare.warc.gz	310135
+laureetloic	gallery.me.com	2012-04-02 13:51:17	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	gallery.me.com-laureetloic.warc.gz	12315
+laureetloic	homepage.mac.com	2012-04-02 13:51:17	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	homepage.mac.com-laureetloic.warc.gz	7150
+laureetloic	public.me.com	2012-04-02 13:51:16	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	public.me.com-laureetloic.warc.gz	1926
+laureetloic	web.me.com	2012-04-02 13:51:16	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	web.me.com-laureetloic.warc.gz	22452
+marcosappelt	gallery.me.com	2012-04-02 14:15:40	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	gallery.me.com-marcosappelt.warc.gz	935021366
+marcosappelt	homepage.mac.com	2012-04-02 14:15:40	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	homepage.mac.com-marcosappelt.warc.gz	4929
+marcosappelt	public.me.com	2012-04-02 13:57:31	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	public.me.com-marcosappelt.warc.gz	1927
+marcosappelt	web.me.com	2012-04-02 13:57:30	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	web.me.com-marcosappelt.warc.gz	14874595
+mikehalstead	gallery.me.com	2012-04-02 16:18:52	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	gallery.me.com-mikehalstead.warc.gz	3704470304
+mikehalstead	homepage.mac.com	2012-04-02 16:18:53	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	homepage.mac.com-mikehalstead.warc.gz	4936
+mikehalstead	public.me.com	2012-04-02 15:20:20	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	public.me.com-mikehalstead.warc.gz	96780819
+mikehalstead	web.me.com	2012-04-02 15:15:11	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3027.tar	web.me.com-mikehalstead.warc.gz	1963797588

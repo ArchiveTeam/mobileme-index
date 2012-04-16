@@ -1,16 +1,16 @@
-c219552081	gallery.me.com		archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	gallery.me.com-c219552081.warc.gz	0
-c219552081	homepage.mac.com		archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	homepage.mac.com-c219552081.warc.gz	0
-c219552081	public.me.com		archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	public.me.com-c219552081.warc.gz	0
-c219552081	web.me.com		archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	web.me.com-c219552081.warc.gz	0
-davidivey	gallery.me.com		archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	gallery.me.com-davidivey.warc.gz	0
-davidivey	homepage.mac.com		archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	homepage.mac.com-davidivey.warc.gz	0
-davidivey	public.me.com		archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	public.me.com-davidivey.warc.gz	0
-davidivey	web.me.com		archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	web.me.com-davidivey.warc.gz	0
-ifaery	gallery.me.com		archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	gallery.me.com-ifaery.warc.gz	0
-ifaery	homepage.mac.com		archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	homepage.mac.com-ifaery.warc.gz	0
-ifaery	public.me.com		archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	public.me.com-ifaery.warc.gz	0
-ifaery	web.me.com		archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	web.me.com-ifaery.warc.gz	0
-lindabelikoff	gallery.me.com		archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	gallery.me.com-lindabelikoff.warc.gz	0
-lindabelikoff	homepage.mac.com		archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	homepage.mac.com-lindabelikoff.warc.gz	0
-lindabelikoff	public.me.com		archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	public.me.com-lindabelikoff.warc.gz	0
-lindabelikoff	web.me.com		archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	web.me.com-lindabelikoff.warc.gz	0
+c219552081	gallery.me.com	2012-04-13 06:52:03	archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	gallery.me.com-c219552081.warc.gz	8377
+c219552081	homepage.mac.com	2012-04-13 06:52:03	archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	homepage.mac.com-c219552081.warc.gz	5165
+c219552081	public.me.com	2012-04-13 06:52:00	archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	public.me.com-c219552081.warc.gz	1918
+c219552081	web.me.com	2012-04-13 06:51:59	archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	web.me.com-c219552081.warc.gz	17703
+davidivey	gallery.me.com	2012-04-13 08:59:36	archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	gallery.me.com-davidivey.warc.gz	2932027004
+davidivey	homepage.mac.com	2012-04-13 08:59:36	archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	homepage.mac.com-davidivey.warc.gz	4907
+davidivey	public.me.com	2012-04-13 08:17:44	archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	public.me.com-davidivey.warc.gz	2194450
+davidivey	web.me.com	2012-04-13 08:17:36	archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	web.me.com-davidivey.warc.gz	352878382
+ifaery	gallery.me.com	2012-04-13 06:51:55	archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	gallery.me.com-ifaery.warc.gz	409784350
+ifaery	homepage.mac.com	2012-04-13 06:51:56	archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	homepage.mac.com-ifaery.warc.gz	6055
+ifaery	public.me.com	2012-04-13 06:41:30	archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	public.me.com-ifaery.warc.gz	1914
+ifaery	web.me.com	2012-04-13 06:41:27	archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	web.me.com-ifaery.warc.gz	508241050
+lindabelikoff	gallery.me.com	2012-04-13 07:07:39	archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	gallery.me.com-lindabelikoff.warc.gz	243276258
+lindabelikoff	homepage.mac.com	2012-04-13 07:07:40	archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	homepage.mac.com-lindabelikoff.warc.gz	4925
+lindabelikoff	public.me.com	2012-04-13 07:01:53	archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	public.me.com-lindabelikoff.warc.gz	1930
+lindabelikoff	web.me.com	2012-04-13 07:01:52	archiveteam-mobileme-hero-722x	archiveteam-mobileme-hero-722x-7221.tar	web.me.com-lindabelikoff.warc.gz	215574201

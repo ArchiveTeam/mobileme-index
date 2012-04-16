@@ -1,12 +1,12 @@
-arichter	gallery.me.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	gallery.me.com-arichter.warc.gz	0
-arichter	homepage.mac.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	homepage.mac.com-arichter.warc.gz	0
-arichter	public.me.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	public.me.com-arichter.warc.gz	0
-arichter	web.me.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	web.me.com-arichter.warc.gz	0
-joylutheran	gallery.me.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	gallery.me.com-joylutheran.warc.gz	0
-joylutheran	homepage.mac.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	homepage.mac.com-joylutheran.warc.gz	0
-joylutheran	public.me.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	public.me.com-joylutheran.warc.gz	0
-joylutheran	web.me.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	web.me.com-joylutheran.warc.gz	0
-lagataloca	gallery.me.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	gallery.me.com-lagataloca.warc.gz	0
-lagataloca	homepage.mac.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	homepage.mac.com-lagataloca.warc.gz	0
-lagataloca	public.me.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	public.me.com-lagataloca.warc.gz	0
-lagataloca	web.me.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	web.me.com-lagataloca.warc.gz	0
+arichter	gallery.me.com	2012-04-04 01:01:37	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	gallery.me.com-arichter.warc.gz	12320
+arichter	homepage.mac.com	2012-04-04 01:01:37	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	homepage.mac.com-arichter.warc.gz	7128
+arichter	public.me.com	2012-04-04 01:01:35	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	public.me.com-arichter.warc.gz	1909
+arichter	web.me.com	2012-04-04 01:01:35	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	web.me.com-arichter.warc.gz	22449
+joylutheran	gallery.me.com	2012-04-04 01:01:31	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	gallery.me.com-joylutheran.warc.gz	305063689
+joylutheran	homepage.mac.com	2012-04-04 01:01:31	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	homepage.mac.com-joylutheran.warc.gz	4922
+joylutheran	public.me.com	2012-04-04 00:49:12	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	public.me.com-joylutheran.warc.gz	9076402
+joylutheran	web.me.com	2012-04-04 00:47:18	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	web.me.com-joylutheran.warc.gz	43692708
+lagataloca	gallery.me.com	2012-04-04 05:03:51	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	gallery.me.com-lagataloca.warc.gz	5294941387
+lagataloca	homepage.mac.com	2012-04-04 05:03:52	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	homepage.mac.com-lagataloca.warc.gz	4909
+lagataloca	public.me.com	2012-04-04 01:48:49	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	public.me.com-lagataloca.warc.gz	1915
+lagataloca	web.me.com	2012-04-04 01:48:26	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3677.tar	web.me.com-lagataloca.warc.gz	126822585

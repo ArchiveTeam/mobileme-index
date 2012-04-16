@@ -1,8 +1,8 @@
-robyn796	gallery.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4936.tar	gallery.me.com-robyn796.warc.gz	0
-robyn796	homepage.mac.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4936.tar	homepage.mac.com-robyn796.warc.gz	0
-robyn796	public.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4936.tar	public.me.com-robyn796.warc.gz	0
-robyn796	web.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4936.tar	web.me.com-robyn796.warc.gz	0
-scarlettgray	gallery.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4936.tar	gallery.me.com-scarlettgray.warc.gz	0
-scarlettgray	homepage.mac.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4936.tar	homepage.mac.com-scarlettgray.warc.gz	0
-scarlettgray	public.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4936.tar	public.me.com-scarlettgray.warc.gz	0
-scarlettgray	web.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4936.tar	web.me.com-scarlettgray.warc.gz	0
+robyn796	gallery.me.com	2012-04-07 19:33:53	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4936.tar	gallery.me.com-robyn796.warc.gz	2965216301
+robyn796	homepage.mac.com	2012-04-07 19:33:57	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4936.tar	homepage.mac.com-robyn796.warc.gz	157915
+robyn796	public.me.com	2012-04-07 18:40:04	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4936.tar	public.me.com-robyn796.warc.gz	138752
+robyn796	web.me.com	2012-04-07 18:39:05	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4936.tar	web.me.com-robyn796.warc.gz	664214894
+scarlettgray	gallery.me.com	2012-04-07 18:02:05	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4936.tar	gallery.me.com-scarlettgray.warc.gz	5033
+scarlettgray	homepage.mac.com	2012-04-07 18:02:06	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4936.tar	homepage.mac.com-scarlettgray.warc.gz	4929
+scarlettgray	public.me.com	2012-04-07 18:02:05	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4936.tar	public.me.com-scarlettgray.warc.gz	1926
+scarlettgray	web.me.com	2012-04-07 18:02:04	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4936.tar	web.me.com-scarlettgray.warc.gz	789921068

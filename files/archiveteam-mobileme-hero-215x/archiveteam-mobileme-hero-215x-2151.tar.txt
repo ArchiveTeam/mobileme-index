@@ -1,16 +1,16 @@
-gilgreen1	gallery.me.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	gallery.me.com-gilgreen1.warc.gz	0
-gilgreen1	homepage.mac.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	homepage.mac.com-gilgreen1.warc.gz	0
-gilgreen1	public.me.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	public.me.com-gilgreen1.warc.gz	0
-gilgreen1	web.me.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	web.me.com-gilgreen1.warc.gz	0
-jorgenrique6	gallery.me.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	gallery.me.com-jorgenrique6.warc.gz	0
-jorgenrique6	homepage.mac.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	homepage.mac.com-jorgenrique6.warc.gz	0
-jorgenrique6	public.me.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	public.me.com-jorgenrique6.warc.gz	0
-jorgenrique6	web.me.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	web.me.com-jorgenrique6.warc.gz	0
-lynbishop	gallery.me.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	gallery.me.com-lynbishop.warc.gz	0
-lynbishop	homepage.mac.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	homepage.mac.com-lynbishop.warc.gz	0
-lynbishop	public.me.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	public.me.com-lynbishop.warc.gz	0
-lynbishop	web.me.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	web.me.com-lynbishop.warc.gz	0
-stevestone	gallery.me.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	gallery.me.com-stevestone.warc.gz	0
-stevestone	homepage.mac.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	homepage.mac.com-stevestone.warc.gz	0
-stevestone	public.me.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	public.me.com-stevestone.warc.gz	0
-stevestone	web.me.com		archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	web.me.com-stevestone.warc.gz	0
+gilgreen1	gallery.me.com	2012-03-30 13:48:43	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	gallery.me.com-gilgreen1.warc.gz	124826927
+gilgreen1	homepage.mac.com	2012-03-30 13:48:51	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	homepage.mac.com-gilgreen1.warc.gz	41320
+gilgreen1	public.me.com	2012-03-30 13:42:39	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	public.me.com-gilgreen1.warc.gz	3789
+gilgreen1	web.me.com	2012-03-30 13:42:32	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	web.me.com-gilgreen1.warc.gz	8064852931
+jorgenrique6	gallery.me.com	2012-03-30 10:46:01	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	gallery.me.com-jorgenrique6.warc.gz	59365255
+jorgenrique6	homepage.mac.com	2012-03-30 10:46:10	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	homepage.mac.com-jorgenrique6.warc.gz	4913
+jorgenrique6	public.me.com	2012-03-30 10:44:09	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	public.me.com-jorgenrique6.warc.gz	1934
+jorgenrique6	web.me.com	2012-03-30 10:44:08	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	web.me.com-jorgenrique6.warc.gz	26889191
+lynbishop	gallery.me.com	2012-03-30 10:36:49	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	gallery.me.com-lynbishop.warc.gz	4249
+lynbishop	homepage.mac.com	2012-03-30 10:36:58	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	homepage.mac.com-lynbishop.warc.gz	92936
+lynbishop	public.me.com	2012-03-30 10:36:48	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	public.me.com-lynbishop.warc.gz	623713507
+lynbishop	web.me.com	2012-03-30 10:21:08	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	web.me.com-lynbishop.warc.gz	443837
+stevestone	gallery.me.com	2012-03-30 10:20:56	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	gallery.me.com-stevestone.warc.gz	5793
+stevestone	homepage.mac.com	2012-03-30 10:20:56	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	homepage.mac.com-stevestone.warc.gz	4903
+stevestone	public.me.com	2012-03-30 10:20:54	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	public.me.com-stevestone.warc.gz	1916
+stevestone	web.me.com	2012-03-30 10:20:53	archiveteam-mobileme-hero-215x	archiveteam-mobileme-hero-215x-2151.tar	web.me.com-stevestone.warc.gz	121683109

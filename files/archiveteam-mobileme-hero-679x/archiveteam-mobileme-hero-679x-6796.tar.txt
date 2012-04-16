@@ -1,24 +1,24 @@
-carrollgardens_apt	gallery.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	gallery.me.com-carrollgardens_apt.warc.gz	0
-carrollgardens_apt	homepage.mac.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	homepage.mac.com-carrollgardens_apt.warc.gz	0
-carrollgardens_apt	public.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	public.me.com-carrollgardens_apt.warc.gz	0
-carrollgardens_apt	web.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	web.me.com-carrollgardens_apt.warc.gz	0
-juergenz	gallery.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	gallery.me.com-juergenz.warc.gz	0
-juergenz	homepage.mac.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	homepage.mac.com-juergenz.warc.gz	0
-juergenz	public.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	public.me.com-juergenz.warc.gz	0
-juergenz	web.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	web.me.com-juergenz.warc.gz	0
-kurikou	gallery.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	gallery.me.com-kurikou.warc.gz	0
-kurikou	homepage.mac.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	homepage.mac.com-kurikou.warc.gz	0
-kurikou	public.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	public.me.com-kurikou.warc.gz	0
-kurikou	web.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	web.me.com-kurikou.warc.gz	0
-okoshibumi	gallery.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	gallery.me.com-okoshibumi.warc.gz	0
-okoshibumi	homepage.mac.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	homepage.mac.com-okoshibumi.warc.gz	0
-okoshibumi	public.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	public.me.com-okoshibumi.warc.gz	0
-okoshibumi	web.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	web.me.com-okoshibumi.warc.gz	0
-sarasgideon	gallery.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	gallery.me.com-sarasgideon.warc.gz	0
-sarasgideon	homepage.mac.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	homepage.mac.com-sarasgideon.warc.gz	0
-sarasgideon	public.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	public.me.com-sarasgideon.warc.gz	0
-sarasgideon	web.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	web.me.com-sarasgideon.warc.gz	0
-stephane_ouellet	gallery.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	gallery.me.com-stephane_ouellet.warc.gz	0
-stephane_ouellet	homepage.mac.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	homepage.mac.com-stephane_ouellet.warc.gz	0
-stephane_ouellet	public.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	public.me.com-stephane_ouellet.warc.gz	0
-stephane_ouellet	web.me.com		archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	web.me.com-stephane_ouellet.warc.gz	0
+carrollgardens_apt	gallery.me.com	2012-04-12 11:56:13	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	gallery.me.com-carrollgardens_apt.warc.gz	71117800
+carrollgardens_apt	homepage.mac.com	2012-04-12 11:56:13	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	homepage.mac.com-carrollgardens_apt.warc.gz	4953
+carrollgardens_apt	public.me.com	2012-04-12 11:53:27	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	public.me.com-carrollgardens_apt.warc.gz	1939
+carrollgardens_apt	web.me.com	2012-04-12 11:53:27	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	web.me.com-carrollgardens_apt.warc.gz	73071353
+juergenz	gallery.me.com	2012-04-12 11:46:00	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	gallery.me.com-juergenz.warc.gz	200483016
+juergenz	homepage.mac.com	2012-04-12 11:46:04	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	homepage.mac.com-juergenz.warc.gz	101449
+juergenz	public.me.com	2012-04-12 11:40:32	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	public.me.com-juergenz.warc.gz	3375
+juergenz	web.me.com	2012-04-12 11:40:32	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	web.me.com-juergenz.warc.gz	3373646
+kurikou	gallery.me.com	2012-04-12 11:46:07	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	gallery.me.com-kurikou.warc.gz	8340
+kurikou	homepage.mac.com	2012-04-12 11:46:07	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	homepage.mac.com-kurikou.warc.gz	5169
+kurikou	public.me.com	2012-04-12 11:46:06	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	public.me.com-kurikou.warc.gz	1917
+kurikou	web.me.com	2012-04-12 11:46:05	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	web.me.com-kurikou.warc.gz	17653
+okoshibumi	gallery.me.com	2012-04-12 11:39:08	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	gallery.me.com-okoshibumi.warc.gz	4270
+okoshibumi	homepage.mac.com	2012-04-12 11:39:10	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	homepage.mac.com-okoshibumi.warc.gz	4916
+okoshibumi	public.me.com	2012-04-12 11:39:07	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	public.me.com-okoshibumi.warc.gz	1922
+okoshibumi	web.me.com	2012-04-12 11:39:07	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	web.me.com-okoshibumi.warc.gz	9490593
+sarasgideon	gallery.me.com	2012-04-12 11:48:50	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	gallery.me.com-sarasgideon.warc.gz	2231863
+sarasgideon	homepage.mac.com	2012-04-12 11:48:51	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	homepage.mac.com-sarasgideon.warc.gz	4918
+sarasgideon	public.me.com	2012-04-12 11:48:47	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	public.me.com-sarasgideon.warc.gz	1924
+sarasgideon	web.me.com	2012-04-12 11:48:46	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	web.me.com-sarasgideon.warc.gz	15324954
+stephane_ouellet	gallery.me.com	2012-04-12 13:31:55	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	gallery.me.com-stephane_ouellet.warc.gz	3780173231
+stephane_ouellet	homepage.mac.com	2012-04-12 13:31:55	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	homepage.mac.com-stephane_ouellet.warc.gz	4939
+stephane_ouellet	public.me.com	2012-04-12 12:42:35	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	public.me.com-stephane_ouellet.warc.gz	3362
+stephane_ouellet	web.me.com	2012-04-12 12:42:21	archiveteam-mobileme-hero-679x	archiveteam-mobileme-hero-679x-6796.tar	web.me.com-stephane_ouellet.warc.gz	1507873342

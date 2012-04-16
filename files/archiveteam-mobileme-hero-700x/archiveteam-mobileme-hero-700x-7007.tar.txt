@@ -1,16 +1,16 @@
-iaed	gallery.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	gallery.me.com-iaed.warc.gz	0
-iaed	homepage.mac.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	homepage.mac.com-iaed.warc.gz	0
-iaed	public.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	public.me.com-iaed.warc.gz	0
-iaed	web.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	web.me.com-iaed.warc.gz	0
-uwesteckhan1	gallery.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	gallery.me.com-uwesteckhan1.warc.gz	0
-uwesteckhan1	homepage.mac.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	homepage.mac.com-uwesteckhan1.warc.gz	0
-uwesteckhan1	public.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	public.me.com-uwesteckhan1.warc.gz	0
-uwesteckhan1	web.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	web.me.com-uwesteckhan1.warc.gz	0
-vmbattiestdanzy	gallery.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	gallery.me.com-vmbattiestdanzy.warc.gz	0
-vmbattiestdanzy	homepage.mac.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	homepage.mac.com-vmbattiestdanzy.warc.gz	0
-vmbattiestdanzy	public.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	public.me.com-vmbattiestdanzy.warc.gz	0
-vmbattiestdanzy	web.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	web.me.com-vmbattiestdanzy.warc.gz	0
-yama.g	gallery.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	gallery.me.com-yama.g.warc.gz	0
-yama.g	homepage.mac.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	homepage.mac.com-yama.g.warc.gz	0
-yama.g	public.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	public.me.com-yama.g.warc.gz	0
-yama.g	web.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	web.me.com-yama.g.warc.gz	0
+iaed	gallery.me.com	2012-04-12 22:47:46	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	gallery.me.com-iaed.warc.gz	8324
+iaed	homepage.mac.com	2012-04-12 22:47:46	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	homepage.mac.com-iaed.warc.gz	5140
+iaed	public.me.com	2012-04-12 22:47:45	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	public.me.com-iaed.warc.gz	1901
+iaed	web.me.com	2012-04-12 22:47:45	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	web.me.com-iaed.warc.gz	17630
+uwesteckhan1	gallery.me.com	2012-04-12 22:47:43	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	gallery.me.com-uwesteckhan1.warc.gz	2454722268
+uwesteckhan1	homepage.mac.com	2012-04-12 22:47:44	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	homepage.mac.com-uwesteckhan1.warc.gz	4920
+uwesteckhan1	public.me.com	2012-04-12 21:43:18	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	public.me.com-uwesteckhan1.warc.gz	823657088
+uwesteckhan1	web.me.com	2012-04-12 21:30:49	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	web.me.com-uwesteckhan1.warc.gz	898932141
+vmbattiestdanzy	gallery.me.com	2012-04-12 20:39:56	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	gallery.me.com-vmbattiestdanzy.warc.gz	285535
+vmbattiestdanzy	homepage.mac.com	2012-04-12 20:39:56	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	homepage.mac.com-vmbattiestdanzy.warc.gz	4938
+vmbattiestdanzy	public.me.com	2012-04-12 20:39:54	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	public.me.com-vmbattiestdanzy.warc.gz	1934
+vmbattiestdanzy	web.me.com	2012-04-12 20:39:54	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	web.me.com-vmbattiestdanzy.warc.gz	36479082
+yama.g	gallery.me.com	2012-04-12 23:15:32	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	gallery.me.com-yama.g.warc.gz	40278521
+yama.g	homepage.mac.com	2012-04-12 23:15:32	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	homepage.mac.com-yama.g.warc.gz	4893
+yama.g	public.me.com	2012-04-12 23:15:11	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	public.me.com-yama.g.warc.gz	1908
+yama.g	web.me.com	2012-04-12 23:15:10	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7007.tar	web.me.com-yama.g.warc.gz	181147914

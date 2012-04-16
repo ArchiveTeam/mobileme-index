@@ -1,16 +1,16 @@
-barrystein	gallery.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	gallery.me.com-barrystein.warc.gz	0
-barrystein	homepage.mac.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	homepage.mac.com-barrystein.warc.gz	0
-barrystein	public.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	public.me.com-barrystein.warc.gz	0
-barrystein	web.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	web.me.com-barrystein.warc.gz	0
-carriemiddlebrooks	gallery.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	gallery.me.com-carriemiddlebrooks.warc.gz	0
-carriemiddlebrooks	homepage.mac.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	homepage.mac.com-carriemiddlebrooks.warc.gz	0
-carriemiddlebrooks	public.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	public.me.com-carriemiddlebrooks.warc.gz	0
-carriemiddlebrooks	web.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	web.me.com-carriemiddlebrooks.warc.gz	0
-photobydoria	gallery.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	gallery.me.com-photobydoria.warc.gz	0
-photobydoria	homepage.mac.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	homepage.mac.com-photobydoria.warc.gz	0
-photobydoria	public.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	public.me.com-photobydoria.warc.gz	0
-photobydoria	web.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	web.me.com-photobydoria.warc.gz	0
-shirks	gallery.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	gallery.me.com-shirks.warc.gz	0
-shirks	homepage.mac.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	homepage.mac.com-shirks.warc.gz	0
-shirks	public.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	public.me.com-shirks.warc.gz	0
-shirks	web.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	web.me.com-shirks.warc.gz	0
+barrystein	gallery.me.com	2012-03-31 23:04:29	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	gallery.me.com-barrystein.warc.gz	13454833
+barrystein	homepage.mac.com	2012-03-31 23:04:30	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	homepage.mac.com-barrystein.warc.gz	6044
+barrystein	public.me.com	2012-03-31 23:03:09	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	public.me.com-barrystein.warc.gz	7258086
+barrystein	web.me.com	2012-03-31 23:02:43	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	web.me.com-barrystein.warc.gz	2167758
+carriemiddlebrooks	gallery.me.com	2012-03-31 23:39:45	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	gallery.me.com-carriemiddlebrooks.warc.gz	542436261
+carriemiddlebrooks	homepage.mac.com	2012-03-31 23:39:47	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	homepage.mac.com-carriemiddlebrooks.warc.gz	4946
+carriemiddlebrooks	public.me.com	2012-03-31 23:30:59	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	public.me.com-carriemiddlebrooks.warc.gz	1931
+carriemiddlebrooks	web.me.com	2012-03-31 23:30:57	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	web.me.com-carriemiddlebrooks.warc.gz	632696595
+photobydoria	gallery.me.com	2012-04-01 01:15:18	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	gallery.me.com-photobydoria.warc.gz	15938028
+photobydoria	homepage.mac.com	2012-04-01 01:15:18	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	homepage.mac.com-photobydoria.warc.gz	4935
+photobydoria	public.me.com	2012-04-01 01:15:05	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	public.me.com-photobydoria.warc.gz	1929
+photobydoria	web.me.com	2012-04-01 01:14:54	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	web.me.com-photobydoria.warc.gz	857198960
+shirks	gallery.me.com	2012-03-31 23:01:48	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	gallery.me.com-shirks.warc.gz	1092765057
+shirks	homepage.mac.com	2012-03-31 23:01:50	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	homepage.mac.com-shirks.warc.gz	49282
+shirks	public.me.com	2012-03-31 22:31:42	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	public.me.com-shirks.warc.gz	1914
+shirks	web.me.com	2012-03-31 22:31:33	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2559.tar	web.me.com-shirks.warc.gz	1173880747

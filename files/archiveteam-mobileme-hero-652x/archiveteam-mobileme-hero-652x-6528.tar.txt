@@ -1,16 +1,16 @@
-anderson_cliff	gallery.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	gallery.me.com-anderson_cliff.warc.gz	0
-anderson_cliff	homepage.mac.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	homepage.mac.com-anderson_cliff.warc.gz	0
-anderson_cliff	public.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	public.me.com-anderson_cliff.warc.gz	0
-anderson_cliff	web.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	web.me.com-anderson_cliff.warc.gz	0
-boggiano	gallery.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	gallery.me.com-boggiano.warc.gz	0
-boggiano	homepage.mac.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	homepage.mac.com-boggiano.warc.gz	0
-boggiano	public.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	public.me.com-boggiano.warc.gz	0
-boggiano	web.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	web.me.com-boggiano.warc.gz	0
-jpnasstrom	gallery.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	gallery.me.com-jpnasstrom.warc.gz	0
-jpnasstrom	homepage.mac.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	homepage.mac.com-jpnasstrom.warc.gz	0
-jpnasstrom	public.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	public.me.com-jpnasstrom.warc.gz	0
-jpnasstrom	web.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	web.me.com-jpnasstrom.warc.gz	0
-sishbi	gallery.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	gallery.me.com-sishbi.warc.gz	0
-sishbi	homepage.mac.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	homepage.mac.com-sishbi.warc.gz	0
-sishbi	public.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	public.me.com-sishbi.warc.gz	0
-sishbi	web.me.com		archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	web.me.com-sishbi.warc.gz	0
+anderson_cliff	gallery.me.com	2012-04-12 00:04:15	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	gallery.me.com-anderson_cliff.warc.gz	142171493
+anderson_cliff	homepage.mac.com	2012-04-12 00:04:15	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	homepage.mac.com-anderson_cliff.warc.gz	4932
+anderson_cliff	public.me.com	2012-04-11 23:41:34	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	public.me.com-anderson_cliff.warc.gz	1943146544
+anderson_cliff	web.me.com	2012-04-11 22:43:02	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	web.me.com-anderson_cliff.warc.gz	49241820
+boggiano	gallery.me.com	2012-04-11 22:27:07	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	gallery.me.com-boggiano.warc.gz	255937542
+boggiano	homepage.mac.com	2012-04-11 22:27:09	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	homepage.mac.com-boggiano.warc.gz	36863
+boggiano	public.me.com	2012-04-11 21:36:27	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	public.me.com-boggiano.warc.gz	831209360
+boggiano	web.me.com	2012-04-11 21:22:05	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	web.me.com-boggiano.warc.gz	1833501703
+jpnasstrom	gallery.me.com	2012-04-11 20:27:22	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	gallery.me.com-jpnasstrom.warc.gz	65620157
+jpnasstrom	homepage.mac.com	2012-04-11 20:27:22	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	homepage.mac.com-jpnasstrom.warc.gz	4921
+jpnasstrom	public.me.com	2012-04-11 20:13:04	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	public.me.com-jpnasstrom.warc.gz	24092043
+jpnasstrom	web.me.com	2012-04-11 20:09:13	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	web.me.com-jpnasstrom.warc.gz	186867363
+sishbi	gallery.me.com	2012-04-11 19:50:47	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	gallery.me.com-sishbi.warc.gz	16356862
+sishbi	homepage.mac.com	2012-04-11 19:50:48	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	homepage.mac.com-sishbi.warc.gz	4906
+sishbi	public.me.com	2012-04-11 19:46:30	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	public.me.com-sishbi.warc.gz	1912
+sishbi	web.me.com	2012-04-11 19:46:29	archiveteam-mobileme-hero-652x	archiveteam-mobileme-hero-652x-6528.tar	web.me.com-sishbi.warc.gz	574997

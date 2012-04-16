@@ -1,8 +1,8 @@
-abkarr	gallery.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3404.tar	gallery.me.com-abkarr.warc.gz	0
-abkarr	homepage.mac.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3404.tar	homepage.mac.com-abkarr.warc.gz	0
-abkarr	public.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3404.tar	public.me.com-abkarr.warc.gz	0
-abkarr	web.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3404.tar	web.me.com-abkarr.warc.gz	0
-dacian002	gallery.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3404.tar	gallery.me.com-dacian002.warc.gz	0
-dacian002	homepage.mac.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3404.tar	homepage.mac.com-dacian002.warc.gz	0
-dacian002	public.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3404.tar	public.me.com-dacian002.warc.gz	0
-dacian002	web.me.com		archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3404.tar	web.me.com-dacian002.warc.gz	0
+abkarr	gallery.me.com	2012-04-03 12:05:25	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3404.tar	gallery.me.com-abkarr.warc.gz	5642688768
+abkarr	homepage.mac.com	2012-04-03 12:05:25	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3404.tar	homepage.mac.com-abkarr.warc.gz	4880
+abkarr	public.me.com	2012-04-03 10:19:09	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3404.tar	public.me.com-abkarr.warc.gz	1910
+abkarr	web.me.com	2012-04-03 10:18:50	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3404.tar	web.me.com-abkarr.warc.gz	734376643
+dacian002	gallery.me.com	2012-04-03 09:38:40	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3404.tar	gallery.me.com-dacian002.warc.gz	4962
+dacian002	homepage.mac.com	2012-04-03 09:38:40	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3404.tar	homepage.mac.com-dacian002.warc.gz	4921
+dacian002	public.me.com	2012-04-03 09:38:38	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3404.tar	public.me.com-dacian002.warc.gz	358406147
+dacian002	web.me.com	2012-04-03 09:25:34	archiveteam-mobileme-hero-340x	archiveteam-mobileme-hero-340x-3404.tar	web.me.com-dacian002.warc.gz	882911702

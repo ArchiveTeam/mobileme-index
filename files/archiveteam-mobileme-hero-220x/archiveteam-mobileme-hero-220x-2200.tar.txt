@@ -1,12 +1,12 @@
-jpoberg	gallery.me.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	gallery.me.com-jpoberg.warc.gz	0
-jpoberg	homepage.mac.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	homepage.mac.com-jpoberg.warc.gz	0
-jpoberg	public.me.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	public.me.com-jpoberg.warc.gz	0
-jpoberg	web.me.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	web.me.com-jpoberg.warc.gz	0
-leodaley	gallery.me.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	gallery.me.com-leodaley.warc.gz	0
-leodaley	homepage.mac.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	homepage.mac.com-leodaley.warc.gz	0
-leodaley	public.me.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	public.me.com-leodaley.warc.gz	0
-leodaley	web.me.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	web.me.com-leodaley.warc.gz	0
-tleo	gallery.me.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	gallery.me.com-tleo.warc.gz	0
-tleo	homepage.mac.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	homepage.mac.com-tleo.warc.gz	0
-tleo	public.me.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	public.me.com-tleo.warc.gz	0
-tleo	web.me.com		archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	web.me.com-tleo.warc.gz	0
+jpoberg	gallery.me.com	2012-03-30 18:13:36	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	gallery.me.com-jpoberg.warc.gz	5664
+jpoberg	homepage.mac.com	2012-03-30 18:13:37	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	homepage.mac.com-jpoberg.warc.gz	4901
+jpoberg	public.me.com	2012-03-30 18:13:35	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	public.me.com-jpoberg.warc.gz	1916
+jpoberg	web.me.com	2012-03-30 18:13:34	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	web.me.com-jpoberg.warc.gz	872169
+leodaley	gallery.me.com	2012-03-30 19:10:29	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	gallery.me.com-leodaley.warc.gz	3511311068
+leodaley	homepage.mac.com	2012-03-30 19:10:53	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	homepage.mac.com-leodaley.warc.gz	860521
+leodaley	public.me.com	2012-03-30 18:34:59	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	public.me.com-leodaley.warc.gz	3261923
+leodaley	web.me.com	2012-03-30 18:34:53	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	web.me.com-leodaley.warc.gz	651931459
+tleo	gallery.me.com	2012-03-30 19:57:24	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	gallery.me.com-tleo.warc.gz	4342905417
+tleo	homepage.mac.com	2012-03-30 19:57:25	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	homepage.mac.com-tleo.warc.gz	4881
+tleo	public.me.com	2012-03-30 19:17:46	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	public.me.com-tleo.warc.gz	5265
+tleo	web.me.com	2012-03-30 19:17:45	archiveteam-mobileme-hero-220x	archiveteam-mobileme-hero-220x-2200.tar	web.me.com-tleo.warc.gz	208909022

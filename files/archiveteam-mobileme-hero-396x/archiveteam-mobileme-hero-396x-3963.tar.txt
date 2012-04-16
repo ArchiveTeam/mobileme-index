@@ -1,24 +1,24 @@
-cstoklund	gallery.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	gallery.me.com-cstoklund.warc.gz	0
-cstoklund	homepage.mac.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	homepage.mac.com-cstoklund.warc.gz	0
-cstoklund	public.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	public.me.com-cstoklund.warc.gz	0
-cstoklund	web.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	web.me.com-cstoklund.warc.gz	0
-earthgardening	gallery.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	gallery.me.com-earthgardening.warc.gz	0
-earthgardening	homepage.mac.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	homepage.mac.com-earthgardening.warc.gz	0
-earthgardening	public.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	public.me.com-earthgardening.warc.gz	0
-earthgardening	web.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	web.me.com-earthgardening.warc.gz	0
-fortune_blue	gallery.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	gallery.me.com-fortune_blue.warc.gz	0
-fortune_blue	homepage.mac.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	homepage.mac.com-fortune_blue.warc.gz	0
-fortune_blue	public.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	public.me.com-fortune_blue.warc.gz	0
-fortune_blue	web.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	web.me.com-fortune_blue.warc.gz	0
-marielogie	gallery.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	gallery.me.com-marielogie.warc.gz	0
-marielogie	homepage.mac.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	homepage.mac.com-marielogie.warc.gz	0
-marielogie	public.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	public.me.com-marielogie.warc.gz	0
-marielogie	web.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	web.me.com-marielogie.warc.gz	0
-martinsailcoach	gallery.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	gallery.me.com-martinsailcoach.warc.gz	0
-martinsailcoach	homepage.mac.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	homepage.mac.com-martinsailcoach.warc.gz	0
-martinsailcoach	public.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	public.me.com-martinsailcoach.warc.gz	0
-martinsailcoach	web.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	web.me.com-martinsailcoach.warc.gz	0
-simplexityconcepts	gallery.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	gallery.me.com-simplexityconcepts.warc.gz	0
-simplexityconcepts	homepage.mac.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	homepage.mac.com-simplexityconcepts.warc.gz	0
-simplexityconcepts	public.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	public.me.com-simplexityconcepts.warc.gz	0
-simplexityconcepts	web.me.com		archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	web.me.com-simplexityconcepts.warc.gz	0
+cstoklund	gallery.me.com	2012-04-04 14:41:10	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	gallery.me.com-cstoklund.warc.gz	5176
+cstoklund	homepage.mac.com	2012-04-04 14:41:11	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	homepage.mac.com-cstoklund.warc.gz	4907
+cstoklund	public.me.com	2012-04-04 14:41:09	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	public.me.com-cstoklund.warc.gz	1914
+cstoklund	web.me.com	2012-04-04 14:41:09	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	web.me.com-cstoklund.warc.gz	290956
+earthgardening	gallery.me.com	2012-04-04 14:40:51	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	gallery.me.com-earthgardening.warc.gz	4304
+earthgardening	homepage.mac.com	2012-04-04 14:40:51	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	homepage.mac.com-earthgardening.warc.gz	4925
+earthgardening	public.me.com	2012-04-04 14:40:44	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	public.me.com-earthgardening.warc.gz	1926
+earthgardening	web.me.com	2012-04-04 14:40:42	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	web.me.com-earthgardening.warc.gz	62062886
+fortune_blue	gallery.me.com	2012-04-04 16:18:26	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	gallery.me.com-fortune_blue.warc.gz	106536
+fortune_blue	homepage.mac.com	2012-04-04 16:18:27	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	homepage.mac.com-fortune_blue.warc.gz	4911
+fortune_blue	public.me.com	2012-04-04 16:18:21	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	public.me.com-fortune_blue.warc.gz	1925
+fortune_blue	web.me.com	2012-04-04 16:18:19	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	web.me.com-fortune_blue.warc.gz	1825817
+marielogie	gallery.me.com	2012-04-04 15:42:29	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	gallery.me.com-marielogie.warc.gz	493330010
+marielogie	homepage.mac.com	2012-04-04 15:42:29	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	homepage.mac.com-marielogie.warc.gz	4912
+marielogie	public.me.com	2012-04-04 15:29:28	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	public.me.com-marielogie.warc.gz	3493
+marielogie	web.me.com	2012-04-04 15:29:11	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	web.me.com-marielogie.warc.gz	117547140
+martinsailcoach	gallery.me.com	2012-04-04 16:16:49	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	gallery.me.com-martinsailcoach.warc.gz	1889169926
+martinsailcoach	homepage.mac.com	2012-04-04 16:16:50	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	homepage.mac.com-martinsailcoach.warc.gz	4930
+martinsailcoach	public.me.com	2012-04-04 15:54:49	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	public.me.com-martinsailcoach.warc.gz	1927
+martinsailcoach	web.me.com	2012-04-04 15:54:48	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	web.me.com-martinsailcoach.warc.gz	481461559
+simplexityconcepts	gallery.me.com	2012-04-04 20:46:02	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	gallery.me.com-simplexityconcepts.warc.gz	430444209
+simplexityconcepts	homepage.mac.com	2012-04-04 20:47:49	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	homepage.mac.com-simplexityconcepts.warc.gz	2612214
+simplexityconcepts	public.me.com	2012-04-04 20:32:56	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	public.me.com-simplexityconcepts.warc.gz	1935
+simplexityconcepts	web.me.com	2012-04-04 20:29:03	archiveteam-mobileme-hero-396x	archiveteam-mobileme-hero-396x-3963.tar	web.me.com-simplexityconcepts.warc.gz	1981982358

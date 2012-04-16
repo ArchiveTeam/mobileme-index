@@ -1,16 +1,16 @@
-erikwparks	gallery.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	gallery.me.com-erikwparks.warc.gz	0
-erikwparks	homepage.mac.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	homepage.mac.com-erikwparks.warc.gz	0
-erikwparks	public.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	public.me.com-erikwparks.warc.gz	0
-erikwparks	web.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	web.me.com-erikwparks.warc.gz	0
-katariina.tirkkonen	gallery.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	gallery.me.com-katariina.tirkkonen.warc.gz	0
-katariina.tirkkonen	homepage.mac.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	homepage.mac.com-katariina.tirkkonen.warc.gz	0
-katariina.tirkkonen	public.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	public.me.com-katariina.tirkkonen.warc.gz	0
-katariina.tirkkonen	web.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	web.me.com-katariina.tirkkonen.warc.gz	0
-tinick	gallery.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	gallery.me.com-tinick.warc.gz	0
-tinick	homepage.mac.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	homepage.mac.com-tinick.warc.gz	0
-tinick	public.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	public.me.com-tinick.warc.gz	0
-tinick	web.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	web.me.com-tinick.warc.gz	0
-unbound	gallery.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	gallery.me.com-unbound.warc.gz	0
-unbound	homepage.mac.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	homepage.mac.com-unbound.warc.gz	0
-unbound	public.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	public.me.com-unbound.warc.gz	0
-unbound	web.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	web.me.com-unbound.warc.gz	0
+erikwparks	gallery.me.com	2012-04-11 11:59:56	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	gallery.me.com-erikwparks.warc.gz	3085639374
+erikwparks	homepage.mac.com	2012-04-11 11:59:56	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	homepage.mac.com-erikwparks.warc.gz	4923
+erikwparks	public.me.com	2012-04-11 11:00:06	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	public.me.com-erikwparks.warc.gz	38956563
+erikwparks	web.me.com	2012-04-11 10:58:25	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	web.me.com-erikwparks.warc.gz	1392482172
+katariina.tirkkonen	gallery.me.com	2012-04-11 10:09:30	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	gallery.me.com-katariina.tirkkonen.warc.gz	266742551
+katariina.tirkkonen	homepage.mac.com	2012-04-11 10:09:31	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	homepage.mac.com-katariina.tirkkonen.warc.gz	4966
+katariina.tirkkonen	public.me.com	2012-04-11 10:02:42	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	public.me.com-katariina.tirkkonen.warc.gz	938736871
+katariina.tirkkonen	web.me.com	2012-04-11 09:40:57	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	web.me.com-katariina.tirkkonen.warc.gz	303106147
+tinick	gallery.me.com	2012-04-11 09:23:02	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	gallery.me.com-tinick.warc.gz	280584577
+tinick	homepage.mac.com	2012-04-11 09:23:10	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	homepage.mac.com-tinick.warc.gz	284075
+tinick	public.me.com	2012-04-11 09:20:32	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	public.me.com-tinick.warc.gz	15130
+tinick	web.me.com	2012-04-11 09:20:29	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	web.me.com-tinick.warc.gz	781934
+unbound	gallery.me.com	2012-04-11 10:16:10	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	gallery.me.com-unbound.warc.gz	407480601
+unbound	homepage.mac.com	2012-04-11 10:16:11	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	homepage.mac.com-unbound.warc.gz	4900
+unbound	public.me.com	2012-04-11 10:11:09	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	public.me.com-unbound.warc.gz	1908
+unbound	web.me.com	2012-04-11 10:11:08	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6361.tar	web.me.com-unbound.warc.gz	5011790

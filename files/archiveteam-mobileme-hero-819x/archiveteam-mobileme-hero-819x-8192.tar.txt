@@ -1,0 +1,16 @@
+digit.al	gallery.me.com	2012-04-15 00:19:59	archiveteam-mobileme-hero-819x	archiveteam-mobileme-hero-819x-8192.tar	gallery.me.com-digit.al.warc.gz	1967173046
+digit.al	homepage.mac.com	2012-04-15 00:20:02	archiveteam-mobileme-hero-819x	archiveteam-mobileme-hero-819x-8192.tar	homepage.mac.com-digit.al.warc.gz	83766
+digit.al	public.me.com	2012-04-14 22:28:37	archiveteam-mobileme-hero-819x	archiveteam-mobileme-hero-819x-8192.tar	public.me.com-digit.al.warc.gz	34520868
+digit.al	web.me.com	2012-04-14 22:28:16	archiveteam-mobileme-hero-819x	archiveteam-mobileme-hero-819x-8192.tar	web.me.com-digit.al.warc.gz	383492991
+musbegin	gallery.me.com	2012-04-14 20:10:41	archiveteam-mobileme-hero-819x	archiveteam-mobileme-hero-819x-8192.tar	gallery.me.com-musbegin.warc.gz	704033457
+musbegin	homepage.mac.com	2012-04-14 20:17:04	archiveteam-mobileme-hero-819x	archiveteam-mobileme-hero-819x-8192.tar	homepage.mac.com-musbegin.warc.gz	15228092
+musbegin	public.me.com	2012-04-14 19:59:46	archiveteam-mobileme-hero-819x	archiveteam-mobileme-hero-819x-8192.tar	public.me.com-musbegin.warc.gz	1916
+musbegin	web.me.com	2012-04-14 19:59:44	archiveteam-mobileme-hero-819x	archiveteam-mobileme-hero-819x-8192.tar	web.me.com-musbegin.warc.gz	266965031
+mvpraleigh	gallery.me.com	2012-04-15 02:01:30	archiveteam-mobileme-hero-819x	archiveteam-mobileme-hero-819x-8192.tar	gallery.me.com-mvpraleigh.warc.gz	1545140666
+mvpraleigh	homepage.mac.com	2012-04-15 02:01:31	archiveteam-mobileme-hero-819x	archiveteam-mobileme-hero-819x-8192.tar	homepage.mac.com-mvpraleigh.warc.gz	4913
+mvpraleigh	public.me.com	2012-04-15 00:39:08	archiveteam-mobileme-hero-819x	archiveteam-mobileme-hero-819x-8192.tar	public.me.com-mvpraleigh.warc.gz	3352
+mvpraleigh	web.me.com	2012-04-15 00:39:07	archiveteam-mobileme-hero-819x	archiveteam-mobileme-hero-819x-8192.tar	web.me.com-mvpraleigh.warc.gz	70883824
+tothur	gallery.me.com	2012-04-15 00:20:11	archiveteam-mobileme-hero-819x	archiveteam-mobileme-hero-819x-8192.tar	gallery.me.com-tothur.warc.gz	12325
+tothur	homepage.mac.com	2012-04-15 00:20:11	archiveteam-mobileme-hero-819x	archiveteam-mobileme-hero-819x-8192.tar	homepage.mac.com-tothur.warc.gz	7151
+tothur	public.me.com	2012-04-15 00:20:09	archiveteam-mobileme-hero-819x	archiveteam-mobileme-hero-819x-8192.tar	public.me.com-tothur.warc.gz	1914
+tothur	web.me.com	2012-04-15 00:20:08	archiveteam-mobileme-hero-819x	archiveteam-mobileme-hero-819x-8192.tar	web.me.com-tothur.warc.gz	22494

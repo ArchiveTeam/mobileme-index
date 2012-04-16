@@ -1,20 +1,20 @@
-drewbob1	gallery.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	gallery.me.com-drewbob1.warc.gz	0
-drewbob1	homepage.mac.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	homepage.mac.com-drewbob1.warc.gz	0
-drewbob1	public.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	public.me.com-drewbob1.warc.gz	0
-drewbob1	web.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	web.me.com-drewbob1.warc.gz	0
-felix.clarke	gallery.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	gallery.me.com-felix.clarke.warc.gz	0
-felix.clarke	homepage.mac.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	homepage.mac.com-felix.clarke.warc.gz	0
-felix.clarke	public.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	public.me.com-felix.clarke.warc.gz	0
-felix.clarke	web.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	web.me.com-felix.clarke.warc.gz	0
-saritarschroeder	gallery.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	gallery.me.com-saritarschroeder.warc.gz	0
-saritarschroeder	homepage.mac.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	homepage.mac.com-saritarschroeder.warc.gz	0
-saritarschroeder	public.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	public.me.com-saritarschroeder.warc.gz	0
-saritarschroeder	web.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	web.me.com-saritarschroeder.warc.gz	0
-therobes1	gallery.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	gallery.me.com-therobes1.warc.gz	0
-therobes1	homepage.mac.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	homepage.mac.com-therobes1.warc.gz	0
-therobes1	public.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	public.me.com-therobes1.warc.gz	0
-therobes1	web.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	web.me.com-therobes1.warc.gz	0
-willardmusic	gallery.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	gallery.me.com-willardmusic.warc.gz	0
-willardmusic	homepage.mac.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	homepage.mac.com-willardmusic.warc.gz	0
-willardmusic	public.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	public.me.com-willardmusic.warc.gz	0
-willardmusic	web.me.com		archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	web.me.com-willardmusic.warc.gz	0
+drewbob1	gallery.me.com	2012-04-12 19:25:28	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	gallery.me.com-drewbob1.warc.gz	1856938
+drewbob1	homepage.mac.com	2012-04-12 19:25:28	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	homepage.mac.com-drewbob1.warc.gz	4898
+drewbob1	public.me.com	2012-04-12 19:25:20	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	public.me.com-drewbob1.warc.gz	1916
+drewbob1	web.me.com	2012-04-12 19:25:19	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	web.me.com-drewbob1.warc.gz	80973
+felix.clarke	gallery.me.com	2012-04-12 20:16:59	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	gallery.me.com-felix.clarke.warc.gz	51037658
+felix.clarke	homepage.mac.com	2012-04-12 20:17:11	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	homepage.mac.com-felix.clarke.warc.gz	123457
+felix.clarke	public.me.com	2012-04-12 20:08:24	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	public.me.com-felix.clarke.warc.gz	1924
+felix.clarke	web.me.com	2012-04-12 20:08:23	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	web.me.com-felix.clarke.warc.gz	2742029
+saritarschroeder	gallery.me.com	2012-04-13 01:23:33	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	gallery.me.com-saritarschroeder.warc.gz	5856288859
+saritarschroeder	homepage.mac.com	2012-04-13 01:23:34	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	homepage.mac.com-saritarschroeder.warc.gz	4912
+saritarschroeder	public.me.com	2012-04-12 21:15:53	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	public.me.com-saritarschroeder.warc.gz	1933
+saritarschroeder	web.me.com	2012-04-12 21:15:52	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	web.me.com-saritarschroeder.warc.gz	186458336
+therobes1	gallery.me.com	2012-04-12 20:06:37	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	gallery.me.com-therobes1.warc.gz	412542643
+therobes1	homepage.mac.com	2012-04-12 20:06:37	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	homepage.mac.com-therobes1.warc.gz	4895
+therobes1	public.me.com	2012-04-12 19:50:44	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	public.me.com-therobes1.warc.gz	1915
+therobes1	web.me.com	2012-04-12 19:50:42	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	web.me.com-therobes1.warc.gz	162479154
+willardmusic	gallery.me.com	2012-04-12 20:41:06	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	gallery.me.com-willardmusic.warc.gz	5255
+willardmusic	homepage.mac.com	2012-04-12 20:41:07	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	homepage.mac.com-willardmusic.warc.gz	7873
+willardmusic	public.me.com	2012-04-12 20:41:04	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	public.me.com-willardmusic.warc.gz	389619867
+willardmusic	web.me.com	2012-04-12 20:24:19	archiveteam-mobileme-hero-704x	archiveteam-mobileme-hero-704x-7047.tar	web.me.com-willardmusic.warc.gz	73778210

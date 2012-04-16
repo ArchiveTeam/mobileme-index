@@ -1,8 +1,8 @@
-edrickvb2	gallery.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5465.tar	gallery.me.com-edrickvb2.warc.gz	0
-edrickvb2	homepage.mac.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5465.tar	homepage.mac.com-edrickvb2.warc.gz	0
-edrickvb2	public.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5465.tar	public.me.com-edrickvb2.warc.gz	0
-edrickvb2	web.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5465.tar	web.me.com-edrickvb2.warc.gz	0
-fredchabbert	gallery.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5465.tar	gallery.me.com-fredchabbert.warc.gz	0
-fredchabbert	homepage.mac.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5465.tar	homepage.mac.com-fredchabbert.warc.gz	0
-fredchabbert	public.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5465.tar	public.me.com-fredchabbert.warc.gz	0
-fredchabbert	web.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5465.tar	web.me.com-fredchabbert.warc.gz	0
+edrickvb2	gallery.me.com	2012-04-09 11:43:10	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5465.tar	gallery.me.com-edrickvb2.warc.gz	8491668625
+edrickvb2	homepage.mac.com	2012-04-09 11:44:51	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5465.tar	homepage.mac.com-edrickvb2.warc.gz	1189092
+edrickvb2	public.me.com	2012-04-09 09:43:19	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5465.tar	public.me.com-edrickvb2.warc.gz	11003654
+edrickvb2	web.me.com	2012-04-09 09:42:59	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5465.tar	web.me.com-edrickvb2.warc.gz	51680333
+fredchabbert	gallery.me.com	2012-04-09 09:25:46	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5465.tar	gallery.me.com-fredchabbert.warc.gz	182982941
+fredchabbert	homepage.mac.com	2012-04-09 09:25:46	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5465.tar	homepage.mac.com-fredchabbert.warc.gz	4930
+fredchabbert	public.me.com	2012-04-09 09:21:07	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5465.tar	public.me.com-fredchabbert.warc.gz	502774
+fredchabbert	web.me.com	2012-04-09 09:21:00	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5465.tar	web.me.com-fredchabbert.warc.gz	166597662

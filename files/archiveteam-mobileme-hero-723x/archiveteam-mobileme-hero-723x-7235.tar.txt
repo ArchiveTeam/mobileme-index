@@ -1,16 +1,16 @@
-aceillinois	gallery.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	gallery.me.com-aceillinois.warc.gz	0
-aceillinois	homepage.mac.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	homepage.mac.com-aceillinois.warc.gz	0
-aceillinois	public.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	public.me.com-aceillinois.warc.gz	0
-aceillinois	web.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	web.me.com-aceillinois.warc.gz	0
-jenfishersmith	gallery.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	gallery.me.com-jenfishersmith.warc.gz	0
-jenfishersmith	homepage.mac.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	homepage.mac.com-jenfishersmith.warc.gz	0
-jenfishersmith	public.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	public.me.com-jenfishersmith.warc.gz	0
-jenfishersmith	web.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	web.me.com-jenfishersmith.warc.gz	0
-lchales	gallery.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	gallery.me.com-lchales.warc.gz	0
-lchales	homepage.mac.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	homepage.mac.com-lchales.warc.gz	0
-lchales	public.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	public.me.com-lchales.warc.gz	0
-lchales	web.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	web.me.com-lchales.warc.gz	0
-reederj	gallery.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	gallery.me.com-reederj.warc.gz	0
-reederj	homepage.mac.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	homepage.mac.com-reederj.warc.gz	0
-reederj	public.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	public.me.com-reederj.warc.gz	0
-reederj	web.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	web.me.com-reederj.warc.gz	0
+aceillinois	gallery.me.com	2012-04-13 08:34:03	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	gallery.me.com-aceillinois.warc.gz	4244
+aceillinois	homepage.mac.com	2012-04-13 08:34:03	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	homepage.mac.com-aceillinois.warc.gz	4915
+aceillinois	public.me.com	2012-04-13 08:34:02	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	public.me.com-aceillinois.warc.gz	1915
+aceillinois	web.me.com	2012-04-13 08:34:02	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	web.me.com-aceillinois.warc.gz	31266158
+jenfishersmith	gallery.me.com	2012-04-13 07:53:03	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	gallery.me.com-jenfishersmith.warc.gz	6813326
+jenfishersmith	homepage.mac.com	2012-04-13 07:53:03	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	homepage.mac.com-jenfishersmith.warc.gz	4916
+jenfishersmith	public.me.com	2012-04-13 07:52:15	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	public.me.com-jenfishersmith.warc.gz	1923
+jenfishersmith	web.me.com	2012-04-13 07:52:15	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	web.me.com-jenfishersmith.warc.gz	93518442
+lchales	gallery.me.com	2012-04-13 09:43:01	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	gallery.me.com-lchales.warc.gz	8082
+lchales	homepage.mac.com	2012-04-13 09:43:01	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	homepage.mac.com-lchales.warc.gz	4908
+lchales	public.me.com	2012-04-13 09:42:56	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	public.me.com-lchales.warc.gz	3824055317
+lchales	web.me.com	2012-04-13 08:35:54	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	web.me.com-lchales.warc.gz	56929547
+reederj	gallery.me.com	2012-04-13 08:33:00	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	gallery.me.com-reederj.warc.gz	1641771099
+reederj	homepage.mac.com	2012-04-13 08:33:01	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	homepage.mac.com-reederj.warc.gz	4902
+reederj	public.me.com	2012-04-13 07:58:39	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	public.me.com-reederj.warc.gz	3715217
+reederj	web.me.com	2012-04-13 07:58:27	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7235.tar	web.me.com-reederj.warc.gz	17166962

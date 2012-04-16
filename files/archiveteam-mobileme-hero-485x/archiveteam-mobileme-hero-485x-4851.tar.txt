@@ -1,16 +1,16 @@
-johncarter3	gallery.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	gallery.me.com-johncarter3.warc.gz	0
-johncarter3	homepage.mac.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	homepage.mac.com-johncarter3.warc.gz	0
-johncarter3	public.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	public.me.com-johncarter3.warc.gz	0
-johncarter3	web.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	web.me.com-johncarter3.warc.gz	0
-kingcole100	gallery.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	gallery.me.com-kingcole100.warc.gz	0
-kingcole100	homepage.mac.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	homepage.mac.com-kingcole100.warc.gz	0
-kingcole100	public.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	public.me.com-kingcole100.warc.gz	0
-kingcole100	web.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	web.me.com-kingcole100.warc.gz	0
-lupo92	gallery.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	gallery.me.com-lupo92.warc.gz	0
-lupo92	homepage.mac.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	homepage.mac.com-lupo92.warc.gz	0
-lupo92	public.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	public.me.com-lupo92.warc.gz	0
-lupo92	web.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	web.me.com-lupo92.warc.gz	0
-stephanie.lay	gallery.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	gallery.me.com-stephanie.lay.warc.gz	0
-stephanie.lay	homepage.mac.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	homepage.mac.com-stephanie.lay.warc.gz	0
-stephanie.lay	public.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	public.me.com-stephanie.lay.warc.gz	0
-stephanie.lay	web.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	web.me.com-stephanie.lay.warc.gz	0
+johncarter3	gallery.me.com	2012-04-07 04:37:24	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	gallery.me.com-johncarter3.warc.gz	4259
+johncarter3	homepage.mac.com	2012-04-07 04:37:24	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	homepage.mac.com-johncarter3.warc.gz	4928
+johncarter3	public.me.com	2012-04-07 04:37:24	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	public.me.com-johncarter3.warc.gz	1927
+johncarter3	web.me.com	2012-04-07 04:37:23	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	web.me.com-johncarter3.warc.gz	113887832
+kingcole100	gallery.me.com	2012-04-07 04:34:19	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	gallery.me.com-kingcole100.warc.gz	8362
+kingcole100	homepage.mac.com	2012-04-07 04:34:19	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	homepage.mac.com-kingcole100.warc.gz	5167
+kingcole100	public.me.com	2012-04-07 04:34:18	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	public.me.com-kingcole100.warc.gz	1926
+kingcole100	web.me.com	2012-04-07 04:34:18	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	web.me.com-kingcole100.warc.gz	17702
+lupo92	gallery.me.com	2012-04-07 04:34:16	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	gallery.me.com-lupo92.warc.gz	1037227
+lupo92	homepage.mac.com	2012-04-07 04:34:17	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	homepage.mac.com-lupo92.warc.gz	4904
+lupo92	public.me.com	2012-04-07 04:34:14	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	public.me.com-lupo92.warc.gz	3389
+lupo92	web.me.com	2012-04-07 04:33:57	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	web.me.com-lupo92.warc.gz	1969561687
+stephanie.lay	gallery.me.com	2012-04-07 05:17:02	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	gallery.me.com-stephanie.lay.warc.gz	1551647921
+stephanie.lay	homepage.mac.com	2012-04-07 05:17:04	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	homepage.mac.com-stephanie.lay.warc.gz	4929
+stephanie.lay	public.me.com	2012-04-07 04:47:50	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	public.me.com-stephanie.lay.warc.gz	629781512
+stephanie.lay	web.me.com	2012-04-07 04:44:43	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4851.tar	web.me.com-stephanie.lay.warc.gz	83998869

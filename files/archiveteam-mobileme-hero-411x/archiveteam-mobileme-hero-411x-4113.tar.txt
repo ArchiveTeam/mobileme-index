@@ -1,12 +1,12 @@
-royconn	gallery.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	gallery.me.com-royconn.warc.gz	0
-royconn	homepage.mac.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	homepage.mac.com-royconn.warc.gz	0
-royconn	public.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	public.me.com-royconn.warc.gz	0
-royconn	web.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	web.me.com-royconn.warc.gz	0
-vanvdo	gallery.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	gallery.me.com-vanvdo.warc.gz	0
-vanvdo	homepage.mac.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	homepage.mac.com-vanvdo.warc.gz	0
-vanvdo	public.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	public.me.com-vanvdo.warc.gz	0
-vanvdo	web.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	web.me.com-vanvdo.warc.gz	0
-zsofian	gallery.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	gallery.me.com-zsofian.warc.gz	0
-zsofian	homepage.mac.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	homepage.mac.com-zsofian.warc.gz	0
-zsofian	public.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	public.me.com-zsofian.warc.gz	0
-zsofian	web.me.com		archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	web.me.com-zsofian.warc.gz	0
+royconn	gallery.me.com	2012-04-05 02:28:12	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	gallery.me.com-royconn.warc.gz	933507871
+royconn	homepage.mac.com	2012-04-05 02:28:13	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	homepage.mac.com-royconn.warc.gz	4922
+royconn	public.me.com	2012-04-05 01:42:49	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	public.me.com-royconn.warc.gz	1911
+royconn	web.me.com	2012-04-05 01:42:49	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	web.me.com-royconn.warc.gz	48620421
+vanvdo	gallery.me.com	2012-04-05 04:32:39	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	gallery.me.com-vanvdo.warc.gz	1617332327
+vanvdo	homepage.mac.com	2012-04-05 06:52:47	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	homepage.mac.com-vanvdo.warc.gz	481459686
+vanvdo	public.me.com	2012-04-05 03:58:37	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	public.me.com-vanvdo.warc.gz	200709311
+vanvdo	web.me.com	2012-04-05 03:44:41	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	web.me.com-vanvdo.warc.gz	2202926969
+zsofian	gallery.me.com	2012-04-05 02:39:58	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	gallery.me.com-zsofian.warc.gz	5676
+zsofian	homepage.mac.com	2012-04-05 02:39:58	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	homepage.mac.com-zsofian.warc.gz	4915
+zsofian	public.me.com	2012-04-05 02:39:56	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	public.me.com-zsofian.warc.gz	1919
+zsofian	web.me.com	2012-04-05 02:39:56	archiveteam-mobileme-hero-411x	archiveteam-mobileme-hero-411x-4113.tar	web.me.com-zsofian.warc.gz	42881921

@@ -1,12 +1,12 @@
-epicureanodyssey	gallery.me.com		archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	gallery.me.com-epicureanodyssey.warc.gz	0
-epicureanodyssey	homepage.mac.com		archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	homepage.mac.com-epicureanodyssey.warc.gz	0
-epicureanodyssey	public.me.com		archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	public.me.com-epicureanodyssey.warc.gz	0
-epicureanodyssey	web.me.com		archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	web.me.com-epicureanodyssey.warc.gz	0
-marcobarrios	gallery.me.com		archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	gallery.me.com-marcobarrios.warc.gz	0
-marcobarrios	homepage.mac.com		archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	homepage.mac.com-marcobarrios.warc.gz	0
-marcobarrios	public.me.com		archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	public.me.com-marcobarrios.warc.gz	0
-marcobarrios	web.me.com		archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	web.me.com-marcobarrios.warc.gz	0
-wtstephenson	gallery.me.com		archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	gallery.me.com-wtstephenson.warc.gz	0
-wtstephenson	homepage.mac.com		archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	homepage.mac.com-wtstephenson.warc.gz	0
-wtstephenson	public.me.com		archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	public.me.com-wtstephenson.warc.gz	0
-wtstephenson	web.me.com		archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	web.me.com-wtstephenson.warc.gz	0
+epicureanodyssey	gallery.me.com	2012-04-12 16:44:35	archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	gallery.me.com-epicureanodyssey.warc.gz	5061
+epicureanodyssey	homepage.mac.com	2012-04-12 16:44:35	archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	homepage.mac.com-epicureanodyssey.warc.gz	4951
+epicureanodyssey	public.me.com	2012-04-12 16:44:34	archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	public.me.com-epicureanodyssey.warc.gz	1936
+epicureanodyssey	web.me.com	2012-04-12 16:44:33	archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	web.me.com-epicureanodyssey.warc.gz	35166662
+marcobarrios	gallery.me.com	2012-04-12 16:17:16	archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	gallery.me.com-marcobarrios.warc.gz	429809321
+marcobarrios	homepage.mac.com	2012-04-12 16:17:18	archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	homepage.mac.com-marcobarrios.warc.gz	41370
+marcobarrios	public.me.com	2012-04-12 16:08:20	archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	public.me.com-marcobarrios.warc.gz	3020261151
+marcobarrios	web.me.com	2012-04-12 14:57:19	archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	web.me.com-marcobarrios.warc.gz	565374756
+wtstephenson	gallery.me.com	2012-04-12 13:44:35	archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	gallery.me.com-wtstephenson.warc.gz	66558096
+wtstephenson	homepage.mac.com	2012-04-12 13:44:36	archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	homepage.mac.com-wtstephenson.warc.gz	7903
+wtstephenson	public.me.com	2012-04-12 13:37:09	archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	public.me.com-wtstephenson.warc.gz	15350565
+wtstephenson	web.me.com	2012-04-12 13:36:41	archiveteam-mobileme-hero-686x	archiveteam-mobileme-hero-686x-6867.tar	web.me.com-wtstephenson.warc.gz	166933788

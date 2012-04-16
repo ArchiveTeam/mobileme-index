@@ -1,20 +1,20 @@
-amywatson	gallery.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	gallery.me.com-amywatson.warc.gz	0
-amywatson	homepage.mac.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	homepage.mac.com-amywatson.warc.gz	0
-amywatson	public.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	public.me.com-amywatson.warc.gz	0
-amywatson	web.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	web.me.com-amywatson.warc.gz	0
-beightols	gallery.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	gallery.me.com-beightols.warc.gz	0
-beightols	homepage.mac.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	homepage.mac.com-beightols.warc.gz	0
-beightols	public.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	public.me.com-beightols.warc.gz	0
-beightols	web.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	web.me.com-beightols.warc.gz	0
-evegirl007	gallery.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	gallery.me.com-evegirl007.warc.gz	0
-evegirl007	homepage.mac.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	homepage.mac.com-evegirl007.warc.gz	0
-evegirl007	public.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	public.me.com-evegirl007.warc.gz	0
-evegirl007	web.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	web.me.com-evegirl007.warc.gz	0
-hmaffia	gallery.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	gallery.me.com-hmaffia.warc.gz	0
-hmaffia	homepage.mac.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	homepage.mac.com-hmaffia.warc.gz	0
-hmaffia	public.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	public.me.com-hmaffia.warc.gz	0
-hmaffia	web.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	web.me.com-hmaffia.warc.gz	0
-laia1	gallery.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	gallery.me.com-laia1.warc.gz	0
-laia1	homepage.mac.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	homepage.mac.com-laia1.warc.gz	0
-laia1	public.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	public.me.com-laia1.warc.gz	0
-laia1	web.me.com		archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	web.me.com-laia1.warc.gz	0
+amywatson	gallery.me.com	2012-04-04 20:33:31	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	gallery.me.com-amywatson.warc.gz	15847081
+amywatson	homepage.mac.com	2012-04-04 20:33:42	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	homepage.mac.com-amywatson.warc.gz	130293
+amywatson	public.me.com	2012-04-04 20:32:59	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	public.me.com-amywatson.warc.gz	3536
+amywatson	web.me.com	2012-04-04 20:30:23	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	web.me.com-amywatson.warc.gz	1316660891
+beightols	gallery.me.com	2012-04-04 20:49:11	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	gallery.me.com-beightols.warc.gz	346378293
+beightols	homepage.mac.com	2012-04-04 20:49:17	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	homepage.mac.com-beightols.warc.gz	9498
+beightols	public.me.com	2012-04-04 20:37:20	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	public.me.com-beightols.warc.gz	4378284
+beightols	web.me.com	2012-04-04 20:37:07	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	web.me.com-beightols.warc.gz	10198481
+evegirl007	gallery.me.com	2012-04-04 22:59:40	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	gallery.me.com-evegirl007.warc.gz	875327307
+evegirl007	homepage.mac.com	2012-04-04 22:59:41	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	homepage.mac.com-evegirl007.warc.gz	4916
+evegirl007	public.me.com	2012-04-04 22:37:50	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	public.me.com-evegirl007.warc.gz	1881638590
+evegirl007	web.me.com	2012-04-04 22:24:39	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	web.me.com-evegirl007.warc.gz	470172119
+hmaffia	gallery.me.com	2012-04-04 21:16:06	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	gallery.me.com-hmaffia.warc.gz	8343
+hmaffia	homepage.mac.com	2012-04-04 21:16:07	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	homepage.mac.com-hmaffia.warc.gz	5144
+hmaffia	public.me.com	2012-04-04 21:16:05	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	public.me.com-hmaffia.warc.gz	1909
+hmaffia	web.me.com	2012-04-04 21:16:04	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	web.me.com-hmaffia.warc.gz	17708
+laia1	gallery.me.com	2012-04-04 21:15:56	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	gallery.me.com-laia1.warc.gz	300240733
+laia1	homepage.mac.com	2012-04-04 21:16:01	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	homepage.mac.com-laia1.warc.gz	75750
+laia1	public.me.com	2012-04-04 20:57:06	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	public.me.com-laia1.warc.gz	1900
+laia1	web.me.com	2012-04-04 20:57:04	archiveteam-mobileme-hero-399x	archiveteam-mobileme-hero-399x-3990.tar	web.me.com-laia1.warc.gz	11568335

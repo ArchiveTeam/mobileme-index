@@ -1,12 +1,12 @@
-bryankoch	gallery.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	gallery.me.com-bryankoch.warc.gz	0
-bryankoch	homepage.mac.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	homepage.mac.com-bryankoch.warc.gz	0
-bryankoch	public.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	public.me.com-bryankoch.warc.gz	0
-bryankoch	web.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	web.me.com-bryankoch.warc.gz	0
-davecash227	gallery.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	gallery.me.com-davecash227.warc.gz	0
-davecash227	homepage.mac.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	homepage.mac.com-davecash227.warc.gz	0
-davecash227	public.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	public.me.com-davecash227.warc.gz	0
-davecash227	web.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	web.me.com-davecash227.warc.gz	0
-jmbellec	gallery.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	gallery.me.com-jmbellec.warc.gz	0
-jmbellec	homepage.mac.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	homepage.mac.com-jmbellec.warc.gz	0
-jmbellec	public.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	public.me.com-jmbellec.warc.gz	0
-jmbellec	web.me.com		archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	web.me.com-jmbellec.warc.gz	0
+bryankoch	gallery.me.com	2012-04-08 23:10:41	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	gallery.me.com-bryankoch.warc.gz	669146247
+bryankoch	homepage.mac.com	2012-04-08 23:10:41	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	homepage.mac.com-bryankoch.warc.gz	4913
+bryankoch	public.me.com	2012-04-08 22:48:13	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	public.me.com-bryankoch.warc.gz	1914
+bryankoch	web.me.com	2012-04-08 22:48:03	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	web.me.com-bryankoch.warc.gz	1237053550
+davecash227	gallery.me.com	2012-04-08 22:22:02	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	gallery.me.com-davecash227.warc.gz	126449238
+davecash227	homepage.mac.com	2012-04-08 22:22:02	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	homepage.mac.com-davecash227.warc.gz	4927
+davecash227	public.me.com	2012-04-08 22:21:02	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	public.me.com-davecash227.warc.gz	41640408
+davecash227	web.me.com	2012-04-08 22:16:01	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	web.me.com-davecash227.warc.gz	9183311
+jmbellec	gallery.me.com	2012-04-09 02:26:45	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	gallery.me.com-jmbellec.warc.gz	1833316542
+jmbellec	homepage.mac.com	2012-04-09 02:26:45	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	homepage.mac.com-jmbellec.warc.gz	4905
+jmbellec	public.me.com	2012-04-09 00:58:10	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	public.me.com-jmbellec.warc.gz	1920
+jmbellec	web.me.com	2012-04-09 00:56:04	archiveteam-mobileme-hero-528x	archiveteam-mobileme-hero-528x-5280.tar	web.me.com-jmbellec.warc.gz	1877592908

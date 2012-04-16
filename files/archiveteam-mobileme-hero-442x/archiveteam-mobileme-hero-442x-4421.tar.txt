@@ -1,28 +1,28 @@
-g_bianco	gallery.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	gallery.me.com-g_bianco.warc.gz	0
-g_bianco	homepage.mac.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	homepage.mac.com-g_bianco.warc.gz	0
-g_bianco	public.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	public.me.com-g_bianco.warc.gz	0
-g_bianco	web.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	web.me.com-g_bianco.warc.gz	0
-kerriemg	gallery.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	gallery.me.com-kerriemg.warc.gz	0
-kerriemg	homepage.mac.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	homepage.mac.com-kerriemg.warc.gz	0
-kerriemg	public.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	public.me.com-kerriemg.warc.gz	0
-kerriemg	web.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	web.me.com-kerriemg.warc.gz	0
-mdwgmalc	gallery.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	gallery.me.com-mdwgmalc.warc.gz	0
-mdwgmalc	homepage.mac.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	homepage.mac.com-mdwgmalc.warc.gz	0
-mdwgmalc	public.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	public.me.com-mdwgmalc.warc.gz	0
-mdwgmalc	web.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	web.me.com-mdwgmalc.warc.gz	0
-olivetai	gallery.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	gallery.me.com-olivetai.warc.gz	0
-olivetai	homepage.mac.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	homepage.mac.com-olivetai.warc.gz	0
-olivetai	public.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	public.me.com-olivetai.warc.gz	0
-olivetai	web.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	web.me.com-olivetai.warc.gz	0
-pankajamrit	gallery.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	gallery.me.com-pankajamrit.warc.gz	0
-pankajamrit	homepage.mac.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	homepage.mac.com-pankajamrit.warc.gz	0
-pankajamrit	public.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	public.me.com-pankajamrit.warc.gz	0
-pankajamrit	web.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	web.me.com-pankajamrit.warc.gz	0
-recrelatie	gallery.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	gallery.me.com-recrelatie.warc.gz	0
-recrelatie	homepage.mac.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	homepage.mac.com-recrelatie.warc.gz	0
-recrelatie	public.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	public.me.com-recrelatie.warc.gz	0
-recrelatie	web.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	web.me.com-recrelatie.warc.gz	0
-rgs3	gallery.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	gallery.me.com-rgs3.warc.gz	0
-rgs3	homepage.mac.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	homepage.mac.com-rgs3.warc.gz	0
-rgs3	public.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	public.me.com-rgs3.warc.gz	0
-rgs3	web.me.com		archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	web.me.com-rgs3.warc.gz	0
+g_bianco	gallery.me.com	2012-04-05 22:21:43	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	gallery.me.com-g_bianco.warc.gz	5753
+g_bianco	homepage.mac.com	2012-04-05 22:21:43	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	homepage.mac.com-g_bianco.warc.gz	4899
+g_bianco	public.me.com	2012-04-05 22:21:42	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	public.me.com-g_bianco.warc.gz	324710
+g_bianco	web.me.com	2012-04-05 22:21:35	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	web.me.com-g_bianco.warc.gz	1143503616
+kerriemg	gallery.me.com	2012-04-05 22:04:40	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	gallery.me.com-kerriemg.warc.gz	5020
+kerriemg	homepage.mac.com	2012-04-05 22:04:42	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	homepage.mac.com-kerriemg.warc.gz	41276
+kerriemg	public.me.com	2012-04-05 22:04:39	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	public.me.com-kerriemg.warc.gz	464535
+kerriemg	web.me.com	2012-04-05 22:04:38	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	web.me.com-kerriemg.warc.gz	283625
+mdwgmalc	gallery.me.com	2012-04-05 22:04:43	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	gallery.me.com-mdwgmalc.warc.gz	8318
+mdwgmalc	homepage.mac.com	2012-04-05 22:04:43	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	homepage.mac.com-mdwgmalc.warc.gz	5164
+mdwgmalc	public.me.com	2012-04-05 22:04:43	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	public.me.com-mdwgmalc.warc.gz	1917
+mdwgmalc	web.me.com	2012-04-05 22:04:43	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	web.me.com-mdwgmalc.warc.gz	17644
+olivetai	gallery.me.com	2012-04-05 22:03:49	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	gallery.me.com-olivetai.warc.gz	214038510
+olivetai	homepage.mac.com	2012-04-05 22:04:26	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	homepage.mac.com-olivetai.warc.gz	24845786
+olivetai	public.me.com	2012-04-05 21:57:40	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	public.me.com-olivetai.warc.gz	1307857691
+olivetai	web.me.com	2012-04-05 21:50:03	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	web.me.com-olivetai.warc.gz	324041245
+pankajamrit	gallery.me.com	2012-04-05 22:04:46	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	gallery.me.com-pankajamrit.warc.gz	12323
+pankajamrit	homepage.mac.com	2012-04-05 22:04:46	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	homepage.mac.com-pankajamrit.warc.gz	7147
+pankajamrit	public.me.com	2012-04-05 22:04:45	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	public.me.com-pankajamrit.warc.gz	1926
+pankajamrit	web.me.com	2012-04-05 22:04:45	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	web.me.com-pankajamrit.warc.gz	22447
+recrelatie	gallery.me.com	2012-04-05 21:17:12	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	gallery.me.com-recrelatie.warc.gz	4280
+recrelatie	homepage.mac.com	2012-04-05 21:17:12	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	homepage.mac.com-recrelatie.warc.gz	4912
+recrelatie	public.me.com	2012-04-05 21:17:11	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	public.me.com-recrelatie.warc.gz	1920
+recrelatie	web.me.com	2012-04-05 21:17:11	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	web.me.com-recrelatie.warc.gz	2830017
+rgs3	gallery.me.com	2012-04-05 22:57:47	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	gallery.me.com-rgs3.warc.gz	2539877503
+rgs3	homepage.mac.com	2012-04-05 22:57:48	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	homepage.mac.com-rgs3.warc.gz	4884
+rgs3	public.me.com	2012-04-05 22:26:24	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	public.me.com-rgs3.warc.gz	99069288
+rgs3	web.me.com	2012-04-05 22:24:09	archiveteam-mobileme-hero-442x	archiveteam-mobileme-hero-442x-4421.tar	web.me.com-rgs3.warc.gz	6771532

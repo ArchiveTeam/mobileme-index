@@ -1,24 +1,24 @@
-cybermewtwo	gallery.me.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	gallery.me.com-cybermewtwo.warc.gz	0
-cybermewtwo	homepage.mac.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	homepage.mac.com-cybermewtwo.warc.gz	0
-cybermewtwo	public.me.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	public.me.com-cybermewtwo.warc.gz	0
-cybermewtwo	web.me.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	web.me.com-cybermewtwo.warc.gz	0
-jacksonfrazier	gallery.me.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	gallery.me.com-jacksonfrazier.warc.gz	0
-jacksonfrazier	homepage.mac.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	homepage.mac.com-jacksonfrazier.warc.gz	0
-jacksonfrazier	public.me.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	public.me.com-jacksonfrazier.warc.gz	0
-jacksonfrazier	web.me.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	web.me.com-jacksonfrazier.warc.gz	0
-jnsphoto	gallery.me.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	gallery.me.com-jnsphoto.warc.gz	0
-jnsphoto	homepage.mac.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	homepage.mac.com-jnsphoto.warc.gz	0
-jnsphoto	public.me.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	public.me.com-jnsphoto.warc.gz	0
-jnsphoto	web.me.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	web.me.com-jnsphoto.warc.gz	0
-jonathanlilley	gallery.me.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	gallery.me.com-jonathanlilley.warc.gz	0
-jonathanlilley	homepage.mac.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	homepage.mac.com-jonathanlilley.warc.gz	0
-jonathanlilley	public.me.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	public.me.com-jonathanlilley.warc.gz	0
-jonathanlilley	web.me.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	web.me.com-jonathanlilley.warc.gz	0
-waltseale	gallery.me.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	gallery.me.com-waltseale.warc.gz	0
-waltseale	homepage.mac.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	homepage.mac.com-waltseale.warc.gz	0
-waltseale	public.me.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	public.me.com-waltseale.warc.gz	0
-waltseale	web.me.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	web.me.com-waltseale.warc.gz	0
-withonea	gallery.me.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	gallery.me.com-withonea.warc.gz	0
-withonea	homepage.mac.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	homepage.mac.com-withonea.warc.gz	0
-withonea	public.me.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	public.me.com-withonea.warc.gz	0
-withonea	web.me.com		archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	web.me.com-withonea.warc.gz	0
+cybermewtwo	gallery.me.com	2012-04-06 21:17:29	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	gallery.me.com-cybermewtwo.warc.gz	92595390
+cybermewtwo	homepage.mac.com	2012-04-06 21:17:30	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	homepage.mac.com-cybermewtwo.warc.gz	4935
+cybermewtwo	public.me.com	2012-04-06 21:14:14	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	public.me.com-cybermewtwo.warc.gz	1764341187
+cybermewtwo	web.me.com	2012-04-06 19:26:34	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	web.me.com-cybermewtwo.warc.gz	798300552
+jacksonfrazier	gallery.me.com	2012-04-06 21:17:35	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	gallery.me.com-jacksonfrazier.warc.gz	8380
+jacksonfrazier	homepage.mac.com	2012-04-06 21:17:35	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	homepage.mac.com-jacksonfrazier.warc.gz	5200
+jacksonfrazier	public.me.com	2012-04-06 21:17:34	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	public.me.com-jacksonfrazier.warc.gz	1933
+jacksonfrazier	web.me.com	2012-04-06 21:17:33	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	web.me.com-jacksonfrazier.warc.gz	17783
+jnsphoto	gallery.me.com	2012-04-06 22:42:37	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	gallery.me.com-jnsphoto.warc.gz	541136319
+jnsphoto	homepage.mac.com	2012-04-06 22:42:37	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	homepage.mac.com-jnsphoto.warc.gz	10303
+jnsphoto	public.me.com	2012-04-06 22:31:34	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	public.me.com-jnsphoto.warc.gz	54108840
+jnsphoto	web.me.com	2012-04-06 22:31:15	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	web.me.com-jnsphoto.warc.gz	345158848
+jonathanlilley	gallery.me.com	2012-04-06 15:33:21	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	gallery.me.com-jonathanlilley.warc.gz	5716
+jonathanlilley	homepage.mac.com	2012-04-06 15:33:22	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	homepage.mac.com-jonathanlilley.warc.gz	4935
+jonathanlilley	public.me.com	2012-04-06 15:33:20	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	public.me.com-jonathanlilley.warc.gz	1923
+jonathanlilley	web.me.com	2012-04-06 15:33:19	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	web.me.com-jonathanlilley.warc.gz	2274966
+waltseale	gallery.me.com	2012-04-06 22:17:55	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	gallery.me.com-waltseale.warc.gz	1368267555
+waltseale	homepage.mac.com	2012-04-06 22:17:56	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	homepage.mac.com-waltseale.warc.gz	4893
+waltseale	public.me.com	2012-04-06 21:30:22	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	public.me.com-waltseale.warc.gz	1919
+waltseale	web.me.com	2012-04-06 21:30:21	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	web.me.com-waltseale.warc.gz	25653096
+withonea	gallery.me.com	2012-04-06 15:33:33	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	gallery.me.com-withonea.warc.gz	12325
+withonea	homepage.mac.com	2012-04-06 15:33:35	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	homepage.mac.com-withonea.warc.gz	7136
+withonea	public.me.com	2012-04-06 15:33:31	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	public.me.com-withonea.warc.gz	1910
+withonea	web.me.com	2012-04-06 15:33:30	archiveteam-mobileme-hero-481x	archiveteam-mobileme-hero-481x-4810.tar	web.me.com-withonea.warc.gz	22497

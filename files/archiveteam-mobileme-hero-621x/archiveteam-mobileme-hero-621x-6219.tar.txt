@@ -1,20 +1,20 @@
-c.erkens	gallery.me.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	gallery.me.com-c.erkens.warc.gz	0
-c.erkens	homepage.mac.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	homepage.mac.com-c.erkens.warc.gz	0
-c.erkens	public.me.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	public.me.com-c.erkens.warc.gz	0
-c.erkens	web.me.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	web.me.com-c.erkens.warc.gz	0
-evan.kolstoe	gallery.me.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	gallery.me.com-evan.kolstoe.warc.gz	0
-evan.kolstoe	homepage.mac.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	homepage.mac.com-evan.kolstoe.warc.gz	0
-evan.kolstoe	public.me.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	public.me.com-evan.kolstoe.warc.gz	0
-evan.kolstoe	web.me.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	web.me.com-evan.kolstoe.warc.gz	0
-jon.burrow	gallery.me.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	gallery.me.com-jon.burrow.warc.gz	0
-jon.burrow	homepage.mac.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	homepage.mac.com-jon.burrow.warc.gz	0
-jon.burrow	public.me.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	public.me.com-jon.burrow.warc.gz	0
-jon.burrow	web.me.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	web.me.com-jon.burrow.warc.gz	0
-levenston	gallery.me.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	gallery.me.com-levenston.warc.gz	0
-levenston	homepage.mac.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	homepage.mac.com-levenston.warc.gz	0
-levenston	public.me.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	public.me.com-levenston.warc.gz	0
-levenston	web.me.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	web.me.com-levenston.warc.gz	0
-zoose	gallery.me.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	gallery.me.com-zoose.warc.gz	0
-zoose	homepage.mac.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	homepage.mac.com-zoose.warc.gz	0
-zoose	public.me.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	public.me.com-zoose.warc.gz	0
-zoose	web.me.com		archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	web.me.com-zoose.warc.gz	0
+c.erkens	gallery.me.com	2012-04-11 03:54:16	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	gallery.me.com-c.erkens.warc.gz	3697002
+c.erkens	homepage.mac.com	2012-04-11 03:54:17	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	homepage.mac.com-c.erkens.warc.gz	4909
+c.erkens	public.me.com	2012-04-11 03:54:11	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	public.me.com-c.erkens.warc.gz	79940929
+c.erkens	web.me.com	2012-04-11 03:52:19	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	web.me.com-c.erkens.warc.gz	1142771
+evan.kolstoe	gallery.me.com	2012-04-11 03:11:26	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	gallery.me.com-evan.kolstoe.warc.gz	170441067
+evan.kolstoe	homepage.mac.com	2012-04-11 03:11:26	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	homepage.mac.com-evan.kolstoe.warc.gz	4934
+evan.kolstoe	public.me.com	2012-04-11 03:03:39	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	public.me.com-evan.kolstoe.warc.gz	1923
+evan.kolstoe	web.me.com	2012-04-11 03:03:38	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	web.me.com-evan.kolstoe.warc.gz	197351510
+jon.burrow	gallery.me.com	2012-04-11 04:58:08	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	gallery.me.com-jon.burrow.warc.gz	3163258828
+jon.burrow	homepage.mac.com	2012-04-11 04:58:09	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	homepage.mac.com-jon.burrow.warc.gz	4931
+jon.burrow	public.me.com	2012-04-11 04:13:07	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	public.me.com-jon.burrow.warc.gz	1922
+jon.burrow	web.me.com	2012-04-11 04:13:06	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	web.me.com-jon.burrow.warc.gz	118731301
+levenston	gallery.me.com	2012-04-11 03:51:25	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	gallery.me.com-levenston.warc.gz	16957969
+levenston	homepage.mac.com	2012-04-11 03:51:25	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	homepage.mac.com-levenston.warc.gz	4909
+levenston	public.me.com	2012-04-11 03:50:56	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	public.me.com-levenston.warc.gz	1916
+levenston	web.me.com	2012-04-11 03:50:56	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	web.me.com-levenston.warc.gz	7141903
+zoose	gallery.me.com	2012-04-11 03:48:24	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	gallery.me.com-zoose.warc.gz	5680
+zoose	homepage.mac.com	2012-04-11 03:48:33	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	homepage.mac.com-zoose.warc.gz	110684
+zoose	public.me.com	2012-04-11 03:48:23	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	public.me.com-zoose.warc.gz	573652670
+zoose	web.me.com	2012-04-11 03:32:02	archiveteam-mobileme-hero-621x	archiveteam-mobileme-hero-621x-6219.tar	web.me.com-zoose.warc.gz	1794118976

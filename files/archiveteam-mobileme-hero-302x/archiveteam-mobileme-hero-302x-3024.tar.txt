@@ -1,8 +1,8 @@
-lookingback	gallery.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3024.tar	gallery.me.com-lookingback.warc.gz	0
-lookingback	homepage.mac.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3024.tar	homepage.mac.com-lookingback.warc.gz	0
-lookingback	public.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3024.tar	public.me.com-lookingback.warc.gz	0
-lookingback	web.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3024.tar	web.me.com-lookingback.warc.gz	0
-madebymart	gallery.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3024.tar	gallery.me.com-madebymart.warc.gz	0
-madebymart	homepage.mac.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3024.tar	homepage.mac.com-madebymart.warc.gz	0
-madebymart	public.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3024.tar	public.me.com-madebymart.warc.gz	0
-madebymart	web.me.com		archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3024.tar	web.me.com-madebymart.warc.gz	0
+lookingback	gallery.me.com	2012-04-02 15:56:52	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3024.tar	gallery.me.com-lookingback.warc.gz	3523666039
+lookingback	homepage.mac.com	2012-04-02 15:56:58	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3024.tar	homepage.mac.com-lookingback.warc.gz	144030
+lookingback	public.me.com	2012-04-02 14:24:37	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3024.tar	public.me.com-lookingback.warc.gz	3353
+lookingback	web.me.com	2012-04-02 14:24:36	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3024.tar	web.me.com-lookingback.warc.gz	256629492
+madebymart	gallery.me.com	2012-04-02 16:24:35	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3024.tar	gallery.me.com-madebymart.warc.gz	578787918
+madebymart	homepage.mac.com	2012-04-02 16:24:35	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3024.tar	homepage.mac.com-madebymart.warc.gz	4917
+madebymart	public.me.com	2012-04-02 16:11:21	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3024.tar	public.me.com-madebymart.warc.gz	1921
+madebymart	web.me.com	2012-04-02 16:11:20	archiveteam-mobileme-hero-302x	archiveteam-mobileme-hero-302x-3024.tar	web.me.com-madebymart.warc.gz	99873363

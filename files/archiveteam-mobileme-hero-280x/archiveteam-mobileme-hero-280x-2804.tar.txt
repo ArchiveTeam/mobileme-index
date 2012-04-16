@@ -1,16 +1,16 @@
-anke.boehning	gallery.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	gallery.me.com-anke.boehning.warc.gz	0
-anke.boehning	homepage.mac.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	homepage.mac.com-anke.boehning.warc.gz	0
-anke.boehning	public.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	public.me.com-anke.boehning.warc.gz	0
-anke.boehning	web.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	web.me.com-anke.boehning.warc.gz	0
-bouquillon	gallery.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	gallery.me.com-bouquillon.warc.gz	0
-bouquillon	homepage.mac.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	homepage.mac.com-bouquillon.warc.gz	0
-bouquillon	public.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	public.me.com-bouquillon.warc.gz	0
-bouquillon	web.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	web.me.com-bouquillon.warc.gz	0
-edelsteinr	gallery.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	gallery.me.com-edelsteinr.warc.gz	0
-edelsteinr	homepage.mac.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	homepage.mac.com-edelsteinr.warc.gz	0
-edelsteinr	public.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	public.me.com-edelsteinr.warc.gz	0
-edelsteinr	web.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	web.me.com-edelsteinr.warc.gz	0
-editor_2008	gallery.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	gallery.me.com-editor_2008.warc.gz	0
-editor_2008	homepage.mac.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	homepage.mac.com-editor_2008.warc.gz	0
-editor_2008	public.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	public.me.com-editor_2008.warc.gz	0
-editor_2008	web.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	web.me.com-editor_2008.warc.gz	0
+anke.boehning	gallery.me.com	2012-04-02 01:19:21	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	gallery.me.com-anke.boehning.warc.gz	92173901
+anke.boehning	homepage.mac.com	2012-04-02 01:19:21	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	homepage.mac.com-anke.boehning.warc.gz	4920
+anke.boehning	public.me.com	2012-04-02 01:17:34	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	public.me.com-anke.boehning.warc.gz	1932
+anke.boehning	web.me.com	2012-04-02 01:17:34	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	web.me.com-anke.boehning.warc.gz	131437590
+bouquillon	gallery.me.com	2012-04-02 01:11:08	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	gallery.me.com-bouquillon.warc.gz	1218897835
+bouquillon	homepage.mac.com	2012-04-02 01:11:08	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	homepage.mac.com-bouquillon.warc.gz	4927
+bouquillon	public.me.com	2012-04-02 00:46:40	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	public.me.com-bouquillon.warc.gz	370741844
+bouquillon	web.me.com	2012-04-02 00:38:55	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	web.me.com-bouquillon.warc.gz	854631412
+edelsteinr	gallery.me.com	2012-04-02 01:11:11	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	gallery.me.com-edelsteinr.warc.gz	4249
+edelsteinr	homepage.mac.com	2012-04-02 01:11:11	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	homepage.mac.com-edelsteinr.warc.gz	4919
+edelsteinr	public.me.com	2012-04-02 01:11:10	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	public.me.com-edelsteinr.warc.gz	3386
+edelsteinr	web.me.com	2012-04-02 01:11:10	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	web.me.com-edelsteinr.warc.gz	7425
+editor_2008	gallery.me.com	2012-04-02 03:00:11	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	gallery.me.com-editor_2008.warc.gz	57635070
+editor_2008	homepage.mac.com	2012-04-02 03:00:13	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	homepage.mac.com-editor_2008.warc.gz	71705
+editor_2008	public.me.com	2012-04-02 02:56:58	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	public.me.com-editor_2008.warc.gz	985200794
+editor_2008	web.me.com	2012-04-02 02:22:21	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2804.tar	web.me.com-editor_2008.warc.gz	4054097522

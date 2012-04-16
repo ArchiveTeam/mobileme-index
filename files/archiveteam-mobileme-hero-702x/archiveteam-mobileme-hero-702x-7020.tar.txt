@@ -1,12 +1,12 @@
-dbtucson	gallery.me.com		archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	gallery.me.com-dbtucson.warc.gz	0
-dbtucson	homepage.mac.com		archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	homepage.mac.com-dbtucson.warc.gz	0
-dbtucson	public.me.com		archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	public.me.com-dbtucson.warc.gz	0
-dbtucson	web.me.com		archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	web.me.com-dbtucson.warc.gz	0
-erinabramson	gallery.me.com		archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	gallery.me.com-erinabramson.warc.gz	0
-erinabramson	homepage.mac.com		archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	homepage.mac.com-erinabramson.warc.gz	0
-erinabramson	public.me.com		archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	public.me.com-erinabramson.warc.gz	0
-erinabramson	web.me.com		archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	web.me.com-erinabramson.warc.gz	0
-lincolnpa	gallery.me.com		archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	gallery.me.com-lincolnpa.warc.gz	0
-lincolnpa	homepage.mac.com		archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	homepage.mac.com-lincolnpa.warc.gz	0
-lincolnpa	public.me.com		archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	public.me.com-lincolnpa.warc.gz	0
-lincolnpa	web.me.com		archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	web.me.com-lincolnpa.warc.gz	0
+dbtucson	gallery.me.com	2012-04-12 19:54:21	archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	gallery.me.com-dbtucson.warc.gz	75874858
+dbtucson	homepage.mac.com	2012-04-12 19:54:21	archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	homepage.mac.com-dbtucson.warc.gz	4917
+dbtucson	public.me.com	2012-04-12 19:53:39	archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	public.me.com-dbtucson.warc.gz	2202019376
+dbtucson	web.me.com	2012-04-12 19:34:41	archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	web.me.com-dbtucson.warc.gz	555955725
+erinabramson	gallery.me.com	2012-04-12 23:35:31	archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	gallery.me.com-erinabramson.warc.gz	974280867
+erinabramson	homepage.mac.com	2012-04-12 23:37:34	archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	homepage.mac.com-erinabramson.warc.gz	2691451
+erinabramson	public.me.com	2012-04-12 23:10:25	archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	public.me.com-erinabramson.warc.gz	109635243
+erinabramson	web.me.com	2012-04-12 23:07:27	archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	web.me.com-erinabramson.warc.gz	1831757305
+lincolnpa	gallery.me.com	2012-04-12 20:33:40	archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	gallery.me.com-lincolnpa.warc.gz	201157528
+lincolnpa	homepage.mac.com	2012-04-12 20:33:41	archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	homepage.mac.com-lincolnpa.warc.gz	4917
+lincolnpa	public.me.com	2012-04-12 20:21:59	archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	public.me.com-lincolnpa.warc.gz	1910
+lincolnpa	web.me.com	2012-04-12 20:21:58	archiveteam-mobileme-hero-702x	archiveteam-mobileme-hero-702x-7020.tar	web.me.com-lincolnpa.warc.gz	237341552

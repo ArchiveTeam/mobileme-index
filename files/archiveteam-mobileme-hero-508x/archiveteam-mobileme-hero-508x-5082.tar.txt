@@ -1,20 +1,20 @@
-adkimmerly	gallery.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	gallery.me.com-adkimmerly.warc.gz	0
-adkimmerly	homepage.mac.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	homepage.mac.com-adkimmerly.warc.gz	0
-adkimmerly	public.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	public.me.com-adkimmerly.warc.gz	0
-adkimmerly	web.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	web.me.com-adkimmerly.warc.gz	0
-davis.brock	gallery.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	gallery.me.com-davis.brock.warc.gz	0
-davis.brock	homepage.mac.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	homepage.mac.com-davis.brock.warc.gz	0
-davis.brock	public.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	public.me.com-davis.brock.warc.gz	0
-davis.brock	web.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	web.me.com-davis.brock.warc.gz	0
-dawson	gallery.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	gallery.me.com-dawson.warc.gz	0
-dawson	homepage.mac.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	homepage.mac.com-dawson.warc.gz	0
-dawson	public.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	public.me.com-dawson.warc.gz	0
-dawson	web.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	web.me.com-dawson.warc.gz	0
-mhohage	gallery.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	gallery.me.com-mhohage.warc.gz	0
-mhohage	homepage.mac.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	homepage.mac.com-mhohage.warc.gz	0
-mhohage	public.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	public.me.com-mhohage.warc.gz	0
-mhohage	web.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	web.me.com-mhohage.warc.gz	0
-rhl1967	gallery.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	gallery.me.com-rhl1967.warc.gz	0
-rhl1967	homepage.mac.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	homepage.mac.com-rhl1967.warc.gz	0
-rhl1967	public.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	public.me.com-rhl1967.warc.gz	0
-rhl1967	web.me.com		archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	web.me.com-rhl1967.warc.gz	0
+adkimmerly	gallery.me.com	2012-04-08 03:10:55	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	gallery.me.com-adkimmerly.warc.gz	247192864
+adkimmerly	homepage.mac.com	2012-04-08 03:10:56	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	homepage.mac.com-adkimmerly.warc.gz	4901
+adkimmerly	public.me.com	2012-04-08 02:59:04	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	public.me.com-adkimmerly.warc.gz	2155631272
+adkimmerly	web.me.com	2012-04-08 01:37:01	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	web.me.com-adkimmerly.warc.gz	56478344
+davis.brock	gallery.me.com	2012-04-07 22:10:34	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	gallery.me.com-davis.brock.warc.gz	4304
+davis.brock	homepage.mac.com	2012-04-07 22:10:34	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	homepage.mac.com-davis.brock.warc.gz	4916
+davis.brock	public.me.com	2012-04-07 22:10:33	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	public.me.com-davis.brock.warc.gz	1923
+davis.brock	web.me.com	2012-04-07 22:10:33	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	web.me.com-davis.brock.warc.gz	218533429
+dawson	gallery.me.com	2012-04-08 01:21:56	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	gallery.me.com-dawson.warc.gz	2225222881
+dawson	homepage.mac.com	2012-04-08 01:22:06	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	homepage.mac.com-dawson.warc.gz	127309
+dawson	public.me.com	2012-04-07 23:43:25	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	public.me.com-dawson.warc.gz	176413163
+dawson	web.me.com	2012-04-07 23:34:25	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	web.me.com-dawson.warc.gz	936035880
+mhohage	gallery.me.com	2012-04-07 22:10:39	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	gallery.me.com-mhohage.warc.gz	4241
+mhohage	homepage.mac.com	2012-04-07 22:11:01	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	homepage.mac.com-mhohage.warc.gz	366813
+mhohage	public.me.com	2012-04-07 22:10:38	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	public.me.com-mhohage.warc.gz	1915
+mhohage	web.me.com	2012-04-07 22:10:38	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	web.me.com-mhohage.warc.gz	7430
+rhl1967	gallery.me.com	2012-04-07 22:05:39	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	gallery.me.com-rhl1967.warc.gz	265987584
+rhl1967	homepage.mac.com	2012-04-07 22:05:40	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	homepage.mac.com-rhl1967.warc.gz	4888
+rhl1967	public.me.com	2012-04-07 21:57:04	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	public.me.com-rhl1967.warc.gz	1920
+rhl1967	web.me.com	2012-04-07 21:57:03	archiveteam-mobileme-hero-508x	archiveteam-mobileme-hero-508x-5082.tar	web.me.com-rhl1967.warc.gz	20631362

@@ -1,8 +1,8 @@
-jenherrington	gallery.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2558.tar	gallery.me.com-jenherrington.warc.gz	0
-jenherrington	homepage.mac.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2558.tar	homepage.mac.com-jenherrington.warc.gz	0
-jenherrington	public.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2558.tar	public.me.com-jenherrington.warc.gz	0
-jenherrington	web.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2558.tar	web.me.com-jenherrington.warc.gz	0
-jonnymorrow	gallery.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2558.tar	gallery.me.com-jonnymorrow.warc.gz	0
-jonnymorrow	homepage.mac.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2558.tar	homepage.mac.com-jonnymorrow.warc.gz	0
-jonnymorrow	public.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2558.tar	public.me.com-jonnymorrow.warc.gz	0
-jonnymorrow	web.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2558.tar	web.me.com-jonnymorrow.warc.gz	0
+jenherrington	gallery.me.com	2012-03-31 22:58:57	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2558.tar	gallery.me.com-jenherrington.warc.gz	335740493
+jenherrington	homepage.mac.com	2012-03-31 22:59:00	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2558.tar	homepage.mac.com-jenherrington.warc.gz	72071
+jenherrington	public.me.com	2012-03-31 22:55:22	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2558.tar	public.me.com-jenherrington.warc.gz	245295724
+jenherrington	web.me.com	2012-03-31 22:45:58	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2558.tar	web.me.com-jenherrington.warc.gz	4689197
+jonnymorrow	gallery.me.com	2012-04-01 01:02:43	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2558.tar	gallery.me.com-jonnymorrow.warc.gz	31021607
+jonnymorrow	homepage.mac.com	2012-04-01 01:02:48	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2558.tar	homepage.mac.com-jonnymorrow.warc.gz	181440
+jonnymorrow	public.me.com	2012-04-01 01:00:29	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2558.tar	public.me.com-jonnymorrow.warc.gz	6332781232
+jonnymorrow	web.me.com	2012-03-31 23:04:52	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2558.tar	web.me.com-jonnymorrow.warc.gz	131416790

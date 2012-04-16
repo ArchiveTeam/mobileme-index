@@ -1,20 +1,20 @@
-bgong	gallery.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	gallery.me.com-bgong.warc.gz	0
-bgong	homepage.mac.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	homepage.mac.com-bgong.warc.gz	0
-bgong	public.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	public.me.com-bgong.warc.gz	0
-bgong	web.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	web.me.com-bgong.warc.gz	0
-bob.kirk	gallery.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	gallery.me.com-bob.kirk.warc.gz	0
-bob.kirk	homepage.mac.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	homepage.mac.com-bob.kirk.warc.gz	0
-bob.kirk	public.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	public.me.com-bob.kirk.warc.gz	0
-bob.kirk	web.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	web.me.com-bob.kirk.warc.gz	0
-fripullo	gallery.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	gallery.me.com-fripullo.warc.gz	0
-fripullo	homepage.mac.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	homepage.mac.com-fripullo.warc.gz	0
-fripullo	public.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	public.me.com-fripullo.warc.gz	0
-fripullo	web.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	web.me.com-fripullo.warc.gz	0
-homepage	gallery.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	gallery.me.com-homepage.warc.gz	0
-homepage	homepage.mac.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	homepage.mac.com-homepage.warc.gz	0
-homepage	public.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	public.me.com-homepage.warc.gz	0
-homepage	web.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	web.me.com-homepage.warc.gz	0
-sunshine_daydreaming	gallery.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	gallery.me.com-sunshine_daydreaming.warc.gz	0
-sunshine_daydreaming	homepage.mac.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	homepage.mac.com-sunshine_daydreaming.warc.gz	0
-sunshine_daydreaming	public.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	public.me.com-sunshine_daydreaming.warc.gz	0
-sunshine_daydreaming	web.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	web.me.com-sunshine_daydreaming.warc.gz	0
+bgong	gallery.me.com	2012-04-01 00:39:56	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	gallery.me.com-bgong.warc.gz	880149
+bgong	homepage.mac.com	2012-04-01 00:39:58	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	homepage.mac.com-bgong.warc.gz	4873
+bgong	public.me.com	2012-04-01 00:39:51	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	public.me.com-bgong.warc.gz	1907
+bgong	web.me.com	2012-04-01 00:39:36	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	web.me.com-bgong.warc.gz	4940575190
+bob.kirk	gallery.me.com	2012-03-31 23:14:47	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	gallery.me.com-bob.kirk.warc.gz	139132862
+bob.kirk	homepage.mac.com	2012-03-31 23:14:47	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	homepage.mac.com-bob.kirk.warc.gz	4901
+bob.kirk	public.me.com	2012-03-31 23:11:44	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	public.me.com-bob.kirk.warc.gz	1917
+bob.kirk	web.me.com	2012-03-31 23:11:42	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	web.me.com-bob.kirk.warc.gz	9385728
+fripullo	gallery.me.com	2012-03-31 23:24:41	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	gallery.me.com-fripullo.warc.gz	5657
+fripullo	homepage.mac.com	2012-03-31 23:24:41	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	homepage.mac.com-fripullo.warc.gz	4913
+fripullo	public.me.com	2012-03-31 23:24:40	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	public.me.com-fripullo.warc.gz	1911
+fripullo	web.me.com	2012-03-31 23:24:40	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	web.me.com-fripullo.warc.gz	66986142
+homepage	gallery.me.com	2012-03-31 23:24:43	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	gallery.me.com-homepage.warc.gz	8347
+homepage	homepage.mac.com	2012-03-31 23:24:43	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	homepage.mac.com-homepage.warc.gz	5140
+homepage	public.me.com	2012-03-31 23:24:42	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	public.me.com-homepage.warc.gz	1911
+homepage	web.me.com	2012-03-31 23:24:42	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	web.me.com-homepage.warc.gz	17662
+sunshine_daydreaming	gallery.me.com	2012-03-31 23:07:12	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	gallery.me.com-sunshine_daydreaming.warc.gz	12352
+sunshine_daydreaming	homepage.mac.com	2012-03-31 23:07:13	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	homepage.mac.com-sunshine_daydreaming.warc.gz	7162
+sunshine_daydreaming	public.me.com	2012-03-31 23:07:12	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	public.me.com-sunshine_daydreaming.warc.gz	1948
+sunshine_daydreaming	web.me.com	2012-03-31 23:07:11	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2550.tar	web.me.com-sunshine_daydreaming.warc.gz	22503

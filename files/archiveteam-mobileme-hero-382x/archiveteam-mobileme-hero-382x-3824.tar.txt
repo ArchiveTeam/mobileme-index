@@ -1,16 +1,16 @@
-burneycarbo	gallery.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	gallery.me.com-burneycarbo.warc.gz	0
-burneycarbo	homepage.mac.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	homepage.mac.com-burneycarbo.warc.gz	0
-burneycarbo	public.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	public.me.com-burneycarbo.warc.gz	0
-burneycarbo	web.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	web.me.com-burneycarbo.warc.gz	0
-jbritten	gallery.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	gallery.me.com-jbritten.warc.gz	0
-jbritten	homepage.mac.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	homepage.mac.com-jbritten.warc.gz	0
-jbritten	public.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	public.me.com-jbritten.warc.gz	0
-jbritten	web.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	web.me.com-jbritten.warc.gz	0
-paplinda	gallery.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	gallery.me.com-paplinda.warc.gz	0
-paplinda	homepage.mac.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	homepage.mac.com-paplinda.warc.gz	0
-paplinda	public.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	public.me.com-paplinda.warc.gz	0
-paplinda	web.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	web.me.com-paplinda.warc.gz	0
-zeldersfred	gallery.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	gallery.me.com-zeldersfred.warc.gz	0
-zeldersfred	homepage.mac.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	homepage.mac.com-zeldersfred.warc.gz	0
-zeldersfred	public.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	public.me.com-zeldersfred.warc.gz	0
-zeldersfred	web.me.com		archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	web.me.com-zeldersfred.warc.gz	0
+burneycarbo	gallery.me.com	2012-04-04 10:25:20	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	gallery.me.com-burneycarbo.warc.gz	622156
+burneycarbo	homepage.mac.com	2012-04-04 10:25:36	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	homepage.mac.com-burneycarbo.warc.gz	158997
+burneycarbo	public.me.com	2012-04-04 10:25:17	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	public.me.com-burneycarbo.warc.gz	1925
+burneycarbo	web.me.com	2012-04-04 10:25:16	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	web.me.com-burneycarbo.warc.gz	61283918
+jbritten	gallery.me.com	2012-04-04 13:17:14	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	gallery.me.com-jbritten.warc.gz	7642780241
+jbritten	homepage.mac.com	2012-04-04 13:17:14	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	homepage.mac.com-jbritten.warc.gz	4908
+jbritten	public.me.com	2012-04-04 11:04:46	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	public.me.com-jbritten.warc.gz	24368422
+jbritten	web.me.com	2012-04-04 11:03:48	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	web.me.com-jbritten.warc.gz	203489005
+paplinda	gallery.me.com	2012-04-04 10:41:50	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	gallery.me.com-paplinda.warc.gz	5754
+paplinda	homepage.mac.com	2012-04-04 10:41:55	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	homepage.mac.com-paplinda.warc.gz	98408
+paplinda	public.me.com	2012-04-04 10:41:49	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	public.me.com-paplinda.warc.gz	3568
+paplinda	web.me.com	2012-04-04 10:41:48	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	web.me.com-paplinda.warc.gz	603141619
+zeldersfred	gallery.me.com	2012-04-04 10:42:41	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	gallery.me.com-zeldersfred.warc.gz	6158
+zeldersfred	homepage.mac.com	2012-04-04 10:42:41	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	homepage.mac.com-zeldersfred.warc.gz	4927
+zeldersfred	public.me.com	2012-04-04 10:42:35	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	public.me.com-zeldersfred.warc.gz	3531
+zeldersfred	web.me.com	2012-04-04 10:42:34	archiveteam-mobileme-hero-382x	archiveteam-mobileme-hero-382x-3824.tar	web.me.com-zeldersfred.warc.gz	1207631

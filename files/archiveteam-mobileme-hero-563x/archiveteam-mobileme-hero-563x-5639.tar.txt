@@ -1,12 +1,12 @@
-djalextaylor	gallery.me.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	gallery.me.com-djalextaylor.warc.gz	0
-djalextaylor	homepage.mac.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	homepage.mac.com-djalextaylor.warc.gz	0
-djalextaylor	public.me.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	public.me.com-djalextaylor.warc.gz	0
-djalextaylor	web.me.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	web.me.com-djalextaylor.warc.gz	0
-john_landor	gallery.me.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	gallery.me.com-john_landor.warc.gz	0
-john_landor	homepage.mac.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	homepage.mac.com-john_landor.warc.gz	0
-john_landor	public.me.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	public.me.com-john_landor.warc.gz	0
-john_landor	web.me.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	web.me.com-john_landor.warc.gz	0
-qorbcw	gallery.me.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	gallery.me.com-qorbcw.warc.gz	0
-qorbcw	homepage.mac.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	homepage.mac.com-qorbcw.warc.gz	0
-qorbcw	public.me.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	public.me.com-qorbcw.warc.gz	0
-qorbcw	web.me.com		archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	web.me.com-qorbcw.warc.gz	0
+djalextaylor	gallery.me.com	2012-04-09 21:36:26	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	gallery.me.com-djalextaylor.warc.gz	987418845
+djalextaylor	homepage.mac.com	2012-04-09 21:36:28	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	homepage.mac.com-djalextaylor.warc.gz	4939
+djalextaylor	public.me.com	2012-04-09 21:19:12	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	public.me.com-djalextaylor.warc.gz	70474
+djalextaylor	web.me.com	2012-04-09 21:18:59	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	web.me.com-djalextaylor.warc.gz	3757580744
+john_landor	gallery.me.com	2012-04-09 20:23:05	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	gallery.me.com-john_landor.warc.gz	4309
+john_landor	homepage.mac.com	2012-04-09 20:23:05	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	homepage.mac.com-john_landor.warc.gz	4935
+john_landor	public.me.com	2012-04-09 20:23:02	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	public.me.com-john_landor.warc.gz	1927
+john_landor	web.me.com	2012-04-09 20:23:01	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	web.me.com-john_landor.warc.gz	28917719
+qorbcw	gallery.me.com	2012-04-09 20:23:07	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	gallery.me.com-qorbcw.warc.gz	8347
+qorbcw	homepage.mac.com	2012-04-09 20:23:07	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	homepage.mac.com-qorbcw.warc.gz	5155
+qorbcw	public.me.com	2012-04-09 20:23:07	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	public.me.com-qorbcw.warc.gz	1917
+qorbcw	web.me.com	2012-04-09 20:23:06	archiveteam-mobileme-hero-563x	archiveteam-mobileme-hero-563x-5639.tar	web.me.com-qorbcw.warc.gz	17648

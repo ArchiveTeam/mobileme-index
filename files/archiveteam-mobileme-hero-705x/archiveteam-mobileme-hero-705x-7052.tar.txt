@@ -1,8 +1,8 @@
-brainbox.k	gallery.me.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7052.tar	gallery.me.com-brainbox.k.warc.gz	0
-brainbox.k	homepage.mac.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7052.tar	homepage.mac.com-brainbox.k.warc.gz	0
-brainbox.k	public.me.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7052.tar	public.me.com-brainbox.k.warc.gz	0
-brainbox.k	web.me.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7052.tar	web.me.com-brainbox.k.warc.gz	0
-niclas	gallery.me.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7052.tar	gallery.me.com-niclas.warc.gz	0
-niclas	homepage.mac.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7052.tar	homepage.mac.com-niclas.warc.gz	0
-niclas	public.me.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7052.tar	public.me.com-niclas.warc.gz	0
-niclas	web.me.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7052.tar	web.me.com-niclas.warc.gz	0
+brainbox.k	gallery.me.com	2012-04-13 01:28:27	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7052.tar	gallery.me.com-brainbox.k.warc.gz	88139712
+brainbox.k	homepage.mac.com	2012-04-13 01:33:44	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7052.tar	homepage.mac.com-brainbox.k.warc.gz	5557762
+brainbox.k	public.me.com	2012-04-13 01:21:48	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7052.tar	public.me.com-brainbox.k.warc.gz	6761052369
+brainbox.k	web.me.com	2012-04-13 00:15:08	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7052.tar	web.me.com-brainbox.k.warc.gz	717695966
+niclas	gallery.me.com	2012-04-12 23:59:31	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7052.tar	gallery.me.com-niclas.warc.gz	287028165
+niclas	homepage.mac.com	2012-04-12 23:59:32	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7052.tar	homepage.mac.com-niclas.warc.gz	9352
+niclas	public.me.com	2012-04-12 23:54:38	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7052.tar	public.me.com-niclas.warc.gz	1289222986
+niclas	web.me.com	2012-04-12 23:31:48	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7052.tar	web.me.com-niclas.warc.gz	72076481

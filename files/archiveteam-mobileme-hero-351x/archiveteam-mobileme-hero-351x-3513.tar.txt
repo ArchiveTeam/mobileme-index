@@ -1,12 +1,12 @@
-bennyrasmussen	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	gallery.me.com-bennyrasmussen.warc.gz	0
-bennyrasmussen	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	homepage.mac.com-bennyrasmussen.warc.gz	0
-bennyrasmussen	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	public.me.com-bennyrasmussen.warc.gz	0
-bennyrasmussen	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	web.me.com-bennyrasmussen.warc.gz	0
-carolinelson	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	gallery.me.com-carolinelson.warc.gz	0
-carolinelson	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	homepage.mac.com-carolinelson.warc.gz	0
-carolinelson	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	public.me.com-carolinelson.warc.gz	0
-carolinelson	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	web.me.com-carolinelson.warc.gz	0
-ekskog	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	gallery.me.com-ekskog.warc.gz	0
-ekskog	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	homepage.mac.com-ekskog.warc.gz	0
-ekskog	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	public.me.com-ekskog.warc.gz	0
-ekskog	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	web.me.com-ekskog.warc.gz	0
+bennyrasmussen	gallery.me.com	2012-04-03 17:43:23	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	gallery.me.com-bennyrasmussen.warc.gz	1017441478
+bennyrasmussen	homepage.mac.com	2012-04-03 17:43:29	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	homepage.mac.com-bennyrasmussen.warc.gz	72080
+bennyrasmussen	public.me.com	2012-04-03 17:13:34	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	public.me.com-bennyrasmussen.warc.gz	1502123198
+bennyrasmussen	web.me.com	2012-04-03 16:21:00	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	web.me.com-bennyrasmussen.warc.gz	837044833
+carolinelson	gallery.me.com	2012-04-03 15:33:43	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	gallery.me.com-carolinelson.warc.gz	665085303
+carolinelson	homepage.mac.com	2012-04-03 15:33:44	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	homepage.mac.com-carolinelson.warc.gz	4918
+carolinelson	public.me.com	2012-04-03 15:15:43	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	public.me.com-carolinelson.warc.gz	54854068
+carolinelson	web.me.com	2012-04-03 15:13:10	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	web.me.com-carolinelson.warc.gz	36184938
+ekskog	gallery.me.com	2012-04-03 17:55:45	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	gallery.me.com-ekskog.warc.gz	232306051
+ekskog	homepage.mac.com	2012-04-03 17:55:46	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	homepage.mac.com-ekskog.warc.gz	4881
+ekskog	public.me.com	2012-04-03 17:46:28	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	public.me.com-ekskog.warc.gz	1912
+ekskog	web.me.com	2012-04-03 17:46:22	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3513.tar	web.me.com-ekskog.warc.gz	4363724

@@ -1,28 +1,28 @@
-c270049721	gallery.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	gallery.me.com-c270049721.warc.gz	0
-c270049721	homepage.mac.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	homepage.mac.com-c270049721.warc.gz	0
-c270049721	public.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	public.me.com-c270049721.warc.gz	0
-c270049721	web.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	web.me.com-c270049721.warc.gz	0
-colnot.florent	gallery.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	gallery.me.com-colnot.florent.warc.gz	0
-colnot.florent	homepage.mac.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	homepage.mac.com-colnot.florent.warc.gz	0
-colnot.florent	public.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	public.me.com-colnot.florent.warc.gz	0
-colnot.florent	web.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	web.me.com-colnot.florent.warc.gz	0
-eise	gallery.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	gallery.me.com-eise.warc.gz	0
-eise	homepage.mac.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	homepage.mac.com-eise.warc.gz	0
-eise	public.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	public.me.com-eise.warc.gz	0
-eise	web.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	web.me.com-eise.warc.gz	0
-jonclaudejenkins	gallery.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	gallery.me.com-jonclaudejenkins.warc.gz	0
-jonclaudejenkins	homepage.mac.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	homepage.mac.com-jonclaudejenkins.warc.gz	0
-jonclaudejenkins	public.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	public.me.com-jonclaudejenkins.warc.gz	0
-jonclaudejenkins	web.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	web.me.com-jonclaudejenkins.warc.gz	0
-kieuhai	gallery.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	gallery.me.com-kieuhai.warc.gz	0
-kieuhai	homepage.mac.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	homepage.mac.com-kieuhai.warc.gz	0
-kieuhai	public.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	public.me.com-kieuhai.warc.gz	0
-kieuhai	web.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	web.me.com-kieuhai.warc.gz	0
-lonelywingmen	gallery.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	gallery.me.com-lonelywingmen.warc.gz	0
-lonelywingmen	homepage.mac.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	homepage.mac.com-lonelywingmen.warc.gz	0
-lonelywingmen	public.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	public.me.com-lonelywingmen.warc.gz	0
-lonelywingmen	web.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	web.me.com-lonelywingmen.warc.gz	0
-robertmcevily	gallery.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	gallery.me.com-robertmcevily.warc.gz	0
-robertmcevily	homepage.mac.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	homepage.mac.com-robertmcevily.warc.gz	0
-robertmcevily	public.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	public.me.com-robertmcevily.warc.gz	0
-robertmcevily	web.me.com		archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	web.me.com-robertmcevily.warc.gz	0
+c270049721	gallery.me.com	2012-04-05 14:16:53	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	gallery.me.com-c270049721.warc.gz	8356
+c270049721	homepage.mac.com	2012-04-05 14:16:53	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	homepage.mac.com-c270049721.warc.gz	5164
+c270049721	public.me.com	2012-04-05 14:16:53	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	public.me.com-c270049721.warc.gz	1926
+c270049721	web.me.com	2012-04-05 14:16:53	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	web.me.com-c270049721.warc.gz	17737
+colnot.florent	gallery.me.com	2012-04-05 14:52:39	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	gallery.me.com-colnot.florent.warc.gz	792217154
+colnot.florent	homepage.mac.com	2012-04-05 14:52:39	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	homepage.mac.com-colnot.florent.warc.gz	4937
+colnot.florent	public.me.com	2012-04-05 14:37:30	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	public.me.com-colnot.florent.warc.gz	1922
+colnot.florent	web.me.com	2012-04-05 14:37:29	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	web.me.com-colnot.florent.warc.gz	15662287
+eise	gallery.me.com	2012-04-05 14:34:04	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	gallery.me.com-eise.warc.gz	413912107
+eise	homepage.mac.com	2012-04-05 14:34:04	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	homepage.mac.com-eise.warc.gz	4897
+eise	public.me.com	2012-04-05 14:31:14	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	public.me.com-eise.warc.gz	1903
+eise	web.me.com	2012-04-05 14:31:04	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	web.me.com-eise.warc.gz	41387810
+jonclaudejenkins	gallery.me.com	2012-04-05 14:27:06	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	gallery.me.com-jonclaudejenkins.warc.gz	33114331
+jonclaudejenkins	homepage.mac.com	2012-04-05 14:27:06	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	homepage.mac.com-jonclaudejenkins.warc.gz	4927
+jonclaudejenkins	public.me.com	2012-04-05 14:26:08	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	public.me.com-jonclaudejenkins.warc.gz	1932
+jonclaudejenkins	web.me.com	2012-04-05 14:26:08	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	web.me.com-jonclaudejenkins.warc.gz	46935501
+kieuhai	gallery.me.com	2012-04-05 14:22:30	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	gallery.me.com-kieuhai.warc.gz	19431155
+kieuhai	homepage.mac.com	2012-04-05 14:22:30	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	homepage.mac.com-kieuhai.warc.gz	4908
+kieuhai	public.me.com	2012-04-05 14:22:21	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	public.me.com-kieuhai.warc.gz	1911
+kieuhai	web.me.com	2012-04-05 14:22:20	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	web.me.com-kieuhai.warc.gz	91514722
+lonelywingmen	gallery.me.com	2012-04-05 14:16:52	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	gallery.me.com-lonelywingmen.warc.gz	5043
+lonelywingmen	homepage.mac.com	2012-04-05 14:16:52	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	homepage.mac.com-lonelywingmen.warc.gz	4929
+lonelywingmen	public.me.com	2012-04-05 14:16:51	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	public.me.com-lonelywingmen.warc.gz	1929
+lonelywingmen	web.me.com	2012-04-05 14:16:51	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	web.me.com-lonelywingmen.warc.gz	697127848
+robertmcevily	gallery.me.com	2012-04-05 15:34:10	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	gallery.me.com-robertmcevily.warc.gz	3183350923
+robertmcevily	homepage.mac.com	2012-04-05 15:34:10	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	homepage.mac.com-robertmcevily.warc.gz	4939
+robertmcevily	public.me.com	2012-04-05 15:01:11	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	public.me.com-robertmcevily.warc.gz	1927
+robertmcevily	web.me.com	2012-04-05 15:01:11	archiveteam-mobileme-hero-428x	archiveteam-mobileme-hero-428x-4289.tar	web.me.com-robertmcevily.warc.gz	60935093

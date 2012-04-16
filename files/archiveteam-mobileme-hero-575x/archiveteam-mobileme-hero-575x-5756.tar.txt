@@ -1,16 +1,16 @@
-bitterboy	gallery.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	gallery.me.com-bitterboy.warc.gz	0
-bitterboy	homepage.mac.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	homepage.mac.com-bitterboy.warc.gz	0
-bitterboy	public.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	public.me.com-bitterboy.warc.gz	0
-bitterboy	web.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	web.me.com-bitterboy.warc.gz	0
-environment	gallery.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	gallery.me.com-environment.warc.gz	0
-environment	homepage.mac.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	homepage.mac.com-environment.warc.gz	0
-environment	public.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	public.me.com-environment.warc.gz	0
-environment	web.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	web.me.com-environment.warc.gz	0
-jennygwiz	gallery.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	gallery.me.com-jennygwiz.warc.gz	0
-jennygwiz	homepage.mac.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	homepage.mac.com-jennygwiz.warc.gz	0
-jennygwiz	public.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	public.me.com-jennygwiz.warc.gz	0
-jennygwiz	web.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	web.me.com-jennygwiz.warc.gz	0
-robbyj6226	gallery.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	gallery.me.com-robbyj6226.warc.gz	0
-robbyj6226	homepage.mac.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	homepage.mac.com-robbyj6226.warc.gz	0
-robbyj6226	public.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	public.me.com-robbyj6226.warc.gz	0
-robbyj6226	web.me.com		archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	web.me.com-robbyj6226.warc.gz	0
+bitterboy	gallery.me.com	2012-04-10 04:34:03	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	gallery.me.com-bitterboy.warc.gz	2426231595
+bitterboy	homepage.mac.com	2012-04-10 04:34:03	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	homepage.mac.com-bitterboy.warc.gz	4899
+bitterboy	public.me.com	2012-04-10 02:58:29	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	public.me.com-bitterboy.warc.gz	3376
+bitterboy	web.me.com	2012-04-10 02:58:12	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	web.me.com-bitterboy.warc.gz	919558130
+environment	gallery.me.com	2012-04-10 01:17:08	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	gallery.me.com-environment.warc.gz	1276413451
+environment	homepage.mac.com	2012-04-10 01:17:08	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	homepage.mac.com-environment.warc.gz	4918
+environment	public.me.com	2012-04-10 00:47:56	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	public.me.com-environment.warc.gz	1922
+environment	web.me.com	2012-04-10 00:47:52	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	web.me.com-environment.warc.gz	239077741
+jennygwiz	gallery.me.com	2012-04-10 01:41:00	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	gallery.me.com-jennygwiz.warc.gz	265349364
+jennygwiz	homepage.mac.com	2012-04-10 01:41:00	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	homepage.mac.com-jennygwiz.warc.gz	4926
+jennygwiz	public.me.com	2012-04-10 01:36:53	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	public.me.com-jennygwiz.warc.gz	1923
+jennygwiz	web.me.com	2012-04-10 01:36:52	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	web.me.com-jennygwiz.warc.gz	3753048
+robbyj6226	gallery.me.com	2012-04-10 01:34:00	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	gallery.me.com-robbyj6226.warc.gz	4254
+robbyj6226	homepage.mac.com	2012-04-10 01:34:00	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	homepage.mac.com-robbyj6226.warc.gz	4905
+robbyj6226	public.me.com	2012-04-10 01:33:59	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	public.me.com-robbyj6226.warc.gz	1916
+robbyj6226	web.me.com	2012-04-10 01:33:58	archiveteam-mobileme-hero-575x	archiveteam-mobileme-hero-575x-5756.tar	web.me.com-robbyj6226.warc.gz	335042342

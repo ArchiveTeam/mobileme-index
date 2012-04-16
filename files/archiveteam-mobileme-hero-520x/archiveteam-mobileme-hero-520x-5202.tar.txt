@@ -1,20 +1,20 @@
-applelinks	gallery.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	gallery.me.com-applelinks.warc.gz	0
-applelinks	homepage.mac.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	homepage.mac.com-applelinks.warc.gz	0
-applelinks	public.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	public.me.com-applelinks.warc.gz	0
-applelinks	web.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	web.me.com-applelinks.warc.gz	0
-cameramotion	gallery.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	gallery.me.com-cameramotion.warc.gz	0
-cameramotion	homepage.mac.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	homepage.mac.com-cameramotion.warc.gz	0
-cameramotion	public.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	public.me.com-cameramotion.warc.gz	0
-cameramotion	web.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	web.me.com-cameramotion.warc.gz	0
-jbraganza	gallery.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	gallery.me.com-jbraganza.warc.gz	0
-jbraganza	homepage.mac.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	homepage.mac.com-jbraganza.warc.gz	0
-jbraganza	public.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	public.me.com-jbraganza.warc.gz	0
-jbraganza	web.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	web.me.com-jbraganza.warc.gz	0
-kateartibee	gallery.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	gallery.me.com-kateartibee.warc.gz	0
-kateartibee	homepage.mac.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	homepage.mac.com-kateartibee.warc.gz	0
-kateartibee	public.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	public.me.com-kateartibee.warc.gz	0
-kateartibee	web.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	web.me.com-kateartibee.warc.gz	0
-lexifowler	gallery.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	gallery.me.com-lexifowler.warc.gz	0
-lexifowler	homepage.mac.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	homepage.mac.com-lexifowler.warc.gz	0
-lexifowler	public.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	public.me.com-lexifowler.warc.gz	0
-lexifowler	web.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	web.me.com-lexifowler.warc.gz	0
+applelinks	gallery.me.com	2012-04-08 21:46:58	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	gallery.me.com-applelinks.warc.gz	3273747691
+applelinks	homepage.mac.com	2012-04-08 21:46:58	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	homepage.mac.com-applelinks.warc.gz	3384
+applelinks	public.me.com	2012-04-08 21:03:08	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	public.me.com-applelinks.warc.gz	4034680
+applelinks	web.me.com	2012-04-08 21:02:38	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	web.me.com-applelinks.warc.gz	1110241684
+cameramotion	gallery.me.com	2012-04-08 20:11:14	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	gallery.me.com-cameramotion.warc.gz	4997
+cameramotion	homepage.mac.com	2012-04-08 20:11:14	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	homepage.mac.com-cameramotion.warc.gz	4932
+cameramotion	public.me.com	2012-04-08 20:11:13	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	public.me.com-cameramotion.warc.gz	242435019
+cameramotion	web.me.com	2012-04-08 20:10:04	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	web.me.com-cameramotion.warc.gz	2601546155
+jbraganza	gallery.me.com	2012-04-08 20:27:43	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	gallery.me.com-jbraganza.warc.gz	12338
+jbraganza	homepage.mac.com	2012-04-08 20:27:43	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	homepage.mac.com-jbraganza.warc.gz	7171
+jbraganza	public.me.com	2012-04-08 20:27:42	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	public.me.com-jbraganza.warc.gz	1926
+jbraganza	web.me.com	2012-04-08 20:27:42	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	web.me.com-jbraganza.warc.gz	22521
+kateartibee	gallery.me.com	2012-04-08 20:27:40	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	gallery.me.com-kateartibee.warc.gz	279462624
+kateartibee	homepage.mac.com	2012-04-08 20:27:40	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	homepage.mac.com-kateartibee.warc.gz	4928
+kateartibee	public.me.com	2012-04-08 20:23:09	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	public.me.com-kateartibee.warc.gz	1927
+kateartibee	web.me.com	2012-04-08 20:23:09	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	web.me.com-kateartibee.warc.gz	317878457
+lexifowler	gallery.me.com	2012-04-08 19:33:00	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	gallery.me.com-lexifowler.warc.gz	558036089
+lexifowler	homepage.mac.com	2012-04-08 19:33:00	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	homepage.mac.com-lexifowler.warc.gz	4933
+lexifowler	public.me.com	2012-04-08 19:25:42	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	public.me.com-lexifowler.warc.gz	22200
+lexifowler	web.me.com	2012-04-08 19:25:41	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5202.tar	web.me.com-lexifowler.warc.gz	185868302

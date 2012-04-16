@@ -1,20 +1,20 @@
-c1082150190	gallery.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	gallery.me.com-c1082150190.warc.gz	0
-c1082150190	homepage.mac.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	homepage.mac.com-c1082150190.warc.gz	0
-c1082150190	public.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	public.me.com-c1082150190.warc.gz	0
-c1082150190	web.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	web.me.com-c1082150190.warc.gz	0
-eric.vanquill	gallery.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	gallery.me.com-eric.vanquill.warc.gz	0
-eric.vanquill	homepage.mac.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	homepage.mac.com-eric.vanquill.warc.gz	0
-eric.vanquill	public.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	public.me.com-eric.vanquill.warc.gz	0
-eric.vanquill	web.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	web.me.com-eric.vanquill.warc.gz	0
-hvanbrug	gallery.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	gallery.me.com-hvanbrug.warc.gz	0
-hvanbrug	homepage.mac.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	homepage.mac.com-hvanbrug.warc.gz	0
-hvanbrug	public.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	public.me.com-hvanbrug.warc.gz	0
-hvanbrug	web.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	web.me.com-hvanbrug.warc.gz	0
-mediathatmatters	gallery.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	gallery.me.com-mediathatmatters.warc.gz	0
-mediathatmatters	homepage.mac.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	homepage.mac.com-mediathatmatters.warc.gz	0
-mediathatmatters	public.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	public.me.com-mediathatmatters.warc.gz	0
-mediathatmatters	web.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	web.me.com-mediathatmatters.warc.gz	0
-perrine.storme	gallery.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	gallery.me.com-perrine.storme.warc.gz	0
-perrine.storme	homepage.mac.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	homepage.mac.com-perrine.storme.warc.gz	0
-perrine.storme	public.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	public.me.com-perrine.storme.warc.gz	0
-perrine.storme	web.me.com		archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	web.me.com-perrine.storme.warc.gz	0
+c1082150190	gallery.me.com	2012-04-02 13:16:53	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	gallery.me.com-c1082150190.warc.gz	8375
+c1082150190	homepage.mac.com	2012-04-02 13:16:53	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	homepage.mac.com-c1082150190.warc.gz	5180
+c1082150190	public.me.com	2012-04-02 13:16:52	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	public.me.com-c1082150190.warc.gz	1926
+c1082150190	web.me.com	2012-04-02 13:16:51	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	web.me.com-c1082150190.warc.gz	17716
+eric.vanquill	gallery.me.com	2012-04-02 15:42:36	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	gallery.me.com-eric.vanquill.warc.gz	1272088393
+eric.vanquill	homepage.mac.com	2012-04-02 15:42:36	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	homepage.mac.com-eric.vanquill.warc.gz	4930
+eric.vanquill	public.me.com	2012-04-02 15:25:04	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	public.me.com-eric.vanquill.warc.gz	1389517468
+eric.vanquill	web.me.com	2012-04-02 14:48:14	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	web.me.com-eric.vanquill.warc.gz	845826020
+hvanbrug	gallery.me.com	2012-04-02 13:20:17	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	gallery.me.com-hvanbrug.warc.gz	46594270
+hvanbrug	homepage.mac.com	2012-04-02 13:20:17	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	homepage.mac.com-hvanbrug.warc.gz	4920
+hvanbrug	public.me.com	2012-04-02 13:17:45	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	public.me.com-hvanbrug.warc.gz	3340
+hvanbrug	web.me.com	2012-04-02 13:17:44	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	web.me.com-hvanbrug.warc.gz	2966721
+mediathatmatters	gallery.me.com	2012-04-02 14:18:16	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	gallery.me.com-mediathatmatters.warc.gz	501712635
+mediathatmatters	homepage.mac.com	2012-04-02 14:18:17	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	homepage.mac.com-mediathatmatters.warc.gz	4920
+mediathatmatters	public.me.com	2012-04-02 14:03:33	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	public.me.com-mediathatmatters.warc.gz	2103059220
+mediathatmatters	web.me.com	2012-04-02 13:33:55	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	web.me.com-mediathatmatters.warc.gz	27039376
+perrine.storme	gallery.me.com	2012-04-02 13:28:32	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	gallery.me.com-perrine.storme.warc.gz	4291
+perrine.storme	homepage.mac.com	2012-04-02 13:28:32	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	homepage.mac.com-perrine.storme.warc.gz	4924
+perrine.storme	public.me.com	2012-04-02 13:28:31	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	public.me.com-perrine.storme.warc.gz	280196703
+perrine.storme	web.me.com	2012-04-02 13:21:19	archiveteam-mobileme-hero-300x	archiveteam-mobileme-hero-300x-3002.tar	web.me.com-perrine.storme.warc.gz	2719457

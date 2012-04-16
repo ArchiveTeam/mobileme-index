@@ -1,12 +1,12 @@
-aaronquigley	gallery.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	gallery.me.com-aaronquigley.warc.gz	0
-aaronquigley	homepage.mac.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	homepage.mac.com-aaronquigley.warc.gz	0
-aaronquigley	public.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	public.me.com-aaronquigley.warc.gz	0
-aaronquigley	web.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	web.me.com-aaronquigley.warc.gz	0
-kathyrobin219	gallery.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	gallery.me.com-kathyrobin219.warc.gz	0
-kathyrobin219	homepage.mac.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	homepage.mac.com-kathyrobin219.warc.gz	0
-kathyrobin219	public.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	public.me.com-kathyrobin219.warc.gz	0
-kathyrobin219	web.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	web.me.com-kathyrobin219.warc.gz	0
-wordenmark	gallery.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	gallery.me.com-wordenmark.warc.gz	0
-wordenmark	homepage.mac.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	homepage.mac.com-wordenmark.warc.gz	0
-wordenmark	public.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	public.me.com-wordenmark.warc.gz	0
-wordenmark	web.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	web.me.com-wordenmark.warc.gz	0
+aaronquigley	gallery.me.com	2012-04-11 07:38:07	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	gallery.me.com-aaronquigley.warc.gz	12333
+aaronquigley	homepage.mac.com	2012-04-11 07:38:07	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	homepage.mac.com-aaronquigley.warc.gz	7157
+aaronquigley	public.me.com	2012-04-11 07:38:07	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	public.me.com-aaronquigley.warc.gz	1930
+aaronquigley	web.me.com	2012-04-11 07:38:06	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	web.me.com-aaronquigley.warc.gz	22467
+kathyrobin219	gallery.me.com	2012-04-11 08:06:33	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	gallery.me.com-kathyrobin219.warc.gz	90163078
+kathyrobin219	homepage.mac.com	2012-04-11 08:06:33	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	homepage.mac.com-kathyrobin219.warc.gz	4917
+kathyrobin219	public.me.com	2012-04-11 08:05:43	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	public.me.com-kathyrobin219.warc.gz	1926
+kathyrobin219	web.me.com	2012-04-11 08:05:42	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	web.me.com-kathyrobin219.warc.gz	496403405
+wordenmark	gallery.me.com	2012-04-11 07:38:05	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	gallery.me.com-wordenmark.warc.gz	520904352
+wordenmark	homepage.mac.com	2012-04-11 07:38:05	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	homepage.mac.com-wordenmark.warc.gz	4919
+wordenmark	public.me.com	2012-04-11 07:27:45	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	public.me.com-wordenmark.warc.gz	3354199569
+wordenmark	web.me.com	2012-04-11 06:00:06	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6277.tar	web.me.com-wordenmark.warc.gz	210732104

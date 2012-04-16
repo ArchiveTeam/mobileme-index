@@ -1,20 +1,20 @@
-cbrown14	gallery.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	gallery.me.com-cbrown14.warc	0
-cbrown14	homepage.mac.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	homepage.mac.com-cbrown14.warc	0
-cbrown14	public.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	public.me.com-cbrown14.warc	0
-cbrown14	web.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	web.me.com-cbrown14.warc	0
-citkowicz	gallery.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	gallery.me.com-citkowicz.warc	0
-citkowicz	homepage.mac.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	homepage.mac.com-citkowicz.warc	0
-citkowicz	public.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	public.me.com-citkowicz.warc	0
-citkowicz	web.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	web.me.com-citkowicz.warc	0
-elsafoo	gallery.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	gallery.me.com-elsafoo.warc	0
-elsafoo	homepage.mac.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	homepage.mac.com-elsafoo.warc	0
-elsafoo	public.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	public.me.com-elsafoo.warc	0
-elsafoo	web.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	web.me.com-elsafoo.warc	0
-gshukwit	gallery.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	gallery.me.com-gshukwit.warc	0
-gshukwit	homepage.mac.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	homepage.mac.com-gshukwit.warc	0
-gshukwit	public.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	public.me.com-gshukwit.warc	0
-gshukwit	web.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	web.me.com-gshukwit.warc	0
-kalebhiggins	gallery.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	gallery.me.com-kalebhiggins.warc	0
-kalebhiggins	homepage.mac.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	homepage.mac.com-kalebhiggins.warc	0
-kalebhiggins	public.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	public.me.com-kalebhiggins.warc	0
-kalebhiggins	web.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	web.me.com-kalebhiggins.warc	0
+cbrown14	gallery.me.com	2012-04-09 18:05:12	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	gallery.me.com-cbrown14.warc	6445
+cbrown14	homepage.mac.com	2012-04-09 18:05:18	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	homepage.mac.com-cbrown14.warc	272378
+cbrown14	public.me.com	2012-04-09 18:05:11	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	public.me.com-cbrown14.warc	113257
+cbrown14	web.me.com	2012-04-09 18:05:07	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	web.me.com-cbrown14.warc	11288
+citkowicz	gallery.me.com	2012-04-09 19:45:29	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	gallery.me.com-citkowicz.warc	3864768215
+citkowicz	homepage.mac.com	2012-04-09 19:45:31	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	homepage.mac.com-citkowicz.warc	91235
+citkowicz	public.me.com	2012-04-09 18:46:43	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	public.me.com-citkowicz.warc	900865553
+citkowicz	web.me.com	2012-04-09 18:26:10	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	web.me.com-citkowicz.warc	236067144
+elsafoo	gallery.me.com	2012-04-09 17:23:13	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	gallery.me.com-elsafoo.warc	249804325
+elsafoo	homepage.mac.com	2012-04-09 17:23:13	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	homepage.mac.com-elsafoo.warc	9762
+elsafoo	public.me.com	2012-04-09 17:11:05	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	public.me.com-elsafoo.warc	5641752
+elsafoo	web.me.com	2012-04-09 17:10:50	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	web.me.com-elsafoo.warc	355226836
+gshukwit	gallery.me.com	2012-04-09 18:03:51	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	gallery.me.com-gshukwit.warc	423865660
+gshukwit	homepage.mac.com	2012-04-09 18:05:04	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	homepage.mac.com-gshukwit.warc	2043070
+gshukwit	public.me.com	2012-04-09 17:31:54	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	public.me.com-gshukwit.warc	2942
+gshukwit	web.me.com	2012-04-09 17:31:52	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	web.me.com-gshukwit.warc	73343560
+kalebhiggins	gallery.me.com	2012-04-09 18:08:43	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	gallery.me.com-kalebhiggins.warc	10599
+kalebhiggins	homepage.mac.com	2012-04-09 18:08:43	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	homepage.mac.com-kalebhiggins.warc	9863
+kalebhiggins	public.me.com	2012-04-09 18:08:39	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	public.me.com-kalebhiggins.warc	2994
+kalebhiggins	web.me.com	2012-04-09 18:08:33	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5608.tar	web.me.com-kalebhiggins.warc	9226855

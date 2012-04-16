@@ -1,16 +1,16 @@
-cmonticelli	gallery.me.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	gallery.me.com-cmonticelli.warc.gz	0
-cmonticelli	homepage.mac.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	homepage.mac.com-cmonticelli.warc.gz	0
-cmonticelli	public.me.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	public.me.com-cmonticelli.warc.gz	0
-cmonticelli	web.me.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	web.me.com-cmonticelli.warc.gz	0
-dvi2206	gallery.me.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	gallery.me.com-dvi2206.warc.gz	0
-dvi2206	homepage.mac.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	homepage.mac.com-dvi2206.warc.gz	0
-dvi2206	public.me.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	public.me.com-dvi2206.warc.gz	0
-dvi2206	web.me.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	web.me.com-dvi2206.warc.gz	0
-filmclass	gallery.me.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	gallery.me.com-filmclass.warc.gz	0
-filmclass	homepage.mac.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	homepage.mac.com-filmclass.warc.gz	0
-filmclass	public.me.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	public.me.com-filmclass.warc.gz	0
-filmclass	web.me.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	web.me.com-filmclass.warc.gz	0
-melissatuckmurphy	gallery.me.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	gallery.me.com-melissatuckmurphy.warc.gz	0
-melissatuckmurphy	homepage.mac.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	homepage.mac.com-melissatuckmurphy.warc.gz	0
-melissatuckmurphy	public.me.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	public.me.com-melissatuckmurphy.warc.gz	0
-melissatuckmurphy	web.me.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	web.me.com-melissatuckmurphy.warc.gz	0
+cmonticelli	gallery.me.com	2012-04-12 02:47:23	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	gallery.me.com-cmonticelli.warc.gz	4262
+cmonticelli	homepage.mac.com	2012-04-12 02:47:24	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	homepage.mac.com-cmonticelli.warc.gz	9401
+cmonticelli	public.me.com	2012-04-12 02:47:22	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	public.me.com-cmonticelli.warc.gz	21914219
+cmonticelli	web.me.com	2012-04-12 02:46:48	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	web.me.com-cmonticelli.warc.gz	473752
+dvi2206	gallery.me.com	2012-04-12 02:46:33	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	gallery.me.com-dvi2206.warc.gz	12375
+dvi2206	homepage.mac.com	2012-04-12 02:46:34	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	homepage.mac.com-dvi2206.warc.gz	7190
+dvi2206	public.me.com	2012-04-12 02:46:29	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	public.me.com-dvi2206.warc.gz	1917
+dvi2206	web.me.com	2012-04-12 02:46:29	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	web.me.com-dvi2206.warc.gz	22514
+filmclass	gallery.me.com	2012-04-12 03:06:52	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	gallery.me.com-filmclass.warc.gz	5262
+filmclass	homepage.mac.com	2012-04-12 03:06:52	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	homepage.mac.com-filmclass.warc.gz	4916
+filmclass	public.me.com	2012-04-12 03:06:50	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	public.me.com-filmclass.warc.gz	1922
+filmclass	web.me.com	2012-04-12 03:06:42	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	web.me.com-filmclass.warc.gz	548373966
+melissatuckmurphy	gallery.me.com	2012-04-12 06:04:41	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	gallery.me.com-melissatuckmurphy.warc.gz	4280096952
+melissatuckmurphy	homepage.mac.com	2012-04-12 06:04:42	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	homepage.mac.com-melissatuckmurphy.warc.gz	4949
+melissatuckmurphy	public.me.com	2012-04-12 04:07:33	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	public.me.com-melissatuckmurphy.warc.gz	1941
+melissatuckmurphy	web.me.com	2012-04-12 04:06:49	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6633.tar	web.me.com-melissatuckmurphy.warc.gz	671704429

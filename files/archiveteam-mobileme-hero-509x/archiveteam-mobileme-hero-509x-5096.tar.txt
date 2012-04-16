@@ -1,16 +1,16 @@
-arkerlav	gallery.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	gallery.me.com-arkerlav.warc.gz	0
-arkerlav	homepage.mac.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	homepage.mac.com-arkerlav.warc.gz	0
-arkerlav	public.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	public.me.com-arkerlav.warc.gz	0
-arkerlav	web.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	web.me.com-arkerlav.warc.gz	0
-georgeoommen	gallery.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	gallery.me.com-georgeoommen.warc.gz	0
-georgeoommen	homepage.mac.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	homepage.mac.com-georgeoommen.warc.gz	0
-georgeoommen	public.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	public.me.com-georgeoommen.warc.gz	0
-georgeoommen	web.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	web.me.com-georgeoommen.warc.gz	0
-katherinemcnamara	gallery.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	gallery.me.com-katherinemcnamara.warc.gz	0
-katherinemcnamara	homepage.mac.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	homepage.mac.com-katherinemcnamara.warc.gz	0
-katherinemcnamara	public.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	public.me.com-katherinemcnamara.warc.gz	0
-katherinemcnamara	web.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	web.me.com-katherinemcnamara.warc.gz	0
-runandjump	gallery.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	gallery.me.com-runandjump.warc.gz	0
-runandjump	homepage.mac.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	homepage.mac.com-runandjump.warc.gz	0
-runandjump	public.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	public.me.com-runandjump.warc.gz	0
-runandjump	web.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	web.me.com-runandjump.warc.gz	0
+arkerlav	gallery.me.com	2012-04-08 03:37:31	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	gallery.me.com-arkerlav.warc.gz	2838768617
+arkerlav	homepage.mac.com	2012-04-08 03:37:33	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	homepage.mac.com-arkerlav.warc.gz	87865
+arkerlav	public.me.com	2012-04-08 02:47:43	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	public.me.com-arkerlav.warc.gz	85145178
+arkerlav	web.me.com	2012-04-08 02:47:05	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	web.me.com-arkerlav.warc.gz	1174898961
+georgeoommen	gallery.me.com	2012-04-08 02:09:35	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	gallery.me.com-georgeoommen.warc.gz	5370
+georgeoommen	homepage.mac.com	2012-04-08 02:09:37	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	homepage.mac.com-georgeoommen.warc.gz	36999
+georgeoommen	public.me.com	2012-04-08 02:09:35	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	public.me.com-georgeoommen.warc.gz	3352
+georgeoommen	web.me.com	2012-04-08 02:09:34	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	web.me.com-georgeoommen.warc.gz	13205409
+katherinemcnamara	gallery.me.com	2012-04-08 04:05:06	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	gallery.me.com-katherinemcnamara.warc.gz	166242438
+katherinemcnamara	homepage.mac.com	2012-04-08 04:05:06	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	homepage.mac.com-katherinemcnamara.warc.gz	4944
+katherinemcnamara	public.me.com	2012-04-08 04:01:51	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	public.me.com-katherinemcnamara.warc.gz	15396
+katherinemcnamara	web.me.com	2012-04-08 04:01:50	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	web.me.com-katherinemcnamara.warc.gz	456802890
+runandjump	gallery.me.com	2012-04-08 02:09:39	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	gallery.me.com-runandjump.warc.gz	12355
+runandjump	homepage.mac.com	2012-04-08 02:09:39	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	homepage.mac.com-runandjump.warc.gz	7168
+runandjump	public.me.com	2012-04-08 02:09:39	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	public.me.com-runandjump.warc.gz	1922
+runandjump	web.me.com	2012-04-08 02:09:38	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5096.tar	web.me.com-runandjump.warc.gz	22512

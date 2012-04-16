@@ -1,20 +1,20 @@
-beth.cox	gallery.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	gallery.me.com-beth.cox.warc.gz	0
-beth.cox	homepage.mac.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	homepage.mac.com-beth.cox.warc.gz	0
-beth.cox	public.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	public.me.com-beth.cox.warc.gz	0
-beth.cox	web.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	web.me.com-beth.cox.warc.gz	0
-bstagner	gallery.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	gallery.me.com-bstagner.warc.gz	0
-bstagner	homepage.mac.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	homepage.mac.com-bstagner.warc.gz	0
-bstagner	public.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	public.me.com-bstagner.warc.gz	0
-bstagner	web.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	web.me.com-bstagner.warc.gz	0
-djlaforge	gallery.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	gallery.me.com-djlaforge.warc.gz	0
-djlaforge	homepage.mac.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	homepage.mac.com-djlaforge.warc.gz	0
-djlaforge	public.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	public.me.com-djlaforge.warc.gz	0
-djlaforge	web.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	web.me.com-djlaforge.warc.gz	0
-focuschurch	gallery.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	gallery.me.com-focuschurch.warc.gz	0
-focuschurch	homepage.mac.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	homepage.mac.com-focuschurch.warc.gz	0
-focuschurch	public.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	public.me.com-focuschurch.warc.gz	0
-focuschurch	web.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	web.me.com-focuschurch.warc.gz	0
-neiljpalmer	gallery.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	gallery.me.com-neiljpalmer.warc.gz	0
-neiljpalmer	homepage.mac.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	homepage.mac.com-neiljpalmer.warc.gz	0
-neiljpalmer	public.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	public.me.com-neiljpalmer.warc.gz	0
-neiljpalmer	web.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	web.me.com-neiljpalmer.warc.gz	0
+beth.cox	gallery.me.com	2012-04-12 21:07:03	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	gallery.me.com-beth.cox.warc.gz	12313
+beth.cox	homepage.mac.com	2012-04-12 21:07:03	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	homepage.mac.com-beth.cox.warc.gz	7152
+beth.cox	public.me.com	2012-04-12 21:07:03	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	public.me.com-beth.cox.warc.gz	1909
+beth.cox	web.me.com	2012-04-12 21:07:03	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	web.me.com-beth.cox.warc.gz	22481
+bstagner	gallery.me.com	2012-04-12 21:45:48	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	gallery.me.com-bstagner.warc.gz	2930007499
+bstagner	homepage.mac.com	2012-04-12 21:46:00	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	homepage.mac.com-bstagner.warc.gz	4486036
+bstagner	public.me.com	2012-04-12 21:24:56	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	public.me.com-bstagner.warc.gz	1916
+bstagner	web.me.com	2012-04-12 21:24:55	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	web.me.com-bstagner.warc.gz	1307072777
+djlaforge	gallery.me.com	2012-04-12 20:42:35	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	gallery.me.com-djlaforge.warc.gz	28918566
+djlaforge	homepage.mac.com	2012-04-12 20:42:36	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	homepage.mac.com-djlaforge.warc.gz	4900
+djlaforge	public.me.com	2012-04-12 20:40:56	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	public.me.com-djlaforge.warc.gz	1918
+djlaforge	web.me.com	2012-04-12 20:40:55	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	web.me.com-djlaforge.warc.gz	9642599
+focuschurch	gallery.me.com	2012-04-12 21:06:55	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	gallery.me.com-focuschurch.warc.gz	252633306
+focuschurch	homepage.mac.com	2012-04-12 21:06:56	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	homepage.mac.com-focuschurch.warc.gz	4908
+focuschurch	public.me.com	2012-04-12 20:58:01	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	public.me.com-focuschurch.warc.gz	155638
+focuschurch	web.me.com	2012-04-12 20:57:59	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	web.me.com-focuschurch.warc.gz	283597901
+neiljpalmer	gallery.me.com	2012-04-12 21:06:59	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	gallery.me.com-neiljpalmer.warc.gz	8361
+neiljpalmer	homepage.mac.com	2012-04-12 21:06:59	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	homepage.mac.com-neiljpalmer.warc.gz	5175
+neiljpalmer	public.me.com	2012-04-12 21:06:59	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	public.me.com-neiljpalmer.warc.gz	1933
+neiljpalmer	web.me.com	2012-04-12 21:06:58	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6973.tar	web.me.com-neiljpalmer.warc.gz	17679

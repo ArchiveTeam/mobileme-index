@@ -1,8 +1,8 @@
-optimaxdesign	gallery.me.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2727.tar	gallery.me.com-optimaxdesign.warc.gz	0
-optimaxdesign	homepage.mac.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2727.tar	homepage.mac.com-optimaxdesign.warc.gz	0
-optimaxdesign	public.me.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2727.tar	public.me.com-optimaxdesign.warc.gz	0
-optimaxdesign	web.me.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2727.tar	web.me.com-optimaxdesign.warc.gz	0
-wwabc	gallery.me.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2727.tar	gallery.me.com-wwabc.warc.gz	0
-wwabc	homepage.mac.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2727.tar	homepage.mac.com-wwabc.warc.gz	0
-wwabc	public.me.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2727.tar	public.me.com-wwabc.warc.gz	0
-wwabc	web.me.com		archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2727.tar	web.me.com-wwabc.warc.gz	0
+optimaxdesign	gallery.me.com	2012-04-01 16:17:47	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2727.tar	gallery.me.com-optimaxdesign.warc.gz	8380
+optimaxdesign	homepage.mac.com	2012-04-01 16:17:47	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2727.tar	homepage.mac.com-optimaxdesign.warc.gz	5189
+optimaxdesign	public.me.com	2012-04-01 16:17:47	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2727.tar	public.me.com-optimaxdesign.warc.gz	1925
+optimaxdesign	web.me.com	2012-04-01 16:17:47	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2727.tar	web.me.com-optimaxdesign.warc.gz	17761
+wwabc	gallery.me.com	2012-04-01 18:06:11	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2727.tar	gallery.me.com-wwabc.warc.gz	2243007354
+wwabc	homepage.mac.com	2012-04-01 18:06:11	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2727.tar	homepage.mac.com-wwabc.warc.gz	4878
+wwabc	public.me.com	2012-04-01 17:38:59	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2727.tar	public.me.com-wwabc.warc.gz	3533
+wwabc	web.me.com	2012-04-01 17:38:40	archiveteam-mobileme-hero-272x	archiveteam-mobileme-hero-272x-2727.tar	web.me.com-wwabc.warc.gz	7090994203

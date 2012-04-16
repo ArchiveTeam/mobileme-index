@@ -1,8 +1,8 @@
-ahsi	gallery.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2607.tar	gallery.me.com-ahsi.warc.gz	0
-ahsi	homepage.mac.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2607.tar	homepage.mac.com-ahsi.warc.gz	0
-ahsi	public.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2607.tar	public.me.com-ahsi.warc.gz	0
-ahsi	web.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2607.tar	web.me.com-ahsi.warc.gz	0
-mioryo	gallery.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2607.tar	gallery.me.com-mioryo.warc.gz	0
-mioryo	homepage.mac.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2607.tar	homepage.mac.com-mioryo.warc.gz	0
-mioryo	public.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2607.tar	public.me.com-mioryo.warc.gz	0
-mioryo	web.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2607.tar	web.me.com-mioryo.warc.gz	0
+ahsi	gallery.me.com	2012-04-01 00:49:40	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2607.tar	gallery.me.com-ahsi.warc.gz	5061320144
+ahsi	homepage.mac.com	2012-04-01 00:57:14	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2607.tar	homepage.mac.com-ahsi.warc.gz	3122429
+ahsi	public.me.com	2012-03-31 19:57:06	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2607.tar	public.me.com-ahsi.warc.gz	1907
+ahsi	web.me.com	2012-03-31 19:52:08	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2607.tar	web.me.com-ahsi.warc.gz	47530495
+mioryo	gallery.me.com	2012-03-31 19:09:27	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2607.tar	gallery.me.com-mioryo.warc.gz	985503600
+mioryo	homepage.mac.com	2012-03-31 19:10:18	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2607.tar	homepage.mac.com-mioryo.warc.gz	4889
+mioryo	public.me.com	2012-03-31 18:09:39	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2607.tar	public.me.com-mioryo.warc.gz	1912
+mioryo	web.me.com	2012-03-31 18:08:53	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2607.tar	web.me.com-mioryo.warc.gz	57103605

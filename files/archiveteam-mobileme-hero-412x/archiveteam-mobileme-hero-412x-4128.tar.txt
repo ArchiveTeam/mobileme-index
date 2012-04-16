@@ -1,12 +1,12 @@
-happinessdocmac	gallery.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	gallery.me.com-happinessdocmac.warc.gz	0
-happinessdocmac	homepage.mac.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	homepage.mac.com-happinessdocmac.warc.gz	0
-happinessdocmac	public.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	public.me.com-happinessdocmac.warc.gz	0
-happinessdocmac	web.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	web.me.com-happinessdocmac.warc.gz	0
-niaouli	gallery.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	gallery.me.com-niaouli.warc.gz	0
-niaouli	homepage.mac.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	homepage.mac.com-niaouli.warc.gz	0
-niaouli	public.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	public.me.com-niaouli.warc.gz	0
-niaouli	web.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	web.me.com-niaouli.warc.gz	0
-tdshq	gallery.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	gallery.me.com-tdshq.warc.gz	0
-tdshq	homepage.mac.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	homepage.mac.com-tdshq.warc.gz	0
-tdshq	public.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	public.me.com-tdshq.warc.gz	0
-tdshq	web.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	web.me.com-tdshq.warc.gz	0
+happinessdocmac	gallery.me.com	2012-04-05 05:54:25	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	gallery.me.com-happinessdocmac.warc.gz	5065
+happinessdocmac	homepage.mac.com	2012-04-05 05:54:25	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	homepage.mac.com-happinessdocmac.warc.gz	4932
+happinessdocmac	public.me.com	2012-04-05 05:54:24	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	public.me.com-happinessdocmac.warc.gz	1933
+happinessdocmac	web.me.com	2012-04-05 05:54:24	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	web.me.com-happinessdocmac.warc.gz	3259591
+niaouli	gallery.me.com	2012-04-05 05:53:52	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	gallery.me.com-niaouli.warc.gz	490405812
+niaouli	homepage.mac.com	2012-04-05 05:53:53	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	homepage.mac.com-niaouli.warc.gz	4900
+niaouli	public.me.com	2012-04-05 05:48:48	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	public.me.com-niaouli.warc.gz	3382
+niaouli	web.me.com	2012-04-05 05:48:47	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	web.me.com-niaouli.warc.gz	149270322
+tdshq	gallery.me.com	2012-04-05 06:32:40	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	gallery.me.com-tdshq.warc.gz	4257
+tdshq	homepage.mac.com	2012-04-05 06:32:43	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	homepage.mac.com-tdshq.warc.gz	447266
+tdshq	public.me.com	2012-04-05 06:32:39	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	public.me.com-tdshq.warc.gz	1910
+tdshq	web.me.com	2012-04-05 06:32:32	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4128.tar	web.me.com-tdshq.warc.gz	3682610673

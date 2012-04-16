@@ -1,28 +1,28 @@
-dcelia	gallery.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	gallery.me.com-dcelia.warc.gz	0
-dcelia	homepage.mac.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	homepage.mac.com-dcelia.warc.gz	0
-dcelia	public.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	public.me.com-dcelia.warc.gz	0
-dcelia	web.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	web.me.com-dcelia.warc.gz	0
-envisci	gallery.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	gallery.me.com-envisci.warc.gz	0
-envisci	homepage.mac.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	homepage.mac.com-envisci.warc.gz	0
-envisci	public.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	public.me.com-envisci.warc.gz	0
-envisci	web.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	web.me.com-envisci.warc.gz	0
-franziskaheinze	gallery.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	gallery.me.com-franziskaheinze.warc.gz	0
-franziskaheinze	homepage.mac.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	homepage.mac.com-franziskaheinze.warc.gz	0
-franziskaheinze	public.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	public.me.com-franziskaheinze.warc.gz	0
-franziskaheinze	web.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	web.me.com-franziskaheinze.warc.gz	0
-jlovewel	gallery.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	gallery.me.com-jlovewel.warc.gz	0
-jlovewel	homepage.mac.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	homepage.mac.com-jlovewel.warc.gz	0
-jlovewel	public.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	public.me.com-jlovewel.warc.gz	0
-jlovewel	web.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	web.me.com-jlovewel.warc.gz	0
-okeford	gallery.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	gallery.me.com-okeford.warc.gz	0
-okeford	homepage.mac.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	homepage.mac.com-okeford.warc.gz	0
-okeford	public.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	public.me.com-okeford.warc.gz	0
-okeford	web.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	web.me.com-okeford.warc.gz	0
-shin.ohtake	gallery.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	gallery.me.com-shin.ohtake.warc.gz	0
-shin.ohtake	homepage.mac.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	homepage.mac.com-shin.ohtake.warc.gz	0
-shin.ohtake	public.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	public.me.com-shin.ohtake.warc.gz	0
-shin.ohtake	web.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	web.me.com-shin.ohtake.warc.gz	0
-tonyserrano	gallery.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	gallery.me.com-tonyserrano.warc.gz	0
-tonyserrano	homepage.mac.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	homepage.mac.com-tonyserrano.warc.gz	0
-tonyserrano	public.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	public.me.com-tonyserrano.warc.gz	0
-tonyserrano	web.me.com		archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	web.me.com-tonyserrano.warc.gz	0
+dcelia	gallery.me.com	2012-04-12 01:34:28	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	gallery.me.com-dcelia.warc.gz	5011
+dcelia	homepage.mac.com	2012-04-12 01:34:29	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	homepage.mac.com-dcelia.warc.gz	4906
+dcelia	public.me.com	2012-04-12 01:34:25	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	public.me.com-dcelia.warc.gz	2939887883
+dcelia	web.me.com	2012-04-12 00:16:46	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	web.me.com-dcelia.warc.gz	352782494
+envisci	gallery.me.com	2012-04-11 22:27:56	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	gallery.me.com-envisci.warc.gz	12333
+envisci	homepage.mac.com	2012-04-11 22:27:57	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	homepage.mac.com-envisci.warc.gz	7142
+envisci	public.me.com	2012-04-11 22:27:54	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	public.me.com-envisci.warc.gz	1912
+envisci	web.me.com	2012-04-11 22:27:54	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	web.me.com-envisci.warc.gz	22478
+franziskaheinze	gallery.me.com	2012-04-11 23:20:22	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	gallery.me.com-franziskaheinze.warc.gz	24740207
+franziskaheinze	homepage.mac.com	2012-04-11 23:20:23	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	homepage.mac.com-franziskaheinze.warc.gz	4957
+franziskaheinze	public.me.com	2012-04-11 23:16:02	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	public.me.com-franziskaheinze.warc.gz	1933
+franziskaheinze	web.me.com	2012-04-11 23:16:01	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	web.me.com-franziskaheinze.warc.gz	39517343
+jlovewel	gallery.me.com	2012-04-11 22:27:49	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	gallery.me.com-jlovewel.warc.gz	35244770
+jlovewel	homepage.mac.com	2012-04-11 22:27:50	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	homepage.mac.com-jlovewel.warc.gz	4927
+jlovewel	public.me.com	2012-04-11 22:19:31	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	public.me.com-jlovewel.warc.gz	1922
+jlovewel	web.me.com	2012-04-11 22:19:30	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	web.me.com-jlovewel.warc.gz	67036112
+okeford	gallery.me.com	2012-04-11 22:59:49	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	gallery.me.com-okeford.warc.gz	63523550
+okeford	homepage.mac.com	2012-04-11 22:59:51	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	homepage.mac.com-okeford.warc.gz	4911
+okeford	public.me.com	2012-04-11 22:48:51	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	public.me.com-okeford.warc.gz	37350045
+okeford	web.me.com	2012-04-11 22:44:17	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	web.me.com-okeford.warc.gz	130544288
+shin.ohtake	gallery.me.com	2012-04-11 23:51:53	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	gallery.me.com-shin.ohtake.warc.gz	174379646
+shin.ohtake	homepage.mac.com	2012-04-11 23:51:56	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	homepage.mac.com-shin.ohtake.warc.gz	37043
+shin.ohtake	public.me.com	2012-04-11 23:31:01	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	public.me.com-shin.ohtake.warc.gz	1920
+shin.ohtake	web.me.com	2012-04-11 23:31:00	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	web.me.com-shin.ohtake.warc.gz	19777974
+tonyserrano	gallery.me.com	2012-04-12 03:58:47	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	gallery.me.com-tonyserrano.warc.gz	906590476
+tonyserrano	homepage.mac.com	2012-04-12 03:58:48	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	homepage.mac.com-tonyserrano.warc.gz	4938
+tonyserrano	public.me.com	2012-04-12 01:38:46	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	public.me.com-tonyserrano.warc.gz	1923
+tonyserrano	web.me.com	2012-04-12 01:38:46	archiveteam-mobileme-hero-654x	archiveteam-mobileme-hero-654x-6545.tar	web.me.com-tonyserrano.warc.gz	9155069

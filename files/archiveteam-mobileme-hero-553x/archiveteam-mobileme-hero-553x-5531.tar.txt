@@ -1,28 +1,28 @@
-debborahreid	gallery.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	gallery.me.com-debborahreid.warc.gz	0
-debborahreid	homepage.mac.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	homepage.mac.com-debborahreid.warc.gz	0
-debborahreid	public.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	public.me.com-debborahreid.warc.gz	0
-debborahreid	web.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	web.me.com-debborahreid.warc.gz	0
-ionaegg	gallery.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	gallery.me.com-ionaegg.warc.gz	0
-ionaegg	homepage.mac.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	homepage.mac.com-ionaegg.warc.gz	0
-ionaegg	public.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	public.me.com-ionaegg.warc.gz	0
-ionaegg	web.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	web.me.com-ionaegg.warc.gz	0
-jimmerman	gallery.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	gallery.me.com-jimmerman.warc.gz	0
-jimmerman	homepage.mac.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	homepage.mac.com-jimmerman.warc.gz	0
-jimmerman	public.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	public.me.com-jimmerman.warc.gz	0
-jimmerman	web.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	web.me.com-jimmerman.warc.gz	0
-madridbarbarians	gallery.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	gallery.me.com-madridbarbarians.warc.gz	0
-madridbarbarians	homepage.mac.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	homepage.mac.com-madridbarbarians.warc.gz	0
-madridbarbarians	public.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	public.me.com-madridbarbarians.warc.gz	0
-madridbarbarians	web.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	web.me.com-madridbarbarians.warc.gz	0
-paulbailly	gallery.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	gallery.me.com-paulbailly.warc.gz	0
-paulbailly	homepage.mac.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	homepage.mac.com-paulbailly.warc.gz	0
-paulbailly	public.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	public.me.com-paulbailly.warc.gz	0
-paulbailly	web.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	web.me.com-paulbailly.warc.gz	0
-tessanorton	gallery.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	gallery.me.com-tessanorton.warc.gz	0
-tessanorton	homepage.mac.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	homepage.mac.com-tessanorton.warc.gz	0
-tessanorton	public.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	public.me.com-tessanorton.warc.gz	0
-tessanorton	web.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	web.me.com-tessanorton.warc.gz	0
-xtc4u	gallery.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	gallery.me.com-xtc4u.warc.gz	0
-xtc4u	homepage.mac.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	homepage.mac.com-xtc4u.warc.gz	0
-xtc4u	public.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	public.me.com-xtc4u.warc.gz	0
-xtc4u	web.me.com		archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	web.me.com-xtc4u.warc.gz	0
+debborahreid	gallery.me.com	2012-04-09 15:25:31	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	gallery.me.com-debborahreid.warc.gz	3016368784
+debborahreid	homepage.mac.com	2012-04-09 15:25:31	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	homepage.mac.com-debborahreid.warc.gz	4932
+debborahreid	public.me.com	2012-04-09 14:58:34	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	public.me.com-debborahreid.warc.gz	1930
+debborahreid	web.me.com	2012-04-09 14:58:34	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	web.me.com-debborahreid.warc.gz	17489688
+ionaegg	gallery.me.com	2012-04-09 14:52:42	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	gallery.me.com-ionaegg.warc.gz	8910977
+ionaegg	homepage.mac.com	2012-04-09 14:52:43	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	homepage.mac.com-ionaegg.warc.gz	4904
+ionaegg	public.me.com	2012-04-09 14:52:17	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	public.me.com-ionaegg.warc.gz	1907
+ionaegg	web.me.com	2012-04-09 14:48:14	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	web.me.com-ionaegg.warc.gz	2524580772
+jimmerman	gallery.me.com	2012-04-09 14:53:48	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	gallery.me.com-jimmerman.warc.gz	5181
+jimmerman	homepage.mac.com	2012-04-09 14:53:49	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	homepage.mac.com-jimmerman.warc.gz	4921
+jimmerman	public.me.com	2012-04-09 14:53:47	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	public.me.com-jimmerman.warc.gz	1921
+jimmerman	web.me.com	2012-04-09 14:53:46	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	web.me.com-jimmerman.warc.gz	3826945
+madridbarbarians	gallery.me.com	2012-04-09 11:20:37	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	gallery.me.com-madridbarbarians.warc.gz	4268
+madridbarbarians	homepage.mac.com	2012-04-09 11:20:37	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	homepage.mac.com-madridbarbarians.warc.gz	4935
+madridbarbarians	public.me.com	2012-04-09 11:20:36	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	public.me.com-madridbarbarians.warc.gz	1925
+madridbarbarians	web.me.com	2012-04-09 11:20:35	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	web.me.com-madridbarbarians.warc.gz	91392933
+paulbailly	gallery.me.com	2012-04-09 14:53:51	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	gallery.me.com-paulbailly.warc.gz	12339
+paulbailly	homepage.mac.com	2012-04-09 14:53:51	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	homepage.mac.com-paulbailly.warc.gz	7156
+paulbailly	public.me.com	2012-04-09 14:53:51	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	public.me.com-paulbailly.warc.gz	1924
+paulbailly	web.me.com	2012-04-09 14:53:50	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	web.me.com-paulbailly.warc.gz	22488
+tessanorton	gallery.me.com	2012-04-09 11:20:42	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	gallery.me.com-tessanorton.warc.gz	4285
+tessanorton	homepage.mac.com	2012-04-09 11:20:42	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	homepage.mac.com-tessanorton.warc.gz	4918
+tessanorton	public.me.com	2012-04-09 11:20:41	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	public.me.com-tessanorton.warc.gz	1919
+tessanorton	web.me.com	2012-04-09 11:20:41	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	web.me.com-tessanorton.warc.gz	31061
+xtc4u	gallery.me.com	2012-04-09 11:09:06	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	gallery.me.com-xtc4u.warc.gz	8334
+xtc4u	homepage.mac.com	2012-04-09 11:09:07	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	homepage.mac.com-xtc4u.warc.gz	5136
+xtc4u	public.me.com	2012-04-09 11:09:06	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	public.me.com-xtc4u.warc.gz	1905
+xtc4u	web.me.com	2012-04-09 11:09:05	archiveteam-mobileme-hero-553x	archiveteam-mobileme-hero-553x-5531.tar	web.me.com-xtc4u.warc.gz	17651

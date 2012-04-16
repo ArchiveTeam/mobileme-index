@@ -1,8 +1,8 @@
-cq4910	gallery.me.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6341.tar	gallery.me.com-cq4910.warc.gz	0
-cq4910	homepage.mac.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6341.tar	homepage.mac.com-cq4910.warc.gz	0
-cq4910	public.me.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6341.tar	public.me.com-cq4910.warc.gz	0
-cq4910	web.me.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6341.tar	web.me.com-cq4910.warc.gz	0
-lezhonka	gallery.me.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6341.tar	gallery.me.com-lezhonka.warc.gz	0
-lezhonka	homepage.mac.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6341.tar	homepage.mac.com-lezhonka.warc.gz	0
-lezhonka	public.me.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6341.tar	public.me.com-lezhonka.warc.gz	0
-lezhonka	web.me.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6341.tar	web.me.com-lezhonka.warc.gz	0
+cq4910	gallery.me.com	2012-04-11 05:41:06	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6341.tar	gallery.me.com-cq4910.warc.gz	6428
+cq4910	homepage.mac.com	2012-04-11 05:41:07	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6341.tar	homepage.mac.com-cq4910.warc.gz	4905
+cq4910	public.me.com	2012-04-11 05:41:04	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6341.tar	public.me.com-cq4910.warc.gz	3828226089
+cq4910	web.me.com	2012-04-11 03:08:25	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6341.tar	web.me.com-cq4910.warc.gz	6073180
+lezhonka	gallery.me.com	2012-04-11 10:41:25	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6341.tar	gallery.me.com-lezhonka.warc.gz	722514795
+lezhonka	homepage.mac.com	2012-04-11 10:42:09	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6341.tar	homepage.mac.com-lezhonka.warc.gz	730930
+lezhonka	public.me.com	2012-04-11 10:30:42	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6341.tar	public.me.com-lezhonka.warc.gz	5057442040
+lezhonka	web.me.com	2012-04-11 05:44:33	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6341.tar	web.me.com-lezhonka.warc.gz	11635101

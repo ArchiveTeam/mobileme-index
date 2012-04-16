@@ -1,28 +1,28 @@
-cdowning	gallery.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	gallery.me.com-cdowning.warc.gz	0
-cdowning	homepage.mac.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	homepage.mac.com-cdowning.warc.gz	0
-cdowning	public.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	public.me.com-cdowning.warc.gz	0
-cdowning	web.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	web.me.com-cdowning.warc.gz	0
-davepk100	gallery.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	gallery.me.com-davepk100.warc.gz	0
-davepk100	homepage.mac.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	homepage.mac.com-davepk100.warc.gz	0
-davepk100	public.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	public.me.com-davepk100.warc.gz	0
-davepk100	web.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	web.me.com-davepk100.warc.gz	0
-denisburell	gallery.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	gallery.me.com-denisburell.warc.gz	0
-denisburell	homepage.mac.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	homepage.mac.com-denisburell.warc.gz	0
-denisburell	public.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	public.me.com-denisburell.warc.gz	0
-denisburell	web.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	web.me.com-denisburell.warc.gz	0
-dsrpg	gallery.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	gallery.me.com-dsrpg.warc.gz	0
-dsrpg	homepage.mac.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	homepage.mac.com-dsrpg.warc.gz	0
-dsrpg	public.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	public.me.com-dsrpg.warc.gz	0
-dsrpg	web.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	web.me.com-dsrpg.warc.gz	0
-ironj679	gallery.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	gallery.me.com-ironj679.warc.gz	0
-ironj679	homepage.mac.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	homepage.mac.com-ironj679.warc.gz	0
-ironj679	public.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	public.me.com-ironj679.warc.gz	0
-ironj679	web.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	web.me.com-ironj679.warc.gz	0
-jpsoto	gallery.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	gallery.me.com-jpsoto.warc.gz	0
-jpsoto	homepage.mac.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	homepage.mac.com-jpsoto.warc.gz	0
-jpsoto	public.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	public.me.com-jpsoto.warc.gz	0
-jpsoto	web.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	web.me.com-jpsoto.warc.gz	0
-vosfreelance	gallery.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	gallery.me.com-vosfreelance.warc.gz	0
-vosfreelance	homepage.mac.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	homepage.mac.com-vosfreelance.warc.gz	0
-vosfreelance	public.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	public.me.com-vosfreelance.warc.gz	0
-vosfreelance	web.me.com		archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	web.me.com-vosfreelance.warc.gz	0
+cdowning	gallery.me.com	2012-04-03 05:25:59	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	gallery.me.com-cdowning.warc.gz	54095326
+cdowning	homepage.mac.com	2012-04-03 05:26:01	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	homepage.mac.com-cdowning.warc.gz	4912
+cdowning	public.me.com	2012-04-03 05:24:54	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	public.me.com-cdowning.warc.gz	2361257709
+cdowning	web.me.com	2012-04-03 04:26:53	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	web.me.com-cdowning.warc.gz	38398862
+davepk100	gallery.me.com	2012-04-03 06:10:22	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	gallery.me.com-davepk100.warc.gz	835063346
+davepk100	homepage.mac.com	2012-04-03 06:10:27	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	homepage.mac.com-davepk100.warc.gz	77600
+davepk100	public.me.com	2012-04-03 05:53:05	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	public.me.com-davepk100.warc.gz	20960
+davepk100	web.me.com	2012-04-03 05:53:04	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	web.me.com-davepk100.warc.gz	48089756
+denisburell	gallery.me.com	2012-04-03 04:16:09	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	gallery.me.com-denisburell.warc.gz	87140702
+denisburell	homepage.mac.com	2012-04-03 04:16:10	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	homepage.mac.com-denisburell.warc.gz	7875
+denisburell	public.me.com	2012-04-03 04:14:36	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	public.me.com-denisburell.warc.gz	1923
+denisburell	web.me.com	2012-04-03 04:14:36	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	web.me.com-denisburell.warc.gz	57218110
+dsrpg	gallery.me.com	2012-04-03 05:48:13	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	gallery.me.com-dsrpg.warc.gz	8330
+dsrpg	homepage.mac.com	2012-04-03 05:48:13	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	homepage.mac.com-dsrpg.warc.gz	5148
+dsrpg	public.me.com	2012-04-03 05:48:13	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	public.me.com-dsrpg.warc.gz	1902
+dsrpg	web.me.com	2012-04-03 05:48:12	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	web.me.com-dsrpg.warc.gz	17603
+ironj679	gallery.me.com	2012-04-03 05:48:02	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	gallery.me.com-ironj679.warc.gz	2025483
+ironj679	homepage.mac.com	2012-04-03 05:48:11	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	homepage.mac.com-ironj679.warc.gz	217860
+ironj679	public.me.com	2012-04-03 05:47:59	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	public.me.com-ironj679.warc.gz	22103568
+ironj679	web.me.com	2012-04-03 05:47:27	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	web.me.com-ironj679.warc.gz	1127599025
+jpsoto	gallery.me.com	2012-04-03 05:48:16	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	gallery.me.com-jpsoto.warc.gz	12314
+jpsoto	homepage.mac.com	2012-04-03 05:48:16	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	homepage.mac.com-jpsoto.warc.gz	7139
+jpsoto	public.me.com	2012-04-03 05:48:15	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	public.me.com-jpsoto.warc.gz	1912
+jpsoto	web.me.com	2012-04-03 05:48:15	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	web.me.com-jpsoto.warc.gz	22453
+vosfreelance	gallery.me.com	2012-04-03 04:12:35	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	gallery.me.com-vosfreelance.warc.gz	866072
+vosfreelance	homepage.mac.com	2012-04-03 04:12:36	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	homepage.mac.com-vosfreelance.warc.gz	4927
+vosfreelance	public.me.com	2012-04-03 04:12:30	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	public.me.com-vosfreelance.warc.gz	1927
+vosfreelance	web.me.com	2012-04-03 04:12:30	archiveteam-mobileme-hero-328x	archiveteam-mobileme-hero-328x-3282.tar	web.me.com-vosfreelance.warc.gz	815587

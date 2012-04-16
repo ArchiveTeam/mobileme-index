@@ -1,12 +1,12 @@
-celbuisson	gallery.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	gallery.me.com-celbuisson.warc.gz	0
-celbuisson	homepage.mac.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	homepage.mac.com-celbuisson.warc.gz	0
-celbuisson	public.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	public.me.com-celbuisson.warc.gz	0
-celbuisson	web.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	web.me.com-celbuisson.warc.gz	0
-glennasteele	gallery.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	gallery.me.com-glennasteele.warc.gz	0
-glennasteele	homepage.mac.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	homepage.mac.com-glennasteele.warc.gz	0
-glennasteele	public.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	public.me.com-glennasteele.warc.gz	0
-glennasteele	web.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	web.me.com-glennasteele.warc.gz	0
-investus	gallery.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	gallery.me.com-investus.warc.gz	0
-investus	homepage.mac.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	homepage.mac.com-investus.warc.gz	0
-investus	public.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	public.me.com-investus.warc.gz	0
-investus	web.me.com		archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	web.me.com-investus.warc.gz	0
+celbuisson	gallery.me.com	2012-04-11 04:05:54	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	gallery.me.com-celbuisson.warc.gz	2046073891
+celbuisson	homepage.mac.com	2012-04-11 04:05:54	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	homepage.mac.com-celbuisson.warc.gz	4903
+celbuisson	public.me.com	2012-04-11 03:00:25	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	public.me.com-celbuisson.warc.gz	1326119273
+celbuisson	web.me.com	2012-04-11 02:44:12	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	web.me.com-celbuisson.warc.gz	136604053
+glennasteele	gallery.me.com	2012-04-11 02:19:45	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	gallery.me.com-glennasteele.warc.gz	2636891701
+glennasteele	homepage.mac.com	2012-04-11 02:19:45	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	homepage.mac.com-glennasteele.warc.gz	4923
+glennasteele	public.me.com	2012-04-11 01:24:45	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	public.me.com-glennasteele.warc.gz	1922
+glennasteele	web.me.com	2012-04-11 01:24:44	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	web.me.com-glennasteele.warc.gz	126301939
+investus	gallery.me.com	2012-04-11 00:50:48	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	gallery.me.com-investus.warc.gz	4244
+investus	homepage.mac.com	2012-04-11 00:50:48	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	homepage.mac.com-investus.warc.gz	4918
+investus	public.me.com	2012-04-11 00:50:47	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	public.me.com-investus.warc.gz	1922
+investus	web.me.com	2012-04-11 00:50:47	archiveteam-mobileme-hero-619x	archiveteam-mobileme-hero-619x-6195.tar	web.me.com-investus.warc.gz	153774090

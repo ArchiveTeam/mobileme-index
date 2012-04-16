@@ -1,8 +1,8 @@
-kevcoleman	gallery.me.com		archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2234.tar	gallery.me.com-kevcoleman.warc.gz	0
-kevcoleman	homepage.mac.com		archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2234.tar	homepage.mac.com-kevcoleman.warc.gz	0
-kevcoleman	public.me.com		archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2234.tar	public.me.com-kevcoleman.warc.gz	0
-kevcoleman	web.me.com		archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2234.tar	web.me.com-kevcoleman.warc.gz	0
-lsnider	gallery.me.com		archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2234.tar	gallery.me.com-lsnider.warc.gz	0
-lsnider	homepage.mac.com		archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2234.tar	homepage.mac.com-lsnider.warc.gz	0
-lsnider	public.me.com		archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2234.tar	public.me.com-lsnider.warc.gz	0
-lsnider	web.me.com		archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2234.tar	web.me.com-lsnider.warc.gz	0
+kevcoleman	gallery.me.com	2012-03-30 21:09:27	archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2234.tar	gallery.me.com-kevcoleman.warc.gz	463927294
+kevcoleman	homepage.mac.com	2012-03-30 21:09:27	archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2234.tar	homepage.mac.com-kevcoleman.warc.gz	4921
+kevcoleman	public.me.com	2012-03-30 21:00:42	archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2234.tar	public.me.com-kevcoleman.warc.gz	1266725501
+kevcoleman	web.me.com	2012-03-30 20:16:22	archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2234.tar	web.me.com-kevcoleman.warc.gz	181897842
+lsnider	gallery.me.com	2012-03-30 23:05:24	archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2234.tar	gallery.me.com-lsnider.warc.gz	1368673568
+lsnider	homepage.mac.com	2012-03-30 23:05:34	archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2234.tar	homepage.mac.com-lsnider.warc.gz	103035
+lsnider	public.me.com	2012-03-30 22:16:56	archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2234.tar	public.me.com-lsnider.warc.gz	581816192
+lsnider	web.me.com	2012-03-30 22:03:35	archiveteam-mobileme-hero-223x	archiveteam-mobileme-hero-223x-2234.tar	web.me.com-lsnider.warc.gz	525820299

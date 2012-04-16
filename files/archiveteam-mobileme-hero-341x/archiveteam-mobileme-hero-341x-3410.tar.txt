@@ -1,8 +1,8 @@
-edanley	gallery.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3410.tar	gallery.me.com-edanley.warc.gz	0
-edanley	homepage.mac.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3410.tar	homepage.mac.com-edanley.warc.gz	0
-edanley	public.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3410.tar	public.me.com-edanley.warc.gz	0
-edanley	web.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3410.tar	web.me.com-edanley.warc.gz	0
-nancyd	gallery.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3410.tar	gallery.me.com-nancyd.warc.gz	0
-nancyd	homepage.mac.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3410.tar	homepage.mac.com-nancyd.warc.gz	0
-nancyd	public.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3410.tar	public.me.com-nancyd.warc.gz	0
-nancyd	web.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3410.tar	web.me.com-nancyd.warc.gz	0
+edanley	gallery.me.com	2012-04-03 11:15:58	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3410.tar	gallery.me.com-edanley.warc.gz	214986909
+edanley	homepage.mac.com	2012-04-03 11:15:59	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3410.tar	homepage.mac.com-edanley.warc.gz	4902
+edanley	public.me.com	2012-04-03 11:08:27	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3410.tar	public.me.com-edanley.warc.gz	120471690
+edanley	web.me.com	2012-04-03 11:06:34	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3410.tar	web.me.com-edanley.warc.gz	210424409
+nancyd	gallery.me.com	2012-04-03 12:17:20	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3410.tar	gallery.me.com-nancyd.warc.gz	3618021567
+nancyd	homepage.mac.com	2012-04-03 12:17:20	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3410.tar	homepage.mac.com-nancyd.warc.gz	7822
+nancyd	public.me.com	2012-04-03 11:43:50	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3410.tar	public.me.com-nancyd.warc.gz	177416525
+nancyd	web.me.com	2012-04-03 11:40:02	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3410.tar	web.me.com-nancyd.warc.gz	2780928277

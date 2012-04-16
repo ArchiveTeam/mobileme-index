@@ -1,16 +1,16 @@
-eric.boitel	gallery.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	gallery.me.com-eric.boitel.warc.gz	0
-eric.boitel	homepage.mac.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	homepage.mac.com-eric.boitel.warc.gz	0
-eric.boitel	public.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	public.me.com-eric.boitel.warc.gz	0
-eric.boitel	web.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	web.me.com-eric.boitel.warc.gz	0
-kcrvelin	gallery.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	gallery.me.com-kcrvelin.warc.gz	0
-kcrvelin	homepage.mac.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	homepage.mac.com-kcrvelin.warc.gz	0
-kcrvelin	public.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	public.me.com-kcrvelin.warc.gz	0
-kcrvelin	web.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	web.me.com-kcrvelin.warc.gz	0
-mickmurray	gallery.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	gallery.me.com-mickmurray.warc.gz	0
-mickmurray	homepage.mac.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	homepage.mac.com-mickmurray.warc.gz	0
-mickmurray	public.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	public.me.com-mickmurray.warc.gz	0
-mickmurray	web.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	web.me.com-mickmurray.warc.gz	0
-turboale	gallery.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	gallery.me.com-turboale.warc.gz	0
-turboale	homepage.mac.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	homepage.mac.com-turboale.warc.gz	0
-turboale	public.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	public.me.com-turboale.warc.gz	0
-turboale	web.me.com		archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	web.me.com-turboale.warc.gz	0
+eric.boitel	gallery.me.com	2012-04-05 02:19:05	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	gallery.me.com-eric.boitel.warc.gz	5205
+eric.boitel	homepage.mac.com	2012-04-05 02:19:05	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	homepage.mac.com-eric.boitel.warc.gz	4922
+eric.boitel	public.me.com	2012-04-05 02:19:04	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	public.me.com-eric.boitel.warc.gz	1919
+eric.boitel	web.me.com	2012-04-05 02:19:04	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	web.me.com-eric.boitel.warc.gz	198694
+kcrvelin	gallery.me.com	2012-04-05 06:23:38	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	gallery.me.com-kcrvelin.warc.gz	8095982857
+kcrvelin	homepage.mac.com	2012-04-05 06:23:38	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	homepage.mac.com-kcrvelin.warc.gz	4894
+kcrvelin	public.me.com	2012-04-05 03:05:11	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	public.me.com-kcrvelin.warc.gz	1916
+kcrvelin	web.me.com	2012-04-05 03:04:58	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	web.me.com-kcrvelin.warc.gz	158947715
+mickmurray	gallery.me.com	2012-04-05 02:18:50	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	gallery.me.com-mickmurray.warc.gz	6843768
+mickmurray	homepage.mac.com	2012-04-05 02:18:50	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	homepage.mac.com-mickmurray.warc.gz	4925
+mickmurray	public.me.com	2012-04-05 02:18:35	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	public.me.com-mickmurray.warc.gz	1923
+mickmurray	web.me.com	2012-04-05 02:18:35	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	web.me.com-mickmurray.warc.gz	131140076
+turboale	gallery.me.com	2012-04-05 02:22:25	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	gallery.me.com-turboale.warc.gz	22234850
+turboale	homepage.mac.com	2012-04-05 02:24:09	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	homepage.mac.com-turboale.warc.gz	3131987
+turboale	public.me.com	2012-04-05 02:21:12	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	public.me.com-turboale.warc.gz	27563692
+turboale	web.me.com	2012-04-05 02:20:00	archiveteam-mobileme-hero-412x	archiveteam-mobileme-hero-412x-4124.tar	web.me.com-turboale.warc.gz	6670393

@@ -1,16 +1,16 @@
-antonmiles	gallery.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	gallery.me.com-antonmiles.warc.gz	0
-antonmiles	homepage.mac.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	homepage.mac.com-antonmiles.warc.gz	0
-antonmiles	public.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	public.me.com-antonmiles.warc.gz	0
-antonmiles	web.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	web.me.com-antonmiles.warc.gz	0
-kptcoc	gallery.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	gallery.me.com-kptcoc.warc.gz	0
-kptcoc	homepage.mac.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	homepage.mac.com-kptcoc.warc.gz	0
-kptcoc	public.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	public.me.com-kptcoc.warc.gz	0
-kptcoc	web.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	web.me.com-kptcoc.warc.gz	0
-naughton1	gallery.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	gallery.me.com-naughton1.warc.gz	0
-naughton1	homepage.mac.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	homepage.mac.com-naughton1.warc.gz	0
-naughton1	public.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	public.me.com-naughton1.warc.gz	0
-naughton1	web.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	web.me.com-naughton1.warc.gz	0
-simotsukiya	gallery.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	gallery.me.com-simotsukiya.warc.gz	0
-simotsukiya	homepage.mac.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	homepage.mac.com-simotsukiya.warc.gz	0
-simotsukiya	public.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	public.me.com-simotsukiya.warc.gz	0
-simotsukiya	web.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	web.me.com-simotsukiya.warc.gz	0
+antonmiles	gallery.me.com	2012-04-12 05:21:04	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	gallery.me.com-antonmiles.warc.gz	4254
+antonmiles	homepage.mac.com	2012-04-12 05:21:09	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	homepage.mac.com-antonmiles.warc.gz	36842
+antonmiles	public.me.com	2012-04-12 05:21:01	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	public.me.com-antonmiles.warc.gz	1920
+antonmiles	web.me.com	2012-04-12 05:20:45	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	web.me.com-antonmiles.warc.gz	35479984
+kptcoc	gallery.me.com	2012-04-12 05:23:34	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	gallery.me.com-kptcoc.warc.gz	4224
+kptcoc	homepage.mac.com	2012-04-12 07:13:45	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	homepage.mac.com-kptcoc.warc.gz	4707720887
+kptcoc	public.me.com	2012-04-12 05:23:31	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	public.me.com-kptcoc.warc.gz	1913
+kptcoc	web.me.com	2012-04-12 05:23:28	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	web.me.com-kptcoc.warc.gz	7387
+naughton1	gallery.me.com	2012-04-12 05:23:18	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	gallery.me.com-naughton1.warc.gz	4237
+naughton1	homepage.mac.com	2012-04-12 05:23:21	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	homepage.mac.com-naughton1.warc.gz	4898
+naughton1	public.me.com	2012-04-12 05:23:15	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	public.me.com-naughton1.warc.gz	1918
+naughton1	web.me.com	2012-04-12 05:23:14	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	web.me.com-naughton1.warc.gz	370342
+simotsukiya	gallery.me.com	2012-04-12 05:22:34	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	gallery.me.com-simotsukiya.warc.gz	5047
+simotsukiya	homepage.mac.com	2012-04-12 05:22:38	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	homepage.mac.com-simotsukiya.warc.gz	88801
+simotsukiya	public.me.com	2012-04-12 05:22:30	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	public.me.com-simotsukiya.warc.gz	19273466
+simotsukiya	web.me.com	2012-04-12 05:21:35	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6652.tar	web.me.com-simotsukiya.warc.gz	149784

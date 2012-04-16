@@ -1,12 +1,12 @@
-fotofrank	gallery.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	gallery.me.com-fotofrank.warc.gz	0
-fotofrank	homepage.mac.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	homepage.mac.com-fotofrank.warc.gz	0
-fotofrank	public.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	public.me.com-fotofrank.warc.gz	0
-fotofrank	web.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	web.me.com-fotofrank.warc.gz	0
-pwyowell	gallery.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	gallery.me.com-pwyowell.warc.gz	0
-pwyowell	homepage.mac.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	homepage.mac.com-pwyowell.warc.gz	0
-pwyowell	public.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	public.me.com-pwyowell.warc.gz	0
-pwyowell	web.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	web.me.com-pwyowell.warc.gz	0
-zoe_trope	gallery.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	gallery.me.com-zoe_trope.warc.gz	0
-zoe_trope	homepage.mac.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	homepage.mac.com-zoe_trope.warc.gz	0
-zoe_trope	public.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	public.me.com-zoe_trope.warc.gz	0
-zoe_trope	web.me.com		archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	web.me.com-zoe_trope.warc.gz	0
+fotofrank	gallery.me.com	2012-04-11 12:14:14	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	gallery.me.com-fotofrank.warc.gz	8352
+fotofrank	homepage.mac.com	2012-04-11 12:14:14	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	homepage.mac.com-fotofrank.warc.gz	5151
+fotofrank	public.me.com	2012-04-11 12:14:13	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	public.me.com-fotofrank.warc.gz	1912
+fotofrank	web.me.com	2012-04-11 12:14:13	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	web.me.com-fotofrank.warc.gz	17727
+pwyowell	gallery.me.com	2012-04-11 12:14:11	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	gallery.me.com-pwyowell.warc.gz	61146071
+pwyowell	homepage.mac.com	2012-04-11 12:14:12	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	homepage.mac.com-pwyowell.warc.gz	4922
+pwyowell	public.me.com	2012-04-11 12:12:43	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	public.me.com-pwyowell.warc.gz	1911
+pwyowell	web.me.com	2012-04-11 12:12:43	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	web.me.com-pwyowell.warc.gz	2404238
+zoe_trope	gallery.me.com	2012-04-11 13:54:29	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	gallery.me.com-zoe_trope.warc.gz	5525125316
+zoe_trope	homepage.mac.com	2012-04-11 13:54:30	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	homepage.mac.com-zoe_trope.warc.gz	4920
+zoe_trope	public.me.com	2012-04-11 12:45:09	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	public.me.com-zoe_trope.warc.gz	187440500
+zoe_trope	web.me.com	2012-04-11 12:39:08	archiveteam-mobileme-hero-640x	archiveteam-mobileme-hero-640x-6402.tar	web.me.com-zoe_trope.warc.gz	1056824501

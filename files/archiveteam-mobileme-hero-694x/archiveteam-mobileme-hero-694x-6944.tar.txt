@@ -1,28 +1,28 @@
-c1202932186	gallery.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	gallery.me.com-c1202932186.warc.gz	0
-c1202932186	homepage.mac.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	homepage.mac.com-c1202932186.warc.gz	0
-c1202932186	public.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	public.me.com-c1202932186.warc.gz	0
-c1202932186	web.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	web.me.com-c1202932186.warc.gz	0
-davidburkhart	gallery.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	gallery.me.com-davidburkhart.warc.gz	0
-davidburkhart	homepage.mac.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	homepage.mac.com-davidburkhart.warc.gz	0
-davidburkhart	public.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	public.me.com-davidburkhart.warc.gz	0
-davidburkhart	web.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	web.me.com-davidburkhart.warc.gz	0
-efthymiou	gallery.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	gallery.me.com-efthymiou.warc.gz	0
-efthymiou	homepage.mac.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	homepage.mac.com-efthymiou.warc.gz	0
-efthymiou	public.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	public.me.com-efthymiou.warc.gz	0
-efthymiou	web.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	web.me.com-efthymiou.warc.gz	0
-laurat426	gallery.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	gallery.me.com-laurat426.warc.gz	0
-laurat426	homepage.mac.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	homepage.mac.com-laurat426.warc.gz	0
-laurat426	public.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	public.me.com-laurat426.warc.gz	0
-laurat426	web.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	web.me.com-laurat426.warc.gz	0
-ljeanart	gallery.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	gallery.me.com-ljeanart.warc.gz	0
-ljeanart	homepage.mac.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	homepage.mac.com-ljeanart.warc.gz	0
-ljeanart	public.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	public.me.com-ljeanart.warc.gz	0
-ljeanart	web.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	web.me.com-ljeanart.warc.gz	0
-martin_wenk	gallery.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	gallery.me.com-martin_wenk.warc.gz	0
-martin_wenk	homepage.mac.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	homepage.mac.com-martin_wenk.warc.gz	0
-martin_wenk	public.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	public.me.com-martin_wenk.warc.gz	0
-martin_wenk	web.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	web.me.com-martin_wenk.warc.gz	0
-xbsa66	gallery.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	gallery.me.com-xbsa66.warc.gz	0
-xbsa66	homepage.mac.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	homepage.mac.com-xbsa66.warc.gz	0
-xbsa66	public.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	public.me.com-xbsa66.warc.gz	0
-xbsa66	web.me.com		archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	web.me.com-xbsa66.warc.gz	0
+c1202932186	gallery.me.com	2012-04-12 18:59:14	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	gallery.me.com-c1202932186.warc.gz	8370
+c1202932186	homepage.mac.com	2012-04-12 18:59:15	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	homepage.mac.com-c1202932186.warc.gz	5178
+c1202932186	public.me.com	2012-04-12 18:59:14	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	public.me.com-c1202932186.warc.gz	1934
+c1202932186	web.me.com	2012-04-12 18:59:14	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	web.me.com-c1202932186.warc.gz	17743
+davidburkhart	gallery.me.com	2012-04-12 18:18:16	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	gallery.me.com-davidburkhart.warc.gz	1099860862
+davidburkhart	homepage.mac.com	2012-04-12 18:18:27	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	homepage.mac.com-davidburkhart.warc.gz	261725
+davidburkhart	public.me.com	2012-04-12 17:42:56	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	public.me.com-davidburkhart.warc.gz	1926
+davidburkhart	web.me.com	2012-04-12 17:42:53	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	web.me.com-davidburkhart.warc.gz	602719580
+efthymiou	gallery.me.com	2012-04-12 19:57:26	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	gallery.me.com-efthymiou.warc.gz	2704598919
+efthymiou	homepage.mac.com	2012-04-12 19:57:26	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	homepage.mac.com-efthymiou.warc.gz	4914
+efthymiou	public.me.com	2012-04-12 19:15:45	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	public.me.com-efthymiou.warc.gz	1912
+efthymiou	web.me.com	2012-04-12 19:15:44	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	web.me.com-efthymiou.warc.gz	120271511
+laurat426	gallery.me.com	2012-04-12 18:31:28	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	gallery.me.com-laurat426.warc.gz	204506879
+laurat426	homepage.mac.com	2012-04-12 18:31:28	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	homepage.mac.com-laurat426.warc.gz	4918
+laurat426	public.me.com	2012-04-12 18:23:15	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	public.me.com-laurat426.warc.gz	1918
+laurat426	web.me.com	2012-04-12 18:23:15	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	web.me.com-laurat426.warc.gz	20287370
+ljeanart	gallery.me.com	2012-04-12 18:33:32	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	gallery.me.com-ljeanart.warc.gz	5717
+ljeanart	homepage.mac.com	2012-04-12 18:33:33	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	homepage.mac.com-ljeanart.warc.gz	7864
+ljeanart	public.me.com	2012-04-12 18:33:32	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	public.me.com-ljeanart.warc.gz	1924
+ljeanart	web.me.com	2012-04-12 18:33:31	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	web.me.com-ljeanart.warc.gz	11580985
+martin_wenk	gallery.me.com	2012-04-12 18:59:12	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	gallery.me.com-martin_wenk.warc.gz	5310
+martin_wenk	homepage.mac.com	2012-04-12 18:59:12	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	homepage.mac.com-martin_wenk.warc.gz	4914
+martin_wenk	public.me.com	2012-04-12 18:59:09	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	public.me.com-martin_wenk.warc.gz	3864
+martin_wenk	web.me.com	2012-04-12 18:59:08	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	web.me.com-martin_wenk.warc.gz	341599575
+xbsa66	gallery.me.com	2012-04-12 19:11:22	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	gallery.me.com-xbsa66.warc.gz	922721317
+xbsa66	homepage.mac.com	2012-04-12 19:11:22	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	homepage.mac.com-xbsa66.warc.gz	4875
+xbsa66	public.me.com	2012-04-12 19:01:20	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	public.me.com-xbsa66.warc.gz	1912
+xbsa66	web.me.com	2012-04-12 19:01:20	archiveteam-mobileme-hero-694x	archiveteam-mobileme-hero-694x-6944.tar	web.me.com-xbsa66.warc.gz	5167145

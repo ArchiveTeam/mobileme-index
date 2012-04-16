@@ -1,8 +1,8 @@
-dfens	gallery.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2401.tar	gallery.me.com-dfens.warc.gz	0
-dfens	homepage.mac.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2401.tar	homepage.mac.com-dfens.warc.gz	0
-dfens	public.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2401.tar	public.me.com-dfens.warc.gz	0
-dfens	web.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2401.tar	web.me.com-dfens.warc.gz	0
-saltenberg	gallery.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2401.tar	gallery.me.com-saltenberg.warc.gz	0
-saltenberg	homepage.mac.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2401.tar	homepage.mac.com-saltenberg.warc.gz	0
-saltenberg	public.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2401.tar	public.me.com-saltenberg.warc.gz	0
-saltenberg	web.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2401.tar	web.me.com-saltenberg.warc.gz	0
+dfens	gallery.me.com	2012-03-31 12:30:19	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2401.tar	gallery.me.com-dfens.warc.gz	4573662781
+dfens	homepage.mac.com	2012-03-31 12:30:20	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2401.tar	homepage.mac.com-dfens.warc.gz	4871
+dfens	public.me.com	2012-03-31 09:02:28	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2401.tar	public.me.com-dfens.warc.gz	381375498
+dfens	web.me.com	2012-03-31 08:52:29	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2401.tar	web.me.com-dfens.warc.gz	617604965
+saltenberg	gallery.me.com	2012-03-31 08:12:18	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2401.tar	gallery.me.com-saltenberg.warc.gz	1334431136
+saltenberg	homepage.mac.com	2012-03-31 08:12:18	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2401.tar	homepage.mac.com-saltenberg.warc.gz	4928
+saltenberg	public.me.com	2012-03-31 07:14:31	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2401.tar	public.me.com-saltenberg.warc.gz	1918
+saltenberg	web.me.com	2012-03-31 07:14:27	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2401.tar	web.me.com-saltenberg.warc.gz	63989097

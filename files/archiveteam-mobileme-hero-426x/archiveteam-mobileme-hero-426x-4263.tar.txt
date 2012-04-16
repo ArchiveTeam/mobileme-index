@@ -1,16 +1,16 @@
-beauchamps	gallery.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	gallery.me.com-beauchamps.warc.gz	0
-beauchamps	homepage.mac.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	homepage.mac.com-beauchamps.warc.gz	0
-beauchamps	public.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	public.me.com-beauchamps.warc.gz	0
-beauchamps	web.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	web.me.com-beauchamps.warc.gz	0
-ejstein	gallery.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	gallery.me.com-ejstein.warc.gz	0
-ejstein	homepage.mac.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	homepage.mac.com-ejstein.warc.gz	0
-ejstein	public.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	public.me.com-ejstein.warc.gz	0
-ejstein	web.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	web.me.com-ejstein.warc.gz	0
-justin.curley	gallery.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	gallery.me.com-justin.curley.warc.gz	0
-justin.curley	homepage.mac.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	homepage.mac.com-justin.curley.warc.gz	0
-justin.curley	public.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	public.me.com-justin.curley.warc.gz	0
-justin.curley	web.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	web.me.com-justin.curley.warc.gz	0
-shananmoore	gallery.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	gallery.me.com-shananmoore.warc.gz	0
-shananmoore	homepage.mac.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	homepage.mac.com-shananmoore.warc.gz	0
-shananmoore	public.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	public.me.com-shananmoore.warc.gz	0
-shananmoore	web.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	web.me.com-shananmoore.warc.gz	0
+beauchamps	gallery.me.com	2012-04-05 13:32:11	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	gallery.me.com-beauchamps.warc.gz	3005552162
+beauchamps	homepage.mac.com	2012-04-05 13:32:12	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	homepage.mac.com-beauchamps.warc.gz	7849
+beauchamps	public.me.com	2012-04-05 12:59:00	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	public.me.com-beauchamps.warc.gz	24742214
+beauchamps	web.me.com	2012-04-05 12:58:49	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	web.me.com-beauchamps.warc.gz	2178372383
+ejstein	gallery.me.com	2012-04-05 11:55:38	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	gallery.me.com-ejstein.warc.gz	388807297
+ejstein	homepage.mac.com	2012-04-05 11:55:38	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	homepage.mac.com-ejstein.warc.gz	4906
+ejstein	public.me.com	2012-04-05 11:49:41	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	public.me.com-ejstein.warc.gz	3429
+ejstein	web.me.com	2012-04-05 11:49:40	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	web.me.com-ejstein.warc.gz	614787899
+justin.curley	gallery.me.com	2012-04-05 12:12:41	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	gallery.me.com-justin.curley.warc.gz	126385173
+justin.curley	homepage.mac.com	2012-04-05 12:12:42	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	homepage.mac.com-justin.curley.warc.gz	4938
+justin.curley	public.me.com	2012-04-05 12:11:19	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	public.me.com-justin.curley.warc.gz	1932
+justin.curley	web.me.com	2012-04-05 12:11:19	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	web.me.com-justin.curley.warc.gz	4609000
+shananmoore	gallery.me.com	2012-04-05 12:10:40	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	gallery.me.com-shananmoore.warc.gz	699400180
+shananmoore	homepage.mac.com	2012-04-05 12:10:40	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	homepage.mac.com-shananmoore.warc.gz	4909
+shananmoore	public.me.com	2012-04-05 12:01:28	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	public.me.com-shananmoore.warc.gz	1922
+shananmoore	web.me.com	2012-04-05 12:01:28	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4263.tar	web.me.com-shananmoore.warc.gz	200750842

@@ -1,8 +1,8 @@
-dougdutton	gallery.me.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5124.tar	gallery.me.com-dougdutton.warc.gz	0
-dougdutton	homepage.mac.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5124.tar	homepage.mac.com-dougdutton.warc.gz	0
-dougdutton	public.me.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5124.tar	public.me.com-dougdutton.warc.gz	0
-dougdutton	web.me.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5124.tar	web.me.com-dougdutton.warc.gz	0
-jkapthemoviemaker	gallery.me.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5124.tar	gallery.me.com-jkapthemoviemaker.warc.gz	0
-jkapthemoviemaker	homepage.mac.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5124.tar	homepage.mac.com-jkapthemoviemaker.warc.gz	0
-jkapthemoviemaker	public.me.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5124.tar	public.me.com-jkapthemoviemaker.warc.gz	0
-jkapthemoviemaker	web.me.com		archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5124.tar	web.me.com-jkapthemoviemaker.warc.gz	0
+dougdutton	gallery.me.com	2012-04-08 00:40:10	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5124.tar	gallery.me.com-dougdutton.warc.gz	5694
+dougdutton	homepage.mac.com	2012-04-08 00:40:11	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5124.tar	homepage.mac.com-dougdutton.warc.gz	4924
+dougdutton	public.me.com	2012-04-08 00:40:10	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5124.tar	public.me.com-dougdutton.warc.gz	152575
+dougdutton	web.me.com	2012-04-08 00:40:08	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5124.tar	web.me.com-dougdutton.warc.gz	59391
+jkapthemoviemaker	gallery.me.com	2012-04-08 04:57:22	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5124.tar	gallery.me.com-jkapthemoviemaker.warc.gz	6155247757
+jkapthemoviemaker	homepage.mac.com	2012-04-08 04:57:23	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5124.tar	homepage.mac.com-jkapthemoviemaker.warc.gz	4962
+jkapthemoviemaker	public.me.com	2012-04-08 01:10:04	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5124.tar	public.me.com-jkapthemoviemaker.warc.gz	1945
+jkapthemoviemaker	web.me.com	2012-04-08 01:09:47	archiveteam-mobileme-hero-512x	archiveteam-mobileme-hero-512x-5124.tar	web.me.com-jkapthemoviemaker.warc.gz	106591393

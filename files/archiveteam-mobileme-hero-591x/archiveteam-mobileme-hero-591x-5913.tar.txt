@@ -1,12 +1,12 @@
-jjansen2	gallery.me.com		archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	gallery.me.com-jjansen2.warc.gz	0
-jjansen2	homepage.mac.com		archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	homepage.mac.com-jjansen2.warc.gz	0
-jjansen2	public.me.com		archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	public.me.com-jjansen2.warc.gz	0
-jjansen2	web.me.com		archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	web.me.com-jjansen2.warc.gz	0
-keyframes	gallery.me.com		archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	gallery.me.com-keyframes.warc.gz	0
-keyframes	homepage.mac.com		archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	homepage.mac.com-keyframes.warc.gz	0
-keyframes	public.me.com		archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	public.me.com-keyframes.warc.gz	0
-keyframes	web.me.com		archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	web.me.com-keyframes.warc.gz	0
-morganboverman	gallery.me.com		archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	gallery.me.com-morganboverman.warc.gz	0
-morganboverman	homepage.mac.com		archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	homepage.mac.com-morganboverman.warc.gz	0
-morganboverman	public.me.com		archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	public.me.com-morganboverman.warc.gz	0
-morganboverman	web.me.com		archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	web.me.com-morganboverman.warc.gz	0
+jjansen2	gallery.me.com	2012-04-10 05:01:27	archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	gallery.me.com-jjansen2.warc.gz	12338
+jjansen2	homepage.mac.com	2012-04-10 05:01:29	archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	homepage.mac.com-jjansen2.warc.gz	7155
+jjansen2	public.me.com	2012-04-10 05:01:25	archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	public.me.com-jjansen2.warc.gz	1913
+jjansen2	web.me.com	2012-04-10 05:01:24	archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	web.me.com-jjansen2.warc.gz	22506
+keyframes	gallery.me.com	2012-04-10 05:01:18	archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	gallery.me.com-keyframes.warc.gz	4977
+keyframes	homepage.mac.com	2012-04-10 05:01:18	archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	homepage.mac.com-keyframes.warc.gz	6045
+keyframes	public.me.com	2012-04-10 05:01:17	archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	public.me.com-keyframes.warc.gz	1922
+keyframes	web.me.com	2012-04-10 05:01:17	archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	web.me.com-keyframes.warc.gz	45170
+morganboverman	gallery.me.com	2012-04-10 11:52:07	archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	gallery.me.com-morganboverman.warc.gz	3529321521
+morganboverman	homepage.mac.com	2012-04-10 11:52:07	archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	homepage.mac.com-morganboverman.warc.gz	4934
+morganboverman	public.me.com	2012-04-10 07:31:19	archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	public.me.com-morganboverman.warc.gz	1925
+morganboverman	web.me.com	2012-04-10 07:31:16	archiveteam-mobileme-hero-591x	archiveteam-mobileme-hero-591x-5913.tar	web.me.com-morganboverman.warc.gz	1229941710

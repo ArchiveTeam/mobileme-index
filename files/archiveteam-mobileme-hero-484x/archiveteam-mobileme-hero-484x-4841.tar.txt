@@ -1,24 +1,24 @@
-afwood	gallery.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	gallery.me.com-afwood.warc.gz	0
-afwood	homepage.mac.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	homepage.mac.com-afwood.warc.gz	0
-afwood	public.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	public.me.com-afwood.warc.gz	0
-afwood	web.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	web.me.com-afwood.warc.gz	0
-christinegminer	gallery.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	gallery.me.com-christinegminer.warc.gz	0
-christinegminer	homepage.mac.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	homepage.mac.com-christinegminer.warc.gz	0
-christinegminer	public.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	public.me.com-christinegminer.warc.gz	0
-christinegminer	web.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	web.me.com-christinegminer.warc.gz	0
-jeroen.kemp	gallery.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	gallery.me.com-jeroen.kemp.warc.gz	0
-jeroen.kemp	homepage.mac.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	homepage.mac.com-jeroen.kemp.warc.gz	0
-jeroen.kemp	public.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	public.me.com-jeroen.kemp.warc.gz	0
-jeroen.kemp	web.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	web.me.com-jeroen.kemp.warc.gz	0
-kalicinski	gallery.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	gallery.me.com-kalicinski.warc.gz	0
-kalicinski	homepage.mac.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	homepage.mac.com-kalicinski.warc.gz	0
-kalicinski	public.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	public.me.com-kalicinski.warc.gz	0
-kalicinski	web.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	web.me.com-kalicinski.warc.gz	0
-patrickbarbary	gallery.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	gallery.me.com-patrickbarbary.warc.gz	0
-patrickbarbary	homepage.mac.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	homepage.mac.com-patrickbarbary.warc.gz	0
-patrickbarbary	public.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	public.me.com-patrickbarbary.warc.gz	0
-patrickbarbary	web.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	web.me.com-patrickbarbary.warc.gz	0
-pvaona	gallery.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	gallery.me.com-pvaona.warc.gz	0
-pvaona	homepage.mac.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	homepage.mac.com-pvaona.warc.gz	0
-pvaona	public.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	public.me.com-pvaona.warc.gz	0
-pvaona	web.me.com		archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	web.me.com-pvaona.warc.gz	0
+afwood	gallery.me.com	2012-04-06 23:42:48	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	gallery.me.com-afwood.warc.gz	5643
+afwood	homepage.mac.com	2012-04-06 23:42:49	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	homepage.mac.com-afwood.warc.gz	11383
+afwood	public.me.com	2012-04-06 23:42:47	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	public.me.com-afwood.warc.gz	522233448
+afwood	web.me.com	2012-04-06 23:36:30	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	web.me.com-afwood.warc.gz	45148
+christinegminer	gallery.me.com	2012-04-06 23:59:08	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	gallery.me.com-christinegminer.warc.gz	14106332
+christinegminer	homepage.mac.com	2012-04-06 23:59:08	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	homepage.mac.com-christinegminer.warc.gz	4931
+christinegminer	public.me.com	2012-04-06 23:58:35	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	public.me.com-christinegminer.warc.gz	1934
+christinegminer	web.me.com	2012-04-06 23:58:35	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	web.me.com-christinegminer.warc.gz	45171007
+jeroen.kemp	gallery.me.com	2012-04-07 00:03:34	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	gallery.me.com-jeroen.kemp.warc.gz	72269577
+jeroen.kemp	homepage.mac.com	2012-04-07 00:03:34	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	homepage.mac.com-jeroen.kemp.warc.gz	4933
+jeroen.kemp	public.me.com	2012-04-07 00:01:55	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	public.me.com-jeroen.kemp.warc.gz	1927
+jeroen.kemp	web.me.com	2012-04-07 00:01:54	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	web.me.com-jeroen.kemp.warc.gz	48259813
+kalicinski	gallery.me.com	2012-04-06 23:42:52	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	gallery.me.com-kalicinski.warc.gz	12328
+kalicinski	homepage.mac.com	2012-04-06 23:42:52	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	homepage.mac.com-kalicinski.warc.gz	7134
+kalicinski	public.me.com	2012-04-06 23:42:51	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	public.me.com-kalicinski.warc.gz	1923
+kalicinski	web.me.com	2012-04-06 23:42:51	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	web.me.com-kalicinski.warc.gz	22464
+patrickbarbary	gallery.me.com	2012-04-07 03:20:28	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	gallery.me.com-patrickbarbary.warc.gz	3843719635
+patrickbarbary	homepage.mac.com	2012-04-07 03:20:30	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	homepage.mac.com-patrickbarbary.warc.gz	36983
+patrickbarbary	public.me.com	2012-04-07 01:27:15	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	public.me.com-patrickbarbary.warc.gz	1922
+patrickbarbary	web.me.com	2012-04-07 01:26:16	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	web.me.com-patrickbarbary.warc.gz	1526049545
+pvaona	gallery.me.com	2012-04-06 23:50:26	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	gallery.me.com-pvaona.warc.gz	103053805
+pvaona	homepage.mac.com	2012-04-06 23:50:26	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	homepage.mac.com-pvaona.warc.gz	4889
+pvaona	public.me.com	2012-04-06 23:45:07	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	public.me.com-pvaona.warc.gz	1912
+pvaona	web.me.com	2012-04-06 23:45:05	archiveteam-mobileme-hero-484x	archiveteam-mobileme-hero-484x-4841.tar	web.me.com-pvaona.warc.gz	8996548

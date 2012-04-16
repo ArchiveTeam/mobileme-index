@@ -1,20 +1,20 @@
-barrscott	gallery.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	gallery.me.com-barrscott.warc.gz	0
-barrscott	homepage.mac.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	homepage.mac.com-barrscott.warc.gz	0
-barrscott	public.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	public.me.com-barrscott.warc.gz	0
-barrscott	web.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	web.me.com-barrscott.warc.gz	0
-chenrysaasds	gallery.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	gallery.me.com-chenrysaasds.warc.gz	0
-chenrysaasds	homepage.mac.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	homepage.mac.com-chenrysaasds.warc.gz	0
-chenrysaasds	public.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	public.me.com-chenrysaasds.warc.gz	0
-chenrysaasds	web.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	web.me.com-chenrysaasds.warc.gz	0
-jprorball	gallery.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	gallery.me.com-jprorball.warc.gz	0
-jprorball	homepage.mac.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	homepage.mac.com-jprorball.warc.gz	0
-jprorball	public.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	public.me.com-jprorball.warc.gz	0
-jprorball	web.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	web.me.com-jprorball.warc.gz	0
-knaye	gallery.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	gallery.me.com-knaye.warc.gz	0
-knaye	homepage.mac.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	homepage.mac.com-knaye.warc.gz	0
-knaye	public.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	public.me.com-knaye.warc.gz	0
-knaye	web.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	web.me.com-knaye.warc.gz	0
-rodinet	gallery.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	gallery.me.com-rodinet.warc.gz	0
-rodinet	homepage.mac.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	homepage.mac.com-rodinet.warc.gz	0
-rodinet	public.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	public.me.com-rodinet.warc.gz	0
-rodinet	web.me.com		archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	web.me.com-rodinet.warc.gz	0
+barrscott	gallery.me.com	2012-04-03 12:21:50	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	gallery.me.com-barrscott.warc.gz	14895895
+barrscott	homepage.mac.com	2012-04-03 12:21:50	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	homepage.mac.com-barrscott.warc.gz	4913
+barrscott	public.me.com	2012-04-03 12:21:34	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	public.me.com-barrscott.warc.gz	3590
+barrscott	web.me.com	2012-04-03 12:21:24	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	web.me.com-barrscott.warc.gz	1079016267
+chenrysaasds	gallery.me.com	2012-04-03 09:39:50	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	gallery.me.com-chenrysaasds.warc.gz	4294
+chenrysaasds	homepage.mac.com	2012-04-03 09:39:50	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	homepage.mac.com-chenrysaasds.warc.gz	12563
+chenrysaasds	public.me.com	2012-04-03 09:39:49	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	public.me.com-chenrysaasds.warc.gz	146654
+chenrysaasds	web.me.com	2012-04-03 09:39:43	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	web.me.com-chenrysaasds.warc.gz	10430272
+jprorball	gallery.me.com	2012-04-03 09:38:05	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	gallery.me.com-jprorball.warc.gz	5017
+jprorball	homepage.mac.com	2012-04-03 09:38:06	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	homepage.mac.com-jprorball.warc.gz	4916
+jprorball	public.me.com	2012-04-03 09:38:05	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	public.me.com-jprorball.warc.gz	1922
+jprorball	web.me.com	2012-04-03 09:38:04	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	web.me.com-jprorball.warc.gz	21333374
+knaye	gallery.me.com	2012-04-03 11:23:27	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	gallery.me.com-knaye.warc.gz	5276
+knaye	homepage.mac.com	2012-04-03 11:23:27	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	homepage.mac.com-knaye.warc.gz	4894
+knaye	public.me.com	2012-04-03 11:23:26	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	public.me.com-knaye.warc.gz	5387777
+knaye	web.me.com	2012-04-03 11:23:07	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	web.me.com-knaye.warc.gz	859900698
+rodinet	gallery.me.com	2012-04-03 09:36:44	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	gallery.me.com-rodinet.warc.gz	1498853919
+rodinet	homepage.mac.com	2012-04-03 09:36:44	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	homepage.mac.com-rodinet.warc.gz	4879
+rodinet	public.me.com	2012-04-03 09:12:52	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	public.me.com-rodinet.warc.gz	164775391
+rodinet	web.me.com	2012-04-03 09:09:04	archiveteam-mobileme-hero-341x	archiveteam-mobileme-hero-341x-3411.tar	web.me.com-rodinet.warc.gz	869046086

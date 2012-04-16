@@ -1,8 +1,8 @@
-aarongillies	gallery.me.com		archiveteam-mobileme-hero-436x	archiveteam-mobileme-hero-436x-4367.tar	gallery.me.com-aarongillies.warc.gz	0
-aarongillies	homepage.mac.com		archiveteam-mobileme-hero-436x	archiveteam-mobileme-hero-436x-4367.tar	homepage.mac.com-aarongillies.warc.gz	0
-aarongillies	public.me.com		archiveteam-mobileme-hero-436x	archiveteam-mobileme-hero-436x-4367.tar	public.me.com-aarongillies.warc.gz	0
-aarongillies	web.me.com		archiveteam-mobileme-hero-436x	archiveteam-mobileme-hero-436x-4367.tar	web.me.com-aarongillies.warc.gz	0
-goodpasturefamily	gallery.me.com		archiveteam-mobileme-hero-436x	archiveteam-mobileme-hero-436x-4367.tar	gallery.me.com-goodpasturefamily.warc.gz	0
-goodpasturefamily	homepage.mac.com		archiveteam-mobileme-hero-436x	archiveteam-mobileme-hero-436x-4367.tar	homepage.mac.com-goodpasturefamily.warc.gz	0
-goodpasturefamily	public.me.com		archiveteam-mobileme-hero-436x	archiveteam-mobileme-hero-436x-4367.tar	public.me.com-goodpasturefamily.warc.gz	0
-goodpasturefamily	web.me.com		archiveteam-mobileme-hero-436x	archiveteam-mobileme-hero-436x-4367.tar	web.me.com-goodpasturefamily.warc.gz	0
+aarongillies	gallery.me.com	2012-04-05 19:07:25	archiveteam-mobileme-hero-436x	archiveteam-mobileme-hero-436x-4367.tar	gallery.me.com-aarongillies.warc.gz	1265242597
+aarongillies	homepage.mac.com	2012-04-05 19:07:25	archiveteam-mobileme-hero-436x	archiveteam-mobileme-hero-436x-4367.tar	homepage.mac.com-aarongillies.warc.gz	4924
+aarongillies	public.me.com	2012-04-05 18:27:55	archiveteam-mobileme-hero-436x	archiveteam-mobileme-hero-436x-4367.tar	public.me.com-aarongillies.warc.gz	1921
+aarongillies	web.me.com	2012-04-05 18:27:52	archiveteam-mobileme-hero-436x	archiveteam-mobileme-hero-436x-4367.tar	web.me.com-aarongillies.warc.gz	689354984
+goodpasturefamily	gallery.me.com	2012-04-05 20:10:12	archiveteam-mobileme-hero-436x	archiveteam-mobileme-hero-436x-4367.tar	gallery.me.com-goodpasturefamily.warc.gz	2635714669
+goodpasturefamily	homepage.mac.com	2012-04-05 20:10:13	archiveteam-mobileme-hero-436x	archiveteam-mobileme-hero-436x-4367.tar	homepage.mac.com-goodpasturefamily.warc.gz	4945
+goodpasturefamily	public.me.com	2012-04-05 19:20:51	archiveteam-mobileme-hero-436x	archiveteam-mobileme-hero-436x-4367.tar	public.me.com-goodpasturefamily.warc.gz	1941
+goodpasturefamily	web.me.com	2012-04-05 19:20:50	archiveteam-mobileme-hero-436x	archiveteam-mobileme-hero-436x-4367.tar	web.me.com-goodpasturefamily.warc.gz	199499657

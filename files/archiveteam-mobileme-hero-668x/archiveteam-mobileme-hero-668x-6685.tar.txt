@@ -1,8 +1,8 @@
-jcords	gallery.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6685.tar	gallery.me.com-jcords.warc.gz	0
-jcords	homepage.mac.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6685.tar	homepage.mac.com-jcords.warc.gz	0
-jcords	public.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6685.tar	public.me.com-jcords.warc.gz	0
-jcords	web.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6685.tar	web.me.com-jcords.warc.gz	0
-lesa.meyer	gallery.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6685.tar	gallery.me.com-lesa.meyer.warc.gz	0
-lesa.meyer	homepage.mac.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6685.tar	homepage.mac.com-lesa.meyer.warc.gz	0
-lesa.meyer	public.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6685.tar	public.me.com-lesa.meyer.warc.gz	0
-lesa.meyer	web.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6685.tar	web.me.com-lesa.meyer.warc.gz	0
+jcords	gallery.me.com	2012-04-12 08:40:13	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6685.tar	gallery.me.com-jcords.warc.gz	2322888349
+jcords	homepage.mac.com	2012-04-12 08:40:14	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6685.tar	homepage.mac.com-jcords.warc.gz	7826
+jcords	public.me.com	2012-04-12 07:48:14	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6685.tar	public.me.com-jcords.warc.gz	1077090165
+jcords	web.me.com	2012-04-12 07:41:32	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6685.tar	web.me.com-jcords.warc.gz	422590033
+lesa.meyer	gallery.me.com	2012-04-12 07:18:38	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6685.tar	gallery.me.com-lesa.meyer.warc.gz	1626342306
+lesa.meyer	homepage.mac.com	2012-04-12 07:18:38	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6685.tar	homepage.mac.com-lesa.meyer.warc.gz	4907
+lesa.meyer	public.me.com	2012-04-12 06:53:15	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6685.tar	public.me.com-lesa.meyer.warc.gz	1922
+lesa.meyer	web.me.com	2012-04-12 06:53:14	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6685.tar	web.me.com-lesa.meyer.warc.gz	42844968

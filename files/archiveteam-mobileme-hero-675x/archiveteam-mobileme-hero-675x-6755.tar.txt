@@ -1,16 +1,16 @@
-cjlinkus	gallery.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	gallery.me.com-cjlinkus.warc.gz	0
-cjlinkus	homepage.mac.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	homepage.mac.com-cjlinkus.warc.gz	0
-cjlinkus	public.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	public.me.com-cjlinkus.warc.gz	0
-cjlinkus	web.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	web.me.com-cjlinkus.warc.gz	0
-danocaster	gallery.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	gallery.me.com-danocaster.warc.gz	0
-danocaster	homepage.mac.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	homepage.mac.com-danocaster.warc.gz	0
-danocaster	public.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	public.me.com-danocaster.warc.gz	0
-danocaster	web.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	web.me.com-danocaster.warc.gz	0
-simon.hersey	gallery.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	gallery.me.com-simon.hersey.warc.gz	0
-simon.hersey	homepage.mac.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	homepage.mac.com-simon.hersey.warc.gz	0
-simon.hersey	public.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	public.me.com-simon.hersey.warc.gz	0
-simon.hersey	web.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	web.me.com-simon.hersey.warc.gz	0
-thomaslangdon	gallery.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	gallery.me.com-thomaslangdon.warc.gz	0
-thomaslangdon	homepage.mac.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	homepage.mac.com-thomaslangdon.warc.gz	0
-thomaslangdon	public.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	public.me.com-thomaslangdon.warc.gz	0
-thomaslangdon	web.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	web.me.com-thomaslangdon.warc.gz	0
+cjlinkus	gallery.me.com	2012-04-12 11:42:42	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	gallery.me.com-cjlinkus.warc.gz	4825679
+cjlinkus	homepage.mac.com	2012-04-12 11:42:43	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	homepage.mac.com-cjlinkus.warc.gz	5478
+cjlinkus	public.me.com	2012-04-12 11:42:35	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	public.me.com-cjlinkus.warc.gz	1918
+cjlinkus	web.me.com	2012-04-12 11:42:19	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	web.me.com-cjlinkus.warc.gz	217454005
+danocaster	gallery.me.com	2012-04-12 11:08:33	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	gallery.me.com-danocaster.warc.gz	4978
+danocaster	homepage.mac.com	2012-04-12 11:08:33	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	homepage.mac.com-danocaster.warc.gz	4926
+danocaster	public.me.com	2012-04-12 11:08:32	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	public.me.com-danocaster.warc.gz	814022968
+danocaster	web.me.com	2012-04-12 11:01:48	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	web.me.com-danocaster.warc.gz	50966316
+simon.hersey	gallery.me.com	2012-04-12 10:55:36	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	gallery.me.com-simon.hersey.warc.gz	4264
+simon.hersey	homepage.mac.com	2012-04-12 10:55:38	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	homepage.mac.com-simon.hersey.warc.gz	82121
+simon.hersey	public.me.com	2012-04-12 10:55:36	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	public.me.com-simon.hersey.warc.gz	495955922
+simon.hersey	web.me.com	2012-04-12 10:41:43	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	web.me.com-simon.hersey.warc.gz	148992045
+thomaslangdon	gallery.me.com	2012-04-12 10:20:11	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	gallery.me.com-thomaslangdon.warc.gz	5201
+thomaslangdon	homepage.mac.com	2012-04-12 10:20:11	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	homepage.mac.com-thomaslangdon.warc.gz	4921
+thomaslangdon	public.me.com	2012-04-12 10:20:08	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	public.me.com-thomaslangdon.warc.gz	1430236450
+thomaslangdon	web.me.com	2012-04-12 09:47:27	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6755.tar	web.me.com-thomaslangdon.warc.gz	1318632174

@@ -1,16 +1,16 @@
-carmelina2	gallery.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	gallery.me.com-carmelina2.warc.gz	0
-carmelina2	homepage.mac.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	homepage.mac.com-carmelina2.warc.gz	0
-carmelina2	public.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	public.me.com-carmelina2.warc.gz	0
-carmelina2	web.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	web.me.com-carmelina2.warc.gz	0
-estarwest	gallery.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	gallery.me.com-estarwest.warc.gz	0
-estarwest	homepage.mac.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	homepage.mac.com-estarwest.warc.gz	0
-estarwest	public.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	public.me.com-estarwest.warc.gz	0
-estarwest	web.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	web.me.com-estarwest.warc.gz	0
-jasonlcarlton	gallery.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	gallery.me.com-jasonlcarlton.warc.gz	0
-jasonlcarlton	homepage.mac.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	homepage.mac.com-jasonlcarlton.warc.gz	0
-jasonlcarlton	public.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	public.me.com-jasonlcarlton.warc.gz	0
-jasonlcarlton	web.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	web.me.com-jasonlcarlton.warc.gz	0
-jimangus	gallery.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	gallery.me.com-jimangus.warc.gz	0
-jimangus	homepage.mac.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	homepage.mac.com-jimangus.warc.gz	0
-jimangus	public.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	public.me.com-jimangus.warc.gz	0
-jimangus	web.me.com		archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	web.me.com-jimangus.warc.gz	0
+carmelina2	gallery.me.com	2012-04-06 13:53:21	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	gallery.me.com-carmelina2.warc.gz	4577119
+carmelina2	homepage.mac.com	2012-04-06 13:53:21	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	homepage.mac.com-carmelina2.warc.gz	4922
+carmelina2	public.me.com	2012-04-06 13:53:17	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	public.me.com-carmelina2.warc.gz	1914
+carmelina2	web.me.com	2012-04-06 13:53:16	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	web.me.com-carmelina2.warc.gz	580730
+estarwest	gallery.me.com	2012-04-06 14:44:38	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	gallery.me.com-estarwest.warc.gz	1581829876
+estarwest	homepage.mac.com	2012-04-06 14:44:38	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	homepage.mac.com-estarwest.warc.gz	4895
+estarwest	public.me.com	2012-04-06 14:23:53	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	public.me.com-estarwest.warc.gz	1907
+estarwest	web.me.com	2012-04-06 14:23:52	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	web.me.com-estarwest.warc.gz	183758984
+jasonlcarlton	gallery.me.com	2012-04-06 14:15:00	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	gallery.me.com-jasonlcarlton.warc.gz	83077250
+jasonlcarlton	homepage.mac.com	2012-04-06 14:15:07	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	homepage.mac.com-jasonlcarlton.warc.gz	121152
+jasonlcarlton	public.me.com	2012-04-06 14:11:23	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	public.me.com-jasonlcarlton.warc.gz	1080378093
+jasonlcarlton	web.me.com	2012-04-06 14:02:41	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	web.me.com-jasonlcarlton.warc.gz	99755116
+jimangus	gallery.me.com	2012-04-06 13:52:57	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	gallery.me.com-jimangus.warc.gz	1400815594
+jimangus	homepage.mac.com	2012-04-06 13:52:58	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	homepage.mac.com-jimangus.warc.gz	4914
+jimangus	public.me.com	2012-04-06 13:26:33	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	public.me.com-jimangus.warc.gz	159601719
+jimangus	web.me.com	2012-04-06 13:21:24	archiveteam-mobileme-hero-470x	archiveteam-mobileme-hero-470x-4706.tar	web.me.com-jimangus.warc.gz	505901634

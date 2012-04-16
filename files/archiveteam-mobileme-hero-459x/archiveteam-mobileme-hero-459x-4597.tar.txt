@@ -1,8 +1,8 @@
-derekworth	gallery.me.com		archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4597.tar	gallery.me.com-derekworth.warc.gz	0
-derekworth	homepage.mac.com		archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4597.tar	homepage.mac.com-derekworth.warc.gz	0
-derekworth	public.me.com		archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4597.tar	public.me.com-derekworth.warc.gz	0
-derekworth	web.me.com		archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4597.tar	web.me.com-derekworth.warc.gz	0
-parrotts4	gallery.me.com		archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4597.tar	gallery.me.com-parrotts4.warc.gz	0
-parrotts4	homepage.mac.com		archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4597.tar	homepage.mac.com-parrotts4.warc.gz	0
-parrotts4	public.me.com		archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4597.tar	public.me.com-parrotts4.warc.gz	0
-parrotts4	web.me.com		archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4597.tar	web.me.com-parrotts4.warc.gz	0
+derekworth	gallery.me.com	2012-04-06 08:49:01	archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4597.tar	gallery.me.com-derekworth.warc.gz	1086407013
+derekworth	homepage.mac.com	2012-04-06 08:49:07	archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4597.tar	homepage.mac.com-derekworth.warc.gz	7824
+derekworth	public.me.com	2012-04-06 08:36:03	archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4597.tar	public.me.com-derekworth.warc.gz	3561941844
+derekworth	web.me.com	2012-04-06 06:25:20	archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4597.tar	web.me.com-derekworth.warc.gz	388758758
+parrotts4	gallery.me.com	2012-04-06 05:41:37	archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4597.tar	gallery.me.com-parrotts4.warc.gz	4983
+parrotts4	homepage.mac.com	2012-04-06 05:41:37	archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4597.tar	homepage.mac.com-parrotts4.warc.gz	4911
+parrotts4	public.me.com	2012-04-06 05:41:35	archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4597.tar	public.me.com-parrotts4.warc.gz	1913
+parrotts4	web.me.com	2012-04-06 05:41:20	archiveteam-mobileme-hero-459x	archiveteam-mobileme-hero-459x-4597.tar	web.me.com-parrotts4.warc.gz	152346422

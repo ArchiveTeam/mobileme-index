@@ -1,12 +1,12 @@
-frhfilmstudies	gallery.me.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	gallery.me.com-frhfilmstudies.warc.gz	0
-frhfilmstudies	homepage.mac.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	homepage.mac.com-frhfilmstudies.warc.gz	0
-frhfilmstudies	public.me.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	public.me.com-frhfilmstudies.warc.gz	0
-frhfilmstudies	web.me.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	web.me.com-frhfilmstudies.warc.gz	0
-gianluca.vitale	gallery.me.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	gallery.me.com-gianluca.vitale.warc.gz	0
-gianluca.vitale	homepage.mac.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	homepage.mac.com-gianluca.vitale.warc.gz	0
-gianluca.vitale	public.me.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	public.me.com-gianluca.vitale.warc.gz	0
-gianluca.vitale	web.me.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	web.me.com-gianluca.vitale.warc.gz	0
-photo.ben	gallery.me.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	gallery.me.com-photo.ben.warc.gz	0
-photo.ben	homepage.mac.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	homepage.mac.com-photo.ben.warc.gz	0
-photo.ben	public.me.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	public.me.com-photo.ben.warc.gz	0
-photo.ben	web.me.com		archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	web.me.com-photo.ben.warc.gz	0
+frhfilmstudies	gallery.me.com	2012-04-04 00:47:41	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	gallery.me.com-frhfilmstudies.warc.gz	4308
+frhfilmstudies	homepage.mac.com	2012-04-04 00:47:41	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	homepage.mac.com-frhfilmstudies.warc.gz	4930
+frhfilmstudies	public.me.com	2012-04-04 00:47:39	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	public.me.com-frhfilmstudies.warc.gz	1929
+frhfilmstudies	web.me.com	2012-04-04 00:47:20	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	web.me.com-frhfilmstudies.warc.gz	2938291469
+gianluca.vitale	gallery.me.com	2012-04-03 23:45:30	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	gallery.me.com-gianluca.vitale.warc.gz	1289665030
+gianluca.vitale	homepage.mac.com	2012-04-03 23:45:35	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	homepage.mac.com-gianluca.vitale.warc.gz	121606
+gianluca.vitale	public.me.com	2012-04-03 23:26:45	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	public.me.com-gianluca.vitale.warc.gz	8510931
+gianluca.vitale	web.me.com	2012-04-03 23:26:29	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	web.me.com-gianluca.vitale.warc.gz	224860173
+photo.ben	gallery.me.com	2012-04-03 23:14:12	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	gallery.me.com-photo.ben.warc.gz	13501984
+photo.ben	homepage.mac.com	2012-04-03 23:14:13	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	homepage.mac.com-photo.ben.warc.gz	4897
+photo.ben	public.me.com	2012-04-03 23:13:35	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	public.me.com-photo.ben.warc.gz	15128
+photo.ben	web.me.com	2012-04-03 23:13:34	archiveteam-mobileme-hero-363x	archiveteam-mobileme-hero-363x-3633.tar	web.me.com-photo.ben.warc.gz	2390573

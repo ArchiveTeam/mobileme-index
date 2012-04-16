@@ -1,12 +1,12 @@
-elrain	gallery.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	gallery.me.com-elrain.warc.gz	0
-elrain	homepage.mac.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	homepage.mac.com-elrain.warc.gz	0
-elrain	public.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	public.me.com-elrain.warc.gz	0
-elrain	web.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	web.me.com-elrain.warc.gz	0
-sue_lawson207	gallery.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	gallery.me.com-sue_lawson207.warc.gz	0
-sue_lawson207	homepage.mac.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	homepage.mac.com-sue_lawson207.warc.gz	0
-sue_lawson207	public.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	public.me.com-sue_lawson207.warc.gz	0
-sue_lawson207	web.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	web.me.com-sue_lawson207.warc.gz	0
-windowseatmedia	gallery.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	gallery.me.com-windowseatmedia.warc.gz	0
-windowseatmedia	homepage.mac.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	homepage.mac.com-windowseatmedia.warc.gz	0
-windowseatmedia	public.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	public.me.com-windowseatmedia.warc.gz	0
-windowseatmedia	web.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	web.me.com-windowseatmedia.warc.gz	0
+elrain	gallery.me.com	2012-04-11 07:37:34	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	gallery.me.com-elrain.warc.gz	12313
+elrain	homepage.mac.com	2012-04-11 07:37:34	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	homepage.mac.com-elrain.warc.gz	7143
+elrain	public.me.com	2012-04-11 07:37:33	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	public.me.com-elrain.warc.gz	1905
+elrain	web.me.com	2012-04-11 07:37:33	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	web.me.com-elrain.warc.gz	22452
+sue_lawson207	gallery.me.com	2012-04-11 07:37:29	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	gallery.me.com-sue_lawson207.warc.gz	7346
+sue_lawson207	homepage.mac.com	2012-04-11 07:37:31	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	homepage.mac.com-sue_lawson207.warc.gz	37001
+sue_lawson207	public.me.com	2012-04-11 07:37:25	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	public.me.com-sue_lawson207.warc.gz	3197036324
+sue_lawson207	web.me.com	2012-04-11 05:57:49	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	web.me.com-sue_lawson207.warc.gz	589769410
+windowseatmedia	gallery.me.com	2012-04-11 10:37:48	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	gallery.me.com-windowseatmedia.warc.gz	5014
+windowseatmedia	homepage.mac.com	2012-04-11 10:37:54	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	homepage.mac.com-windowseatmedia.warc.gz	140619
+windowseatmedia	public.me.com	2012-04-11 10:37:46	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	public.me.com-windowseatmedia.warc.gz	1926
+windowseatmedia	web.me.com	2012-04-11 10:37:30	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6332.tar	web.me.com-windowseatmedia.warc.gz	949354776

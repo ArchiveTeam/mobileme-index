@@ -1,20 +1,20 @@
-anitamadeirainc	gallery.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	gallery.me.com-anitamadeirainc.warc.gz	0
-anitamadeirainc	homepage.mac.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	homepage.mac.com-anitamadeirainc.warc.gz	0
-anitamadeirainc	public.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	public.me.com-anitamadeirainc.warc.gz	0
-anitamadeirainc	web.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	web.me.com-anitamadeirainc.warc.gz	0
-batistainfo	gallery.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	gallery.me.com-batistainfo.warc.gz	0
-batistainfo	homepage.mac.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	homepage.mac.com-batistainfo.warc.gz	0
-batistainfo	public.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	public.me.com-batistainfo.warc.gz	0
-batistainfo	web.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	web.me.com-batistainfo.warc.gz	0
-bbeverly	gallery.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	gallery.me.com-bbeverly.warc.gz	0
-bbeverly	homepage.mac.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	homepage.mac.com-bbeverly.warc.gz	0
-bbeverly	public.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	public.me.com-bbeverly.warc.gz	0
-bbeverly	web.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	web.me.com-bbeverly.warc.gz	0
-c2061864477	gallery.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	gallery.me.com-c2061864477.warc.gz	0
-c2061864477	homepage.mac.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	homepage.mac.com-c2061864477.warc.gz	0
-c2061864477	public.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	public.me.com-c2061864477.warc.gz	0
-c2061864477	web.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	web.me.com-c2061864477.warc.gz	0
-mrlowe	gallery.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	gallery.me.com-mrlowe.warc.gz	0
-mrlowe	homepage.mac.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	homepage.mac.com-mrlowe.warc.gz	0
-mrlowe	public.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	public.me.com-mrlowe.warc.gz	0
-mrlowe	web.me.com		archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	web.me.com-mrlowe.warc.gz	0
+anitamadeirainc	gallery.me.com	2012-04-01 13:37:43	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	gallery.me.com-anitamadeirainc.warc.gz	4314
+anitamadeirainc	homepage.mac.com	2012-04-01 13:37:44	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	homepage.mac.com-anitamadeirainc.warc.gz	7903
+anitamadeirainc	public.me.com	2012-04-01 13:37:43	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	public.me.com-anitamadeirainc.warc.gz	1925
+anitamadeirainc	web.me.com	2012-04-01 13:37:43	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	web.me.com-anitamadeirainc.warc.gz	60305041
+batistainfo	gallery.me.com	2012-04-01 17:18:11	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	gallery.me.com-batistainfo.warc.gz	7177855791
+batistainfo	homepage.mac.com	2012-04-01 17:19:34	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	homepage.mac.com-batistainfo.warc.gz	1946885
+batistainfo	public.me.com	2012-04-01 13:47:42	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	public.me.com-batistainfo.warc.gz	1919
+batistainfo	web.me.com	2012-04-01 13:47:42	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	web.me.com-batistainfo.warc.gz	20844366
+bbeverly	gallery.me.com	2012-04-01 13:34:01	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	gallery.me.com-bbeverly.warc.gz	7588137
+bbeverly	homepage.mac.com	2012-04-01 13:34:02	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	homepage.mac.com-bbeverly.warc.gz	7841
+bbeverly	public.me.com	2012-04-01 13:33:52	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	public.me.com-bbeverly.warc.gz	51764585
+bbeverly	web.me.com	2012-04-01 13:31:10	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	web.me.com-bbeverly.warc.gz	132214
+c2061864477	gallery.me.com	2012-04-01 12:54:58	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	gallery.me.com-c2061864477.warc.gz	8393
+c2061864477	homepage.mac.com	2012-04-01 12:54:58	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	homepage.mac.com-c2061864477.warc.gz	5189
+c2061864477	public.me.com	2012-04-01 12:54:57	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	public.me.com-c2061864477.warc.gz	1923
+c2061864477	web.me.com	2012-04-01 12:54:57	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	web.me.com-c2061864477.warc.gz	17773
+mrlowe	gallery.me.com	2012-04-01 13:30:56	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	gallery.me.com-mrlowe.warc.gz	33461801
+mrlowe	homepage.mac.com	2012-04-01 13:30:57	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	homepage.mac.com-mrlowe.warc.gz	4915
+mrlowe	public.me.com	2012-04-01 13:29:17	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	public.me.com-mrlowe.warc.gz	161415208
+mrlowe	web.me.com	2012-04-01 13:21:47	archiveteam-mobileme-hero-271x	archiveteam-mobileme-hero-271x-2710.tar	web.me.com-mrlowe.warc.gz	861162775

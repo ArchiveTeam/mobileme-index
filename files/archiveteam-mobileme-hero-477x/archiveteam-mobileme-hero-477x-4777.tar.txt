@@ -1,20 +1,20 @@
-cornstock	gallery.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	gallery.me.com-cornstock.warc.gz	0
-cornstock	homepage.mac.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	homepage.mac.com-cornstock.warc.gz	0
-cornstock	public.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	public.me.com-cornstock.warc.gz	0
-cornstock	web.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	web.me.com-cornstock.warc.gz	0
-daddyknowsbest	gallery.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	gallery.me.com-daddyknowsbest.warc.gz	0
-daddyknowsbest	homepage.mac.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	homepage.mac.com-daddyknowsbest.warc.gz	0
-daddyknowsbest	public.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	public.me.com-daddyknowsbest.warc.gz	0
-daddyknowsbest	web.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	web.me.com-daddyknowsbest.warc.gz	0
-franquelli	gallery.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	gallery.me.com-franquelli.warc.gz	0
-franquelli	homepage.mac.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	homepage.mac.com-franquelli.warc.gz	0
-franquelli	public.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	public.me.com-franquelli.warc.gz	0
-franquelli	web.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	web.me.com-franquelli.warc.gz	0
-geric	gallery.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	gallery.me.com-geric.warc.gz	0
-geric	homepage.mac.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	homepage.mac.com-geric.warc.gz	0
-geric	public.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	public.me.com-geric.warc.gz	0
-geric	web.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	web.me.com-geric.warc.gz	0
-paultfs	gallery.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	gallery.me.com-paultfs.warc.gz	0
-paultfs	homepage.mac.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	homepage.mac.com-paultfs.warc.gz	0
-paultfs	public.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	public.me.com-paultfs.warc.gz	0
-paultfs	web.me.com		archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	web.me.com-paultfs.warc.gz	0
+cornstock	gallery.me.com	2012-04-06 17:53:09	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	gallery.me.com-cornstock.warc.gz	1303245920
+cornstock	homepage.mac.com	2012-04-06 17:53:11	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	homepage.mac.com-cornstock.warc.gz	4901
+cornstock	public.me.com	2012-04-06 17:30:28	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	public.me.com-cornstock.warc.gz	648925806
+cornstock	web.me.com	2012-04-06 17:11:26	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	web.me.com-cornstock.warc.gz	95930211
+daddyknowsbest	gallery.me.com	2012-04-06 16:03:46	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	gallery.me.com-daddyknowsbest.warc.gz	3300425
+daddyknowsbest	homepage.mac.com	2012-04-06 16:08:02	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	homepage.mac.com-daddyknowsbest.warc.gz	18868636
+daddyknowsbest	public.me.com	2012-04-06 16:03:40	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	public.me.com-daddyknowsbest.warc.gz	3498
+daddyknowsbest	web.me.com	2012-04-06 16:03:36	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	web.me.com-daddyknowsbest.warc.gz	69495551
+franquelli	gallery.me.com	2012-04-06 15:51:24	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	gallery.me.com-franquelli.warc.gz	5034
+franquelli	homepage.mac.com	2012-04-06 15:51:25	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	homepage.mac.com-franquelli.warc.gz	4908
+franquelli	public.me.com	2012-04-06 15:51:23	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	public.me.com-franquelli.warc.gz	1924
+franquelli	web.me.com	2012-04-06 15:51:20	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	web.me.com-franquelli.warc.gz	191102029
+geric	gallery.me.com	2012-04-06 15:44:09	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	gallery.me.com-geric.warc.gz	451543098
+geric	homepage.mac.com	2012-04-06 15:44:50	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	homepage.mac.com-geric.warc.gz	951473
+geric	public.me.com	2012-04-06 15:33:22	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	public.me.com-geric.warc.gz	1102493724
+geric	web.me.com	2012-04-06 15:19:52	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	web.me.com-geric.warc.gz	510079198
+paultfs	gallery.me.com	2012-04-06 15:11:13	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	gallery.me.com-paultfs.warc.gz	3986630
+paultfs	homepage.mac.com	2012-04-06 15:11:13	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	homepage.mac.com-paultfs.warc.gz	4909
+paultfs	public.me.com	2012-04-06 15:11:02	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	public.me.com-paultfs.warc.gz	1912
+paultfs	web.me.com	2012-04-06 15:11:02	archiveteam-mobileme-hero-477x	archiveteam-mobileme-hero-477x-4777.tar	web.me.com-paultfs.warc.gz	26233127

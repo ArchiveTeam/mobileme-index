@@ -1,28 +1,28 @@
-ccmug	gallery.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	gallery.me.com-ccmug.warc.gz	0
-ccmug	homepage.mac.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	homepage.mac.com-ccmug.warc.gz	0
-ccmug	public.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	public.me.com-ccmug.warc.gz	0
-ccmug	web.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	web.me.com-ccmug.warc.gz	0
-em81	gallery.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	gallery.me.com-em81.warc.gz	0
-em81	homepage.mac.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	homepage.mac.com-em81.warc.gz	0
-em81	public.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	public.me.com-em81.warc.gz	0
-em81	web.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	web.me.com-em81.warc.gz	0
-gillesetnatacha	gallery.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	gallery.me.com-gillesetnatacha.warc.gz	0
-gillesetnatacha	homepage.mac.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	homepage.mac.com-gillesetnatacha.warc.gz	0
-gillesetnatacha	public.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	public.me.com-gillesetnatacha.warc.gz	0
-gillesetnatacha	web.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	web.me.com-gillesetnatacha.warc.gz	0
-kdjisko	gallery.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	gallery.me.com-kdjisko.warc.gz	0
-kdjisko	homepage.mac.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	homepage.mac.com-kdjisko.warc.gz	0
-kdjisko	public.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	public.me.com-kdjisko.warc.gz	0
-kdjisko	web.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	web.me.com-kdjisko.warc.gz	0
-lariy	gallery.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	gallery.me.com-lariy.warc.gz	0
-lariy	homepage.mac.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	homepage.mac.com-lariy.warc.gz	0
-lariy	public.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	public.me.com-lariy.warc.gz	0
-lariy	web.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	web.me.com-lariy.warc.gz	0
-npcany	gallery.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	gallery.me.com-npcany.warc.gz	0
-npcany	homepage.mac.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	homepage.mac.com-npcany.warc.gz	0
-npcany	public.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	public.me.com-npcany.warc.gz	0
-npcany	web.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	web.me.com-npcany.warc.gz	0
-ristirob	gallery.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	gallery.me.com-ristirob.warc.gz	0
-ristirob	homepage.mac.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	homepage.mac.com-ristirob.warc.gz	0
-ristirob	public.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	public.me.com-ristirob.warc.gz	0
-ristirob	web.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	web.me.com-ristirob.warc.gz	0
+ccmug	gallery.me.com	2012-04-13 11:29:53	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	gallery.me.com-ccmug.warc.gz	8319
+ccmug	homepage.mac.com	2012-04-13 11:29:53	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	homepage.mac.com-ccmug.warc.gz	5157
+ccmug	public.me.com	2012-04-13 11:29:52	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	public.me.com-ccmug.warc.gz	1903
+ccmug	web.me.com	2012-04-13 11:29:52	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	web.me.com-ccmug.warc.gz	17686
+em81	gallery.me.com	2012-04-13 11:36:46	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	gallery.me.com-em81.warc.gz	163355360
+em81	homepage.mac.com	2012-04-13 11:36:57	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	homepage.mac.com-em81.warc.gz	1436266
+em81	public.me.com	2012-04-13 11:34:47	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	public.me.com-em81.warc.gz	1907
+em81	web.me.com	2012-04-13 11:34:47	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	web.me.com-em81.warc.gz	73116825
+gillesetnatacha	gallery.me.com	2012-04-13 12:33:38	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	gallery.me.com-gillesetnatacha.warc.gz	505985448
+gillesetnatacha	homepage.mac.com	2012-04-13 12:33:39	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	homepage.mac.com-gillesetnatacha.warc.gz	4942
+gillesetnatacha	public.me.com	2012-04-13 12:23:48	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	public.me.com-gillesetnatacha.warc.gz	1930
+gillesetnatacha	web.me.com	2012-04-13 12:23:48	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	web.me.com-gillesetnatacha.warc.gz	82054391
+kdjisko	gallery.me.com	2012-04-13 11:29:55	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	gallery.me.com-kdjisko.warc.gz	8346
+kdjisko	homepage.mac.com	2012-04-13 11:29:55	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	homepage.mac.com-kdjisko.warc.gz	5171
+kdjisko	public.me.com	2012-04-13 11:29:54	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	public.me.com-kdjisko.warc.gz	1912
+kdjisko	web.me.com	2012-04-13 11:29:54	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	web.me.com-kdjisko.warc.gz	17710
+lariy	gallery.me.com	2012-04-13 17:31:05	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	gallery.me.com-lariy.warc.gz	4335894966
+lariy	homepage.mac.com	2012-04-13 17:31:07	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	homepage.mac.com-lariy.warc.gz	36826
+lariy	public.me.com	2012-04-13 15:49:02	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	public.me.com-lariy.warc.gz	1902
+lariy	web.me.com	2012-04-13 15:47:07	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	web.me.com-lariy.warc.gz	4132992511
+npcany	gallery.me.com	2012-04-13 11:29:39	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	gallery.me.com-npcany.warc.gz	4989
+npcany	homepage.mac.com	2012-04-13 11:29:43	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	homepage.mac.com-npcany.warc.gz	4902
+npcany	public.me.com	2012-04-13 11:29:38	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	public.me.com-npcany.warc.gz	1910
+npcany	web.me.com	2012-04-13 11:29:38	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	web.me.com-npcany.warc.gz	36464306
+ristirob	gallery.me.com	2012-04-13 12:11:44	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	gallery.me.com-ristirob.warc.gz	5018
+ristirob	homepage.mac.com	2012-04-13 12:11:44	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	homepage.mac.com-ristirob.warc.gz	4907
+ristirob	public.me.com	2012-04-13 12:11:43	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	public.me.com-ristirob.warc.gz	1918
+ristirob	web.me.com	2012-04-13 12:11:42	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7407.tar	web.me.com-ristirob.warc.gz	193076436

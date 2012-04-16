@@ -1,28 +1,28 @@
-c1257418782	gallery.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	gallery.me.com-c1257418782.warc.gz	0
-c1257418782	homepage.mac.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	homepage.mac.com-c1257418782.warc.gz	0
-c1257418782	public.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	public.me.com-c1257418782.warc.gz	0
-c1257418782	web.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	web.me.com-c1257418782.warc.gz	0
-echoparxistas	gallery.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	gallery.me.com-echoparxistas.warc.gz	0
-echoparxistas	homepage.mac.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	homepage.mac.com-echoparxistas.warc.gz	0
-echoparxistas	public.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	public.me.com-echoparxistas.warc.gz	0
-echoparxistas	web.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	web.me.com-echoparxistas.warc.gz	0
-evisual	gallery.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	gallery.me.com-evisual.warc.gz	0
-evisual	homepage.mac.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	homepage.mac.com-evisual.warc.gz	0
-evisual	public.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	public.me.com-evisual.warc.gz	0
-evisual	web.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	web.me.com-evisual.warc.gz	0
-gjnet_naviprf	gallery.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	gallery.me.com-gjnet_naviprf.warc.gz	0
-gjnet_naviprf	homepage.mac.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	homepage.mac.com-gjnet_naviprf.warc.gz	0
-gjnet_naviprf	public.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	public.me.com-gjnet_naviprf.warc.gz	0
-gjnet_naviprf	web.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	web.me.com-gjnet_naviprf.warc.gz	0
-jbwhite	gallery.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	gallery.me.com-jbwhite.warc.gz	0
-jbwhite	homepage.mac.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	homepage.mac.com-jbwhite.warc.gz	0
-jbwhite	public.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	public.me.com-jbwhite.warc.gz	0
-jbwhite	web.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	web.me.com-jbwhite.warc.gz	0
-jimmy.wai	gallery.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	gallery.me.com-jimmy.wai.warc.gz	0
-jimmy.wai	homepage.mac.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	homepage.mac.com-jimmy.wai.warc.gz	0
-jimmy.wai	public.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	public.me.com-jimmy.wai.warc.gz	0
-jimmy.wai	web.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	web.me.com-jimmy.wai.warc.gz	0
-mherrera	gallery.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	gallery.me.com-mherrera.warc.gz	0
-mherrera	homepage.mac.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	homepage.mac.com-mherrera.warc.gz	0
-mherrera	public.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	public.me.com-mherrera.warc.gz	0
-mherrera	web.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	web.me.com-mherrera.warc.gz	0
+c1257418782	gallery.me.com	2012-04-11 06:16:35	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	gallery.me.com-c1257418782.warc.gz	8363
+c1257418782	homepage.mac.com	2012-04-11 06:16:35	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	homepage.mac.com-c1257418782.warc.gz	5185
+c1257418782	public.me.com	2012-04-11 06:16:35	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	public.me.com-c1257418782.warc.gz	1923
+c1257418782	web.me.com	2012-04-11 06:16:34	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	web.me.com-c1257418782.warc.gz	17775
+echoparxistas	gallery.me.com	2012-04-11 06:21:21	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	gallery.me.com-echoparxistas.warc.gz	12373
+echoparxistas	homepage.mac.com	2012-04-11 06:21:21	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	homepage.mac.com-echoparxistas.warc.gz	7168
+echoparxistas	public.me.com	2012-04-11 06:21:21	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	public.me.com-echoparxistas.warc.gz	1929
+echoparxistas	web.me.com	2012-04-11 06:21:21	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	web.me.com-echoparxistas.warc.gz	22560
+evisual	gallery.me.com	2012-04-11 06:16:38	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	gallery.me.com-evisual.warc.gz	8332
+evisual	homepage.mac.com	2012-04-11 06:16:38	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	homepage.mac.com-evisual.warc.gz	5155
+evisual	public.me.com	2012-04-11 06:16:37	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	public.me.com-evisual.warc.gz	1908
+evisual	web.me.com	2012-04-11 06:16:37	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	web.me.com-evisual.warc.gz	17722
+gjnet_naviprf	gallery.me.com	2012-04-11 06:16:36	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	gallery.me.com-gjnet_naviprf.warc.gz	8377
+gjnet_naviprf	homepage.mac.com	2012-04-11 06:16:37	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	homepage.mac.com-gjnet_naviprf.warc.gz	5193
+gjnet_naviprf	public.me.com	2012-04-11 06:16:36	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	public.me.com-gjnet_naviprf.warc.gz	1930
+gjnet_naviprf	web.me.com	2012-04-11 06:16:36	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	web.me.com-gjnet_naviprf.warc.gz	17807
+jbwhite	gallery.me.com	2012-04-11 06:21:17	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	gallery.me.com-jbwhite.warc.gz	221891439
+jbwhite	homepage.mac.com	2012-04-11 06:21:19	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	homepage.mac.com-jbwhite.warc.gz	86383
+jbwhite	public.me.com	2012-04-11 06:17:58	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	public.me.com-jbwhite.warc.gz	1913
+jbwhite	web.me.com	2012-04-11 06:17:58	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	web.me.com-jbwhite.warc.gz	15140943
+jimmy.wai	gallery.me.com	2012-04-11 07:28:52	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	gallery.me.com-jimmy.wai.warc.gz	2007664766
+jimmy.wai	homepage.mac.com	2012-04-11 07:28:53	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	homepage.mac.com-jimmy.wai.warc.gz	4916
+jimmy.wai	public.me.com	2012-04-11 07:03:39	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	public.me.com-jimmy.wai.warc.gz	1928
+jimmy.wai	web.me.com	2012-04-11 07:03:34	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	web.me.com-jimmy.wai.warc.gz	1365117897
+mherrera	gallery.me.com	2012-04-11 08:01:49	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	gallery.me.com-mherrera.warc.gz	1729676156
+mherrera	homepage.mac.com	2012-04-11 08:01:52	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	homepage.mac.com-mherrera.warc.gz	310578
+mherrera	public.me.com	2012-04-11 07:47:29	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	public.me.com-mherrera.warc.gz	1117580173
+mherrera	web.me.com	2012-04-11 07:39:09	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6272.tar	web.me.com-mherrera.warc.gz	179588190

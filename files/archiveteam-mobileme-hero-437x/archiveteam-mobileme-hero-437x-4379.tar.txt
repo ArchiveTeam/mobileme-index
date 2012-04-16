@@ -1,28 +1,28 @@
-abbycal	gallery.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	gallery.me.com-abbycal.warc.gz	0
-abbycal	homepage.mac.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	homepage.mac.com-abbycal.warc.gz	0
-abbycal	public.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	public.me.com-abbycal.warc.gz	0
-abbycal	web.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	web.me.com-abbycal.warc.gz	0
-alexandchris	gallery.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	gallery.me.com-alexandchris.warc.gz	0
-alexandchris	homepage.mac.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	homepage.mac.com-alexandchris.warc.gz	0
-alexandchris	public.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	public.me.com-alexandchris.warc.gz	0
-alexandchris	web.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	web.me.com-alexandchris.warc.gz	0
-irunabookstore	gallery.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	gallery.me.com-irunabookstore.warc.gz	0
-irunabookstore	homepage.mac.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	homepage.mac.com-irunabookstore.warc.gz	0
-irunabookstore	public.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	public.me.com-irunabookstore.warc.gz	0
-irunabookstore	web.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	web.me.com-irunabookstore.warc.gz	0
-jjc03	gallery.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	gallery.me.com-jjc03.warc.gz	0
-jjc03	homepage.mac.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	homepage.mac.com-jjc03.warc.gz	0
-jjc03	public.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	public.me.com-jjc03.warc.gz	0
-jjc03	web.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	web.me.com-jjc03.warc.gz	0
-lom_defer	gallery.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	gallery.me.com-lom_defer.warc.gz	0
-lom_defer	homepage.mac.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	homepage.mac.com-lom_defer.warc.gz	0
-lom_defer	public.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	public.me.com-lom_defer.warc.gz	0
-lom_defer	web.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	web.me.com-lom_defer.warc.gz	0
-pennystreet	gallery.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	gallery.me.com-pennystreet.warc.gz	0
-pennystreet	homepage.mac.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	homepage.mac.com-pennystreet.warc.gz	0
-pennystreet	public.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	public.me.com-pennystreet.warc.gz	0
-pennystreet	web.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	web.me.com-pennystreet.warc.gz	0
-rex0220	gallery.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	gallery.me.com-rex0220.warc.gz	0
-rex0220	homepage.mac.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	homepage.mac.com-rex0220.warc.gz	0
-rex0220	public.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	public.me.com-rex0220.warc.gz	0
-rex0220	web.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	web.me.com-rex0220.warc.gz	0
+abbycal	gallery.me.com	2012-04-05 20:15:49	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	gallery.me.com-abbycal.warc.gz	701095936
+abbycal	homepage.mac.com	2012-04-05 20:15:54	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	homepage.mac.com-abbycal.warc.gz	112397
+abbycal	public.me.com	2012-04-05 19:51:46	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	public.me.com-abbycal.warc.gz	1914
+abbycal	web.me.com	2012-04-05 19:51:45	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	web.me.com-abbycal.warc.gz	451256818
+alexandchris	gallery.me.com	2012-04-05 18:16:39	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	gallery.me.com-alexandchris.warc.gz	5676
+alexandchris	homepage.mac.com	2012-04-05 18:17:18	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	homepage.mac.com-alexandchris.warc.gz	584469
+alexandchris	public.me.com	2012-04-05 18:16:38	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	public.me.com-alexandchris.warc.gz	1930
+alexandchris	web.me.com	2012-04-05 18:16:37	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	web.me.com-alexandchris.warc.gz	72426094
+irunabookstore	gallery.me.com	2012-04-05 19:28:40	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	gallery.me.com-irunabookstore.warc.gz	2477477225
+irunabookstore	homepage.mac.com	2012-04-05 19:28:40	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	homepage.mac.com-irunabookstore.warc.gz	4922
+irunabookstore	public.me.com	2012-04-05 18:41:37	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	public.me.com-irunabookstore.warc.gz	1931
+irunabookstore	web.me.com	2012-04-05 18:41:36	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	web.me.com-irunabookstore.warc.gz	279451560
+jjc03	gallery.me.com	2012-04-05 19:33:54	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	gallery.me.com-jjc03.warc.gz	4242
+jjc03	homepage.mac.com	2012-04-05 19:33:54	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	homepage.mac.com-jjc03.warc.gz	4902
+jjc03	public.me.com	2012-04-05 19:33:53	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	public.me.com-jjc03.warc.gz	1913
+jjc03	web.me.com	2012-04-05 19:33:52	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	web.me.com-jjc03.warc.gz	17328987
+lom_defer	gallery.me.com	2012-04-05 20:43:49	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	gallery.me.com-lom_defer.warc.gz	7945033
+lom_defer	homepage.mac.com	2012-04-05 20:43:49	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	homepage.mac.com-lom_defer.warc.gz	4929
+lom_defer	public.me.com	2012-04-05 20:43:25	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	public.me.com-lom_defer.warc.gz	1916
+lom_defer	web.me.com	2012-04-05 20:43:24	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	web.me.com-lom_defer.warc.gz	548820515
+pennystreet	gallery.me.com	2012-04-05 20:15:56	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	gallery.me.com-pennystreet.warc.gz	12349
+pennystreet	homepage.mac.com	2012-04-05 20:15:57	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	homepage.mac.com-pennystreet.warc.gz	7163
+pennystreet	public.me.com	2012-04-05 20:15:56	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	public.me.com-pennystreet.warc.gz	1923
+pennystreet	web.me.com	2012-04-05 20:15:55	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	web.me.com-pennystreet.warc.gz	22459
+rex0220	gallery.me.com	2012-04-05 18:29:44	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	gallery.me.com-rex0220.warc.gz	5266
+rex0220	homepage.mac.com	2012-04-05 18:29:45	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	homepage.mac.com-rex0220.warc.gz	4911
+rex0220	public.me.com	2012-04-05 18:29:43	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	public.me.com-rex0220.warc.gz	1917
+rex0220	web.me.com	2012-04-05 18:29:42	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4379.tar	web.me.com-rex0220.warc.gz	55871299

@@ -1,28 +1,28 @@
-celery_ottan	gallery.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	gallery.me.com-celery_ottan.warc.gz	0
-celery_ottan	homepage.mac.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	homepage.mac.com-celery_ottan.warc.gz	0
-celery_ottan	public.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	public.me.com-celery_ottan.warc.gz	0
-celery_ottan	web.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	web.me.com-celery_ottan.warc.gz	0
-coutur	gallery.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	gallery.me.com-coutur.warc.gz	0
-coutur	homepage.mac.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	homepage.mac.com-coutur.warc.gz	0
-coutur	public.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	public.me.com-coutur.warc.gz	0
-coutur	web.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	web.me.com-coutur.warc.gz	0
-dustinfriedman	gallery.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	gallery.me.com-dustinfriedman.warc.gz	0
-dustinfriedman	homepage.mac.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	homepage.mac.com-dustinfriedman.warc.gz	0
-dustinfriedman	public.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	public.me.com-dustinfriedman.warc.gz	0
-dustinfriedman	web.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	web.me.com-dustinfriedman.warc.gz	0
-itjasonsu	gallery.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	gallery.me.com-itjasonsu.warc.gz	0
-itjasonsu	homepage.mac.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	homepage.mac.com-itjasonsu.warc.gz	0
-itjasonsu	public.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	public.me.com-itjasonsu.warc.gz	0
-itjasonsu	web.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	web.me.com-itjasonsu.warc.gz	0
-lizgesicki	gallery.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	gallery.me.com-lizgesicki.warc.gz	0
-lizgesicki	homepage.mac.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	homepage.mac.com-lizgesicki.warc.gz	0
-lizgesicki	public.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	public.me.com-lizgesicki.warc.gz	0
-lizgesicki	web.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	web.me.com-lizgesicki.warc.gz	0
-nancyauciello	gallery.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	gallery.me.com-nancyauciello.warc.gz	0
-nancyauciello	homepage.mac.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	homepage.mac.com-nancyauciello.warc.gz	0
-nancyauciello	public.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	public.me.com-nancyauciello.warc.gz	0
-nancyauciello	web.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	web.me.com-nancyauciello.warc.gz	0
-sotten	gallery.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	gallery.me.com-sotten.warc.gz	0
-sotten	homepage.mac.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	homepage.mac.com-sotten.warc.gz	0
-sotten	public.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	public.me.com-sotten.warc.gz	0
-sotten	web.me.com		archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	web.me.com-sotten.warc.gz	0
+celery_ottan	gallery.me.com	2012-04-12 04:25:38	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	gallery.me.com-celery_ottan.warc.gz	8358
+celery_ottan	homepage.mac.com	2012-04-12 04:25:38	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	homepage.mac.com-celery_ottan.warc.gz	5174
+celery_ottan	public.me.com	2012-04-12 04:25:37	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	public.me.com-celery_ottan.warc.gz	1925
+celery_ottan	web.me.com	2012-04-12 04:25:36	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	web.me.com-celery_ottan.warc.gz	17785
+coutur	gallery.me.com	2012-04-12 04:54:18	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	gallery.me.com-coutur.warc.gz	283944422
+coutur	homepage.mac.com	2012-04-12 04:54:26	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	homepage.mac.com-coutur.warc.gz	92020
+coutur	public.me.com	2012-04-12 04:30:03	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	public.me.com-coutur.warc.gz	1909
+coutur	web.me.com	2012-04-12 04:30:02	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	web.me.com-coutur.warc.gz	8877145
+dustinfriedman	gallery.me.com	2012-04-12 02:26:49	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	gallery.me.com-dustinfriedman.warc.gz	1232264600
+dustinfriedman	homepage.mac.com	2012-04-12 02:26:55	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	homepage.mac.com-dustinfriedman.warc.gz	72633
+dustinfriedman	public.me.com	2012-04-11 23:30:33	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	public.me.com-dustinfriedman.warc.gz	1924
+dustinfriedman	web.me.com	2012-04-11 23:30:32	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	web.me.com-dustinfriedman.warc.gz	875102384
+itjasonsu	gallery.me.com	2012-04-12 03:22:40	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	gallery.me.com-itjasonsu.warc.gz	284138731
+itjasonsu	homepage.mac.com	2012-04-12 03:22:49	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	homepage.mac.com-itjasonsu.warc.gz	370942
+itjasonsu	public.me.com	2012-04-12 02:41:06	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	public.me.com-itjasonsu.warc.gz	1915
+itjasonsu	web.me.com	2012-04-12 02:41:05	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	web.me.com-itjasonsu.warc.gz	119694050
+lizgesicki	gallery.me.com	2012-04-12 03:24:24	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	gallery.me.com-lizgesicki.warc.gz	5730
+lizgesicki	homepage.mac.com	2012-04-12 03:24:24	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	homepage.mac.com-lizgesicki.warc.gz	4916
+lizgesicki	public.me.com	2012-04-12 03:24:22	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	public.me.com-lizgesicki.warc.gz	1918
+lizgesicki	web.me.com	2012-04-12 03:24:22	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	web.me.com-lizgesicki.warc.gz	2481065
+nancyauciello	gallery.me.com	2012-04-12 04:25:33	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	gallery.me.com-nancyauciello.warc.gz	1055095197
+nancyauciello	homepage.mac.com	2012-04-12 04:25:33	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	homepage.mac.com-nancyauciello.warc.gz	4923
+nancyauciello	public.me.com	2012-04-12 03:41:42	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	public.me.com-nancyauciello.warc.gz	1924
+nancyauciello	web.me.com	2012-04-12 03:41:41	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	web.me.com-nancyauciello.warc.gz	65383792
+sotten	gallery.me.com	2012-04-12 08:42:30	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	gallery.me.com-sotten.warc.gz	7166761237
+sotten	homepage.mac.com	2012-04-12 08:42:31	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	homepage.mac.com-sotten.warc.gz	4883
+sotten	public.me.com	2012-04-12 05:19:13	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	public.me.com-sotten.warc.gz	1912
+sotten	web.me.com	2012-04-12 05:19:12	archiveteam-mobileme-hero-668x	archiveteam-mobileme-hero-668x-6686.tar	web.me.com-sotten.warc.gz	58383177

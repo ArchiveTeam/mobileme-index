@@ -1,36 +1,36 @@
-g.a.gagnon	gallery.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	gallery.me.com-g.a.gagnon.warc.gz	0
-g.a.gagnon	homepage.mac.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	homepage.mac.com-g.a.gagnon.warc.gz	0
-g.a.gagnon	public.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	public.me.com-g.a.gagnon.warc.gz	0
-g.a.gagnon	web.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	web.me.com-g.a.gagnon.warc.gz	0
-georgielou	gallery.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	gallery.me.com-georgielou.warc.gz	0
-georgielou	homepage.mac.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	homepage.mac.com-georgielou.warc.gz	0
-georgielou	public.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	public.me.com-georgielou.warc.gz	0
-georgielou	web.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	web.me.com-georgielou.warc.gz	0
-hugueslaflamme	gallery.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	gallery.me.com-hugueslaflamme.warc.gz	0
-hugueslaflamme	homepage.mac.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	homepage.mac.com-hugueslaflamme.warc.gz	0
-hugueslaflamme	public.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	public.me.com-hugueslaflamme.warc.gz	0
-hugueslaflamme	web.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	web.me.com-hugueslaflamme.warc.gz	0
-james.ferrari	gallery.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	gallery.me.com-james.ferrari.warc.gz	0
-james.ferrari	homepage.mac.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	homepage.mac.com-james.ferrari.warc.gz	0
-james.ferrari	public.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	public.me.com-james.ferrari.warc.gz	0
-james.ferrari	web.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	web.me.com-james.ferrari.warc.gz	0
-koji_tachibana	gallery.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	gallery.me.com-koji_tachibana.warc.gz	0
-koji_tachibana	homepage.mac.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	homepage.mac.com-koji_tachibana.warc.gz	0
-koji_tachibana	public.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	public.me.com-koji_tachibana.warc.gz	0
-koji_tachibana	web.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	web.me.com-koji_tachibana.warc.gz	0
-mpowley	gallery.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	gallery.me.com-mpowley.warc.gz	0
-mpowley	homepage.mac.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	homepage.mac.com-mpowley.warc.gz	0
-mpowley	public.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	public.me.com-mpowley.warc.gz	0
-mpowley	web.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	web.me.com-mpowley.warc.gz	0
-skiman	gallery.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	gallery.me.com-skiman.warc.gz	0
-skiman	homepage.mac.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	homepage.mac.com-skiman.warc.gz	0
-skiman	public.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	public.me.com-skiman.warc.gz	0
-skiman	web.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	web.me.com-skiman.warc.gz	0
-sueciullo	gallery.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	gallery.me.com-sueciullo.warc.gz	0
-sueciullo	homepage.mac.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	homepage.mac.com-sueciullo.warc.gz	0
-sueciullo	public.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	public.me.com-sueciullo.warc.gz	0
-sueciullo	web.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	web.me.com-sueciullo.warc.gz	0
-susanleehahn	gallery.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	gallery.me.com-susanleehahn.warc.gz	0
-susanleehahn	homepage.mac.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	homepage.mac.com-susanleehahn.warc.gz	0
-susanleehahn	public.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	public.me.com-susanleehahn.warc.gz	0
-susanleehahn	web.me.com		archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	web.me.com-susanleehahn.warc.gz	0
+g.a.gagnon	gallery.me.com	2012-04-06 06:06:06	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	gallery.me.com-g.a.gagnon.warc.gz	5727
+g.a.gagnon	homepage.mac.com	2012-04-06 06:06:07	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	homepage.mac.com-g.a.gagnon.warc.gz	4913
+g.a.gagnon	public.me.com	2012-04-06 06:06:05	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	public.me.com-g.a.gagnon.warc.gz	3431
+g.a.gagnon	web.me.com	2012-04-06 06:06:02	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	web.me.com-g.a.gagnon.warc.gz	2219081
+georgielou	gallery.me.com	2012-04-06 10:17:35	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	gallery.me.com-georgielou.warc.gz	4299
+georgielou	homepage.mac.com	2012-04-06 10:17:36	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	homepage.mac.com-georgielou.warc.gz	4903
+georgielou	public.me.com	2012-04-06 10:17:34	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	public.me.com-georgielou.warc.gz	1919
+georgielou	web.me.com	2012-04-06 10:17:30	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	web.me.com-georgielou.warc.gz	34432538
+hugueslaflamme	gallery.me.com	2012-04-06 10:05:49	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	gallery.me.com-hugueslaflamme.warc.gz	4879978
+hugueslaflamme	homepage.mac.com	2012-04-06 10:05:49	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	homepage.mac.com-hugueslaflamme.warc.gz	4936
+hugueslaflamme	public.me.com	2012-04-06 10:05:24	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	public.me.com-hugueslaflamme.warc.gz	1927
+hugueslaflamme	web.me.com	2012-04-06 10:05:24	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	web.me.com-hugueslaflamme.warc.gz	19875931
+james.ferrari	gallery.me.com	2012-04-06 06:30:54	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	gallery.me.com-james.ferrari.warc.gz	7458661
+james.ferrari	homepage.mac.com	2012-04-06 06:30:54	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	homepage.mac.com-james.ferrari.warc.gz	4932
+james.ferrari	public.me.com	2012-04-06 06:29:15	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	public.me.com-james.ferrari.warc.gz	1930
+james.ferrari	web.me.com	2012-04-06 06:29:14	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	web.me.com-james.ferrari.warc.gz	11121112
+koji_tachibana	gallery.me.com	2012-04-06 09:56:31	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	gallery.me.com-koji_tachibana.warc.gz	4330
+koji_tachibana	homepage.mac.com	2012-04-06 09:56:34	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	homepage.mac.com-koji_tachibana.warc.gz	76352
+koji_tachibana	public.me.com	2012-04-06 09:56:30	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	public.me.com-koji_tachibana.warc.gz	1935
+koji_tachibana	web.me.com	2012-04-06 09:56:30	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	web.me.com-koji_tachibana.warc.gz	336390
+mpowley	gallery.me.com	2012-04-06 10:41:23	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	gallery.me.com-mpowley.warc.gz	15536422
+mpowley	homepage.mac.com	2012-04-06 10:41:32	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	homepage.mac.com-mpowley.warc.gz	120511
+mpowley	public.me.com	2012-04-06 10:40:52	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	public.me.com-mpowley.warc.gz	168760073
+mpowley	web.me.com	2012-04-06 10:29:22	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	web.me.com-mpowley.warc.gz	95840953
+skiman	gallery.me.com	2012-04-06 06:25:19	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	gallery.me.com-skiman.warc.gz	9666
+skiman	homepage.mac.com	2012-04-06 06:25:24	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	homepage.mac.com-skiman.warc.gz	1310308
+skiman	public.me.com	2012-04-06 06:25:15	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	public.me.com-skiman.warc.gz	420468437
+skiman	web.me.com	2012-04-06 06:15:48	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	web.me.com-skiman.warc.gz	433052739
+sueciullo	gallery.me.com	2012-04-06 10:59:12	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	gallery.me.com-sueciullo.warc.gz	383499394
+sueciullo	homepage.mac.com	2012-04-06 10:59:12	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	homepage.mac.com-sueciullo.warc.gz	4898
+sueciullo	public.me.com	2012-04-06 10:49:57	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	public.me.com-sueciullo.warc.gz	1915
+sueciullo	web.me.com	2012-04-06 10:49:55	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	web.me.com-sueciullo.warc.gz	43877632
+susanleehahn	gallery.me.com	2012-04-06 09:56:15	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	gallery.me.com-susanleehahn.warc.gz	1612359966
+susanleehahn	homepage.mac.com	2012-04-06 09:56:15	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	homepage.mac.com-susanleehahn.warc.gz	4927
+susanleehahn	public.me.com	2012-04-06 08:30:23	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	public.me.com-susanleehahn.warc.gz	1921
+susanleehahn	web.me.com	2012-04-06 08:30:19	archiveteam-mobileme-hero-463x	archiveteam-mobileme-hero-463x-4638.tar	web.me.com-susanleehahn.warc.gz	1107303026

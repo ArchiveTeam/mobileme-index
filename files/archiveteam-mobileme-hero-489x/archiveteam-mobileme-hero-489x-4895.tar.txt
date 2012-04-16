@@ -1,4 +1,4 @@
-stammlocks	gallery.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4895.tar	gallery.me.com-stammlocks.warc.gz	0
-stammlocks	homepage.mac.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4895.tar	homepage.mac.com-stammlocks.warc.gz	0
-stammlocks	public.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4895.tar	public.me.com-stammlocks.warc.gz	0
-stammlocks	web.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4895.tar	web.me.com-stammlocks.warc.gz	0
+stammlocks	gallery.me.com	2012-04-07 11:44:50	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4895.tar	gallery.me.com-stammlocks.warc.gz	5024708436
+stammlocks	homepage.mac.com	2012-04-07 11:44:51	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4895.tar	homepage.mac.com-stammlocks.warc.gz	4910
+stammlocks	public.me.com	2012-04-07 11:00:38	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4895.tar	public.me.com-stammlocks.warc.gz	1914
+stammlocks	web.me.com	2012-04-07 11:00:37	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4895.tar	web.me.com-stammlocks.warc.gz	72877150

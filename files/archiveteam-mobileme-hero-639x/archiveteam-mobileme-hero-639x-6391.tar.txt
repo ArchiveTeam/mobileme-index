@@ -1,12 +1,12 @@
-generationministries	gallery.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	gallery.me.com-generationministries.warc.gz	0
-generationministries	homepage.mac.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	homepage.mac.com-generationministries.warc.gz	0
-generationministries	public.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	public.me.com-generationministries.warc.gz	0
-generationministries	web.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	web.me.com-generationministries.warc.gz	0
-gpvg26	gallery.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	gallery.me.com-gpvg26.warc.gz	0
-gpvg26	homepage.mac.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	homepage.mac.com-gpvg26.warc.gz	0
-gpvg26	public.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	public.me.com-gpvg26.warc.gz	0
-gpvg26	web.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	web.me.com-gpvg26.warc.gz	0
-uemotom	gallery.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	gallery.me.com-uemotom.warc.gz	0
-uemotom	homepage.mac.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	homepage.mac.com-uemotom.warc.gz	0
-uemotom	public.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	public.me.com-uemotom.warc.gz	0
-uemotom	web.me.com		archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	web.me.com-uemotom.warc.gz	0
+generationministries	gallery.me.com	2012-04-11 13:23:05	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	gallery.me.com-generationministries.warc.gz	4285
+generationministries	homepage.mac.com	2012-04-11 13:23:05	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	homepage.mac.com-generationministries.warc.gz	4951
+generationministries	public.me.com	2012-04-11 13:23:03	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	public.me.com-generationministries.warc.gz	1938
+generationministries	web.me.com	2012-04-11 13:23:01	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	web.me.com-generationministries.warc.gz	2000252472
+gpvg26	gallery.me.com	2012-04-11 12:14:37	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	gallery.me.com-gpvg26.warc.gz	1148170277
+gpvg26	homepage.mac.com	2012-04-11 12:14:38	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	homepage.mac.com-gpvg26.warc.gz	4891
+gpvg26	public.me.com	2012-04-11 11:37:55	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	public.me.com-gpvg26.warc.gz	1912
+gpvg26	web.me.com	2012-04-11 11:37:54	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	web.me.com-gpvg26.warc.gz	4940000
+uemotom	gallery.me.com	2012-04-11 11:34:46	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	gallery.me.com-uemotom.warc.gz	2152671042
+uemotom	homepage.mac.com	2012-04-11 11:34:46	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	homepage.mac.com-uemotom.warc.gz	4912
+uemotom	public.me.com	2012-04-11 10:56:22	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	public.me.com-uemotom.warc.gz	3319
+uemotom	web.me.com	2012-04-11 10:56:21	archiveteam-mobileme-hero-639x	archiveteam-mobileme-hero-639x-6391.tar	web.me.com-uemotom.warc.gz	245962806

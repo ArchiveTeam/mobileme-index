@@ -1,12 +1,12 @@
-rajvirdee01	gallery.me.com		archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	gallery.me.com-rajvirdee01.warc.gz	0
-rajvirdee01	homepage.mac.com		archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	homepage.mac.com-rajvirdee01.warc.gz	0
-rajvirdee01	public.me.com		archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	public.me.com-rajvirdee01.warc.gz	0
-rajvirdee01	web.me.com		archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	web.me.com-rajvirdee01.warc.gz	0
-sihing	gallery.me.com		archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	gallery.me.com-sihing.warc.gz	0
-sihing	homepage.mac.com		archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	homepage.mac.com-sihing.warc.gz	0
-sihing	public.me.com		archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	public.me.com-sihing.warc.gz	0
-sihing	web.me.com		archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	web.me.com-sihing.warc.gz	0
-ward467	gallery.me.com		archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	gallery.me.com-ward467.warc.gz	0
-ward467	homepage.mac.com		archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	homepage.mac.com-ward467.warc.gz	0
-ward467	public.me.com		archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	public.me.com-ward467.warc.gz	0
-ward467	web.me.com		archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	web.me.com-ward467.warc.gz	0
+rajvirdee01	gallery.me.com	2012-04-10 21:00:51	archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	gallery.me.com-rajvirdee01.warc.gz	4406205838
+rajvirdee01	homepage.mac.com	2012-04-10 21:00:59	archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	homepage.mac.com-rajvirdee01.warc.gz	101859
+rajvirdee01	public.me.com	2012-04-10 20:20:58	archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	public.me.com-rajvirdee01.warc.gz	3413
+rajvirdee01	web.me.com	2012-04-10 20:20:53	archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	web.me.com-rajvirdee01.warc.gz	784490640
+sihing	gallery.me.com	2012-04-10 19:07:04	archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	gallery.me.com-sihing.warc.gz	8327
+sihing	homepage.mac.com	2012-04-10 19:07:04	archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	homepage.mac.com-sihing.warc.gz	5139
+sihing	public.me.com	2012-04-10 19:07:03	archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	public.me.com-sihing.warc.gz	1911
+sihing	web.me.com	2012-04-10 19:07:03	archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	web.me.com-sihing.warc.gz	17688
+ward467	gallery.me.com	2012-04-10 19:46:20	archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	gallery.me.com-ward467.warc.gz	530299278
+ward467	homepage.mac.com	2012-04-10 19:46:22	archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	homepage.mac.com-ward467.warc.gz	4906
+ward467	public.me.com	2012-04-10 19:25:44	archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	public.me.com-ward467.warc.gz	116440482
+ward467	web.me.com	2012-04-10 19:22:44	archiveteam-mobileme-hero-608x	archiveteam-mobileme-hero-608x-6081.tar	web.me.com-ward467.warc.gz	105270145

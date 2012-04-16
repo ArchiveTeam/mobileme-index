@@ -1,16 +1,16 @@
-boujam	gallery.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	gallery.me.com-boujam.warc.gz	0
-boujam	homepage.mac.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	homepage.mac.com-boujam.warc.gz	0
-boujam	public.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	public.me.com-boujam.warc.gz	0
-boujam	web.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	web.me.com-boujam.warc.gz	0
-kim.kostecki	gallery.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	gallery.me.com-kim.kostecki.warc.gz	0
-kim.kostecki	homepage.mac.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	homepage.mac.com-kim.kostecki.warc.gz	0
-kim.kostecki	public.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	public.me.com-kim.kostecki.warc.gz	0
-kim.kostecki	web.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	web.me.com-kim.kostecki.warc.gz	0
-kretschi	gallery.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	gallery.me.com-kretschi.warc.gz	0
-kretschi	homepage.mac.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	homepage.mac.com-kretschi.warc.gz	0
-kretschi	public.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	public.me.com-kretschi.warc.gz	0
-kretschi	web.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	web.me.com-kretschi.warc.gz	0
-matt.steinbrenner	gallery.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	gallery.me.com-matt.steinbrenner.warc.gz	0
-matt.steinbrenner	homepage.mac.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	homepage.mac.com-matt.steinbrenner.warc.gz	0
-matt.steinbrenner	public.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	public.me.com-matt.steinbrenner.warc.gz	0
-matt.steinbrenner	web.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	web.me.com-matt.steinbrenner.warc.gz	0
+boujam	gallery.me.com	2012-04-05 03:25:55	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	gallery.me.com-boujam.warc.gz	839547703
+boujam	homepage.mac.com	2012-04-05 03:26:11	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	homepage.mac.com-boujam.warc.gz	147512
+boujam	public.me.com	2012-04-05 02:59:43	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	public.me.com-boujam.warc.gz	85325681
+boujam	web.me.com	2012-04-05 02:55:23	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	web.me.com-boujam.warc.gz	17381635
+kim.kostecki	gallery.me.com	2012-04-04 22:44:00	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	gallery.me.com-kim.kostecki.warc.gz	17051492
+kim.kostecki	homepage.mac.com	2012-04-04 22:44:00	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	homepage.mac.com-kim.kostecki.warc.gz	4930
+kim.kostecki	public.me.com	2012-04-04 22:43:22	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	public.me.com-kim.kostecki.warc.gz	1925
+kim.kostecki	web.me.com	2012-04-04 22:43:21	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	web.me.com-kim.kostecki.warc.gz	360827
+kretschi	gallery.me.com	2012-04-04 22:42:58	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	gallery.me.com-kretschi.warc.gz	693765
+kretschi	homepage.mac.com	2012-04-04 22:42:58	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	homepage.mac.com-kretschi.warc.gz	4900
+kretschi	public.me.com	2012-04-04 22:42:35	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	public.me.com-kretschi.warc.gz	1910
+kretschi	web.me.com	2012-04-04 22:42:32	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	web.me.com-kretschi.warc.gz	47116745
+matt.steinbrenner	gallery.me.com	2012-04-05 02:49:56	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	gallery.me.com-matt.steinbrenner.warc.gz	945131131
+matt.steinbrenner	homepage.mac.com	2012-04-05 02:49:59	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	homepage.mac.com-matt.steinbrenner.warc.gz	36974
+matt.steinbrenner	public.me.com	2012-04-05 02:04:35	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	public.me.com-matt.steinbrenner.warc.gz	1969409357
+matt.steinbrenner	web.me.com	2012-04-05 00:16:38	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4066.tar	web.me.com-matt.steinbrenner.warc.gz	810830688

@@ -1,8 +1,8 @@
-davecarolan	gallery.me.com		archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3931.tar	gallery.me.com-davecarolan.warc.gz	0
-davecarolan	homepage.mac.com		archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3931.tar	homepage.mac.com-davecarolan.warc.gz	0
-davecarolan	public.me.com		archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3931.tar	public.me.com-davecarolan.warc.gz	0
-davecarolan	web.me.com		archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3931.tar	web.me.com-davecarolan.warc.gz	0
-photographyml	gallery.me.com		archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3931.tar	gallery.me.com-photographyml.warc.gz	0
-photographyml	homepage.mac.com		archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3931.tar	homepage.mac.com-photographyml.warc.gz	0
-photographyml	public.me.com		archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3931.tar	public.me.com-photographyml.warc.gz	0
-photographyml	web.me.com		archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3931.tar	web.me.com-photographyml.warc.gz	0
+davecarolan	gallery.me.com	2012-04-04 19:34:01	archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3931.tar	gallery.me.com-davecarolan.warc.gz	1904311069
+davecarolan	homepage.mac.com	2012-04-04 19:34:02	archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3931.tar	homepage.mac.com-davecarolan.warc.gz	4932
+davecarolan	public.me.com	2012-04-04 18:53:59	archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3931.tar	public.me.com-davecarolan.warc.gz	417350756
+davecarolan	web.me.com	2012-04-04 18:51:14	archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3931.tar	web.me.com-davecarolan.warc.gz	1919437661
+photographyml	gallery.me.com	2012-04-04 17:57:15	archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3931.tar	gallery.me.com-photographyml.warc.gz	5128
+photographyml	homepage.mac.com	2012-04-04 17:57:16	archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3931.tar	homepage.mac.com-photographyml.warc.gz	4931
+photographyml	public.me.com	2012-04-04 17:57:13	archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3931.tar	public.me.com-photographyml.warc.gz	1930
+photographyml	web.me.com	2012-04-04 17:57:13	archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3931.tar	web.me.com-photographyml.warc.gz	45858666

@@ -1,20 +1,20 @@
-bluecamel	gallery.me.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	gallery.me.com-bluecamel.warc.gz	0
-bluecamel	homepage.mac.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	homepage.mac.com-bluecamel.warc.gz	0
-bluecamel	public.me.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	public.me.com-bluecamel.warc.gz	0
-bluecamel	web.me.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	web.me.com-bluecamel.warc.gz	0
-c.tjalsma	gallery.me.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	gallery.me.com-c.tjalsma.warc.gz	0
-c.tjalsma	homepage.mac.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	homepage.mac.com-c.tjalsma.warc.gz	0
-c.tjalsma	public.me.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	public.me.com-c.tjalsma.warc.gz	0
-c.tjalsma	web.me.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	web.me.com-c.tjalsma.warc.gz	0
-fragmentaryblue	gallery.me.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	gallery.me.com-fragmentaryblue.warc.gz	0
-fragmentaryblue	homepage.mac.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	homepage.mac.com-fragmentaryblue.warc.gz	0
-fragmentaryblue	public.me.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	public.me.com-fragmentaryblue.warc.gz	0
-fragmentaryblue	web.me.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	web.me.com-fragmentaryblue.warc.gz	0
-jmccallen	gallery.me.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	gallery.me.com-jmccallen.warc.gz	0
-jmccallen	homepage.mac.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	homepage.mac.com-jmccallen.warc.gz	0
-jmccallen	public.me.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	public.me.com-jmccallen.warc.gz	0
-jmccallen	web.me.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	web.me.com-jmccallen.warc.gz	0
-joffreyjoumaa	gallery.me.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	gallery.me.com-joffreyjoumaa.warc.gz	0
-joffreyjoumaa	homepage.mac.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	homepage.mac.com-joffreyjoumaa.warc.gz	0
-joffreyjoumaa	public.me.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	public.me.com-joffreyjoumaa.warc.gz	0
-joffreyjoumaa	web.me.com		archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	web.me.com-joffreyjoumaa.warc.gz	0
+bluecamel	gallery.me.com	2012-04-03 11:53:11	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	gallery.me.com-bluecamel.warc.gz	4984
+bluecamel	homepage.mac.com	2012-04-03 11:53:20	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	homepage.mac.com-bluecamel.warc.gz	145385
+bluecamel	public.me.com	2012-04-03 11:53:10	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	public.me.com-bluecamel.warc.gz	4544
+bluecamel	web.me.com	2012-04-03 11:53:09	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	web.me.com-bluecamel.warc.gz	28895
+c.tjalsma	gallery.me.com	2012-04-03 12:00:43	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	gallery.me.com-c.tjalsma.warc.gz	37157843
+c.tjalsma	homepage.mac.com	2012-04-03 12:00:44	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	homepage.mac.com-c.tjalsma.warc.gz	10277
+c.tjalsma	public.me.com	2012-04-03 11:59:56	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	public.me.com-c.tjalsma.warc.gz	153008491
+c.tjalsma	web.me.com	2012-04-03 11:56:06	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	web.me.com-c.tjalsma.warc.gz	518674
+fragmentaryblue	gallery.me.com	2012-04-03 12:00:46	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	gallery.me.com-fragmentaryblue.warc.gz	12322
+fragmentaryblue	homepage.mac.com	2012-04-03 12:00:47	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	homepage.mac.com-fragmentaryblue.warc.gz	7161
+fragmentaryblue	public.me.com	2012-04-03 12:00:46	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	public.me.com-fragmentaryblue.warc.gz	1930
+fragmentaryblue	web.me.com	2012-04-03 12:00:46	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	web.me.com-fragmentaryblue.warc.gz	22535
+jmccallen	gallery.me.com	2012-04-03 11:55:52	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	gallery.me.com-jmccallen.warc.gz	6176
+jmccallen	homepage.mac.com	2012-04-03 11:55:52	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	homepage.mac.com-jmccallen.warc.gz	4917
+jmccallen	public.me.com	2012-04-03 11:55:51	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	public.me.com-jmccallen.warc.gz	70477446
+jmccallen	web.me.com	2012-04-03 11:53:41	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	web.me.com-jmccallen.warc.gz	2735971
+joffreyjoumaa	gallery.me.com	2012-04-03 15:24:54	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	gallery.me.com-joffreyjoumaa.warc.gz	3788591118
+joffreyjoumaa	homepage.mac.com	2012-04-03 15:24:54	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	homepage.mac.com-joffreyjoumaa.warc.gz	4947
+joffreyjoumaa	public.me.com	2012-04-03 13:45:11	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	public.me.com-joffreyjoumaa.warc.gz	374647369
+joffreyjoumaa	web.me.com	2012-04-03 13:32:29	archiveteam-mobileme-hero-346x	archiveteam-mobileme-hero-346x-3464.tar	web.me.com-joffreyjoumaa.warc.gz	1344056052

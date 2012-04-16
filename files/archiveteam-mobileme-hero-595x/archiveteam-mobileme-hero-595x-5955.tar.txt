@@ -1,12 +1,12 @@
-am_jpdoucet	gallery.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	gallery.me.com-am_jpdoucet.warc.gz	0
-am_jpdoucet	homepage.mac.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	homepage.mac.com-am_jpdoucet.warc.gz	0
-am_jpdoucet	public.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	public.me.com-am_jpdoucet.warc.gz	0
-am_jpdoucet	web.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	web.me.com-am_jpdoucet.warc.gz	0
-fprintz	gallery.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	gallery.me.com-fprintz.warc.gz	0
-fprintz	homepage.mac.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	homepage.mac.com-fprintz.warc.gz	0
-fprintz	public.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	public.me.com-fprintz.warc.gz	0
-fprintz	web.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	web.me.com-fprintz.warc.gz	0
-snappysheilakay	gallery.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	gallery.me.com-snappysheilakay.warc.gz	0
-snappysheilakay	homepage.mac.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	homepage.mac.com-snappysheilakay.warc.gz	0
-snappysheilakay	public.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	public.me.com-snappysheilakay.warc.gz	0
-snappysheilakay	web.me.com		archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	web.me.com-snappysheilakay.warc.gz	0
+am_jpdoucet	gallery.me.com	2012-04-10 12:27:48	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	gallery.me.com-am_jpdoucet.warc.gz	4273
+am_jpdoucet	homepage.mac.com	2012-04-10 13:54:32	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	homepage.mac.com-am_jpdoucet.warc.gz	3064973548
+am_jpdoucet	public.me.com	2012-04-10 12:27:48	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	public.me.com-am_jpdoucet.warc.gz	28777024
+am_jpdoucet	web.me.com	2012-04-10 12:26:53	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	web.me.com-am_jpdoucet.warc.gz	221846
+fprintz	gallery.me.com	2012-04-10 12:26:48	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	gallery.me.com-fprintz.warc.gz	1274923176
+fprintz	homepage.mac.com	2012-04-10 12:26:48	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	homepage.mac.com-fprintz.warc.gz	4898
+fprintz	public.me.com	2012-04-10 11:53:43	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	public.me.com-fprintz.warc.gz	1917
+fprintz	web.me.com	2012-04-10 11:53:42	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	web.me.com-fprintz.warc.gz	442229029
+snappysheilakay	gallery.me.com	2012-04-10 11:23:35	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	gallery.me.com-snappysheilakay.warc.gz	6103
+snappysheilakay	homepage.mac.com	2012-04-10 11:23:44	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	homepage.mac.com-snappysheilakay.warc.gz	152783
+snappysheilakay	public.me.com	2012-04-10 11:23:34	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	public.me.com-snappysheilakay.warc.gz	1933
+snappysheilakay	web.me.com	2012-04-10 11:23:34	archiveteam-mobileme-hero-595x	archiveteam-mobileme-hero-595x-5955.tar	web.me.com-snappysheilakay.warc.gz	171682891

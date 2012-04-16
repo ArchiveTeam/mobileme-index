@@ -1,12 +1,12 @@
-bockfeldt	gallery.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	gallery.me.com-bockfeldt.warc.gz	0
-bockfeldt	homepage.mac.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	homepage.mac.com-bockfeldt.warc.gz	0
-bockfeldt	public.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	public.me.com-bockfeldt.warc.gz	0
-bockfeldt	web.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	web.me.com-bockfeldt.warc.gz	0
-mimiyoga	gallery.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	gallery.me.com-mimiyoga.warc.gz	0
-mimiyoga	homepage.mac.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	homepage.mac.com-mimiyoga.warc.gz	0
-mimiyoga	public.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	public.me.com-mimiyoga.warc.gz	0
-mimiyoga	web.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	web.me.com-mimiyoga.warc.gz	0
-tbektu	gallery.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	gallery.me.com-tbektu.warc.gz	0
-tbektu	homepage.mac.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	homepage.mac.com-tbektu.warc.gz	0
-tbektu	public.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	public.me.com-tbektu.warc.gz	0
-tbektu	web.me.com		archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	web.me.com-tbektu.warc.gz	0
+bockfeldt	gallery.me.com	2012-04-05 10:10:20	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	gallery.me.com-bockfeldt.warc.gz	7209743
+bockfeldt	homepage.mac.com	2012-04-05 10:10:22	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	homepage.mac.com-bockfeldt.warc.gz	4914
+bockfeldt	public.me.com	2012-04-05 10:09:53	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	public.me.com-bockfeldt.warc.gz	1917
+bockfeldt	web.me.com	2012-04-05 10:09:53	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	web.me.com-bockfeldt.warc.gz	6819889
+mimiyoga	gallery.me.com	2012-04-05 10:18:07	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	gallery.me.com-mimiyoga.warc.gz	274258847
+mimiyoga	homepage.mac.com	2012-04-05 10:18:07	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	homepage.mac.com-mimiyoga.warc.gz	4910
+mimiyoga	public.me.com	2012-04-05 10:12:55	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	public.me.com-mimiyoga.warc.gz	1919
+mimiyoga	web.me.com	2012-04-05 10:12:54	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	web.me.com-mimiyoga.warc.gz	15157843
+tbektu	gallery.me.com	2012-04-05 13:53:23	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	gallery.me.com-tbektu.warc.gz	4337427915
+tbektu	homepage.mac.com	2012-04-05 13:53:24	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	homepage.mac.com-tbektu.warc.gz	4910
+tbektu	public.me.com	2012-04-05 12:01:58	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	public.me.com-tbektu.warc.gz	1910
+tbektu	web.me.com	2012-04-05 12:01:34	archiveteam-mobileme-hero-426x	archiveteam-mobileme-hero-426x-4266.tar	web.me.com-tbektu.warc.gz	1784514458

@@ -1,24 +1,24 @@
-lalockman	gallery.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	gallery.me.com-lalockman.warc.gz	0
-lalockman	homepage.mac.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	homepage.mac.com-lalockman.warc.gz	0
-lalockman	public.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	public.me.com-lalockman.warc.gz	0
-lalockman	web.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	web.me.com-lalockman.warc.gz	0
-localstore	gallery.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	gallery.me.com-localstore.warc.gz	0
-localstore	homepage.mac.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	homepage.mac.com-localstore.warc.gz	0
-localstore	public.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	public.me.com-localstore.warc.gz	0
-localstore	web.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	web.me.com-localstore.warc.gz	0
-rsr44mag	gallery.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	gallery.me.com-rsr44mag.warc.gz	0
-rsr44mag	homepage.mac.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	homepage.mac.com-rsr44mag.warc.gz	0
-rsr44mag	public.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	public.me.com-rsr44mag.warc.gz	0
-rsr44mag	web.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	web.me.com-rsr44mag.warc.gz	0
-ted_mack	gallery.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	gallery.me.com-ted_mack.warc.gz	0
-ted_mack	homepage.mac.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	homepage.mac.com-ted_mack.warc.gz	0
-ted_mack	public.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	public.me.com-ted_mack.warc.gz	0
-ted_mack	web.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	web.me.com-ted_mack.warc.gz	0
-thestinsons03	gallery.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	gallery.me.com-thestinsons03.warc.gz	0
-thestinsons03	homepage.mac.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	homepage.mac.com-thestinsons03.warc.gz	0
-thestinsons03	public.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	public.me.com-thestinsons03.warc.gz	0
-thestinsons03	web.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	web.me.com-thestinsons03.warc.gz	0
-upigorsch	gallery.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	gallery.me.com-upigorsch.warc.gz	0
-upigorsch	homepage.mac.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	homepage.mac.com-upigorsch.warc.gz	0
-upigorsch	public.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	public.me.com-upigorsch.warc.gz	0
-upigorsch	web.me.com		archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	web.me.com-upigorsch.warc.gz	0
+lalockman	gallery.me.com	2012-04-12 05:57:29	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	gallery.me.com-lalockman.warc.gz	4241
+lalockman	homepage.mac.com	2012-04-12 05:57:52	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	homepage.mac.com-lalockman.warc.gz	381417
+lalockman	public.me.com	2012-04-12 05:57:29	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	public.me.com-lalockman.warc.gz	1918
+lalockman	web.me.com	2012-04-12 05:57:28	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	web.me.com-lalockman.warc.gz	7428
+localstore	gallery.me.com	2012-04-12 05:57:26	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	gallery.me.com-localstore.warc.gz	38885600
+localstore	homepage.mac.com	2012-04-12 05:57:26	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	homepage.mac.com-localstore.warc.gz	4898
+localstore	public.me.com	2012-04-12 05:55:25	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	public.me.com-localstore.warc.gz	3570
+localstore	web.me.com	2012-04-12 05:55:24	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	web.me.com-localstore.warc.gz	3296376
+rsr44mag	gallery.me.com	2012-04-12 05:54:28	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	gallery.me.com-rsr44mag.warc.gz	4246
+rsr44mag	homepage.mac.com	2012-04-12 05:54:29	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	homepage.mac.com-rsr44mag.warc.gz	7866
+rsr44mag	public.me.com	2012-04-12 05:54:28	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	public.me.com-rsr44mag.warc.gz	410022728
+rsr44mag	web.me.com	2012-04-12 05:52:12	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	web.me.com-rsr44mag.warc.gz	7846151
+ted_mack	gallery.me.com	2012-04-12 05:58:00	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	gallery.me.com-ted_mack.warc.gz	5016
+ted_mack	homepage.mac.com	2012-04-12 05:58:03	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	homepage.mac.com-ted_mack.warc.gz	41217
+ted_mack	public.me.com	2012-04-12 05:58:00	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	public.me.com-ted_mack.warc.gz	1915
+ted_mack	web.me.com	2012-04-12 05:57:57	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	web.me.com-ted_mack.warc.gz	28929
+thestinsons03	gallery.me.com	2012-04-12 08:25:41	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	gallery.me.com-thestinsons03.warc.gz	7425403173
+thestinsons03	homepage.mac.com	2012-04-12 08:25:45	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	homepage.mac.com-thestinsons03.warc.gz	4916
+thestinsons03	public.me.com	2012-04-12 06:19:56	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	public.me.com-thestinsons03.warc.gz	1927
+thestinsons03	web.me.com	2012-04-12 06:19:55	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	web.me.com-thestinsons03.warc.gz	254827959
+upigorsch	gallery.me.com	2012-04-12 05:44:37	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	gallery.me.com-upigorsch.warc.gz	19459676
+upigorsch	homepage.mac.com	2012-04-12 05:44:38	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	homepage.mac.com-upigorsch.warc.gz	4911
+upigorsch	public.me.com	2012-04-12 05:44:12	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	public.me.com-upigorsch.warc.gz	21851
+upigorsch	web.me.com	2012-04-12 05:44:11	archiveteam-mobileme-hero-667x	archiveteam-mobileme-hero-667x-6677.tar	web.me.com-upigorsch.warc.gz	159573069

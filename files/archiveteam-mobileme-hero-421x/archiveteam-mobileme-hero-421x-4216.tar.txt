@@ -1,12 +1,12 @@
-atelierdepresent	gallery.me.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	gallery.me.com-atelierdepresent.warc.gz	0
-atelierdepresent	homepage.mac.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	homepage.mac.com-atelierdepresent.warc.gz	0
-atelierdepresent	public.me.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	public.me.com-atelierdepresent.warc.gz	0
-atelierdepresent	web.me.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	web.me.com-atelierdepresent.warc.gz	0
-randy.chamberlain	gallery.me.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	gallery.me.com-randy.chamberlain.warc.gz	0
-randy.chamberlain	homepage.mac.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	homepage.mac.com-randy.chamberlain.warc.gz	0
-randy.chamberlain	public.me.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	public.me.com-randy.chamberlain.warc.gz	0
-randy.chamberlain	web.me.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	web.me.com-randy.chamberlain.warc.gz	0
-tom.store	gallery.me.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	gallery.me.com-tom.store.warc.gz	0
-tom.store	homepage.mac.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	homepage.mac.com-tom.store.warc.gz	0
-tom.store	public.me.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	public.me.com-tom.store.warc.gz	0
-tom.store	web.me.com		archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	web.me.com-tom.store.warc.gz	0
+atelierdepresent	gallery.me.com	2012-04-05 10:42:57	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	gallery.me.com-atelierdepresent.warc.gz	25752674
+atelierdepresent	homepage.mac.com	2012-04-05 10:42:57	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	homepage.mac.com-atelierdepresent.warc.gz	4931
+atelierdepresent	public.me.com	2012-04-05 10:42:15	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	public.me.com-atelierdepresent.warc.gz	1923
+atelierdepresent	web.me.com	2012-04-05 10:42:15	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	web.me.com-atelierdepresent.warc.gz	7242985
+randy.chamberlain	gallery.me.com	2012-04-05 10:40:11	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	gallery.me.com-randy.chamberlain.warc.gz	2436475627
+randy.chamberlain	homepage.mac.com	2012-04-05 10:40:11	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	homepage.mac.com-randy.chamberlain.warc.gz	4935
+randy.chamberlain	public.me.com	2012-04-05 09:42:00	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	public.me.com-randy.chamberlain.warc.gz	1933
+randy.chamberlain	web.me.com	2012-04-05 09:41:52	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	web.me.com-randy.chamberlain.warc.gz	746442982
+tom.store	gallery.me.com	2012-04-05 11:06:58	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	gallery.me.com-tom.store.warc.gz	4977
+tom.store	homepage.mac.com	2012-04-05 11:06:59	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	homepage.mac.com-tom.store.warc.gz	4925
+tom.store	public.me.com	2012-04-05 11:06:57	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	public.me.com-tom.store.warc.gz	2201013242
+tom.store	web.me.com	2012-04-05 10:47:58	archiveteam-mobileme-hero-421x	archiveteam-mobileme-hero-421x-4216.tar	web.me.com-tom.store.warc.gz	57369272

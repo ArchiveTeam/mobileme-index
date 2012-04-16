@@ -1,20 +1,20 @@
-arcom.corato	gallery.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	gallery.me.com-arcom.corato.warc.gz	0
-arcom.corato	homepage.mac.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	homepage.mac.com-arcom.corato.warc.gz	0
-arcom.corato	public.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	public.me.com-arcom.corato.warc.gz	0
-arcom.corato	web.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	web.me.com-arcom.corato.warc.gz	0
-bubblesplayhouse	gallery.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	gallery.me.com-bubblesplayhouse.warc.gz	0
-bubblesplayhouse	homepage.mac.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	homepage.mac.com-bubblesplayhouse.warc.gz	0
-bubblesplayhouse	public.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	public.me.com-bubblesplayhouse.warc.gz	0
-bubblesplayhouse	web.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	web.me.com-bubblesplayhouse.warc.gz	0
-jeremiahschutz	gallery.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	gallery.me.com-jeremiahschutz.warc.gz	0
-jeremiahschutz	homepage.mac.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	homepage.mac.com-jeremiahschutz.warc.gz	0
-jeremiahschutz	public.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	public.me.com-jeremiahschutz.warc.gz	0
-jeremiahschutz	web.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	web.me.com-jeremiahschutz.warc.gz	0
-k235	gallery.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	gallery.me.com-k235.warc.gz	0
-k235	homepage.mac.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	homepage.mac.com-k235.warc.gz	0
-k235	public.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	public.me.com-k235.warc.gz	0
-k235	web.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	web.me.com-k235.warc.gz	0
-mdalessandro	gallery.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	gallery.me.com-mdalessandro.warc.gz	0
-mdalessandro	homepage.mac.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	homepage.mac.com-mdalessandro.warc.gz	0
-mdalessandro	public.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	public.me.com-mdalessandro.warc.gz	0
-mdalessandro	web.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	web.me.com-mdalessandro.warc.gz	0
+arcom.corato	gallery.me.com	2012-04-11 01:41:20	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	gallery.me.com-arcom.corato.warc.gz	12342
+arcom.corato	homepage.mac.com	2012-04-11 01:41:20	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	homepage.mac.com-arcom.corato.warc.gz	7156
+arcom.corato	public.me.com	2012-04-11 01:41:19	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	public.me.com-arcom.corato.warc.gz	1918
+arcom.corato	web.me.com	2012-04-11 01:41:19	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	web.me.com-arcom.corato.warc.gz	22551
+bubblesplayhouse	gallery.me.com	2012-04-11 02:08:39	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	gallery.me.com-bubblesplayhouse.warc.gz	2733837791
+bubblesplayhouse	homepage.mac.com	2012-04-11 02:08:39	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	homepage.mac.com-bubblesplayhouse.warc.gz	4952
+bubblesplayhouse	public.me.com	2012-04-11 01:45:24	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	public.me.com-bubblesplayhouse.warc.gz	1935
+bubblesplayhouse	web.me.com	2012-04-11 01:45:24	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	web.me.com-bubblesplayhouse.warc.gz	84477309
+jeremiahschutz	gallery.me.com	2012-04-11 02:33:28	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	gallery.me.com-jeremiahschutz.warc.gz	1283226895
+jeremiahschutz	homepage.mac.com	2012-04-11 02:33:29	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	homepage.mac.com-jeremiahschutz.warc.gz	4932
+jeremiahschutz	public.me.com	2012-04-11 02:12:39	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	public.me.com-jeremiahschutz.warc.gz	3557
+jeremiahschutz	web.me.com	2012-04-11 02:12:39	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	web.me.com-jeremiahschutz.warc.gz	94609536
+k235	gallery.me.com	2012-04-11 01:41:25	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	gallery.me.com-k235.warc.gz	4217
+k235	homepage.mac.com	2012-04-11 01:41:25	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	homepage.mac.com-k235.warc.gz	4888
+k235	public.me.com	2012-04-11 01:41:25	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	public.me.com-k235.warc.gz	1908
+k235	web.me.com	2012-04-11 01:41:25	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	web.me.com-k235.warc.gz	138584
+mdalessandro	gallery.me.com	2012-04-11 01:41:17	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	gallery.me.com-mdalessandro.warc.gz	110181296
+mdalessandro	homepage.mac.com	2012-04-11 01:41:17	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	homepage.mac.com-mdalessandro.warc.gz	4933
+mdalessandro	public.me.com	2012-04-11 01:38:45	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	public.me.com-mdalessandro.warc.gz	139816035
+mdalessandro	web.me.com	2012-04-11 01:35:30	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6165.tar	web.me.com-mdalessandro.warc.gz	12093666

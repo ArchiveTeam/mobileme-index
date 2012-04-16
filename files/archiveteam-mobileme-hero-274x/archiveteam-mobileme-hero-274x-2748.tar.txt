@@ -1,20 +1,20 @@
-brandyflores	gallery.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	gallery.me.com-brandyflores.warc.gz	0
-brandyflores	homepage.mac.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	homepage.mac.com-brandyflores.warc.gz	0
-brandyflores	public.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	public.me.com-brandyflores.warc.gz	0
-brandyflores	web.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	web.me.com-brandyflores.warc.gz	0
-cassandra.hearn	gallery.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	gallery.me.com-cassandra.hearn.warc.gz	0
-cassandra.hearn	homepage.mac.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	homepage.mac.com-cassandra.hearn.warc.gz	0
-cassandra.hearn	public.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	public.me.com-cassandra.hearn.warc.gz	0
-cassandra.hearn	web.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	web.me.com-cassandra.hearn.warc.gz	0
-enricoponzone	gallery.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	gallery.me.com-enricoponzone.warc.gz	0
-enricoponzone	homepage.mac.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	homepage.mac.com-enricoponzone.warc.gz	0
-enricoponzone	public.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	public.me.com-enricoponzone.warc.gz	0
-enricoponzone	web.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	web.me.com-enricoponzone.warc.gz	0
-hectorviolin	gallery.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	gallery.me.com-hectorviolin.warc.gz	0
-hectorviolin	homepage.mac.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	homepage.mac.com-hectorviolin.warc.gz	0
-hectorviolin	public.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	public.me.com-hectorviolin.warc.gz	0
-hectorviolin	web.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	web.me.com-hectorviolin.warc.gz	0
-sevenfingersamurai	gallery.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	gallery.me.com-sevenfingersamurai.warc.gz	0
-sevenfingersamurai	homepage.mac.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	homepage.mac.com-sevenfingersamurai.warc.gz	0
-sevenfingersamurai	public.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	public.me.com-sevenfingersamurai.warc.gz	0
-sevenfingersamurai	web.me.com		archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	web.me.com-sevenfingersamurai.warc.gz	0
+brandyflores	gallery.me.com	2012-04-01 18:04:48	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	gallery.me.com-brandyflores.warc.gz	2387784060
+brandyflores	homepage.mac.com	2012-04-01 18:04:54	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	homepage.mac.com-brandyflores.warc.gz	187889
+brandyflores	public.me.com	2012-04-01 17:48:09	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	public.me.com-brandyflores.warc.gz	1931
+brandyflores	web.me.com	2012-04-01 17:48:06	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	web.me.com-brandyflores.warc.gz	573131897
+cassandra.hearn	gallery.me.com	2012-04-01 17:29:22	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	gallery.me.com-cassandra.hearn.warc.gz	72766784
+cassandra.hearn	homepage.mac.com	2012-04-01 17:29:22	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	homepage.mac.com-cassandra.hearn.warc.gz	4934
+cassandra.hearn	public.me.com	2012-04-01 17:27:36	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	public.me.com-cassandra.hearn.warc.gz	597902139
+cassandra.hearn	web.me.com	2012-04-01 17:16:47	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	web.me.com-cassandra.hearn.warc.gz	17342953
+enricoponzone	gallery.me.com	2012-04-01 17:37:16	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	gallery.me.com-enricoponzone.warc.gz	4333
+enricoponzone	homepage.mac.com	2012-04-01 17:37:16	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	homepage.mac.com-enricoponzone.warc.gz	4941
+enricoponzone	public.me.com	2012-04-01 17:37:14	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	public.me.com-enricoponzone.warc.gz	1929
+enricoponzone	web.me.com	2012-04-01 17:37:14	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	web.me.com-enricoponzone.warc.gz	100293355
+hectorviolin	gallery.me.com	2012-04-01 17:29:25	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	gallery.me.com-hectorviolin.warc.gz	12337
+hectorviolin	homepage.mac.com	2012-04-01 17:29:25	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	homepage.mac.com-hectorviolin.warc.gz	7159
+hectorviolin	public.me.com	2012-04-01 17:29:24	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	public.me.com-hectorviolin.warc.gz	1925
+hectorviolin	web.me.com	2012-04-01 17:29:24	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	web.me.com-hectorviolin.warc.gz	22467
+sevenfingersamurai	gallery.me.com	2012-04-01 20:13:58	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	gallery.me.com-sevenfingersamurai.warc.gz	1911454439
+sevenfingersamurai	homepage.mac.com	2012-04-01 20:13:58	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	homepage.mac.com-sevenfingersamurai.warc.gz	4939
+sevenfingersamurai	public.me.com	2012-04-01 19:26:45	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	public.me.com-sevenfingersamurai.warc.gz	30433745
+sevenfingersamurai	web.me.com	2012-04-01 19:25:33	archiveteam-mobileme-hero-274x	archiveteam-mobileme-hero-274x-2748.tar	web.me.com-sevenfingersamurai.warc.gz	2243744108

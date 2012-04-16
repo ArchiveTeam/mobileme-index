@@ -1,16 +1,16 @@
-cmoreano	gallery.me.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	gallery.me.com-cmoreano.warc.gz	0
-cmoreano	homepage.mac.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	homepage.mac.com-cmoreano.warc.gz	0
-cmoreano	public.me.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	public.me.com-cmoreano.warc.gz	0
-cmoreano	web.me.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	web.me.com-cmoreano.warc.gz	0
-ibenz	gallery.me.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	gallery.me.com-ibenz.warc.gz	0
-ibenz	homepage.mac.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	homepage.mac.com-ibenz.warc.gz	0
-ibenz	public.me.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	public.me.com-ibenz.warc.gz	0
-ibenz	web.me.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	web.me.com-ibenz.warc.gz	0
-pastoroga	gallery.me.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	gallery.me.com-pastoroga.warc.gz	0
-pastoroga	homepage.mac.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	homepage.mac.com-pastoroga.warc.gz	0
-pastoroga	public.me.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	public.me.com-pastoroga.warc.gz	0
-pastoroga	web.me.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	web.me.com-pastoroga.warc.gz	0
-scigano	gallery.me.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	gallery.me.com-scigano.warc.gz	0
-scigano	homepage.mac.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	homepage.mac.com-scigano.warc.gz	0
-scigano	public.me.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	public.me.com-scigano.warc.gz	0
-scigano	web.me.com		archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	web.me.com-scigano.warc.gz	0
+cmoreano	gallery.me.com	2012-04-06 14:17:35	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	gallery.me.com-cmoreano.warc.gz	321918356
+cmoreano	homepage.mac.com	2012-04-06 14:17:46	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	homepage.mac.com-cmoreano.warc.gz	183848
+cmoreano	public.me.com	2012-04-06 14:03:03	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	public.me.com-cmoreano.warc.gz	1912
+cmoreano	web.me.com	2012-04-06 14:03:00	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	web.me.com-cmoreano.warc.gz	741844005
+ibenz	gallery.me.com	2012-04-06 12:23:30	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	gallery.me.com-ibenz.warc.gz	8322
+ibenz	homepage.mac.com	2012-04-06 12:23:30	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	homepage.mac.com-ibenz.warc.gz	5154
+ibenz	public.me.com	2012-04-06 12:23:29	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	public.me.com-ibenz.warc.gz	1908
+ibenz	web.me.com	2012-04-06 12:23:28	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	web.me.com-ibenz.warc.gz	17688
+pastoroga	gallery.me.com	2012-04-06 12:23:15	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	gallery.me.com-pastoroga.warc.gz	3580087493
+pastoroga	homepage.mac.com	2012-04-06 12:23:16	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	homepage.mac.com-pastoroga.warc.gz	4911
+pastoroga	public.me.com	2012-04-06 11:22:02	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	public.me.com-pastoroga.warc.gz	21918356
+pastoroga	web.me.com	2012-04-06 11:20:26	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	web.me.com-pastoroga.warc.gz	666801740
+scigano	gallery.me.com	2012-04-06 12:23:24	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	gallery.me.com-scigano.warc.gz	12329
+scigano	homepage.mac.com	2012-04-06 12:23:25	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	homepage.mac.com-scigano.warc.gz	7153
+scigano	public.me.com	2012-04-06 12:23:22	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	public.me.com-scigano.warc.gz	1911
+scigano	web.me.com	2012-04-06 12:23:21	archiveteam-mobileme-hero-469x	archiveteam-mobileme-hero-469x-4694.tar	web.me.com-scigano.warc.gz	22544

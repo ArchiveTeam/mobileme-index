@@ -1,24 +1,24 @@
-aguilars	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	gallery.me.com-aguilars.warc.gz	0
-aguilars	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	homepage.mac.com-aguilars.warc.gz	0
-aguilars	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	public.me.com-aguilars.warc.gz	0
-aguilars	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	web.me.com-aguilars.warc.gz	0
-c91854871	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	gallery.me.com-c91854871.warc.gz	0
-c91854871	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	homepage.mac.com-c91854871.warc.gz	0
-c91854871	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	public.me.com-c91854871.warc.gz	0
-c91854871	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	web.me.com-c91854871.warc.gz	0
-ipopngraphics	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	gallery.me.com-ipopngraphics.warc.gz	0
-ipopngraphics	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	homepage.mac.com-ipopngraphics.warc.gz	0
-ipopngraphics	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	public.me.com-ipopngraphics.warc.gz	0
-ipopngraphics	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	web.me.com-ipopngraphics.warc.gz	0
-jimodonnell	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	gallery.me.com-jimodonnell.warc.gz	0
-jimodonnell	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	homepage.mac.com-jimodonnell.warc.gz	0
-jimodonnell	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	public.me.com-jimodonnell.warc.gz	0
-jimodonnell	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	web.me.com-jimodonnell.warc.gz	0
-mariann.kwiat	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	gallery.me.com-mariann.kwiat.warc.gz	0
-mariann.kwiat	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	homepage.mac.com-mariann.kwiat.warc.gz	0
-mariann.kwiat	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	public.me.com-mariann.kwiat.warc.gz	0
-mariann.kwiat	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	web.me.com-mariann.kwiat.warc.gz	0
-vikingrob	gallery.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	gallery.me.com-vikingrob.warc.gz	0
-vikingrob	homepage.mac.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	homepage.mac.com-vikingrob.warc.gz	0
-vikingrob	public.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	public.me.com-vikingrob.warc.gz	0
-vikingrob	web.me.com		archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	web.me.com-vikingrob.warc.gz	0
+aguilars	gallery.me.com	2012-04-09 15:48:47	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	gallery.me.com-aguilars.warc.gz	285941985
+aguilars	homepage.mac.com	2012-04-09 15:48:50	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	homepage.mac.com-aguilars.warc.gz	104628
+aguilars	public.me.com	2012-04-09 15:39:52	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	public.me.com-aguilars.warc.gz	567200
+aguilars	web.me.com	2012-04-09 15:39:43	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	web.me.com-aguilars.warc.gz	1062010684
+c91854871	gallery.me.com	2012-04-09 15:54:32	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	gallery.me.com-c91854871.warc.gz	8356
+c91854871	homepage.mac.com	2012-04-09 15:54:32	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	homepage.mac.com-c91854871.warc.gz	5162
+c91854871	public.me.com	2012-04-09 15:54:31	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	public.me.com-c91854871.warc.gz	1919
+c91854871	web.me.com	2012-04-09 15:54:31	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	web.me.com-c91854871.warc.gz	17696
+ipopngraphics	gallery.me.com	2012-04-09 16:53:17	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	gallery.me.com-ipopngraphics.warc.gz	110459787
+ipopngraphics	homepage.mac.com	2012-04-09 16:53:18	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	homepage.mac.com-ipopngraphics.warc.gz	7863
+ipopngraphics	public.me.com	2012-04-09 16:50:47	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	public.me.com-ipopngraphics.warc.gz	3040823575
+ipopngraphics	web.me.com	2012-04-09 16:00:40	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	web.me.com-ipopngraphics.warc.gz	10978621
+jimodonnell	gallery.me.com	2012-04-09 15:59:33	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	gallery.me.com-jimodonnell.warc.gz	5134
+jimodonnell	homepage.mac.com	2012-04-09 15:59:34	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	homepage.mac.com-jimodonnell.warc.gz	4938
+jimodonnell	public.me.com	2012-04-09 15:59:33	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	public.me.com-jimodonnell.warc.gz	1929
+jimodonnell	web.me.com	2012-04-09 15:59:31	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	web.me.com-jimodonnell.warc.gz	636819959
+mariann.kwiat	gallery.me.com	2012-04-09 15:54:29	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	gallery.me.com-mariann.kwiat.warc.gz	271386849
+mariann.kwiat	homepage.mac.com	2012-04-09 15:54:29	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	homepage.mac.com-mariann.kwiat.warc.gz	4932
+mariann.kwiat	public.me.com	2012-04-09 15:52:45	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	public.me.com-mariann.kwiat.warc.gz	1927
+mariann.kwiat	web.me.com	2012-04-09 15:52:44	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	web.me.com-mariann.kwiat.warc.gz	13405199
+vikingrob	gallery.me.com	2012-04-09 15:51:47	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	gallery.me.com-vikingrob.warc.gz	268298332
+vikingrob	homepage.mac.com	2012-04-09 15:51:48	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	homepage.mac.com-vikingrob.warc.gz	4930
+vikingrob	public.me.com	2012-04-09 15:49:08	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	public.me.com-vikingrob.warc.gz	1917
+vikingrob	web.me.com	2012-04-09 15:49:07	archiveteam-mobileme-hero-555x	archiveteam-mobileme-hero-555x-5553.tar	web.me.com-vikingrob.warc.gz	654379

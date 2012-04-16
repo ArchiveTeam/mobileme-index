@@ -1,16 +1,16 @@
-fccalexandria	gallery.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	gallery.me.com-fccalexandria.warc.gz	0
-fccalexandria	homepage.mac.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	homepage.mac.com-fccalexandria.warc.gz	0
-fccalexandria	public.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	public.me.com-fccalexandria.warc.gz	0
-fccalexandria	web.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	web.me.com-fccalexandria.warc.gz	0
-georgejenne	gallery.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	gallery.me.com-georgejenne.warc.gz	0
-georgejenne	homepage.mac.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	homepage.mac.com-georgejenne.warc.gz	0
-georgejenne	public.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	public.me.com-georgejenne.warc.gz	0
-georgejenne	web.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	web.me.com-georgejenne.warc.gz	0
-shbakland	gallery.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	gallery.me.com-shbakland.warc.gz	0
-shbakland	homepage.mac.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	homepage.mac.com-shbakland.warc.gz	0
-shbakland	public.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	public.me.com-shbakland.warc.gz	0
-shbakland	web.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	web.me.com-shbakland.warc.gz	0
-ssmarta	gallery.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	gallery.me.com-ssmarta.warc.gz	0
-ssmarta	homepage.mac.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	homepage.mac.com-ssmarta.warc.gz	0
-ssmarta	public.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	public.me.com-ssmarta.warc.gz	0
-ssmarta	web.me.com		archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	web.me.com-ssmarta.warc.gz	0
+fccalexandria	gallery.me.com	2012-04-03 12:43:08	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	gallery.me.com-fccalexandria.warc.gz	5040
+fccalexandria	homepage.mac.com	2012-04-03 12:43:08	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	homepage.mac.com-fccalexandria.warc.gz	4914
+fccalexandria	public.me.com	2012-04-03 12:43:06	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	public.me.com-fccalexandria.warc.gz	1932
+fccalexandria	web.me.com	2012-04-03 12:42:53	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	web.me.com-fccalexandria.warc.gz	3133958830
+georgejenne	gallery.me.com	2012-04-03 10:57:35	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	gallery.me.com-georgejenne.warc.gz	4307
+georgejenne	homepage.mac.com	2012-04-03 10:57:35	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	homepage.mac.com-georgejenne.warc.gz	4911
+georgejenne	public.me.com	2012-04-03 10:57:34	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	public.me.com-georgejenne.warc.gz	69423474
+georgejenne	web.me.com	2012-04-03 10:54:33	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	web.me.com-georgejenne.warc.gz	17335226
+shbakland	gallery.me.com	2012-04-03 10:43:54	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	gallery.me.com-shbakland.warc.gz	2905366815
+shbakland	homepage.mac.com	2012-04-03 10:44:05	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	homepage.mac.com-shbakland.warc.gz	148626
+shbakland	public.me.com	2012-04-03 07:52:36	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	public.me.com-shbakland.warc.gz	1924
+shbakland	web.me.com	2012-04-03 07:52:34	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	web.me.com-shbakland.warc.gz	495799705
+ssmarta	gallery.me.com	2012-04-03 06:11:23	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	gallery.me.com-ssmarta.warc.gz	8331
+ssmarta	homepage.mac.com	2012-04-03 06:11:23	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	homepage.mac.com-ssmarta.warc.gz	5162
+ssmarta	public.me.com	2012-04-03 06:11:22	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	public.me.com-ssmarta.warc.gz	1912
+ssmarta	web.me.com	2012-04-03 06:11:21	archiveteam-mobileme-hero-342x	archiveteam-mobileme-hero-342x-3422.tar	web.me.com-ssmarta.warc.gz	17716

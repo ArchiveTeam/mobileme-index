@@ -1,24 +1,24 @@
-c1846441061	gallery.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	gallery.me.com-c1846441061.warc.gz	0
-c1846441061	homepage.mac.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	homepage.mac.com-c1846441061.warc.gz	0
-c1846441061	public.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	public.me.com-c1846441061.warc.gz	0
-c1846441061	web.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	web.me.com-c1846441061.warc.gz	0
-diesek	gallery.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	gallery.me.com-diesek.warc.gz	0
-diesek	homepage.mac.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	homepage.mac.com-diesek.warc.gz	0
-diesek	public.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	public.me.com-diesek.warc.gz	0
-diesek	web.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	web.me.com-diesek.warc.gz	0
-jason.long1	gallery.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	gallery.me.com-jason.long1.warc.gz	0
-jason.long1	homepage.mac.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	homepage.mac.com-jason.long1.warc.gz	0
-jason.long1	public.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	public.me.com-jason.long1.warc.gz	0
-jason.long1	web.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	web.me.com-jason.long1.warc.gz	0
-jflafitte	gallery.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	gallery.me.com-jflafitte.warc.gz	0
-jflafitte	homepage.mac.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	homepage.mac.com-jflafitte.warc.gz	0
-jflafitte	public.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	public.me.com-jflafitte.warc.gz	0
-jflafitte	web.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	web.me.com-jflafitte.warc.gz	0
-jordan.neenan	gallery.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	gallery.me.com-jordan.neenan.warc.gz	0
-jordan.neenan	homepage.mac.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	homepage.mac.com-jordan.neenan.warc.gz	0
-jordan.neenan	public.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	public.me.com-jordan.neenan.warc.gz	0
-jordan.neenan	web.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	web.me.com-jordan.neenan.warc.gz	0
-samuelholder	gallery.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	gallery.me.com-samuelholder.warc.gz	0
-samuelholder	homepage.mac.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	homepage.mac.com-samuelholder.warc.gz	0
-samuelholder	public.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	public.me.com-samuelholder.warc.gz	0
-samuelholder	web.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	web.me.com-samuelholder.warc.gz	0
+c1846441061	gallery.me.com	2012-04-06 20:53:59	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	gallery.me.com-c1846441061.warc.gz	8369
+c1846441061	homepage.mac.com	2012-04-06 20:54:00	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	homepage.mac.com-c1846441061.warc.gz	5179
+c1846441061	public.me.com	2012-04-06 20:53:59	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	public.me.com-c1846441061.warc.gz	1933
+c1846441061	web.me.com	2012-04-06 20:53:59	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	web.me.com-c1846441061.warc.gz	17701
+diesek	gallery.me.com	2012-04-06 20:53:57	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	gallery.me.com-diesek.warc.gz	8351
+diesek	homepage.mac.com	2012-04-06 20:53:57	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	homepage.mac.com-diesek.warc.gz	5147
+diesek	public.me.com	2012-04-06 20:53:57	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	public.me.com-diesek.warc.gz	1916
+diesek	web.me.com	2012-04-06 20:53:56	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	web.me.com-diesek.warc.gz	17646
+jason.long1	gallery.me.com	2012-04-06 20:01:39	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	gallery.me.com-jason.long1.warc.gz	12341
+jason.long1	homepage.mac.com	2012-04-06 20:01:39	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	homepage.mac.com-jason.long1.warc.gz	7157
+jason.long1	public.me.com	2012-04-06 20:01:38	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	public.me.com-jason.long1.warc.gz	1924
+jason.long1	web.me.com	2012-04-06 20:01:37	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	web.me.com-jason.long1.warc.gz	22536
+jflafitte	gallery.me.com	2012-04-06 20:53:55	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	gallery.me.com-jflafitte.warc.gz	667948850
+jflafitte	homepage.mac.com	2012-04-06 20:53:55	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	homepage.mac.com-jflafitte.warc.gz	4921
+jflafitte	public.me.com	2012-04-06 20:48:47	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	public.me.com-jflafitte.warc.gz	1914
+jflafitte	web.me.com	2012-04-06 20:48:47	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	web.me.com-jflafitte.warc.gz	29288892
+jordan.neenan	gallery.me.com	2012-04-06 20:45:30	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	gallery.me.com-jordan.neenan.warc.gz	2283827591
+jordan.neenan	homepage.mac.com	2012-04-06 20:45:31	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	homepage.mac.com-jordan.neenan.warc.gz	4905
+jordan.neenan	public.me.com	2012-04-06 20:07:13	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	public.me.com-jordan.neenan.warc.gz	57703718
+jordan.neenan	web.me.com	2012-04-06 20:06:59	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	web.me.com-jordan.neenan.warc.gz	42548201
+samuelholder	gallery.me.com	2012-04-06 22:09:06	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	gallery.me.com-samuelholder.warc.gz	1155089906
+samuelholder	homepage.mac.com	2012-04-06 22:09:06	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	homepage.mac.com-samuelholder.warc.gz	4927
+samuelholder	public.me.com	2012-04-06 21:55:57	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	public.me.com-samuelholder.warc.gz	3507614377
+samuelholder	web.me.com	2012-04-06 21:07:48	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4826.tar	web.me.com-samuelholder.warc.gz	167978088

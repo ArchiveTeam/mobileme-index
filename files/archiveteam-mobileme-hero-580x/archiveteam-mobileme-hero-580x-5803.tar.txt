@@ -1,8 +1,8 @@
-ggazel	gallery.me.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5803.tar	gallery.me.com-ggazel.warc.gz	0
-ggazel	homepage.mac.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5803.tar	homepage.mac.com-ggazel.warc.gz	0
-ggazel	public.me.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5803.tar	public.me.com-ggazel.warc.gz	0
-ggazel	web.me.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5803.tar	web.me.com-ggazel.warc.gz	0
-mkrejci51	gallery.me.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5803.tar	gallery.me.com-mkrejci51.warc.gz	0
-mkrejci51	homepage.mac.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5803.tar	homepage.mac.com-mkrejci51.warc.gz	0
-mkrejci51	public.me.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5803.tar	public.me.com-mkrejci51.warc.gz	0
-mkrejci51	web.me.com		archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5803.tar	web.me.com-mkrejci51.warc.gz	0
+ggazel	gallery.me.com	2012-04-10 04:55:09	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5803.tar	gallery.me.com-ggazel.warc.gz	1765564476
+ggazel	homepage.mac.com	2012-04-10 04:55:10	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5803.tar	homepage.mac.com-ggazel.warc.gz	4889
+ggazel	public.me.com	2012-04-10 03:03:06	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5803.tar	public.me.com-ggazel.warc.gz	1907
+ggazel	web.me.com	2012-04-10 03:01:55	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5803.tar	web.me.com-ggazel.warc.gz	392451216
+mkrejci51	gallery.me.com	2012-04-10 06:10:46	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5803.tar	gallery.me.com-mkrejci51.warc.gz	3716403181
+mkrejci51	homepage.mac.com	2012-04-10 06:10:51	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5803.tar	homepage.mac.com-mkrejci51.warc.gz	41306
+mkrejci51	public.me.com	2012-04-10 05:22:57	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5803.tar	public.me.com-mkrejci51.warc.gz	1919
+mkrejci51	web.me.com	2012-04-10 05:22:53	archiveteam-mobileme-hero-580x	archiveteam-mobileme-hero-580x-5803.tar	web.me.com-mkrejci51.warc.gz	719864075

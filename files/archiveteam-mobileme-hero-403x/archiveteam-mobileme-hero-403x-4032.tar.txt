@@ -1,16 +1,16 @@
-cordobatim	gallery.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	gallery.me.com-cordobatim.warc.gz	0
-cordobatim	homepage.mac.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	homepage.mac.com-cordobatim.warc.gz	0
-cordobatim	public.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	public.me.com-cordobatim.warc.gz	0
-cordobatim	web.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	web.me.com-cordobatim.warc.gz	0
-george.osuchukwu	gallery.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	gallery.me.com-george.osuchukwu.warc.gz	0
-george.osuchukwu	homepage.mac.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	homepage.mac.com-george.osuchukwu.warc.gz	0
-george.osuchukwu	public.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	public.me.com-george.osuchukwu.warc.gz	0
-george.osuchukwu	web.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	web.me.com-george.osuchukwu.warc.gz	0
-hartzelldeane	gallery.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	gallery.me.com-hartzelldeane.warc.gz	0
-hartzelldeane	homepage.mac.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	homepage.mac.com-hartzelldeane.warc.gz	0
-hartzelldeane	public.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	public.me.com-hartzelldeane.warc.gz	0
-hartzelldeane	web.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	web.me.com-hartzelldeane.warc.gz	0
-mrseitner	gallery.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	gallery.me.com-mrseitner.warc.gz	0
-mrseitner	homepage.mac.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	homepage.mac.com-mrseitner.warc.gz	0
-mrseitner	public.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	public.me.com-mrseitner.warc.gz	0
-mrseitner	web.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	web.me.com-mrseitner.warc.gz	0
+cordobatim	gallery.me.com	2012-04-04 22:03:02	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	gallery.me.com-cordobatim.warc.gz	12327
+cordobatim	homepage.mac.com	2012-04-04 22:03:03	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	homepage.mac.com-cordobatim.warc.gz	7136
+cordobatim	public.me.com	2012-04-04 22:03:01	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	public.me.com-cordobatim.warc.gz	1915
+cordobatim	web.me.com	2012-04-04 22:03:00	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	web.me.com-cordobatim.warc.gz	22468
+george.osuchukwu	gallery.me.com	2012-04-04 22:08:28	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	gallery.me.com-george.osuchukwu.warc.gz	446424075
+george.osuchukwu	homepage.mac.com	2012-04-04 22:08:29	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	homepage.mac.com-george.osuchukwu.warc.gz	4938
+george.osuchukwu	public.me.com	2012-04-04 22:03:59	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	public.me.com-george.osuchukwu.warc.gz	1931
+george.osuchukwu	web.me.com	2012-04-04 22:03:58	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	web.me.com-george.osuchukwu.warc.gz	2083077
+hartzelldeane	gallery.me.com	2012-04-05 01:43:03	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	gallery.me.com-hartzelldeane.warc.gz	308890639
+hartzelldeane	homepage.mac.com	2012-04-05 01:43:06	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	homepage.mac.com-hartzelldeane.warc.gz	72294
+hartzelldeane	public.me.com	2012-04-05 01:26:34	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	public.me.com-hartzelldeane.warc.gz	310614195
+hartzelldeane	web.me.com	2012-04-05 01:18:45	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	web.me.com-hartzelldeane.warc.gz	2905466074
+mrseitner	gallery.me.com	2012-04-05 00:16:53	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	gallery.me.com-mrseitner.warc.gz	3630387
+mrseitner	homepage.mac.com	2012-04-05 00:16:53	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	homepage.mac.com-mrseitner.warc.gz	4896
+mrseitner	public.me.com	2012-04-05 00:16:47	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	public.me.com-mrseitner.warc.gz	1918
+mrseitner	web.me.com	2012-04-05 00:16:39	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4032.tar	web.me.com-mrseitner.warc.gz	1086140978

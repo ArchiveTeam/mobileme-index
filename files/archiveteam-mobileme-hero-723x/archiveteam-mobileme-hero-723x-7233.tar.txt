@@ -1,12 +1,12 @@
-jpgiroux	gallery.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	gallery.me.com-jpgiroux.warc.gz	0
-jpgiroux	homepage.mac.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	homepage.mac.com-jpgiroux.warc.gz	0
-jpgiroux	public.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	public.me.com-jpgiroux.warc.gz	0
-jpgiroux	web.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	web.me.com-jpgiroux.warc.gz	0
-karel	gallery.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	gallery.me.com-karel.warc.gz	0
-karel	homepage.mac.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	homepage.mac.com-karel.warc.gz	0
-karel	public.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	public.me.com-karel.warc.gz	0
-karel	web.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	web.me.com-karel.warc.gz	0
-marklucas	gallery.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	gallery.me.com-marklucas.warc.gz	0
-marklucas	homepage.mac.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	homepage.mac.com-marklucas.warc.gz	0
-marklucas	public.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	public.me.com-marklucas.warc.gz	0
-marklucas	web.me.com		archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	web.me.com-marklucas.warc.gz	0
+jpgiroux	gallery.me.com	2012-04-13 07:50:00	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	gallery.me.com-jpgiroux.warc.gz	2104334027
+jpgiroux	homepage.mac.com	2012-04-13 07:50:14	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	homepage.mac.com-jpgiroux.warc.gz	1202913
+jpgiroux	public.me.com	2012-04-13 07:13:15	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	public.me.com-jpgiroux.warc.gz	1919
+jpgiroux	web.me.com	2012-04-13 07:13:11	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	web.me.com-jpgiroux.warc.gz	552510829
+karel	gallery.me.com	2012-04-13 09:35:55	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	gallery.me.com-karel.warc.gz	1108461810
+karel	homepage.mac.com	2012-04-13 09:35:59	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	homepage.mac.com-karel.warc.gz	197571
+karel	public.me.com	2012-04-13 09:11:56	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	public.me.com-karel.warc.gz	2206371650
+karel	web.me.com	2012-04-13 08:47:01	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	web.me.com-karel.warc.gz	985667088
+marklucas	gallery.me.com	2012-04-13 06:52:36	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	gallery.me.com-marklucas.warc.gz	4251
+marklucas	homepage.mac.com	2012-04-13 06:52:36	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	homepage.mac.com-marklucas.warc.gz	4910
+marklucas	public.me.com	2012-04-13 06:52:34	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	public.me.com-marklucas.warc.gz	1920
+marklucas	web.me.com	2012-04-13 06:52:33	archiveteam-mobileme-hero-723x	archiveteam-mobileme-hero-723x-7233.tar	web.me.com-marklucas.warc.gz	3317097

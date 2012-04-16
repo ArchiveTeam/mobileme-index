@@ -1,0 +1,16 @@
+blackcoach	gallery.me.com	2012-04-15 12:00:40	archiveteam-mobileme-hero-851x	archiveteam-mobileme-hero-851x-8513.tar	gallery.me.com-blackcoach.warc.gz	12333
+blackcoach	homepage.mac.com	2012-04-15 12:00:40	archiveteam-mobileme-hero-851x	archiveteam-mobileme-hero-851x-8513.tar	homepage.mac.com-blackcoach.warc.gz	7166
+blackcoach	public.me.com	2012-04-15 12:00:39	archiveteam-mobileme-hero-851x	archiveteam-mobileme-hero-851x-8513.tar	public.me.com-blackcoach.warc.gz	1923
+blackcoach	web.me.com	2012-04-15 12:00:39	archiveteam-mobileme-hero-851x	archiveteam-mobileme-hero-851x-8513.tar	web.me.com-blackcoach.warc.gz	22525
+lcdv	gallery.me.com	2012-04-15 12:03:12	archiveteam-mobileme-hero-851x	archiveteam-mobileme-hero-851x-8513.tar	gallery.me.com-lcdv.warc.gz	7152
+lcdv	homepage.mac.com	2012-04-15 12:03:12	archiveteam-mobileme-hero-851x	archiveteam-mobileme-hero-851x-8513.tar	homepage.mac.com-lcdv.warc.gz	4893
+lcdv	public.me.com	2012-04-15 12:03:11	archiveteam-mobileme-hero-851x	archiveteam-mobileme-hero-851x-8513.tar	public.me.com-lcdv.warc.gz	1904
+lcdv	web.me.com	2012-04-15 12:03:10	archiveteam-mobileme-hero-851x	archiveteam-mobileme-hero-851x-8513.tar	web.me.com-lcdv.warc.gz	7395710
+moirapost	gallery.me.com	2012-04-15 16:59:32	archiveteam-mobileme-hero-851x	archiveteam-mobileme-hero-851x-8513.tar	gallery.me.com-moirapost.warc.gz	4433438733
+moirapost	homepage.mac.com	2012-04-15 16:59:49	archiveteam-mobileme-hero-851x	archiveteam-mobileme-hero-851x-8513.tar	homepage.mac.com-moirapost.warc.gz	208807
+moirapost	public.me.com	2012-04-15 15:58:22	archiveteam-mobileme-hero-851x	archiveteam-mobileme-hero-851x-8513.tar	public.me.com-moirapost.warc.gz	1916
+moirapost	web.me.com	2012-04-15 15:57:41	archiveteam-mobileme-hero-851x	archiveteam-mobileme-hero-851x-8513.tar	web.me.com-moirapost.warc.gz	2559607104
+sahera	gallery.me.com	2012-04-15 12:00:27	archiveteam-mobileme-hero-851x	archiveteam-mobileme-hero-851x-8513.tar	gallery.me.com-sahera.warc.gz	111081733
+sahera	homepage.mac.com	2012-04-15 12:00:33	archiveteam-mobileme-hero-851x	archiveteam-mobileme-hero-851x-8513.tar	homepage.mac.com-sahera.warc.gz	132265
+sahera	public.me.com	2012-04-15 11:57:02	archiveteam-mobileme-hero-851x	archiveteam-mobileme-hero-851x-8513.tar	public.me.com-sahera.warc.gz	1913
+sahera	web.me.com	2012-04-15 11:57:00	archiveteam-mobileme-hero-851x	archiveteam-mobileme-hero-851x-8513.tar	web.me.com-sahera.warc.gz	138863805

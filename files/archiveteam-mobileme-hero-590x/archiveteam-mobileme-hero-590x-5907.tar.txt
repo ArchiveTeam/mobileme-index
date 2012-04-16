@@ -1,8 +1,8 @@
-aureofiore	gallery.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5907.tar	gallery.me.com-aureofiore.warc.gz	0
-aureofiore	homepage.mac.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5907.tar	homepage.mac.com-aureofiore.warc.gz	0
-aureofiore	public.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5907.tar	public.me.com-aureofiore.warc.gz	0
-aureofiore	web.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5907.tar	web.me.com-aureofiore.warc.gz	0
-c939037033	gallery.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5907.tar	gallery.me.com-c939037033.warc.gz	0
-c939037033	homepage.mac.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5907.tar	homepage.mac.com-c939037033.warc.gz	0
-c939037033	public.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5907.tar	public.me.com-c939037033.warc.gz	0
-c939037033	web.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5907.tar	web.me.com-c939037033.warc.gz	0
+aureofiore	gallery.me.com	2012-04-10 11:21:04	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5907.tar	gallery.me.com-aureofiore.warc.gz	3673990875
+aureofiore	homepage.mac.com	2012-04-10 11:21:05	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5907.tar	homepage.mac.com-aureofiore.warc.gz	4928
+aureofiore	public.me.com	2012-04-10 10:42:27	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5907.tar	public.me.com-aureofiore.warc.gz	1917
+aureofiore	web.me.com	2012-04-10 10:41:29	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5907.tar	web.me.com-aureofiore.warc.gz	2457948082
+c939037033	gallery.me.com	2012-04-10 09:34:36	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5907.tar	gallery.me.com-c939037033.warc.gz	8358
+c939037033	homepage.mac.com	2012-04-10 09:34:36	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5907.tar	homepage.mac.com-c939037033.warc.gz	5164
+c939037033	public.me.com	2012-04-10 09:34:35	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5907.tar	public.me.com-c939037033.warc.gz	1927
+c939037033	web.me.com	2012-04-10 09:34:34	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5907.tar	web.me.com-c939037033.warc.gz	17766

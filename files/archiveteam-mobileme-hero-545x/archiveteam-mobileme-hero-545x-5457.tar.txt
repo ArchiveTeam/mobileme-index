@@ -1,12 +1,12 @@
-ccvideography	gallery.me.com		archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	gallery.me.com-ccvideography.warc.gz	0
-ccvideography	homepage.mac.com		archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	homepage.mac.com-ccvideography.warc.gz	0
-ccvideography	public.me.com		archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	public.me.com-ccvideography.warc.gz	0
-ccvideography	web.me.com		archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	web.me.com-ccvideography.warc.gz	0
-dragonfli_x	gallery.me.com		archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	gallery.me.com-dragonfli_x.warc.gz	0
-dragonfli_x	homepage.mac.com		archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	homepage.mac.com-dragonfli_x.warc.gz	0
-dragonfli_x	public.me.com		archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	public.me.com-dragonfli_x.warc.gz	0
-dragonfli_x	web.me.com		archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	web.me.com-dragonfli_x.warc.gz	0
-eric_bossieux	gallery.me.com		archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	gallery.me.com-eric_bossieux.warc.gz	0
-eric_bossieux	homepage.mac.com		archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	homepage.mac.com-eric_bossieux.warc.gz	0
-eric_bossieux	public.me.com		archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	public.me.com-eric_bossieux.warc.gz	0
-eric_bossieux	web.me.com		archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	web.me.com-eric_bossieux.warc.gz	0
+ccvideography	gallery.me.com	2012-04-09 11:20:29	archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	gallery.me.com-ccvideography.warc.gz	1508957975
+ccvideography	homepage.mac.com	2012-04-09 11:20:32	archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	homepage.mac.com-ccvideography.warc.gz	215202
+ccvideography	public.me.com	2012-04-09 11:07:08	archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	public.me.com-ccvideography.warc.gz	1930
+ccvideography	web.me.com	2012-04-09 11:07:02	archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	web.me.com-ccvideography.warc.gz	4004238326
+dragonfli_x	gallery.me.com	2012-04-09 09:57:33	archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	gallery.me.com-dragonfli_x.warc.gz	17273556
+dragonfli_x	homepage.mac.com	2012-04-09 09:59:28	archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	homepage.mac.com-dragonfli_x.warc.gz	1648667
+dragonfli_x	public.me.com	2012-04-09 09:57:19	archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	public.me.com-dragonfli_x.warc.gz	43047120
+dragonfli_x	web.me.com	2012-04-09 09:56:13	archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	web.me.com-dragonfli_x.warc.gz	17983814
+eric_bossieux	gallery.me.com	2012-04-09 10:07:50	archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	gallery.me.com-eric_bossieux.warc.gz	15959432
+eric_bossieux	homepage.mac.com	2012-04-09 10:08:02	archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	homepage.mac.com-eric_bossieux.warc.gz	179930
+eric_bossieux	public.me.com	2012-04-09 10:07:41	archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	public.me.com-eric_bossieux.warc.gz	32707
+eric_bossieux	web.me.com	2012-04-09 10:07:40	archiveteam-mobileme-hero-545x	archiveteam-mobileme-hero-545x-5457.tar	web.me.com-eric_bossieux.warc.gz	34510566

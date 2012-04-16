@@ -1,12 +1,12 @@
-akmenico1	gallery.me.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	gallery.me.com-akmenico1.warc.gz	0
-akmenico1	homepage.mac.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	homepage.mac.com-akmenico1.warc.gz	0
-akmenico1	public.me.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	public.me.com-akmenico1.warc.gz	0
-akmenico1	web.me.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	web.me.com-akmenico1.warc.gz	0
-in2bohemian	gallery.me.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	gallery.me.com-in2bohemian.warc.gz	0
-in2bohemian	homepage.mac.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	homepage.mac.com-in2bohemian.warc.gz	0
-in2bohemian	public.me.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	public.me.com-in2bohemian.warc.gz	0
-in2bohemian	web.me.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	web.me.com-in2bohemian.warc.gz	0
-pinkribbontennis	gallery.me.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	gallery.me.com-pinkribbontennis.warc.gz	0
-pinkribbontennis	homepage.mac.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	homepage.mac.com-pinkribbontennis.warc.gz	0
-pinkribbontennis	public.me.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	public.me.com-pinkribbontennis.warc.gz	0
-pinkribbontennis	web.me.com		archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	web.me.com-pinkribbontennis.warc.gz	0
+akmenico1	gallery.me.com	2012-04-13 09:47:03	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	gallery.me.com-akmenico1.warc.gz	5134
+akmenico1	homepage.mac.com	2012-04-13 09:47:04	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	homepage.mac.com-akmenico1.warc.gz	9407
+akmenico1	public.me.com	2012-04-13 09:47:02	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	public.me.com-akmenico1.warc.gz	29267
+akmenico1	web.me.com	2012-04-13 09:46:36	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	web.me.com-akmenico1.warc.gz	1961687855
+in2bohemian	gallery.me.com	2012-04-13 09:55:27	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	gallery.me.com-in2bohemian.warc.gz	9615085
+in2bohemian	homepage.mac.com	2012-04-13 09:55:27	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	homepage.mac.com-in2bohemian.warc.gz	4934
+in2bohemian	public.me.com	2012-04-13 09:55:21	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	public.me.com-in2bohemian.warc.gz	3348
+in2bohemian	web.me.com	2012-04-13 09:55:20	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	web.me.com-in2bohemian.warc.gz	160737838
+pinkribbontennis	gallery.me.com	2012-04-13 10:48:55	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	gallery.me.com-pinkribbontennis.warc.gz	2637871355
+pinkribbontennis	homepage.mac.com	2012-04-13 10:48:55	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	homepage.mac.com-pinkribbontennis.warc.gz	4932
+pinkribbontennis	public.me.com	2012-04-13 10:02:53	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	public.me.com-pinkribbontennis.warc.gz	1926
+pinkribbontennis	web.me.com	2012-04-13 10:02:53	archiveteam-mobileme-hero-727x	archiveteam-mobileme-hero-727x-7271.tar	web.me.com-pinkribbontennis.warc.gz	84568142

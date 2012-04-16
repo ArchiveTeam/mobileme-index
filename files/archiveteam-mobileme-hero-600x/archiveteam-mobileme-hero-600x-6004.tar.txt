@@ -1,8 +1,8 @@
-opera_01	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6004.tar	gallery.me.com-opera_01.warc.gz	0
-opera_01	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6004.tar	homepage.mac.com-opera_01.warc.gz	0
-opera_01	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6004.tar	public.me.com-opera_01.warc.gz	0
-opera_01	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6004.tar	web.me.com-opera_01.warc.gz	0
-yusukeman_returns	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6004.tar	gallery.me.com-yusukeman_returns.warc.gz	0
-yusukeman_returns	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6004.tar	homepage.mac.com-yusukeman_returns.warc.gz	0
-yusukeman_returns	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6004.tar	public.me.com-yusukeman_returns.warc.gz	0
-yusukeman_returns	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6004.tar	web.me.com-yusukeman_returns.warc.gz	0
+opera_01	gallery.me.com	2012-04-10 16:35:17	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6004.tar	gallery.me.com-opera_01.warc.gz	5082048546
+opera_01	homepage.mac.com	2012-04-10 16:35:19	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6004.tar	homepage.mac.com-opera_01.warc.gz	71328
+opera_01	public.me.com	2012-04-10 14:18:18	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6004.tar	public.me.com-opera_01.warc.gz	1911
+opera_01	web.me.com	2012-04-10 14:18:17	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6004.tar	web.me.com-opera_01.warc.gz	53136333
+yusukeman_returns	gallery.me.com	2012-04-10 14:00:02	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6004.tar	gallery.me.com-yusukeman_returns.warc.gz	56250875
+yusukeman_returns	homepage.mac.com	2012-04-10 14:00:03	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6004.tar	homepage.mac.com-yusukeman_returns.warc.gz	4955
+yusukeman_returns	public.me.com	2012-04-10 13:58:01	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6004.tar	public.me.com-yusukeman_returns.warc.gz	1935
+yusukeman_returns	web.me.com	2012-04-10 13:58:00	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6004.tar	web.me.com-yusukeman_returns.warc.gz	52284128

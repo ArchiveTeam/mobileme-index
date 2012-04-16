@@ -1,32 +1,32 @@
-aalder	gallery.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	gallery.me.com-aalder.warc.gz	0
-aalder	homepage.mac.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	homepage.mac.com-aalder.warc.gz	0
-aalder	public.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	public.me.com-aalder.warc.gz	0
-aalder	web.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	web.me.com-aalder.warc.gz	0
-ajhanson	gallery.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	gallery.me.com-ajhanson.warc.gz	0
-ajhanson	homepage.mac.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	homepage.mac.com-ajhanson.warc.gz	0
-ajhanson	public.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	public.me.com-ajhanson.warc.gz	0
-ajhanson	web.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	web.me.com-ajhanson.warc.gz	0
-apb	gallery.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	gallery.me.com-apb.warc.gz	0
-apb	homepage.mac.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	homepage.mac.com-apb.warc.gz	0
-apb	public.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	public.me.com-apb.warc.gz	0
-apb	web.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	web.me.com-apb.warc.gz	0
-customcowbells	gallery.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	gallery.me.com-customcowbells.warc.gz	0
-customcowbells	homepage.mac.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	homepage.mac.com-customcowbells.warc.gz	0
-customcowbells	public.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	public.me.com-customcowbells.warc.gz	0
-customcowbells	web.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	web.me.com-customcowbells.warc.gz	0
-eagle2904	gallery.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	gallery.me.com-eagle2904.warc.gz	0
-eagle2904	homepage.mac.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	homepage.mac.com-eagle2904.warc.gz	0
-eagle2904	public.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	public.me.com-eagle2904.warc.gz	0
-eagle2904	web.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	web.me.com-eagle2904.warc.gz	0
-jdeniston	gallery.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	gallery.me.com-jdeniston.warc.gz	0
-jdeniston	homepage.mac.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	homepage.mac.com-jdeniston.warc.gz	0
-jdeniston	public.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	public.me.com-jdeniston.warc.gz	0
-jdeniston	web.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	web.me.com-jdeniston.warc.gz	0
-mifflins	gallery.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	gallery.me.com-mifflins.warc.gz	0
-mifflins	homepage.mac.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	homepage.mac.com-mifflins.warc.gz	0
-mifflins	public.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	public.me.com-mifflins.warc.gz	0
-mifflins	web.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	web.me.com-mifflins.warc.gz	0
-wasajock	gallery.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	gallery.me.com-wasajock.warc.gz	0
-wasajock	homepage.mac.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	homepage.mac.com-wasajock.warc.gz	0
-wasajock	public.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	public.me.com-wasajock.warc.gz	0
-wasajock	web.me.com		archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	web.me.com-wasajock.warc.gz	0
+aalder	gallery.me.com	2012-04-10 11:05:55	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	gallery.me.com-aalder.warc.gz	3748164255
+aalder	homepage.mac.com	2012-04-10 11:05:55	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	homepage.mac.com-aalder.warc.gz	4900
+aalder	public.me.com	2012-04-10 10:15:41	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	public.me.com-aalder.warc.gz	3435726
+aalder	web.me.com	2012-04-10 10:15:37	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	web.me.com-aalder.warc.gz	265631309
+ajhanson	gallery.me.com	2012-04-10 09:57:23	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	gallery.me.com-ajhanson.warc.gz	5893
+ajhanson	homepage.mac.com	2012-04-10 09:57:24	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	homepage.mac.com-ajhanson.warc.gz	4908
+ajhanson	public.me.com	2012-04-10 09:57:22	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	public.me.com-ajhanson.warc.gz	1910
+ajhanson	web.me.com	2012-04-10 09:57:22	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	web.me.com-ajhanson.warc.gz	122253433
+apb	gallery.me.com	2012-04-10 10:00:48	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	gallery.me.com-apb.warc.gz	12301
+apb	homepage.mac.com	2012-04-10 10:00:52	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	homepage.mac.com-apb.warc.gz	7127
+apb	public.me.com	2012-04-10 10:00:45	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	public.me.com-apb.warc.gz	1899
+apb	web.me.com	2012-04-10 10:00:44	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	web.me.com-apb.warc.gz	22369
+customcowbells	gallery.me.com	2012-04-10 09:43:50	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	gallery.me.com-customcowbells.warc.gz	8364
+customcowbells	homepage.mac.com	2012-04-10 09:43:50	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	homepage.mac.com-customcowbells.warc.gz	5204
+customcowbells	public.me.com	2012-04-10 09:43:49	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	public.me.com-customcowbells.warc.gz	1929
+customcowbells	web.me.com	2012-04-10 09:43:49	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	web.me.com-customcowbells.warc.gz	17701
+eagle2904	gallery.me.com	2012-04-10 09:43:45	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	gallery.me.com-eagle2904.warc.gz	8346
+eagle2904	homepage.mac.com	2012-04-10 09:43:45	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	homepage.mac.com-eagle2904.warc.gz	5179
+eagle2904	public.me.com	2012-04-10 09:43:44	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	public.me.com-eagle2904.warc.gz	1915
+eagle2904	web.me.com	2012-04-10 09:43:44	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	web.me.com-eagle2904.warc.gz	17645
+jdeniston	gallery.me.com	2012-04-10 09:43:47	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	gallery.me.com-jdeniston.warc.gz	8335
+jdeniston	homepage.mac.com	2012-04-10 09:43:47	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	homepage.mac.com-jdeniston.warc.gz	5158
+jdeniston	public.me.com	2012-04-10 09:43:46	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	public.me.com-jdeniston.warc.gz	1915
+jdeniston	web.me.com	2012-04-10 09:43:46	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	web.me.com-jdeniston.warc.gz	17670
+mifflins	gallery.me.com	2012-04-10 10:00:39	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	gallery.me.com-mifflins.warc.gz	5826
+mifflins	homepage.mac.com	2012-04-10 10:00:39	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	homepage.mac.com-mifflins.warc.gz	4906
+mifflins	public.me.com	2012-04-10 10:00:38	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	public.me.com-mifflins.warc.gz	1913
+mifflins	web.me.com	2012-04-10 10:00:37	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	web.me.com-mifflins.warc.gz	89683520
+wasajock	gallery.me.com	2012-04-10 09:47:15	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	gallery.me.com-wasajock.warc.gz	5841820
+wasajock	homepage.mac.com	2012-04-10 09:47:15	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	homepage.mac.com-wasajock.warc.gz	4910
+wasajock	public.me.com	2012-04-10 09:47:05	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	public.me.com-wasajock.warc.gz	1921
+wasajock	web.me.com	2012-04-10 09:47:04	archiveteam-mobileme-hero-590x	archiveteam-mobileme-hero-590x-5901.tar	web.me.com-wasajock.warc.gz	171942515

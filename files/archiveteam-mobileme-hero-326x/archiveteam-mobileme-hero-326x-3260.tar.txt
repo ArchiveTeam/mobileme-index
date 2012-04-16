@@ -1,16 +1,16 @@
-allan_sampson	gallery.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	gallery.me.com-allan_sampson.warc.gz	0
-allan_sampson	homepage.mac.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	homepage.mac.com-allan_sampson.warc.gz	0
-allan_sampson	public.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	public.me.com-allan_sampson.warc.gz	0
-allan_sampson	web.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	web.me.com-allan_sampson.warc.gz	0
-jugkuro	gallery.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	gallery.me.com-jugkuro.warc.gz	0
-jugkuro	homepage.mac.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	homepage.mac.com-jugkuro.warc.gz	0
-jugkuro	public.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	public.me.com-jugkuro.warc.gz	0
-jugkuro	web.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	web.me.com-jugkuro.warc.gz	0
-kennyjohnston	gallery.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	gallery.me.com-kennyjohnston.warc.gz	0
-kennyjohnston	homepage.mac.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	homepage.mac.com-kennyjohnston.warc.gz	0
-kennyjohnston	public.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	public.me.com-kennyjohnston.warc.gz	0
-kennyjohnston	web.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	web.me.com-kennyjohnston.warc.gz	0
-rlewis01	gallery.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	gallery.me.com-rlewis01.warc.gz	0
-rlewis01	homepage.mac.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	homepage.mac.com-rlewis01.warc.gz	0
-rlewis01	public.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	public.me.com-rlewis01.warc.gz	0
-rlewis01	web.me.com		archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	web.me.com-rlewis01.warc.gz	0
+allan_sampson	gallery.me.com	2012-04-03 06:04:46	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	gallery.me.com-allan_sampson.warc.gz	1189401567
+allan_sampson	homepage.mac.com	2012-04-03 06:04:50	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	homepage.mac.com-allan_sampson.warc.gz	81038
+allan_sampson	public.me.com	2012-04-03 05:35:39	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	public.me.com-allan_sampson.warc.gz	1928
+allan_sampson	web.me.com	2012-04-03 05:35:37	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	web.me.com-allan_sampson.warc.gz	1593835863
+jugkuro	gallery.me.com	2012-04-03 04:27:07	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	gallery.me.com-jugkuro.warc.gz	280966
+jugkuro	homepage.mac.com	2012-04-03 04:27:07	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	homepage.mac.com-jugkuro.warc.gz	4902
+jugkuro	public.me.com	2012-04-03 04:27:03	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	public.me.com-jugkuro.warc.gz	1915
+jugkuro	web.me.com	2012-04-03 04:27:02	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	web.me.com-jugkuro.warc.gz	14667600
+kennyjohnston	gallery.me.com	2012-04-03 04:21:55	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	gallery.me.com-kennyjohnston.warc.gz	491903323
+kennyjohnston	homepage.mac.com	2012-04-03 04:21:55	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	homepage.mac.com-kennyjohnston.warc.gz	4924
+kennyjohnston	public.me.com	2012-04-03 04:09:59	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	public.me.com-kennyjohnston.warc.gz	1929
+kennyjohnston	web.me.com	2012-04-03 04:09:58	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	web.me.com-kennyjohnston.warc.gz	1340116416
+rlewis01	gallery.me.com	2012-04-03 04:27:11	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	gallery.me.com-rlewis01.warc.gz	8354
+rlewis01	homepage.mac.com	2012-04-03 04:27:11	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	homepage.mac.com-rlewis01.warc.gz	5158
+rlewis01	public.me.com	2012-04-03 04:27:10	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	public.me.com-rlewis01.warc.gz	1921
+rlewis01	web.me.com	2012-04-03 04:27:10	archiveteam-mobileme-hero-326x	archiveteam-mobileme-hero-326x-3260.tar	web.me.com-rlewis01.warc.gz	17692

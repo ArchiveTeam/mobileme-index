@@ -1,8 +1,8 @@
-groups.fbcvpstudent	gallery.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5795.tar	gallery.me.com-groups.fbcvpstudent.warc.gz	0
-groups.fbcvpstudent	homepage.mac.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5795.tar	homepage.mac.com-groups.fbcvpstudent.warc.gz	0
-groups.fbcvpstudent	public.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5795.tar	public.me.com-groups.fbcvpstudent.warc.gz	0
-groups.fbcvpstudent	web.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5795.tar	web.me.com-groups.fbcvpstudent.warc.gz	0
-jasonsands	gallery.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5795.tar	gallery.me.com-jasonsands.warc.gz	0
-jasonsands	homepage.mac.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5795.tar	homepage.mac.com-jasonsands.warc.gz	0
-jasonsands	public.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5795.tar	public.me.com-jasonsands.warc.gz	0
-jasonsands	web.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5795.tar	web.me.com-jasonsands.warc.gz	0
+groups.fbcvpstudent	gallery.me.com	2012-04-10 02:48:21	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5795.tar	gallery.me.com-groups.fbcvpstudent.warc.gz	8402
+groups.fbcvpstudent	homepage.mac.com	2012-04-10 02:48:21	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5795.tar	homepage.mac.com-groups.fbcvpstudent.warc.gz	5200
+groups.fbcvpstudent	public.me.com	2012-04-10 02:48:17	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5795.tar	public.me.com-groups.fbcvpstudent.warc.gz	1944
+groups.fbcvpstudent	web.me.com	2012-04-10 02:48:17	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5795.tar	web.me.com-groups.fbcvpstudent.warc.gz	17810
+jasonsands	gallery.me.com	2012-04-10 05:55:04	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5795.tar	gallery.me.com-jasonsands.warc.gz	1918914904
+jasonsands	homepage.mac.com	2012-04-10 05:56:16	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5795.tar	homepage.mac.com-jasonsands.warc.gz	793139
+jasonsands	public.me.com	2012-04-10 05:40:32	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5795.tar	public.me.com-jasonsands.warc.gz	575230873
+jasonsands	web.me.com	2012-04-10 05:18:12	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5795.tar	web.me.com-jasonsands.warc.gz	3674495418

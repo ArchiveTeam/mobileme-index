@@ -1,12 +1,12 @@
-kansai_trans_coop	gallery.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	gallery.me.com-kansai_trans_coop.warc.gz	0
-kansai_trans_coop	homepage.mac.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	homepage.mac.com-kansai_trans_coop.warc.gz	0
-kansai_trans_coop	public.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	public.me.com-kansai_trans_coop.warc.gz	0
-kansai_trans_coop	web.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	web.me.com-kansai_trans_coop.warc.gz	0
-rawiklund	gallery.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	gallery.me.com-rawiklund.warc.gz	0
-rawiklund	homepage.mac.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	homepage.mac.com-rawiklund.warc.gz	0
-rawiklund	public.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	public.me.com-rawiklund.warc.gz	0
-rawiklund	web.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	web.me.com-rawiklund.warc.gz	0
-richerview	gallery.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	gallery.me.com-richerview.warc.gz	0
-richerview	homepage.mac.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	homepage.mac.com-richerview.warc.gz	0
-richerview	public.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	public.me.com-richerview.warc.gz	0
-richerview	web.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	web.me.com-richerview.warc.gz	0
+kansai_trans_coop	gallery.me.com	2012-04-10 16:05:45	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	gallery.me.com-kansai_trans_coop.warc.gz	12353
+kansai_trans_coop	homepage.mac.com	2012-04-10 16:05:45	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	homepage.mac.com-kansai_trans_coop.warc.gz	7166
+kansai_trans_coop	public.me.com	2012-04-10 16:05:44	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	public.me.com-kansai_trans_coop.warc.gz	1942
+kansai_trans_coop	web.me.com	2012-04-10 16:05:44	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	web.me.com-kansai_trans_coop.warc.gz	22519
+rawiklund	gallery.me.com	2012-04-10 19:16:18	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	gallery.me.com-rawiklund.warc.gz	4326452863
+rawiklund	homepage.mac.com	2012-04-10 19:16:19	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	homepage.mac.com-rawiklund.warc.gz	4900
+rawiklund	public.me.com	2012-04-10 17:08:50	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	public.me.com-rawiklund.warc.gz	782626
+rawiklund	web.me.com	2012-04-10 17:08:39	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	web.me.com-rawiklund.warc.gz	503401557
+richerview	gallery.me.com	2012-04-10 16:05:42	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	gallery.me.com-richerview.warc.gz	995336503
+richerview	homepage.mac.com	2012-04-10 16:05:42	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	homepage.mac.com-richerview.warc.gz	4918
+richerview	public.me.com	2012-04-10 15:46:39	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	public.me.com-richerview.warc.gz	333107962
+richerview	web.me.com	2012-04-10 15:43:05	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6048.tar	web.me.com-richerview.warc.gz	98343826

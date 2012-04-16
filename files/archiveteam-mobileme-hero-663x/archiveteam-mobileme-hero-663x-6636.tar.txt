@@ -1,8 +1,8 @@
-johnejames	gallery.me.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6636.tar	gallery.me.com-johnejames.warc.gz	0
-johnejames	homepage.mac.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6636.tar	homepage.mac.com-johnejames.warc.gz	0
-johnejames	public.me.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6636.tar	public.me.com-johnejames.warc.gz	0
-johnejames	web.me.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6636.tar	web.me.com-johnejames.warc.gz	0
-majordadusma	gallery.me.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6636.tar	gallery.me.com-majordadusma.warc.gz	0
-majordadusma	homepage.mac.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6636.tar	homepage.mac.com-majordadusma.warc.gz	0
-majordadusma	public.me.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6636.tar	public.me.com-majordadusma.warc.gz	0
-majordadusma	web.me.com		archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6636.tar	web.me.com-majordadusma.warc.gz	0
+johnejames	gallery.me.com	2012-04-12 06:20:17	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6636.tar	gallery.me.com-johnejames.warc.gz	7796789903
+johnejames	homepage.mac.com	2012-04-12 06:20:17	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6636.tar	homepage.mac.com-johnejames.warc.gz	4926
+johnejames	public.me.com	2012-04-12 02:31:09	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6636.tar	public.me.com-johnejames.warc.gz	1606075
+johnejames	web.me.com	2012-04-12 02:31:01	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6636.tar	web.me.com-johnejames.warc.gz	67046438
+majordadusma	gallery.me.com	2012-04-12 02:14:12	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6636.tar	gallery.me.com-majordadusma.warc.gz	4279
+majordadusma	homepage.mac.com	2012-04-12 02:14:54	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6636.tar	homepage.mac.com-majordadusma.warc.gz	2506225
+majordadusma	public.me.com	2012-04-12 02:14:11	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6636.tar	public.me.com-majordadusma.warc.gz	24821702
+majordadusma	web.me.com	2012-04-12 02:13:32	archiveteam-mobileme-hero-663x	archiveteam-mobileme-hero-663x-6636.tar	web.me.com-majordadusma.warc.gz	1167890

@@ -1,16 +1,16 @@
-cjbannocks	gallery.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	gallery.me.com-cjbannocks.warc.gz	0
-cjbannocks	homepage.mac.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	homepage.mac.com-cjbannocks.warc.gz	0
-cjbannocks	public.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	public.me.com-cjbannocks.warc.gz	0
-cjbannocks	web.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	web.me.com-cjbannocks.warc.gz	0
-socrystalclear	gallery.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	gallery.me.com-socrystalclear.warc.gz	0
-socrystalclear	homepage.mac.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	homepage.mac.com-socrystalclear.warc.gz	0
-socrystalclear	public.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	public.me.com-socrystalclear.warc.gz	0
-socrystalclear	web.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	web.me.com-socrystalclear.warc.gz	0
-stephenalevin	gallery.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	gallery.me.com-stephenalevin.warc.gz	0
-stephenalevin	homepage.mac.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	homepage.mac.com-stephenalevin.warc.gz	0
-stephenalevin	public.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	public.me.com-stephenalevin.warc.gz	0
-stephenalevin	web.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	web.me.com-stephenalevin.warc.gz	0
-typedrawer	gallery.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	gallery.me.com-typedrawer.warc.gz	0
-typedrawer	homepage.mac.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	homepage.mac.com-typedrawer.warc.gz	0
-typedrawer	public.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	public.me.com-typedrawer.warc.gz	0
-typedrawer	web.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	web.me.com-typedrawer.warc.gz	0
+cjbannocks	gallery.me.com	2012-04-07 13:29:43	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	gallery.me.com-cjbannocks.warc.gz	5182
+cjbannocks	homepage.mac.com	2012-04-07 13:29:43	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	homepage.mac.com-cjbannocks.warc.gz	4927
+cjbannocks	public.me.com	2012-04-07 13:29:42	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	public.me.com-cjbannocks.warc.gz	28172978
+cjbannocks	web.me.com	2012-04-07 13:29:17	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	web.me.com-cjbannocks.warc.gz	5818842
+socrystalclear	gallery.me.com	2012-04-07 19:30:54	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	gallery.me.com-socrystalclear.warc.gz	7795301308
+socrystalclear	homepage.mac.com	2012-04-07 19:30:55	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	homepage.mac.com-socrystalclear.warc.gz	4941
+socrystalclear	public.me.com	2012-04-07 14:19:00	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	public.me.com-socrystalclear.warc.gz	1924
+socrystalclear	web.me.com	2012-04-07 14:19:00	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	web.me.com-socrystalclear.warc.gz	167364762
+stephenalevin	gallery.me.com	2012-04-07 13:37:09	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	gallery.me.com-stephenalevin.warc.gz	5326
+stephenalevin	homepage.mac.com	2012-04-07 13:37:09	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	homepage.mac.com-stephenalevin.warc.gz	4928
+stephenalevin	public.me.com	2012-04-07 13:37:06	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	public.me.com-stephenalevin.warc.gz	1928
+stephenalevin	web.me.com	2012-04-07 13:37:05	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	web.me.com-stephenalevin.warc.gz	15291239
+typedrawer	gallery.me.com	2012-04-07 13:27:23	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	gallery.me.com-typedrawer.warc.gz	8350
+typedrawer	homepage.mac.com	2012-04-07 13:27:23	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	homepage.mac.com-typedrawer.warc.gz	5154
+typedrawer	public.me.com	2012-04-07 13:27:22	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	public.me.com-typedrawer.warc.gz	1920
+typedrawer	web.me.com	2012-04-07 13:27:21	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4938.tar	web.me.com-typedrawer.warc.gz	17720

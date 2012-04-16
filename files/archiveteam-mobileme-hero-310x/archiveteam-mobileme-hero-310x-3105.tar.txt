@@ -1,12 +1,12 @@
-dipa	gallery.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	gallery.me.com-dipa.warc.gz	0
-dipa	homepage.mac.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	homepage.mac.com-dipa.warc.gz	0
-dipa	public.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	public.me.com-dipa.warc.gz	0
-dipa	web.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	web.me.com-dipa.warc.gz	0
-eforslin	gallery.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	gallery.me.com-eforslin.warc.gz	0
-eforslin	homepage.mac.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	homepage.mac.com-eforslin.warc.gz	0
-eforslin	public.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	public.me.com-eforslin.warc.gz	0
-eforslin	web.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	web.me.com-eforslin.warc.gz	0
-erp3084	gallery.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	gallery.me.com-erp3084.warc.gz	0
-erp3084	homepage.mac.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	homepage.mac.com-erp3084.warc.gz	0
-erp3084	public.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	public.me.com-erp3084.warc.gz	0
-erp3084	web.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	web.me.com-erp3084.warc.gz	0
+dipa	gallery.me.com	2012-04-02 17:52:46	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	gallery.me.com-dipa.warc.gz	21845930
+dipa	homepage.mac.com	2012-04-02 17:52:46	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	homepage.mac.com-dipa.warc.gz	4898
+dipa	public.me.com	2012-04-02 17:52:15	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	public.me.com-dipa.warc.gz	29199830
+dipa	web.me.com	2012-04-02 17:51:24	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	web.me.com-dipa.warc.gz	656214
+eforslin	gallery.me.com	2012-04-02 17:51:04	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	gallery.me.com-eforslin.warc.gz	8331
+eforslin	homepage.mac.com	2012-04-02 17:51:04	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	homepage.mac.com-eforslin.warc.gz	5173
+eforslin	public.me.com	2012-04-02 17:51:03	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	public.me.com-eforslin.warc.gz	1906
+eforslin	web.me.com	2012-04-02 17:51:03	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	web.me.com-eforslin.warc.gz	17658
+erp3084	gallery.me.com	2012-04-02 21:00:13	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	gallery.me.com-erp3084.warc.gz	2153857235
+erp3084	homepage.mac.com	2012-04-02 21:00:14	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	homepage.mac.com-erp3084.warc.gz	4911
+erp3084	public.me.com	2012-04-02 20:10:04	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	public.me.com-erp3084.warc.gz	3446716965
+erp3084	web.me.com	2012-04-02 18:49:08	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3105.tar	web.me.com-erp3084.warc.gz	716659206

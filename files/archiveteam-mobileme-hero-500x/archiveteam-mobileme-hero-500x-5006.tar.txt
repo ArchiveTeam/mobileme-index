@@ -1,24 +1,24 @@
-ah.mail	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	gallery.me.com-ah.mail.warc.gz	0
-ah.mail	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	homepage.mac.com-ah.mail.warc.gz	0
-ah.mail	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	public.me.com-ah.mail.warc.gz	0
-ah.mail	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	web.me.com-ah.mail.warc.gz	0
-davidjscott	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	gallery.me.com-davidjscott.warc.gz	0
-davidjscott	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	homepage.mac.com-davidjscott.warc.gz	0
-davidjscott	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	public.me.com-davidjscott.warc.gz	0
-davidjscott	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	web.me.com-davidjscott.warc.gz	0
-mcquat	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	gallery.me.com-mcquat.warc.gz	0
-mcquat	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	homepage.mac.com-mcquat.warc.gz	0
-mcquat	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	public.me.com-mcquat.warc.gz	0
-mcquat	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	web.me.com-mcquat.warc.gz	0
-ourmountainofideas	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	gallery.me.com-ourmountainofideas.warc.gz	0
-ourmountainofideas	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	homepage.mac.com-ourmountainofideas.warc.gz	0
-ourmountainofideas	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	public.me.com-ourmountainofideas.warc.gz	0
-ourmountainofideas	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	web.me.com-ourmountainofideas.warc.gz	0
-s.linhart	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	gallery.me.com-s.linhart.warc.gz	0
-s.linhart	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	homepage.mac.com-s.linhart.warc.gz	0
-s.linhart	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	public.me.com-s.linhart.warc.gz	0
-s.linhart	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	web.me.com-s.linhart.warc.gz	0
-starmose	gallery.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	gallery.me.com-starmose.warc.gz	0
-starmose	homepage.mac.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	homepage.mac.com-starmose.warc.gz	0
-starmose	public.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	public.me.com-starmose.warc.gz	0
-starmose	web.me.com		archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	web.me.com-starmose.warc.gz	0
+ah.mail	gallery.me.com	2012-04-07 21:59:34	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	gallery.me.com-ah.mail.warc.gz	708801454
+ah.mail	homepage.mac.com	2012-04-07 21:59:34	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	homepage.mac.com-ah.mail.warc.gz	4890
+ah.mail	public.me.com	2012-04-07 21:30:25	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	public.me.com-ah.mail.warc.gz	78005753
+ah.mail	web.me.com	2012-04-07 21:25:14	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	web.me.com-ah.mail.warc.gz	14006054
+davidjscott	gallery.me.com	2012-04-07 21:17:56	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	gallery.me.com-davidjscott.warc.gz	1968054739
+davidjscott	homepage.mac.com	2012-04-07 21:18:52	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	homepage.mac.com-davidjscott.warc.gz	472100
+davidjscott	public.me.com	2012-04-07 20:00:08	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	public.me.com-davidjscott.warc.gz	3638
+davidjscott	web.me.com	2012-04-07 20:00:06	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	web.me.com-davidjscott.warc.gz	215592332
+mcquat	gallery.me.com	2012-04-07 19:10:14	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	gallery.me.com-mcquat.warc.gz	135242612
+mcquat	homepage.mac.com	2012-04-07 19:10:14	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	homepage.mac.com-mcquat.warc.gz	4882
+mcquat	public.me.com	2012-04-07 19:00:42	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	public.me.com-mcquat.warc.gz	1914
+mcquat	web.me.com	2012-04-07 19:00:41	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	web.me.com-mcquat.warc.gz	708110102
+ourmountainofideas	gallery.me.com	2012-04-07 22:02:03	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	gallery.me.com-ourmountainofideas.warc.gz	4302
+ourmountainofideas	homepage.mac.com	2012-04-07 22:02:03	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	homepage.mac.com-ourmountainofideas.warc.gz	4955
+ourmountainofideas	public.me.com	2012-04-07 22:02:02	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	public.me.com-ourmountainofideas.warc.gz	1927
+ourmountainofideas	web.me.com	2012-04-07 22:02:01	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	web.me.com-ourmountainofideas.warc.gz	6400159
+s.linhart	gallery.me.com	2012-04-07 19:19:27	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	gallery.me.com-s.linhart.warc.gz	4247
+s.linhart	homepage.mac.com	2012-04-07 19:19:27	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	homepage.mac.com-s.linhart.warc.gz	4911
+s.linhart	public.me.com	2012-04-07 19:19:26	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	public.me.com-s.linhart.warc.gz	1919
+s.linhart	web.me.com	2012-04-07 19:19:25	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	web.me.com-s.linhart.warc.gz	63005784
+starmose	gallery.me.com	2012-04-07 23:10:58	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	gallery.me.com-starmose.warc.gz	404310626
+starmose	homepage.mac.com	2012-04-07 23:11:01	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	homepage.mac.com-starmose.warc.gz	54704
+starmose	public.me.com	2012-04-07 23:05:50	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	public.me.com-starmose.warc.gz	467709429
+starmose	web.me.com	2012-04-07 22:47:09	archiveteam-mobileme-hero-500x	archiveteam-mobileme-hero-500x-5006.tar	web.me.com-starmose.warc.gz	199246236

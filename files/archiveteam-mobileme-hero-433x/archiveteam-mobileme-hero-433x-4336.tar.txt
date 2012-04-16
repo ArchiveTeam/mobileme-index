@@ -1,32 +1,32 @@
-billan	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	gallery.me.com-billan.warc.gz	0
-billan	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	homepage.mac.com-billan.warc.gz	0
-billan	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	public.me.com-billan.warc.gz	0
-billan	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	web.me.com-billan.warc.gz	0
-bryanrrossi	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	gallery.me.com-bryanrrossi.warc.gz	0
-bryanrrossi	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	homepage.mac.com-bryanrrossi.warc.gz	0
-bryanrrossi	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	public.me.com-bryanrrossi.warc.gz	0
-bryanrrossi	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	web.me.com-bryanrrossi.warc.gz	0
-danielatomas	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	gallery.me.com-danielatomas.warc.gz	0
-danielatomas	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	homepage.mac.com-danielatomas.warc.gz	0
-danielatomas	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	public.me.com-danielatomas.warc.gz	0
-danielatomas	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	web.me.com-danielatomas.warc.gz	0
-lharrigan	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	gallery.me.com-lharrigan.warc.gz	0
-lharrigan	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	homepage.mac.com-lharrigan.warc.gz	0
-lharrigan	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	public.me.com-lharrigan.warc.gz	0
-lharrigan	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	web.me.com-lharrigan.warc.gz	0
-pdmarsh	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	gallery.me.com-pdmarsh.warc.gz	0
-pdmarsh	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	homepage.mac.com-pdmarsh.warc.gz	0
-pdmarsh	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	public.me.com-pdmarsh.warc.gz	0
-pdmarsh	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	web.me.com-pdmarsh.warc.gz	0
-robertrenneker	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	gallery.me.com-robertrenneker.warc.gz	0
-robertrenneker	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	homepage.mac.com-robertrenneker.warc.gz	0
-robertrenneker	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	public.me.com-robertrenneker.warc.gz	0
-robertrenneker	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	web.me.com-robertrenneker.warc.gz	0
-sewarner1	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	gallery.me.com-sewarner1.warc.gz	0
-sewarner1	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	homepage.mac.com-sewarner1.warc.gz	0
-sewarner1	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	public.me.com-sewarner1.warc.gz	0
-sewarner1	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	web.me.com-sewarner1.warc.gz	0
-stefanundbritt	gallery.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	gallery.me.com-stefanundbritt.warc.gz	0
-stefanundbritt	homepage.mac.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	homepage.mac.com-stefanundbritt.warc.gz	0
-stefanundbritt	public.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	public.me.com-stefanundbritt.warc.gz	0
-stefanundbritt	web.me.com		archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	web.me.com-stefanundbritt.warc.gz	0
+billan	gallery.me.com	2012-04-05 14:56:58	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	gallery.me.com-billan.warc.gz	8337
+billan	homepage.mac.com	2012-04-05 14:56:58	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	homepage.mac.com-billan.warc.gz	5162
+billan	public.me.com	2012-04-05 14:56:57	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	public.me.com-billan.warc.gz	1908
+billan	web.me.com	2012-04-05 14:56:57	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	web.me.com-billan.warc.gz	17658
+bryanrrossi	gallery.me.com	2012-04-05 14:55:52	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	gallery.me.com-bryanrrossi.warc.gz	1904355852
+bryanrrossi	homepage.mac.com	2012-04-05 14:55:53	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	homepage.mac.com-bryanrrossi.warc.gz	4939
+bryanrrossi	public.me.com	2012-04-05 14:23:15	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	public.me.com-bryanrrossi.warc.gz	1927
+bryanrrossi	web.me.com	2012-04-05 14:23:14	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	web.me.com-bryanrrossi.warc.gz	215977776
+danielatomas	gallery.me.com	2012-04-05 15:13:20	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	gallery.me.com-danielatomas.warc.gz	4260
+danielatomas	homepage.mac.com	2012-04-05 15:13:20	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	homepage.mac.com-danielatomas.warc.gz	4936
+danielatomas	public.me.com	2012-04-05 15:13:17	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	public.me.com-danielatomas.warc.gz	1925
+danielatomas	web.me.com	2012-04-05 15:13:16	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	web.me.com-danielatomas.warc.gz	146151639
+lharrigan	gallery.me.com	2012-04-05 17:09:19	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	gallery.me.com-lharrigan.warc.gz	5011
+lharrigan	homepage.mac.com	2012-04-05 17:09:19	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	homepage.mac.com-lharrigan.warc.gz	4911
+lharrigan	public.me.com	2012-04-05 17:09:18	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	public.me.com-lharrigan.warc.gz	1917
+lharrigan	web.me.com	2012-04-05 17:09:08	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	web.me.com-lharrigan.warc.gz	594152729
+pdmarsh	gallery.me.com	2012-04-05 14:56:56	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	gallery.me.com-pdmarsh.warc.gz	5752
+pdmarsh	homepage.mac.com	2012-04-05 14:56:56	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	homepage.mac.com-pdmarsh.warc.gz	4904
+pdmarsh	public.me.com	2012-04-05 14:56:55	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	public.me.com-pdmarsh.warc.gz	1905
+pdmarsh	web.me.com	2012-04-05 14:56:55	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	web.me.com-pdmarsh.warc.gz	4166309
+robertrenneker	gallery.me.com	2012-04-05 15:00:43	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	gallery.me.com-robertrenneker.warc.gz	5482
+robertrenneker	homepage.mac.com	2012-04-05 15:00:44	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	homepage.mac.com-robertrenneker.warc.gz	7886
+robertrenneker	public.me.com	2012-04-05 15:00:41	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	public.me.com-robertrenneker.warc.gz	3856
+robertrenneker	web.me.com	2012-04-05 15:00:40	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	web.me.com-robertrenneker.warc.gz	1882020
+sewarner1	gallery.me.com	2012-04-05 18:39:12	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	gallery.me.com-sewarner1.warc.gz	2705094256
+sewarner1	homepage.mac.com	2012-04-05 18:39:12	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	homepage.mac.com-sewarner1.warc.gz	4907
+sewarner1	public.me.com	2012-04-05 17:49:16	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	public.me.com-sewarner1.warc.gz	1914
+sewarner1	web.me.com	2012-04-05 17:49:07	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	web.me.com-sewarner1.warc.gz	984967584
+stefanundbritt	gallery.me.com	2012-04-05 14:59:28	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	gallery.me.com-stefanundbritt.warc.gz	4308
+stefanundbritt	homepage.mac.com	2012-04-05 15:00:01	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	homepage.mac.com-stefanundbritt.warc.gz	577846
+stefanundbritt	public.me.com	2012-04-05 14:59:28	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	public.me.com-stefanundbritt.warc.gz	1921
+stefanundbritt	web.me.com	2012-04-05 14:59:28	archiveteam-mobileme-hero-433x	archiveteam-mobileme-hero-433x-4336.tar	web.me.com-stefanundbritt.warc.gz	2216108

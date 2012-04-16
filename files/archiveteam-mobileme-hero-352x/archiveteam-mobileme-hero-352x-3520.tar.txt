@@ -1,12 +1,12 @@
-ellelatimer	gallery.me.com		archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	gallery.me.com-ellelatimer.warc.gz	0
-ellelatimer	homepage.mac.com		archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	homepage.mac.com-ellelatimer.warc.gz	0
-ellelatimer	public.me.com		archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	public.me.com-ellelatimer.warc.gz	0
-ellelatimer	web.me.com		archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	web.me.com-ellelatimer.warc.gz	0
-judithtodd	gallery.me.com		archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	gallery.me.com-judithtodd.warc.gz	0
-judithtodd	homepage.mac.com		archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	homepage.mac.com-judithtodd.warc.gz	0
-judithtodd	public.me.com		archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	public.me.com-judithtodd.warc.gz	0
-judithtodd	web.me.com		archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	web.me.com-judithtodd.warc.gz	0
-lonewolfsystems	gallery.me.com		archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	gallery.me.com-lonewolfsystems.warc.gz	0
-lonewolfsystems	homepage.mac.com		archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	homepage.mac.com-lonewolfsystems.warc.gz	0
-lonewolfsystems	public.me.com		archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	public.me.com-lonewolfsystems.warc.gz	0
-lonewolfsystems	web.me.com		archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	web.me.com-lonewolfsystems.warc.gz	0
+ellelatimer	gallery.me.com	2012-04-03 17:00:02	archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	gallery.me.com-ellelatimer.warc.gz	307130648
+ellelatimer	homepage.mac.com	2012-04-03 17:00:03	archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	homepage.mac.com-ellelatimer.warc.gz	4930
+ellelatimer	public.me.com	2012-04-03 16:55:44	archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	public.me.com-ellelatimer.warc.gz	1930
+ellelatimer	web.me.com	2012-04-03 16:55:43	archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	web.me.com-ellelatimer.warc.gz	20500888
+judithtodd	gallery.me.com	2012-04-03 16:53:29	archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	gallery.me.com-judithtodd.warc.gz	2008773397
+judithtodd	homepage.mac.com	2012-04-03 16:53:34	archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	homepage.mac.com-judithtodd.warc.gz	138638
+judithtodd	public.me.com	2012-04-03 16:16:00	archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	public.me.com-judithtodd.warc.gz	51407818
+judithtodd	web.me.com	2012-04-03 16:15:34	archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	web.me.com-judithtodd.warc.gz	105050113
+lonewolfsystems	gallery.me.com	2012-04-03 18:25:54	archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	gallery.me.com-lonewolfsystems.warc.gz	390681703
+lonewolfsystems	homepage.mac.com	2012-04-03 18:25:54	archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	homepage.mac.com-lonewolfsystems.warc.gz	4950
+lonewolfsystems	public.me.com	2012-04-03 18:22:05	archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	public.me.com-lonewolfsystems.warc.gz	1897122388
+lonewolfsystems	web.me.com	2012-04-03 17:40:54	archiveteam-mobileme-hero-352x	archiveteam-mobileme-hero-352x-3520.tar	web.me.com-lonewolfsystems.warc.gz	402821162

@@ -1,24 +1,24 @@
-amber.minich	gallery.me.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	gallery.me.com-amber.minich.warc.gz	0
-amber.minich	homepage.mac.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	homepage.mac.com-amber.minich.warc.gz	0
-amber.minich	public.me.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	public.me.com-amber.minich.warc.gz	0
-amber.minich	web.me.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	web.me.com-amber.minich.warc.gz	0
-docmolly	gallery.me.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	gallery.me.com-docmolly.warc.gz	0
-docmolly	homepage.mac.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	homepage.mac.com-docmolly.warc.gz	0
-docmolly	public.me.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	public.me.com-docmolly.warc.gz	0
-docmolly	web.me.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	web.me.com-docmolly.warc.gz	0
-jackbrunton	gallery.me.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	gallery.me.com-jackbrunton.warc.gz	0
-jackbrunton	homepage.mac.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	homepage.mac.com-jackbrunton.warc.gz	0
-jackbrunton	public.me.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	public.me.com-jackbrunton.warc.gz	0
-jackbrunton	web.me.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	web.me.com-jackbrunton.warc.gz	0
-pstukenb	gallery.me.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	gallery.me.com-pstukenb.warc.gz	0
-pstukenb	homepage.mac.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	homepage.mac.com-pstukenb.warc.gz	0
-pstukenb	public.me.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	public.me.com-pstukenb.warc.gz	0
-pstukenb	web.me.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	web.me.com-pstukenb.warc.gz	0
-rasselart	gallery.me.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	gallery.me.com-rasselart.warc.gz	0
-rasselart	homepage.mac.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	homepage.mac.com-rasselart.warc.gz	0
-rasselart	public.me.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	public.me.com-rasselart.warc.gz	0
-rasselart	web.me.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	web.me.com-rasselart.warc.gz	0
-voskull	gallery.me.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	gallery.me.com-voskull.warc.gz	0
-voskull	homepage.mac.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	homepage.mac.com-voskull.warc.gz	0
-voskull	public.me.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	public.me.com-voskull.warc.gz	0
-voskull	web.me.com		archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	web.me.com-voskull.warc.gz	0
+amber.minich	gallery.me.com	2012-04-13 08:47:33	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	gallery.me.com-amber.minich.warc.gz	1149403366
+amber.minich	homepage.mac.com	2012-04-13 08:47:33	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	homepage.mac.com-amber.minich.warc.gz	4936
+amber.minich	public.me.com	2012-04-13 08:34:52	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	public.me.com-amber.minich.warc.gz	1928
+amber.minich	web.me.com	2012-04-13 08:34:52	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	web.me.com-amber.minich.warc.gz	44441690
+docmolly	gallery.me.com	2012-04-13 10:13:13	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	gallery.me.com-docmolly.warc.gz	7139614574
+docmolly	homepage.mac.com	2012-04-13 10:13:19	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	homepage.mac.com-docmolly.warc.gz	4909
+docmolly	public.me.com	2012-04-13 09:39:39	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	public.me.com-docmolly.warc.gz	12759612
+docmolly	web.me.com	2012-04-13 09:39:23	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	web.me.com-docmolly.warc.gz	130791371
+jackbrunton	gallery.me.com	2012-04-13 09:34:19	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	gallery.me.com-jackbrunton.warc.gz	315254110
+jackbrunton	homepage.mac.com	2012-04-13 09:34:19	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	homepage.mac.com-jackbrunton.warc.gz	4935
+jackbrunton	public.me.com	2012-04-13 09:25:55	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	public.me.com-jackbrunton.warc.gz	1927
+jackbrunton	web.me.com	2012-04-13 09:25:54	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	web.me.com-jackbrunton.warc.gz	264142472
+pstukenb	gallery.me.com	2012-04-13 09:34:21	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	gallery.me.com-pstukenb.warc.gz	8356
+pstukenb	homepage.mac.com	2012-04-13 09:34:21	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	homepage.mac.com-pstukenb.warc.gz	5159
+pstukenb	public.me.com	2012-04-13 09:34:20	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	public.me.com-pstukenb.warc.gz	1913
+pstukenb	web.me.com	2012-04-13 09:34:20	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	web.me.com-pstukenb.warc.gz	17729
+rasselart	gallery.me.com	2012-04-13 08:48:40	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	gallery.me.com-rasselart.warc.gz	4261117
+rasselart	homepage.mac.com	2012-04-13 08:48:41	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	homepage.mac.com-rasselart.warc.gz	36891
+rasselart	public.me.com	2012-04-13 08:48:22	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	public.me.com-rasselart.warc.gz	1915
+rasselart	web.me.com	2012-04-13 08:48:22	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	web.me.com-rasselart.warc.gz	9517820
+voskull	gallery.me.com	2012-04-13 08:57:43	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	gallery.me.com-voskull.warc.gz	879704
+voskull	homepage.mac.com	2012-04-13 08:57:43	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	homepage.mac.com-voskull.warc.gz	6035
+voskull	public.me.com	2012-04-13 08:57:41	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	public.me.com-voskull.warc.gz	1021779850
+voskull	web.me.com	2012-04-13 08:48:49	archiveteam-mobileme-hero-725x	archiveteam-mobileme-hero-725x-7253.tar	web.me.com-voskull.warc.gz	271757

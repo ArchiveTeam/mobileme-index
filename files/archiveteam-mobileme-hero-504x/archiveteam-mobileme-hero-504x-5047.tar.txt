@@ -1,20 +1,20 @@
-babysophia	gallery.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	gallery.me.com-babysophia.warc.gz	0
-babysophia	homepage.mac.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	homepage.mac.com-babysophia.warc.gz	0
-babysophia	public.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	public.me.com-babysophia.warc.gz	0
-babysophia	web.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	web.me.com-babysophia.warc.gz	0
-garcon	gallery.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	gallery.me.com-garcon.warc.gz	0
-garcon	homepage.mac.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	homepage.mac.com-garcon.warc.gz	0
-garcon	public.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	public.me.com-garcon.warc.gz	0
-garcon	web.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	web.me.com-garcon.warc.gz	0
-jopas	gallery.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	gallery.me.com-jopas.warc.gz	0
-jopas	homepage.mac.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	homepage.mac.com-jopas.warc.gz	0
-jopas	public.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	public.me.com-jopas.warc.gz	0
-jopas	web.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	web.me.com-jopas.warc.gz	0
-matthiasbollwerk	gallery.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	gallery.me.com-matthiasbollwerk.warc.gz	0
-matthiasbollwerk	homepage.mac.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	homepage.mac.com-matthiasbollwerk.warc.gz	0
-matthiasbollwerk	public.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	public.me.com-matthiasbollwerk.warc.gz	0
-matthiasbollwerk	web.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	web.me.com-matthiasbollwerk.warc.gz	0
-tonystevens	gallery.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	gallery.me.com-tonystevens.warc.gz	0
-tonystevens	homepage.mac.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	homepage.mac.com-tonystevens.warc.gz	0
-tonystevens	public.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	public.me.com-tonystevens.warc.gz	0
-tonystevens	web.me.com		archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	web.me.com-tonystevens.warc.gz	0
+babysophia	gallery.me.com	2012-04-07 23:32:51	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	gallery.me.com-babysophia.warc.gz	8360
+babysophia	homepage.mac.com	2012-04-07 23:32:51	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	homepage.mac.com-babysophia.warc.gz	5181
+babysophia	public.me.com	2012-04-07 23:32:50	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	public.me.com-babysophia.warc.gz	1925
+babysophia	web.me.com	2012-04-07 23:32:50	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	web.me.com-babysophia.warc.gz	17745
+garcon	gallery.me.com	2012-04-07 22:25:31	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	gallery.me.com-garcon.warc.gz	173040471
+garcon	homepage.mac.com	2012-04-07 22:25:31	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	homepage.mac.com-garcon.warc.gz	4901
+garcon	public.me.com	2012-04-07 22:11:05	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	public.me.com-garcon.warc.gz	1915
+garcon	web.me.com	2012-04-07 22:11:03	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	web.me.com-garcon.warc.gz	319542498
+jopas	gallery.me.com	2012-04-07 23:32:46	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	gallery.me.com-jopas.warc.gz	974868797
+jopas	homepage.mac.com	2012-04-07 23:32:47	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	homepage.mac.com-jopas.warc.gz	4881
+jopas	public.me.com	2012-04-07 23:02:41	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	public.me.com-jopas.warc.gz	13698274
+jopas	web.me.com	2012-04-07 23:02:24	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	web.me.com-jopas.warc.gz	265372859
+matthiasbollwerk	gallery.me.com	2012-04-08 00:33:53	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	gallery.me.com-matthiasbollwerk.warc.gz	17385800
+matthiasbollwerk	homepage.mac.com	2012-04-08 00:33:53	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	homepage.mac.com-matthiasbollwerk.warc.gz	4943
+matthiasbollwerk	public.me.com	2012-04-08 00:33:39	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	public.me.com-matthiasbollwerk.warc.gz	2429869843
+matthiasbollwerk	web.me.com	2012-04-07 23:37:57	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	web.me.com-matthiasbollwerk.warc.gz	11671447
+tonystevens	gallery.me.com	2012-04-08 01:32:16	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	gallery.me.com-tonystevens.warc.gz	304185570
+tonystevens	homepage.mac.com	2012-04-08 01:32:17	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	homepage.mac.com-tonystevens.warc.gz	4916
+tonystevens	public.me.com	2012-04-08 01:10:56	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	public.me.com-tonystevens.warc.gz	1928
+tonystevens	web.me.com	2012-04-08 01:10:55	archiveteam-mobileme-hero-504x	archiveteam-mobileme-hero-504x-5047.tar	web.me.com-tonystevens.warc.gz	263181568

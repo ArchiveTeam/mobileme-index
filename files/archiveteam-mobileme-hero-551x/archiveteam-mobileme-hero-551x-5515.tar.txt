@@ -1,20 +1,20 @@
-ibosco	gallery.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	gallery.me.com-ibosco.warc.gz	0
-ibosco	homepage.mac.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	homepage.mac.com-ibosco.warc.gz	0
-ibosco	public.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	public.me.com-ibosco.warc.gz	0
-ibosco	web.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	web.me.com-ibosco.warc.gz	0
-karl_adlington	gallery.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	gallery.me.com-karl_adlington.warc.gz	0
-karl_adlington	homepage.mac.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	homepage.mac.com-karl_adlington.warc.gz	0
-karl_adlington	public.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	public.me.com-karl_adlington.warc.gz	0
-karl_adlington	web.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	web.me.com-karl_adlington.warc.gz	0
-proctorsurf	gallery.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	gallery.me.com-proctorsurf.warc.gz	0
-proctorsurf	homepage.mac.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	homepage.mac.com-proctorsurf.warc.gz	0
-proctorsurf	public.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	public.me.com-proctorsurf.warc.gz	0
-proctorsurf	web.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	web.me.com-proctorsurf.warc.gz	0
-psweezey	gallery.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	gallery.me.com-psweezey.warc.gz	0
-psweezey	homepage.mac.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	homepage.mac.com-psweezey.warc.gz	0
-psweezey	public.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	public.me.com-psweezey.warc.gz	0
-psweezey	web.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	web.me.com-psweezey.warc.gz	0
-uptone	gallery.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	gallery.me.com-uptone.warc.gz	0
-uptone	homepage.mac.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	homepage.mac.com-uptone.warc.gz	0
-uptone	public.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	public.me.com-uptone.warc.gz	0
-uptone	web.me.com		archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	web.me.com-uptone.warc.gz	0
+ibosco	gallery.me.com	2012-04-09 12:42:26	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	gallery.me.com-ibosco.warc.gz	510845962
+ibosco	homepage.mac.com	2012-04-09 12:43:14	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	homepage.mac.com-ibosco.warc.gz	1265910
+ibosco	public.me.com	2012-04-09 12:32:12	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	public.me.com-ibosco.warc.gz	164134792
+ibosco	web.me.com	2012-04-09 12:28:19	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	web.me.com-ibosco.warc.gz	12058454
+karl_adlington	gallery.me.com	2012-04-09 12:26:35	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	gallery.me.com-karl_adlington.warc.gz	26929453
+karl_adlington	homepage.mac.com	2012-04-09 12:26:36	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	homepage.mac.com-karl_adlington.warc.gz	4945
+karl_adlington	public.me.com	2012-04-09 12:26:20	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	public.me.com-karl_adlington.warc.gz	1930
+karl_adlington	web.me.com	2012-04-09 12:26:19	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	web.me.com-karl_adlington.warc.gz	1961894
+proctorsurf	gallery.me.com	2012-04-09 13:48:36	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	gallery.me.com-proctorsurf.warc.gz	1712063332
+proctorsurf	homepage.mac.com	2012-04-09 13:48:37	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	homepage.mac.com-proctorsurf.warc.gz	4926
+proctorsurf	public.me.com	2012-04-09 13:02:29	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	public.me.com-proctorsurf.warc.gz	818083967
+proctorsurf	web.me.com	2012-04-09 12:52:38	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	web.me.com-proctorsurf.warc.gz	31714662
+psweezey	gallery.me.com	2012-04-09 14:43:53	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	gallery.me.com-psweezey.warc.gz	138270289
+psweezey	homepage.mac.com	2012-04-09 14:43:53	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	homepage.mac.com-psweezey.warc.gz	4895
+psweezey	public.me.com	2012-04-09 14:42:23	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	public.me.com-psweezey.warc.gz	3519
+psweezey	web.me.com	2012-04-09 14:42:12	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	web.me.com-psweezey.warc.gz	1907339665
+uptone	gallery.me.com	2012-04-09 12:45:45	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	gallery.me.com-uptone.warc.gz	4224
+uptone	homepage.mac.com	2012-04-09 12:45:45	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	homepage.mac.com-uptone.warc.gz	4899
+uptone	public.me.com	2012-04-09 12:45:45	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	public.me.com-uptone.warc.gz	1907
+uptone	web.me.com	2012-04-09 12:45:44	archiveteam-mobileme-hero-551x	archiveteam-mobileme-hero-551x-5515.tar	web.me.com-uptone.warc.gz	12400330

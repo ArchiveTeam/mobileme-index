@@ -1,12 +1,12 @@
-fredvollman	gallery.me.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	gallery.me.com-fredvollman.warc.gz	0
-fredvollman	homepage.mac.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	homepage.mac.com-fredvollman.warc.gz	0
-fredvollman	public.me.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	public.me.com-fredvollman.warc.gz	0
-fredvollman	web.me.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	web.me.com-fredvollman.warc.gz	0
-lufrano4	gallery.me.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	gallery.me.com-lufrano4.warc.gz	0
-lufrano4	homepage.mac.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	homepage.mac.com-lufrano4.warc.gz	0
-lufrano4	public.me.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	public.me.com-lufrano4.warc.gz	0
-lufrano4	web.me.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	web.me.com-lufrano4.warc.gz	0
-nickje	gallery.me.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	gallery.me.com-nickje.warc.gz	0
-nickje	homepage.mac.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	homepage.mac.com-nickje.warc.gz	0
-nickje	public.me.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	public.me.com-nickje.warc.gz	0
-nickje	web.me.com		archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	web.me.com-nickje.warc.gz	0
+fredvollman	gallery.me.com	2012-04-10 02:56:50	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	gallery.me.com-fredvollman.warc.gz	6290
+fredvollman	homepage.mac.com	2012-04-10 02:56:50	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	homepage.mac.com-fredvollman.warc.gz	7818
+fredvollman	public.me.com	2012-04-10 02:56:48	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	public.me.com-fredvollman.warc.gz	3451
+fredvollman	web.me.com	2012-04-10 02:56:48	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	web.me.com-fredvollman.warc.gz	82415
+lufrano4	gallery.me.com	2012-04-10 03:25:59	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	gallery.me.com-lufrano4.warc.gz	2655455215
+lufrano4	homepage.mac.com	2012-04-10 03:26:07	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	homepage.mac.com-lufrano4.warc.gz	152681
+lufrano4	public.me.com	2012-04-10 02:58:14	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	public.me.com-lufrano4.warc.gz	1919
+lufrano4	web.me.com	2012-04-10 02:58:13	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	web.me.com-lufrano4.warc.gz	3474980
+nickje	gallery.me.com	2012-04-10 03:44:20	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	gallery.me.com-nickje.warc.gz	2391378970
+nickje	homepage.mac.com	2012-04-10 03:44:20	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	homepage.mac.com-nickje.warc.gz	4912
+nickje	public.me.com	2012-04-10 03:27:19	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	public.me.com-nickje.warc.gz	1909
+nickje	web.me.com	2012-04-10 03:27:18	archiveteam-mobileme-hero-574x	archiveteam-mobileme-hero-574x-5740.tar	web.me.com-nickje.warc.gz	66722044

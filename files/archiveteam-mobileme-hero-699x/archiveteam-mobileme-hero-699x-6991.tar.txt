@@ -1,24 +1,24 @@
-bnk	gallery.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	gallery.me.com-bnk.warc.gz	0
-bnk	homepage.mac.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	homepage.mac.com-bnk.warc.gz	0
-bnk	public.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	public.me.com-bnk.warc.gz	0
-bnk	web.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	web.me.com-bnk.warc.gz	0
-crterry	gallery.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	gallery.me.com-crterry.warc.gz	0
-crterry	homepage.mac.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	homepage.mac.com-crterry.warc.gz	0
-crterry	public.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	public.me.com-crterry.warc.gz	0
-crterry	web.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	web.me.com-crterry.warc.gz	0
-goesmj	gallery.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	gallery.me.com-goesmj.warc.gz	0
-goesmj	homepage.mac.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	homepage.mac.com-goesmj.warc.gz	0
-goesmj	public.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	public.me.com-goesmj.warc.gz	0
-goesmj	web.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	web.me.com-goesmj.warc.gz	0
-komei3	gallery.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	gallery.me.com-komei3.warc.gz	0
-komei3	homepage.mac.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	homepage.mac.com-komei3.warc.gz	0
-komei3	public.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	public.me.com-komei3.warc.gz	0
-komei3	web.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	web.me.com-komei3.warc.gz	0
-milfelgrusd	gallery.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	gallery.me.com-milfelgrusd.warc.gz	0
-milfelgrusd	homepage.mac.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	homepage.mac.com-milfelgrusd.warc.gz	0
-milfelgrusd	public.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	public.me.com-milfelgrusd.warc.gz	0
-milfelgrusd	web.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	web.me.com-milfelgrusd.warc.gz	0
-victoriamckenzie	gallery.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	gallery.me.com-victoriamckenzie.warc.gz	0
-victoriamckenzie	homepage.mac.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	homepage.mac.com-victoriamckenzie.warc.gz	0
-victoriamckenzie	public.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	public.me.com-victoriamckenzie.warc.gz	0
-victoriamckenzie	web.me.com		archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	web.me.com-victoriamckenzie.warc.gz	0
+bnk	gallery.me.com	2012-04-12 22:18:16	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	gallery.me.com-bnk.warc.gz	80705329
+bnk	homepage.mac.com	2012-04-12 22:18:18	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	homepage.mac.com-bnk.warc.gz	3367
+bnk	public.me.com	2012-04-12 22:13:16	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	public.me.com-bnk.warc.gz	4263963742
+bnk	web.me.com	2012-04-12 20:24:50	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	web.me.com-bnk.warc.gz	250054135
+crterry	gallery.me.com	2012-04-12 18:19:33	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	gallery.me.com-crterry.warc.gz	4237
+crterry	homepage.mac.com	2012-04-12 18:19:34	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	homepage.mac.com-crterry.warc.gz	4913
+crterry	public.me.com	2012-04-12 18:19:33	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	public.me.com-crterry.warc.gz	761892721
+crterry	web.me.com	2012-04-12 17:56:26	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	web.me.com-crterry.warc.gz	6231415
+goesmj	gallery.me.com	2012-04-12 18:48:33	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	gallery.me.com-goesmj.warc.gz	429185678
+goesmj	homepage.mac.com	2012-04-12 18:48:44	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	homepage.mac.com-goesmj.warc.gz	488382
+goesmj	public.me.com	2012-04-12 18:26:11	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	public.me.com-goesmj.warc.gz	1910
+goesmj	web.me.com	2012-04-12 18:26:10	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	web.me.com-goesmj.warc.gz	24659029
+komei3	gallery.me.com	2012-04-12 17:51:57	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	gallery.me.com-komei3.warc.gz	7260
+komei3	homepage.mac.com	2012-04-12 17:52:41	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	homepage.mac.com-komei3.warc.gz	458924
+komei3	public.me.com	2012-04-12 17:51:53	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	public.me.com-komei3.warc.gz	10126414
+komei3	web.me.com	2012-04-12 17:51:38	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	web.me.com-komei3.warc.gz	83329825
+milfelgrusd	gallery.me.com	2012-04-12 17:52:55	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	gallery.me.com-milfelgrusd.warc.gz	12359
+milfelgrusd	homepage.mac.com	2012-04-12 17:52:56	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	homepage.mac.com-milfelgrusd.warc.gz	7160
+milfelgrusd	public.me.com	2012-04-12 17:52:48	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	public.me.com-milfelgrusd.warc.gz	1918
+milfelgrusd	web.me.com	2012-04-12 17:52:48	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	web.me.com-milfelgrusd.warc.gz	22519
+victoriamckenzie	gallery.me.com	2012-04-12 17:39:49	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	gallery.me.com-victoriamckenzie.warc.gz	115305702
+victoriamckenzie	homepage.mac.com	2012-04-12 17:40:51	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	homepage.mac.com-victoriamckenzie.warc.gz	439864
+victoriamckenzie	public.me.com	2012-04-12 17:37:02	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	public.me.com-victoriamckenzie.warc.gz	1000828800
+victoriamckenzie	web.me.com	2012-04-12 17:05:10	archiveteam-mobileme-hero-699x	archiveteam-mobileme-hero-699x-6991.tar	web.me.com-victoriamckenzie.warc.gz	645602

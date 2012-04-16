@@ -1,12 +1,12 @@
-gyerkins	gallery.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	gallery.me.com-gyerkins.warc.gz	0
-gyerkins	homepage.mac.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	homepage.mac.com-gyerkins.warc.gz	0
-gyerkins	public.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	public.me.com-gyerkins.warc.gz	0
-gyerkins	web.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	web.me.com-gyerkins.warc.gz	0
-janravesteijn	gallery.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	gallery.me.com-janravesteijn.warc.gz	0
-janravesteijn	homepage.mac.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	homepage.mac.com-janravesteijn.warc.gz	0
-janravesteijn	public.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	public.me.com-janravesteijn.warc.gz	0
-janravesteijn	web.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	web.me.com-janravesteijn.warc.gz	0
-tlm	gallery.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	gallery.me.com-tlm.warc.gz	0
-tlm	homepage.mac.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	homepage.mac.com-tlm.warc.gz	0
-tlm	public.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	public.me.com-tlm.warc.gz	0
-tlm	web.me.com		archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	web.me.com-tlm.warc.gz	0
+gyerkins	gallery.me.com	2012-04-13 06:04:21	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	gallery.me.com-gyerkins.warc.gz	2380133711
+gyerkins	homepage.mac.com	2012-04-13 06:04:28	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	homepage.mac.com-gyerkins.warc.gz	95717
+gyerkins	public.me.com	2012-04-13 05:52:09	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	public.me.com-gyerkins.warc.gz	9645608
+gyerkins	web.me.com	2012-04-13 05:51:30	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	web.me.com-gyerkins.warc.gz	391382608
+janravesteijn	gallery.me.com	2012-04-13 05:33:52	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	gallery.me.com-janravesteijn.warc.gz	66488246
+janravesteijn	homepage.mac.com	2012-04-13 05:33:52	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	homepage.mac.com-janravesteijn.warc.gz	4915
+janravesteijn	public.me.com	2012-04-13 05:33:09	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	public.me.com-janravesteijn.warc.gz	1933
+janravesteijn	web.me.com	2012-04-13 05:33:09	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	web.me.com-janravesteijn.warc.gz	194522811
+tlm	gallery.me.com	2012-04-13 06:31:18	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	gallery.me.com-tlm.warc.gz	1137303143
+tlm	homepage.mac.com	2012-04-13 06:31:24	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	homepage.mac.com-tlm.warc.gz	169892
+tlm	public.me.com	2012-04-13 06:12:14	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	public.me.com-tlm.warc.gz	16715
+tlm	web.me.com	2012-04-13 06:12:13	archiveteam-mobileme-hero-716x	archiveteam-mobileme-hero-716x-7161.tar	web.me.com-tlm.warc.gz	125616826

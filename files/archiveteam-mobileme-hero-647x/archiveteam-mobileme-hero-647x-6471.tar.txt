@@ -1,24 +1,24 @@
-bluprint	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	gallery.me.com-bluprint.warc.gz	0
-bluprint	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	homepage.mac.com-bluprint.warc.gz	0
-bluprint	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	public.me.com-bluprint.warc.gz	0
-bluprint	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	web.me.com-bluprint.warc.gz	0
-bouncingfungus	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	gallery.me.com-bouncingfungus.warc.gz	0
-bouncingfungus	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	homepage.mac.com-bouncingfungus.warc.gz	0
-bouncingfungus	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	public.me.com-bouncingfungus.warc.gz	0
-bouncingfungus	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	web.me.com-bouncingfungus.warc.gz	0
-brian.gellman	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	gallery.me.com-brian.gellman.warc.gz	0
-brian.gellman	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	homepage.mac.com-brian.gellman.warc.gz	0
-brian.gellman	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	public.me.com-brian.gellman.warc.gz	0
-brian.gellman	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	web.me.com-brian.gellman.warc.gz	0
-joanhale	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	gallery.me.com-joanhale.warc.gz	0
-joanhale	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	homepage.mac.com-joanhale.warc.gz	0
-joanhale	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	public.me.com-joanhale.warc.gz	0
-joanhale	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	web.me.com-joanhale.warc.gz	0
-mcwiggin	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	gallery.me.com-mcwiggin.warc.gz	0
-mcwiggin	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	homepage.mac.com-mcwiggin.warc.gz	0
-mcwiggin	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	public.me.com-mcwiggin.warc.gz	0
-mcwiggin	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	web.me.com-mcwiggin.warc.gz	0
-rob.knight	gallery.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	gallery.me.com-rob.knight.warc.gz	0
-rob.knight	homepage.mac.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	homepage.mac.com-rob.knight.warc.gz	0
-rob.knight	public.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	public.me.com-rob.knight.warc.gz	0
-rob.knight	web.me.com		archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	web.me.com-rob.knight.warc.gz	0
+bluprint	gallery.me.com	2012-04-11 16:18:07	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	gallery.me.com-bluprint.warc.gz	113415382
+bluprint	homepage.mac.com	2012-04-11 16:18:08	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	homepage.mac.com-bluprint.warc.gz	4920
+bluprint	public.me.com	2012-04-11 16:13:38	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	public.me.com-bluprint.warc.gz	1914
+bluprint	web.me.com	2012-04-11 16:13:38	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	web.me.com-bluprint.warc.gz	4981967
+bouncingfungus	gallery.me.com	2012-04-11 11:16:08	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	gallery.me.com-bouncingfungus.warc.gz	4286
+bouncingfungus	homepage.mac.com	2012-04-11 11:16:08	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	homepage.mac.com-bouncingfungus.warc.gz	4941
+bouncingfungus	public.me.com	2012-04-11 11:16:07	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	public.me.com-bouncingfungus.warc.gz	1922
+bouncingfungus	web.me.com	2012-04-11 11:16:07	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	web.me.com-bouncingfungus.warc.gz	2507963
+brian.gellman	gallery.me.com	2012-04-11 16:10:05	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	gallery.me.com-brian.gellman.warc.gz	2568760440
+brian.gellman	homepage.mac.com	2012-04-11 16:10:05	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	homepage.mac.com-brian.gellman.warc.gz	4931
+brian.gellman	public.me.com	2012-04-11 12:13:29	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	public.me.com-brian.gellman.warc.gz	6495014
+brian.gellman	web.me.com	2012-04-11 12:13:23	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	web.me.com-brian.gellman.warc.gz	418597276
+joanhale	gallery.me.com	2012-04-11 16:40:59	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	gallery.me.com-joanhale.warc.gz	219121459
+joanhale	homepage.mac.com	2012-04-11 16:40:59	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	homepage.mac.com-joanhale.warc.gz	4900
+joanhale	public.me.com	2012-04-11 16:33:05	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	public.me.com-joanhale.warc.gz	1924
+joanhale	web.me.com	2012-04-11 16:33:04	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	web.me.com-joanhale.warc.gz	4649664
+mcwiggin	gallery.me.com	2012-04-11 18:32:03	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	gallery.me.com-mcwiggin.warc.gz	1384210725
+mcwiggin	homepage.mac.com	2012-04-11 18:32:43	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	homepage.mac.com-mcwiggin.warc.gz	349786
+mcwiggin	public.me.com	2012-04-11 17:31:17	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	public.me.com-mcwiggin.warc.gz	599271
+mcwiggin	web.me.com	2012-04-11 17:30:58	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	web.me.com-mcwiggin.warc.gz	349639203
+rob.knight	gallery.me.com	2012-04-11 16:30:58	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	gallery.me.com-rob.knight.warc.gz	102406295
+rob.knight	homepage.mac.com	2012-04-11 16:31:06	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	homepage.mac.com-rob.knight.warc.gz	97992
+rob.knight	public.me.com	2012-04-11 16:27:29	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	public.me.com-rob.knight.warc.gz	141478284
+rob.knight	web.me.com	2012-04-11 16:21:18	archiveteam-mobileme-hero-647x	archiveteam-mobileme-hero-647x-6471.tar	web.me.com-rob.knight.warc.gz	6414518

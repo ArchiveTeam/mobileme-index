@@ -1,8 +1,8 @@
-mtdeer	gallery.me.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3673.tar	gallery.me.com-mtdeer.warc.gz	0
-mtdeer	homepage.mac.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3673.tar	homepage.mac.com-mtdeer.warc.gz	0
-mtdeer	public.me.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3673.tar	public.me.com-mtdeer.warc.gz	0
-mtdeer	web.me.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3673.tar	web.me.com-mtdeer.warc.gz	0
-ryo2design	gallery.me.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3673.tar	gallery.me.com-ryo2design.warc.gz	0
-ryo2design	homepage.mac.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3673.tar	homepage.mac.com-ryo2design.warc.gz	0
-ryo2design	public.me.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3673.tar	public.me.com-ryo2design.warc.gz	0
-ryo2design	web.me.com		archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3673.tar	web.me.com-ryo2design.warc.gz	0
+mtdeer	gallery.me.com	2012-04-04 02:57:52	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3673.tar	gallery.me.com-mtdeer.warc.gz	23245991
+mtdeer	homepage.mac.com	2012-04-04 02:57:52	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3673.tar	homepage.mac.com-mtdeer.warc.gz	4894
+mtdeer	public.me.com	2012-04-04 02:56:57	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3673.tar	public.me.com-mtdeer.warc.gz	3657
+mtdeer	web.me.com	2012-04-04 02:56:56	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3673.tar	web.me.com-mtdeer.warc.gz	36469664
+ryo2design	gallery.me.com	2012-04-04 04:55:50	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3673.tar	gallery.me.com-ryo2design.warc.gz	4693893583
+ryo2design	homepage.mac.com	2012-04-04 04:55:50	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3673.tar	homepage.mac.com-ryo2design.warc.gz	4928
+ryo2design	public.me.com	2012-04-04 03:24:23	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3673.tar	public.me.com-ryo2design.warc.gz	3333
+ryo2design	web.me.com	2012-04-04 03:24:22	archiveteam-mobileme-hero-367x	archiveteam-mobileme-hero-367x-3673.tar	web.me.com-ryo2design.warc.gz	192167221

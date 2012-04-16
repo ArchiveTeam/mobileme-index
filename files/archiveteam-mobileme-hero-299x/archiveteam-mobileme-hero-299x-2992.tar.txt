@@ -1,32 +1,32 @@
-act2act	gallery.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	gallery.me.com-act2act.warc.gz	0
-act2act	homepage.mac.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	homepage.mac.com-act2act.warc.gz	0
-act2act	public.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	public.me.com-act2act.warc.gz	0
-act2act	web.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	web.me.com-act2act.warc.gz	0
-brianstoffer	gallery.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	gallery.me.com-brianstoffer.warc.gz	0
-brianstoffer	homepage.mac.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	homepage.mac.com-brianstoffer.warc.gz	0
-brianstoffer	public.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	public.me.com-brianstoffer.warc.gz	0
-brianstoffer	web.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	web.me.com-brianstoffer.warc.gz	0
-culturewarrior	gallery.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	gallery.me.com-culturewarrior.warc.gz	0
-culturewarrior	homepage.mac.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	homepage.mac.com-culturewarrior.warc.gz	0
-culturewarrior	public.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	public.me.com-culturewarrior.warc.gz	0
-culturewarrior	web.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	web.me.com-culturewarrior.warc.gz	0
-dzherlitsyn	gallery.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	gallery.me.com-dzherlitsyn.warc.gz	0
-dzherlitsyn	homepage.mac.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	homepage.mac.com-dzherlitsyn.warc.gz	0
-dzherlitsyn	public.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	public.me.com-dzherlitsyn.warc.gz	0
-dzherlitsyn	web.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	web.me.com-dzherlitsyn.warc.gz	0
-gilchristm	gallery.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	gallery.me.com-gilchristm.warc.gz	0
-gilchristm	homepage.mac.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	homepage.mac.com-gilchristm.warc.gz	0
-gilchristm	public.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	public.me.com-gilchristm.warc.gz	0
-gilchristm	web.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	web.me.com-gilchristm.warc.gz	0
-ikmcdaniel	gallery.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	gallery.me.com-ikmcdaniel.warc.gz	0
-ikmcdaniel	homepage.mac.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	homepage.mac.com-ikmcdaniel.warc.gz	0
-ikmcdaniel	public.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	public.me.com-ikmcdaniel.warc.gz	0
-ikmcdaniel	web.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	web.me.com-ikmcdaniel.warc.gz	0
-incendio	gallery.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	gallery.me.com-incendio.warc.gz	0
-incendio	homepage.mac.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	homepage.mac.com-incendio.warc.gz	0
-incendio	public.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	public.me.com-incendio.warc.gz	0
-incendio	web.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	web.me.com-incendio.warc.gz	0
-nancypollak	gallery.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	gallery.me.com-nancypollak.warc.gz	0
-nancypollak	homepage.mac.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	homepage.mac.com-nancypollak.warc.gz	0
-nancypollak	public.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	public.me.com-nancypollak.warc.gz	0
-nancypollak	web.me.com		archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	web.me.com-nancypollak.warc.gz	0
+act2act	gallery.me.com	2012-04-02 10:17:30	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	gallery.me.com-act2act.warc.gz	12320
+act2act	homepage.mac.com	2012-04-02 10:17:35	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	homepage.mac.com-act2act.warc.gz	7138
+act2act	public.me.com	2012-04-02 10:17:26	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	public.me.com-act2act.warc.gz	1902
+act2act	web.me.com	2012-04-02 10:17:26	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	web.me.com-act2act.warc.gz	22470
+brianstoffer	gallery.me.com	2012-04-02 12:42:02	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	gallery.me.com-brianstoffer.warc.gz	15941958
+brianstoffer	homepage.mac.com	2012-04-02 12:42:03	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	homepage.mac.com-brianstoffer.warc.gz	4921
+brianstoffer	public.me.com	2012-04-02 12:40:42	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	public.me.com-brianstoffer.warc.gz	1925
+brianstoffer	web.me.com	2012-04-02 12:40:40	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	web.me.com-brianstoffer.warc.gz	421270849
+culturewarrior	gallery.me.com	2012-04-02 10:23:26	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	gallery.me.com-culturewarrior.warc.gz	3128576
+culturewarrior	homepage.mac.com	2012-04-02 10:23:28	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	homepage.mac.com-culturewarrior.warc.gz	4938
+culturewarrior	public.me.com	2012-04-02 10:23:16	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	public.me.com-culturewarrior.warc.gz	3353
+culturewarrior	web.me.com	2012-04-02 10:23:10	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	web.me.com-culturewarrior.warc.gz	2186560
+dzherlitsyn	gallery.me.com	2012-04-02 15:08:35	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	gallery.me.com-dzherlitsyn.warc.gz	4161109748
+dzherlitsyn	homepage.mac.com	2012-04-02 15:08:36	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	homepage.mac.com-dzherlitsyn.warc.gz	4936
+dzherlitsyn	public.me.com	2012-04-02 13:00:44	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	public.me.com-dzherlitsyn.warc.gz	4894
+dzherlitsyn	web.me.com	2012-04-02 13:00:42	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	web.me.com-dzherlitsyn.warc.gz	30838024
+gilchristm	gallery.me.com	2012-04-02 10:20:23	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	gallery.me.com-gilchristm.warc.gz	4254
+gilchristm	homepage.mac.com	2012-04-02 10:20:23	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	homepage.mac.com-gilchristm.warc.gz	4894
+gilchristm	public.me.com	2012-04-02 10:20:22	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	public.me.com-gilchristm.warc.gz	1920
+gilchristm	web.me.com	2012-04-02 10:20:21	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	web.me.com-gilchristm.warc.gz	2348401
+ikmcdaniel	gallery.me.com	2012-04-02 11:31:16	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	gallery.me.com-ikmcdaniel.warc.gz	1456024672
+ikmcdaniel	homepage.mac.com	2012-04-02 11:31:17	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	homepage.mac.com-ikmcdaniel.warc.gz	4926
+ikmcdaniel	public.me.com	2012-04-02 10:34:21	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	public.me.com-ikmcdaniel.warc.gz	1921
+ikmcdaniel	web.me.com	2012-04-02 10:34:19	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	web.me.com-ikmcdaniel.warc.gz	20562430
+incendio	gallery.me.com	2012-04-02 12:42:34	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	gallery.me.com-incendio.warc.gz	8466
+incendio	homepage.mac.com	2012-04-02 12:42:34	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	homepage.mac.com-incendio.warc.gz	4909
+incendio	public.me.com	2012-04-02 12:42:32	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	public.me.com-incendio.warc.gz	1909
+incendio	web.me.com	2012-04-02 12:42:27	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	web.me.com-incendio.warc.gz	334047
+nancypollak	gallery.me.com	2012-04-02 11:41:02	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	gallery.me.com-nancypollak.warc.gz	10814596
+nancypollak	homepage.mac.com	2012-04-02 11:41:02	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	homepage.mac.com-nancypollak.warc.gz	4905
+nancypollak	public.me.com	2012-04-02 11:40:48	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	public.me.com-nancypollak.warc.gz	2502774
+nancypollak	web.me.com	2012-04-02 11:40:43	archiveteam-mobileme-hero-299x	archiveteam-mobileme-hero-299x-2992.tar	web.me.com-nancypollak.warc.gz	26494692

@@ -1,8 +1,8 @@
-jimmychickey	gallery.me.com		archiveteam-mobileme-hero-413x	archiveteam-mobileme-hero-413x-4133.tar	gallery.me.com-jimmychickey.warc.gz	0
-jimmychickey	homepage.mac.com		archiveteam-mobileme-hero-413x	archiveteam-mobileme-hero-413x-4133.tar	homepage.mac.com-jimmychickey.warc.gz	0
-jimmychickey	public.me.com		archiveteam-mobileme-hero-413x	archiveteam-mobileme-hero-413x-4133.tar	public.me.com-jimmychickey.warc.gz	0
-jimmychickey	web.me.com		archiveteam-mobileme-hero-413x	archiveteam-mobileme-hero-413x-4133.tar	web.me.com-jimmychickey.warc.gz	0
-ohtajiro	gallery.me.com		archiveteam-mobileme-hero-413x	archiveteam-mobileme-hero-413x-4133.tar	gallery.me.com-ohtajiro.warc.gz	0
-ohtajiro	homepage.mac.com		archiveteam-mobileme-hero-413x	archiveteam-mobileme-hero-413x-4133.tar	homepage.mac.com-ohtajiro.warc.gz	0
-ohtajiro	public.me.com		archiveteam-mobileme-hero-413x	archiveteam-mobileme-hero-413x-4133.tar	public.me.com-ohtajiro.warc.gz	0
-ohtajiro	web.me.com		archiveteam-mobileme-hero-413x	archiveteam-mobileme-hero-413x-4133.tar	web.me.com-ohtajiro.warc.gz	0
+jimmychickey	gallery.me.com	2012-04-05 06:52:12	archiveteam-mobileme-hero-413x	archiveteam-mobileme-hero-413x-4133.tar	gallery.me.com-jimmychickey.warc.gz	5379410095
+jimmychickey	homepage.mac.com	2012-04-05 06:52:12	archiveteam-mobileme-hero-413x	archiveteam-mobileme-hero-413x-4133.tar	homepage.mac.com-jimmychickey.warc.gz	4940
+jimmychickey	public.me.com	2012-04-05 05:55:53	archiveteam-mobileme-hero-413x	archiveteam-mobileme-hero-413x-4133.tar	public.me.com-jimmychickey.warc.gz	1932
+jimmychickey	web.me.com	2012-04-05 05:55:30	archiveteam-mobileme-hero-413x	archiveteam-mobileme-hero-413x-4133.tar	web.me.com-jimmychickey.warc.gz	6339977785
+ohtajiro	gallery.me.com	2012-04-05 04:23:17	archiveteam-mobileme-hero-413x	archiveteam-mobileme-hero-413x-4133.tar	gallery.me.com-ohtajiro.warc.gz	21662678
+ohtajiro	homepage.mac.com	2012-04-05 04:23:19	archiveteam-mobileme-hero-413x	archiveteam-mobileme-hero-413x-4133.tar	homepage.mac.com-ohtajiro.warc.gz	79469
+ohtajiro	public.me.com	2012-04-05 04:22:47	archiveteam-mobileme-hero-413x	archiveteam-mobileme-hero-413x-4133.tar	public.me.com-ohtajiro.warc.gz	34586654
+ohtajiro	web.me.com	2012-04-05 04:20:48	archiveteam-mobileme-hero-413x	archiveteam-mobileme-hero-413x-4133.tar	web.me.com-ohtajiro.warc.gz	234767

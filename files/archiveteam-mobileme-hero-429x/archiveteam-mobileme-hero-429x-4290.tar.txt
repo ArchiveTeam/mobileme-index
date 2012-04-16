@@ -1,16 +1,16 @@
-andyorley	gallery.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	gallery.me.com-andyorley.warc.gz	0
-andyorley	homepage.mac.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	homepage.mac.com-andyorley.warc.gz	0
-andyorley	public.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	public.me.com-andyorley.warc.gz	0
-andyorley	web.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	web.me.com-andyorley.warc.gz	0
-brettbibby	gallery.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	gallery.me.com-brettbibby.warc.gz	0
-brettbibby	homepage.mac.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	homepage.mac.com-brettbibby.warc.gz	0
-brettbibby	public.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	public.me.com-brettbibby.warc.gz	0
-brettbibby	web.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	web.me.com-brettbibby.warc.gz	0
-cherylandherb	gallery.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	gallery.me.com-cherylandherb.warc.gz	0
-cherylandherb	homepage.mac.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	homepage.mac.com-cherylandherb.warc.gz	0
-cherylandherb	public.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	public.me.com-cherylandherb.warc.gz	0
-cherylandherb	web.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	web.me.com-cherylandherb.warc.gz	0
-locustfilms	gallery.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	gallery.me.com-locustfilms.warc.gz	0
-locustfilms	homepage.mac.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	homepage.mac.com-locustfilms.warc.gz	0
-locustfilms	public.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	public.me.com-locustfilms.warc.gz	0
-locustfilms	web.me.com		archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	web.me.com-locustfilms.warc.gz	0
+andyorley	gallery.me.com	2012-04-05 13:56:36	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	gallery.me.com-andyorley.warc.gz	4286
+andyorley	homepage.mac.com	2012-04-05 13:56:36	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	homepage.mac.com-andyorley.warc.gz	4907
+andyorley	public.me.com	2012-04-05 13:56:36	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	public.me.com-andyorley.warc.gz	333077018
+andyorley	web.me.com	2012-04-05 13:49:15	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	web.me.com-andyorley.warc.gz	55094095
+brettbibby	gallery.me.com	2012-04-05 13:33:21	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	gallery.me.com-brettbibby.warc.gz	4286
+brettbibby	homepage.mac.com	2012-04-05 13:33:22	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	homepage.mac.com-brettbibby.warc.gz	4930
+brettbibby	public.me.com	2012-04-05 13:33:21	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	public.me.com-brettbibby.warc.gz	5775564
+brettbibby	web.me.com	2012-04-05 13:32:51	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	web.me.com-brettbibby.warc.gz	845878965
+cherylandherb	gallery.me.com	2012-04-05 13:47:27	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	gallery.me.com-cherylandherb.warc.gz	110446554
+cherylandherb	homepage.mac.com	2012-04-05 13:47:28	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	homepage.mac.com-cherylandherb.warc.gz	4935
+cherylandherb	public.me.com	2012-04-05 13:41:22	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	public.me.com-cherylandherb.warc.gz	1917
+cherylandherb	web.me.com	2012-04-05 13:41:22	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	web.me.com-cherylandherb.warc.gz	59447628
+locustfilms	gallery.me.com	2012-04-05 15:36:44	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	gallery.me.com-locustfilms.warc.gz	100304979
+locustfilms	homepage.mac.com	2012-04-05 15:36:48	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	homepage.mac.com-locustfilms.warc.gz	83952
+locustfilms	public.me.com	2012-04-05 15:35:55	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	public.me.com-locustfilms.warc.gz	2197394866
+locustfilms	web.me.com	2012-04-05 14:46:00	archiveteam-mobileme-hero-429x	archiveteam-mobileme-hero-429x-4290.tar	web.me.com-locustfilms.warc.gz	2397358354

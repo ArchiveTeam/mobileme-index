@@ -1,16 +1,16 @@
-chenic	gallery.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	gallery.me.com-chenic.warc.gz	0
-chenic	homepage.mac.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	homepage.mac.com-chenic.warc.gz	0
-chenic	public.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	public.me.com-chenic.warc.gz	0
-chenic	web.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	web.me.com-chenic.warc.gz	0
-massimofrascella	gallery.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	gallery.me.com-massimofrascella.warc.gz	0
-massimofrascella	homepage.mac.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	homepage.mac.com-massimofrascella.warc.gz	0
-massimofrascella	public.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	public.me.com-massimofrascella.warc.gz	0
-massimofrascella	web.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	web.me.com-massimofrascella.warc.gz	0
-nhcpodcast	gallery.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	gallery.me.com-nhcpodcast.warc.gz	0
-nhcpodcast	homepage.mac.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	homepage.mac.com-nhcpodcast.warc.gz	0
-nhcpodcast	public.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	public.me.com-nhcpodcast.warc.gz	0
-nhcpodcast	web.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	web.me.com-nhcpodcast.warc.gz	0
-toddamos	gallery.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	gallery.me.com-toddamos.warc.gz	0
-toddamos	homepage.mac.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	homepage.mac.com-toddamos.warc.gz	0
-toddamos	public.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	public.me.com-toddamos.warc.gz	0
-toddamos	web.me.com		archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	web.me.com-toddamos.warc.gz	0
+chenic	gallery.me.com	2012-04-12 06:52:52	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	gallery.me.com-chenic.warc.gz	4220
+chenic	homepage.mac.com	2012-04-12 06:52:55	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	homepage.mac.com-chenic.warc.gz	4905
+chenic	public.me.com	2012-04-12 06:52:52	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	public.me.com-chenic.warc.gz	1906
+chenic	web.me.com	2012-04-12 06:52:51	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	web.me.com-chenic.warc.gz	166115092
+massimofrascella	gallery.me.com	2012-04-12 06:24:27	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	gallery.me.com-massimofrascella.warc.gz	3456481820
+massimofrascella	homepage.mac.com	2012-04-12 06:24:32	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	homepage.mac.com-massimofrascella.warc.gz	63687
+massimofrascella	public.me.com	2012-04-12 05:31:33	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	public.me.com-massimofrascella.warc.gz	1931
+massimofrascella	web.me.com	2012-04-12 05:31:33	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	web.me.com-massimofrascella.warc.gz	110879657
+nhcpodcast	gallery.me.com	2012-04-12 06:52:57	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	gallery.me.com-nhcpodcast.warc.gz	12321
+nhcpodcast	homepage.mac.com	2012-04-12 06:52:57	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	homepage.mac.com-nhcpodcast.warc.gz	7145
+nhcpodcast	public.me.com	2012-04-12 06:52:56	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	public.me.com-nhcpodcast.warc.gz	1918
+nhcpodcast	web.me.com	2012-04-12 06:52:56	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	web.me.com-nhcpodcast.warc.gz	22461
+toddamos	gallery.me.com	2012-04-12 07:35:14	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	gallery.me.com-toddamos.warc.gz	669583222
+toddamos	homepage.mac.com	2012-04-12 07:35:14	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	homepage.mac.com-toddamos.warc.gz	4916
+toddamos	public.me.com	2012-04-12 07:24:19	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	public.me.com-toddamos.warc.gz	1914
+toddamos	web.me.com	2012-04-12 07:24:19	archiveteam-mobileme-hero-665x	archiveteam-mobileme-hero-665x-6658.tar	web.me.com-toddamos.warc.gz	689023486

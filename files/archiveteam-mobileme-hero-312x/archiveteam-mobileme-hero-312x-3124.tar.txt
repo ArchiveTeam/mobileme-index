@@ -1,16 +1,16 @@
-echaikin	gallery.me.com		archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	gallery.me.com-echaikin.warc.gz	0
-echaikin	homepage.mac.com		archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	homepage.mac.com-echaikin.warc.gz	0
-echaikin	public.me.com		archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	public.me.com-echaikin.warc.gz	0
-echaikin	web.me.com		archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	web.me.com-echaikin.warc.gz	0
-edward_ward	gallery.me.com		archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	gallery.me.com-edward_ward.warc.gz	0
-edward_ward	homepage.mac.com		archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	homepage.mac.com-edward_ward.warc.gz	0
-edward_ward	public.me.com		archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	public.me.com-edward_ward.warc.gz	0
-edward_ward	web.me.com		archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	web.me.com-edward_ward.warc.gz	0
-kevindprice	gallery.me.com		archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	gallery.me.com-kevindprice.warc.gz	0
-kevindprice	homepage.mac.com		archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	homepage.mac.com-kevindprice.warc.gz	0
-kevindprice	public.me.com		archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	public.me.com-kevindprice.warc.gz	0
-kevindprice	web.me.com		archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	web.me.com-kevindprice.warc.gz	0
-mcgartysan	gallery.me.com		archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	gallery.me.com-mcgartysan.warc.gz	0
-mcgartysan	homepage.mac.com		archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	homepage.mac.com-mcgartysan.warc.gz	0
-mcgartysan	public.me.com		archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	public.me.com-mcgartysan.warc.gz	0
-mcgartysan	web.me.com		archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	web.me.com-mcgartysan.warc.gz	0
+echaikin	gallery.me.com	2012-04-02 20:24:33	archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	gallery.me.com-echaikin.warc.gz	4282
+echaikin	homepage.mac.com	2012-04-02 20:24:34	archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	homepage.mac.com-echaikin.warc.gz	4907
+echaikin	public.me.com	2012-04-02 20:24:32	archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	public.me.com-echaikin.warc.gz	25548
+echaikin	web.me.com	2012-04-02 20:24:30	archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	web.me.com-echaikin.warc.gz	2296412
+edward_ward	gallery.me.com	2012-04-02 20:20:31	archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	gallery.me.com-edward_ward.warc.gz	14517859
+edward_ward	homepage.mac.com	2012-04-02 20:20:31	archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	homepage.mac.com-edward_ward.warc.gz	4922
+edward_ward	public.me.com	2012-04-02 20:19:52	archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	public.me.com-edward_ward.warc.gz	89931669
+edward_ward	web.me.com	2012-04-02 20:15:24	archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	web.me.com-edward_ward.warc.gz	102890688
+kevindprice	gallery.me.com	2012-04-02 20:22:54	archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	gallery.me.com-kevindprice.warc.gz	4260
+kevindprice	homepage.mac.com	2012-04-02 20:22:54	archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	homepage.mac.com-kevindprice.warc.gz	4907
+kevindprice	public.me.com	2012-04-02 20:22:53	archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	public.me.com-kevindprice.warc.gz	1925
+kevindprice	web.me.com	2012-04-02 20:22:53	archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	web.me.com-kevindprice.warc.gz	3704398
+mcgartysan	gallery.me.com	2012-04-02 22:02:15	archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	gallery.me.com-mcgartysan.warc.gz	3269761179
+mcgartysan	homepage.mac.com	2012-04-02 22:02:19	archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	homepage.mac.com-mcgartysan.warc.gz	36902
+mcgartysan	public.me.com	2012-04-02 21:30:53	archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	public.me.com-mcgartysan.warc.gz	1912
+mcgartysan	web.me.com	2012-04-02 21:30:51	archiveteam-mobileme-hero-312x	archiveteam-mobileme-hero-312x-3124.tar	web.me.com-mcgartysan.warc.gz	1183406898

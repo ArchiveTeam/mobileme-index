@@ -1,12 +1,12 @@
-flaroche	gallery.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	gallery.me.com-flaroche.warc.gz	0
-flaroche	homepage.mac.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	homepage.mac.com-flaroche.warc.gz	0
-flaroche	public.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	public.me.com-flaroche.warc.gz	0
-flaroche	web.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	web.me.com-flaroche.warc.gz	0
-georgiaboy100	gallery.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	gallery.me.com-georgiaboy100.warc.gz	0
-georgiaboy100	homepage.mac.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	homepage.mac.com-georgiaboy100.warc.gz	0
-georgiaboy100	public.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	public.me.com-georgiaboy100.warc.gz	0
-georgiaboy100	web.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	web.me.com-georgiaboy100.warc.gz	0
-kevcarmiller	gallery.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	gallery.me.com-kevcarmiller.warc.gz	0
-kevcarmiller	homepage.mac.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	homepage.mac.com-kevcarmiller.warc.gz	0
-kevcarmiller	public.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	public.me.com-kevcarmiller.warc.gz	0
-kevcarmiller	web.me.com		archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	web.me.com-kevcarmiller.warc.gz	0
+flaroche	gallery.me.com	2012-04-04 16:29:35	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	gallery.me.com-flaroche.warc.gz	2345833634
+flaroche	homepage.mac.com	2012-04-04 16:29:39	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	homepage.mac.com-flaroche.warc.gz	117077
+flaroche	public.me.com	2012-04-04 15:59:50	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	public.me.com-flaroche.warc.gz	16599
+flaroche	web.me.com	2012-04-04 15:59:47	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	web.me.com-flaroche.warc.gz	684192950
+georgiaboy100	gallery.me.com	2012-04-04 15:33:09	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	gallery.me.com-georgiaboy100.warc.gz	377313103
+georgiaboy100	homepage.mac.com	2012-04-04 15:33:14	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	homepage.mac.com-georgiaboy100.warc.gz	112605
+georgiaboy100	public.me.com	2012-04-04 15:27:57	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	public.me.com-georgiaboy100.warc.gz	1133288310
+georgiaboy100	web.me.com	2012-04-04 15:15:40	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	web.me.com-georgiaboy100.warc.gz	353752249
+kevcarmiller	gallery.me.com	2012-04-04 15:03:32	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	gallery.me.com-kevcarmiller.warc.gz	343141464
+kevcarmiller	homepage.mac.com	2012-04-04 15:03:32	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	homepage.mac.com-kevcarmiller.warc.gz	4914
+kevcarmiller	public.me.com	2012-04-04 15:00:44	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	public.me.com-kevcarmiller.warc.gz	1488424248
+kevcarmiller	web.me.com	2012-04-04 14:40:06	archiveteam-mobileme-hero-388x	archiveteam-mobileme-hero-388x-3881.tar	web.me.com-kevcarmiller.warc.gz	19391918

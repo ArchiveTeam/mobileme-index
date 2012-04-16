@@ -1,16 +1,16 @@
-bhornsby	gallery.me.com		archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	gallery.me.com-bhornsby.warc.gz	0
-bhornsby	homepage.mac.com		archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	homepage.mac.com-bhornsby.warc.gz	0
-bhornsby	public.me.com		archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	public.me.com-bhornsby.warc.gz	0
-bhornsby	web.me.com		archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	web.me.com-bhornsby.warc.gz	0
-evan.beatty	gallery.me.com		archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	gallery.me.com-evan.beatty.warc.gz	0
-evan.beatty	homepage.mac.com		archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	homepage.mac.com-evan.beatty.warc.gz	0
-evan.beatty	public.me.com		archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	public.me.com-evan.beatty.warc.gz	0
-evan.beatty	web.me.com		archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	web.me.com-evan.beatty.warc.gz	0
-michaelstraub	gallery.me.com		archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	gallery.me.com-michaelstraub.warc.gz	0
-michaelstraub	homepage.mac.com		archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	homepage.mac.com-michaelstraub.warc.gz	0
-michaelstraub	public.me.com		archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	public.me.com-michaelstraub.warc.gz	0
-michaelstraub	web.me.com		archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	web.me.com-michaelstraub.warc.gz	0
-toru2004	gallery.me.com		archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	gallery.me.com-toru2004.warc.gz	0
-toru2004	homepage.mac.com		archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	homepage.mac.com-toru2004.warc.gz	0
-toru2004	public.me.com		archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	public.me.com-toru2004.warc.gz	0
-toru2004	web.me.com		archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	web.me.com-toru2004.warc.gz	0
+bhornsby	gallery.me.com	2012-03-31 04:43:41	archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	gallery.me.com-bhornsby.warc.gz	12353
+bhornsby	homepage.mac.com	2012-03-31 04:43:42	archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	homepage.mac.com-bhornsby.warc.gz	7172
+bhornsby	public.me.com	2012-03-31 04:43:40	archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	public.me.com-bhornsby.warc.gz	1919
+bhornsby	web.me.com	2012-03-31 04:43:40	archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	web.me.com-bhornsby.warc.gz	22555
+evan.beatty	gallery.me.com	2012-03-31 04:43:45	archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	gallery.me.com-evan.beatty.warc.gz	8370
+evan.beatty	homepage.mac.com	2012-03-31 04:43:45	archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	homepage.mac.com-evan.beatty.warc.gz	5189
+evan.beatty	public.me.com	2012-03-31 04:43:45	archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	public.me.com-evan.beatty.warc.gz	1922
+evan.beatty	web.me.com	2012-03-31 04:43:44	archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	web.me.com-evan.beatty.warc.gz	17727
+michaelstraub	gallery.me.com	2012-03-31 09:10:31	archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	gallery.me.com-michaelstraub.warc.gz	5378235176
+michaelstraub	homepage.mac.com	2012-03-31 09:10:31	archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	homepage.mac.com-michaelstraub.warc.gz	4929
+michaelstraub	public.me.com	2012-03-31 06:49:50	archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	public.me.com-michaelstraub.warc.gz	1931
+michaelstraub	web.me.com	2012-03-31 06:49:49	archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	web.me.com-michaelstraub.warc.gz	152830126
+toru2004	gallery.me.com	2012-03-31 04:50:25	archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	gallery.me.com-toru2004.warc.gz	5336
+toru2004	homepage.mac.com	2012-03-31 04:50:55	archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	homepage.mac.com-toru2004.warc.gz	304959
+toru2004	public.me.com	2012-03-31 04:50:24	archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	public.me.com-toru2004.warc.gz	1915
+toru2004	web.me.com	2012-03-31 04:50:24	archiveteam-mobileme-hero-235x	archiveteam-mobileme-hero-235x-2352.tar	web.me.com-toru2004.warc.gz	23263764

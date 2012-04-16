@@ -1,12 +1,12 @@
-brianmac625	gallery.me.com		archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	gallery.me.com-brianmac625.warc.gz	0
-brianmac625	homepage.mac.com		archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	homepage.mac.com-brianmac625.warc.gz	0
-brianmac625	public.me.com		archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	public.me.com-brianmac625.warc.gz	0
-brianmac625	web.me.com		archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	web.me.com-brianmac625.warc.gz	0
-sgima2	gallery.me.com		archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	gallery.me.com-sgima2.warc.gz	0
-sgima2	homepage.mac.com		archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	homepage.mac.com-sgima2.warc.gz	0
-sgima2	public.me.com		archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	public.me.com-sgima2.warc.gz	0
-sgima2	web.me.com		archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	web.me.com-sgima2.warc.gz	0
-susandan	gallery.me.com		archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	gallery.me.com-susandan.warc.gz	0
-susandan	homepage.mac.com		archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	homepage.mac.com-susandan.warc.gz	0
-susandan	public.me.com		archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	public.me.com-susandan.warc.gz	0
-susandan	web.me.com		archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	web.me.com-susandan.warc.gz	0
+brianmac625	gallery.me.com	2012-04-12 08:01:19	archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	gallery.me.com-brianmac625.warc.gz	194782688
+brianmac625	homepage.mac.com	2012-04-12 08:01:32	archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	homepage.mac.com-brianmac625.warc.gz	249228
+brianmac625	public.me.com	2012-04-12 07:59:06	archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	public.me.com-brianmac625.warc.gz	1896350392
+brianmac625	web.me.com	2012-04-12 07:32:19	archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	web.me.com-brianmac625.warc.gz	14986190
+sgima2	gallery.me.com	2012-04-12 07:28:45	archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	gallery.me.com-sgima2.warc.gz	8337
+sgima2	homepage.mac.com	2012-04-12 07:28:45	archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	homepage.mac.com-sgima2.warc.gz	5160
+sgima2	public.me.com	2012-04-12 07:28:44	archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	public.me.com-sgima2.warc.gz	1906
+sgima2	web.me.com	2012-04-12 07:28:44	archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	web.me.com-sgima2.warc.gz	17695
+susandan	gallery.me.com	2012-04-12 07:28:41	archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	gallery.me.com-susandan.warc.gz	3890241013
+susandan	homepage.mac.com	2012-04-12 07:28:42	archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	homepage.mac.com-susandan.warc.gz	4906
+susandan	public.me.com	2012-04-12 06:34:01	archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	public.me.com-susandan.warc.gz	3477
+susandan	web.me.com	2012-04-12 06:34:00	archiveteam-mobileme-hero-666x	archiveteam-mobileme-hero-666x-6666.tar	web.me.com-susandan.warc.gz	45289223

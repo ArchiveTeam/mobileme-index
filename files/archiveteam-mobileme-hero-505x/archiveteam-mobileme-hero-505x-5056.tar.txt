@@ -1,8 +1,8 @@
-jxmartinez	gallery.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5056.tar	gallery.me.com-jxmartinez.warc.gz	0
-jxmartinez	homepage.mac.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5056.tar	homepage.mac.com-jxmartinez.warc.gz	0
-jxmartinez	public.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5056.tar	public.me.com-jxmartinez.warc.gz	0
-jxmartinez	web.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5056.tar	web.me.com-jxmartinez.warc.gz	0
-michaelsimpson	gallery.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5056.tar	gallery.me.com-michaelsimpson.warc.gz	0
-michaelsimpson	homepage.mac.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5056.tar	homepage.mac.com-michaelsimpson.warc.gz	0
-michaelsimpson	public.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5056.tar	public.me.com-michaelsimpson.warc.gz	0
-michaelsimpson	web.me.com		archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5056.tar	web.me.com-michaelsimpson.warc.gz	0
+jxmartinez	gallery.me.com	2012-04-08 02:50:16	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5056.tar	gallery.me.com-jxmartinez.warc.gz	5896404605
+jxmartinez	homepage.mac.com	2012-04-08 02:50:19	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5056.tar	homepage.mac.com-jxmartinez.warc.gz	37036
+jxmartinez	public.me.com	2012-04-08 00:31:47	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5056.tar	public.me.com-jxmartinez.warc.gz	1924
+jxmartinez	web.me.com	2012-04-08 00:31:46	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5056.tar	web.me.com-jxmartinez.warc.gz	1640014926
+michaelsimpson	gallery.me.com	2012-04-07 22:59:59	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5056.tar	gallery.me.com-michaelsimpson.warc.gz	9003
+michaelsimpson	homepage.mac.com	2012-04-07 23:00:07	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5056.tar	homepage.mac.com-michaelsimpson.warc.gz	112095
+michaelsimpson	public.me.com	2012-04-07 22:59:58	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5056.tar	public.me.com-michaelsimpson.warc.gz	1933
+michaelsimpson	web.me.com	2012-04-07 22:59:57	archiveteam-mobileme-hero-505x	archiveteam-mobileme-hero-505x-5056.tar	web.me.com-michaelsimpson.warc.gz	11256509

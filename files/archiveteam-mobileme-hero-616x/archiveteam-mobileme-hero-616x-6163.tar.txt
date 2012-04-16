@@ -1,28 +1,28 @@
-a.cesbron	gallery.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	gallery.me.com-a.cesbron.warc.gz	0
-a.cesbron	homepage.mac.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	homepage.mac.com-a.cesbron.warc.gz	0
-a.cesbron	public.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	public.me.com-a.cesbron.warc.gz	0
-a.cesbron	web.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	web.me.com-a.cesbron.warc.gz	0
-bldonnell	gallery.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	gallery.me.com-bldonnell.warc.gz	0
-bldonnell	homepage.mac.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	homepage.mac.com-bldonnell.warc.gz	0
-bldonnell	public.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	public.me.com-bldonnell.warc.gz	0
-bldonnell	web.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	web.me.com-bldonnell.warc.gz	0
-jconvers	gallery.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	gallery.me.com-jconvers.warc.gz	0
-jconvers	homepage.mac.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	homepage.mac.com-jconvers.warc.gz	0
-jconvers	public.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	public.me.com-jconvers.warc.gz	0
-jconvers	web.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	web.me.com-jconvers.warc.gz	0
-joshuaseth	gallery.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	gallery.me.com-joshuaseth.warc.gz	0
-joshuaseth	homepage.mac.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	homepage.mac.com-joshuaseth.warc.gz	0
-joshuaseth	public.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	public.me.com-joshuaseth.warc.gz	0
-joshuaseth	web.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	web.me.com-joshuaseth.warc.gz	0
-objectifcongres	gallery.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	gallery.me.com-objectifcongres.warc.gz	0
-objectifcongres	homepage.mac.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	homepage.mac.com-objectifcongres.warc.gz	0
-objectifcongres	public.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	public.me.com-objectifcongres.warc.gz	0
-objectifcongres	web.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	web.me.com-objectifcongres.warc.gz	0
-seefeldt	gallery.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	gallery.me.com-seefeldt.warc.gz	0
-seefeldt	homepage.mac.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	homepage.mac.com-seefeldt.warc.gz	0
-seefeldt	public.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	public.me.com-seefeldt.warc.gz	0
-seefeldt	web.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	web.me.com-seefeldt.warc.gz	0
-synergy.yachting	gallery.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	gallery.me.com-synergy.yachting.warc.gz	0
-synergy.yachting	homepage.mac.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	homepage.mac.com-synergy.yachting.warc.gz	0
-synergy.yachting	public.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	public.me.com-synergy.yachting.warc.gz	0
-synergy.yachting	web.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	web.me.com-synergy.yachting.warc.gz	0
+a.cesbron	gallery.me.com	2012-04-11 00:18:51	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	gallery.me.com-a.cesbron.warc.gz	13758207
+a.cesbron	homepage.mac.com	2012-04-11 00:18:52	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	homepage.mac.com-a.cesbron.warc.gz	4913
+a.cesbron	public.me.com	2012-04-11 00:18:28	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	public.me.com-a.cesbron.warc.gz	4537
+a.cesbron	web.me.com	2012-04-11 00:18:27	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	web.me.com-a.cesbron.warc.gz	139142305
+bldonnell	gallery.me.com	2012-04-11 00:46:02	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	gallery.me.com-bldonnell.warc.gz	12305
+bldonnell	homepage.mac.com	2012-04-11 00:46:02	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	homepage.mac.com-bldonnell.warc.gz	7150
+bldonnell	public.me.com	2012-04-11 00:46:00	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	public.me.com-bldonnell.warc.gz	1917
+bldonnell	web.me.com	2012-04-11 00:46:00	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	web.me.com-bldonnell.warc.gz	22486
+jconvers	gallery.me.com	2012-04-11 02:12:43	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	gallery.me.com-jconvers.warc.gz	2347393449
+jconvers	homepage.mac.com	2012-04-11 02:12:43	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	homepage.mac.com-jconvers.warc.gz	7885
+jconvers	public.me.com	2012-04-11 01:40:29	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	public.me.com-jconvers.warc.gz	326319113
+jconvers	web.me.com	2012-04-11 01:36:56	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	web.me.com-jconvers.warc.gz	130900282
+joshuaseth	gallery.me.com	2012-04-11 00:44:18	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	gallery.me.com-joshuaseth.warc.gz	271132034
+joshuaseth	homepage.mac.com	2012-04-11 00:44:22	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	homepage.mac.com-joshuaseth.warc.gz	86045
+joshuaseth	public.me.com	2012-04-11 00:36:34	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	public.me.com-joshuaseth.warc.gz	1924
+joshuaseth	web.me.com	2012-04-11 00:36:33	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	web.me.com-joshuaseth.warc.gz	347902764
+objectifcongres	gallery.me.com	2012-04-11 00:45:56	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	gallery.me.com-objectifcongres.warc.gz	4282
+objectifcongres	homepage.mac.com	2012-04-11 00:45:59	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	homepage.mac.com-objectifcongres.warc.gz	4945
+objectifcongres	public.me.com	2012-04-11 00:45:56	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	public.me.com-objectifcongres.warc.gz	1932
+objectifcongres	web.me.com	2012-04-11 00:45:56	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	web.me.com-objectifcongres.warc.gz	14061461
+seefeldt	gallery.me.com	2012-04-11 00:50:25	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	gallery.me.com-seefeldt.warc.gz	5654
+seefeldt	homepage.mac.com	2012-04-11 00:50:42	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	homepage.mac.com-seefeldt.warc.gz	178634
+seefeldt	public.me.com	2012-04-11 00:50:24	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	public.me.com-seefeldt.warc.gz	1914
+seefeldt	web.me.com	2012-04-11 00:50:23	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	web.me.com-seefeldt.warc.gz	9170925
+synergy.yachting	gallery.me.com	2012-04-11 01:21:49	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	gallery.me.com-synergy.yachting.warc.gz	510668408
+synergy.yachting	homepage.mac.com	2012-04-11 01:21:49	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	homepage.mac.com-synergy.yachting.warc.gz	4942
+synergy.yachting	public.me.com	2012-04-11 01:07:14	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	public.me.com-synergy.yachting.warc.gz	76901165
+synergy.yachting	web.me.com	2012-04-11 01:05:07	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6163.tar	web.me.com-synergy.yachting.warc.gz	92716767

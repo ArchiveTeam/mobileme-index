@@ -1,8 +1,8 @@
-tedmason1	gallery.me.com		archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2670.tar	gallery.me.com-tedmason1.warc.gz	0
-tedmason1	homepage.mac.com		archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2670.tar	homepage.mac.com-tedmason1.warc.gz	0
-tedmason1	public.me.com		archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2670.tar	public.me.com-tedmason1.warc.gz	0
-tedmason1	web.me.com		archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2670.tar	web.me.com-tedmason1.warc.gz	0
-twosfmen	gallery.me.com		archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2670.tar	gallery.me.com-twosfmen.warc.gz	0
-twosfmen	homepage.mac.com		archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2670.tar	homepage.mac.com-twosfmen.warc.gz	0
-twosfmen	public.me.com		archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2670.tar	public.me.com-twosfmen.warc.gz	0
-twosfmen	web.me.com		archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2670.tar	web.me.com-twosfmen.warc.gz	0
+tedmason1	gallery.me.com	2012-04-01 05:41:23	archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2670.tar	gallery.me.com-tedmason1.warc.gz	1370146
+tedmason1	homepage.mac.com	2012-04-01 05:41:24	archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2670.tar	homepage.mac.com-tedmason1.warc.gz	4918
+tedmason1	public.me.com	2012-04-01 05:40:55	archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2670.tar	public.me.com-tedmason1.warc.gz	966850957
+tedmason1	web.me.com	2012-04-01 01:55:56	archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2670.tar	web.me.com-tedmason1.warc.gz	1261257076
+twosfmen	gallery.me.com	2012-03-31 23:21:43	archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2670.tar	gallery.me.com-twosfmen.warc.gz	1910499703
+twosfmen	homepage.mac.com	2012-03-31 23:21:52	archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2670.tar	homepage.mac.com-twosfmen.warc.gz	4908
+twosfmen	public.me.com	2012-03-31 20:47:59	archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2670.tar	public.me.com-twosfmen.warc.gz	1913
+twosfmen	web.me.com	2012-03-31 20:47:49	archiveteam-mobileme-hero-267x	archiveteam-mobileme-hero-267x-2670.tar	web.me.com-twosfmen.warc.gz	415870634

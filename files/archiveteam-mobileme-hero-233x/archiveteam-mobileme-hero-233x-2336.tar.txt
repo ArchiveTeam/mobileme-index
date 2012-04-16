@@ -1,4 +1,4 @@
-ptp_producer	gallery.me.com		archiveteam-mobileme-hero-233x	archiveteam-mobileme-hero-233x-2336.tar	gallery.me.com-ptp_producer.warc.gz	0
-ptp_producer	homepage.mac.com		archiveteam-mobileme-hero-233x	archiveteam-mobileme-hero-233x-2336.tar	homepage.mac.com-ptp_producer.warc.gz	0
-ptp_producer	public.me.com		archiveteam-mobileme-hero-233x	archiveteam-mobileme-hero-233x-2336.tar	public.me.com-ptp_producer.warc.gz	0
-ptp_producer	web.me.com		archiveteam-mobileme-hero-233x	archiveteam-mobileme-hero-233x-2336.tar	web.me.com-ptp_producer.warc.gz	0
+ptp_producer	gallery.me.com	2012-03-31 07:02:30	archiveteam-mobileme-hero-233x	archiveteam-mobileme-hero-233x-2336.tar	gallery.me.com-ptp_producer.warc.gz	7557322086
+ptp_producer	homepage.mac.com	2012-03-31 07:05:05	archiveteam-mobileme-hero-233x	archiveteam-mobileme-hero-233x-2336.tar	homepage.mac.com-ptp_producer.warc.gz	1359229
+ptp_producer	public.me.com	2012-03-31 03:34:40	archiveteam-mobileme-hero-233x	archiveteam-mobileme-hero-233x-2336.tar	public.me.com-ptp_producer.warc.gz	87291885
+ptp_producer	web.me.com	2012-03-31 03:32:52	archiveteam-mobileme-hero-233x	archiveteam-mobileme-hero-233x-2336.tar	web.me.com-ptp_producer.warc.gz	1303843190

@@ -1,24 +1,24 @@
-atr4440	gallery.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	gallery.me.com-atr4440.warc.gz	0
-atr4440	homepage.mac.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	homepage.mac.com-atr4440.warc.gz	0
-atr4440	public.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	public.me.com-atr4440.warc.gz	0
-atr4440	web.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	web.me.com-atr4440.warc.gz	0
-checkendorn	gallery.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	gallery.me.com-checkendorn.warc.gz	0
-checkendorn	homepage.mac.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	homepage.mac.com-checkendorn.warc.gz	0
-checkendorn	public.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	public.me.com-checkendorn.warc.gz	0
-checkendorn	web.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	web.me.com-checkendorn.warc.gz	0
-derek.b	gallery.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	gallery.me.com-derek.b.warc.gz	0
-derek.b	homepage.mac.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	homepage.mac.com-derek.b.warc.gz	0
-derek.b	public.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	public.me.com-derek.b.warc.gz	0
-derek.b	web.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	web.me.com-derek.b.warc.gz	0
-fu_min2	gallery.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	gallery.me.com-fu_min2.warc.gz	0
-fu_min2	homepage.mac.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	homepage.mac.com-fu_min2.warc.gz	0
-fu_min2	public.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	public.me.com-fu_min2.warc.gz	0
-fu_min2	web.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	web.me.com-fu_min2.warc.gz	0
-leevylet	gallery.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	gallery.me.com-leevylet.warc.gz	0
-leevylet	homepage.mac.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	homepage.mac.com-leevylet.warc.gz	0
-leevylet	public.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	public.me.com-leevylet.warc.gz	0
-leevylet	web.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	web.me.com-leevylet.warc.gz	0
-notanurse	gallery.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	gallery.me.com-notanurse.warc.gz	0
-notanurse	homepage.mac.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	homepage.mac.com-notanurse.warc.gz	0
-notanurse	public.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	public.me.com-notanurse.warc.gz	0
-notanurse	web.me.com		archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	web.me.com-notanurse.warc.gz	0
+atr4440	gallery.me.com	2012-04-02 08:13:42	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	gallery.me.com-atr4440.warc.gz	8352
+atr4440	homepage.mac.com	2012-04-02 08:13:42	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	homepage.mac.com-atr4440.warc.gz	5146
+atr4440	public.me.com	2012-04-02 08:13:41	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	public.me.com-atr4440.warc.gz	1917
+atr4440	web.me.com	2012-04-02 08:13:41	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	web.me.com-atr4440.warc.gz	17666
+checkendorn	gallery.me.com	2012-04-02 08:06:51	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	gallery.me.com-checkendorn.warc.gz	2621673
+checkendorn	homepage.mac.com	2012-04-02 08:06:53	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	homepage.mac.com-checkendorn.warc.gz	128137
+checkendorn	public.me.com	2012-04-02 08:06:48	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	public.me.com-checkendorn.warc.gz	1939762452
+checkendorn	web.me.com	2012-04-02 07:56:26	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	web.me.com-checkendorn.warc.gz	27862447
+derek.b	gallery.me.com	2012-04-02 08:07:39	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	gallery.me.com-derek.b.warc.gz	5109
+derek.b	homepage.mac.com	2012-04-02 08:07:39	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	homepage.mac.com-derek.b.warc.gz	9416
+derek.b	public.me.com	2012-04-02 08:07:37	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	public.me.com-derek.b.warc.gz	4996499
+derek.b	web.me.com	2012-04-02 08:07:34	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	web.me.com-derek.b.warc.gz	3286736
+fu_min2	gallery.me.com	2012-04-02 07:55:10	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	gallery.me.com-fu_min2.warc.gz	8333
+fu_min2	homepage.mac.com	2012-04-02 07:55:10	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	homepage.mac.com-fu_min2.warc.gz	5172
+fu_min2	public.me.com	2012-04-02 07:55:09	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	public.me.com-fu_min2.warc.gz	1915
+fu_min2	web.me.com	2012-04-02 07:55:09	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	web.me.com-fu_min2.warc.gz	17737
+leevylet	gallery.me.com	2012-04-02 08:13:40	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	gallery.me.com-leevylet.warc.gz	5020
+leevylet	homepage.mac.com	2012-04-02 08:13:40	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	homepage.mac.com-leevylet.warc.gz	4918
+leevylet	public.me.com	2012-04-02 08:13:39	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	public.me.com-leevylet.warc.gz	1915
+leevylet	web.me.com	2012-04-02 08:13:38	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	web.me.com-leevylet.warc.gz	26644596
+notanurse	gallery.me.com	2012-04-02 09:00:14	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	gallery.me.com-notanurse.warc.gz	2298069351
+notanurse	homepage.mac.com	2012-04-02 09:00:14	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	homepage.mac.com-notanurse.warc.gz	4911
+notanurse	public.me.com	2012-04-02 08:42:05	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	public.me.com-notanurse.warc.gz	1919
+notanurse	web.me.com	2012-04-02 08:42:05	archiveteam-mobileme-hero-287x	archiveteam-mobileme-hero-287x-2874.tar	web.me.com-notanurse.warc.gz	360363396

@@ -1,8 +1,8 @@
-dave_clinton	gallery.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7265.tar	gallery.me.com-dave_clinton.warc.gz	0
-dave_clinton	homepage.mac.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7265.tar	homepage.mac.com-dave_clinton.warc.gz	0
-dave_clinton	public.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7265.tar	public.me.com-dave_clinton.warc.gz	0
-dave_clinton	web.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7265.tar	web.me.com-dave_clinton.warc.gz	0
-michaelschaffer1	gallery.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7265.tar	gallery.me.com-michaelschaffer1.warc.gz	0
-michaelschaffer1	homepage.mac.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7265.tar	homepage.mac.com-michaelschaffer1.warc.gz	0
-michaelschaffer1	public.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7265.tar	public.me.com-michaelschaffer1.warc.gz	0
-michaelschaffer1	web.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7265.tar	web.me.com-michaelschaffer1.warc.gz	0
+dave_clinton	gallery.me.com	2012-04-13 09:11:45	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7265.tar	gallery.me.com-dave_clinton.warc.gz	1520357095
+dave_clinton	homepage.mac.com	2012-04-13 09:11:45	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7265.tar	homepage.mac.com-dave_clinton.warc.gz	4916
+dave_clinton	public.me.com	2012-04-13 08:49:03	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7265.tar	public.me.com-dave_clinton.warc.gz	1924
+dave_clinton	web.me.com	2012-04-13 08:49:02	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7265.tar	web.me.com-dave_clinton.warc.gz	6752233
+michaelschaffer1	gallery.me.com	2012-04-13 10:38:27	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7265.tar	gallery.me.com-michaelschaffer1.warc.gz	3971094504
+michaelschaffer1	homepage.mac.com	2012-04-13 10:38:28	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7265.tar	homepage.mac.com-michaelschaffer1.warc.gz	7905
+michaelschaffer1	public.me.com	2012-04-13 09:33:48	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7265.tar	public.me.com-michaelschaffer1.warc.gz	1932
+michaelschaffer1	web.me.com	2012-04-13 09:33:48	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7265.tar	web.me.com-michaelschaffer1.warc.gz	92553966

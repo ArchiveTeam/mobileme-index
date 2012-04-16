@@ -1,16 +1,16 @@
-bswick	gallery.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	gallery.me.com-bswick.warc.gz	0
-bswick	homepage.mac.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	homepage.mac.com-bswick.warc.gz	0
-bswick	public.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	public.me.com-bswick.warc.gz	0
-bswick	web.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	web.me.com-bswick.warc.gz	0
-cerealart	gallery.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	gallery.me.com-cerealart.warc.gz	0
-cerealart	homepage.mac.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	homepage.mac.com-cerealart.warc.gz	0
-cerealart	public.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	public.me.com-cerealart.warc.gz	0
-cerealart	web.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	web.me.com-cerealart.warc.gz	0
-hilarypatrickpro	gallery.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	gallery.me.com-hilarypatrickpro.warc.gz	0
-hilarypatrickpro	homepage.mac.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	homepage.mac.com-hilarypatrickpro.warc.gz	0
-hilarypatrickpro	public.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	public.me.com-hilarypatrickpro.warc.gz	0
-hilarypatrickpro	web.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	web.me.com-hilarypatrickpro.warc.gz	0
-oester	gallery.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	gallery.me.com-oester.warc.gz	0
-oester	homepage.mac.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	homepage.mac.com-oester.warc.gz	0
-oester	public.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	public.me.com-oester.warc.gz	0
-oester	web.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	web.me.com-oester.warc.gz	0
+bswick	gallery.me.com	2012-04-09 07:37:36	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	gallery.me.com-bswick.warc.gz	571721
+bswick	homepage.mac.com	2012-04-09 07:37:37	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	homepage.mac.com-bswick.warc.gz	4899
+bswick	public.me.com	2012-04-09 07:37:24	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	public.me.com-bswick.warc.gz	1910
+bswick	web.me.com	2012-04-09 07:37:22	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	web.me.com-bswick.warc.gz	63554248
+cerealart	gallery.me.com	2012-04-09 07:37:39	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	gallery.me.com-cerealart.warc.gz	8345
+cerealart	homepage.mac.com	2012-04-09 07:37:39	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	homepage.mac.com-cerealart.warc.gz	5164
+cerealart	public.me.com	2012-04-09 07:37:38	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	public.me.com-cerealart.warc.gz	1909
+cerealart	web.me.com	2012-04-09 07:37:38	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	web.me.com-cerealart.warc.gz	17676
+hilarypatrickpro	gallery.me.com	2012-04-09 08:43:07	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	gallery.me.com-hilarypatrickpro.warc.gz	258595998
+hilarypatrickpro	homepage.mac.com	2012-04-09 08:43:07	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	homepage.mac.com-hilarypatrickpro.warc.gz	4937
+hilarypatrickpro	public.me.com	2012-04-09 08:40:55	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	public.me.com-hilarypatrickpro.warc.gz	1929
+hilarypatrickpro	web.me.com	2012-04-09 08:40:54	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	web.me.com-hilarypatrickpro.warc.gz	24242006
+oester	gallery.me.com	2012-04-09 08:32:46	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	gallery.me.com-oester.warc.gz	1231412345
+oester	homepage.mac.com	2012-04-09 08:32:53	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	homepage.mac.com-oester.warc.gz	140014
+oester	public.me.com	2012-04-09 08:16:57	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	public.me.com-oester.warc.gz	2321615060
+oester	web.me.com	2012-04-09 08:03:59	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5404.tar	web.me.com-oester.warc.gz	588710479

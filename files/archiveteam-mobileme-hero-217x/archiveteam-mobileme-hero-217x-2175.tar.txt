@@ -1,8 +1,8 @@
-joburrows	gallery.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2175.tar	gallery.me.com-joburrows.warc.gz	0
-joburrows	homepage.mac.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2175.tar	homepage.mac.com-joburrows.warc.gz	0
-joburrows	public.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2175.tar	public.me.com-joburrows.warc.gz	0
-joburrows	web.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2175.tar	web.me.com-joburrows.warc.gz	0
-justinott	gallery.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2175.tar	gallery.me.com-justinott.warc.gz	0
-justinott	homepage.mac.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2175.tar	homepage.mac.com-justinott.warc.gz	0
-justinott	public.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2175.tar	public.me.com-justinott.warc.gz	0
-justinott	web.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2175.tar	web.me.com-justinott.warc.gz	0
+joburrows	gallery.me.com	2012-03-30 10:53:35	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2175.tar	gallery.me.com-joburrows.warc.gz	378635183
+joburrows	homepage.mac.com	2012-03-30 10:53:37	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2175.tar	homepage.mac.com-joburrows.warc.gz	4916
+joburrows	public.me.com	2012-03-30 10:35:42	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2175.tar	public.me.com-joburrows.warc.gz	3339
+joburrows	web.me.com	2012-03-30 10:35:38	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2175.tar	web.me.com-joburrows.warc.gz	24210459
+justinott	gallery.me.com	2012-03-30 16:23:41	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2175.tar	gallery.me.com-justinott.warc.gz	6369817621
+justinott	homepage.mac.com	2012-03-30 16:23:42	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2175.tar	homepage.mac.com-justinott.warc.gz	4917
+justinott	public.me.com	2012-03-30 13:04:48	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2175.tar	public.me.com-justinott.warc.gz	884663431
+justinott	web.me.com	2012-03-30 12:38:25	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2175.tar	web.me.com-justinott.warc.gz	1753468330

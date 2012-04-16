@@ -1,16 +1,16 @@
-cornerstonecabco	gallery.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	gallery.me.com-cornerstonecabco.warc.gz	0
-cornerstonecabco	homepage.mac.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	homepage.mac.com-cornerstonecabco.warc.gz	0
-cornerstonecabco	public.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	public.me.com-cornerstonecabco.warc.gz	0
-cornerstonecabco	web.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	web.me.com-cornerstonecabco.warc.gz	0
-fournierfrank	gallery.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	gallery.me.com-fournierfrank.warc.gz	0
-fournierfrank	homepage.mac.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	homepage.mac.com-fournierfrank.warc.gz	0
-fournierfrank	public.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	public.me.com-fournierfrank.warc.gz	0
-fournierfrank	web.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	web.me.com-fournierfrank.warc.gz	0
-jstih	gallery.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	gallery.me.com-jstih.warc.gz	0
-jstih	homepage.mac.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	homepage.mac.com-jstih.warc.gz	0
-jstih	public.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	public.me.com-jstih.warc.gz	0
-jstih	web.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	web.me.com-jstih.warc.gz	0
-rrodriguez	gallery.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	gallery.me.com-rrodriguez.warc.gz	0
-rrodriguez	homepage.mac.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	homepage.mac.com-rrodriguez.warc.gz	0
-rrodriguez	public.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	public.me.com-rrodriguez.warc.gz	0
-rrodriguez	web.me.com		archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	web.me.com-rrodriguez.warc.gz	0
+cornerstonecabco	gallery.me.com	2012-03-31 07:34:22	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	gallery.me.com-cornerstonecabco.warc.gz	4285
+cornerstonecabco	homepage.mac.com	2012-03-31 07:34:22	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	homepage.mac.com-cornerstonecabco.warc.gz	4951
+cornerstonecabco	public.me.com	2012-03-31 07:34:21	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	public.me.com-cornerstonecabco.warc.gz	1932
+cornerstonecabco	web.me.com	2012-03-31 07:34:21	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	web.me.com-cornerstonecabco.warc.gz	2637551
+fournierfrank	gallery.me.com	2012-04-01 00:42:37	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	gallery.me.com-fournierfrank.warc.gz	629192240
+fournierfrank	homepage.mac.com	2012-04-01 00:42:40	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	homepage.mac.com-fournierfrank.warc.gz	37081
+fournierfrank	public.me.com	2012-03-31 23:54:15	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	public.me.com-fournierfrank.warc.gz	2945423546
+fournierfrank	web.me.com	2012-03-31 19:23:20	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	web.me.com-fournierfrank.warc.gz	390276165
+jstih	gallery.me.com	2012-03-31 12:47:20	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	gallery.me.com-jstih.warc.gz	12360
+jstih	homepage.mac.com	2012-03-31 12:47:21	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	homepage.mac.com-jstih.warc.gz	7156
+jstih	public.me.com	2012-03-31 12:47:18	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	public.me.com-jstih.warc.gz	1913
+jstih	web.me.com	2012-03-31 12:47:18	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	web.me.com-jstih.warc.gz	22516
+rrodriguez	gallery.me.com	2012-03-31 13:55:44	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	gallery.me.com-rrodriguez.warc.gz	672077620
+rrodriguez	homepage.mac.com	2012-03-31 13:55:44	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	homepage.mac.com-rrodriguez.warc.gz	4936
+rrodriguez	public.me.com	2012-03-31 13:02:55	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	public.me.com-rrodriguez.warc.gz	1920
+rrodriguez	web.me.com	2012-03-31 13:02:54	archiveteam-mobileme-hero-253x	archiveteam-mobileme-hero-253x-2539.tar	web.me.com-rrodriguez.warc.gz	53802014

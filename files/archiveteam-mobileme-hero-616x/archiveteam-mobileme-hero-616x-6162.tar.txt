@@ -1,16 +1,16 @@
-dlaudio_share	gallery.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	gallery.me.com-dlaudio_share.warc.gz	0
-dlaudio_share	homepage.mac.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	homepage.mac.com-dlaudio_share.warc.gz	0
-dlaudio_share	public.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	public.me.com-dlaudio_share.warc.gz	0
-dlaudio_share	web.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	web.me.com-dlaudio_share.warc.gz	0
-leftal1	gallery.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	gallery.me.com-leftal1.warc.gz	0
-leftal1	homepage.mac.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	homepage.mac.com-leftal1.warc.gz	0
-leftal1	public.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	public.me.com-leftal1.warc.gz	0
-leftal1	web.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	web.me.com-leftal1.warc.gz	0
-nimblepix	gallery.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	gallery.me.com-nimblepix.warc.gz	0
-nimblepix	homepage.mac.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	homepage.mac.com-nimblepix.warc.gz	0
-nimblepix	public.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	public.me.com-nimblepix.warc.gz	0
-nimblepix	web.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	web.me.com-nimblepix.warc.gz	0
-tsewell	gallery.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	gallery.me.com-tsewell.warc.gz	0
-tsewell	homepage.mac.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	homepage.mac.com-tsewell.warc.gz	0
-tsewell	public.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	public.me.com-tsewell.warc.gz	0
-tsewell	web.me.com		archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	web.me.com-tsewell.warc.gz	0
+dlaudio_share	gallery.me.com	2012-04-11 02:14:39	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	gallery.me.com-dlaudio_share.warc.gz	4275
+dlaudio_share	homepage.mac.com	2012-04-11 02:14:39	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	homepage.mac.com-dlaudio_share.warc.gz	4929
+dlaudio_share	public.me.com	2012-04-11 02:14:38	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	public.me.com-dlaudio_share.warc.gz	3779850001
+dlaudio_share	web.me.com	2012-04-11 01:53:44	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	web.me.com-dlaudio_share.warc.gz	127839726
+leftal1	gallery.me.com	2012-04-11 01:37:50	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	gallery.me.com-leftal1.warc.gz	8341
+leftal1	homepage.mac.com	2012-04-11 01:37:50	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	homepage.mac.com-leftal1.warc.gz	5166
+leftal1	public.me.com	2012-04-11 01:37:50	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	public.me.com-leftal1.warc.gz	1914
+leftal1	web.me.com	2012-04-11 01:37:50	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	web.me.com-leftal1.warc.gz	17724
+nimblepix	gallery.me.com	2012-04-11 01:37:44	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	gallery.me.com-nimblepix.warc.gz	306741211
+nimblepix	homepage.mac.com	2012-04-11 01:37:48	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	homepage.mac.com-nimblepix.warc.gz	3293217
+nimblepix	public.me.com	2012-04-11 01:32:34	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	public.me.com-nimblepix.warc.gz	921087272
+nimblepix	web.me.com	2012-04-11 01:14:46	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	web.me.com-nimblepix.warc.gz	6664107
+tsewell	gallery.me.com	2012-04-11 01:51:43	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	gallery.me.com-tsewell.warc.gz	19317458
+tsewell	homepage.mac.com	2012-04-11 01:51:44	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	homepage.mac.com-tsewell.warc.gz	4906
+tsewell	public.me.com	2012-04-11 01:51:20	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	public.me.com-tsewell.warc.gz	727151326
+tsewell	web.me.com	2012-04-11 01:44:32	archiveteam-mobileme-hero-616x	archiveteam-mobileme-hero-616x-6162.tar	web.me.com-tsewell.warc.gz	45713198

@@ -1,12 +1,12 @@
-aggie01	gallery.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	gallery.me.com-aggie01.warc.gz	0
-aggie01	homepage.mac.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	homepage.mac.com-aggie01.warc.gz	0
-aggie01	public.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	public.me.com-aggie01.warc.gz	0
-aggie01	web.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	web.me.com-aggie01.warc.gz	0
-boblevitus	gallery.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	gallery.me.com-boblevitus.warc.gz	0
-boblevitus	homepage.mac.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	homepage.mac.com-boblevitus.warc.gz	0
-boblevitus	public.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	public.me.com-boblevitus.warc.gz	0
-boblevitus	web.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	web.me.com-boblevitus.warc.gz	0
-hazelcollier	gallery.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	gallery.me.com-hazelcollier.warc.gz	0
-hazelcollier	homepage.mac.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	homepage.mac.com-hazelcollier.warc.gz	0
-hazelcollier	public.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	public.me.com-hazelcollier.warc.gz	0
-hazelcollier	web.me.com		archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	web.me.com-hazelcollier.warc.gz	0
+aggie01	gallery.me.com	2012-04-01 22:21:32	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	gallery.me.com-aggie01.warc.gz	1517436751
+aggie01	homepage.mac.com	2012-04-01 22:21:32	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	homepage.mac.com-aggie01.warc.gz	9460
+aggie01	public.me.com	2012-04-01 21:58:10	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	public.me.com-aggie01.warc.gz	45711
+aggie01	web.me.com	2012-04-01 21:58:08	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	web.me.com-aggie01.warc.gz	6966991
+boblevitus	gallery.me.com	2012-04-02 03:37:10	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	gallery.me.com-boblevitus.warc.gz	1228689116
+boblevitus	homepage.mac.com	2012-04-02 03:37:29	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	homepage.mac.com-boblevitus.warc.gz	61861
+boblevitus	public.me.com	2012-04-02 00:29:59	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	public.me.com-boblevitus.warc.gz	5337302876
+boblevitus	web.me.com	2012-04-01 22:25:17	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	web.me.com-boblevitus.warc.gz	116585952
+hazelcollier	gallery.me.com	2012-04-01 21:55:25	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	gallery.me.com-hazelcollier.warc.gz	790963084
+hazelcollier	homepage.mac.com	2012-04-01 21:55:25	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	homepage.mac.com-hazelcollier.warc.gz	4924
+hazelcollier	public.me.com	2012-04-01 21:31:11	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	public.me.com-hazelcollier.warc.gz	1928
+hazelcollier	web.me.com	2012-04-01 21:31:10	archiveteam-mobileme-hero-281x	archiveteam-mobileme-hero-281x-2813.tar	web.me.com-hazelcollier.warc.gz	17645054

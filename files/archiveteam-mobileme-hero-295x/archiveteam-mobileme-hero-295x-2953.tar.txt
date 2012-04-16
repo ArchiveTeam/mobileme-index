@@ -1,4 +1,4 @@
-schneidman1	gallery.me.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2953.tar	gallery.me.com-schneidman1.warc.gz	0
-schneidman1	homepage.mac.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2953.tar	homepage.mac.com-schneidman1.warc.gz	0
-schneidman1	public.me.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2953.tar	public.me.com-schneidman1.warc.gz	0
-schneidman1	web.me.com		archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2953.tar	web.me.com-schneidman1.warc.gz	0
+schneidman1	gallery.me.com	2012-04-02 12:39:50	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2953.tar	gallery.me.com-schneidman1.warc.gz	1409957418
+schneidman1	homepage.mac.com	2012-04-02 12:39:50	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2953.tar	homepage.mac.com-schneidman1.warc.gz	4922
+schneidman1	public.me.com	2012-04-02 12:13:52	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2953.tar	public.me.com-schneidman1.warc.gz	2304074239
+schneidman1	web.me.com	2012-04-02 11:37:26	archiveteam-mobileme-hero-295x	archiveteam-mobileme-hero-295x-2953.tar	web.me.com-schneidman1.warc.gz	873324731

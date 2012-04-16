@@ -1,16 +1,16 @@
-geest	gallery.me.com		archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	gallery.me.com-geest.warc.gz	0
-geest	homepage.mac.com		archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	homepage.mac.com-geest.warc.gz	0
-geest	public.me.com		archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	public.me.com-geest.warc.gz	0
-geest	web.me.com		archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	web.me.com-geest.warc.gz	0
-purplecrab	gallery.me.com		archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	gallery.me.com-purplecrab.warc.gz	0
-purplecrab	homepage.mac.com		archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	homepage.mac.com-purplecrab.warc.gz	0
-purplecrab	public.me.com		archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	public.me.com-purplecrab.warc.gz	0
-purplecrab	web.me.com		archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	web.me.com-purplecrab.warc.gz	0
-rinkballduebendorf	gallery.me.com		archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	gallery.me.com-rinkballduebendorf.warc.gz	0
-rinkballduebendorf	homepage.mac.com		archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	homepage.mac.com-rinkballduebendorf.warc.gz	0
-rinkballduebendorf	public.me.com		archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	public.me.com-rinkballduebendorf.warc.gz	0
-rinkballduebendorf	web.me.com		archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	web.me.com-rinkballduebendorf.warc.gz	0
-thefam	gallery.me.com		archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	gallery.me.com-thefam.warc.gz	0
-thefam	homepage.mac.com		archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	homepage.mac.com-thefam.warc.gz	0
-thefam	public.me.com		archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	public.me.com-thefam.warc.gz	0
-thefam	web.me.com		archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	web.me.com-thefam.warc.gz	0
+geest	gallery.me.com	2012-04-11 12:11:22	archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	gallery.me.com-geest.warc.gz	3986060839
+geest	homepage.mac.com	2012-04-11 12:11:31	archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	homepage.mac.com-geest.warc.gz	95952
+geest	public.me.com	2012-04-11 11:02:13	archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	public.me.com-geest.warc.gz	614465670
+geest	web.me.com	2012-04-11 10:45:04	archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	web.me.com-geest.warc.gz	69710762
+purplecrab	gallery.me.com	2012-04-11 10:29:37	archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	gallery.me.com-purplecrab.warc.gz	2492746359
+purplecrab	homepage.mac.com	2012-04-11 10:29:40	archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	homepage.mac.com-purplecrab.warc.gz	4923
+purplecrab	public.me.com	2012-04-11 09:40:21	archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	public.me.com-purplecrab.warc.gz	1919
+purplecrab	web.me.com	2012-04-11 09:40:03	archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	web.me.com-purplecrab.warc.gz	42801964
+rinkballduebendorf	gallery.me.com	2012-04-11 10:30:55	archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	gallery.me.com-rinkballduebendorf.warc.gz	4303
+rinkballduebendorf	homepage.mac.com	2012-04-11 10:30:57	archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	homepage.mac.com-rinkballduebendorf.warc.gz	4958
+rinkballduebendorf	public.me.com	2012-04-11 10:30:50	archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	public.me.com-rinkballduebendorf.warc.gz	1935
+rinkballduebendorf	web.me.com	2012-04-11 10:30:45	archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	web.me.com-rinkballduebendorf.warc.gz	2458327
+thefam	gallery.me.com	2012-04-11 10:29:58	archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	gallery.me.com-thefam.warc.gz	8340
+thefam	homepage.mac.com	2012-04-11 10:29:59	archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	homepage.mac.com-thefam.warc.gz	5148
+thefam	public.me.com	2012-04-11 10:29:53	archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	public.me.com-thefam.warc.gz	1910
+thefam	web.me.com	2012-04-11 10:29:50	archiveteam-mobileme-hero-637x	archiveteam-mobileme-hero-637x-6371.tar	web.me.com-thefam.warc.gz	17659

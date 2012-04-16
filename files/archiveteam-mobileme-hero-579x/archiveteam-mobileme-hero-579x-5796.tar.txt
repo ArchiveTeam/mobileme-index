@@ -1,8 +1,8 @@
-greg6028	gallery.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5796.tar	gallery.me.com-greg6028.warc.gz	0
-greg6028	homepage.mac.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5796.tar	homepage.mac.com-greg6028.warc.gz	0
-greg6028	public.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5796.tar	public.me.com-greg6028.warc.gz	0
-greg6028	web.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5796.tar	web.me.com-greg6028.warc.gz	0
-nicolleharty	gallery.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5796.tar	gallery.me.com-nicolleharty.warc.gz	0
-nicolleharty	homepage.mac.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5796.tar	homepage.mac.com-nicolleharty.warc.gz	0
-nicolleharty	public.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5796.tar	public.me.com-nicolleharty.warc.gz	0
-nicolleharty	web.me.com		archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5796.tar	web.me.com-nicolleharty.warc.gz	0
+greg6028	gallery.me.com	2012-04-10 05:10:37	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5796.tar	gallery.me.com-greg6028.warc.gz	1029105093
+greg6028	homepage.mac.com	2012-04-10 05:10:38	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5796.tar	homepage.mac.com-greg6028.warc.gz	7880
+greg6028	public.me.com	2012-04-10 04:45:27	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5796.tar	public.me.com-greg6028.warc.gz	24031385
+greg6028	web.me.com	2012-04-10 04:44:46	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5796.tar	web.me.com-greg6028.warc.gz	600114193
+nicolleharty	gallery.me.com	2012-04-10 06:03:27	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5796.tar	gallery.me.com-nicolleharty.warc.gz	3620871298
+nicolleharty	homepage.mac.com	2012-04-10 06:03:29	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5796.tar	homepage.mac.com-nicolleharty.warc.gz	36981
+nicolleharty	public.me.com	2012-04-10 05:16:05	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5796.tar	public.me.com-nicolleharty.warc.gz	1923
+nicolleharty	web.me.com	2012-04-10 05:16:05	archiveteam-mobileme-hero-579x	archiveteam-mobileme-hero-579x-5796.tar	web.me.com-nicolleharty.warc.gz	14536489

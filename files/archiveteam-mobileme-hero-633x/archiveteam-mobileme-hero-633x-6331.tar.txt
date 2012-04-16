@@ -1,28 +1,28 @@
-crank_it_up	gallery.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	gallery.me.com-crank_it_up.warc.gz	0
-crank_it_up	homepage.mac.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	homepage.mac.com-crank_it_up.warc.gz	0
-crank_it_up	public.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	public.me.com-crank_it_up.warc.gz	0
-crank_it_up	web.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	web.me.com-crank_it_up.warc.gz	0
-digitalportfolios	gallery.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	gallery.me.com-digitalportfolios.warc.gz	0
-digitalportfolios	homepage.mac.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	homepage.mac.com-digitalportfolios.warc.gz	0
-digitalportfolios	public.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	public.me.com-digitalportfolios.warc.gz	0
-digitalportfolios	web.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	web.me.com-digitalportfolios.warc.gz	0
-executive_touch	gallery.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	gallery.me.com-executive_touch.warc.gz	0
-executive_touch	homepage.mac.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	homepage.mac.com-executive_touch.warc.gz	0
-executive_touch	public.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	public.me.com-executive_touch.warc.gz	0
-executive_touch	web.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	web.me.com-executive_touch.warc.gz	0
-gabrieltiradani	gallery.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	gallery.me.com-gabrieltiradani.warc.gz	0
-gabrieltiradani	homepage.mac.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	homepage.mac.com-gabrieltiradani.warc.gz	0
-gabrieltiradani	public.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	public.me.com-gabrieltiradani.warc.gz	0
-gabrieltiradani	web.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	web.me.com-gabrieltiradani.warc.gz	0
-rand02	gallery.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	gallery.me.com-rand02.warc.gz	0
-rand02	homepage.mac.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	homepage.mac.com-rand02.warc.gz	0
-rand02	public.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	public.me.com-rand02.warc.gz	0
-rand02	web.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	web.me.com-rand02.warc.gz	0
-robertmcneil	gallery.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	gallery.me.com-robertmcneil.warc.gz	0
-robertmcneil	homepage.mac.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	homepage.mac.com-robertmcneil.warc.gz	0
-robertmcneil	public.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	public.me.com-robertmcneil.warc.gz	0
-robertmcneil	web.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	web.me.com-robertmcneil.warc.gz	0
-s.papenfuss	gallery.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	gallery.me.com-s.papenfuss.warc.gz	0
-s.papenfuss	homepage.mac.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	homepage.mac.com-s.papenfuss.warc.gz	0
-s.papenfuss	public.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	public.me.com-s.papenfuss.warc.gz	0
-s.papenfuss	web.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	web.me.com-s.papenfuss.warc.gz	0
+crank_it_up	gallery.me.com	2012-04-11 09:34:23	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	gallery.me.com-crank_it_up.warc.gz	1809234
+crank_it_up	homepage.mac.com	2012-04-11 09:34:47	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	homepage.mac.com-crank_it_up.warc.gz	1669489
+crank_it_up	public.me.com	2012-04-11 09:34:19	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	public.me.com-crank_it_up.warc.gz	1929
+crank_it_up	web.me.com	2012-04-11 09:34:19	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	web.me.com-crank_it_up.warc.gz	2000665
+digitalportfolios	gallery.me.com	2012-04-11 09:09:37	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	gallery.me.com-digitalportfolios.warc.gz	27558082
+digitalportfolios	homepage.mac.com	2012-04-11 09:09:37	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	homepage.mac.com-digitalportfolios.warc.gz	4935
+digitalportfolios	public.me.com	2012-04-11 09:07:04	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	public.me.com-digitalportfolios.warc.gz	518704456
+digitalportfolios	web.me.com	2012-04-11 08:52:00	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	web.me.com-digitalportfolios.warc.gz	82927082
+executive_touch	gallery.me.com	2012-04-11 09:13:48	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	gallery.me.com-executive_touch.warc.gz	5716
+executive_touch	homepage.mac.com	2012-04-11 09:13:49	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	homepage.mac.com-executive_touch.warc.gz	4944
+executive_touch	public.me.com	2012-04-11 09:13:48	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	public.me.com-executive_touch.warc.gz	1935
+executive_touch	web.me.com	2012-04-11 09:13:47	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	web.me.com-executive_touch.warc.gz	33019448
+gabrieltiradani	gallery.me.com	2012-04-11 09:18:53	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	gallery.me.com-gabrieltiradani.warc.gz	312707
+gabrieltiradani	homepage.mac.com	2012-04-11 09:18:54	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	homepage.mac.com-gabrieltiradani.warc.gz	4945
+gabrieltiradani	public.me.com	2012-04-11 09:18:51	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	public.me.com-gabrieltiradani.warc.gz	1932
+gabrieltiradani	web.me.com	2012-04-11 09:18:51	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	web.me.com-gabrieltiradani.warc.gz	31133132
+rand02	gallery.me.com	2012-04-11 10:33:38	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	gallery.me.com-rand02.warc.gz	2269593220
+rand02	homepage.mac.com	2012-04-11 10:33:38	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	homepage.mac.com-rand02.warc.gz	4885
+rand02	public.me.com	2012-04-11 10:10:02	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	public.me.com-rand02.warc.gz	1908
+rand02	web.me.com	2012-04-11 10:09:35	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	web.me.com-rand02.warc.gz	2283144949
+robertmcneil	gallery.me.com	2012-04-11 09:20:27	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	gallery.me.com-robertmcneil.warc.gz	13691889
+robertmcneil	homepage.mac.com	2012-04-11 09:20:28	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	homepage.mac.com-robertmcneil.warc.gz	4936
+robertmcneil	public.me.com	2012-04-11 09:19:31	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	public.me.com-robertmcneil.warc.gz	1921
+robertmcneil	web.me.com	2012-04-11 09:19:31	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	web.me.com-robertmcneil.warc.gz	9257062
+s.papenfuss	gallery.me.com	2012-04-11 09:33:47	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	gallery.me.com-s.papenfuss.warc.gz	522828210
+s.papenfuss	homepage.mac.com	2012-04-11 09:33:47	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	homepage.mac.com-s.papenfuss.warc.gz	4914
+s.papenfuss	public.me.com	2012-04-11 09:22:05	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	public.me.com-s.papenfuss.warc.gz	1925
+s.papenfuss	web.me.com	2012-04-11 09:22:05	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6331.tar	web.me.com-s.papenfuss.warc.gz	5103905

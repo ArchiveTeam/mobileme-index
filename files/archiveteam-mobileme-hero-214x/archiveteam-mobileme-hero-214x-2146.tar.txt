@@ -1,20 +1,20 @@
-debikilde	gallery.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	gallery.me.com-debikilde.warc.gz	0
-debikilde	homepage.mac.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	homepage.mac.com-debikilde.warc.gz	0
-debikilde	public.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	public.me.com-debikilde.warc.gz	0
-debikilde	web.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	web.me.com-debikilde.warc.gz	0
-irvinejonesdesign	gallery.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	gallery.me.com-irvinejonesdesign.warc.gz	0
-irvinejonesdesign	homepage.mac.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	homepage.mac.com-irvinejonesdesign.warc.gz	0
-irvinejonesdesign	public.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	public.me.com-irvinejonesdesign.warc.gz	0
-irvinejonesdesign	web.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	web.me.com-irvinejonesdesign.warc.gz	0
-jamesgordon5	gallery.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	gallery.me.com-jamesgordon5.warc.gz	0
-jamesgordon5	homepage.mac.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	homepage.mac.com-jamesgordon5.warc.gz	0
-jamesgordon5	public.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	public.me.com-jamesgordon5.warc.gz	0
-jamesgordon5	web.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	web.me.com-jamesgordon5.warc.gz	0
-markhillbass	gallery.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	gallery.me.com-markhillbass.warc.gz	0
-markhillbass	homepage.mac.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	homepage.mac.com-markhillbass.warc.gz	0
-markhillbass	public.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	public.me.com-markhillbass.warc.gz	0
-markhillbass	web.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	web.me.com-markhillbass.warc.gz	0
-rofd63	gallery.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	gallery.me.com-rofd63.warc.gz	0
-rofd63	homepage.mac.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	homepage.mac.com-rofd63.warc.gz	0
-rofd63	public.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	public.me.com-rofd63.warc.gz	0
-rofd63	web.me.com		archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	web.me.com-rofd63.warc.gz	0
+debikilde	gallery.me.com	2012-03-30 11:35:50	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	gallery.me.com-debikilde.warc.gz	4239
+debikilde	homepage.mac.com	2012-03-30 11:35:51	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	homepage.mac.com-debikilde.warc.gz	4906
+debikilde	public.me.com	2012-03-30 11:35:50	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	public.me.com-debikilde.warc.gz	1916
+debikilde	web.me.com	2012-03-30 11:35:50	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	web.me.com-debikilde.warc.gz	6964373
+irvinejonesdesign	gallery.me.com	2012-03-30 12:24:27	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	gallery.me.com-irvinejonesdesign.warc.gz	35776322
+irvinejonesdesign	homepage.mac.com	2012-03-30 12:24:28	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	homepage.mac.com-irvinejonesdesign.warc.gz	4943
+irvinejonesdesign	public.me.com	2012-03-30 12:23:54	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	public.me.com-irvinejonesdesign.warc.gz	1336508661
+irvinejonesdesign	web.me.com	2012-03-30 12:08:05	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	web.me.com-irvinejonesdesign.warc.gz	65334698
+jamesgordon5	gallery.me.com	2012-03-30 13:23:50	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	gallery.me.com-jamesgordon5.warc.gz	4183284572
+jamesgordon5	homepage.mac.com	2012-03-30 13:23:51	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	homepage.mac.com-jamesgordon5.warc.gz	36971
+jamesgordon5	public.me.com	2012-03-30 12:34:02	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	public.me.com-jamesgordon5.warc.gz	1932
+jamesgordon5	web.me.com	2012-03-30 12:34:02	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	web.me.com-jamesgordon5.warc.gz	47859439
+markhillbass	gallery.me.com	2012-03-30 12:03:33	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	gallery.me.com-markhillbass.warc.gz	277940
+markhillbass	homepage.mac.com	2012-03-30 12:03:34	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	homepage.mac.com-markhillbass.warc.gz	7897
+markhillbass	public.me.com	2012-03-30 12:03:31	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	public.me.com-markhillbass.warc.gz	1400066747
+markhillbass	web.me.com	2012-03-30 11:36:33	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	web.me.com-markhillbass.warc.gz	1848432
+rofd63	gallery.me.com	2012-03-30 11:36:05	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	gallery.me.com-rofd63.warc.gz	4988
+rofd63	homepage.mac.com	2012-03-30 11:36:05	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	homepage.mac.com-rofd63.warc.gz	4902
+rofd63	public.me.com	2012-03-30 11:36:04	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	public.me.com-rofd63.warc.gz	1917
+rofd63	web.me.com	2012-03-30 11:36:04	archiveteam-mobileme-hero-214x	archiveteam-mobileme-hero-214x-2146.tar	web.me.com-rofd63.warc.gz	449371

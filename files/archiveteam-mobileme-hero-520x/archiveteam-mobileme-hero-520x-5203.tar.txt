@@ -1,12 +1,12 @@
-columbusmonkey	gallery.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	gallery.me.com-columbusmonkey.warc.gz	0
-columbusmonkey	homepage.mac.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	homepage.mac.com-columbusmonkey.warc.gz	0
-columbusmonkey	public.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	public.me.com-columbusmonkey.warc.gz	0
-columbusmonkey	web.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	web.me.com-columbusmonkey.warc.gz	0
-jbauder	gallery.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	gallery.me.com-jbauder.warc.gz	0
-jbauder	homepage.mac.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	homepage.mac.com-jbauder.warc.gz	0
-jbauder	public.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	public.me.com-jbauder.warc.gz	0
-jbauder	web.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	web.me.com-jbauder.warc.gz	0
-ukenrei	gallery.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	gallery.me.com-ukenrei.warc.gz	0
-ukenrei	homepage.mac.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	homepage.mac.com-ukenrei.warc.gz	0
-ukenrei	public.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	public.me.com-ukenrei.warc.gz	0
-ukenrei	web.me.com		archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	web.me.com-ukenrei.warc.gz	0
+columbusmonkey	gallery.me.com	2012-04-08 19:59:19	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	gallery.me.com-columbusmonkey.warc.gz	4288
+columbusmonkey	homepage.mac.com	2012-04-08 19:59:30	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	homepage.mac.com-columbusmonkey.warc.gz	377863
+columbusmonkey	public.me.com	2012-04-08 19:59:19	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	public.me.com-columbusmonkey.warc.gz	1934
+columbusmonkey	web.me.com	2012-04-08 19:59:18	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	web.me.com-columbusmonkey.warc.gz	845639
+jbauder	gallery.me.com	2012-04-08 22:00:54	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	gallery.me.com-jbauder.warc.gz	3037947681
+jbauder	homepage.mac.com	2012-04-08 22:01:08	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	homepage.mac.com-jbauder.warc.gz	426708
+jbauder	public.me.com	2012-04-08 21:07:35	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	public.me.com-jbauder.warc.gz	18121
+jbauder	web.me.com	2012-04-08 21:06:58	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	web.me.com-jbauder.warc.gz	1561979868
+ukenrei	gallery.me.com	2012-04-08 19:58:44	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	gallery.me.com-ukenrei.warc.gz	155893
+ukenrei	homepage.mac.com	2012-04-08 19:58:46	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	homepage.mac.com-ukenrei.warc.gz	70135
+ukenrei	public.me.com	2012-04-08 19:58:42	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	public.me.com-ukenrei.warc.gz	1916
+ukenrei	web.me.com	2012-04-08 19:58:42	archiveteam-mobileme-hero-520x	archiveteam-mobileme-hero-520x-5203.tar	web.me.com-ukenrei.warc.gz	36574422

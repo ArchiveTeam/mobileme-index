@@ -1,8 +1,8 @@
-chalkiecloonan	gallery.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2556.tar	gallery.me.com-chalkiecloonan.warc.gz	0
-chalkiecloonan	homepage.mac.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2556.tar	homepage.mac.com-chalkiecloonan.warc.gz	0
-chalkiecloonan	public.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2556.tar	public.me.com-chalkiecloonan.warc.gz	0
-chalkiecloonan	web.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2556.tar	web.me.com-chalkiecloonan.warc.gz	0
-gexos	gallery.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2556.tar	gallery.me.com-gexos.warc.gz	0
-gexos	homepage.mac.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2556.tar	homepage.mac.com-gexos.warc.gz	0
-gexos	public.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2556.tar	public.me.com-gexos.warc.gz	0
-gexos	web.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2556.tar	web.me.com-gexos.warc.gz	0
+chalkiecloonan	gallery.me.com	2012-03-31 23:57:16	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2556.tar	gallery.me.com-chalkiecloonan.warc.gz	19057798
+chalkiecloonan	homepage.mac.com	2012-03-31 23:57:20	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2556.tar	homepage.mac.com-chalkiecloonan.warc.gz	988241
+chalkiecloonan	public.me.com	2012-03-31 23:56:39	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2556.tar	public.me.com-chalkiecloonan.warc.gz	1928
+chalkiecloonan	web.me.com	2012-03-31 23:56:39	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2556.tar	web.me.com-chalkiecloonan.warc.gz	6791755
+gexos	gallery.me.com	2012-04-01 01:02:23	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2556.tar	gallery.me.com-gexos.warc.gz	12351625
+gexos	homepage.mac.com	2012-04-01 01:02:23	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2556.tar	homepage.mac.com-gexos.warc.gz	4892
+gexos	public.me.com	2012-04-01 01:02:08	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2556.tar	public.me.com-gexos.warc.gz	1907
+gexos	web.me.com	2012-04-01 01:01:55	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2556.tar	web.me.com-gexos.warc.gz	4408623859

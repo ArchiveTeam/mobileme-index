@@ -1,24 +1,24 @@
-barbro_melgert	gallery.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	gallery.me.com-barbro_melgert.warc.gz	0
-barbro_melgert	homepage.mac.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	homepage.mac.com-barbro_melgert.warc.gz	0
-barbro_melgert	public.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	public.me.com-barbro_melgert.warc.gz	0
-barbro_melgert	web.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	web.me.com-barbro_melgert.warc.gz	0
-baristacj	gallery.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	gallery.me.com-baristacj.warc.gz	0
-baristacj	homepage.mac.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	homepage.mac.com-baristacj.warc.gz	0
-baristacj	public.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	public.me.com-baristacj.warc.gz	0
-baristacj	web.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	web.me.com-baristacj.warc.gz	0
-flo_motion06	gallery.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	gallery.me.com-flo_motion06.warc.gz	0
-flo_motion06	homepage.mac.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	homepage.mac.com-flo_motion06.warc.gz	0
-flo_motion06	public.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	public.me.com-flo_motion06.warc.gz	0
-flo_motion06	web.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	web.me.com-flo_motion06.warc.gz	0
-imelliott	gallery.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	gallery.me.com-imelliott.warc.gz	0
-imelliott	homepage.mac.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	homepage.mac.com-imelliott.warc.gz	0
-imelliott	public.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	public.me.com-imelliott.warc.gz	0
-imelliott	web.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	web.me.com-imelliott.warc.gz	0
-rovny.	gallery.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	gallery.me.com-rovny..warc.gz	0
-rovny.	homepage.mac.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	homepage.mac.com-rovny..warc.gz	0
-rovny.	public.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	public.me.com-rovny..warc.gz	0
-rovny.	web.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	web.me.com-rovny..warc.gz	0
-wrandall1	gallery.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	gallery.me.com-wrandall1.warc.gz	0
-wrandall1	homepage.mac.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	homepage.mac.com-wrandall1.warc.gz	0
-wrandall1	public.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	public.me.com-wrandall1.warc.gz	0
-wrandall1	web.me.com		archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	web.me.com-wrandall1.warc.gz	0
+barbro_melgert	gallery.me.com	2012-04-11 09:12:13	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	gallery.me.com-barbro_melgert.warc.gz	5007
+barbro_melgert	homepage.mac.com	2012-04-11 09:14:08	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	homepage.mac.com-barbro_melgert.warc.gz	2750684
+barbro_melgert	public.me.com	2012-04-11 09:12:05	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	public.me.com-barbro_melgert.warc.gz	1013592367
+barbro_melgert	web.me.com	2012-04-11 05:25:59	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	web.me.com-barbro_melgert.warc.gz	16941200
+baristacj	gallery.me.com	2012-04-11 12:18:42	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	gallery.me.com-baristacj.warc.gz	610160746
+baristacj	homepage.mac.com	2012-04-11 12:18:42	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	homepage.mac.com-baristacj.warc.gz	4920
+baristacj	public.me.com	2012-04-11 11:47:00	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	public.me.com-baristacj.warc.gz	940824182
+baristacj	web.me.com	2012-04-11 11:38:35	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	web.me.com-baristacj.warc.gz	486723078
+flo_motion06	gallery.me.com	2012-04-11 04:59:05	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	gallery.me.com-flo_motion06.warc.gz	334294887
+flo_motion06	homepage.mac.com	2012-04-11 04:59:11	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	homepage.mac.com-flo_motion06.warc.gz	4936
+flo_motion06	public.me.com	2012-04-11 04:53:04	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	public.me.com-flo_motion06.warc.gz	954089383
+flo_motion06	web.me.com	2012-04-11 04:44:29	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	web.me.com-flo_motion06.warc.gz	59750290
+imelliott	gallery.me.com	2012-04-11 10:29:24	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	gallery.me.com-imelliott.warc.gz	520626510
+imelliott	homepage.mac.com	2012-04-11 10:29:31	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	homepage.mac.com-imelliott.warc.gz	41235
+imelliott	public.me.com	2012-04-11 09:49:40	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	public.me.com-imelliott.warc.gz	502791427
+imelliott	web.me.com	2012-04-11 09:34:11	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	web.me.com-imelliott.warc.gz	44019375
+rovny.	gallery.me.com	2012-04-11 09:14:15	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	gallery.me.com-rovny..warc.gz	8345
+rovny.	homepage.mac.com	2012-04-11 09:14:15	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	homepage.mac.com-rovny..warc.gz	5165
+rovny.	public.me.com	2012-04-11 09:14:13	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	public.me.com-rovny..warc.gz	1913
+rovny.	web.me.com	2012-04-11 09:14:13	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	web.me.com-rovny..warc.gz	17702
+wrandall1	gallery.me.com	2012-04-11 09:22:30	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	gallery.me.com-wrandall1.warc.gz	4245
+wrandall1	homepage.mac.com	2012-04-11 09:22:40	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	homepage.mac.com-wrandall1.warc.gz	117275
+wrandall1	public.me.com	2012-04-11 09:22:29	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	public.me.com-wrandall1.warc.gz	1670614
+wrandall1	web.me.com	2012-04-11 09:22:02	archiveteam-mobileme-hero-636x	archiveteam-mobileme-hero-636x-6364.tar	web.me.com-wrandall1.warc.gz	16719140

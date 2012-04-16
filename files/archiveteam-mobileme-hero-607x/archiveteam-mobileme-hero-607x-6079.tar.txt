@@ -1,28 +1,28 @@
-annejenkinsdc	gallery.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	gallery.me.com-annejenkinsdc.warc.gz	0
-annejenkinsdc	homepage.mac.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	homepage.mac.com-annejenkinsdc.warc.gz	0
-annejenkinsdc	public.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	public.me.com-annejenkinsdc.warc.gz	0
-annejenkinsdc	web.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	web.me.com-annejenkinsdc.warc.gz	0
-mickf	gallery.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	gallery.me.com-mickf.warc.gz	0
-mickf	homepage.mac.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	homepage.mac.com-mickf.warc.gz	0
-mickf	public.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	public.me.com-mickf.warc.gz	0
-mickf	web.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	web.me.com-mickf.warc.gz	0
-pcrockerwork	gallery.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	gallery.me.com-pcrockerwork.warc.gz	0
-pcrockerwork	homepage.mac.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	homepage.mac.com-pcrockerwork.warc.gz	0
-pcrockerwork	public.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	public.me.com-pcrockerwork.warc.gz	0
-pcrockerwork	web.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	web.me.com-pcrockerwork.warc.gz	0
-profdejap	gallery.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	gallery.me.com-profdejap.warc.gz	0
-profdejap	homepage.mac.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	homepage.mac.com-profdejap.warc.gz	0
-profdejap	public.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	public.me.com-profdejap.warc.gz	0
-profdejap	web.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	web.me.com-profdejap.warc.gz	0
-quickbooksmac	gallery.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	gallery.me.com-quickbooksmac.warc.gz	0
-quickbooksmac	homepage.mac.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	homepage.mac.com-quickbooksmac.warc.gz	0
-quickbooksmac	public.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	public.me.com-quickbooksmac.warc.gz	0
-quickbooksmac	web.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	web.me.com-quickbooksmac.warc.gz	0
-vpellegrino	gallery.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	gallery.me.com-vpellegrino.warc.gz	0
-vpellegrino	homepage.mac.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	homepage.mac.com-vpellegrino.warc.gz	0
-vpellegrino	public.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	public.me.com-vpellegrino.warc.gz	0
-vpellegrino	web.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	web.me.com-vpellegrino.warc.gz	0
-wooddesigngroup	gallery.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	gallery.me.com-wooddesigngroup.warc.gz	0
-wooddesigngroup	homepage.mac.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	homepage.mac.com-wooddesigngroup.warc.gz	0
-wooddesigngroup	public.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	public.me.com-wooddesigngroup.warc.gz	0
-wooddesigngroup	web.me.com		archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	web.me.com-wooddesigngroup.warc.gz	0
+annejenkinsdc	gallery.me.com	2012-04-10 20:02:22	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	gallery.me.com-annejenkinsdc.warc.gz	603286273
+annejenkinsdc	homepage.mac.com	2012-04-10 20:02:22	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	homepage.mac.com-annejenkinsdc.warc.gz	4909
+annejenkinsdc	public.me.com	2012-04-10 19:52:58	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	public.me.com-annejenkinsdc.warc.gz	1926
+annejenkinsdc	web.me.com	2012-04-10 19:52:58	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	web.me.com-annejenkinsdc.warc.gz	5464792
+mickf	gallery.me.com	2012-04-10 20:14:27	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	gallery.me.com-mickf.warc.gz	33888517
+mickf	homepage.mac.com	2012-04-10 20:14:30	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	homepage.mac.com-mickf.warc.gz	126276
+mickf	public.me.com	2012-04-10 20:13:24	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	public.me.com-mickf.warc.gz	251910993
+mickf	web.me.com	2012-04-10 20:11:08	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	web.me.com-mickf.warc.gz	5783423
+pcrockerwork	gallery.me.com	2012-04-10 20:05:47	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	gallery.me.com-pcrockerwork.warc.gz	232823780
+pcrockerwork	homepage.mac.com	2012-04-10 20:05:48	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	homepage.mac.com-pcrockerwork.warc.gz	4938
+pcrockerwork	public.me.com	2012-04-10 20:02:54	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	public.me.com-pcrockerwork.warc.gz	1928
+pcrockerwork	web.me.com	2012-04-10 20:02:54	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	web.me.com-pcrockerwork.warc.gz	1216672
+profdejap	gallery.me.com	2012-04-10 20:02:25	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	gallery.me.com-profdejap.warc.gz	12347
+profdejap	homepage.mac.com	2012-04-10 20:02:25	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	homepage.mac.com-profdejap.warc.gz	7150
+profdejap	public.me.com	2012-04-10 20:02:24	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	public.me.com-profdejap.warc.gz	1921
+profdejap	web.me.com	2012-04-10 20:02:23	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	web.me.com-profdejap.warc.gz	22503
+quickbooksmac	gallery.me.com	2012-04-10 20:47:28	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	gallery.me.com-quickbooksmac.warc.gz	4274
+quickbooksmac	homepage.mac.com	2012-04-10 20:47:29	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	homepage.mac.com-quickbooksmac.warc.gz	4939
+quickbooksmac	public.me.com	2012-04-10 20:47:27	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	public.me.com-quickbooksmac.warc.gz	1934
+quickbooksmac	web.me.com	2012-04-10 20:47:22	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	web.me.com-quickbooksmac.warc.gz	2648084331
+vpellegrino	gallery.me.com	2012-04-10 21:00:57	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	gallery.me.com-vpellegrino.warc.gz	4267
+vpellegrino	homepage.mac.com	2012-04-10 21:00:58	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	homepage.mac.com-vpellegrino.warc.gz	7847
+vpellegrino	public.me.com	2012-04-10 21:00:57	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	public.me.com-vpellegrino.warc.gz	116782
+vpellegrino	web.me.com	2012-04-10 21:00:54	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	web.me.com-vpellegrino.warc.gz	880110458
+wooddesigngroup	gallery.me.com	2012-04-10 20:10:00	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	gallery.me.com-wooddesigngroup.warc.gz	445274175
+wooddesigngroup	homepage.mac.com	2012-04-10 20:10:00	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	homepage.mac.com-wooddesigngroup.warc.gz	4942
+wooddesigngroup	public.me.com	2012-04-10 20:07:04	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	public.me.com-wooddesigngroup.warc.gz	1934
+wooddesigngroup	web.me.com	2012-04-10 20:07:03	archiveteam-mobileme-hero-607x	archiveteam-mobileme-hero-607x-6079.tar	web.me.com-wooddesigngroup.warc.gz	2367965

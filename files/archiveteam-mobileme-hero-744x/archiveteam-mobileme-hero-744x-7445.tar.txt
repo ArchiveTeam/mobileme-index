@@ -1,8 +1,8 @@
-aaronpadilla	gallery.me.com		archiveteam-mobileme-hero-744x	archiveteam-mobileme-hero-744x-7445.tar	gallery.me.com-aaronpadilla.warc.gz	0
-aaronpadilla	homepage.mac.com		archiveteam-mobileme-hero-744x	archiveteam-mobileme-hero-744x-7445.tar	homepage.mac.com-aaronpadilla.warc.gz	0
-aaronpadilla	public.me.com		archiveteam-mobileme-hero-744x	archiveteam-mobileme-hero-744x-7445.tar	public.me.com-aaronpadilla.warc.gz	0
-aaronpadilla	web.me.com		archiveteam-mobileme-hero-744x	archiveteam-mobileme-hero-744x-7445.tar	web.me.com-aaronpadilla.warc.gz	0
-jsargeant	gallery.me.com		archiveteam-mobileme-hero-744x	archiveteam-mobileme-hero-744x-7445.tar	gallery.me.com-jsargeant.warc.gz	0
-jsargeant	homepage.mac.com		archiveteam-mobileme-hero-744x	archiveteam-mobileme-hero-744x-7445.tar	homepage.mac.com-jsargeant.warc.gz	0
-jsargeant	public.me.com		archiveteam-mobileme-hero-744x	archiveteam-mobileme-hero-744x-7445.tar	public.me.com-jsargeant.warc.gz	0
-jsargeant	web.me.com		archiveteam-mobileme-hero-744x	archiveteam-mobileme-hero-744x-7445.tar	web.me.com-jsargeant.warc.gz	0
+aaronpadilla	gallery.me.com	2012-04-13 19:28:26	archiveteam-mobileme-hero-744x	archiveteam-mobileme-hero-744x-7445.tar	gallery.me.com-aaronpadilla.warc.gz	8229869
+aaronpadilla	homepage.mac.com	2012-04-13 19:28:27	archiveteam-mobileme-hero-744x	archiveteam-mobileme-hero-744x-7445.tar	homepage.mac.com-aaronpadilla.warc.gz	4922
+aaronpadilla	public.me.com	2012-04-13 19:28:19	archiveteam-mobileme-hero-744x	archiveteam-mobileme-hero-744x-7445.tar	public.me.com-aaronpadilla.warc.gz	4440467801
+aaronpadilla	web.me.com	2012-04-13 17:27:54	archiveteam-mobileme-hero-744x	archiveteam-mobileme-hero-744x-7445.tar	web.me.com-aaronpadilla.warc.gz	40929367
+jsargeant	gallery.me.com	2012-04-13 17:26:27	archiveteam-mobileme-hero-744x	archiveteam-mobileme-hero-744x-7445.tar	gallery.me.com-jsargeant.warc.gz	8355
+jsargeant	homepage.mac.com	2012-04-13 17:26:27	archiveteam-mobileme-hero-744x	archiveteam-mobileme-hero-744x-7445.tar	homepage.mac.com-jsargeant.warc.gz	5186
+jsargeant	public.me.com	2012-04-13 17:26:26	archiveteam-mobileme-hero-744x	archiveteam-mobileme-hero-744x-7445.tar	public.me.com-jsargeant.warc.gz	1913
+jsargeant	web.me.com	2012-04-13 17:26:26	archiveteam-mobileme-hero-744x	archiveteam-mobileme-hero-744x-7445.tar	web.me.com-jsargeant.warc.gz	17738

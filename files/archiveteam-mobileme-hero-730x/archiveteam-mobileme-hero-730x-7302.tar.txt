@@ -1,20 +1,20 @@
-bayside_apartment	gallery.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	gallery.me.com-bayside_apartment.warc.gz	0
-bayside_apartment	homepage.mac.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	homepage.mac.com-bayside_apartment.warc.gz	0
-bayside_apartment	public.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	public.me.com-bayside_apartment.warc.gz	0
-bayside_apartment	web.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	web.me.com-bayside_apartment.warc.gz	0
-ckimsey	gallery.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	gallery.me.com-ckimsey.warc.gz	0
-ckimsey	homepage.mac.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	homepage.mac.com-ckimsey.warc.gz	0
-ckimsey	public.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	public.me.com-ckimsey.warc.gz	0
-ckimsey	web.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	web.me.com-ckimsey.warc.gz	0
-dramanerdking	gallery.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	gallery.me.com-dramanerdking.warc.gz	0
-dramanerdking	homepage.mac.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	homepage.mac.com-dramanerdking.warc.gz	0
-dramanerdking	public.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	public.me.com-dramanerdking.warc.gz	0
-dramanerdking	web.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	web.me.com-dramanerdking.warc.gz	0
-idanbo3	gallery.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	gallery.me.com-idanbo3.warc.gz	0
-idanbo3	homepage.mac.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	homepage.mac.com-idanbo3.warc.gz	0
-idanbo3	public.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	public.me.com-idanbo3.warc.gz	0
-idanbo3	web.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	web.me.com-idanbo3.warc.gz	0
-wmjbrandenburg	gallery.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	gallery.me.com-wmjbrandenburg.warc.gz	0
-wmjbrandenburg	homepage.mac.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	homepage.mac.com-wmjbrandenburg.warc.gz	0
-wmjbrandenburg	public.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	public.me.com-wmjbrandenburg.warc.gz	0
-wmjbrandenburg	web.me.com		archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	web.me.com-wmjbrandenburg.warc.gz	0
+bayside_apartment	gallery.me.com	2012-04-13 08:15:45	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	gallery.me.com-bayside_apartment.warc.gz	12353
+bayside_apartment	homepage.mac.com	2012-04-13 08:15:45	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	homepage.mac.com-bayside_apartment.warc.gz	7170
+bayside_apartment	public.me.com	2012-04-13 08:15:44	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	public.me.com-bayside_apartment.warc.gz	1936
+bayside_apartment	web.me.com	2012-04-13 08:15:43	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	web.me.com-bayside_apartment.warc.gz	22530
+ckimsey	gallery.me.com	2012-04-13 08:15:33	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	gallery.me.com-ckimsey.warc.gz	178804
+ckimsey	homepage.mac.com	2012-04-13 08:15:35	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	homepage.mac.com-ckimsey.warc.gz	4917
+ckimsey	public.me.com	2012-04-13 08:15:29	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	public.me.com-ckimsey.warc.gz	1912
+ckimsey	web.me.com	2012-04-13 08:15:27	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	web.me.com-ckimsey.warc.gz	83437544
+dramanerdking	gallery.me.com	2012-04-13 08:15:38	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	gallery.me.com-dramanerdking.warc.gz	8357
+dramanerdking	homepage.mac.com	2012-04-13 08:15:38	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	homepage.mac.com-dramanerdking.warc.gz	5181
+dramanerdking	public.me.com	2012-04-13 08:15:37	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	public.me.com-dramanerdking.warc.gz	1924
+dramanerdking	web.me.com	2012-04-13 08:15:37	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	web.me.com-dramanerdking.warc.gz	17722
+idanbo3	gallery.me.com	2012-04-13 08:15:41	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	gallery.me.com-idanbo3.warc.gz	8331
+idanbo3	homepage.mac.com	2012-04-13 08:15:42	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	homepage.mac.com-idanbo3.warc.gz	5167
+idanbo3	public.me.com	2012-04-13 08:15:40	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	public.me.com-idanbo3.warc.gz	1912
+idanbo3	web.me.com	2012-04-13 08:15:40	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	web.me.com-idanbo3.warc.gz	17666
+wmjbrandenburg	gallery.me.com	2012-04-13 12:29:49	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	gallery.me.com-wmjbrandenburg.warc.gz	3843208131
+wmjbrandenburg	homepage.mac.com	2012-04-13 12:29:50	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	homepage.mac.com-wmjbrandenburg.warc.gz	9548
+wmjbrandenburg	public.me.com	2012-04-13 10:46:43	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	public.me.com-wmjbrandenburg.warc.gz	2067671562
+wmjbrandenburg	web.me.com	2012-04-13 09:56:48	archiveteam-mobileme-hero-730x	archiveteam-mobileme-hero-730x-7302.tar	web.me.com-wmjbrandenburg.warc.gz	971939358

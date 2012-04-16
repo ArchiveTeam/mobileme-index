@@ -1,28 +1,28 @@
-blueskize	gallery.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	gallery.me.com-blueskize.warc.gz	0
-blueskize	homepage.mac.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	homepage.mac.com-blueskize.warc.gz	0
-blueskize	public.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	public.me.com-blueskize.warc.gz	0
-blueskize	web.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	web.me.com-blueskize.warc.gz	0
-brakefree	gallery.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	gallery.me.com-brakefree.warc.gz	0
-brakefree	homepage.mac.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	homepage.mac.com-brakefree.warc.gz	0
-brakefree	public.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	public.me.com-brakefree.warc.gz	0
-brakefree	web.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	web.me.com-brakefree.warc.gz	0
-cmalone	gallery.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	gallery.me.com-cmalone.warc.gz	0
-cmalone	homepage.mac.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	homepage.mac.com-cmalone.warc.gz	0
-cmalone	public.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	public.me.com-cmalone.warc.gz	0
-cmalone	web.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	web.me.com-cmalone.warc.gz	0
-paultcottey	gallery.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	gallery.me.com-paultcottey.warc.gz	0
-paultcottey	homepage.mac.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	homepage.mac.com-paultcottey.warc.gz	0
-paultcottey	public.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	public.me.com-paultcottey.warc.gz	0
-paultcottey	web.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	web.me.com-paultcottey.warc.gz	0
-sdevore	gallery.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	gallery.me.com-sdevore.warc.gz	0
-sdevore	homepage.mac.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	homepage.mac.com-sdevore.warc.gz	0
-sdevore	public.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	public.me.com-sdevore.warc.gz	0
-sdevore	web.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	web.me.com-sdevore.warc.gz	0
-tjdixon	gallery.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	gallery.me.com-tjdixon.warc.gz	0
-tjdixon	homepage.mac.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	homepage.mac.com-tjdixon.warc.gz	0
-tjdixon	public.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	public.me.com-tjdixon.warc.gz	0
-tjdixon	web.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	web.me.com-tjdixon.warc.gz	0
-vicentebaca	gallery.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	gallery.me.com-vicentebaca.warc.gz	0
-vicentebaca	homepage.mac.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	homepage.mac.com-vicentebaca.warc.gz	0
-vicentebaca	public.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	public.me.com-vicentebaca.warc.gz	0
-vicentebaca	web.me.com		archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	web.me.com-vicentebaca.warc.gz	0
+blueskize	gallery.me.com	2012-03-31 15:03:24	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	gallery.me.com-blueskize.warc.gz	1198192887
+blueskize	homepage.mac.com	2012-03-31 15:03:26	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	homepage.mac.com-blueskize.warc.gz	88135
+blueskize	public.me.com	2012-03-31 14:51:38	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	public.me.com-blueskize.warc.gz	1897612
+blueskize	web.me.com	2012-03-31 14:51:35	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	web.me.com-blueskize.warc.gz	140455575
+brakefree	gallery.me.com	2012-03-31 15:21:26	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	gallery.me.com-brakefree.warc.gz	1845929406
+brakefree	homepage.mac.com	2012-03-31 15:21:26	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	homepage.mac.com-brakefree.warc.gz	4904
+brakefree	public.me.com	2012-03-31 15:12:21	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	public.me.com-brakefree.warc.gz	356899275
+brakefree	web.me.com	2012-03-31 15:05:08	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	web.me.com-brakefree.warc.gz	6246566
+cmalone	gallery.me.com	2012-03-31 14:40:15	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	gallery.me.com-cmalone.warc.gz	176218594
+cmalone	homepage.mac.com	2012-03-31 14:40:15	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	homepage.mac.com-cmalone.warc.gz	4917
+cmalone	public.me.com	2012-03-31 14:38:27	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	public.me.com-cmalone.warc.gz	49736462
+cmalone	web.me.com	2012-03-31 14:36:56	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	web.me.com-cmalone.warc.gz	180709344
+paultcottey	gallery.me.com	2012-03-31 14:40:37	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	gallery.me.com-paultcottey.warc.gz	5704
+paultcottey	homepage.mac.com	2012-03-31 14:40:37	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	homepage.mac.com-paultcottey.warc.gz	4900
+paultcottey	public.me.com	2012-03-31 14:40:36	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	public.me.com-paultcottey.warc.gz	1919
+paultcottey	web.me.com	2012-03-31 14:40:36	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	web.me.com-paultcottey.warc.gz	1088907
+sdevore	gallery.me.com	2012-03-31 14:28:28	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	gallery.me.com-sdevore.warc.gz	230885681
+sdevore	homepage.mac.com	2012-03-31 14:28:31	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	homepage.mac.com-sdevore.warc.gz	214779
+sdevore	public.me.com	2012-03-31 14:26:17	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	public.me.com-sdevore.warc.gz	24099546
+sdevore	web.me.com	2012-03-31 14:26:10	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	web.me.com-sdevore.warc.gz	195891782
+tjdixon	gallery.me.com	2012-03-31 14:16:35	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	gallery.me.com-tjdixon.warc.gz	12320
+tjdixon	homepage.mac.com	2012-03-31 14:16:37	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	homepage.mac.com-tjdixon.warc.gz	7148
+tjdixon	public.me.com	2012-03-31 14:16:31	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	public.me.com-tjdixon.warc.gz	1913
+tjdixon	web.me.com	2012-03-31 14:16:30	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	web.me.com-tjdixon.warc.gz	22498
+vicentebaca	gallery.me.com	2012-03-31 14:31:46	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	gallery.me.com-vicentebaca.warc.gz	7833258
+vicentebaca	homepage.mac.com	2012-03-31 14:31:46	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	homepage.mac.com-vicentebaca.warc.gz	4937
+vicentebaca	public.me.com	2012-03-31 14:31:40	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	public.me.com-vicentebaca.warc.gz	207897825
+vicentebaca	web.me.com	2012-03-31 14:30:49	archiveteam-mobileme-hero-243x	archiveteam-mobileme-hero-243x-2432.tar	web.me.com-vicentebaca.warc.gz	42208660

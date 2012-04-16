@@ -1,28 +1,28 @@
-gccroft	gallery.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	gallery.me.com-gccroft.warc.gz	0
-gccroft	homepage.mac.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	homepage.mac.com-gccroft.warc.gz	0
-gccroft	public.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	public.me.com-gccroft.warc.gz	0
-gccroft	web.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	web.me.com-gccroft.warc.gz	0
-grafic.a	gallery.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	gallery.me.com-grafic.a.warc.gz	0
-grafic.a	homepage.mac.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	homepage.mac.com-grafic.a.warc.gz	0
-grafic.a	public.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	public.me.com-grafic.a.warc.gz	0
-grafic.a	web.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	web.me.com-grafic.a.warc.gz	0
-mayimhayim	gallery.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	gallery.me.com-mayimhayim.warc.gz	0
-mayimhayim	homepage.mac.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	homepage.mac.com-mayimhayim.warc.gz	0
-mayimhayim	public.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	public.me.com-mayimhayim.warc.gz	0
-mayimhayim	web.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	web.me.com-mayimhayim.warc.gz	0
-melidoniphotography	gallery.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	gallery.me.com-melidoniphotography.warc.gz	0
-melidoniphotography	homepage.mac.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	homepage.mac.com-melidoniphotography.warc.gz	0
-melidoniphotography	public.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	public.me.com-melidoniphotography.warc.gz	0
-melidoniphotography	web.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	web.me.com-melidoniphotography.warc.gz	0
-pcmackmd	gallery.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	gallery.me.com-pcmackmd.warc.gz	0
-pcmackmd	homepage.mac.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	homepage.mac.com-pcmackmd.warc.gz	0
-pcmackmd	public.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	public.me.com-pcmackmd.warc.gz	0
-pcmackmd	web.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	web.me.com-pcmackmd.warc.gz	0
-pkatt	gallery.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	gallery.me.com-pkatt.warc.gz	0
-pkatt	homepage.mac.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	homepage.mac.com-pkatt.warc.gz	0
-pkatt	public.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	public.me.com-pkatt.warc.gz	0
-pkatt	web.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	web.me.com-pkatt.warc.gz	0
-rod.schultz	gallery.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	gallery.me.com-rod.schultz.warc.gz	0
-rod.schultz	homepage.mac.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	homepage.mac.com-rod.schultz.warc.gz	0
-rod.schultz	public.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	public.me.com-rod.schultz.warc.gz	0
-rod.schultz	web.me.com		archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	web.me.com-rod.schultz.warc.gz	0
+gccroft	gallery.me.com	2012-04-04 21:16:56	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	gallery.me.com-gccroft.warc.gz	220474365
+gccroft	homepage.mac.com	2012-04-04 21:16:56	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	homepage.mac.com-gccroft.warc.gz	4885
+gccroft	public.me.com	2012-04-04 21:12:29	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	public.me.com-gccroft.warc.gz	1906
+gccroft	web.me.com	2012-04-04 21:12:28	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	web.me.com-gccroft.warc.gz	118393186
+grafic.a	gallery.me.com	2012-04-05 00:12:33	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	gallery.me.com-grafic.a.warc.gz	379959676
+grafic.a	homepage.mac.com	2012-04-05 00:12:33	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	homepage.mac.com-grafic.a.warc.gz	4891
+grafic.a	public.me.com	2012-04-05 00:01:20	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	public.me.com-grafic.a.warc.gz	33998883
+grafic.a	web.me.com	2012-04-04 23:59:34	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	web.me.com-grafic.a.warc.gz	432764616
+mayimhayim	gallery.me.com	2012-04-04 23:30:17	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	gallery.me.com-mayimhayim.warc.gz	4258
+mayimhayim	homepage.mac.com	2012-04-04 23:30:17	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	homepage.mac.com-mayimhayim.warc.gz	4918
+mayimhayim	public.me.com	2012-04-04 23:30:16	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	public.me.com-mayimhayim.warc.gz	1917
+mayimhayim	web.me.com	2012-04-04 23:30:15	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	web.me.com-mayimhayim.warc.gz	171486811
+melidoniphotography	gallery.me.com	2012-04-04 23:42:49	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	gallery.me.com-melidoniphotography.warc.gz	40674134
+melidoniphotography	homepage.mac.com	2012-04-04 23:42:57	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	homepage.mac.com-melidoniphotography.warc.gz	159060
+melidoniphotography	public.me.com	2012-04-04 23:38:26	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	public.me.com-melidoniphotography.warc.gz	1945
+melidoniphotography	web.me.com	2012-04-04 23:38:26	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	web.me.com-melidoniphotography.warc.gz	50214769
+pcmackmd	gallery.me.com	2012-04-04 21:06:57	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	gallery.me.com-pcmackmd.warc.gz	5679
+pcmackmd	homepage.mac.com	2012-04-04 21:06:59	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	homepage.mac.com-pcmackmd.warc.gz	76148
+pcmackmd	public.me.com	2012-04-04 21:06:56	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	public.me.com-pcmackmd.warc.gz	1915
+pcmackmd	web.me.com	2012-04-04 21:06:56	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	web.me.com-pcmackmd.warc.gz	849567
+pkatt	gallery.me.com	2012-04-04 23:20:25	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	gallery.me.com-pkatt.warc.gz	1745887249
+pkatt	homepage.mac.com	2012-04-04 23:22:58	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	homepage.mac.com-pkatt.warc.gz	2760708
+pkatt	public.me.com	2012-04-04 22:26:51	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	public.me.com-pkatt.warc.gz	4274686
+pkatt	web.me.com	2012-04-04 22:26:25	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	web.me.com-pkatt.warc.gz	654171982
+rod.schultz	gallery.me.com	2012-04-05 03:00:57	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	gallery.me.com-rod.schultz.warc.gz	855743557
+rod.schultz	homepage.mac.com	2012-04-05 03:00:58	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	homepage.mac.com-rod.schultz.warc.gz	4924
+rod.schultz	public.me.com	2012-04-05 02:25:56	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	public.me.com-rod.schultz.warc.gz	705837197
+rod.schultz	web.me.com	2012-04-05 01:50:58	archiveteam-mobileme-hero-405x	archiveteam-mobileme-hero-405x-4058.tar	web.me.com-rod.schultz.warc.gz	1009044030

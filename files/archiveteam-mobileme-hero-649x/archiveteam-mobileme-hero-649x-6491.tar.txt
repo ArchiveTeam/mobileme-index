@@ -1,20 +1,20 @@
-c1346970296	gallery.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	gallery.me.com-c1346970296.warc.gz	0
-c1346970296	homepage.mac.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	homepage.mac.com-c1346970296.warc.gz	0
-c1346970296	public.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	public.me.com-c1346970296.warc.gz	0
-c1346970296	web.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	web.me.com-c1346970296.warc.gz	0
-donnao	gallery.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	gallery.me.com-donnao.warc.gz	0
-donnao	homepage.mac.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	homepage.mac.com-donnao.warc.gz	0
-donnao	public.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	public.me.com-donnao.warc.gz	0
-donnao	web.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	web.me.com-donnao.warc.gz	0
-dsemsen	gallery.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	gallery.me.com-dsemsen.warc.gz	0
-dsemsen	homepage.mac.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	homepage.mac.com-dsemsen.warc.gz	0
-dsemsen	public.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	public.me.com-dsemsen.warc.gz	0
-dsemsen	web.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	web.me.com-dsemsen.warc.gz	0
-eberttribe	gallery.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	gallery.me.com-eberttribe.warc.gz	0
-eberttribe	homepage.mac.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	homepage.mac.com-eberttribe.warc.gz	0
-eberttribe	public.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	public.me.com-eberttribe.warc.gz	0
-eberttribe	web.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	web.me.com-eberttribe.warc.gz	0
-venuecom	gallery.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	gallery.me.com-venuecom.warc.gz	0
-venuecom	homepage.mac.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	homepage.mac.com-venuecom.warc.gz	0
-venuecom	public.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	public.me.com-venuecom.warc.gz	0
-venuecom	web.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	web.me.com-venuecom.warc.gz	0
+c1346970296	gallery.me.com	2012-04-11 08:16:17	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	gallery.me.com-c1346970296.warc.gz	8379
+c1346970296	homepage.mac.com	2012-04-11 08:16:18	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	homepage.mac.com-c1346970296.warc.gz	5182
+c1346970296	public.me.com	2012-04-11 08:16:16	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	public.me.com-c1346970296.warc.gz	1924
+c1346970296	web.me.com	2012-04-11 08:16:14	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	web.me.com-c1346970296.warc.gz	17694
+donnao	gallery.me.com	2012-04-11 18:57:16	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	gallery.me.com-donnao.warc.gz	1016834
+donnao	homepage.mac.com	2012-04-11 18:57:21	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	homepage.mac.com-donnao.warc.gz	4897
+donnao	public.me.com	2012-04-11 18:56:55	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	public.me.com-donnao.warc.gz	56259095
+donnao	web.me.com	2012-04-11 18:54:18	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	web.me.com-donnao.warc.gz	39127606
+dsemsen	gallery.me.com	2012-04-11 19:39:45	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	gallery.me.com-dsemsen.warc.gz	45299140
+dsemsen	homepage.mac.com	2012-04-11 19:39:45	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	homepage.mac.com-dsemsen.warc.gz	4907
+dsemsen	public.me.com	2012-04-11 19:32:31	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	public.me.com-dsemsen.warc.gz	2558613829
+dsemsen	web.me.com	2012-04-11 18:58:17	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	web.me.com-dsemsen.warc.gz	9580653
+eberttribe	gallery.me.com	2012-04-11 09:48:19	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	gallery.me.com-eberttribe.warc.gz	804186415
+eberttribe	homepage.mac.com	2012-04-11 09:48:20	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	homepage.mac.com-eberttribe.warc.gz	4918
+eberttribe	public.me.com	2012-04-11 09:34:31	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	public.me.com-eberttribe.warc.gz	1920
+eberttribe	web.me.com	2012-04-11 09:34:16	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	web.me.com-eberttribe.warc.gz	109212839
+venuecom	gallery.me.com	2012-04-11 09:21:36	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	gallery.me.com-venuecom.warc.gz	1107433054
+venuecom	homepage.mac.com	2012-04-11 09:21:38	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	homepage.mac.com-venuecom.warc.gz	4910
+venuecom	public.me.com	2012-04-11 09:01:57	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	public.me.com-venuecom.warc.gz	913268
+venuecom	web.me.com	2012-04-11 09:01:11	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6491.tar	web.me.com-venuecom.warc.gz	623948737

@@ -1,24 +1,24 @@
-cjmiddendorf	gallery.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	gallery.me.com-cjmiddendorf.warc.gz	0
-cjmiddendorf	homepage.mac.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	homepage.mac.com-cjmiddendorf.warc.gz	0
-cjmiddendorf	public.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	public.me.com-cjmiddendorf.warc.gz	0
-cjmiddendorf	web.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	web.me.com-cjmiddendorf.warc.gz	0
-ken37	gallery.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	gallery.me.com-ken37.warc.gz	0
-ken37	homepage.mac.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	homepage.mac.com-ken37.warc.gz	0
-ken37	public.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	public.me.com-ken37.warc.gz	0
-ken37	web.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	web.me.com-ken37.warc.gz	0
-peggygower	gallery.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	gallery.me.com-peggygower.warc.gz	0
-peggygower	homepage.mac.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	homepage.mac.com-peggygower.warc.gz	0
-peggygower	public.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	public.me.com-peggygower.warc.gz	0
-peggygower	web.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	web.me.com-peggygower.warc.gz	0
-studiosusanhorowitz	gallery.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	gallery.me.com-studiosusanhorowitz.warc.gz	0
-studiosusanhorowitz	homepage.mac.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	homepage.mac.com-studiosusanhorowitz.warc.gz	0
-studiosusanhorowitz	public.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	public.me.com-studiosusanhorowitz.warc.gz	0
-studiosusanhorowitz	web.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	web.me.com-studiosusanhorowitz.warc.gz	0
-thomasmerz	gallery.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	gallery.me.com-thomasmerz.warc.gz	0
-thomasmerz	homepage.mac.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	homepage.mac.com-thomasmerz.warc.gz	0
-thomasmerz	public.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	public.me.com-thomasmerz.warc.gz	0
-thomasmerz	web.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	web.me.com-thomasmerz.warc.gz	0
-vanguardworks	gallery.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	gallery.me.com-vanguardworks.warc.gz	0
-vanguardworks	homepage.mac.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	homepage.mac.com-vanguardworks.warc.gz	0
-vanguardworks	public.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	public.me.com-vanguardworks.warc.gz	0
-vanguardworks	web.me.com		archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	web.me.com-vanguardworks.warc.gz	0
+cjmiddendorf	gallery.me.com	2012-04-06 15:15:10	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	gallery.me.com-cjmiddendorf.warc.gz	7912130
+cjmiddendorf	homepage.mac.com	2012-04-06 15:15:11	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	homepage.mac.com-cjmiddendorf.warc.gz	4931
+cjmiddendorf	public.me.com	2012-04-06 15:14:56	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	public.me.com-cjmiddendorf.warc.gz	1933
+cjmiddendorf	web.me.com	2012-04-06 15:14:05	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	web.me.com-cjmiddendorf.warc.gz	336158250
+ken37	gallery.me.com	2012-04-06 13:55:00	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	gallery.me.com-ken37.warc.gz	5060
+ken37	homepage.mac.com	2012-04-06 13:55:09	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	homepage.mac.com-ken37.warc.gz	87457
+ken37	public.me.com	2012-04-06 13:54:59	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	public.me.com-ken37.warc.gz	1906
+ken37	web.me.com	2012-04-06 13:54:59	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	web.me.com-ken37.warc.gz	28917
+peggygower	gallery.me.com	2012-04-06 13:11:47	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	gallery.me.com-peggygower.warc.gz	2465978801
+peggygower	homepage.mac.com	2012-04-06 13:11:47	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	homepage.mac.com-peggygower.warc.gz	4917
+peggygower	public.me.com	2012-04-06 12:25:12	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	public.me.com-peggygower.warc.gz	1916
+peggygower	web.me.com	2012-04-06 12:24:23	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	web.me.com-peggygower.warc.gz	1331085016
+studiosusanhorowitz	gallery.me.com	2012-04-06 13:20:12	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	gallery.me.com-studiosusanhorowitz.warc.gz	5097
+studiosusanhorowitz	homepage.mac.com	2012-04-06 13:20:12	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	homepage.mac.com-studiosusanhorowitz.warc.gz	4956
+studiosusanhorowitz	public.me.com	2012-04-06 13:20:11	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	public.me.com-studiosusanhorowitz.warc.gz	1941
+studiosusanhorowitz	web.me.com	2012-04-06 13:20:11	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	web.me.com-studiosusanhorowitz.warc.gz	46429783
+thomasmerz	gallery.me.com	2012-04-06 13:54:56	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	gallery.me.com-thomasmerz.warc.gz	9872
+thomasmerz	homepage.mac.com	2012-04-06 13:54:57	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	homepage.mac.com-thomasmerz.warc.gz	4910
+thomasmerz	public.me.com	2012-04-06 13:54:52	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	public.me.com-thomasmerz.warc.gz	1923
+thomasmerz	web.me.com	2012-04-06 13:54:51	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	web.me.com-thomasmerz.warc.gz	158486308
+vanguardworks	gallery.me.com	2012-04-06 14:00:13	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	gallery.me.com-vanguardworks.warc.gz	10894011
+vanguardworks	homepage.mac.com	2012-04-06 14:00:16	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	homepage.mac.com-vanguardworks.warc.gz	41372
+vanguardworks	public.me.com	2012-04-06 13:59:49	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	public.me.com-vanguardworks.warc.gz	3355
+vanguardworks	web.me.com	2012-04-06 13:59:49	archiveteam-mobileme-hero-471x	archiveteam-mobileme-hero-471x-4719.tar	web.me.com-vanguardworks.warc.gz	40311788

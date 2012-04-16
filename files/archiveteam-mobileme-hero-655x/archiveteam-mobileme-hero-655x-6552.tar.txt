@@ -1,8 +1,8 @@
-dafydd1	gallery.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6552.tar	gallery.me.com-dafydd1.warc.gz	0
-dafydd1	homepage.mac.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6552.tar	homepage.mac.com-dafydd1.warc.gz	0
-dafydd1	public.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6552.tar	public.me.com-dafydd1.warc.gz	0
-dafydd1	web.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6552.tar	web.me.com-dafydd1.warc.gz	0
-kbedard	gallery.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6552.tar	gallery.me.com-kbedard.warc.gz	0
-kbedard	homepage.mac.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6552.tar	homepage.mac.com-kbedard.warc.gz	0
-kbedard	public.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6552.tar	public.me.com-kbedard.warc.gz	0
-kbedard	web.me.com		archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6552.tar	web.me.com-kbedard.warc.gz	0
+dafydd1	gallery.me.com	2012-04-12 03:24:22	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6552.tar	gallery.me.com-dafydd1.warc.gz	6882349658
+dafydd1	homepage.mac.com	2012-04-12 03:24:23	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6552.tar	homepage.mac.com-dafydd1.warc.gz	4905
+dafydd1	public.me.com	2012-04-11 16:20:49	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6552.tar	public.me.com-dafydd1.warc.gz	4614769
+dafydd1	web.me.com	2012-04-11 16:20:05	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6552.tar	web.me.com-dafydd1.warc.gz	1253106597
+kbedard	gallery.me.com	2012-04-11 15:00:42	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6552.tar	gallery.me.com-kbedard.warc.gz	5008
+kbedard	homepage.mac.com	2012-04-11 15:00:43	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6552.tar	homepage.mac.com-kbedard.warc.gz	4899
+kbedard	public.me.com	2012-04-11 15:00:40	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6552.tar	public.me.com-kbedard.warc.gz	1388428023
+kbedard	web.me.com	2012-04-11 13:42:09	archiveteam-mobileme-hero-655x	archiveteam-mobileme-hero-655x-6552.tar	web.me.com-kbedard.warc.gz	42298625

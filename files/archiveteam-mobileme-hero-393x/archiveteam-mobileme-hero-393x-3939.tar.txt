@@ -1,4 +1,4 @@
-brian_ridge	gallery.me.com		archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3939.tar	gallery.me.com-brian_ridge.warc.gz	0
-brian_ridge	homepage.mac.com		archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3939.tar	homepage.mac.com-brian_ridge.warc.gz	0
-brian_ridge	public.me.com		archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3939.tar	public.me.com-brian_ridge.warc.gz	0
-brian_ridge	web.me.com		archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3939.tar	web.me.com-brian_ridge.warc.gz	0
+brian_ridge	gallery.me.com	2012-04-04 20:02:39	archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3939.tar	gallery.me.com-brian_ridge.warc.gz	3592055151
+brian_ridge	homepage.mac.com	2012-04-04 20:02:40	archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3939.tar	homepage.mac.com-brian_ridge.warc.gz	4916
+brian_ridge	public.me.com	2012-04-04 19:30:08	archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3939.tar	public.me.com-brian_ridge.warc.gz	1923
+brian_ridge	web.me.com	2012-04-04 19:30:04	archiveteam-mobileme-hero-393x	archiveteam-mobileme-hero-393x-3939.tar	web.me.com-brian_ridge.warc.gz	1417004003

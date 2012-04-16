@@ -1,20 +1,20 @@
-huebs	gallery.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	gallery.me.com-huebs.warc.gz	0
-huebs	homepage.mac.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	homepage.mac.com-huebs.warc.gz	0
-huebs	public.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	public.me.com-huebs.warc.gz	0
-huebs	web.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	web.me.com-huebs.warc.gz	0
-kagamaru	gallery.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	gallery.me.com-kagamaru.warc.gz	0
-kagamaru	homepage.mac.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	homepage.mac.com-kagamaru.warc.gz	0
-kagamaru	public.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	public.me.com-kagamaru.warc.gz	0
-kagamaru	web.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	web.me.com-kagamaru.warc.gz	0
-michael.szyszlo	gallery.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	gallery.me.com-michael.szyszlo.warc.gz	0
-michael.szyszlo	homepage.mac.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	homepage.mac.com-michael.szyszlo.warc.gz	0
-michael.szyszlo	public.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	public.me.com-michael.szyszlo.warc.gz	0
-michael.szyszlo	web.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	web.me.com-michael.szyszlo.warc.gz	0
-pwwright	gallery.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	gallery.me.com-pwwright.warc.gz	0
-pwwright	homepage.mac.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	homepage.mac.com-pwwright.warc.gz	0
-pwwright	public.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	public.me.com-pwwright.warc.gz	0
-pwwright	web.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	web.me.com-pwwright.warc.gz	0
-shippo2122	gallery.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	gallery.me.com-shippo2122.warc.gz	0
-shippo2122	homepage.mac.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	homepage.mac.com-shippo2122.warc.gz	0
-shippo2122	public.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	public.me.com-shippo2122.warc.gz	0
-shippo2122	web.me.com		archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	web.me.com-shippo2122.warc.gz	0
+huebs	gallery.me.com	2012-04-05 00:37:36	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	gallery.me.com-huebs.warc.gz	4287624171
+huebs	homepage.mac.com	2012-04-05 00:37:36	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	homepage.mac.com-huebs.warc.gz	6004
+huebs	public.me.com	2012-04-04 23:17:38	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	public.me.com-huebs.warc.gz	849357842
+huebs	web.me.com	2012-04-04 23:12:25	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	web.me.com-huebs.warc.gz	485391649
+kagamaru	gallery.me.com	2012-04-04 22:46:51	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	gallery.me.com-kagamaru.warc.gz	8348
+kagamaru	homepage.mac.com	2012-04-04 22:46:51	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	homepage.mac.com-kagamaru.warc.gz	5144
+kagamaru	public.me.com	2012-04-04 22:46:50	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	public.me.com-kagamaru.warc.gz	1916
+kagamaru	web.me.com	2012-04-04 22:46:50	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	web.me.com-kagamaru.warc.gz	17672
+michael.szyszlo	gallery.me.com	2012-04-04 22:40:25	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	gallery.me.com-michael.szyszlo.warc.gz	409337102
+michael.szyszlo	homepage.mac.com	2012-04-04 22:40:31	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	homepage.mac.com-michael.szyszlo.warc.gz	635442
+michael.szyszlo	public.me.com	2012-04-04 22:30:10	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	public.me.com-michael.szyszlo.warc.gz	1928
+michael.szyszlo	web.me.com	2012-04-04 22:30:10	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	web.me.com-michael.szyszlo.warc.gz	135820674
+pwwright	gallery.me.com	2012-04-04 22:20:13	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	gallery.me.com-pwwright.warc.gz	138528832
+pwwright	homepage.mac.com	2012-04-04 22:20:13	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	homepage.mac.com-pwwright.warc.gz	4891
+pwwright	public.me.com	2012-04-04 22:15:44	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	public.me.com-pwwright.warc.gz	1911
+pwwright	web.me.com	2012-04-04 22:15:44	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	web.me.com-pwwright.warc.gz	3739764
+shippo2122	gallery.me.com	2012-04-04 22:46:46	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	gallery.me.com-shippo2122.warc.gz	52670525
+shippo2122	homepage.mac.com	2012-04-04 22:46:49	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	homepage.mac.com-shippo2122.warc.gz	59095
+shippo2122	public.me.com	2012-04-04 22:45:12	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	public.me.com-shippo2122.warc.gz	214473804
+shippo2122	web.me.com	2012-04-04 22:42:20	archiveteam-mobileme-hero-401x	archiveteam-mobileme-hero-401x-4016.tar	web.me.com-shippo2122.warc.gz	6516437

@@ -1,16 +1,16 @@
-dclogan	gallery.me.com		archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	gallery.me.com-dclogan.warc.gz	0
-dclogan	homepage.mac.com		archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	homepage.mac.com-dclogan.warc.gz	0
-dclogan	public.me.com		archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	public.me.com-dclogan.warc.gz	0
-dclogan	web.me.com		archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	web.me.com-dclogan.warc.gz	0
-element54	gallery.me.com		archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	gallery.me.com-element54.warc.gz	0
-element54	homepage.mac.com		archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	homepage.mac.com-element54.warc.gz	0
-element54	public.me.com		archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	public.me.com-element54.warc.gz	0
-element54	web.me.com		archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	web.me.com-element54.warc.gz	0
-germanarceross	gallery.me.com		archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	gallery.me.com-germanarceross.warc.gz	0
-germanarceross	homepage.mac.com		archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	homepage.mac.com-germanarceross.warc.gz	0
-germanarceross	public.me.com		archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	public.me.com-germanarceross.warc.gz	0
-germanarceross	web.me.com		archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	web.me.com-germanarceross.warc.gz	0
-shintaro_imai	gallery.me.com		archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	gallery.me.com-shintaro_imai.warc.gz	0
-shintaro_imai	homepage.mac.com		archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	homepage.mac.com-shintaro_imai.warc.gz	0
-shintaro_imai	public.me.com		archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	public.me.com-shintaro_imai.warc.gz	0
-shintaro_imai	web.me.com		archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	web.me.com-shintaro_imai.warc.gz	0
+dclogan	gallery.me.com	2012-04-02 09:54:15	archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	gallery.me.com-dclogan.warc.gz	5729
+dclogan	homepage.mac.com	2012-04-02 09:54:17	archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	homepage.mac.com-dclogan.warc.gz	60782
+dclogan	public.me.com	2012-04-02 09:54:14	archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	public.me.com-dclogan.warc.gz	1910
+dclogan	web.me.com	2012-04-02 09:54:12	archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	web.me.com-dclogan.warc.gz	87736076
+element54	gallery.me.com	2012-04-02 09:31:34	archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	gallery.me.com-element54.warc.gz	12316
+element54	homepage.mac.com	2012-04-02 09:31:34	archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	homepage.mac.com-element54.warc.gz	7146
+element54	public.me.com	2012-04-02 09:31:33	archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	public.me.com-element54.warc.gz	1912
+element54	web.me.com	2012-04-02 09:31:33	archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	web.me.com-element54.warc.gz	22479
+germanarceross	gallery.me.com	2012-04-02 09:31:31	archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	gallery.me.com-germanarceross.warc.gz	1029070825
+germanarceross	homepage.mac.com	2012-04-02 09:31:32	archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	homepage.mac.com-germanarceross.warc.gz	4933
+germanarceross	public.me.com	2012-04-02 09:03:57	archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	public.me.com-germanarceross.warc.gz	1926
+germanarceross	web.me.com	2012-04-02 09:03:57	archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	web.me.com-germanarceross.warc.gz	45704253
+shintaro_imai	gallery.me.com	2012-04-02 12:05:24	archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	gallery.me.com-shintaro_imai.warc.gz	5246
+shintaro_imai	homepage.mac.com	2012-04-02 12:05:25	archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	homepage.mac.com-shintaro_imai.warc.gz	28584
+shintaro_imai	public.me.com	2012-04-02 12:05:23	archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	public.me.com-shintaro_imai.warc.gz	1924
+shintaro_imai	web.me.com	2012-04-02 12:05:11	archiveteam-mobileme-hero-293x	archiveteam-mobileme-hero-293x-2937.tar	web.me.com-shintaro_imai.warc.gz	8098831505

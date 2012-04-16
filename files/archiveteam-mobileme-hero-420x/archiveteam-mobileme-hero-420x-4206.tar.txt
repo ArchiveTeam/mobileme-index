@@ -1,32 +1,32 @@
-bigaramis	gallery.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	gallery.me.com-bigaramis.warc.gz	0
-bigaramis	homepage.mac.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	homepage.mac.com-bigaramis.warc.gz	0
-bigaramis	public.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	public.me.com-bigaramis.warc.gz	0
-bigaramis	web.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	web.me.com-bigaramis.warc.gz	0
-clammon	gallery.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	gallery.me.com-clammon.warc.gz	0
-clammon	homepage.mac.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	homepage.mac.com-clammon.warc.gz	0
-clammon	public.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	public.me.com-clammon.warc.gz	0
-clammon	web.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	web.me.com-clammon.warc.gz	0
-gbeuc	gallery.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	gallery.me.com-gbeuc.warc.gz	0
-gbeuc	homepage.mac.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	homepage.mac.com-gbeuc.warc.gz	0
-gbeuc	public.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	public.me.com-gbeuc.warc.gz	0
-gbeuc	web.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	web.me.com-gbeuc.warc.gz	0
-gregstace	gallery.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	gallery.me.com-gregstace.warc.gz	0
-gregstace	homepage.mac.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	homepage.mac.com-gregstace.warc.gz	0
-gregstace	public.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	public.me.com-gregstace.warc.gz	0
-gregstace	web.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	web.me.com-gregstace.warc.gz	0
-jmerkler	gallery.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	gallery.me.com-jmerkler.warc.gz	0
-jmerkler	homepage.mac.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	homepage.mac.com-jmerkler.warc.gz	0
-jmerkler	public.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	public.me.com-jmerkler.warc.gz	0
-jmerkler	web.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	web.me.com-jmerkler.warc.gz	0
-reo42	gallery.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	gallery.me.com-reo42.warc.gz	0
-reo42	homepage.mac.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	homepage.mac.com-reo42.warc.gz	0
-reo42	public.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	public.me.com-reo42.warc.gz	0
-reo42	web.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	web.me.com-reo42.warc.gz	0
-russellbrook	gallery.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	gallery.me.com-russellbrook.warc.gz	0
-russellbrook	homepage.mac.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	homepage.mac.com-russellbrook.warc.gz	0
-russellbrook	public.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	public.me.com-russellbrook.warc.gz	0
-russellbrook	web.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	web.me.com-russellbrook.warc.gz	0
-wld	gallery.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	gallery.me.com-wld.warc.gz	0
-wld	homepage.mac.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	homepage.mac.com-wld.warc.gz	0
-wld	public.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	public.me.com-wld.warc.gz	0
-wld	web.me.com		archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	web.me.com-wld.warc.gz	0
+bigaramis	gallery.me.com	2012-04-05 10:02:10	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	gallery.me.com-bigaramis.warc.gz	1553030316
+bigaramis	homepage.mac.com	2012-04-05 10:02:11	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	homepage.mac.com-bigaramis.warc.gz	4913
+bigaramis	public.me.com	2012-04-05 09:14:00	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	public.me.com-bigaramis.warc.gz	1918
+bigaramis	web.me.com	2012-04-05 09:13:59	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	web.me.com-bigaramis.warc.gz	16448157
+clammon	gallery.me.com	2012-04-05 08:52:03	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	gallery.me.com-clammon.warc.gz	4995
+clammon	homepage.mac.com	2012-04-05 08:52:03	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	homepage.mac.com-clammon.warc.gz	4912
+clammon	public.me.com	2012-04-05 08:52:02	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	public.me.com-clammon.warc.gz	1911
+clammon	web.me.com	2012-04-05 08:51:59	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	web.me.com-clammon.warc.gz	137517358
+gbeuc	gallery.me.com	2012-04-05 09:09:17	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	gallery.me.com-gbeuc.warc.gz	12277
+gbeuc	homepage.mac.com	2012-04-05 09:09:17	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	homepage.mac.com-gbeuc.warc.gz	7126
+gbeuc	public.me.com	2012-04-05 09:09:17	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	public.me.com-gbeuc.warc.gz	1906
+gbeuc	web.me.com	2012-04-05 09:09:17	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	web.me.com-gbeuc.warc.gz	22416
+gregstace	gallery.me.com	2012-04-05 10:21:03	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	gallery.me.com-gregstace.warc.gz	88616503
+gregstace	homepage.mac.com	2012-04-05 10:21:04	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	homepage.mac.com-gregstace.warc.gz	4912
+gregstace	public.me.com	2012-04-05 10:19:40	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	public.me.com-gregstace.warc.gz	1762576601
+gregstace	web.me.com	2012-04-05 10:03:37	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	web.me.com-gregstace.warc.gz	34483471
+jmerkler	gallery.me.com	2012-04-05 08:29:19	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	gallery.me.com-jmerkler.warc.gz	844712539
+jmerkler	homepage.mac.com	2012-04-05 08:29:30	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	homepage.mac.com-jmerkler.warc.gz	129942
+jmerkler	public.me.com	2012-04-05 08:05:50	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	public.me.com-jmerkler.warc.gz	128931086
+jmerkler	web.me.com	2012-04-05 08:03:27	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	web.me.com-jmerkler.warc.gz	100530931
+reo42	gallery.me.com	2012-04-05 08:56:17	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	gallery.me.com-reo42.warc.gz	1614259
+reo42	homepage.mac.com	2012-04-05 08:56:17	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	homepage.mac.com-reo42.warc.gz	4894
+reo42	public.me.com	2012-04-05 08:56:13	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	public.me.com-reo42.warc.gz	66853456
+reo42	web.me.com	2012-04-05 08:54:27	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	web.me.com-reo42.warc.gz	69321928
+russellbrook	gallery.me.com	2012-04-05 09:09:15	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	gallery.me.com-russellbrook.warc.gz	153623625
+russellbrook	homepage.mac.com	2012-04-05 09:09:15	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	homepage.mac.com-russellbrook.warc.gz	7887
+russellbrook	public.me.com	2012-04-05 09:05:43	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	public.me.com-russellbrook.warc.gz	1930
+russellbrook	web.me.com	2012-04-05 09:05:42	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	web.me.com-russellbrook.warc.gz	155832390
+wld	gallery.me.com	2012-04-05 08:29:33	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	gallery.me.com-wld.warc.gz	12311
+wld	homepage.mac.com	2012-04-05 08:29:33	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	homepage.mac.com-wld.warc.gz	7135
+wld	public.me.com	2012-04-05 08:29:32	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	public.me.com-wld.warc.gz	1902
+wld	web.me.com	2012-04-05 08:29:32	archiveteam-mobileme-hero-420x	archiveteam-mobileme-hero-420x-4206.tar	web.me.com-wld.warc.gz	22470

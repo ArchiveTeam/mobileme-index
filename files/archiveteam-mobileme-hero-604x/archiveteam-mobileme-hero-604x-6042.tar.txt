@@ -1,20 +1,20 @@
-brandonkennedy	gallery.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	gallery.me.com-brandonkennedy.warc.gz	0
-brandonkennedy	homepage.mac.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	homepage.mac.com-brandonkennedy.warc.gz	0
-brandonkennedy	public.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	public.me.com-brandonkennedy.warc.gz	0
-brandonkennedy	web.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	web.me.com-brandonkennedy.warc.gz	0
-christinedlg	gallery.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	gallery.me.com-christinedlg.warc.gz	0
-christinedlg	homepage.mac.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	homepage.mac.com-christinedlg.warc.gz	0
-christinedlg	public.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	public.me.com-christinedlg.warc.gz	0
-christinedlg	web.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	web.me.com-christinedlg.warc.gz	0
-gfaure	gallery.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	gallery.me.com-gfaure.warc.gz	0
-gfaure	homepage.mac.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	homepage.mac.com-gfaure.warc.gz	0
-gfaure	public.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	public.me.com-gfaure.warc.gz	0
-gfaure	web.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	web.me.com-gfaure.warc.gz	0
-judyanneevans	gallery.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	gallery.me.com-judyanneevans.warc.gz	0
-judyanneevans	homepage.mac.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	homepage.mac.com-judyanneevans.warc.gz	0
-judyanneevans	public.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	public.me.com-judyanneevans.warc.gz	0
-judyanneevans	web.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	web.me.com-judyanneevans.warc.gz	0
-nmajmani	gallery.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	gallery.me.com-nmajmani.warc.gz	0
-nmajmani	homepage.mac.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	homepage.mac.com-nmajmani.warc.gz	0
-nmajmani	public.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	public.me.com-nmajmani.warc.gz	0
-nmajmani	web.me.com		archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	web.me.com-nmajmani.warc.gz	0
+brandonkennedy	gallery.me.com	2012-04-10 18:56:50	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	gallery.me.com-brandonkennedy.warc.gz	4008424121
+brandonkennedy	homepage.mac.com	2012-04-10 18:56:52	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	homepage.mac.com-brandonkennedy.warc.gz	76543
+brandonkennedy	public.me.com	2012-04-10 17:52:36	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	public.me.com-brandonkennedy.warc.gz	482648827
+brandonkennedy	web.me.com	2012-04-10 17:40:12	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	web.me.com-brandonkennedy.warc.gz	260087715
+christinedlg	gallery.me.com	2012-04-10 17:02:16	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	gallery.me.com-christinedlg.warc.gz	5693
+christinedlg	homepage.mac.com	2012-04-10 17:02:21	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	homepage.mac.com-christinedlg.warc.gz	36915
+christinedlg	public.me.com	2012-04-10 17:02:14	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	public.me.com-christinedlg.warc.gz	3388
+christinedlg	web.me.com	2012-04-10 17:02:14	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	web.me.com-christinedlg.warc.gz	50215748
+gfaure	gallery.me.com	2012-04-10 17:12:19	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	gallery.me.com-gfaure.warc.gz	8344
+gfaure	homepage.mac.com	2012-04-10 17:12:19	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	homepage.mac.com-gfaure.warc.gz	5152
+gfaure	public.me.com	2012-04-10 17:12:18	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	public.me.com-gfaure.warc.gz	1907
+gfaure	web.me.com	2012-04-10 17:12:18	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	web.me.com-gfaure.warc.gz	17699
+judyanneevans	gallery.me.com	2012-04-10 17:12:12	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	gallery.me.com-judyanneevans.warc.gz	15242478
+judyanneevans	homepage.mac.com	2012-04-10 17:12:16	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	homepage.mac.com-judyanneevans.warc.gz	81629
+judyanneevans	public.me.com	2012-04-10 17:11:55	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	public.me.com-judyanneevans.warc.gz	1928
+judyanneevans	web.me.com	2012-04-10 17:11:54	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	web.me.com-judyanneevans.warc.gz	135249414
+nmajmani	gallery.me.com	2012-04-10 17:22:41	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	gallery.me.com-nmajmani.warc.gz	5026
+nmajmani	homepage.mac.com	2012-04-10 17:22:41	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	homepage.mac.com-nmajmani.warc.gz	7879
+nmajmani	public.me.com	2012-04-10 17:22:40	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	public.me.com-nmajmani.warc.gz	229061087
+nmajmani	web.me.com	2012-04-10 17:16:48	archiveteam-mobileme-hero-604x	archiveteam-mobileme-hero-604x-6042.tar	web.me.com-nmajmani.warc.gz	76776228

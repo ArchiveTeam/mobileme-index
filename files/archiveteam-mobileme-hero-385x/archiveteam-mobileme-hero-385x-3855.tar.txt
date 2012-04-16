@@ -1,12 +1,12 @@
-lady36dynamite	gallery.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	gallery.me.com-lady36dynamite.warc.gz	0
-lady36dynamite	homepage.mac.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	homepage.mac.com-lady36dynamite.warc.gz	0
-lady36dynamite	public.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	public.me.com-lady36dynamite.warc.gz	0
-lady36dynamite	web.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	web.me.com-lady36dynamite.warc.gz	0
-marcelinogarciasal	gallery.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	gallery.me.com-marcelinogarciasal.warc.gz	0
-marcelinogarciasal	homepage.mac.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	homepage.mac.com-marcelinogarciasal.warc.gz	0
-marcelinogarciasal	public.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	public.me.com-marcelinogarciasal.warc.gz	0
-marcelinogarciasal	web.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	web.me.com-marcelinogarciasal.warc.gz	0
-scallon04	gallery.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	gallery.me.com-scallon04.warc.gz	0
-scallon04	homepage.mac.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	homepage.mac.com-scallon04.warc.gz	0
-scallon04	public.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	public.me.com-scallon04.warc.gz	0
-scallon04	web.me.com		archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	web.me.com-scallon04.warc.gz	0
+lady36dynamite	gallery.me.com	2012-04-04 14:20:03	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	gallery.me.com-lady36dynamite.warc.gz	4305
+lady36dynamite	homepage.mac.com	2012-04-04 14:20:04	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	homepage.mac.com-lady36dynamite.warc.gz	12554
+lady36dynamite	public.me.com	2012-04-04 14:20:03	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	public.me.com-lady36dynamite.warc.gz	2808850327
+lady36dynamite	web.me.com	2012-04-04 13:22:59	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	web.me.com-lady36dynamite.warc.gz	2175261
+marcelinogarciasal	gallery.me.com	2012-04-04 15:00:27	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	gallery.me.com-marcelinogarciasal.warc.gz	573260053
+marcelinogarciasal	homepage.mac.com	2012-04-04 15:00:29	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	homepage.mac.com-marcelinogarciasal.warc.gz	4943
+marcelinogarciasal	public.me.com	2012-04-04 14:51:20	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	public.me.com-marcelinogarciasal.warc.gz	167868
+marcelinogarciasal	web.me.com	2012-04-04 14:51:15	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	web.me.com-marcelinogarciasal.warc.gz	1702924260
+scallon04	gallery.me.com	2012-04-04 13:20:07	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	gallery.me.com-scallon04.warc.gz	76683120
+scallon04	homepage.mac.com	2012-04-04 13:20:15	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	homepage.mac.com-scallon04.warc.gz	147645
+scallon04	public.me.com	2012-04-04 13:18:00	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	public.me.com-scallon04.warc.gz	1919
+scallon04	web.me.com	2012-04-04 13:18:00	archiveteam-mobileme-hero-385x	archiveteam-mobileme-hero-385x-3855.tar	web.me.com-scallon04.warc.gz	77888013

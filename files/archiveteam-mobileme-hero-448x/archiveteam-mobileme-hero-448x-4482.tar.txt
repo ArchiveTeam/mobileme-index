@@ -1,20 +1,20 @@
-amyrsmith	gallery.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	gallery.me.com-amyrsmith.warc.gz	0
-amyrsmith	homepage.mac.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	homepage.mac.com-amyrsmith.warc.gz	0
-amyrsmith	public.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	public.me.com-amyrsmith.warc.gz	0
-amyrsmith	web.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	web.me.com-amyrsmith.warc.gz	0
-kokopelli22	gallery.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	gallery.me.com-kokopelli22.warc.gz	0
-kokopelli22	homepage.mac.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	homepage.mac.com-kokopelli22.warc.gz	0
-kokopelli22	public.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	public.me.com-kokopelli22.warc.gz	0
-kokopelli22	web.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	web.me.com-kokopelli22.warc.gz	0
-lwalz	gallery.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	gallery.me.com-lwalz.warc.gz	0
-lwalz	homepage.mac.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	homepage.mac.com-lwalz.warc.gz	0
-lwalz	public.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	public.me.com-lwalz.warc.gz	0
-lwalz	web.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	web.me.com-lwalz.warc.gz	0
-office_saya	gallery.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	gallery.me.com-office_saya.warc.gz	0
-office_saya	homepage.mac.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	homepage.mac.com-office_saya.warc.gz	0
-office_saya	public.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	public.me.com-office_saya.warc.gz	0
-office_saya	web.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	web.me.com-office_saya.warc.gz	0
-tuozumi2	gallery.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	gallery.me.com-tuozumi2.warc.gz	0
-tuozumi2	homepage.mac.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	homepage.mac.com-tuozumi2.warc.gz	0
-tuozumi2	public.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	public.me.com-tuozumi2.warc.gz	0
-tuozumi2	web.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	web.me.com-tuozumi2.warc.gz	0
+amyrsmith	gallery.me.com	2012-04-06 01:35:07	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	gallery.me.com-amyrsmith.warc.gz	12347
+amyrsmith	homepage.mac.com	2012-04-06 01:35:07	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	homepage.mac.com-amyrsmith.warc.gz	7160
+amyrsmith	public.me.com	2012-04-06 01:35:07	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	public.me.com-amyrsmith.warc.gz	1918
+amyrsmith	web.me.com	2012-04-06 01:35:06	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	web.me.com-amyrsmith.warc.gz	22547
+kokopelli22	gallery.me.com	2012-04-06 01:34:57	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	gallery.me.com-kokopelli22.warc.gz	37679495
+kokopelli22	homepage.mac.com	2012-04-06 01:34:58	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	homepage.mac.com-kokopelli22.warc.gz	4934
+kokopelli22	public.me.com	2012-04-06 01:34:46	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	public.me.com-kokopelli22.warc.gz	1927
+kokopelli22	web.me.com	2012-04-06 01:34:45	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	web.me.com-kokopelli22.warc.gz	21863699
+lwalz	gallery.me.com	2012-04-06 01:35:01	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	gallery.me.com-lwalz.warc.gz	4240
+lwalz	homepage.mac.com	2012-04-06 01:35:05	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	homepage.mac.com-lwalz.warc.gz	86696
+lwalz	public.me.com	2012-04-06 01:35:01	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	public.me.com-lwalz.warc.gz	1912
+lwalz	web.me.com	2012-04-06 01:35:01	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	web.me.com-lwalz.warc.gz	7433
+office_saya	gallery.me.com	2012-04-06 02:54:39	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	gallery.me.com-office_saya.warc.gz	96029069
+office_saya	homepage.mac.com	2012-04-06 02:54:41	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	homepage.mac.com-office_saya.warc.gz	129093
+office_saya	public.me.com	2012-04-06 02:52:55	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	public.me.com-office_saya.warc.gz	4330926399
+office_saya	web.me.com	2012-04-06 01:35:21	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	web.me.com-office_saya.warc.gz	824730
+tuozumi2	gallery.me.com	2012-04-06 01:34:59	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	gallery.me.com-tuozumi2.warc.gz	8364
+tuozumi2	homepage.mac.com	2012-04-06 01:34:59	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	homepage.mac.com-tuozumi2.warc.gz	5173
+tuozumi2	public.me.com	2012-04-06 01:34:59	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	public.me.com-tuozumi2.warc.gz	1913
+tuozumi2	web.me.com	2012-04-06 01:34:59	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4482.tar	web.me.com-tuozumi2.warc.gz	17784

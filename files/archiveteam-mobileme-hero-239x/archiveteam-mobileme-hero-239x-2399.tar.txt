@@ -1,12 +1,12 @@
-johnf	gallery.me.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	gallery.me.com-johnf.warc.gz	0
-johnf	homepage.mac.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	homepage.mac.com-johnf.warc.gz	0
-johnf	public.me.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	public.me.com-johnf.warc.gz	0
-johnf	web.me.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	web.me.com-johnf.warc.gz	0
-jtyerfdog	gallery.me.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	gallery.me.com-jtyerfdog.warc.gz	0
-jtyerfdog	homepage.mac.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	homepage.mac.com-jtyerfdog.warc.gz	0
-jtyerfdog	public.me.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	public.me.com-jtyerfdog.warc.gz	0
-jtyerfdog	web.me.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	web.me.com-jtyerfdog.warc.gz	0
-tom.kreider	gallery.me.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	gallery.me.com-tom.kreider.warc.gz	0
-tom.kreider	homepage.mac.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	homepage.mac.com-tom.kreider.warc.gz	0
-tom.kreider	public.me.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	public.me.com-tom.kreider.warc.gz	0
-tom.kreider	web.me.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	web.me.com-tom.kreider.warc.gz	0
+johnf	gallery.me.com	2012-03-31 09:05:51	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	gallery.me.com-johnf.warc.gz	13565015
+johnf	homepage.mac.com	2012-03-31 09:05:51	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	homepage.mac.com-johnf.warc.gz	4912
+johnf	public.me.com	2012-03-31 09:05:04	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	public.me.com-johnf.warc.gz	1906
+johnf	web.me.com	2012-03-31 09:05:03	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	web.me.com-johnf.warc.gz	38083171
+jtyerfdog	gallery.me.com	2012-03-31 12:16:22	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	gallery.me.com-jtyerfdog.warc.gz	1172141967
+jtyerfdog	homepage.mac.com	2012-03-31 12:16:23	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	homepage.mac.com-jtyerfdog.warc.gz	4916
+jtyerfdog	public.me.com	2012-03-31 11:19:00	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	public.me.com-jtyerfdog.warc.gz	1920
+jtyerfdog	web.me.com	2012-03-31 11:18:53	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	web.me.com-jtyerfdog.warc.gz	2167661367
+tom.kreider	gallery.me.com	2012-03-31 08:53:35	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	gallery.me.com-tom.kreider.warc.gz	5007
+tom.kreider	homepage.mac.com	2012-03-31 08:53:35	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	homepage.mac.com-tom.kreider.warc.gz	4934
+tom.kreider	public.me.com	2012-03-31 08:53:29	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	public.me.com-tom.kreider.warc.gz	1560416399
+tom.kreider	web.me.com	2012-03-31 08:01:16	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2399.tar	web.me.com-tom.kreider.warc.gz	5198307

@@ -1,8 +1,8 @@
-dclipson1	gallery.me.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4555.tar	gallery.me.com-dclipson1.warc.gz	0
-dclipson1	homepage.mac.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4555.tar	homepage.mac.com-dclipson1.warc.gz	0
-dclipson1	public.me.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4555.tar	public.me.com-dclipson1.warc.gz	0
-dclipson1	web.me.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4555.tar	web.me.com-dclipson1.warc.gz	0
-kynan90	gallery.me.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4555.tar	gallery.me.com-kynan90.warc.gz	0
-kynan90	homepage.mac.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4555.tar	homepage.mac.com-kynan90.warc.gz	0
-kynan90	public.me.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4555.tar	public.me.com-kynan90.warc.gz	0
-kynan90	web.me.com		archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4555.tar	web.me.com-kynan90.warc.gz	0
+dclipson1	gallery.me.com	2012-04-06 06:48:52	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4555.tar	gallery.me.com-dclipson1.warc.gz	7319934208
+dclipson1	homepage.mac.com	2012-04-06 06:50:00	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4555.tar	homepage.mac.com-dclipson1.warc.gz	1756149
+dclipson1	public.me.com	2012-04-06 05:09:12	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4555.tar	public.me.com-dclipson1.warc.gz	1915
+dclipson1	web.me.com	2012-04-06 05:08:32	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4555.tar	web.me.com-dclipson1.warc.gz	2113638397
+kynan90	gallery.me.com	2012-04-06 02:54:24	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4555.tar	gallery.me.com-kynan90.warc.gz	4250
+kynan90	homepage.mac.com	2012-04-06 02:54:25	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4555.tar	homepage.mac.com-kynan90.warc.gz	4920
+kynan90	public.me.com	2012-04-06 02:54:24	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4555.tar	public.me.com-kynan90.warc.gz	1911
+kynan90	web.me.com	2012-04-06 02:54:22	archiveteam-mobileme-hero-455x	archiveteam-mobileme-hero-455x-4555.tar	web.me.com-kynan90.warc.gz	7043064

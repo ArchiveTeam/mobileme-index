@@ -1,24 +1,24 @@
-a.green0	gallery.me.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	gallery.me.com-a.green0.warc.gz	0
-a.green0	homepage.mac.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	homepage.mac.com-a.green0.warc.gz	0
-a.green0	public.me.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	public.me.com-a.green0.warc.gz	0
-a.green0	web.me.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	web.me.com-a.green0.warc.gz	0
-eyemusik	gallery.me.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	gallery.me.com-eyemusik.warc.gz	0
-eyemusik	homepage.mac.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	homepage.mac.com-eyemusik.warc.gz	0
-eyemusik	public.me.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	public.me.com-eyemusik.warc.gz	0
-eyemusik	web.me.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	web.me.com-eyemusik.warc.gz	0
-golf	gallery.me.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	gallery.me.com-golf.warc.gz	0
-golf	homepage.mac.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	homepage.mac.com-golf.warc.gz	0
-golf	public.me.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	public.me.com-golf.warc.gz	0
-golf	web.me.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	web.me.com-golf.warc.gz	0
-kwraber	gallery.me.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	gallery.me.com-kwraber.warc.gz	0
-kwraber	homepage.mac.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	homepage.mac.com-kwraber.warc.gz	0
-kwraber	public.me.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	public.me.com-kwraber.warc.gz	0
-kwraber	web.me.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	web.me.com-kwraber.warc.gz	0
-laurengrande	gallery.me.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	gallery.me.com-laurengrande.warc.gz	0
-laurengrande	homepage.mac.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	homepage.mac.com-laurengrande.warc.gz	0
-laurengrande	public.me.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	public.me.com-laurengrande.warc.gz	0
-laurengrande	web.me.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	web.me.com-laurengrande.warc.gz	0
-mikejohnson	gallery.me.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	gallery.me.com-mikejohnson.warc.gz	0
-mikejohnson	homepage.mac.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	homepage.mac.com-mikejohnson.warc.gz	0
-mikejohnson	public.me.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	public.me.com-mikejohnson.warc.gz	0
-mikejohnson	web.me.com		archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	web.me.com-mikejohnson.warc.gz	0
+a.green0	gallery.me.com	2012-04-09 06:09:38	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	gallery.me.com-a.green0.warc.gz	4250
+a.green0	homepage.mac.com	2012-04-09 06:09:38	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	homepage.mac.com-a.green0.warc.gz	4888
+a.green0	public.me.com	2012-04-09 06:09:37	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	public.me.com-a.green0.warc.gz	1918
+a.green0	web.me.com	2012-04-09 06:09:37	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	web.me.com-a.green0.warc.gz	5522652
+eyemusik	gallery.me.com	2012-04-09 05:41:42	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	gallery.me.com-eyemusik.warc.gz	5009
+eyemusik	homepage.mac.com	2012-04-09 05:41:44	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	homepage.mac.com-eyemusik.warc.gz	50340
+eyemusik	public.me.com	2012-04-09 05:41:42	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	public.me.com-eyemusik.warc.gz	185219778
+eyemusik	web.me.com	2012-04-09 05:39:44	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	web.me.com-eyemusik.warc.gz	32930718
+golf	gallery.me.com	2012-04-09 05:13:10	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	gallery.me.com-golf.warc.gz	14390082
+golf	homepage.mac.com	2012-04-09 05:13:10	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	homepage.mac.com-golf.warc.gz	4896
+golf	public.me.com	2012-04-09 05:12:50	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	public.me.com-golf.warc.gz	1911
+golf	web.me.com	2012-04-09 05:12:50	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	web.me.com-golf.warc.gz	215069
+kwraber	gallery.me.com	2012-04-09 07:26:17	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	gallery.me.com-kwraber.warc.gz	3087333650
+kwraber	homepage.mac.com	2012-04-09 07:26:17	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	homepage.mac.com-kwraber.warc.gz	4922
+kwraber	public.me.com	2012-04-09 06:27:25	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	public.me.com-kwraber.warc.gz	25682865
+kwraber	web.me.com	2012-04-09 06:27:14	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	web.me.com-kwraber.warc.gz	187424708
+laurengrande	gallery.me.com	2012-04-09 05:38:52	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	gallery.me.com-laurengrande.warc.gz	6474395
+laurengrande	homepage.mac.com	2012-04-09 05:38:52	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	homepage.mac.com-laurengrande.warc.gz	4926
+laurengrande	public.me.com	2012-04-09 05:38:32	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	public.me.com-laurengrande.warc.gz	1927
+laurengrande	web.me.com	2012-04-09 05:38:32	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	web.me.com-laurengrande.warc.gz	274661401
+mikejohnson	gallery.me.com	2012-04-09 06:07:46	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	gallery.me.com-mikejohnson.warc.gz	633061384
+mikejohnson	homepage.mac.com	2012-04-09 06:08:22	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	homepage.mac.com-mikejohnson.warc.gz	18441887
+mikejohnson	public.me.com	2012-04-09 05:50:54	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	public.me.com-mikejohnson.warc.gz	144388173
+mikejohnson	web.me.com	2012-04-09 05:47:36	archiveteam-mobileme-hero-538x	archiveteam-mobileme-hero-538x-5380.tar	web.me.com-mikejohnson.warc.gz	34389755

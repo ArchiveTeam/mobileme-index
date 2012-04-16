@@ -1,8 +1,8 @@
-louislenard	gallery.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7261.tar	gallery.me.com-louislenard.warc.gz	0
-louislenard	homepage.mac.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7261.tar	homepage.mac.com-louislenard.warc.gz	0
-louislenard	public.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7261.tar	public.me.com-louislenard.warc.gz	0
-louislenard	web.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7261.tar	web.me.com-louislenard.warc.gz	0
-robnichols68	gallery.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7261.tar	gallery.me.com-robnichols68.warc.gz	0
-robnichols68	homepage.mac.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7261.tar	homepage.mac.com-robnichols68.warc.gz	0
-robnichols68	public.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7261.tar	public.me.com-robnichols68.warc.gz	0
-robnichols68	web.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7261.tar	web.me.com-robnichols68.warc.gz	0
+louislenard	gallery.me.com	2012-04-13 10:22:22	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7261.tar	gallery.me.com-louislenard.warc.gz	1221386641
+louislenard	homepage.mac.com	2012-04-13 10:22:22	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7261.tar	homepage.mac.com-louislenard.warc.gz	4912
+louislenard	public.me.com	2012-04-13 09:33:17	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7261.tar	public.me.com-louislenard.warc.gz	4959850200
+louislenard	web.me.com	2012-04-13 08:05:39	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7261.tar	web.me.com-louislenard.warc.gz	14562792
+robnichols68	gallery.me.com	2012-04-13 07:57:45	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7261.tar	gallery.me.com-robnichols68.warc.gz	6430
+robnichols68	homepage.mac.com	2012-04-13 07:57:46	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7261.tar	homepage.mac.com-robnichols68.warc.gz	4916
+robnichols68	public.me.com	2012-04-13 07:57:43	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7261.tar	public.me.com-robnichols68.warc.gz	26874416
+robnichols68	web.me.com	2012-04-13 07:56:47	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7261.tar	web.me.com-robnichols68.warc.gz	34670603

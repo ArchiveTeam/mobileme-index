@@ -1,20 +1,20 @@
-bauwerk1	gallery.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	gallery.me.com-bauwerk1.warc.gz	0
-bauwerk1	homepage.mac.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	homepage.mac.com-bauwerk1.warc.gz	0
-bauwerk1	public.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	public.me.com-bauwerk1.warc.gz	0
-bauwerk1	web.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	web.me.com-bauwerk1.warc.gz	0
-heathergwaltney	gallery.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	gallery.me.com-heathergwaltney.warc.gz	0
-heathergwaltney	homepage.mac.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	homepage.mac.com-heathergwaltney.warc.gz	0
-heathergwaltney	public.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	public.me.com-heathergwaltney.warc.gz	0
-heathergwaltney	web.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	web.me.com-heathergwaltney.warc.gz	0
-mymindspace	gallery.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	gallery.me.com-mymindspace.warc.gz	0
-mymindspace	homepage.mac.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	homepage.mac.com-mymindspace.warc.gz	0
-mymindspace	public.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	public.me.com-mymindspace.warc.gz	0
-mymindspace	web.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	web.me.com-mymindspace.warc.gz	0
-paemm	gallery.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	gallery.me.com-paemm.warc.gz	0
-paemm	homepage.mac.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	homepage.mac.com-paemm.warc.gz	0
-paemm	public.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	public.me.com-paemm.warc.gz	0
-paemm	web.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	web.me.com-paemm.warc.gz	0
-taftp	gallery.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	gallery.me.com-taftp.warc.gz	0
-taftp	homepage.mac.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	homepage.mac.com-taftp.warc.gz	0
-taftp	public.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	public.me.com-taftp.warc.gz	0
-taftp	web.me.com		archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	web.me.com-taftp.warc.gz	0
+bauwerk1	gallery.me.com	2012-04-10 01:29:34	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	gallery.me.com-bauwerk1.warc.gz	7049822
+bauwerk1	homepage.mac.com	2012-04-10 01:29:35	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	homepage.mac.com-bauwerk1.warc.gz	4900
+bauwerk1	public.me.com	2012-04-10 01:29:30	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	public.me.com-bauwerk1.warc.gz	977434113
+bauwerk1	web.me.com	2012-04-10 01:20:49	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	web.me.com-bauwerk1.warc.gz	3508056
+heathergwaltney	gallery.me.com	2012-04-10 00:00:30	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	gallery.me.com-heathergwaltney.warc.gz	4296
+heathergwaltney	homepage.mac.com	2012-04-10 00:00:30	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	homepage.mac.com-heathergwaltney.warc.gz	4937
+heathergwaltney	public.me.com	2012-04-10 00:00:28	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	public.me.com-heathergwaltney.warc.gz	1926
+heathergwaltney	web.me.com	2012-04-10 00:00:27	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	web.me.com-heathergwaltney.warc.gz	57984805
+mymindspace	gallery.me.com	2012-04-10 01:20:29	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	gallery.me.com-mymindspace.warc.gz	1289445569
+mymindspace	homepage.mac.com	2012-04-10 01:20:29	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	homepage.mac.com-mymindspace.warc.gz	4919
+mymindspace	public.me.com	2012-04-10 00:57:02	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	public.me.com-mymindspace.warc.gz	44705571
+mymindspace	web.me.com	2012-04-10 00:56:49	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	web.me.com-mymindspace.warc.gz	1148430735
+paemm	gallery.me.com	2012-04-09 23:58:54	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	gallery.me.com-paemm.warc.gz	633799740
+paemm	homepage.mac.com	2012-04-09 23:58:54	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	homepage.mac.com-paemm.warc.gz	4903
+paemm	public.me.com	2012-04-09 23:46:33	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	public.me.com-paemm.warc.gz	30834890
+paemm	web.me.com	2012-04-09 23:46:00	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	web.me.com-paemm.warc.gz	48066851
+taftp	gallery.me.com	2012-04-10 00:07:20	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	gallery.me.com-taftp.warc.gz	5685
+taftp	homepage.mac.com	2012-04-10 00:07:21	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	homepage.mac.com-taftp.warc.gz	4883
+taftp	public.me.com	2012-04-10 00:07:20	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	public.me.com-taftp.warc.gz	1903
+taftp	web.me.com	2012-04-10 00:07:20	archiveteam-mobileme-hero-569x	archiveteam-mobileme-hero-569x-5694.tar	web.me.com-taftp.warc.gz	54135567

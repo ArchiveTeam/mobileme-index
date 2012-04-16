@@ -1,8 +1,8 @@
-jubilant	gallery.me.com		archiveteam-mobileme-hero-331x	archiveteam-mobileme-hero-331x-3314.tar	gallery.me.com-jubilant.warc.gz	0
-jubilant	homepage.mac.com		archiveteam-mobileme-hero-331x	archiveteam-mobileme-hero-331x-3314.tar	homepage.mac.com-jubilant.warc.gz	0
-jubilant	public.me.com		archiveteam-mobileme-hero-331x	archiveteam-mobileme-hero-331x-3314.tar	public.me.com-jubilant.warc.gz	0
-jubilant	web.me.com		archiveteam-mobileme-hero-331x	archiveteam-mobileme-hero-331x-3314.tar	web.me.com-jubilant.warc.gz	0
-william.cesbron	gallery.me.com		archiveteam-mobileme-hero-331x	archiveteam-mobileme-hero-331x-3314.tar	gallery.me.com-william.cesbron.warc.gz	0
-william.cesbron	homepage.mac.com		archiveteam-mobileme-hero-331x	archiveteam-mobileme-hero-331x-3314.tar	homepage.mac.com-william.cesbron.warc.gz	0
-william.cesbron	public.me.com		archiveteam-mobileme-hero-331x	archiveteam-mobileme-hero-331x-3314.tar	public.me.com-william.cesbron.warc.gz	0
-william.cesbron	web.me.com		archiveteam-mobileme-hero-331x	archiveteam-mobileme-hero-331x-3314.tar	web.me.com-william.cesbron.warc.gz	0
+jubilant	gallery.me.com	2012-04-03 06:39:19	archiveteam-mobileme-hero-331x	archiveteam-mobileme-hero-331x-3314.tar	gallery.me.com-jubilant.warc.gz	511942057
+jubilant	homepage.mac.com	2012-04-03 06:39:22	archiveteam-mobileme-hero-331x	archiveteam-mobileme-hero-331x-3314.tar	homepage.mac.com-jubilant.warc.gz	68361
+jubilant	public.me.com	2012-04-03 06:12:47	archiveteam-mobileme-hero-331x	archiveteam-mobileme-hero-331x-3314.tar	public.me.com-jubilant.warc.gz	3022316094
+jubilant	web.me.com	2012-04-03 05:44:16	archiveteam-mobileme-hero-331x	archiveteam-mobileme-hero-331x-3314.tar	web.me.com-jubilant.warc.gz	38185162
+william.cesbron	gallery.me.com	2012-04-03 07:16:44	archiveteam-mobileme-hero-331x	archiveteam-mobileme-hero-331x-3314.tar	gallery.me.com-william.cesbron.warc.gz	1290953970
+william.cesbron	homepage.mac.com	2012-04-03 07:16:45	archiveteam-mobileme-hero-331x	archiveteam-mobileme-hero-331x-3314.tar	homepage.mac.com-william.cesbron.warc.gz	4929
+william.cesbron	public.me.com	2012-04-03 07:03:15	archiveteam-mobileme-hero-331x	archiveteam-mobileme-hero-331x-3314.tar	public.me.com-william.cesbron.warc.gz	1971093378
+william.cesbron	web.me.com	2012-04-03 06:41:50	archiveteam-mobileme-hero-331x	archiveteam-mobileme-hero-331x-3314.tar	web.me.com-william.cesbron.warc.gz	14138597

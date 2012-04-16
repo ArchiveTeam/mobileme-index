@@ -1,12 +1,12 @@
-aliciahogan	gallery.me.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	gallery.me.com-aliciahogan.warc.gz	0
-aliciahogan	homepage.mac.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	homepage.mac.com-aliciahogan.warc.gz	0
-aliciahogan	public.me.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	public.me.com-aliciahogan.warc.gz	0
-aliciahogan	web.me.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	web.me.com-aliciahogan.warc.gz	0
-ejdillon	gallery.me.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	gallery.me.com-ejdillon.warc.gz	0
-ejdillon	homepage.mac.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	homepage.mac.com-ejdillon.warc.gz	0
-ejdillon	public.me.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	public.me.com-ejdillon.warc.gz	0
-ejdillon	web.me.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	web.me.com-ejdillon.warc.gz	0
-jross3030	gallery.me.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	gallery.me.com-jross3030.warc.gz	0
-jross3030	homepage.mac.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	homepage.mac.com-jross3030.warc.gz	0
-jross3030	public.me.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	public.me.com-jross3030.warc.gz	0
-jross3030	web.me.com		archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	web.me.com-jross3030.warc.gz	0
+aliciahogan	gallery.me.com	2012-04-05 17:50:05	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	gallery.me.com-aliciahogan.warc.gz	191479919
+aliciahogan	homepage.mac.com	2012-04-05 17:50:06	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	homepage.mac.com-aliciahogan.warc.gz	4935
+aliciahogan	public.me.com	2012-04-05 17:43:17	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	public.me.com-aliciahogan.warc.gz	1924
+aliciahogan	web.me.com	2012-04-05 17:43:17	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	web.me.com-aliciahogan.warc.gz	5270472
+ejdillon	gallery.me.com	2012-04-05 17:57:12	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	gallery.me.com-ejdillon.warc.gz	220919773
+ejdillon	homepage.mac.com	2012-04-05 17:57:12	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	homepage.mac.com-ejdillon.warc.gz	4909
+ejdillon	public.me.com	2012-04-05 17:51:00	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	public.me.com-ejdillon.warc.gz	1922
+ejdillon	web.me.com	2012-04-05 17:51:00	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	web.me.com-ejdillon.warc.gz	2524894
+jross3030	gallery.me.com	2012-04-05 21:43:38	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	gallery.me.com-jross3030.warc.gz	4124719861
+jross3030	homepage.mac.com	2012-04-05 21:43:38	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	homepage.mac.com-jross3030.warc.gz	4905
+jross3030	public.me.com	2012-04-05 19:56:10	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	public.me.com-jross3030.warc.gz	439338853
+jross3030	web.me.com	2012-04-05 19:52:21	archiveteam-mobileme-hero-439x	archiveteam-mobileme-hero-439x-4395.tar	web.me.com-jross3030.warc.gz	1163895253

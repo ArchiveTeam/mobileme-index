@@ -1,16 +1,16 @@
-mcentire	gallery.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	gallery.me.com-mcentire.warc.gz	0
-mcentire	homepage.mac.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	homepage.mac.com-mcentire.warc.gz	0
-mcentire	public.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	public.me.com-mcentire.warc.gz	0
-mcentire	web.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	web.me.com-mcentire.warc.gz	0
-qcollier	gallery.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	gallery.me.com-qcollier.warc.gz	0
-qcollier	homepage.mac.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	homepage.mac.com-qcollier.warc.gz	0
-qcollier	public.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	public.me.com-qcollier.warc.gz	0
-qcollier	web.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	web.me.com-qcollier.warc.gz	0
-scottymarkdaddy	gallery.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	gallery.me.com-scottymarkdaddy.warc.gz	0
-scottymarkdaddy	homepage.mac.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	homepage.mac.com-scottymarkdaddy.warc.gz	0
-scottymarkdaddy	public.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	public.me.com-scottymarkdaddy.warc.gz	0
-scottymarkdaddy	web.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	web.me.com-scottymarkdaddy.warc.gz	0
-takeachancemakeitbig	gallery.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	gallery.me.com-takeachancemakeitbig.warc.gz	0
-takeachancemakeitbig	homepage.mac.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	homepage.mac.com-takeachancemakeitbig.warc.gz	0
-takeachancemakeitbig	public.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	public.me.com-takeachancemakeitbig.warc.gz	0
-takeachancemakeitbig	web.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	web.me.com-takeachancemakeitbig.warc.gz	0
+mcentire	gallery.me.com	2012-04-05 21:57:48	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	gallery.me.com-mcentire.warc.gz	123611161
+mcentire	homepage.mac.com	2012-04-05 21:57:49	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	homepage.mac.com-mcentire.warc.gz	4890
+mcentire	public.me.com	2012-04-05 21:50:34	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	public.me.com-mcentire.warc.gz	110351489
+mcentire	web.me.com	2012-04-05 21:49:01	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	web.me.com-mcentire.warc.gz	127538435
+qcollier	gallery.me.com	2012-04-05 22:41:43	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	gallery.me.com-qcollier.warc.gz	1770505528
+qcollier	homepage.mac.com	2012-04-05 22:41:45	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	homepage.mac.com-qcollier.warc.gz	4900
+qcollier	public.me.com	2012-04-05 22:17:31	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	public.me.com-qcollier.warc.gz	1911
+qcollier	web.me.com	2012-04-05 22:17:31	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	web.me.com-qcollier.warc.gz	259695331
+scottymarkdaddy	gallery.me.com	2012-04-05 21:34:13	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	gallery.me.com-scottymarkdaddy.warc.gz	2889615168
+scottymarkdaddy	homepage.mac.com	2012-04-05 21:34:14	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	homepage.mac.com-scottymarkdaddy.warc.gz	4944
+scottymarkdaddy	public.me.com	2012-04-05 21:08:45	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	public.me.com-scottymarkdaddy.warc.gz	1932
+scottymarkdaddy	web.me.com	2012-04-05 21:08:44	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	web.me.com-scottymarkdaddy.warc.gz	794835321
+takeachancemakeitbig	gallery.me.com	2012-04-05 20:42:34	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	gallery.me.com-takeachancemakeitbig.warc.gz	9444243
+takeachancemakeitbig	homepage.mac.com	2012-04-05 20:42:38	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	homepage.mac.com-takeachancemakeitbig.warc.gz	37072
+takeachancemakeitbig	public.me.com	2012-04-05 20:41:54	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	public.me.com-takeachancemakeitbig.warc.gz	63441985
+takeachancemakeitbig	web.me.com	2012-04-05 20:40:23	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4413.tar	web.me.com-takeachancemakeitbig.warc.gz	20855366

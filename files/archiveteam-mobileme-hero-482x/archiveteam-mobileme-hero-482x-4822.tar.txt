@@ -1,12 +1,12 @@
-dayersiii	gallery.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	gallery.me.com-dayersiii.warc.gz	0
-dayersiii	homepage.mac.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	homepage.mac.com-dayersiii.warc.gz	0
-dayersiii	public.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	public.me.com-dayersiii.warc.gz	0
-dayersiii	web.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	web.me.com-dayersiii.warc.gz	0
-jf103179	gallery.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	gallery.me.com-jf103179.warc.gz	0
-jf103179	homepage.mac.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	homepage.mac.com-jf103179.warc.gz	0
-jf103179	public.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	public.me.com-jf103179.warc.gz	0
-jf103179	web.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	web.me.com-jf103179.warc.gz	0
-stevegarfield	gallery.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	gallery.me.com-stevegarfield.warc.gz	0
-stevegarfield	homepage.mac.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	homepage.mac.com-stevegarfield.warc.gz	0
-stevegarfield	public.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	public.me.com-stevegarfield.warc.gz	0
-stevegarfield	web.me.com		archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	web.me.com-stevegarfield.warc.gz	0
+dayersiii	gallery.me.com	2012-04-06 19:49:30	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	gallery.me.com-dayersiii.warc.gz	1120319868
+dayersiii	homepage.mac.com	2012-04-06 19:49:30	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	homepage.mac.com-dayersiii.warc.gz	4897
+dayersiii	public.me.com	2012-04-06 19:33:37	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	public.me.com-dayersiii.warc.gz	54989
+dayersiii	web.me.com	2012-04-06 19:33:04	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	web.me.com-dayersiii.warc.gz	2296376358
+jf103179	gallery.me.com	2012-04-06 20:28:42	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	gallery.me.com-jf103179.warc.gz	3061075716
+jf103179	homepage.mac.com	2012-04-06 20:28:42	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	homepage.mac.com-jf103179.warc.gz	4902
+jf103179	public.me.com	2012-04-06 19:57:11	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	public.me.com-jf103179.warc.gz	1917
+jf103179	web.me.com	2012-04-06 19:57:11	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	web.me.com-jf103179.warc.gz	75910227
+stevegarfield	gallery.me.com	2012-04-06 17:39:37	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	gallery.me.com-stevegarfield.warc.gz	315076743
+stevegarfield	homepage.mac.com	2012-04-06 17:39:51	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	homepage.mac.com-stevegarfield.warc.gz	199803
+stevegarfield	public.me.com	2012-04-06 17:37:38	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	public.me.com-stevegarfield.warc.gz	16326886
+stevegarfield	web.me.com	2012-04-06 17:37:13	archiveteam-mobileme-hero-482x	archiveteam-mobileme-hero-482x-4822.tar	web.me.com-stevegarfield.warc.gz	1892348

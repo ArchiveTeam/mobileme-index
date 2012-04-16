@@ -1,16 +1,16 @@
-ibryan	gallery.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	gallery.me.com-ibryan.warc.gz	0
-ibryan	homepage.mac.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	homepage.mac.com-ibryan.warc.gz	0
-ibryan	public.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	public.me.com-ibryan.warc.gz	0
-ibryan	web.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	web.me.com-ibryan.warc.gz	0
-karlduncan1	gallery.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	gallery.me.com-karlduncan1.warc.gz	0
-karlduncan1	homepage.mac.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	homepage.mac.com-karlduncan1.warc.gz	0
-karlduncan1	public.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	public.me.com-karlduncan1.warc.gz	0
-karlduncan1	web.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	web.me.com-karlduncan1.warc.gz	0
-njndirish	gallery.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	gallery.me.com-njndirish.warc.gz	0
-njndirish	homepage.mac.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	homepage.mac.com-njndirish.warc.gz	0
-njndirish	public.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	public.me.com-njndirish.warc.gz	0
-njndirish	web.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	web.me.com-njndirish.warc.gz	0
-semalone	gallery.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	gallery.me.com-semalone.warc.gz	0
-semalone	homepage.mac.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	homepage.mac.com-semalone.warc.gz	0
-semalone	public.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	public.me.com-semalone.warc.gz	0
-semalone	web.me.com		archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	web.me.com-semalone.warc.gz	0
+ibryan	gallery.me.com	2012-04-11 07:38:22	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	gallery.me.com-ibryan.warc.gz	53058595
+ibryan	homepage.mac.com	2012-04-11 07:38:26	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	homepage.mac.com-ibryan.warc.gz	97223
+ibryan	public.me.com	2012-04-11 07:37:12	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	public.me.com-ibryan.warc.gz	1911
+ibryan	web.me.com	2012-04-11 07:37:11	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	web.me.com-ibryan.warc.gz	584664053
+karlduncan1	gallery.me.com	2012-04-11 07:19:04	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	gallery.me.com-karlduncan1.warc.gz	85797562
+karlduncan1	homepage.mac.com	2012-04-11 07:19:08	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	homepage.mac.com-karlduncan1.warc.gz	405351
+karlduncan1	public.me.com	2012-04-11 07:16:13	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	public.me.com-karlduncan1.warc.gz	15227156
+karlduncan1	web.me.com	2012-04-11 07:13:49	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	web.me.com-karlduncan1.warc.gz	79728661
+njndirish	gallery.me.com	2012-04-11 08:55:29	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	gallery.me.com-njndirish.warc.gz	4268
+njndirish	homepage.mac.com	2012-04-11 08:55:29	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	homepage.mac.com-njndirish.warc.gz	4915
+njndirish	public.me.com	2012-04-11 08:55:27	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	public.me.com-njndirish.warc.gz	4347926494
+njndirish	web.me.com	2012-04-11 07:43:37	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	web.me.com-njndirish.warc.gz	14301087
+semalone	gallery.me.com	2012-04-11 07:38:29	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	gallery.me.com-semalone.warc.gz	8328
+semalone	homepage.mac.com	2012-04-11 07:38:29	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	homepage.mac.com-semalone.warc.gz	5160
+semalone	public.me.com	2012-04-11 07:38:28	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	public.me.com-semalone.warc.gz	1916
+semalone	web.me.com	2012-04-11 07:38:28	archiveteam-mobileme-hero-630x	archiveteam-mobileme-hero-630x-6300.tar	web.me.com-semalone.warc.gz	17688

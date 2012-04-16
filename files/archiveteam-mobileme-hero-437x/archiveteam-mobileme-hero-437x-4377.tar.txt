@@ -1,24 +1,24 @@
-developmentlab	gallery.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	gallery.me.com-developmentlab.warc.gz	0
-developmentlab	homepage.mac.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	homepage.mac.com-developmentlab.warc.gz	0
-developmentlab	public.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	public.me.com-developmentlab.warc.gz	0
-developmentlab	web.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	web.me.com-developmentlab.warc.gz	0
-moretti	gallery.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	gallery.me.com-moretti.warc.gz	0
-moretti	homepage.mac.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	homepage.mac.com-moretti.warc.gz	0
-moretti	public.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	public.me.com-moretti.warc.gz	0
-moretti	web.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	web.me.com-moretti.warc.gz	0
-mp_mattpowell	gallery.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	gallery.me.com-mp_mattpowell.warc.gz	0
-mp_mattpowell	homepage.mac.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	homepage.mac.com-mp_mattpowell.warc.gz	0
-mp_mattpowell	public.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	public.me.com-mp_mattpowell.warc.gz	0
-mp_mattpowell	web.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	web.me.com-mp_mattpowell.warc.gz	0
-mthummel	gallery.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	gallery.me.com-mthummel.warc.gz	0
-mthummel	homepage.mac.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	homepage.mac.com-mthummel.warc.gz	0
-mthummel	public.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	public.me.com-mthummel.warc.gz	0
-mthummel	web.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	web.me.com-mthummel.warc.gz	0
-petermielke	gallery.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	gallery.me.com-petermielke.warc.gz	0
-petermielke	homepage.mac.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	homepage.mac.com-petermielke.warc.gz	0
-petermielke	public.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	public.me.com-petermielke.warc.gz	0
-petermielke	web.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	web.me.com-petermielke.warc.gz	0
-tominns	gallery.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	gallery.me.com-tominns.warc.gz	0
-tominns	homepage.mac.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	homepage.mac.com-tominns.warc.gz	0
-tominns	public.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	public.me.com-tominns.warc.gz	0
-tominns	web.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	web.me.com-tominns.warc.gz	0
+developmentlab	gallery.me.com	2012-04-05 14:56:33	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	gallery.me.com-developmentlab.warc.gz	4253
+developmentlab	homepage.mac.com	2012-04-05 14:56:33	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	homepage.mac.com-developmentlab.warc.gz	4941
+developmentlab	public.me.com	2012-04-05 14:56:33	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	public.me.com-developmentlab.warc.gz	1923
+developmentlab	web.me.com	2012-04-05 14:56:32	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	web.me.com-developmentlab.warc.gz	57251410
+moretti	gallery.me.com	2012-04-05 14:45:46	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	gallery.me.com-moretti.warc.gz	450254355
+moretti	homepage.mac.com	2012-04-05 14:45:50	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	homepage.mac.com-moretti.warc.gz	77462
+moretti	public.me.com	2012-04-05 14:27:56	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	public.me.com-moretti.warc.gz	3465
+moretti	web.me.com	2012-04-05 14:27:55	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	web.me.com-moretti.warc.gz	95281691
+mp_mattpowell	gallery.me.com	2012-04-05 20:32:05	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	gallery.me.com-mp_mattpowell.warc.gz	7650679510
+mp_mattpowell	homepage.mac.com	2012-04-05 20:32:06	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	homepage.mac.com-mp_mattpowell.warc.gz	4946
+mp_mattpowell	public.me.com	2012-04-05 18:16:59	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	public.me.com-mp_mattpowell.warc.gz	76699894
+mp_mattpowell	web.me.com	2012-04-05 18:13:25	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	web.me.com-mp_mattpowell.warc.gz	5149421400
+mthummel	gallery.me.com	2012-04-05 14:16:31	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	gallery.me.com-mthummel.warc.gz	4331
+mthummel	homepage.mac.com	2012-04-05 14:16:32	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	homepage.mac.com-mthummel.warc.gz	4911
+mthummel	public.me.com	2012-04-05 14:16:31	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	public.me.com-mthummel.warc.gz	1919
+mthummel	web.me.com	2012-04-05 14:16:31	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	web.me.com-mthummel.warc.gz	584195
+petermielke	gallery.me.com	2012-04-05 14:16:38	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	gallery.me.com-petermielke.warc.gz	6390
+petermielke	homepage.mac.com	2012-04-05 14:16:38	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	homepage.mac.com-petermielke.warc.gz	4926
+petermielke	public.me.com	2012-04-05 14:16:37	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	public.me.com-petermielke.warc.gz	1925
+petermielke	web.me.com	2012-04-05 14:16:37	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	web.me.com-petermielke.warc.gz	57063
+tominns	gallery.me.com	2012-04-05 14:16:13	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	gallery.me.com-tominns.warc.gz	4325
+tominns	homepage.mac.com	2012-04-05 14:16:13	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	homepage.mac.com-tominns.warc.gz	4907
+tominns	public.me.com	2012-04-05 14:16:12	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	public.me.com-tominns.warc.gz	1907
+tominns	web.me.com	2012-04-05 14:16:11	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4377.tar	web.me.com-tominns.warc.gz	156800636

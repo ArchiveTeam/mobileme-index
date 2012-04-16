@@ -1,16 +1,16 @@
-cafe_tole	gallery.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	gallery.me.com-cafe_tole.warc.gz	0
-cafe_tole	homepage.mac.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	homepage.mac.com-cafe_tole.warc.gz	0
-cafe_tole	public.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	public.me.com-cafe_tole.warc.gz	0
-cafe_tole	web.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	web.me.com-cafe_tole.warc.gz	0
-jonathan.avey	gallery.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	gallery.me.com-jonathan.avey.warc.gz	0
-jonathan.avey	homepage.mac.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	homepage.mac.com-jonathan.avey.warc.gz	0
-jonathan.avey	public.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	public.me.com-jonathan.avey.warc.gz	0
-jonathan.avey	web.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	web.me.com-jonathan.avey.warc.gz	0
-kingdom_clothing	gallery.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	gallery.me.com-kingdom_clothing.warc.gz	0
-kingdom_clothing	homepage.mac.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	homepage.mac.com-kingdom_clothing.warc.gz	0
-kingdom_clothing	public.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	public.me.com-kingdom_clothing.warc.gz	0
-kingdom_clothing	web.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	web.me.com-kingdom_clothing.warc.gz	0
-simodin	gallery.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	gallery.me.com-simodin.warc.gz	0
-simodin	homepage.mac.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	homepage.mac.com-simodin.warc.gz	0
-simodin	public.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	public.me.com-simodin.warc.gz	0
-simodin	web.me.com		archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	web.me.com-simodin.warc.gz	0
+cafe_tole	gallery.me.com	2012-04-13 17:47:35	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	gallery.me.com-cafe_tole.warc.gz	4250
+cafe_tole	homepage.mac.com	2012-04-13 17:47:35	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	homepage.mac.com-cafe_tole.warc.gz	4901
+cafe_tole	public.me.com	2012-04-13 17:47:34	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	public.me.com-cafe_tole.warc.gz	1914
+cafe_tole	web.me.com	2012-04-13 17:47:34	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	web.me.com-cafe_tole.warc.gz	15507096
+jonathan.avey	gallery.me.com	2012-04-13 18:04:08	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	gallery.me.com-jonathan.avey.warc.gz	597035788
+jonathan.avey	homepage.mac.com	2012-04-13 18:04:09	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	homepage.mac.com-jonathan.avey.warc.gz	4938
+jonathan.avey	public.me.com	2012-04-13 17:53:15	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	public.me.com-jonathan.avey.warc.gz	3527
+jonathan.avey	web.me.com	2012-04-13 17:53:14	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	web.me.com-jonathan.avey.warc.gz	49772195
+kingdom_clothing	gallery.me.com	2012-04-13 17:46:22	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	gallery.me.com-kingdom_clothing.warc.gz	4293
+kingdom_clothing	homepage.mac.com	2012-04-13 17:46:23	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	homepage.mac.com-kingdom_clothing.warc.gz	4940
+kingdom_clothing	public.me.com	2012-04-13 17:46:22	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	public.me.com-kingdom_clothing.warc.gz	1934
+kingdom_clothing	web.me.com	2012-04-13 17:46:21	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	web.me.com-kingdom_clothing.warc.gz	1513019
+simodin	gallery.me.com	2012-04-13 17:45:45	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	gallery.me.com-simodin.warc.gz	2033842103
+simodin	homepage.mac.com	2012-04-13 17:45:46	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	homepage.mac.com-simodin.warc.gz	4910
+simodin	public.me.com	2012-04-13 16:50:44	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	public.me.com-simodin.warc.gz	1908
+simodin	web.me.com	2012-04-13 16:48:23	archiveteam-mobileme-hero-741x	archiveteam-mobileme-hero-741x-7418.tar	web.me.com-simodin.warc.gz	1789564416

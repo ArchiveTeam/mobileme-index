@@ -1,16 +1,16 @@
-amydleung	gallery.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	gallery.me.com-amydleung.warc.gz	0
-amydleung	homepage.mac.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	homepage.mac.com-amydleung.warc.gz	0
-amydleung	public.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	public.me.com-amydleung.warc.gz	0
-amydleung	web.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	web.me.com-amydleung.warc.gz	0
-drgrillo	gallery.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	gallery.me.com-drgrillo.warc.gz	0
-drgrillo	homepage.mac.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	homepage.mac.com-drgrillo.warc.gz	0
-drgrillo	public.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	public.me.com-drgrillo.warc.gz	0
-drgrillo	web.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	web.me.com-drgrillo.warc.gz	0
-mietradmainz	gallery.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	gallery.me.com-mietradmainz.warc.gz	0
-mietradmainz	homepage.mac.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	homepage.mac.com-mietradmainz.warc.gz	0
-mietradmainz	public.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	public.me.com-mietradmainz.warc.gz	0
-mietradmainz	web.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	web.me.com-mietradmainz.warc.gz	0
-simbr	gallery.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	gallery.me.com-simbr.warc.gz	0
-simbr	homepage.mac.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	homepage.mac.com-simbr.warc.gz	0
-simbr	public.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	public.me.com-simbr.warc.gz	0
-simbr	web.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	web.me.com-simbr.warc.gz	0
+amydleung	gallery.me.com	2012-04-02 19:07:42	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	gallery.me.com-amydleung.warc.gz	4324
+amydleung	homepage.mac.com	2012-04-02 19:07:43	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	homepage.mac.com-amydleung.warc.gz	4907
+amydleung	public.me.com	2012-04-02 19:07:42	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	public.me.com-amydleung.warc.gz	1915
+amydleung	web.me.com	2012-04-02 19:07:41	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	web.me.com-amydleung.warc.gz	8057725
+drgrillo	gallery.me.com	2012-04-02 19:08:58	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	gallery.me.com-drgrillo.warc.gz	5921
+drgrillo	homepage.mac.com	2012-04-02 19:09:01	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	homepage.mac.com-drgrillo.warc.gz	194650
+drgrillo	public.me.com	2012-04-02 19:08:57	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	public.me.com-drgrillo.warc.gz	1911
+drgrillo	web.me.com	2012-04-02 19:08:56	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	web.me.com-drgrillo.warc.gz	45927575
+mietradmainz	gallery.me.com	2012-04-02 17:28:18	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	gallery.me.com-mietradmainz.warc.gz	8351
+mietradmainz	homepage.mac.com	2012-04-02 17:28:18	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	homepage.mac.com-mietradmainz.warc.gz	5169
+mietradmainz	public.me.com	2012-04-02 17:28:17	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	public.me.com-mietradmainz.warc.gz	1927
+mietradmainz	web.me.com	2012-04-02 17:28:17	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	web.me.com-mietradmainz.warc.gz	17762
+simbr	gallery.me.com	2012-04-02 19:02:38	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	gallery.me.com-simbr.warc.gz	3773051678
+simbr	homepage.mac.com	2012-04-02 19:03:12	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	homepage.mac.com-simbr.warc.gz	621785
+simbr	public.me.com	2012-04-02 17:50:02	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	public.me.com-simbr.warc.gz	15165
+simbr	web.me.com	2012-04-02 17:49:58	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3066.tar	web.me.com-simbr.warc.gz	465634441

@@ -1,20 +1,20 @@
-ben.collier	gallery.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	gallery.me.com-ben.collier.warc.gz	0
-ben.collier	homepage.mac.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	homepage.mac.com-ben.collier.warc.gz	0
-ben.collier	public.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	public.me.com-ben.collier.warc.gz	0
-ben.collier	web.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	web.me.com-ben.collier.warc.gz	0
-jjcling	gallery.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	gallery.me.com-jjcling.warc.gz	0
-jjcling	homepage.mac.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	homepage.mac.com-jjcling.warc.gz	0
-jjcling	public.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	public.me.com-jjcling.warc.gz	0
-jjcling	web.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	web.me.com-jjcling.warc.gz	0
-johncrawford1275	gallery.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	gallery.me.com-johncrawford1275.warc.gz	0
-johncrawford1275	homepage.mac.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	homepage.mac.com-johncrawford1275.warc.gz	0
-johncrawford1275	public.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	public.me.com-johncrawford1275.warc.gz	0
-johncrawford1275	web.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	web.me.com-johncrawford1275.warc.gz	0
-lasse.stougaard	gallery.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	gallery.me.com-lasse.stougaard.warc.gz	0
-lasse.stougaard	homepage.mac.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	homepage.mac.com-lasse.stougaard.warc.gz	0
-lasse.stougaard	public.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	public.me.com-lasse.stougaard.warc.gz	0
-lasse.stougaard	web.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	web.me.com-lasse.stougaard.warc.gz	0
-thomas.bagge	gallery.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	gallery.me.com-thomas.bagge.warc.gz	0
-thomas.bagge	homepage.mac.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	homepage.mac.com-thomas.bagge.warc.gz	0
-thomas.bagge	public.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	public.me.com-thomas.bagge.warc.gz	0
-thomas.bagge	web.me.com		archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	web.me.com-thomas.bagge.warc.gz	0
+ben.collier	gallery.me.com	2012-04-07 13:52:48	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	gallery.me.com-ben.collier.warc.gz	110527076
+ben.collier	homepage.mac.com	2012-04-07 13:52:49	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	homepage.mac.com-ben.collier.warc.gz	4906
+ben.collier	public.me.com	2012-04-07 13:50:26	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	public.me.com-ben.collier.warc.gz	1922
+ben.collier	web.me.com	2012-04-07 13:50:25	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	web.me.com-ben.collier.warc.gz	528884650
+jjcling	gallery.me.com	2012-04-07 13:39:38	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	gallery.me.com-jjcling.warc.gz	5017
+jjcling	homepage.mac.com	2012-04-07 13:39:38	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	homepage.mac.com-jjcling.warc.gz	4908
+jjcling	public.me.com	2012-04-07 13:39:37	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	public.me.com-jjcling.warc.gz	1906
+jjcling	web.me.com	2012-04-07 13:39:36	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	web.me.com-jjcling.warc.gz	15024042
+johncrawford1275	gallery.me.com	2012-04-07 19:23:40	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	gallery.me.com-johncrawford1275.warc.gz	3327160903
+johncrawford1275	homepage.mac.com	2012-04-07 19:23:40	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	homepage.mac.com-johncrawford1275.warc.gz	4929
+johncrawford1275	public.me.com	2012-04-07 16:17:26	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	public.me.com-johncrawford1275.warc.gz	935372546
+johncrawford1275	web.me.com	2012-04-07 15:26:00	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	web.me.com-johncrawford1275.warc.gz	678589563
+lasse.stougaard	gallery.me.com	2012-04-07 14:17:54	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	gallery.me.com-lasse.stougaard.warc.gz	211597385
+lasse.stougaard	homepage.mac.com	2012-04-07 14:17:54	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	homepage.mac.com-lasse.stougaard.warc.gz	4935
+lasse.stougaard	public.me.com	2012-04-07 14:08:25	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	public.me.com-lasse.stougaard.warc.gz	1926
+lasse.stougaard	web.me.com	2012-04-07 14:08:24	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	web.me.com-lasse.stougaard.warc.gz	33873006
+thomas.bagge	gallery.me.com	2012-04-07 13:35:23	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	gallery.me.com-thomas.bagge.warc.gz	255849522
+thomas.bagge	homepage.mac.com	2012-04-07 13:35:24	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	homepage.mac.com-thomas.bagge.warc.gz	4906
+thomas.bagge	public.me.com	2012-04-07 13:29:08	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	public.me.com-thomas.bagge.warc.gz	1928
+thomas.bagge	web.me.com	2012-04-07 13:29:08	archiveteam-mobileme-hero-493x	archiveteam-mobileme-hero-493x-4934.tar	web.me.com-thomas.bagge.warc.gz	2101487

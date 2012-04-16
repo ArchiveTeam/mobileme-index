@@ -1,16 +1,16 @@
-cactuspat	gallery.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	gallery.me.com-cactuspat.warc.gz	0
-cactuspat	homepage.mac.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	homepage.mac.com-cactuspat.warc.gz	0
-cactuspat	public.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	public.me.com-cactuspat.warc.gz	0
-cactuspat	web.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	web.me.com-cactuspat.warc.gz	0
-pinedae	gallery.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	gallery.me.com-pinedae.warc.gz	0
-pinedae	homepage.mac.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	homepage.mac.com-pinedae.warc.gz	0
-pinedae	public.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	public.me.com-pinedae.warc.gz	0
-pinedae	web.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	web.me.com-pinedae.warc.gz	0
-robert.biscoe	gallery.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	gallery.me.com-robert.biscoe.warc.gz	0
-robert.biscoe	homepage.mac.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	homepage.mac.com-robert.biscoe.warc.gz	0
-robert.biscoe	public.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	public.me.com-robert.biscoe.warc.gz	0
-robert.biscoe	web.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	web.me.com-robert.biscoe.warc.gz	0
-vigilante_nation	gallery.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	gallery.me.com-vigilante_nation.warc.gz	0
-vigilante_nation	homepage.mac.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	homepage.mac.com-vigilante_nation.warc.gz	0
-vigilante_nation	public.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	public.me.com-vigilante_nation.warc.gz	0
-vigilante_nation	web.me.com		archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	web.me.com-vigilante_nation.warc.gz	0
+cactuspat	gallery.me.com	2012-03-31 21:52:55	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	gallery.me.com-cactuspat.warc.gz	2971489668
+cactuspat	homepage.mac.com	2012-03-31 21:52:55	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	homepage.mac.com-cactuspat.warc.gz	4925
+cactuspat	public.me.com	2012-03-31 17:54:36	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	public.me.com-cactuspat.warc.gz	330793193
+cactuspat	web.me.com	2012-03-31 17:35:34	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	web.me.com-cactuspat.warc.gz	23323856
+pinedae	gallery.me.com	2012-03-31 17:17:36	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	gallery.me.com-pinedae.warc.gz	8331
+pinedae	homepage.mac.com	2012-03-31 17:17:36	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	homepage.mac.com-pinedae.warc.gz	5148
+pinedae	public.me.com	2012-03-31 17:17:35	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	public.me.com-pinedae.warc.gz	1900
+pinedae	web.me.com	2012-03-31 17:17:34	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	web.me.com-pinedae.warc.gz	17707
+robert.biscoe	gallery.me.com	2012-04-01 01:14:05	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	gallery.me.com-robert.biscoe.warc.gz	1552645111
+robert.biscoe	homepage.mac.com	2012-04-01 01:14:06	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	homepage.mac.com-robert.biscoe.warc.gz	4945
+robert.biscoe	public.me.com	2012-03-31 23:59:05	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	public.me.com-robert.biscoe.warc.gz	1924
+robert.biscoe	web.me.com	2012-03-31 23:58:29	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	web.me.com-robert.biscoe.warc.gz	157959887
+vigilante_nation	gallery.me.com	2012-03-31 17:21:52	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	gallery.me.com-vigilante_nation.warc.gz	4325
+vigilante_nation	homepage.mac.com	2012-03-31 17:21:52	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	homepage.mac.com-vigilante_nation.warc.gz	4949
+vigilante_nation	public.me.com	2012-03-31 17:21:51	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	public.me.com-vigilante_nation.warc.gz	1934
+vigilante_nation	web.me.com	2012-03-31 17:21:50	archiveteam-mobileme-hero-255x	archiveteam-mobileme-hero-255x-2554.tar	web.me.com-vigilante_nation.warc.gz	119166535

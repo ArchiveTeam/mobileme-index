@@ -1,12 +1,12 @@
-kvsabben	gallery.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	gallery.me.com-kvsabben.warc.gz	0
-kvsabben	homepage.mac.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	homepage.mac.com-kvsabben.warc.gz	0
-kvsabben	public.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	public.me.com-kvsabben.warc.gz	0
-kvsabben	web.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	web.me.com-kvsabben.warc.gz	0
-sabsr	gallery.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	gallery.me.com-sabsr.warc.gz	0
-sabsr	homepage.mac.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	homepage.mac.com-sabsr.warc.gz	0
-sabsr	public.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	public.me.com-sabsr.warc.gz	0
-sabsr	web.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	web.me.com-sabsr.warc.gz	0
-winstonhodge	gallery.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	gallery.me.com-winstonhodge.warc.gz	0
-winstonhodge	homepage.mac.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	homepage.mac.com-winstonhodge.warc.gz	0
-winstonhodge	public.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	public.me.com-winstonhodge.warc.gz	0
-winstonhodge	web.me.com		archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	web.me.com-winstonhodge.warc.gz	0
+kvsabben	gallery.me.com	2012-04-01 01:10:42	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	gallery.me.com-kvsabben.warc.gz	256951091
+kvsabben	homepage.mac.com	2012-04-01 01:10:43	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	homepage.mac.com-kvsabben.warc.gz	4903
+kvsabben	public.me.com	2012-04-01 01:00:56	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	public.me.com-kvsabben.warc.gz	1922
+kvsabben	web.me.com	2012-04-01 01:00:54	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	web.me.com-kvsabben.warc.gz	2289979
+sabsr	gallery.me.com	2012-04-01 00:59:06	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	gallery.me.com-sabsr.warc.gz	392626329
+sabsr	homepage.mac.com	2012-04-01 00:59:08	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	homepage.mac.com-sabsr.warc.gz	4877
+sabsr	public.me.com	2012-04-01 00:54:58	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	public.me.com-sabsr.warc.gz	1904
+sabsr	web.me.com	2012-04-01 00:54:54	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	web.me.com-sabsr.warc.gz	107098179
+winstonhodge	gallery.me.com	2012-04-01 05:23:54	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	gallery.me.com-winstonhodge.warc.gz	6000167176
+winstonhodge	homepage.mac.com	2012-04-01 05:23:58	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	homepage.mac.com-winstonhodge.warc.gz	70787
+winstonhodge	public.me.com	2012-04-01 03:05:43	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	public.me.com-winstonhodge.warc.gz	1929
+winstonhodge	web.me.com	2012-04-01 03:05:39	archiveteam-mobileme-hero-260x	archiveteam-mobileme-hero-260x-2602.tar	web.me.com-winstonhodge.warc.gz	1899300276

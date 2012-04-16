@@ -1,16 +1,16 @@
-buffalovalleybicycle	gallery.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	gallery.me.com-buffalovalleybicycle.warc.gz	0
-buffalovalleybicycle	homepage.mac.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	homepage.mac.com-buffalovalleybicycle.warc.gz	0
-buffalovalleybicycle	public.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	public.me.com-buffalovalleybicycle.warc.gz	0
-buffalovalleybicycle	web.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	web.me.com-buffalovalleybicycle.warc.gz	0
-cacauzen	gallery.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	gallery.me.com-cacauzen.warc.gz	0
-cacauzen	homepage.mac.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	homepage.mac.com-cacauzen.warc.gz	0
-cacauzen	public.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	public.me.com-cacauzen.warc.gz	0
-cacauzen	web.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	web.me.com-cacauzen.warc.gz	0
-koumel	gallery.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	gallery.me.com-koumel.warc.gz	0
-koumel	homepage.mac.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	homepage.mac.com-koumel.warc.gz	0
-koumel	public.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	public.me.com-koumel.warc.gz	0
-koumel	web.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	web.me.com-koumel.warc.gz	0
-michael.jaeger	gallery.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	gallery.me.com-michael.jaeger.warc.gz	0
-michael.jaeger	homepage.mac.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	homepage.mac.com-michael.jaeger.warc.gz	0
-michael.jaeger	public.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	public.me.com-michael.jaeger.warc.gz	0
-michael.jaeger	web.me.com		archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	web.me.com-michael.jaeger.warc.gz	0
+buffalovalleybicycle	gallery.me.com	2012-04-11 06:56:21	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	gallery.me.com-buffalovalleybicycle.warc.gz	12367
+buffalovalleybicycle	homepage.mac.com	2012-04-11 06:56:22	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	homepage.mac.com-buffalovalleybicycle.warc.gz	7175
+buffalovalleybicycle	public.me.com	2012-04-11 06:56:21	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	public.me.com-buffalovalleybicycle.warc.gz	1944
+buffalovalleybicycle	web.me.com	2012-04-11 06:56:20	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	web.me.com-buffalovalleybicycle.warc.gz	22524
+cacauzen	gallery.me.com	2012-04-11 06:56:25	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	gallery.me.com-cacauzen.warc.gz	12317
+cacauzen	homepage.mac.com	2012-04-11 06:56:25	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	homepage.mac.com-cacauzen.warc.gz	7144
+cacauzen	public.me.com	2012-04-11 06:56:24	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	public.me.com-cacauzen.warc.gz	1915
+cacauzen	web.me.com	2012-04-11 06:56:24	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	web.me.com-cacauzen.warc.gz	22412
+koumel	gallery.me.com	2012-04-11 08:12:34	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	gallery.me.com-koumel.warc.gz	2645647187
+koumel	homepage.mac.com	2012-04-11 08:13:25	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	homepage.mac.com-koumel.warc.gz	707340
+koumel	public.me.com	2012-04-11 07:44:32	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	public.me.com-koumel.warc.gz	106380321
+koumel	web.me.com	2012-04-11 07:39:59	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	web.me.com-koumel.warc.gz	2182843470
+michael.jaeger	gallery.me.com	2012-04-11 06:56:15	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	gallery.me.com-michael.jaeger.warc.gz	84284859
+michael.jaeger	homepage.mac.com	2012-04-11 06:56:18	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	homepage.mac.com-michael.jaeger.warc.gz	66211
+michael.jaeger	public.me.com	2012-04-11 06:55:32	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	public.me.com-michael.jaeger.warc.gz	1936
+michael.jaeger	web.me.com	2012-04-11 06:55:32	archiveteam-mobileme-hero-628x	archiveteam-mobileme-hero-628x-6282.tar	web.me.com-michael.jaeger.warc.gz	344505

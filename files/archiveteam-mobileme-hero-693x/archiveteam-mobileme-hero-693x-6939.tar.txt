@@ -1,32 +1,32 @@
-c119206815	gallery.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	gallery.me.com-c119206815.warc.gz	0
-c119206815	homepage.mac.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	homepage.mac.com-c119206815.warc.gz	0
-c119206815	public.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	public.me.com-c119206815.warc.gz	0
-c119206815	web.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	web.me.com-c119206815.warc.gz	0
-caroline.haefling	gallery.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	gallery.me.com-caroline.haefling.warc.gz	0
-caroline.haefling	homepage.mac.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	homepage.mac.com-caroline.haefling.warc.gz	0
-caroline.haefling	public.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	public.me.com-caroline.haefling.warc.gz	0
-caroline.haefling	web.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	web.me.com-caroline.haefling.warc.gz	0
-fvaeremans	gallery.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	gallery.me.com-fvaeremans.warc.gz	0
-fvaeremans	homepage.mac.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	homepage.mac.com-fvaeremans.warc.gz	0
-fvaeremans	public.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	public.me.com-fvaeremans.warc.gz	0
-fvaeremans	web.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	web.me.com-fvaeremans.warc.gz	0
-minatokeiei	gallery.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	gallery.me.com-minatokeiei.warc.gz	0
-minatokeiei	homepage.mac.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	homepage.mac.com-minatokeiei.warc.gz	0
-minatokeiei	public.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	public.me.com-minatokeiei.warc.gz	0
-minatokeiei	web.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	web.me.com-minatokeiei.warc.gz	0
-oowada	gallery.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	gallery.me.com-oowada.warc.gz	0
-oowada	homepage.mac.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	homepage.mac.com-oowada.warc.gz	0
-oowada	public.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	public.me.com-oowada.warc.gz	0
-oowada	web.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	web.me.com-oowada.warc.gz	0
-topdjkey	gallery.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	gallery.me.com-topdjkey.warc.gz	0
-topdjkey	homepage.mac.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	homepage.mac.com-topdjkey.warc.gz	0
-topdjkey	public.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	public.me.com-topdjkey.warc.gz	0
-topdjkey	web.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	web.me.com-topdjkey.warc.gz	0
-try_angle	gallery.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	gallery.me.com-try_angle.warc.gz	0
-try_angle	homepage.mac.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	homepage.mac.com-try_angle.warc.gz	0
-try_angle	public.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	public.me.com-try_angle.warc.gz	0
-try_angle	web.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	web.me.com-try_angle.warc.gz	0
-varley	gallery.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	gallery.me.com-varley.warc.gz	0
-varley	homepage.mac.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	homepage.mac.com-varley.warc.gz	0
-varley	public.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	public.me.com-varley.warc.gz	0
-varley	web.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	web.me.com-varley.warc.gz	0
+c119206815	gallery.me.com	2012-04-12 18:21:58	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	gallery.me.com-c119206815.warc.gz	8355
+c119206815	homepage.mac.com	2012-04-12 18:21:58	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	homepage.mac.com-c119206815.warc.gz	5182
+c119206815	public.me.com	2012-04-12 18:21:57	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	public.me.com-c119206815.warc.gz	1918
+c119206815	web.me.com	2012-04-12 18:21:57	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	web.me.com-c119206815.warc.gz	17773
+caroline.haefling	gallery.me.com	2012-04-12 19:27:51	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	gallery.me.com-caroline.haefling.warc.gz	633441961
+caroline.haefling	homepage.mac.com	2012-04-12 19:27:52	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	homepage.mac.com-caroline.haefling.warc.gz	4947
+caroline.haefling	public.me.com	2012-04-12 19:08:47	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	public.me.com-caroline.haefling.warc.gz	1931
+caroline.haefling	web.me.com	2012-04-12 19:08:46	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	web.me.com-caroline.haefling.warc.gz	90377305
+fvaeremans	gallery.me.com	2012-04-12 17:25:08	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	gallery.me.com-fvaeremans.warc.gz	102022923
+fvaeremans	homepage.mac.com	2012-04-12 17:25:08	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	homepage.mac.com-fvaeremans.warc.gz	4925
+fvaeremans	public.me.com	2012-04-12 17:24:08	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	public.me.com-fvaeremans.warc.gz	1927
+fvaeremans	web.me.com	2012-04-12 17:24:07	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	web.me.com-fvaeremans.warc.gz	81280206
+minatokeiei	gallery.me.com	2012-04-12 18:06:55	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	gallery.me.com-minatokeiei.warc.gz	380967085
+minatokeiei	homepage.mac.com	2012-04-12 18:06:55	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	homepage.mac.com-minatokeiei.warc.gz	4908
+minatokeiei	public.me.com	2012-04-12 18:01:40	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	public.me.com-minatokeiei.warc.gz	1924
+minatokeiei	web.me.com	2012-04-12 18:01:38	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	web.me.com-minatokeiei.warc.gz	398131529
+oowada	gallery.me.com	2012-04-12 17:39:36	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	gallery.me.com-oowada.warc.gz	804963170
+oowada	homepage.mac.com	2012-04-12 17:39:37	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	homepage.mac.com-oowada.warc.gz	4891
+oowada	public.me.com	2012-04-12 17:26:07	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	public.me.com-oowada.warc.gz	1912
+oowada	web.me.com	2012-04-12 17:26:06	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	web.me.com-oowada.warc.gz	2076010
+topdjkey	gallery.me.com	2012-04-12 18:21:51	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	gallery.me.com-topdjkey.warc.gz	479661755
+topdjkey	homepage.mac.com	2012-04-12 18:21:53	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	homepage.mac.com-topdjkey.warc.gz	79234
+topdjkey	public.me.com	2012-04-12 18:16:59	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	public.me.com-topdjkey.warc.gz	3650
+topdjkey	web.me.com	2012-04-12 18:16:58	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	web.me.com-topdjkey.warc.gz	167419811
+try_angle	gallery.me.com	2012-04-12 18:09:24	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	gallery.me.com-try_angle.warc.gz	572827
+try_angle	homepage.mac.com	2012-04-12 18:09:24	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	homepage.mac.com-try_angle.warc.gz	4930
+try_angle	public.me.com	2012-04-12 18:09:17	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	public.me.com-try_angle.warc.gz	1923
+try_angle	web.me.com	2012-04-12 18:09:17	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	web.me.com-try_angle.warc.gz	8477077
+varley	gallery.me.com	2012-04-12 19:05:06	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	gallery.me.com-varley.warc.gz	1274074410
+varley	homepage.mac.com	2012-04-12 19:05:06	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	homepage.mac.com-varley.warc.gz	4898
+varley	public.me.com	2012-04-12 18:37:39	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	public.me.com-varley.warc.gz	57749
+varley	web.me.com	2012-04-12 18:37:37	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6939.tar	web.me.com-varley.warc.gz	508949929

@@ -1,16 +1,16 @@
-ericfenton	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	gallery.me.com-ericfenton.warc.gz	0
-ericfenton	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	homepage.mac.com-ericfenton.warc.gz	0
-ericfenton	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	public.me.com-ericfenton.warc.gz	0
-ericfenton	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	web.me.com-ericfenton.warc.gz	0
-jack_m	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	gallery.me.com-jack_m.warc.gz	0
-jack_m	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	homepage.mac.com-jack_m.warc.gz	0
-jack_m	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	public.me.com-jack_m.warc.gz	0
-jack_m	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	web.me.com-jack_m.warc.gz	0
-kvandewalle	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	gallery.me.com-kvandewalle.warc.gz	0
-kvandewalle	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	homepage.mac.com-kvandewalle.warc.gz	0
-kvandewalle	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	public.me.com-kvandewalle.warc.gz	0
-kvandewalle	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	web.me.com-kvandewalle.warc.gz	0
-soundbuzzz	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	gallery.me.com-soundbuzzz.warc.gz	0
-soundbuzzz	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	homepage.mac.com-soundbuzzz.warc.gz	0
-soundbuzzz	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	public.me.com-soundbuzzz.warc.gz	0
-soundbuzzz	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	web.me.com-soundbuzzz.warc.gz	0
+ericfenton	gallery.me.com	2012-04-04 21:22:08	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	gallery.me.com-ericfenton.warc.gz	880851867
+ericfenton	homepage.mac.com	2012-04-04 21:22:08	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	homepage.mac.com-ericfenton.warc.gz	4893
+ericfenton	public.me.com	2012-04-04 21:09:21	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	public.me.com-ericfenton.warc.gz	1910
+ericfenton	web.me.com	2012-04-04 21:09:21	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	web.me.com-ericfenton.warc.gz	14057066
+jack_m	gallery.me.com	2012-04-04 21:22:12	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	gallery.me.com-jack_m.warc.gz	12297
+jack_m	homepage.mac.com	2012-04-04 21:22:12	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	homepage.mac.com-jack_m.warc.gz	7134
+jack_m	public.me.com	2012-04-04 21:22:11	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	public.me.com-jack_m.warc.gz	1920
+jack_m	web.me.com	2012-04-04 21:22:11	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	web.me.com-jack_m.warc.gz	22436
+kvandewalle	gallery.me.com	2012-04-04 22:26:16	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	gallery.me.com-kvandewalle.warc.gz	3278103879
+kvandewalle	homepage.mac.com	2012-04-04 22:26:18	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	homepage.mac.com-kvandewalle.warc.gz	78547
+kvandewalle	public.me.com	2012-04-04 21:45:56	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	public.me.com-kvandewalle.warc.gz	116910013
+kvandewalle	web.me.com	2012-04-04 21:41:26	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	web.me.com-kvandewalle.warc.gz	873054383
+soundbuzzz	gallery.me.com	2012-04-04 21:06:24	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	gallery.me.com-soundbuzzz.warc.gz	5028
+soundbuzzz	homepage.mac.com	2012-04-04 21:06:24	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	homepage.mac.com-soundbuzzz.warc.gz	4905
+soundbuzzz	public.me.com	2012-04-04 21:06:23	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	public.me.com-soundbuzzz.warc.gz	1161003475
+soundbuzzz	web.me.com	2012-04-04 20:42:40	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3980.tar	web.me.com-soundbuzzz.warc.gz	4302347

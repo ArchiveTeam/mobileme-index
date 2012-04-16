@@ -1,8 +1,8 @@
-pmmarcov	gallery.me.com		archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4357.tar	gallery.me.com-pmmarcov.warc.gz	0
-pmmarcov	homepage.mac.com		archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4357.tar	homepage.mac.com-pmmarcov.warc.gz	0
-pmmarcov	public.me.com		archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4357.tar	public.me.com-pmmarcov.warc.gz	0
-pmmarcov	web.me.com		archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4357.tar	web.me.com-pmmarcov.warc.gz	0
-wooten.lindsay	gallery.me.com		archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4357.tar	gallery.me.com-wooten.lindsay.warc.gz	0
-wooten.lindsay	homepage.mac.com		archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4357.tar	homepage.mac.com-wooten.lindsay.warc.gz	0
-wooten.lindsay	public.me.com		archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4357.tar	public.me.com-wooten.lindsay.warc.gz	0
-wooten.lindsay	web.me.com		archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4357.tar	web.me.com-wooten.lindsay.warc.gz	0
+pmmarcov	gallery.me.com	2012-04-05 16:34:48	archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4357.tar	gallery.me.com-pmmarcov.warc.gz	12328
+pmmarcov	homepage.mac.com	2012-04-05 16:34:48	archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4357.tar	homepage.mac.com-pmmarcov.warc.gz	7166
+pmmarcov	public.me.com	2012-04-05 16:34:47	archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4357.tar	public.me.com-pmmarcov.warc.gz	1914
+pmmarcov	web.me.com	2012-04-05 16:34:47	archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4357.tar	web.me.com-pmmarcov.warc.gz	22512
+wooten.lindsay	gallery.me.com	2012-04-05 19:48:37	archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4357.tar	gallery.me.com-wooten.lindsay.warc.gz	4553858621
+wooten.lindsay	homepage.mac.com	2012-04-05 19:48:39	archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4357.tar	homepage.mac.com-wooten.lindsay.warc.gz	77264
+wooten.lindsay	public.me.com	2012-04-05 18:48:46	archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4357.tar	public.me.com-wooten.lindsay.warc.gz	1931
+wooten.lindsay	web.me.com	2012-04-05 18:47:15	archiveteam-mobileme-hero-435x	archiveteam-mobileme-hero-435x-4357.tar	web.me.com-wooten.lindsay.warc.gz	3388067107

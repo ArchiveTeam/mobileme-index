@@ -1,8 +1,8 @@
-maglatz	gallery.me.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5430.tar	gallery.me.com-maglatz.warc.gz	0
-maglatz	homepage.mac.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5430.tar	homepage.mac.com-maglatz.warc.gz	0
-maglatz	public.me.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5430.tar	public.me.com-maglatz.warc.gz	0
-maglatz	web.me.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5430.tar	web.me.com-maglatz.warc.gz	0
-maneframe	gallery.me.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5430.tar	gallery.me.com-maneframe.warc.gz	0
-maneframe	homepage.mac.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5430.tar	homepage.mac.com-maneframe.warc.gz	0
-maneframe	public.me.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5430.tar	public.me.com-maneframe.warc.gz	0
-maneframe	web.me.com		archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5430.tar	web.me.com-maneframe.warc.gz	0
+maglatz	gallery.me.com	2012-04-09 09:59:01	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5430.tar	gallery.me.com-maglatz.warc.gz	2375642202
+maglatz	homepage.mac.com	2012-04-09 09:59:02	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5430.tar	homepage.mac.com-maglatz.warc.gz	4889
+maglatz	public.me.com	2012-04-09 08:48:24	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5430.tar	public.me.com-maglatz.warc.gz	1914
+maglatz	web.me.com	2012-04-09 08:48:23	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5430.tar	web.me.com-maglatz.warc.gz	81215782
+maneframe	gallery.me.com	2012-04-09 08:19:18	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5430.tar	gallery.me.com-maneframe.warc.gz	2012996879
+maneframe	homepage.mac.com	2012-04-09 08:19:25	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5430.tar	homepage.mac.com-maneframe.warc.gz	149382
+maneframe	public.me.com	2012-04-09 06:15:58	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5430.tar	public.me.com-maneframe.warc.gz	1920
+maneframe	web.me.com	2012-04-09 06:15:51	archiveteam-mobileme-hero-543x	archiveteam-mobileme-hero-543x-5430.tar	web.me.com-maneframe.warc.gz	873124076

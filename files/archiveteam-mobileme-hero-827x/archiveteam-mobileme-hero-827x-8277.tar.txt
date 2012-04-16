@@ -1,0 +1,16 @@
+bean3_3	gallery.me.com	2012-04-15 02:12:45	archiveteam-mobileme-hero-827x	archiveteam-mobileme-hero-827x-8277.tar	gallery.me.com-bean3_3.warc.gz	6464
+bean3_3	homepage.mac.com	2012-04-15 02:12:45	archiveteam-mobileme-hero-827x	archiveteam-mobileme-hero-827x-8277.tar	homepage.mac.com-bean3_3.warc.gz	5146
+bean3_3	public.me.com	2012-04-15 02:12:44	archiveteam-mobileme-hero-827x	archiveteam-mobileme-hero-827x-8277.tar	public.me.com-bean3_3.warc.gz	1909
+bean3_3	web.me.com	2012-04-15 02:12:44	archiveteam-mobileme-hero-827x	archiveteam-mobileme-hero-827x-8277.tar	web.me.com-bean3_3.warc.gz	17658
+dlcphotos	gallery.me.com	2012-04-15 05:42:35	archiveteam-mobileme-hero-827x	archiveteam-mobileme-hero-827x-8277.tar	gallery.me.com-dlcphotos.warc.gz	6943774462
+dlcphotos	homepage.mac.com	2012-04-15 05:42:36	archiveteam-mobileme-hero-827x	archiveteam-mobileme-hero-827x-8277.tar	homepage.mac.com-dlcphotos.warc.gz	4927
+dlcphotos	public.me.com	2012-04-15 02:34:04	archiveteam-mobileme-hero-827x	archiveteam-mobileme-hero-827x-8277.tar	public.me.com-dlcphotos.warc.gz	1920
+dlcphotos	web.me.com	2012-04-15 02:33:22	archiveteam-mobileme-hero-827x	archiveteam-mobileme-hero-827x-8277.tar	web.me.com-dlcphotos.warc.gz	63887178
+leftoverboy	gallery.me.com	2012-04-15 01:51:16	archiveteam-mobileme-hero-827x	archiveteam-mobileme-hero-827x-8277.tar	gallery.me.com-leftoverboy.warc.gz	1771776217
+leftoverboy	homepage.mac.com	2012-04-15 01:51:16	archiveteam-mobileme-hero-827x	archiveteam-mobileme-hero-827x-8277.tar	homepage.mac.com-leftoverboy.warc.gz	4905
+leftoverboy	public.me.com	2012-04-15 00:55:01	archiveteam-mobileme-hero-827x	archiveteam-mobileme-hero-827x-8277.tar	public.me.com-leftoverboy.warc.gz	95041584
+leftoverboy	web.me.com	2012-04-15 00:41:32	archiveteam-mobileme-hero-827x	archiveteam-mobileme-hero-827x-8277.tar	web.me.com-leftoverboy.warc.gz	597158360
+woodwyn	gallery.me.com	2012-04-15 02:12:43	archiveteam-mobileme-hero-827x	archiveteam-mobileme-hero-827x-8277.tar	gallery.me.com-woodwyn.warc.gz	76268124
+woodwyn	homepage.mac.com	2012-04-15 02:12:43	archiveteam-mobileme-hero-827x	archiveteam-mobileme-hero-827x-8277.tar	homepage.mac.com-woodwyn.warc.gz	4889
+woodwyn	public.me.com	2012-04-15 02:11:43	archiveteam-mobileme-hero-827x	archiveteam-mobileme-hero-827x-8277.tar	public.me.com-woodwyn.warc.gz	360046429
+woodwyn	web.me.com	2012-04-15 02:06:57	archiveteam-mobileme-hero-827x	archiveteam-mobileme-hero-827x-8277.tar	web.me.com-woodwyn.warc.gz	123755066

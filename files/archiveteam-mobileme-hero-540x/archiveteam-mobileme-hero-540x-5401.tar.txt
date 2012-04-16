@@ -1,8 +1,8 @@
-leo_winterle	gallery.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5401.tar	gallery.me.com-leo_winterle.warc.gz	0
-leo_winterle	homepage.mac.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5401.tar	homepage.mac.com-leo_winterle.warc.gz	0
-leo_winterle	public.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5401.tar	public.me.com-leo_winterle.warc.gz	0
-leo_winterle	web.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5401.tar	web.me.com-leo_winterle.warc.gz	0
-malave	gallery.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5401.tar	gallery.me.com-malave.warc.gz	0
-malave	homepage.mac.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5401.tar	homepage.mac.com-malave.warc.gz	0
-malave	public.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5401.tar	public.me.com-malave.warc.gz	0
-malave	web.me.com		archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5401.tar	web.me.com-malave.warc.gz	0
+leo_winterle	gallery.me.com	2012-04-09 08:37:00	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5401.tar	gallery.me.com-leo_winterle.warc.gz	733081949
+leo_winterle	homepage.mac.com	2012-04-09 08:37:04	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5401.tar	homepage.mac.com-leo_winterle.warc.gz	98805
+leo_winterle	public.me.com	2012-04-09 08:09:36	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5401.tar	public.me.com-leo_winterle.warc.gz	1157355372
+leo_winterle	web.me.com	2012-04-09 07:47:34	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5401.tar	web.me.com-leo_winterle.warc.gz	486943153
+malave	gallery.me.com	2012-04-09 07:17:18	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5401.tar	gallery.me.com-malave.warc.gz	3758864184
+malave	homepage.mac.com	2012-04-09 07:17:18	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5401.tar	homepage.mac.com-malave.warc.gz	4906
+malave	public.me.com	2012-04-09 05:49:11	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5401.tar	public.me.com-malave.warc.gz	20156759
+malave	web.me.com	2012-04-09 05:47:40	archiveteam-mobileme-hero-540x	archiveteam-mobileme-hero-540x-5401.tar	web.me.com-malave.warc.gz	172751006

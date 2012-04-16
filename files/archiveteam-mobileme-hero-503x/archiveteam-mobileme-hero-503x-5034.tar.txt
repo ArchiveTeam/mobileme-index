@@ -1,16 +1,16 @@
-imagine_newszine	gallery.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	gallery.me.com-imagine_newszine.warc.gz	0
-imagine_newszine	homepage.mac.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	homepage.mac.com-imagine_newszine.warc.gz	0
-imagine_newszine	public.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	public.me.com-imagine_newszine.warc.gz	0
-imagine_newszine	web.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	web.me.com-imagine_newszine.warc.gz	0
-jpoukka	gallery.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	gallery.me.com-jpoukka.warc.gz	0
-jpoukka	homepage.mac.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	homepage.mac.com-jpoukka.warc.gz	0
-jpoukka	public.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	public.me.com-jpoukka.warc.gz	0
-jpoukka	web.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	web.me.com-jpoukka.warc.gz	0
-lino.succetti	gallery.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	gallery.me.com-lino.succetti.warc.gz	0
-lino.succetti	homepage.mac.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	homepage.mac.com-lino.succetti.warc.gz	0
-lino.succetti	public.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	public.me.com-lino.succetti.warc.gz	0
-lino.succetti	web.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	web.me.com-lino.succetti.warc.gz	0
-pals_transfer	gallery.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	gallery.me.com-pals_transfer.warc.gz	0
-pals_transfer	homepage.mac.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	homepage.mac.com-pals_transfer.warc.gz	0
-pals_transfer	public.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	public.me.com-pals_transfer.warc.gz	0
-pals_transfer	web.me.com		archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	web.me.com-pals_transfer.warc.gz	0
+imagine_newszine	gallery.me.com	2012-04-07 23:49:53	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	gallery.me.com-imagine_newszine.warc.gz	977674
+imagine_newszine	homepage.mac.com	2012-04-07 23:49:54	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	homepage.mac.com-imagine_newszine.warc.gz	20471
+imagine_newszine	public.me.com	2012-04-07 23:49:49	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	public.me.com-imagine_newszine.warc.gz	412696284
+imagine_newszine	web.me.com	2012-04-07 23:47:15	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	web.me.com-imagine_newszine.warc.gz	45831399
+jpoukka	gallery.me.com	2012-04-07 23:34:15	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	gallery.me.com-jpoukka.warc.gz	5719
+jpoukka	homepage.mac.com	2012-04-07 23:34:15	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	homepage.mac.com-jpoukka.warc.gz	4902
+jpoukka	public.me.com	2012-04-07 23:34:14	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	public.me.com-jpoukka.warc.gz	1912
+jpoukka	web.me.com	2012-04-07 23:34:12	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	web.me.com-jpoukka.warc.gz	179767503
+lino.succetti	gallery.me.com	2012-04-07 23:06:29	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	gallery.me.com-lino.succetti.warc.gz	2456360971
+lino.succetti	homepage.mac.com	2012-04-07 23:06:44	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	homepage.mac.com-lino.succetti.warc.gz	1641909
+lino.succetti	public.me.com	2012-04-07 21:39:21	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	public.me.com-lino.succetti.warc.gz	21042986
+lino.succetti	web.me.com	2012-04-07 21:38:42	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	web.me.com-lino.succetti.warc.gz	614603787
+pals_transfer	gallery.me.com	2012-04-08 00:38:39	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	gallery.me.com-pals_transfer.warc.gz	5258
+pals_transfer	homepage.mac.com	2012-04-08 00:39:16	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	homepage.mac.com-pals_transfer.warc.gz	3065287
+pals_transfer	public.me.com	2012-04-08 00:38:38	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	public.me.com-pals_transfer.warc.gz	142354845
+pals_transfer	web.me.com	2012-04-08 00:32:32	archiveteam-mobileme-hero-503x	archiveteam-mobileme-hero-503x-5034.tar	web.me.com-pals_transfer.warc.gz	585712334

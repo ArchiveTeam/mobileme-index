@@ -1,12 +1,12 @@
-hbillions	gallery.me.com		mobileme-hero-1328992299	mobileme-full-1328992299.tar	gallery.me.com-hbillions.warc.gz	0
-hbillions	homepage.mac.com		mobileme-hero-1328992299	mobileme-full-1328992299.tar	homepage.mac.com-hbillions.warc.gz	0
-hbillions	public.me.com		mobileme-hero-1328992299	mobileme-full-1328992299.tar	public.me.com-hbillions.warc.gz	0
-hbillions	web.me.com		mobileme-hero-1328992299	mobileme-full-1328992299.tar	web.me.com-hbillions.warc.gz	0
-hiromusic.arts	gallery.me.com		mobileme-hero-1328992299	mobileme-full-1328992299.tar	gallery.me.com-hiromusic.arts.warc.gz	0
-hiromusic.arts	homepage.mac.com		mobileme-hero-1328992299	mobileme-full-1328992299.tar	homepage.mac.com-hiromusic.arts.warc.gz	0
-hiromusic.arts	public.me.com		mobileme-hero-1328992299	mobileme-full-1328992299.tar	public.me.com-hiromusic.arts.warc.gz	0
-hiromusic.arts	web.me.com		mobileme-hero-1328992299	mobileme-full-1328992299.tar	web.me.com-hiromusic.arts.warc.gz	0
-htythr	gallery.me.com		mobileme-hero-1328992299	mobileme-full-1328992299.tar	gallery.me.com-htythr.warc.gz	0
-htythr	homepage.mac.com		mobileme-hero-1328992299	mobileme-full-1328992299.tar	homepage.mac.com-htythr.warc.gz	0
-htythr	public.me.com		mobileme-hero-1328992299	mobileme-full-1328992299.tar	public.me.com-htythr.warc.gz	0
-htythr	web.me.com		mobileme-hero-1328992299	mobileme-full-1328992299.tar	web.me.com-htythr.warc.gz	0
+hbillions	gallery.me.com	2011-12-09 18:29:44	mobileme-hero-1328992299	mobileme-full-1328992299.tar	gallery.me.com-hbillions.warc.gz	8367
+hbillions	homepage.mac.com	2011-12-09 18:29:45	mobileme-hero-1328992299	mobileme-full-1328992299.tar	homepage.mac.com-hbillions.warc.gz	5167
+hbillions	public.me.com	2011-12-09 18:29:43	mobileme-hero-1328992299	mobileme-full-1328992299.tar	public.me.com-hbillions.warc.gz	1920
+hbillions	web.me.com	2011-12-09 18:29:42	mobileme-hero-1328992299	mobileme-full-1328992299.tar	web.me.com-hbillions.warc.gz	17743
+hiromusic.arts	gallery.me.com	2011-12-06 21:35:16	mobileme-hero-1328992299	mobileme-full-1328992299.tar	gallery.me.com-hiromusic.arts.warc.gz	5738
+hiromusic.arts	homepage.mac.com	2011-12-06 21:35:16	mobileme-hero-1328992299	mobileme-full-1328992299.tar	homepage.mac.com-hiromusic.arts.warc.gz	4927
+hiromusic.arts	public.me.com	2011-12-06 21:35:14	mobileme-hero-1328992299	mobileme-full-1328992299.tar	public.me.com-hiromusic.arts.warc.gz	1929
+hiromusic.arts	web.me.com	2011-12-06 21:35:12	mobileme-hero-1328992299	mobileme-full-1328992299.tar	web.me.com-hiromusic.arts.warc.gz	45503447
+htythr	gallery.me.com	2011-12-06 12:29:54	mobileme-hero-1328992299	mobileme-full-1328992299.tar	gallery.me.com-htythr.warc.gz	5222
+htythr	homepage.mac.com	2011-12-06 12:29:55	mobileme-hero-1328992299	mobileme-full-1328992299.tar	homepage.mac.com-htythr.warc.gz	4893
+htythr	public.me.com	2011-12-06 12:29:51	mobileme-hero-1328992299	mobileme-full-1328992299.tar	public.me.com-htythr.warc.gz	1918
+htythr	web.me.com	2011-12-06 12:29:49	mobileme-hero-1328992299	mobileme-full-1328992299.tar	web.me.com-htythr.warc.gz	12951443

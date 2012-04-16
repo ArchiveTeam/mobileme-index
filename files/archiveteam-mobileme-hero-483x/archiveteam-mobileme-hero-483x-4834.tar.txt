@@ -1,32 +1,32 @@
-barcagrande	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	gallery.me.com-barcagrande.warc.gz	0
-barcagrande	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	homepage.mac.com-barcagrande.warc.gz	0
-barcagrande	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	public.me.com-barcagrande.warc.gz	0
-barcagrande	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	web.me.com-barcagrande.warc.gz	0
-caveaux	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	gallery.me.com-caveaux.warc.gz	0
-caveaux	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	homepage.mac.com-caveaux.warc.gz	0
-caveaux	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	public.me.com-caveaux.warc.gz	0
-caveaux	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	web.me.com-caveaux.warc.gz	0
-dirceureis	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	gallery.me.com-dirceureis.warc.gz	0
-dirceureis	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	homepage.mac.com-dirceureis.warc.gz	0
-dirceureis	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	public.me.com-dirceureis.warc.gz	0
-dirceureis	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	web.me.com-dirceureis.warc.gz	0
-emma.thollon	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	gallery.me.com-emma.thollon.warc.gz	0
-emma.thollon	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	homepage.mac.com-emma.thollon.warc.gz	0
-emma.thollon	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	public.me.com-emma.thollon.warc.gz	0
-emma.thollon	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	web.me.com-emma.thollon.warc.gz	0
-freeerider	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	gallery.me.com-freeerider.warc.gz	0
-freeerider	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	homepage.mac.com-freeerider.warc.gz	0
-freeerider	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	public.me.com-freeerider.warc.gz	0
-freeerider	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	web.me.com-freeerider.warc.gz	0
-lucalaca	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	gallery.me.com-lucalaca.warc.gz	0
-lucalaca	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	homepage.mac.com-lucalaca.warc.gz	0
-lucalaca	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	public.me.com-lucalaca.warc.gz	0
-lucalaca	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	web.me.com-lucalaca.warc.gz	0
-mizlgw	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	gallery.me.com-mizlgw.warc.gz	0
-mizlgw	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	homepage.mac.com-mizlgw.warc.gz	0
-mizlgw	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	public.me.com-mizlgw.warc.gz	0
-mizlgw	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	web.me.com-mizlgw.warc.gz	0
-skis.air	gallery.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	gallery.me.com-skis.air.warc.gz	0
-skis.air	homepage.mac.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	homepage.mac.com-skis.air.warc.gz	0
-skis.air	public.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	public.me.com-skis.air.warc.gz	0
-skis.air	web.me.com		archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	web.me.com-skis.air.warc.gz	0
+barcagrande	gallery.me.com	2012-04-07 01:45:45	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	gallery.me.com-barcagrande.warc.gz	9056687
+barcagrande	homepage.mac.com	2012-04-07 01:46:17	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	homepage.mac.com-barcagrande.warc.gz	1228322
+barcagrande	public.me.com	2012-04-07 01:45:35	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	public.me.com-barcagrande.warc.gz	48170388
+barcagrande	web.me.com	2012-04-07 01:45:09	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	web.me.com-barcagrande.warc.gz	825139460
+caveaux	gallery.me.com	2012-04-07 01:18:38	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	gallery.me.com-caveaux.warc.gz	1660961918
+caveaux	homepage.mac.com	2012-04-07 01:18:38	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	homepage.mac.com-caveaux.warc.gz	4914
+caveaux	public.me.com	2012-04-07 00:59:43	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	public.me.com-caveaux.warc.gz	1909
+caveaux	web.me.com	2012-04-07 00:59:42	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	web.me.com-caveaux.warc.gz	150028942
+dirceureis	gallery.me.com	2012-04-06 23:38:15	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	gallery.me.com-dirceureis.warc.gz	1324592
+dirceureis	homepage.mac.com	2012-04-06 23:38:15	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	homepage.mac.com-dirceureis.warc.gz	4919
+dirceureis	public.me.com	2012-04-06 23:38:05	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	public.me.com-dirceureis.warc.gz	1916
+dirceureis	web.me.com	2012-04-06 23:38:04	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	web.me.com-dirceureis.warc.gz	33906403
+emma.thollon	gallery.me.com	2012-04-07 00:16:51	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	gallery.me.com-emma.thollon.warc.gz	5679
+emma.thollon	homepage.mac.com	2012-04-07 00:16:52	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	homepage.mac.com-emma.thollon.warc.gz	4912
+emma.thollon	public.me.com	2012-04-07 00:16:48	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	public.me.com-emma.thollon.warc.gz	1926
+emma.thollon	web.me.com	2012-04-07 00:16:48	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	web.me.com-emma.thollon.warc.gz	13875171
+freeerider	gallery.me.com	2012-04-07 00:14:23	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	gallery.me.com-freeerider.warc.gz	150071
+freeerider	homepage.mac.com	2012-04-07 00:14:23	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	homepage.mac.com-freeerider.warc.gz	4919
+freeerider	public.me.com	2012-04-07 00:14:21	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	public.me.com-freeerider.warc.gz	1915
+freeerider	web.me.com	2012-04-07 00:14:20	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	web.me.com-freeerider.warc.gz	499994153
+lucalaca	gallery.me.com	2012-04-07 00:36:27	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	gallery.me.com-lucalaca.warc.gz	436563431
+lucalaca	homepage.mac.com	2012-04-07 00:36:31	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	homepage.mac.com-lucalaca.warc.gz	97946
+lucalaca	public.me.com	2012-04-07 00:29:47	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	public.me.com-lucalaca.warc.gz	1917
+lucalaca	web.me.com	2012-04-07 00:29:46	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	web.me.com-lucalaca.warc.gz	143392584
+mizlgw	gallery.me.com	2012-04-07 02:25:58	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	gallery.me.com-mizlgw.warc.gz	2042668539
+mizlgw	homepage.mac.com	2012-04-07 02:25:58	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	homepage.mac.com-mizlgw.warc.gz	4905
+mizlgw	public.me.com	2012-04-07 01:57:11	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	public.me.com-mizlgw.warc.gz	1912
+mizlgw	web.me.com	2012-04-07 01:57:10	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	web.me.com-mizlgw.warc.gz	67547979
+skis.air	gallery.me.com	2012-04-07 01:29:07	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	gallery.me.com-skis.air.warc.gz	354798082
+skis.air	homepage.mac.com	2012-04-07 01:29:09	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	homepage.mac.com-skis.air.warc.gz	29198
+skis.air	public.me.com	2012-04-07 01:22:33	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	public.me.com-skis.air.warc.gz	1911
+skis.air	web.me.com	2012-04-07 01:22:32	archiveteam-mobileme-hero-483x	archiveteam-mobileme-hero-483x-4834.tar	web.me.com-skis.air.warc.gz	63225354

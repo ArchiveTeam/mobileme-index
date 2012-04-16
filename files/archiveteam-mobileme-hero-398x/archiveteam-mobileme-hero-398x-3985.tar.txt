@@ -1,12 +1,12 @@
-jpmarv	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	gallery.me.com-jpmarv.warc.gz	0
-jpmarv	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	homepage.mac.com-jpmarv.warc.gz	0
-jpmarv	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	public.me.com-jpmarv.warc.gz	0
-jpmarv	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	web.me.com-jpmarv.warc.gz	0
-jwsouthern	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	gallery.me.com-jwsouthern.warc.gz	0
-jwsouthern	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	homepage.mac.com-jwsouthern.warc.gz	0
-jwsouthern	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	public.me.com-jwsouthern.warc.gz	0
-jwsouthern	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	web.me.com-jwsouthern.warc.gz	0
-tonycastro	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	gallery.me.com-tonycastro.warc.gz	0
-tonycastro	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	homepage.mac.com-tonycastro.warc.gz	0
-tonycastro	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	public.me.com-tonycastro.warc.gz	0
-tonycastro	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	web.me.com-tonycastro.warc.gz	0
+jpmarv	gallery.me.com	2012-04-04 22:42:44	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	gallery.me.com-jpmarv.warc.gz	3706864331
+jpmarv	homepage.mac.com	2012-04-04 22:42:49	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	homepage.mac.com-jpmarv.warc.gz	118083
+jpmarv	public.me.com	2012-04-04 21:29:28	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	public.me.com-jpmarv.warc.gz	1911
+jpmarv	web.me.com	2012-04-04 21:29:22	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	web.me.com-jpmarv.warc.gz	1002246136
+jwsouthern	gallery.me.com	2012-04-04 19:46:22	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	gallery.me.com-jwsouthern.warc.gz	113301697
+jwsouthern	homepage.mac.com	2012-04-04 19:46:23	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	homepage.mac.com-jwsouthern.warc.gz	4929
+jwsouthern	public.me.com	2012-04-04 19:44:03	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	public.me.com-jwsouthern.warc.gz	1923
+jwsouthern	web.me.com	2012-04-04 19:44:02	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	web.me.com-jwsouthern.warc.gz	96545656
+tonycastro	gallery.me.com	2012-04-04 20:36:49	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	gallery.me.com-tonycastro.warc.gz	4989
+tonycastro	homepage.mac.com	2012-04-04 20:36:56	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	homepage.mac.com-tonycastro.warc.gz	125830
+tonycastro	public.me.com	2012-04-04 20:36:47	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	public.me.com-tonycastro.warc.gz	1918
+tonycastro	web.me.com	2012-04-04 20:36:37	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3985.tar	web.me.com-tonycastro.warc.gz	380762598

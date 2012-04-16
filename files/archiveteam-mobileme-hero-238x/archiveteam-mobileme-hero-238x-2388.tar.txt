@@ -1,12 +1,12 @@
-amerex	gallery.me.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	gallery.me.com-amerex.warc.gz	0
-amerex	homepage.mac.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	homepage.mac.com-amerex.warc.gz	0
-amerex	public.me.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	public.me.com-amerex.warc.gz	0
-amerex	web.me.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	web.me.com-amerex.warc.gz	0
-dylanreynolds	gallery.me.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	gallery.me.com-dylanreynolds.warc.gz	0
-dylanreynolds	homepage.mac.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	homepage.mac.com-dylanreynolds.warc.gz	0
-dylanreynolds	public.me.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	public.me.com-dylanreynolds.warc.gz	0
-dylanreynolds	web.me.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	web.me.com-dylanreynolds.warc.gz	0
-mrha22	gallery.me.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	gallery.me.com-mrha22.warc.gz	0
-mrha22	homepage.mac.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	homepage.mac.com-mrha22.warc.gz	0
-mrha22	public.me.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	public.me.com-mrha22.warc.gz	0
-mrha22	web.me.com		archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	web.me.com-mrha22.warc.gz	0
+amerex	gallery.me.com	2012-03-31 11:13:54	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	gallery.me.com-amerex.warc.gz	1748219946
+amerex	homepage.mac.com	2012-03-31 11:13:57	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	homepage.mac.com-amerex.warc.gz	80689
+amerex	public.me.com	2012-03-31 11:01:50	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	public.me.com-amerex.warc.gz	996846422
+amerex	web.me.com	2012-03-31 10:56:02	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	web.me.com-amerex.warc.gz	879917688
+dylanreynolds	gallery.me.com	2012-03-31 10:28:19	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	gallery.me.com-dylanreynolds.warc.gz	5697
+dylanreynolds	homepage.mac.com	2012-03-31 10:28:19	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	homepage.mac.com-dylanreynolds.warc.gz	4940
+dylanreynolds	public.me.com	2012-03-31 10:28:19	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	public.me.com-dylanreynolds.warc.gz	1928
+dylanreynolds	web.me.com	2012-03-31 10:28:18	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	web.me.com-dylanreynolds.warc.gz	37574783
+mrha22	gallery.me.com	2012-03-31 10:23:03	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	gallery.me.com-mrha22.warc.gz	900137565
+mrha22	homepage.mac.com	2012-03-31 10:23:03	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	homepage.mac.com-mrha22.warc.gz	4895
+mrha22	public.me.com	2012-03-31 10:20:17	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	public.me.com-mrha22.warc.gz	180845188
+mrha22	web.me.com	2012-03-31 10:17:19	archiveteam-mobileme-hero-238x	archiveteam-mobileme-hero-238x-2388.tar	web.me.com-mrha22.warc.gz	268268229

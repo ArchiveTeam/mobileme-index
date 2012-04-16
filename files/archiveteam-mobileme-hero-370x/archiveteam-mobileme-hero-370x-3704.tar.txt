@@ -1,12 +1,12 @@
-bixmeister	gallery.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	gallery.me.com-bixmeister.warc.gz	0
-bixmeister	homepage.mac.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	homepage.mac.com-bixmeister.warc.gz	0
-bixmeister	public.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	public.me.com-bixmeister.warc.gz	0
-bixmeister	web.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	web.me.com-bixmeister.warc.gz	0
-kleurvision	gallery.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	gallery.me.com-kleurvision.warc.gz	0
-kleurvision	homepage.mac.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	homepage.mac.com-kleurvision.warc.gz	0
-kleurvision	public.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	public.me.com-kleurvision.warc.gz	0
-kleurvision	web.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	web.me.com-kleurvision.warc.gz	0
-vikkig72	gallery.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	gallery.me.com-vikkig72.warc.gz	0
-vikkig72	homepage.mac.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	homepage.mac.com-vikkig72.warc.gz	0
-vikkig72	public.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	public.me.com-vikkig72.warc.gz	0
-vikkig72	web.me.com		archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	web.me.com-vikkig72.warc.gz	0
+bixmeister	gallery.me.com	2012-04-04 01:36:27	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	gallery.me.com-bixmeister.warc.gz	1225478204
+bixmeister	homepage.mac.com	2012-04-04 01:36:28	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	homepage.mac.com-bixmeister.warc.gz	4918
+bixmeister	public.me.com	2012-04-04 00:43:19	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	public.me.com-bixmeister.warc.gz	1918
+bixmeister	web.me.com	2012-04-04 00:41:45	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	web.me.com-bixmeister.warc.gz	380718868
+kleurvision	gallery.me.com	2012-04-04 02:20:00	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	gallery.me.com-kleurvision.warc.gz	49448298
+kleurvision	homepage.mac.com	2012-04-04 02:20:00	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	homepage.mac.com-kleurvision.warc.gz	4891
+kleurvision	public.me.com	2012-04-04 02:15:12	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	public.me.com-kleurvision.warc.gz	1921
+kleurvision	web.me.com	2012-04-04 02:15:10	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	web.me.com-kleurvision.warc.gz	119076670
+vikkig72	gallery.me.com	2012-04-04 06:20:28	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	gallery.me.com-vikkig72.warc.gz	1705923055
+vikkig72	homepage.mac.com	2012-04-04 06:20:29	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	homepage.mac.com-vikkig72.warc.gz	4889
+vikkig72	public.me.com	2012-04-04 05:43:00	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	public.me.com-vikkig72.warc.gz	2755871274
+vikkig72	web.me.com	2012-04-04 04:22:25	archiveteam-mobileme-hero-370x	archiveteam-mobileme-hero-370x-3704.tar	web.me.com-vikkig72.warc.gz	1232314945

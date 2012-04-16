@@ -1,16 +1,16 @@
-bnaden	gallery.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	gallery.me.com-bnaden.warc.gz	0
-bnaden	homepage.mac.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	homepage.mac.com-bnaden.warc.gz	0
-bnaden	public.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	public.me.com-bnaden.warc.gz	0
-bnaden	web.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	web.me.com-bnaden.warc.gz	0
-dangir	gallery.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	gallery.me.com-dangir.warc.gz	0
-dangir	homepage.mac.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	homepage.mac.com-dangir.warc.gz	0
-dangir	public.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	public.me.com-dangir.warc.gz	0
-dangir	web.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	web.me.com-dangir.warc.gz	0
-dkfogarty	gallery.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	gallery.me.com-dkfogarty.warc.gz	0
-dkfogarty	homepage.mac.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	homepage.mac.com-dkfogarty.warc.gz	0
-dkfogarty	public.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	public.me.com-dkfogarty.warc.gz	0
-dkfogarty	web.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	web.me.com-dkfogarty.warc.gz	0
-swissfly	gallery.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	gallery.me.com-swissfly.warc.gz	0
-swissfly	homepage.mac.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	homepage.mac.com-swissfly.warc.gz	0
-swissfly	public.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	public.me.com-swissfly.warc.gz	0
-swissfly	web.me.com		archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	web.me.com-swissfly.warc.gz	0
+bnaden	gallery.me.com	2012-04-08 02:56:00	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	gallery.me.com-bnaden.warc.gz	847967633
+bnaden	homepage.mac.com	2012-04-08 02:56:00	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	homepage.mac.com-bnaden.warc.gz	4889
+bnaden	public.me.com	2012-04-08 02:36:06	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	public.me.com-bnaden.warc.gz	2384593761
+bnaden	web.me.com	2012-04-08 01:46:16	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	web.me.com-bnaden.warc.gz	313006504
+dangir	gallery.me.com	2012-04-08 03:17:00	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	gallery.me.com-dangir.warc.gz	12287
+dangir	homepage.mac.com	2012-04-08 03:17:00	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	homepage.mac.com-dangir.warc.gz	7132
+dangir	public.me.com	2012-04-08 03:17:00	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	public.me.com-dangir.warc.gz	1912
+dangir	web.me.com	2012-04-08 03:17:00	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	web.me.com-dangir.warc.gz	22434
+dkfogarty	gallery.me.com	2012-04-08 03:16:58	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	gallery.me.com-dkfogarty.warc.gz	164950158
+dkfogarty	homepage.mac.com	2012-04-08 03:16:58	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	homepage.mac.com-dkfogarty.warc.gz	4921
+dkfogarty	public.me.com	2012-04-08 03:15:15	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	public.me.com-dkfogarty.warc.gz	1921
+dkfogarty	web.me.com	2012-04-08 03:15:14	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	web.me.com-dkfogarty.warc.gz	19703548
+swissfly	gallery.me.com	2012-04-08 04:03:41	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	gallery.me.com-swissfly.warc.gz	818659707
+swissfly	homepage.mac.com	2012-04-08 04:03:41	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	homepage.mac.com-swissfly.warc.gz	4910
+swissfly	public.me.com	2012-04-08 03:41:15	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	public.me.com-swissfly.warc.gz	1920
+swissfly	web.me.com	2012-04-08 03:41:14	archiveteam-mobileme-hero-509x	archiveteam-mobileme-hero-509x-5097.tar	web.me.com-swissfly.warc.gz	177909924

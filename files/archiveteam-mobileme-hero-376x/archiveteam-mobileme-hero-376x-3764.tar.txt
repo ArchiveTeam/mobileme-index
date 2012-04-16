@@ -1,28 +1,28 @@
-atcurtis	gallery.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	gallery.me.com-atcurtis.warc.gz	0
-atcurtis	homepage.mac.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	homepage.mac.com-atcurtis.warc.gz	0
-atcurtis	public.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	public.me.com-atcurtis.warc.gz	0
-atcurtis	web.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	web.me.com-atcurtis.warc.gz	0
-doikuro	gallery.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	gallery.me.com-doikuro.warc.gz	0
-doikuro	homepage.mac.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	homepage.mac.com-doikuro.warc.gz	0
-doikuro	public.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	public.me.com-doikuro.warc.gz	0
-doikuro	web.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	web.me.com-doikuro.warc.gz	0
-legalet	gallery.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	gallery.me.com-legalet.warc.gz	0
-legalet	homepage.mac.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	homepage.mac.com-legalet.warc.gz	0
-legalet	public.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	public.me.com-legalet.warc.gz	0
-legalet	web.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	web.me.com-legalet.warc.gz	0
-lrobitaille	gallery.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	gallery.me.com-lrobitaille.warc.gz	0
-lrobitaille	homepage.mac.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	homepage.mac.com-lrobitaille.warc.gz	0
-lrobitaille	public.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	public.me.com-lrobitaille.warc.gz	0
-lrobitaille	web.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	web.me.com-lrobitaille.warc.gz	0
-morsecodes	gallery.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	gallery.me.com-morsecodes.warc.gz	0
-morsecodes	homepage.mac.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	homepage.mac.com-morsecodes.warc.gz	0
-morsecodes	public.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	public.me.com-morsecodes.warc.gz	0
-morsecodes	web.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	web.me.com-morsecodes.warc.gz	0
-peterkhan	gallery.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	gallery.me.com-peterkhan.warc.gz	0
-peterkhan	homepage.mac.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	homepage.mac.com-peterkhan.warc.gz	0
-peterkhan	public.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	public.me.com-peterkhan.warc.gz	0
-peterkhan	web.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	web.me.com-peterkhan.warc.gz	0
-susanmtroccolo	gallery.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	gallery.me.com-susanmtroccolo.warc.gz	0
-susanmtroccolo	homepage.mac.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	homepage.mac.com-susanmtroccolo.warc.gz	0
-susanmtroccolo	public.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	public.me.com-susanmtroccolo.warc.gz	0
-susanmtroccolo	web.me.com		archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	web.me.com-susanmtroccolo.warc.gz	0
+atcurtis	gallery.me.com	2012-04-04 08:24:00	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	gallery.me.com-atcurtis.warc.gz	4241
+atcurtis	homepage.mac.com	2012-04-04 08:24:04	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	homepage.mac.com-atcurtis.warc.gz	82258
+atcurtis	public.me.com	2012-04-04 08:24:00	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	public.me.com-atcurtis.warc.gz	1905
+atcurtis	web.me.com	2012-04-04 08:23:59	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	web.me.com-atcurtis.warc.gz	2011997
+doikuro	gallery.me.com	2012-04-04 08:17:04	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	gallery.me.com-doikuro.warc.gz	5023
+doikuro	homepage.mac.com	2012-04-04 08:17:04	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	homepage.mac.com-doikuro.warc.gz	4902
+doikuro	public.me.com	2012-04-04 08:17:03	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	public.me.com-doikuro.warc.gz	1909
+doikuro	web.me.com	2012-04-04 08:16:59	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	web.me.com-doikuro.warc.gz	327180567
+legalet	gallery.me.com	2012-04-04 08:45:42	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	gallery.me.com-legalet.warc.gz	5180
+legalet	homepage.mac.com	2012-04-04 08:45:42	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	homepage.mac.com-legalet.warc.gz	4880
+legalet	public.me.com	2012-04-04 08:45:41	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	public.me.com-legalet.warc.gz	1913
+legalet	web.me.com	2012-04-04 08:45:35	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	web.me.com-legalet.warc.gz	358670365
+lrobitaille	gallery.me.com	2012-04-04 08:30:29	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	gallery.me.com-lrobitaille.warc.gz	5017
+lrobitaille	homepage.mac.com	2012-04-04 08:30:31	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	homepage.mac.com-lrobitaille.warc.gz	4930
+lrobitaille	public.me.com	2012-04-04 08:30:28	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	public.me.com-lrobitaille.warc.gz	1922
+lrobitaille	web.me.com	2012-04-04 08:30:28	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	web.me.com-lrobitaille.warc.gz	24596040
+morsecodes	gallery.me.com	2012-04-04 08:22:59	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	gallery.me.com-morsecodes.warc.gz	5020
+morsecodes	homepage.mac.com	2012-04-04 08:23:00	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	homepage.mac.com-morsecodes.warc.gz	6060
+morsecodes	public.me.com	2012-04-04 08:22:59	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	public.me.com-morsecodes.warc.gz	1920
+morsecodes	web.me.com	2012-04-04 08:22:58	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	web.me.com-morsecodes.warc.gz	69351124
+peterkhan	gallery.me.com	2012-04-04 07:10:43	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	gallery.me.com-peterkhan.warc.gz	679462
+peterkhan	homepage.mac.com	2012-04-04 07:10:43	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	homepage.mac.com-peterkhan.warc.gz	4886
+peterkhan	public.me.com	2012-04-04 07:10:39	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	public.me.com-peterkhan.warc.gz	1912
+peterkhan	web.me.com	2012-04-04 07:10:38	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	web.me.com-peterkhan.warc.gz	97119137
+susanmtroccolo	gallery.me.com	2012-04-04 09:45:13	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	gallery.me.com-susanmtroccolo.warc.gz	3878621375
+susanmtroccolo	homepage.mac.com	2012-04-04 09:45:13	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	homepage.mac.com-susanmtroccolo.warc.gz	4944
+susanmtroccolo	public.me.com	2012-04-04 08:54:03	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	public.me.com-susanmtroccolo.warc.gz	13924236
+susanmtroccolo	web.me.com	2012-04-04 08:53:56	archiveteam-mobileme-hero-376x	archiveteam-mobileme-hero-376x-3764.tar	web.me.com-susanmtroccolo.warc.gz	20036396

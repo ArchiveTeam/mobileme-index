@@ -1,28 +1,28 @@
-bwgoodspeed	gallery.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	gallery.me.com-bwgoodspeed.warc.gz	0
-bwgoodspeed	homepage.mac.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	homepage.mac.com-bwgoodspeed.warc.gz	0
-bwgoodspeed	public.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	public.me.com-bwgoodspeed.warc.gz	0
-bwgoodspeed	web.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	web.me.com-bwgoodspeed.warc.gz	0
-c399314255	gallery.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	gallery.me.com-c399314255.warc.gz	0
-c399314255	homepage.mac.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	homepage.mac.com-c399314255.warc.gz	0
-c399314255	public.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	public.me.com-c399314255.warc.gz	0
-c399314255	web.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	web.me.com-c399314255.warc.gz	0
-c450027627	gallery.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	gallery.me.com-c450027627.warc.gz	0
-c450027627	homepage.mac.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	homepage.mac.com-c450027627.warc.gz	0
-c450027627	public.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	public.me.com-c450027627.warc.gz	0
-c450027627	web.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	web.me.com-c450027627.warc.gz	0
-drnancy	gallery.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	gallery.me.com-drnancy.warc.gz	0
-drnancy	homepage.mac.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	homepage.mac.com-drnancy.warc.gz	0
-drnancy	public.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	public.me.com-drnancy.warc.gz	0
-drnancy	web.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	web.me.com-drnancy.warc.gz	0
-lpetsche	gallery.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	gallery.me.com-lpetsche.warc.gz	0
-lpetsche	homepage.mac.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	homepage.mac.com-lpetsche.warc.gz	0
-lpetsche	public.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	public.me.com-lpetsche.warc.gz	0
-lpetsche	web.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	web.me.com-lpetsche.warc.gz	0
-mrpeters1121	gallery.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	gallery.me.com-mrpeters1121.warc.gz	0
-mrpeters1121	homepage.mac.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	homepage.mac.com-mrpeters1121.warc.gz	0
-mrpeters1121	public.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	public.me.com-mrpeters1121.warc.gz	0
-mrpeters1121	web.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	web.me.com-mrpeters1121.warc.gz	0
-tampascott	gallery.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	gallery.me.com-tampascott.warc.gz	0
-tampascott	homepage.mac.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	homepage.mac.com-tampascott.warc.gz	0
-tampascott	public.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	public.me.com-tampascott.warc.gz	0
-tampascott	web.me.com		archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	web.me.com-tampascott.warc.gz	0
+bwgoodspeed	gallery.me.com	2012-04-01 19:30:27	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	gallery.me.com-bwgoodspeed.warc.gz	4272
+bwgoodspeed	homepage.mac.com	2012-04-01 19:30:27	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	homepage.mac.com-bwgoodspeed.warc.gz	4918
+bwgoodspeed	public.me.com	2012-04-01 19:30:27	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	public.me.com-bwgoodspeed.warc.gz	1921
+bwgoodspeed	web.me.com	2012-04-01 19:30:27	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	web.me.com-bwgoodspeed.warc.gz	6840284
+c399314255	gallery.me.com	2012-04-01 19:05:50	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	gallery.me.com-c399314255.warc.gz	8367
+c399314255	homepage.mac.com	2012-04-01 19:05:50	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	homepage.mac.com-c399314255.warc.gz	5169
+c399314255	public.me.com	2012-04-01 19:05:48	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	public.me.com-c399314255.warc.gz	1918
+c399314255	web.me.com	2012-04-01 19:05:47	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	web.me.com-c399314255.warc.gz	17767
+c450027627	gallery.me.com	2012-04-01 19:40:29	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	gallery.me.com-c450027627.warc.gz	8374
+c450027627	homepage.mac.com	2012-04-01 19:40:29	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	homepage.mac.com-c450027627.warc.gz	5165
+c450027627	public.me.com	2012-04-01 19:40:29	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	public.me.com-c450027627.warc.gz	1919
+c450027627	web.me.com	2012-04-01 19:40:29	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	web.me.com-c450027627.warc.gz	17720
+drnancy	gallery.me.com	2012-04-01 19:40:23	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	gallery.me.com-drnancy.warc.gz	190421953
+drnancy	homepage.mac.com	2012-04-01 19:40:28	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	homepage.mac.com-drnancy.warc.gz	75566
+drnancy	public.me.com	2012-04-01 19:37:15	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	public.me.com-drnancy.warc.gz	1913
+drnancy	web.me.com	2012-04-01 19:37:14	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	web.me.com-drnancy.warc.gz	199625891
+lpetsche	gallery.me.com	2012-04-01 21:09:48	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	gallery.me.com-lpetsche.warc.gz	4224488969
+lpetsche	homepage.mac.com	2012-04-01 21:09:49	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	homepage.mac.com-lpetsche.warc.gz	7686
+lpetsche	public.me.com	2012-04-01 20:28:23	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	public.me.com-lpetsche.warc.gz	1913
+lpetsche	web.me.com	2012-04-01 20:28:15	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	web.me.com-lpetsche.warc.gz	1062899098
+mrpeters1121	gallery.me.com	2012-04-01 19:27:02	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	gallery.me.com-mrpeters1121.warc.gz	654408905
+mrpeters1121	homepage.mac.com	2012-04-01 19:27:02	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	homepage.mac.com-mrpeters1121.warc.gz	4912
+mrpeters1121	public.me.com	2012-04-01 19:17:57	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	public.me.com-mrpeters1121.warc.gz	289839819
+mrpeters1121	web.me.com	2012-04-01 19:15:51	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	web.me.com-mrpeters1121.warc.gz	72588160
+tampascott	gallery.me.com	2012-04-01 19:42:09	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	gallery.me.com-tampascott.warc.gz	185010271
+tampascott	homepage.mac.com	2012-04-01 19:42:11	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	homepage.mac.com-tampascott.warc.gz	87815
+tampascott	public.me.com	2012-04-01 19:41:12	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	public.me.com-tampascott.warc.gz	1917
+tampascott	web.me.com	2012-04-01 19:41:12	archiveteam-mobileme-hero-275x	archiveteam-mobileme-hero-275x-2753.tar	web.me.com-tampascott.warc.gz	28389828

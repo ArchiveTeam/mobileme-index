@@ -1,24 +1,24 @@
-c2139400785	gallery.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	gallery.me.com-c2139400785.warc.gz	0
-c2139400785	homepage.mac.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	homepage.mac.com-c2139400785.warc.gz	0
-c2139400785	public.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	public.me.com-c2139400785.warc.gz	0
-c2139400785	web.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	web.me.com-c2139400785.warc.gz	0
-cc	gallery.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	gallery.me.com-cc.warc.gz	0
-cc	homepage.mac.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	homepage.mac.com-cc.warc.gz	0
-cc	public.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	public.me.com-cc.warc.gz	0
-cc	web.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	web.me.com-cc.warc.gz	0
-charlotterocks	gallery.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	gallery.me.com-charlotterocks.warc.gz	0
-charlotterocks	homepage.mac.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	homepage.mac.com-charlotterocks.warc.gz	0
-charlotterocks	public.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	public.me.com-charlotterocks.warc.gz	0
-charlotterocks	web.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	web.me.com-charlotterocks.warc.gz	0
-jesthiele	gallery.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	gallery.me.com-jesthiele.warc.gz	0
-jesthiele	homepage.mac.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	homepage.mac.com-jesthiele.warc.gz	0
-jesthiele	public.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	public.me.com-jesthiele.warc.gz	0
-jesthiele	web.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	web.me.com-jesthiele.warc.gz	0
-scottwsmith	gallery.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	gallery.me.com-scottwsmith.warc.gz	0
-scottwsmith	homepage.mac.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	homepage.mac.com-scottwsmith.warc.gz	0
-scottwsmith	public.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	public.me.com-scottwsmith.warc.gz	0
-scottwsmith	web.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	web.me.com-scottwsmith.warc.gz	0
-wildrisk	gallery.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	gallery.me.com-wildrisk.warc.gz	0
-wildrisk	homepage.mac.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	homepage.mac.com-wildrisk.warc.gz	0
-wildrisk	public.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	public.me.com-wildrisk.warc.gz	0
-wildrisk	web.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	web.me.com-wildrisk.warc.gz	0
+c2139400785	gallery.me.com	2012-04-05 01:23:48	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	gallery.me.com-c2139400785.warc.gz	8354
+c2139400785	homepage.mac.com	2012-04-05 01:23:48	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	homepage.mac.com-c2139400785.warc.gz	5184
+c2139400785	public.me.com	2012-04-05 01:23:48	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	public.me.com-c2139400785.warc.gz	1929
+c2139400785	web.me.com	2012-04-05 01:23:47	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	web.me.com-c2139400785.warc.gz	17766
+cc	gallery.me.com	2012-04-05 01:23:46	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	gallery.me.com-cc.warc.gz	12351
+cc	homepage.mac.com	2012-04-05 01:23:46	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	homepage.mac.com-cc.warc.gz	7165
+cc	public.me.com	2012-04-05 01:23:44	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	public.me.com-cc.warc.gz	1892
+cc	web.me.com	2012-04-05 01:23:44	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	web.me.com-cc.warc.gz	22542
+charlotterocks	gallery.me.com	2012-04-05 02:30:31	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	gallery.me.com-charlotterocks.warc.gz	1810319619
+charlotterocks	homepage.mac.com	2012-04-05 02:30:31	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	homepage.mac.com-charlotterocks.warc.gz	4928
+charlotterocks	public.me.com	2012-04-05 01:29:41	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	public.me.com-charlotterocks.warc.gz	1929
+charlotterocks	web.me.com	2012-04-05 01:29:41	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	web.me.com-charlotterocks.warc.gz	15766642
+jesthiele	gallery.me.com	2012-04-05 01:23:37	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	gallery.me.com-jesthiele.warc.gz	8070
+jesthiele	homepage.mac.com	2012-04-05 01:23:38	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	homepage.mac.com-jesthiele.warc.gz	4925
+jesthiele	public.me.com	2012-04-05 01:23:36	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	public.me.com-jesthiele.warc.gz	52714361
+jesthiele	web.me.com	2012-04-05 01:23:05	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	web.me.com-jesthiele.warc.gz	48194
+scottwsmith	gallery.me.com	2012-04-05 03:25:25	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	gallery.me.com-scottwsmith.warc.gz	1025027779
+scottwsmith	homepage.mac.com	2012-04-05 03:25:27	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	homepage.mac.com-scottwsmith.warc.gz	55227
+scottwsmith	public.me.com	2012-04-05 03:09:46	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	public.me.com-scottwsmith.warc.gz	3773534400
+scottwsmith	web.me.com	2012-04-05 02:38:16	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	web.me.com-scottwsmith.warc.gz	386462001
+wildrisk	gallery.me.com	2012-04-05 01:23:40	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	gallery.me.com-wildrisk.warc.gz	8343
+wildrisk	homepage.mac.com	2012-04-05 01:23:40	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	homepage.mac.com-wildrisk.warc.gz	5170
+wildrisk	public.me.com	2012-04-05 01:23:39	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	public.me.com-wildrisk.warc.gz	1914
+wildrisk	web.me.com	2012-04-05 01:23:39	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4062.tar	web.me.com-wildrisk.warc.gz	17711

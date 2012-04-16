@@ -1,20 +1,20 @@
-bmccom	gallery.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	gallery.me.com-bmccom.warc.gz	0
-bmccom	homepage.mac.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	homepage.mac.com-bmccom.warc.gz	0
-bmccom	public.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	public.me.com-bmccom.warc.gz	0
-bmccom	web.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	web.me.com-bmccom.warc.gz	0
-dagf98	gallery.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	gallery.me.com-dagf98.warc.gz	0
-dagf98	homepage.mac.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	homepage.mac.com-dagf98.warc.gz	0
-dagf98	public.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	public.me.com-dagf98.warc.gz	0
-dagf98	web.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	web.me.com-dagf98.warc.gz	0
-gncroff	gallery.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	gallery.me.com-gncroff.warc.gz	0
-gncroff	homepage.mac.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	homepage.mac.com-gncroff.warc.gz	0
-gncroff	public.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	public.me.com-gncroff.warc.gz	0
-gncroff	web.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	web.me.com-gncroff.warc.gz	0
-ryandcole	gallery.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	gallery.me.com-ryandcole.warc.gz	0
-ryandcole	homepage.mac.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	homepage.mac.com-ryandcole.warc.gz	0
-ryandcole	public.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	public.me.com-ryandcole.warc.gz	0
-ryandcole	web.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	web.me.com-ryandcole.warc.gz	0
-zeipos	gallery.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	gallery.me.com-zeipos.warc.gz	0
-zeipos	homepage.mac.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	homepage.mac.com-zeipos.warc.gz	0
-zeipos	public.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	public.me.com-zeipos.warc.gz	0
-zeipos	web.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	web.me.com-zeipos.warc.gz	0
+bmccom	gallery.me.com	2012-04-09 10:17:14	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	gallery.me.com-bmccom.warc.gz	4225
+bmccom	homepage.mac.com	2012-04-09 10:17:14	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	homepage.mac.com-bmccom.warc.gz	4901
+bmccom	public.me.com	2012-04-09 10:17:13	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	public.me.com-bmccom.warc.gz	1910
+bmccom	web.me.com	2012-04-09 10:17:12	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	web.me.com-bmccom.warc.gz	31298436
+dagf98	gallery.me.com	2012-04-09 09:36:44	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	gallery.me.com-dagf98.warc.gz	567955209
+dagf98	homepage.mac.com	2012-04-09 09:36:44	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	homepage.mac.com-dagf98.warc.gz	4910
+dagf98	public.me.com	2012-04-09 09:07:46	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	public.me.com-dagf98.warc.gz	3364
+dagf98	web.me.com	2012-04-09 09:07:45	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	web.me.com-dagf98.warc.gz	40363745
+gncroff	gallery.me.com	2012-04-09 10:15:04	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	gallery.me.com-gncroff.warc.gz	1795112457
+gncroff	homepage.mac.com	2012-04-09 10:15:04	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	homepage.mac.com-gncroff.warc.gz	4911
+gncroff	public.me.com	2012-04-09 09:45:57	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	public.me.com-gncroff.warc.gz	189243522
+gncroff	web.me.com	2012-04-09 09:43:32	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	web.me.com-gncroff.warc.gz	30442906
+ryandcole	gallery.me.com	2012-04-09 11:46:32	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	gallery.me.com-ryandcole.warc.gz	2223204
+ryandcole	homepage.mac.com	2012-04-09 11:46:32	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	homepage.mac.com-ryandcole.warc.gz	4920
+ryandcole	public.me.com	2012-04-09 11:46:24	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	public.me.com-ryandcole.warc.gz	3726233068
+ryandcole	web.me.com	2012-04-09 10:20:25	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	web.me.com-ryandcole.warc.gz	19800823
+zeipos	gallery.me.com	2012-04-09 08:59:04	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	gallery.me.com-zeipos.warc.gz	194559077
+zeipos	homepage.mac.com	2012-04-09 08:59:05	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	homepage.mac.com-zeipos.warc.gz	4908
+zeipos	public.me.com	2012-04-09 08:53:41	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	public.me.com-zeipos.warc.gz	1921
+zeipos	web.me.com	2012-04-09 08:53:41	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5466.tar	web.me.com-zeipos.warc.gz	15331310

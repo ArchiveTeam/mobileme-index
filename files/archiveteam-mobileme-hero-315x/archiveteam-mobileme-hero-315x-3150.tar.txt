@@ -1,16 +1,16 @@
-beastmen	gallery.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	gallery.me.com-beastmen.warc.gz	0
-beastmen	homepage.mac.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	homepage.mac.com-beastmen.warc.gz	0
-beastmen	public.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	public.me.com-beastmen.warc.gz	0
-beastmen	web.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	web.me.com-beastmen.warc.gz	0
-hkloiber	gallery.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	gallery.me.com-hkloiber.warc.gz	0
-hkloiber	homepage.mac.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	homepage.mac.com-hkloiber.warc.gz	0
-hkloiber	public.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	public.me.com-hkloiber.warc.gz	0
-hkloiber	web.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	web.me.com-hkloiber.warc.gz	0
-littell88	gallery.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	gallery.me.com-littell88.warc.gz	0
-littell88	homepage.mac.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	homepage.mac.com-littell88.warc.gz	0
-littell88	public.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	public.me.com-littell88.warc.gz	0
-littell88	web.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	web.me.com-littell88.warc.gz	0
-neens	gallery.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	gallery.me.com-neens.warc.gz	0
-neens	homepage.mac.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	homepage.mac.com-neens.warc.gz	0
-neens	public.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	public.me.com-neens.warc.gz	0
-neens	web.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	web.me.com-neens.warc.gz	0
+beastmen	gallery.me.com	2012-04-02 20:11:27	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	gallery.me.com-beastmen.warc.gz	186067415
+beastmen	homepage.mac.com	2012-04-02 20:11:27	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	homepage.mac.com-beastmen.warc.gz	4886
+beastmen	public.me.com	2012-04-02 20:07:47	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	public.me.com-beastmen.warc.gz	394705616
+beastmen	web.me.com	2012-04-02 19:46:59	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	web.me.com-beastmen.warc.gz	60527449
+hkloiber	gallery.me.com	2012-04-02 20:15:44	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	gallery.me.com-hkloiber.warc.gz	5026
+hkloiber	homepage.mac.com	2012-04-02 20:15:44	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	homepage.mac.com-hkloiber.warc.gz	4920
+hkloiber	public.me.com	2012-04-02 20:15:38	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	public.me.com-hkloiber.warc.gz	1916
+hkloiber	web.me.com	2012-04-02 20:15:38	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	web.me.com-hkloiber.warc.gz	2058968
+littell88	gallery.me.com	2012-04-03 00:19:17	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	gallery.me.com-littell88.warc.gz	3276309192
+littell88	homepage.mac.com	2012-04-03 00:19:22	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	homepage.mac.com-littell88.warc.gz	85655
+littell88	public.me.com	2012-04-02 21:54:14	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	public.me.com-littell88.warc.gz	108637991
+littell88	web.me.com	2012-04-02 21:47:42	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	web.me.com-littell88.warc.gz	184162250
+neens	gallery.me.com	2012-04-02 20:35:20	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	gallery.me.com-neens.warc.gz	4314
+neens	homepage.mac.com	2012-04-02 20:35:23	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	homepage.mac.com-neens.warc.gz	41219
+neens	public.me.com	2012-04-02 20:35:18	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	public.me.com-neens.warc.gz	1909
+neens	web.me.com	2012-04-02 20:35:18	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3150.tar	web.me.com-neens.warc.gz	57225246

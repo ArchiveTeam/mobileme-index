@@ -1,20 +1,20 @@
-aryn.kelly	gallery.me.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	gallery.me.com-aryn.kelly.warc.gz	0
-aryn.kelly	homepage.mac.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	homepage.mac.com-aryn.kelly.warc.gz	0
-aryn.kelly	public.me.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	public.me.com-aryn.kelly.warc.gz	0
-aryn.kelly	web.me.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	web.me.com-aryn.kelly.warc.gz	0
-goga2	gallery.me.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	gallery.me.com-goga2.warc.gz	0
-goga2	homepage.mac.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	homepage.mac.com-goga2.warc.gz	0
-goga2	public.me.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	public.me.com-goga2.warc.gz	0
-goga2	web.me.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	web.me.com-goga2.warc.gz	0
-hansleeflang	gallery.me.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	gallery.me.com-hansleeflang.warc.gz	0
-hansleeflang	homepage.mac.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	homepage.mac.com-hansleeflang.warc.gz	0
-hansleeflang	public.me.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	public.me.com-hansleeflang.warc.gz	0
-hansleeflang	web.me.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	web.me.com-hansleeflang.warc.gz	0
-james.colborn	gallery.me.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	gallery.me.com-james.colborn.warc.gz	0
-james.colborn	homepage.mac.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	homepage.mac.com-james.colborn.warc.gz	0
-james.colborn	public.me.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	public.me.com-james.colborn.warc.gz	0
-james.colborn	web.me.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	web.me.com-james.colborn.warc.gz	0
-rul	gallery.me.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	gallery.me.com-rul.warc.gz	0
-rul	homepage.mac.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	homepage.mac.com-rul.warc.gz	0
-rul	public.me.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	public.me.com-rul.warc.gz	0
-rul	web.me.com		archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	web.me.com-rul.warc.gz	0
+aryn.kelly	gallery.me.com	2012-04-03 14:31:57	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	gallery.me.com-aryn.kelly.warc.gz	5185
+aryn.kelly	homepage.mac.com	2012-04-03 14:31:57	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	homepage.mac.com-aryn.kelly.warc.gz	4906
+aryn.kelly	public.me.com	2012-04-03 14:31:55	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	public.me.com-aryn.kelly.warc.gz	1920
+aryn.kelly	web.me.com	2012-04-03 14:31:51	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	web.me.com-aryn.kelly.warc.gz	180326327
+goga2	gallery.me.com	2012-04-03 12:26:31	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	gallery.me.com-goga2.warc.gz	8335
+goga2	homepage.mac.com	2012-04-03 12:26:31	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	homepage.mac.com-goga2.warc.gz	5137
+goga2	public.me.com	2012-04-03 12:26:28	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	public.me.com-goga2.warc.gz	1907
+goga2	web.me.com	2012-04-03 12:26:28	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	web.me.com-goga2.warc.gz	17637
+hansleeflang	gallery.me.com	2012-04-03 16:17:38	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	gallery.me.com-hansleeflang.warc.gz	2092474251
+hansleeflang	homepage.mac.com	2012-04-03 16:17:42	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	homepage.mac.com-hansleeflang.warc.gz	36920
+hansleeflang	public.me.com	2012-04-03 15:39:58	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	public.me.com-hansleeflang.warc.gz	1928
+hansleeflang	web.me.com	2012-04-03 15:39:57	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	web.me.com-hansleeflang.warc.gz	2099258642
+james.colborn	gallery.me.com	2012-04-03 13:51:04	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	gallery.me.com-james.colborn.warc.gz	137399991
+james.colborn	homepage.mac.com	2012-04-03 13:51:04	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	homepage.mac.com-james.colborn.warc.gz	6054
+james.colborn	public.me.com	2012-04-03 13:46:59	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	public.me.com-james.colborn.warc.gz	339845460
+james.colborn	web.me.com	2012-04-03 13:34:47	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	web.me.com-james.colborn.warc.gz	636264763
+rul	gallery.me.com	2012-04-03 12:31:20	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	gallery.me.com-rul.warc.gz	4985
+rul	homepage.mac.com	2012-04-03 12:31:21	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	homepage.mac.com-rul.warc.gz	7834
+rul	public.me.com	2012-04-03 12:31:19	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	public.me.com-rul.warc.gz	17194
+rul	web.me.com	2012-04-03 12:31:17	archiveteam-mobileme-hero-349x	archiveteam-mobileme-hero-349x-3490.tar	web.me.com-rul.warc.gz	3650014

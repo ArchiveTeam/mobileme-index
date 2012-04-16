@@ -1,28 +1,28 @@
-artslfa	gallery.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	gallery.me.com-artslfa.warc.gz	0
-artslfa	homepage.mac.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	homepage.mac.com-artslfa.warc.gz	0
-artslfa	public.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	public.me.com-artslfa.warc.gz	0
-artslfa	web.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	web.me.com-artslfa.warc.gz	0
-davidrhwatson	gallery.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	gallery.me.com-davidrhwatson.warc.gz	0
-davidrhwatson	homepage.mac.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	homepage.mac.com-davidrhwatson.warc.gz	0
-davidrhwatson	public.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	public.me.com-davidrhwatson.warc.gz	0
-davidrhwatson	web.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	web.me.com-davidrhwatson.warc.gz	0
-dfs.archi	gallery.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	gallery.me.com-dfs.archi.warc.gz	0
-dfs.archi	homepage.mac.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	homepage.mac.com-dfs.archi.warc.gz	0
-dfs.archi	public.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	public.me.com-dfs.archi.warc.gz	0
-dfs.archi	web.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	web.me.com-dfs.archi.warc.gz	0
-gelfling	gallery.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	gallery.me.com-gelfling.warc.gz	0
-gelfling	homepage.mac.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	homepage.mac.com-gelfling.warc.gz	0
-gelfling	public.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	public.me.com-gelfling.warc.gz	0
-gelfling	web.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	web.me.com-gelfling.warc.gz	0
-jschierstedt	gallery.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	gallery.me.com-jschierstedt.warc.gz	0
-jschierstedt	homepage.mac.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	homepage.mac.com-jschierstedt.warc.gz	0
-jschierstedt	public.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	public.me.com-jschierstedt.warc.gz	0
-jschierstedt	web.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	web.me.com-jschierstedt.warc.gz	0
-qawah	gallery.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	gallery.me.com-qawah.warc.gz	0
-qawah	homepage.mac.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	homepage.mac.com-qawah.warc.gz	0
-qawah	public.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	public.me.com-qawah.warc.gz	0
-qawah	web.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	web.me.com-qawah.warc.gz	0
-ryanlayne	gallery.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	gallery.me.com-ryanlayne.warc.gz	0
-ryanlayne	homepage.mac.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	homepage.mac.com-ryanlayne.warc.gz	0
-ryanlayne	public.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	public.me.com-ryanlayne.warc.gz	0
-ryanlayne	web.me.com		archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	web.me.com-ryanlayne.warc.gz	0
+artslfa	gallery.me.com	2012-04-13 10:56:58	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	gallery.me.com-artslfa.warc.gz	161123986
+artslfa	homepage.mac.com	2012-04-13 10:56:59	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	homepage.mac.com-artslfa.warc.gz	4905
+artslfa	public.me.com	2012-04-13 10:53:18	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	public.me.com-artslfa.warc.gz	1917
+artslfa	web.me.com	2012-04-13 10:53:17	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	web.me.com-artslfa.warc.gz	34099158
+davidrhwatson	gallery.me.com	2012-04-13 12:04:53	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	gallery.me.com-davidrhwatson.warc.gz	6536
+davidrhwatson	homepage.mac.com	2012-04-13 12:05:54	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	homepage.mac.com-davidrhwatson.warc.gz	760613
+davidrhwatson	public.me.com	2012-04-13 12:04:52	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	public.me.com-davidrhwatson.warc.gz	3344
+davidrhwatson	web.me.com	2012-04-13 12:04:51	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	web.me.com-davidrhwatson.warc.gz	7806147
+dfs.archi	gallery.me.com	2012-04-13 11:30:57	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	gallery.me.com-dfs.archi.warc.gz	23019070
+dfs.archi	homepage.mac.com	2012-04-13 11:30:59	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	homepage.mac.com-dfs.archi.warc.gz	36823
+dfs.archi	public.me.com	2012-04-13 11:30:07	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	public.me.com-dfs.archi.warc.gz	1917
+dfs.archi	web.me.com	2012-04-13 11:30:06	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	web.me.com-dfs.archi.warc.gz	252010311
+gelfling	gallery.me.com	2012-04-13 11:31:58	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	gallery.me.com-gelfling.warc.gz	22260584
+gelfling	homepage.mac.com	2012-04-13 11:31:58	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	homepage.mac.com-gelfling.warc.gz	4926
+gelfling	public.me.com	2012-04-13 11:31:34	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	public.me.com-gelfling.warc.gz	13833297
+gelfling	web.me.com	2012-04-13 11:31:05	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	web.me.com-gelfling.warc.gz	270666
+jschierstedt	gallery.me.com	2012-04-13 12:02:48	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	gallery.me.com-jschierstedt.warc.gz	1295349747
+jschierstedt	homepage.mac.com	2012-04-13 12:02:48	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	homepage.mac.com-jschierstedt.warc.gz	4909
+jschierstedt	public.me.com	2012-04-13 11:47:30	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	public.me.com-jschierstedt.warc.gz	1926
+jschierstedt	web.me.com	2012-04-13 11:47:29	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	web.me.com-jschierstedt.warc.gz	514155677
+qawah	gallery.me.com	2012-04-13 11:00:00	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	gallery.me.com-qawah.warc.gz	371419279
+qawah	homepage.mac.com	2012-04-13 11:00:03	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	homepage.mac.com-qawah.warc.gz	4888
+qawah	public.me.com	2012-04-13 10:57:31	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	public.me.com-qawah.warc.gz	1921
+qawah	web.me.com	2012-04-13 10:57:31	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	web.me.com-qawah.warc.gz	23094892
+ryanlayne	gallery.me.com	2012-04-13 12:53:55	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	gallery.me.com-ryanlayne.warc.gz	1649409446
+ryanlayne	homepage.mac.com	2012-04-13 12:53:55	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	homepage.mac.com-ryanlayne.warc.gz	4906
+ryanlayne	public.me.com	2012-04-13 12:27:19	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	public.me.com-ryanlayne.warc.gz	1927
+ryanlayne	web.me.com	2012-04-13 12:27:18	archiveteam-mobileme-hero-731x	archiveteam-mobileme-hero-731x-7313.tar	web.me.com-ryanlayne.warc.gz	514222333

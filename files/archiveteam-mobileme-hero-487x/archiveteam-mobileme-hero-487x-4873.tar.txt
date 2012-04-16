@@ -1,16 +1,16 @@
-envec	gallery.me.com		archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	gallery.me.com-envec.warc.gz	0
-envec	homepage.mac.com		archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	homepage.mac.com-envec.warc.gz	0
-envec	public.me.com		archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	public.me.com-envec.warc.gz	0
-envec	web.me.com		archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	web.me.com-envec.warc.gz	0
-lmcdonald	gallery.me.com		archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	gallery.me.com-lmcdonald.warc.gz	0
-lmcdonald	homepage.mac.com		archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	homepage.mac.com-lmcdonald.warc.gz	0
-lmcdonald	public.me.com		archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	public.me.com-lmcdonald.warc.gz	0
-lmcdonald	web.me.com		archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	web.me.com-lmcdonald.warc.gz	0
-lornarosesimpson	gallery.me.com		archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	gallery.me.com-lornarosesimpson.warc.gz	0
-lornarosesimpson	homepage.mac.com		archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	homepage.mac.com-lornarosesimpson.warc.gz	0
-lornarosesimpson	public.me.com		archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	public.me.com-lornarosesimpson.warc.gz	0
-lornarosesimpson	web.me.com		archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	web.me.com-lornarosesimpson.warc.gz	0
-miutom	gallery.me.com		archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	gallery.me.com-miutom.warc.gz	0
-miutom	homepage.mac.com		archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	homepage.mac.com-miutom.warc.gz	0
-miutom	public.me.com		archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	public.me.com-miutom.warc.gz	0
-miutom	web.me.com		archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	web.me.com-miutom.warc.gz	0
+envec	gallery.me.com	2012-04-07 06:42:20	archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	gallery.me.com-envec.warc.gz	4289
+envec	homepage.mac.com	2012-04-07 06:42:29	archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	homepage.mac.com-envec.warc.gz	100625
+envec	public.me.com	2012-04-07 06:42:19	archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	public.me.com-envec.warc.gz	1902
+envec	web.me.com	2012-04-07 06:42:19	archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	web.me.com-envec.warc.gz	8012459
+lmcdonald	gallery.me.com	2012-04-07 10:04:26	archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	gallery.me.com-lmcdonald.warc.gz	4069138123
+lmcdonald	homepage.mac.com	2012-04-07 10:04:26	archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	homepage.mac.com-lmcdonald.warc.gz	4916
+lmcdonald	public.me.com	2012-04-07 08:34:31	archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	public.me.com-lmcdonald.warc.gz	1913
+lmcdonald	web.me.com	2012-04-07 08:34:29	archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	web.me.com-lmcdonald.warc.gz	926878398
+lornarosesimpson	gallery.me.com	2012-04-07 05:56:55	archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	gallery.me.com-lornarosesimpson.warc.gz	5717
+lornarosesimpson	homepage.mac.com	2012-04-07 05:56:55	archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	homepage.mac.com-lornarosesimpson.warc.gz	4923
+lornarosesimpson	public.me.com	2012-04-07 05:56:54	archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	public.me.com-lornarosesimpson.warc.gz	1929
+lornarosesimpson	web.me.com	2012-04-07 05:56:53	archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	web.me.com-lornarosesimpson.warc.gz	642698
+miutom	gallery.me.com	2012-04-07 06:40:13	archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	gallery.me.com-miutom.warc.gz	4260
+miutom	homepage.mac.com	2012-04-07 06:40:13	archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	homepage.mac.com-miutom.warc.gz	4903
+miutom	public.me.com	2012-04-07 06:40:12	archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	public.me.com-miutom.warc.gz	1909
+miutom	web.me.com	2012-04-07 06:40:12	archiveteam-mobileme-hero-487x	archiveteam-mobileme-hero-487x-4873.tar	web.me.com-miutom.warc.gz	157579138

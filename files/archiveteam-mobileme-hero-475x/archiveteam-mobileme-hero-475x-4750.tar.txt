@@ -1,24 +1,24 @@
-billverg	gallery.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	gallery.me.com-billverg.warc.gz	0
-billverg	homepage.mac.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	homepage.mac.com-billverg.warc.gz	0
-billverg	public.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	public.me.com-billverg.warc.gz	0
-billverg	web.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	web.me.com-billverg.warc.gz	0
-brady	gallery.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	gallery.me.com-brady.warc.gz	0
-brady	homepage.mac.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	homepage.mac.com-brady.warc.gz	0
-brady	public.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	public.me.com-brady.warc.gz	0
-brady	web.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	web.me.com-brady.warc.gz	0
-courterphoto	gallery.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	gallery.me.com-courterphoto.warc.gz	0
-courterphoto	homepage.mac.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	homepage.mac.com-courterphoto.warc.gz	0
-courterphoto	public.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	public.me.com-courterphoto.warc.gz	0
-courterphoto	web.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	web.me.com-courterphoto.warc.gz	0
-jollybgood	gallery.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	gallery.me.com-jollybgood.warc.gz	0
-jollybgood	homepage.mac.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	homepage.mac.com-jollybgood.warc.gz	0
-jollybgood	public.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	public.me.com-jollybgood.warc.gz	0
-jollybgood	web.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	web.me.com-jollybgood.warc.gz	0
-kathryn_dixon	gallery.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	gallery.me.com-kathryn_dixon.warc.gz	0
-kathryn_dixon	homepage.mac.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	homepage.mac.com-kathryn_dixon.warc.gz	0
-kathryn_dixon	public.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	public.me.com-kathryn_dixon.warc.gz	0
-kathryn_dixon	web.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	web.me.com-kathryn_dixon.warc.gz	0
-schimko	gallery.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	gallery.me.com-schimko.warc.gz	0
-schimko	homepage.mac.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	homepage.mac.com-schimko.warc.gz	0
-schimko	public.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	public.me.com-schimko.warc.gz	0
-schimko	web.me.com		archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	web.me.com-schimko.warc.gz	0
+billverg	gallery.me.com	2012-04-06 16:18:05	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	gallery.me.com-billverg.warc.gz	4971
+billverg	homepage.mac.com	2012-04-06 16:18:05	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	homepage.mac.com-billverg.warc.gz	4919
+billverg	public.me.com	2012-04-06 16:18:03	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	public.me.com-billverg.warc.gz	1915
+billverg	web.me.com	2012-04-06 16:18:03	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	web.me.com-billverg.warc.gz	115590624
+brady	gallery.me.com	2012-04-06 17:01:19	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	gallery.me.com-brady.warc.gz	247687383
+brady	homepage.mac.com	2012-04-06 17:01:37	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	homepage.mac.com-brady.warc.gz	202788
+brady	public.me.com	2012-04-06 16:59:48	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	public.me.com-brady.warc.gz	1908
+brady	web.me.com	2012-04-06 16:59:48	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	web.me.com-brady.warc.gz	14670640
+courterphoto	gallery.me.com	2012-04-06 17:10:23	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	gallery.me.com-courterphoto.warc.gz	188183566
+courterphoto	homepage.mac.com	2012-04-06 17:10:49	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	homepage.mac.com-courterphoto.warc.gz	1905739
+courterphoto	public.me.com	2012-04-06 17:04:34	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	public.me.com-courterphoto.warc.gz	9142121
+courterphoto	web.me.com	2012-04-06 17:03:53	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	web.me.com-courterphoto.warc.gz	5212130
+jollybgood	gallery.me.com	2012-04-06 17:31:48	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	gallery.me.com-jollybgood.warc.gz	459801006
+jollybgood	homepage.mac.com	2012-04-06 17:31:52	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	homepage.mac.com-jollybgood.warc.gz	84262
+jollybgood	public.me.com	2012-04-06 17:24:34	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	public.me.com-jollybgood.warc.gz	1920
+jollybgood	web.me.com	2012-04-06 17:24:34	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	web.me.com-jollybgood.warc.gz	81701821
+kathryn_dixon	gallery.me.com	2012-04-06 17:14:24	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	gallery.me.com-kathryn_dixon.warc.gz	11329679
+kathryn_dixon	homepage.mac.com	2012-04-06 17:14:24	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	homepage.mac.com-kathryn_dixon.warc.gz	4934
+kathryn_dixon	public.me.com	2012-04-06 17:14:19	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	public.me.com-kathryn_dixon.warc.gz	1931
+kathryn_dixon	web.me.com	2012-04-06 17:14:19	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	web.me.com-kathryn_dixon.warc.gz	37329237
+schimko	gallery.me.com	2012-04-06 16:59:07	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	gallery.me.com-schimko.warc.gz	2053129479
+schimko	homepage.mac.com	2012-04-06 16:59:07	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	homepage.mac.com-schimko.warc.gz	4903
+schimko	public.me.com	2012-04-06 16:38:04	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	public.me.com-schimko.warc.gz	1050533176
+schimko	web.me.com	2012-04-06 16:20:07	archiveteam-mobileme-hero-475x	archiveteam-mobileme-hero-475x-4750.tar	web.me.com-schimko.warc.gz	5293176

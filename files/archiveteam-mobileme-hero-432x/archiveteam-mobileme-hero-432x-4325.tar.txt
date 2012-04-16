@@ -1,16 +1,16 @@
-bassbat	gallery.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	gallery.me.com-bassbat.warc.gz	0
-bassbat	homepage.mac.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	homepage.mac.com-bassbat.warc.gz	0
-bassbat	public.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	public.me.com-bassbat.warc.gz	0
-bassbat	web.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	web.me.com-bassbat.warc.gz	0
-daveholding	gallery.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	gallery.me.com-daveholding.warc.gz	0
-daveholding	homepage.mac.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	homepage.mac.com-daveholding.warc.gz	0
-daveholding	public.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	public.me.com-daveholding.warc.gz	0
-daveholding	web.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	web.me.com-daveholding.warc.gz	0
-dejesusacosta	gallery.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	gallery.me.com-dejesusacosta.warc.gz	0
-dejesusacosta	homepage.mac.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	homepage.mac.com-dejesusacosta.warc.gz	0
-dejesusacosta	public.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	public.me.com-dejesusacosta.warc.gz	0
-dejesusacosta	web.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	web.me.com-dejesusacosta.warc.gz	0
-josiannepelletier	gallery.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	gallery.me.com-josiannepelletier.warc.gz	0
-josiannepelletier	homepage.mac.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	homepage.mac.com-josiannepelletier.warc.gz	0
-josiannepelletier	public.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	public.me.com-josiannepelletier.warc.gz	0
-josiannepelletier	web.me.com		archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	web.me.com-josiannepelletier.warc.gz	0
+bassbat	gallery.me.com	2012-04-05 15:49:47	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	gallery.me.com-bassbat.warc.gz	377905565
+bassbat	homepage.mac.com	2012-04-05 15:49:49	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	homepage.mac.com-bassbat.warc.gz	4892
+bassbat	public.me.com	2012-04-05 15:28:16	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	public.me.com-bassbat.warc.gz	1912
+bassbat	web.me.com	2012-04-05 15:28:14	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	web.me.com-bassbat.warc.gz	456852649
+daveholding	gallery.me.com	2012-04-05 15:51:00	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	gallery.me.com-daveholding.warc.gz	6080
+daveholding	homepage.mac.com	2012-04-05 15:51:01	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	homepage.mac.com-daveholding.warc.gz	4921
+daveholding	public.me.com	2012-04-05 15:50:59	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	public.me.com-daveholding.warc.gz	1926
+daveholding	web.me.com	2012-04-05 15:50:58	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	web.me.com-daveholding.warc.gz	2480151
+dejesusacosta	gallery.me.com	2012-04-05 17:50:16	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	gallery.me.com-dejesusacosta.warc.gz	2437640349
+dejesusacosta	homepage.mac.com	2012-04-05 17:50:16	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	homepage.mac.com-dejesusacosta.warc.gz	4933
+dejesusacosta	public.me.com	2012-04-05 16:39:19	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	public.me.com-dejesusacosta.warc.gz	1929
+dejesusacosta	web.me.com	2012-04-05 16:39:18	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	web.me.com-dejesusacosta.warc.gz	221248931
+josiannepelletier	gallery.me.com	2012-04-05 14:04:42	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	gallery.me.com-josiannepelletier.warc.gz	226870683
+josiannepelletier	homepage.mac.com	2012-04-05 14:04:50	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	homepage.mac.com-josiannepelletier.warc.gz	71857
+josiannepelletier	public.me.com	2012-04-05 13:59:04	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	public.me.com-josiannepelletier.warc.gz	1102141632
+josiannepelletier	web.me.com	2012-04-05 12:53:05	archiveteam-mobileme-hero-432x	archiveteam-mobileme-hero-432x-4325.tar	web.me.com-josiannepelletier.warc.gz	133128993

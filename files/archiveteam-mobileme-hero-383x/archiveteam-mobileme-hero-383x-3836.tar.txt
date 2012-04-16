@@ -1,16 +1,16 @@
-fiyastarta	gallery.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	gallery.me.com-fiyastarta.warc.gz	0
-fiyastarta	homepage.mac.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	homepage.mac.com-fiyastarta.warc.gz	0
-fiyastarta	public.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	public.me.com-fiyastarta.warc.gz	0
-fiyastarta	web.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	web.me.com-fiyastarta.warc.gz	0
-jimbeaver	gallery.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	gallery.me.com-jimbeaver.warc.gz	0
-jimbeaver	homepage.mac.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	homepage.mac.com-jimbeaver.warc.gz	0
-jimbeaver	public.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	public.me.com-jimbeaver.warc.gz	0
-jimbeaver	web.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	web.me.com-jimbeaver.warc.gz	0
-mariana_tomass	gallery.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	gallery.me.com-mariana_tomass.warc.gz	0
-mariana_tomass	homepage.mac.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	homepage.mac.com-mariana_tomass.warc.gz	0
-mariana_tomass	public.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	public.me.com-mariana_tomass.warc.gz	0
-mariana_tomass	web.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	web.me.com-mariana_tomass.warc.gz	0
-mlv	gallery.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	gallery.me.com-mlv.warc.gz	0
-mlv	homepage.mac.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	homepage.mac.com-mlv.warc.gz	0
-mlv	public.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	public.me.com-mlv.warc.gz	0
-mlv	web.me.com		archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	web.me.com-mlv.warc.gz	0
+fiyastarta	gallery.me.com	2012-04-04 14:48:25	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	gallery.me.com-fiyastarta.warc.gz	27076295
+fiyastarta	homepage.mac.com	2012-04-04 14:48:26	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	homepage.mac.com-fiyastarta.warc.gz	4935
+fiyastarta	public.me.com	2012-04-04 14:48:12	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	public.me.com-fiyastarta.warc.gz	1914
+fiyastarta	web.me.com	2012-04-04 14:48:11	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	web.me.com-fiyastarta.warc.gz	2009402029
+jimbeaver	gallery.me.com	2012-04-04 13:26:02	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	gallery.me.com-jimbeaver.warc.gz	5049
+jimbeaver	homepage.mac.com	2012-04-04 13:26:07	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	homepage.mac.com-jimbeaver.warc.gz	84320
+jimbeaver	public.me.com	2012-04-04 13:26:00	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	public.me.com-jimbeaver.warc.gz	1474629538
+jimbeaver	web.me.com	2012-04-04 12:25:28	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	web.me.com-jimbeaver.warc.gz	36936478
+mariana_tomass	gallery.me.com	2012-04-04 12:19:33	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	gallery.me.com-mariana_tomass.warc.gz	857950342
+mariana_tomass	homepage.mac.com	2012-04-04 12:19:33	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	homepage.mac.com-mariana_tomass.warc.gz	4931
+mariana_tomass	public.me.com	2012-04-04 12:04:23	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	public.me.com-mariana_tomass.warc.gz	853676303
+mariana_tomass	web.me.com	2012-04-04 11:46:43	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	web.me.com-mariana_tomass.warc.gz	458282256
+mlv	gallery.me.com	2012-04-04 12:19:42	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	gallery.me.com-mlv.warc.gz	5378
+mlv	homepage.mac.com	2012-04-04 12:19:43	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	homepage.mac.com-mlv.warc.gz	6008
+mlv	public.me.com	2012-04-04 12:19:41	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	public.me.com-mlv.warc.gz	3474
+mlv	web.me.com	2012-04-04 12:19:40	archiveteam-mobileme-hero-383x	archiveteam-mobileme-hero-383x-3836.tar	web.me.com-mlv.warc.gz	48131

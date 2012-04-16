@@ -1,20 +1,20 @@
-dougrutan	gallery.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	gallery.me.com-dougrutan.warc.gz	0
-dougrutan	homepage.mac.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	homepage.mac.com-dougrutan.warc.gz	0
-dougrutan	public.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	public.me.com-dougrutan.warc.gz	0
-dougrutan	web.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	web.me.com-dougrutan.warc.gz	0
-klebed	gallery.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	gallery.me.com-klebed.warc.gz	0
-klebed	homepage.mac.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	homepage.mac.com-klebed.warc.gz	0
-klebed	public.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	public.me.com-klebed.warc.gz	0
-klebed	web.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	web.me.com-klebed.warc.gz	0
-midtdal	gallery.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	gallery.me.com-midtdal.warc.gz	0
-midtdal	homepage.mac.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	homepage.mac.com-midtdal.warc.gz	0
-midtdal	public.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	public.me.com-midtdal.warc.gz	0
-midtdal	web.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	web.me.com-midtdal.warc.gz	0
-wbooth	gallery.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	gallery.me.com-wbooth.warc.gz	0
-wbooth	homepage.mac.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	homepage.mac.com-wbooth.warc.gz	0
-wbooth	public.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	public.me.com-wbooth.warc.gz	0
-wbooth	web.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	web.me.com-wbooth.warc.gz	0
-zaplockservices	gallery.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	gallery.me.com-zaplockservices.warc.gz	0
-zaplockservices	homepage.mac.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	homepage.mac.com-zaplockservices.warc.gz	0
-zaplockservices	public.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	public.me.com-zaplockservices.warc.gz	0
-zaplockservices	web.me.com		archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	web.me.com-zaplockservices.warc.gz	0
+dougrutan	gallery.me.com	2012-04-02 03:19:14	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	gallery.me.com-dougrutan.warc.gz	2598753217
+dougrutan	homepage.mac.com	2012-04-02 03:19:15	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	homepage.mac.com-dougrutan.warc.gz	4901
+dougrutan	public.me.com	2012-04-02 02:20:52	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	public.me.com-dougrutan.warc.gz	1939369883
+dougrutan	web.me.com	2012-04-02 01:58:14	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	web.me.com-dougrutan.warc.gz	689538841
+klebed	gallery.me.com	2012-04-02 00:59:15	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	gallery.me.com-klebed.warc.gz	5648
+klebed	homepage.mac.com	2012-04-02 00:59:15	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	homepage.mac.com-klebed.warc.gz	4907
+klebed	public.me.com	2012-04-02 00:59:15	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	public.me.com-klebed.warc.gz	1918
+klebed	web.me.com	2012-04-02 00:59:15	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	web.me.com-klebed.warc.gz	161624
+midtdal	gallery.me.com	2012-04-01 18:06:32	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	gallery.me.com-midtdal.warc.gz	5000
+midtdal	homepage.mac.com	2012-04-01 18:06:53	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	homepage.mac.com-midtdal.warc.gz	2098080
+midtdal	public.me.com	2012-04-01 18:06:31	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	public.me.com-midtdal.warc.gz	1911
+midtdal	web.me.com	2012-04-01 18:06:31	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	web.me.com-midtdal.warc.gz	17523349
+wbooth	gallery.me.com	2012-04-02 00:59:08	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	gallery.me.com-wbooth.warc.gz	439740073
+wbooth	homepage.mac.com	2012-04-02 00:59:08	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	homepage.mac.com-wbooth.warc.gz	24120
+wbooth	public.me.com	2012-04-02 00:48:27	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	public.me.com-wbooth.warc.gz	581102330
+wbooth	web.me.com	2012-04-02 00:40:20	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	web.me.com-wbooth.warc.gz	1161902267
+zaplockservices	gallery.me.com	2012-04-01 18:06:54	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	gallery.me.com-zaplockservices.warc.gz	12339
+zaplockservices	homepage.mac.com	2012-04-01 18:06:55	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	homepage.mac.com-zaplockservices.warc.gz	7160
+zaplockservices	public.me.com	2012-04-01 18:06:54	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	public.me.com-zaplockservices.warc.gz	1926
+zaplockservices	web.me.com	2012-04-01 18:06:54	archiveteam-mobileme-hero-280x	archiveteam-mobileme-hero-280x-2808.tar	web.me.com-zaplockservices.warc.gz	22522

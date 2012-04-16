@@ -1,8 +1,8 @@
-tbrisson	gallery.me.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4521.tar	gallery.me.com-tbrisson.warc.gz	0
-tbrisson	homepage.mac.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4521.tar	homepage.mac.com-tbrisson.warc.gz	0
-tbrisson	public.me.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4521.tar	public.me.com-tbrisson.warc.gz	0
-tbrisson	web.me.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4521.tar	web.me.com-tbrisson.warc.gz	0
-tgregory15	gallery.me.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4521.tar	gallery.me.com-tgregory15.warc.gz	0
-tgregory15	homepage.mac.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4521.tar	homepage.mac.com-tgregory15.warc.gz	0
-tgregory15	public.me.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4521.tar	public.me.com-tgregory15.warc.gz	0
-tgregory15	web.me.com		archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4521.tar	web.me.com-tgregory15.warc.gz	0
+tbrisson	gallery.me.com	2012-04-06 05:16:06	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4521.tar	gallery.me.com-tbrisson.warc.gz	1174274738
+tbrisson	homepage.mac.com	2012-04-06 05:16:07	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4521.tar	homepage.mac.com-tbrisson.warc.gz	7791
+tbrisson	public.me.com	2012-04-06 04:02:08	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4521.tar	public.me.com-tbrisson.warc.gz	1022137266
+tbrisson	web.me.com	2012-04-06 03:21:08	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4521.tar	web.me.com-tbrisson.warc.gz	143446548
+tgregory15	gallery.me.com	2012-04-06 02:52:08	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4521.tar	gallery.me.com-tgregory15.warc.gz	4260
+tgregory15	homepage.mac.com	2012-04-06 02:52:09	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4521.tar	homepage.mac.com-tgregory15.warc.gz	4902
+tgregory15	public.me.com	2012-04-06 02:52:07	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4521.tar	public.me.com-tgregory15.warc.gz	1924
+tgregory15	web.me.com	2012-04-06 02:52:06	archiveteam-mobileme-hero-452x	archiveteam-mobileme-hero-452x-4521.tar	web.me.com-tgregory15.warc.gz	2431675425

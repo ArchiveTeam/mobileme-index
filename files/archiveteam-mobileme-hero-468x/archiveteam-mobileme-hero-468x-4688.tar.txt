@@ -1,8 +1,8 @@
-lmauck	gallery.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4688.tar	gallery.me.com-lmauck.warc.gz	0
-lmauck	homepage.mac.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4688.tar	homepage.mac.com-lmauck.warc.gz	0
-lmauck	public.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4688.tar	public.me.com-lmauck.warc.gz	0
-lmauck	web.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4688.tar	web.me.com-lmauck.warc.gz	0
-tsmithband	gallery.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4688.tar	gallery.me.com-tsmithband.warc.gz	0
-tsmithband	homepage.mac.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4688.tar	homepage.mac.com-tsmithband.warc.gz	0
-tsmithband	public.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4688.tar	public.me.com-tsmithband.warc.gz	0
-tsmithband	web.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4688.tar	web.me.com-tsmithband.warc.gz	0
+lmauck	gallery.me.com	2012-04-06 13:08:08	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4688.tar	gallery.me.com-lmauck.warc.gz	69846685
+lmauck	homepage.mac.com	2012-04-06 13:08:08	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4688.tar	homepage.mac.com-lmauck.warc.gz	4879
+lmauck	public.me.com	2012-04-06 13:07:13	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4688.tar	public.me.com-lmauck.warc.gz	1915
+lmauck	web.me.com	2012-04-06 13:07:12	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4688.tar	web.me.com-lmauck.warc.gz	513910108
+tsmithband	gallery.me.com	2012-04-06 13:48:47	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4688.tar	gallery.me.com-tsmithband.warc.gz	3677437927
+tsmithband	homepage.mac.com	2012-04-06 13:48:47	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4688.tar	homepage.mac.com-tsmithband.warc.gz	4910
+tsmithband	public.me.com	2012-04-06 13:13:43	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4688.tar	public.me.com-tsmithband.warc.gz	1912
+tsmithband	web.me.com	2012-04-06 13:13:43	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4688.tar	web.me.com-tsmithband.warc.gz	57436280

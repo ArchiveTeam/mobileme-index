@@ -1,12 +1,12 @@
-jasminerodriguez2	gallery.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	gallery.me.com-jasminerodriguez2.warc.gz	0
-jasminerodriguez2	homepage.mac.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	homepage.mac.com-jasminerodriguez2.warc.gz	0
-jasminerodriguez2	public.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	public.me.com-jasminerodriguez2.warc.gz	0
-jasminerodriguez2	web.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	web.me.com-jasminerodriguez2.warc.gz	0
-malibukaren	gallery.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	gallery.me.com-malibukaren.warc.gz	0
-malibukaren	homepage.mac.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	homepage.mac.com-malibukaren.warc.gz	0
-malibukaren	public.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	public.me.com-malibukaren.warc.gz	0
-malibukaren	web.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	web.me.com-malibukaren.warc.gz	0
-radam	gallery.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	gallery.me.com-radam.warc.gz	0
-radam	homepage.mac.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	homepage.mac.com-radam.warc.gz	0
-radam	public.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	public.me.com-radam.warc.gz	0
-radam	web.me.com		archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	web.me.com-radam.warc.gz	0
+jasminerodriguez2	gallery.me.com	2012-04-04 02:49:40	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	gallery.me.com-jasminerodriguez2.warc.gz	129529170
+jasminerodriguez2	homepage.mac.com	2012-04-04 02:49:40	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	homepage.mac.com-jasminerodriguez2.warc.gz	4939
+jasminerodriguez2	public.me.com	2012-04-04 02:47:56	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	public.me.com-jasminerodriguez2.warc.gz	1936
+jasminerodriguez2	web.me.com	2012-04-04 02:47:54	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	web.me.com-jasminerodriguez2.warc.gz	2167792891
+malibukaren	gallery.me.com	2012-04-04 02:13:56	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	gallery.me.com-malibukaren.warc.gz	149062931
+malibukaren	homepage.mac.com	2012-04-04 02:13:56	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	homepage.mac.com-malibukaren.warc.gz	4927
+malibukaren	public.me.com	2012-04-04 02:12:03	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	public.me.com-malibukaren.warc.gz	1925
+malibukaren	web.me.com	2012-04-04 02:12:03	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	web.me.com-malibukaren.warc.gz	61980984
+radam	gallery.me.com	2012-04-04 03:48:41	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	gallery.me.com-radam.warc.gz	662338926
+radam	homepage.mac.com	2012-04-04 03:48:56	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	homepage.mac.com-radam.warc.gz	234193
+radam	public.me.com	2012-04-04 03:39:00	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	public.me.com-radam.warc.gz	234939
+radam	web.me.com	2012-04-04 03:38:47	archiveteam-mobileme-hero-365x	archiveteam-mobileme-hero-365x-3651.tar	web.me.com-radam.warc.gz	1438833149

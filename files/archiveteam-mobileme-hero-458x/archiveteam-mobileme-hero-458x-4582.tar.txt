@@ -1,12 +1,12 @@
-bfred1	gallery.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	gallery.me.com-bfred1.warc.gz	0
-bfred1	homepage.mac.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	homepage.mac.com-bfred1.warc.gz	0
-bfred1	public.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	public.me.com-bfred1.warc.gz	0
-bfred1	web.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	web.me.com-bfred1.warc.gz	0
-dpogni	gallery.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	gallery.me.com-dpogni.warc.gz	0
-dpogni	homepage.mac.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	homepage.mac.com-dpogni.warc.gz	0
-dpogni	public.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	public.me.com-dpogni.warc.gz	0
-dpogni	web.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	web.me.com-dpogni.warc.gz	0
-southern.cross	gallery.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	gallery.me.com-southern.cross.warc.gz	0
-southern.cross	homepage.mac.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	homepage.mac.com-southern.cross.warc.gz	0
-southern.cross	public.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	public.me.com-southern.cross.warc.gz	0
-southern.cross	web.me.com		archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	web.me.com-southern.cross.warc.gz	0
+bfred1	gallery.me.com	2012-04-06 03:30:37	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	gallery.me.com-bfred1.warc.gz	861114
+bfred1	homepage.mac.com	2012-04-06 03:30:38	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	homepage.mac.com-bfred1.warc.gz	5162
+bfred1	public.me.com	2012-04-06 03:30:31	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	public.me.com-bfred1.warc.gz	1911
+bfred1	web.me.com	2012-04-06 03:30:30	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	web.me.com-bfred1.warc.gz	14342273
+dpogni	gallery.me.com	2012-04-06 03:27:41	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	gallery.me.com-dpogni.warc.gz	20766219
+dpogni	homepage.mac.com	2012-04-06 03:27:41	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	homepage.mac.com-dpogni.warc.gz	4901
+dpogni	public.me.com	2012-04-06 03:27:13	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	public.me.com-dpogni.warc.gz	1910
+dpogni	web.me.com	2012-04-06 03:27:13	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	web.me.com-dpogni.warc.gz	1516590
+southern.cross	gallery.me.com	2012-04-06 08:00:58	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	gallery.me.com-southern.cross.warc.gz	6195249966
+southern.cross	homepage.mac.com	2012-04-06 08:00:58	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	homepage.mac.com-southern.cross.warc.gz	4939
+southern.cross	public.me.com	2012-04-06 07:03:39	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	public.me.com-southern.cross.warc.gz	1923
+southern.cross	web.me.com	2012-04-06 07:02:56	archiveteam-mobileme-hero-458x	archiveteam-mobileme-hero-458x-4582.tar	web.me.com-southern.cross.warc.gz	1824358676

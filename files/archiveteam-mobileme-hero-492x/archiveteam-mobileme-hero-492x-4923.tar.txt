@@ -1,24 +1,24 @@
-bluberries	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	gallery.me.com-bluberries.warc.gz	0
-bluberries	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	homepage.mac.com-bluberries.warc.gz	0
-bluberries	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	public.me.com-bluberries.warc.gz	0
-bluberries	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	web.me.com-bluberries.warc.gz	0
-clavoie	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	gallery.me.com-clavoie.warc.gz	0
-clavoie	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	homepage.mac.com-clavoie.warc.gz	0
-clavoie	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	public.me.com-clavoie.warc.gz	0
-clavoie	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	web.me.com-clavoie.warc.gz	0
-drmtaylor	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	gallery.me.com-drmtaylor.warc.gz	0
-drmtaylor	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	homepage.mac.com-drmtaylor.warc.gz	0
-drmtaylor	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	public.me.com-drmtaylor.warc.gz	0
-drmtaylor	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	web.me.com-drmtaylor.warc.gz	0
-juf_news	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	gallery.me.com-juf_news.warc.gz	0
-juf_news	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	homepage.mac.com-juf_news.warc.gz	0
-juf_news	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	public.me.com-juf_news.warc.gz	0
-juf_news	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	web.me.com-juf_news.warc.gz	0
-kirstydoran	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	gallery.me.com-kirstydoran.warc.gz	0
-kirstydoran	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	homepage.mac.com-kirstydoran.warc.gz	0
-kirstydoran	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	public.me.com-kirstydoran.warc.gz	0
-kirstydoran	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	web.me.com-kirstydoran.warc.gz	0
-sbahl	gallery.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	gallery.me.com-sbahl.warc.gz	0
-sbahl	homepage.mac.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	homepage.mac.com-sbahl.warc.gz	0
-sbahl	public.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	public.me.com-sbahl.warc.gz	0
-sbahl	web.me.com		archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	web.me.com-sbahl.warc.gz	0
+bluberries	gallery.me.com	2012-04-07 18:26:40	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	gallery.me.com-bluberries.warc.gz	1148949340
+bluberries	homepage.mac.com	2012-04-07 18:26:44	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	homepage.mac.com-bluberries.warc.gz	36918
+bluberries	public.me.com	2012-04-07 18:06:32	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	public.me.com-bluberries.warc.gz	1561092503
+bluberries	web.me.com	2012-04-07 16:31:22	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	web.me.com-bluberries.warc.gz	427755095
+clavoie	gallery.me.com	2012-04-07 15:45:24	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	gallery.me.com-clavoie.warc.gz	5157
+clavoie	homepage.mac.com	2012-04-07 15:45:35	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	homepage.mac.com-clavoie.warc.gz	122960
+clavoie	public.me.com	2012-04-07 15:45:22	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	public.me.com-clavoie.warc.gz	468824394
+clavoie	web.me.com	2012-04-07 14:38:25	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	web.me.com-clavoie.warc.gz	291701506
+drmtaylor	gallery.me.com	2012-04-07 13:58:49	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	gallery.me.com-drmtaylor.warc.gz	328316143
+drmtaylor	homepage.mac.com	2012-04-07 13:58:49	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	homepage.mac.com-drmtaylor.warc.gz	4898
+drmtaylor	public.me.com	2012-04-07 13:42:12	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	public.me.com-drmtaylor.warc.gz	1917
+drmtaylor	web.me.com	2012-04-07 13:42:12	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	web.me.com-drmtaylor.warc.gz	18925531
+juf_news	gallery.me.com	2012-04-07 15:45:39	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	gallery.me.com-juf_news.warc.gz	8341
+juf_news	homepage.mac.com	2012-04-07 15:45:40	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	homepage.mac.com-juf_news.warc.gz	5174
+juf_news	public.me.com	2012-04-07 15:45:38	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	public.me.com-juf_news.warc.gz	1915
+juf_news	web.me.com	2012-04-07 15:45:38	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	web.me.com-juf_news.warc.gz	17697
+kirstydoran	gallery.me.com	2012-04-07 18:43:11	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	gallery.me.com-kirstydoran.warc.gz	4250
+kirstydoran	homepage.mac.com	2012-04-07 18:43:12	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	homepage.mac.com-kirstydoran.warc.gz	4911
+kirstydoran	public.me.com	2012-04-07 18:43:10	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	public.me.com-kirstydoran.warc.gz	1928
+kirstydoran	web.me.com	2012-04-07 18:43:10	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	web.me.com-kirstydoran.warc.gz	37072907
+sbahl	gallery.me.com	2012-04-07 18:27:59	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	gallery.me.com-sbahl.warc.gz	4259
+sbahl	homepage.mac.com	2012-04-07 18:27:59	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	homepage.mac.com-sbahl.warc.gz	4908
+sbahl	public.me.com	2012-04-07 18:27:58	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	public.me.com-sbahl.warc.gz	1913
+sbahl	web.me.com	2012-04-07 18:27:57	archiveteam-mobileme-hero-492x	archiveteam-mobileme-hero-492x-4923.tar	web.me.com-sbahl.warc.gz	1023562

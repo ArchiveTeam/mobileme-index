@@ -1,8 +1,8 @@
-macdocsc	gallery.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2525.tar	gallery.me.com-macdocsc.warc.gz	0
-macdocsc	homepage.mac.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2525.tar	homepage.mac.com-macdocsc.warc.gz	0
-macdocsc	public.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2525.tar	public.me.com-macdocsc.warc.gz	0
-macdocsc	web.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2525.tar	web.me.com-macdocsc.warc.gz	0
-ylane	gallery.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2525.tar	gallery.me.com-ylane.warc.gz	0
-ylane	homepage.mac.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2525.tar	homepage.mac.com-ylane.warc.gz	0
-ylane	public.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2525.tar	public.me.com-ylane.warc.gz	0
-ylane	web.me.com		archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2525.tar	web.me.com-ylane.warc.gz	0
+macdocsc	gallery.me.com	2012-03-31 22:16:32	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2525.tar	gallery.me.com-macdocsc.warc.gz	181141143
+macdocsc	homepage.mac.com	2012-03-31 22:16:34	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2525.tar	homepage.mac.com-macdocsc.warc.gz	7827
+macdocsc	public.me.com	2012-03-31 22:03:45	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2525.tar	public.me.com-macdocsc.warc.gz	7817911813
+macdocsc	web.me.com	2012-03-31 17:02:16	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2525.tar	web.me.com-macdocsc.warc.gz	257086065
+ylane	gallery.me.com	2012-03-31 16:27:13	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2525.tar	gallery.me.com-ylane.warc.gz	1531116112
+ylane	homepage.mac.com	2012-03-31 16:27:14	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2525.tar	homepage.mac.com-ylane.warc.gz	9399
+ylane	public.me.com	2012-03-31 15:19:48	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2525.tar	public.me.com-ylane.warc.gz	3321
+ylane	web.me.com	2012-03-31 15:19:43	archiveteam-mobileme-hero-252x	archiveteam-mobileme-hero-252x-2525.tar	web.me.com-ylane.warc.gz	1115118568

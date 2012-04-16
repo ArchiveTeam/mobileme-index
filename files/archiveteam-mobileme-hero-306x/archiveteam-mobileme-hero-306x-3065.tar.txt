@@ -1,16 +1,16 @@
-gotutt2	gallery.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	gallery.me.com-gotutt2.warc.gz	0
-gotutt2	homepage.mac.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	homepage.mac.com-gotutt2.warc.gz	0
-gotutt2	public.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	public.me.com-gotutt2.warc.gz	0
-gotutt2	web.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	web.me.com-gotutt2.warc.gz	0
-johnguillaume	gallery.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	gallery.me.com-johnguillaume.warc.gz	0
-johnguillaume	homepage.mac.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	homepage.mac.com-johnguillaume.warc.gz	0
-johnguillaume	public.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	public.me.com-johnguillaume.warc.gz	0
-johnguillaume	web.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	web.me.com-johnguillaume.warc.gz	0
-rlc777	gallery.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	gallery.me.com-rlc777.warc.gz	0
-rlc777	homepage.mac.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	homepage.mac.com-rlc777.warc.gz	0
-rlc777	public.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	public.me.com-rlc777.warc.gz	0
-rlc777	web.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	web.me.com-rlc777.warc.gz	0
-uuizumi	gallery.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	gallery.me.com-uuizumi.warc.gz	0
-uuizumi	homepage.mac.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	homepage.mac.com-uuizumi.warc.gz	0
-uuizumi	public.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	public.me.com-uuizumi.warc.gz	0
-uuizumi	web.me.com		archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	web.me.com-uuizumi.warc.gz	0
+gotutt2	gallery.me.com	2012-04-02 16:28:28	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	gallery.me.com-gotutt2.warc.gz	301018085
+gotutt2	homepage.mac.com	2012-04-02 16:28:28	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	homepage.mac.com-gotutt2.warc.gz	4896
+gotutt2	public.me.com	2012-04-02 16:18:55	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	public.me.com-gotutt2.warc.gz	1909
+gotutt2	web.me.com	2012-04-02 16:18:49	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	web.me.com-gotutt2.warc.gz	500863601
+johnguillaume	gallery.me.com	2012-04-02 19:03:51	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	gallery.me.com-johnguillaume.warc.gz	4240256117
+johnguillaume	homepage.mac.com	2012-04-02 19:04:44	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	homepage.mac.com-johnguillaume.warc.gz	1209351
+johnguillaume	public.me.com	2012-04-02 17:18:30	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	public.me.com-johnguillaume.warc.gz	128112964
+johnguillaume	web.me.com	2012-04-02 17:17:00	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	web.me.com-johnguillaume.warc.gz	1003890208
+rlc777	gallery.me.com	2012-04-02 15:48:12	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	gallery.me.com-rlc777.warc.gz	26621250
+rlc777	homepage.mac.com	2012-04-02 15:48:13	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	homepage.mac.com-rlc777.warc.gz	7840
+rlc777	public.me.com	2012-04-02 15:47:51	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	public.me.com-rlc777.warc.gz	1912
+rlc777	web.me.com	2012-04-02 15:47:50	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	web.me.com-rlc777.warc.gz	124189386
+uuizumi	gallery.me.com	2012-04-02 15:48:16	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	gallery.me.com-uuizumi.warc.gz	12317
+uuizumi	homepage.mac.com	2012-04-02 15:48:16	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	homepage.mac.com-uuizumi.warc.gz	7154
+uuizumi	public.me.com	2012-04-02 15:48:15	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	public.me.com-uuizumi.warc.gz	1912
+uuizumi	web.me.com	2012-04-02 15:48:15	archiveteam-mobileme-hero-306x	archiveteam-mobileme-hero-306x-3065.tar	web.me.com-uuizumi.warc.gz	22473

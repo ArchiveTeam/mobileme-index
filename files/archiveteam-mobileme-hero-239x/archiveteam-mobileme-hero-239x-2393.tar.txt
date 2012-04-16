@@ -1,12 +1,12 @@
-flateur	gallery.me.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	gallery.me.com-flateur.warc.gz	0
-flateur	homepage.mac.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	homepage.mac.com-flateur.warc.gz	0
-flateur	public.me.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	public.me.com-flateur.warc.gz	0
-flateur	web.me.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	web.me.com-flateur.warc.gz	0
-ja_fe_almenara	gallery.me.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	gallery.me.com-ja_fe_almenara.warc.gz	0
-ja_fe_almenara	homepage.mac.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	homepage.mac.com-ja_fe_almenara.warc.gz	0
-ja_fe_almenara	public.me.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	public.me.com-ja_fe_almenara.warc.gz	0
-ja_fe_almenara	web.me.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	web.me.com-ja_fe_almenara.warc.gz	0
-stevenfischer1	gallery.me.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	gallery.me.com-stevenfischer1.warc.gz	0
-stevenfischer1	homepage.mac.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	homepage.mac.com-stevenfischer1.warc.gz	0
-stevenfischer1	public.me.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	public.me.com-stevenfischer1.warc.gz	0
-stevenfischer1	web.me.com		archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	web.me.com-stevenfischer1.warc.gz	0
+flateur	gallery.me.com	2012-03-31 09:29:15	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	gallery.me.com-flateur.warc.gz	62328387
+flateur	homepage.mac.com	2012-03-31 09:29:15	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	homepage.mac.com-flateur.warc.gz	4914
+flateur	public.me.com	2012-03-31 09:28:25	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	public.me.com-flateur.warc.gz	3374
+flateur	web.me.com	2012-03-31 09:28:24	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	web.me.com-flateur.warc.gz	20317186
+ja_fe_almenara	gallery.me.com	2012-03-31 11:52:49	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	gallery.me.com-ja_fe_almenara.warc.gz	4640502878
+ja_fe_almenara	homepage.mac.com	2012-03-31 11:52:55	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	homepage.mac.com-ja_fe_almenara.warc.gz	157021
+ja_fe_almenara	public.me.com	2012-03-31 10:48:22	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	public.me.com-ja_fe_almenara.warc.gz	13935
+ja_fe_almenara	web.me.com	2012-03-31 10:47:39	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	web.me.com-ja_fe_almenara.warc.gz	1965456625
+stevenfischer1	gallery.me.com	2012-03-31 09:34:02	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	gallery.me.com-stevenfischer1.warc.gz	8658759
+stevenfischer1	homepage.mac.com	2012-03-31 09:34:03	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	homepage.mac.com-stevenfischer1.warc.gz	4938
+stevenfischer1	public.me.com	2012-03-31 09:33:58	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	public.me.com-stevenfischer1.warc.gz	1926
+stevenfischer1	web.me.com	2012-03-31 09:33:56	archiveteam-mobileme-hero-239x	archiveteam-mobileme-hero-239x-2393.tar	web.me.com-stevenfischer1.warc.gz	61199254

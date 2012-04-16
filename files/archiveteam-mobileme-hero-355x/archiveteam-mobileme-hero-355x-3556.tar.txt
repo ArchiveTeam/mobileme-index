@@ -1,8 +1,8 @@
-mariejuliedurand	gallery.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3556.tar	gallery.me.com-mariejuliedurand.warc.gz	0
-mariejuliedurand	homepage.mac.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3556.tar	homepage.mac.com-mariejuliedurand.warc.gz	0
-mariejuliedurand	public.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3556.tar	public.me.com-mariejuliedurand.warc.gz	0
-mariejuliedurand	web.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3556.tar	web.me.com-mariejuliedurand.warc.gz	0
-meoplay	gallery.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3556.tar	gallery.me.com-meoplay.warc.gz	0
-meoplay	homepage.mac.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3556.tar	homepage.mac.com-meoplay.warc.gz	0
-meoplay	public.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3556.tar	public.me.com-meoplay.warc.gz	0
-meoplay	web.me.com		archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3556.tar	web.me.com-meoplay.warc.gz	0
+mariejuliedurand	gallery.me.com	2012-04-03 19:10:34	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3556.tar	gallery.me.com-mariejuliedurand.warc.gz	6090
+mariejuliedurand	homepage.mac.com	2012-04-03 19:10:34	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3556.tar	homepage.mac.com-mariejuliedurand.warc.gz	4916
+mariejuliedurand	public.me.com	2012-04-03 19:10:32	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3556.tar	public.me.com-mariejuliedurand.warc.gz	3692096136
+mariejuliedurand	web.me.com	2012-04-03 18:04:00	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3556.tar	web.me.com-mariejuliedurand.warc.gz	53019298
+meoplay	gallery.me.com	2012-04-03 21:13:00	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3556.tar	gallery.me.com-meoplay.warc.gz	5629700142
+meoplay	homepage.mac.com	2012-04-03 21:13:01	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3556.tar	homepage.mac.com-meoplay.warc.gz	4897
+meoplay	public.me.com	2012-04-03 19:32:36	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3556.tar	public.me.com-meoplay.warc.gz	1914
+meoplay	web.me.com	2012-04-03 19:32:36	archiveteam-mobileme-hero-355x	archiveteam-mobileme-hero-355x-3556.tar	web.me.com-meoplay.warc.gz	57636555

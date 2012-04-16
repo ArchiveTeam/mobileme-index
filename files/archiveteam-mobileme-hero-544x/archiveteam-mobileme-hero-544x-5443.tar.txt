@@ -1,20 +1,20 @@
-independencecenter	gallery.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	gallery.me.com-independencecenter.warc.gz	0
-independencecenter	homepage.mac.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	homepage.mac.com-independencecenter.warc.gz	0
-independencecenter	public.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	public.me.com-independencecenter.warc.gz	0
-independencecenter	web.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	web.me.com-independencecenter.warc.gz	0
-jerome.perret	gallery.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	gallery.me.com-jerome.perret.warc.gz	0
-jerome.perret	homepage.mac.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	homepage.mac.com-jerome.perret.warc.gz	0
-jerome.perret	public.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	public.me.com-jerome.perret.warc.gz	0
-jerome.perret	web.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	web.me.com-jerome.perret.warc.gz	0
-marcdb	gallery.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	gallery.me.com-marcdb.warc.gz	0
-marcdb	homepage.mac.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	homepage.mac.com-marcdb.warc.gz	0
-marcdb	public.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	public.me.com-marcdb.warc.gz	0
-marcdb	web.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	web.me.com-marcdb.warc.gz	0
-mariuszkania	gallery.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	gallery.me.com-mariuszkania.warc.gz	0
-mariuszkania	homepage.mac.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	homepage.mac.com-mariuszkania.warc.gz	0
-mariuszkania	public.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	public.me.com-mariuszkania.warc.gz	0
-mariuszkania	web.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	web.me.com-mariuszkania.warc.gz	0
-rui_rui	gallery.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	gallery.me.com-rui_rui.warc.gz	0
-rui_rui	homepage.mac.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	homepage.mac.com-rui_rui.warc.gz	0
-rui_rui	public.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	public.me.com-rui_rui.warc.gz	0
-rui_rui	web.me.com		archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	web.me.com-rui_rui.warc.gz	0
+independencecenter	gallery.me.com	2012-04-09 09:11:33	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	gallery.me.com-independencecenter.warc.gz	5050
+independencecenter	homepage.mac.com	2012-04-09 09:11:34	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	homepage.mac.com-independencecenter.warc.gz	4933
+independencecenter	public.me.com	2012-04-09 09:11:33	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	public.me.com-independencecenter.warc.gz	1933
+independencecenter	web.me.com	2012-04-09 09:11:32	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	web.me.com-independencecenter.warc.gz	6229141
+jerome.perret	gallery.me.com	2012-04-09 09:48:25	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	gallery.me.com-jerome.perret.warc.gz	1427712728
+jerome.perret	homepage.mac.com	2012-04-09 09:48:26	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	homepage.mac.com-jerome.perret.warc.gz	24741
+jerome.perret	public.me.com	2012-04-09 09:30:20	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	public.me.com-jerome.perret.warc.gz	3629
+jerome.perret	web.me.com	2012-04-09 09:30:15	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	web.me.com-jerome.perret.warc.gz	866933313
+marcdb	gallery.me.com	2012-04-09 09:09:47	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	gallery.me.com-marcdb.warc.gz	585296595
+marcdb	homepage.mac.com	2012-04-09 09:09:57	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	homepage.mac.com-marcdb.warc.gz	141368
+marcdb	public.me.com	2012-04-09 08:57:51	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	public.me.com-marcdb.warc.gz	409537287
+marcdb	web.me.com	2012-04-09 08:49:23	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	web.me.com-marcdb.warc.gz	425933458
+mariuszkania	gallery.me.com	2012-04-09 10:41:02	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	gallery.me.com-mariuszkania.warc.gz	40152882
+mariuszkania	homepage.mac.com	2012-04-09 10:41:02	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	homepage.mac.com-mariuszkania.warc.gz	4922
+mariuszkania	public.me.com	2012-04-09 10:39:51	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	public.me.com-mariuszkania.warc.gz	1926
+mariuszkania	web.me.com	2012-04-09 10:39:50	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	web.me.com-mariuszkania.warc.gz	581697892
+rui_rui	gallery.me.com	2012-04-09 09:10:05	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	gallery.me.com-rui_rui.warc.gz	5752
+rui_rui	homepage.mac.com	2012-04-09 09:10:05	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	homepage.mac.com-rui_rui.warc.gz	4913
+rui_rui	public.me.com	2012-04-09 09:10:05	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	public.me.com-rui_rui.warc.gz	1909
+rui_rui	web.me.com	2012-04-09 09:10:04	archiveteam-mobileme-hero-544x	archiveteam-mobileme-hero-544x-5443.tar	web.me.com-rui_rui.warc.gz	45276

@@ -1,28 +1,28 @@
-bluelantern	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	gallery.me.com-bluelantern.warc.gz	0
-bluelantern	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	homepage.mac.com-bluelantern.warc.gz	0
-bluelantern	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	public.me.com-bluelantern.warc.gz	0
-bluelantern	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	web.me.com-bluelantern.warc.gz	0
-douggay	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	gallery.me.com-douggay.warc.gz	0
-douggay	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	homepage.mac.com-douggay.warc.gz	0
-douggay	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	public.me.com-douggay.warc.gz	0
-douggay	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	web.me.com-douggay.warc.gz	0
-ffoto	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	gallery.me.com-ffoto.warc.gz	0
-ffoto	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	homepage.mac.com-ffoto.warc.gz	0
-ffoto	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	public.me.com-ffoto.warc.gz	0
-ffoto	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	web.me.com-ffoto.warc.gz	0
-jabberwockees	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	gallery.me.com-jabberwockees.warc.gz	0
-jabberwockees	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	homepage.mac.com-jabberwockees.warc.gz	0
-jabberwockees	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	public.me.com-jabberwockees.warc.gz	0
-jabberwockees	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	web.me.com-jabberwockees.warc.gz	0
-thomasvaughan	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	gallery.me.com-thomasvaughan.warc.gz	0
-thomasvaughan	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	homepage.mac.com-thomasvaughan.warc.gz	0
-thomasvaughan	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	public.me.com-thomasvaughan.warc.gz	0
-thomasvaughan	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	web.me.com-thomasvaughan.warc.gz	0
-yu.an	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	gallery.me.com-yu.an.warc.gz	0
-yu.an	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	homepage.mac.com-yu.an.warc.gz	0
-yu.an	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	public.me.com-yu.an.warc.gz	0
-yu.an	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	web.me.com-yu.an.warc.gz	0
-zamborlin	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	gallery.me.com-zamborlin.warc.gz	0
-zamborlin	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	homepage.mac.com-zamborlin.warc.gz	0
-zamborlin	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	public.me.com-zamborlin.warc.gz	0
-zamborlin	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	web.me.com-zamborlin.warc.gz	0
+bluelantern	gallery.me.com	2012-04-04 23:00:55	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	gallery.me.com-bluelantern.warc.gz	4295
+bluelantern	homepage.mac.com	2012-04-04 23:00:55	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	homepage.mac.com-bluelantern.warc.gz	4912
+bluelantern	public.me.com	2012-04-04 23:00:54	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	public.me.com-bluelantern.warc.gz	1920
+bluelantern	web.me.com	2012-04-04 23:00:53	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	web.me.com-bluelantern.warc.gz	4070677
+douggay	gallery.me.com	2012-04-04 23:03:42	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	gallery.me.com-douggay.warc.gz	4834868
+douggay	homepage.mac.com	2012-04-04 23:03:42	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	homepage.mac.com-douggay.warc.gz	4890
+douggay	public.me.com	2012-04-04 23:03:21	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	public.me.com-douggay.warc.gz	1912
+douggay	web.me.com	2012-04-04 23:03:19	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	web.me.com-douggay.warc.gz	15093129
+ffoto	gallery.me.com	2012-04-04 23:04:31	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	gallery.me.com-ffoto.warc.gz	5772056
+ffoto	homepage.mac.com	2012-04-04 23:04:31	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	homepage.mac.com-ffoto.warc.gz	4895
+ffoto	public.me.com	2012-04-04 23:04:27	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	public.me.com-ffoto.warc.gz	1903
+ffoto	web.me.com	2012-04-04 23:04:26	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	web.me.com-ffoto.warc.gz	3389396
+jabberwockees	gallery.me.com	2012-04-04 23:04:34	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	gallery.me.com-jabberwockees.warc.gz	12336
+jabberwockees	homepage.mac.com	2012-04-04 23:04:34	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	homepage.mac.com-jabberwockees.warc.gz	7159
+jabberwockees	public.me.com	2012-04-04 23:04:33	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	public.me.com-jabberwockees.warc.gz	1932
+jabberwockees	web.me.com	2012-04-04 23:04:33	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	web.me.com-jabberwockees.warc.gz	22537
+thomasvaughan	gallery.me.com	2012-04-04 23:11:42	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	gallery.me.com-thomasvaughan.warc.gz	191554944
+thomasvaughan	homepage.mac.com	2012-04-04 23:11:42	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	homepage.mac.com-thomasvaughan.warc.gz	4919
+thomasvaughan	public.me.com	2012-04-04 23:08:25	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	public.me.com-thomasvaughan.warc.gz	614583637
+thomasvaughan	web.me.com	2012-04-04 23:05:05	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	web.me.com-thomasvaughan.warc.gz	1134104
+yu.an	gallery.me.com	2012-04-04 22:53:39	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	gallery.me.com-yu.an.warc.gz	3822155238
+yu.an	homepage.mac.com	2012-04-04 22:53:40	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	homepage.mac.com-yu.an.warc.gz	4897
+yu.an	public.me.com	2012-04-04 21:47:50	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	public.me.com-yu.an.warc.gz	1908
+yu.an	web.me.com	2012-04-04 21:47:50	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	web.me.com-yu.an.warc.gz	34799341
+zamborlin	gallery.me.com	2012-04-04 22:59:23	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	gallery.me.com-zamborlin.warc.gz	5729
+zamborlin	homepage.mac.com	2012-04-04 22:59:24	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	homepage.mac.com-zamborlin.warc.gz	4910
+zamborlin	public.me.com	2012-04-04 22:59:22	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	public.me.com-zamborlin.warc.gz	1922
+zamborlin	web.me.com	2012-04-04 22:59:21	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3989.tar	web.me.com-zamborlin.warc.gz	103304148

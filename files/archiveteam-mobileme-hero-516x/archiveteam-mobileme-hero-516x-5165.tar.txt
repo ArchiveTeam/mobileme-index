@@ -1,16 +1,16 @@
-kirkpinar	gallery.me.com		archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	gallery.me.com-kirkpinar.warc.gz	0
-kirkpinar	homepage.mac.com		archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	homepage.mac.com-kirkpinar.warc.gz	0
-kirkpinar	public.me.com		archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	public.me.com-kirkpinar.warc.gz	0
-kirkpinar	web.me.com		archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	web.me.com-kirkpinar.warc.gz	0
-limagination	gallery.me.com		archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	gallery.me.com-limagination.warc.gz	0
-limagination	homepage.mac.com		archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	homepage.mac.com-limagination.warc.gz	0
-limagination	public.me.com		archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	public.me.com-limagination.warc.gz	0
-limagination	web.me.com		archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	web.me.com-limagination.warc.gz	0
-sebrinawareham	gallery.me.com		archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	gallery.me.com-sebrinawareham.warc.gz	0
-sebrinawareham	homepage.mac.com		archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	homepage.mac.com-sebrinawareham.warc.gz	0
-sebrinawareham	public.me.com		archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	public.me.com-sebrinawareham.warc.gz	0
-sebrinawareham	web.me.com		archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	web.me.com-sebrinawareham.warc.gz	0
-trompettissimo	gallery.me.com		archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	gallery.me.com-trompettissimo.warc.gz	0
-trompettissimo	homepage.mac.com		archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	homepage.mac.com-trompettissimo.warc.gz	0
-trompettissimo	public.me.com		archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	public.me.com-trompettissimo.warc.gz	0
-trompettissimo	web.me.com		archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	web.me.com-trompettissimo.warc.gz	0
+kirkpinar	gallery.me.com	2012-04-08 06:24:38	archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	gallery.me.com-kirkpinar.warc.gz	285667502
+kirkpinar	homepage.mac.com	2012-04-08 06:24:43	archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	homepage.mac.com-kirkpinar.warc.gz	72290
+kirkpinar	public.me.com	2012-04-08 06:04:25	archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	public.me.com-kirkpinar.warc.gz	1920
+kirkpinar	web.me.com	2012-04-08 06:04:24	archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	web.me.com-kirkpinar.warc.gz	1189696701
+limagination	gallery.me.com	2012-04-08 05:23:23	archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	gallery.me.com-limagination.warc.gz	185304100
+limagination	homepage.mac.com	2012-04-08 05:23:33	archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	homepage.mac.com-limagination.warc.gz	97521
+limagination	public.me.com	2012-04-08 05:09:17	archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	public.me.com-limagination.warc.gz	64812487
+limagination	web.me.com	2012-04-08 05:06:10	archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	web.me.com-limagination.warc.gz	37947556
+sebrinawareham	gallery.me.com	2012-04-08 05:23:40	archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	gallery.me.com-sebrinawareham.warc.gz	12366
+sebrinawareham	homepage.mac.com	2012-04-08 05:23:41	archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	homepage.mac.com-sebrinawareham.warc.gz	7171
+sebrinawareham	public.me.com	2012-04-08 05:23:38	archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	public.me.com-sebrinawareham.warc.gz	1926
+sebrinawareham	web.me.com	2012-04-08 05:23:38	archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	web.me.com-sebrinawareham.warc.gz	22564
+trompettissimo	gallery.me.com	2012-04-08 05:00:32	archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	gallery.me.com-trompettissimo.warc.gz	5708
+trompettissimo	homepage.mac.com	2012-04-08 05:00:33	archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	homepage.mac.com-trompettissimo.warc.gz	4928
+trompettissimo	public.me.com	2012-04-08 05:00:31	archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	public.me.com-trompettissimo.warc.gz	2756686685
+trompettissimo	web.me.com	2012-04-08 03:54:13	archiveteam-mobileme-hero-516x	archiveteam-mobileme-hero-516x-5165.tar	web.me.com-trompettissimo.warc.gz	11362879

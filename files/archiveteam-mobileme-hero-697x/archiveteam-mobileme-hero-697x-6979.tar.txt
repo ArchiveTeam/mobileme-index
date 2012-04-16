@@ -1,20 +1,20 @@
-brian_cullen	gallery.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	gallery.me.com-brian_cullen.warc.gz	0
-brian_cullen	homepage.mac.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	homepage.mac.com-brian_cullen.warc.gz	0
-brian_cullen	public.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	public.me.com-brian_cullen.warc.gz	0
-brian_cullen	web.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	web.me.com-brian_cullen.warc.gz	0
-burningberry	gallery.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	gallery.me.com-burningberry.warc.gz	0
-burningberry	homepage.mac.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	homepage.mac.com-burningberry.warc.gz	0
-burningberry	public.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	public.me.com-burningberry.warc.gz	0
-burningberry	web.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	web.me.com-burningberry.warc.gz	0
-gillesk	gallery.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	gallery.me.com-gillesk.warc.gz	0
-gillesk	homepage.mac.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	homepage.mac.com-gillesk.warc.gz	0
-gillesk	public.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	public.me.com-gillesk.warc.gz	0
-gillesk	web.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	web.me.com-gillesk.warc.gz	0
-izecubes	gallery.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	gallery.me.com-izecubes.warc.gz	0
-izecubes	homepage.mac.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	homepage.mac.com-izecubes.warc.gz	0
-izecubes	public.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	public.me.com-izecubes.warc.gz	0
-izecubes	web.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	web.me.com-izecubes.warc.gz	0
-jhouee	gallery.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	gallery.me.com-jhouee.warc.gz	0
-jhouee	homepage.mac.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	homepage.mac.com-jhouee.warc.gz	0
-jhouee	public.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	public.me.com-jhouee.warc.gz	0
-jhouee	web.me.com		archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	web.me.com-jhouee.warc.gz	0
+brian_cullen	gallery.me.com	2012-04-12 19:47:59	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	gallery.me.com-brian_cullen.warc.gz	12336
+brian_cullen	homepage.mac.com	2012-04-12 19:47:59	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	homepage.mac.com-brian_cullen.warc.gz	7155
+brian_cullen	public.me.com	2012-04-12 19:47:58	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	public.me.com-brian_cullen.warc.gz	1924
+brian_cullen	web.me.com	2012-04-12 19:47:57	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	web.me.com-brian_cullen.warc.gz	22489
+burningberry	gallery.me.com	2012-04-12 22:03:44	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	gallery.me.com-burningberry.warc.gz	1277255767
+burningberry	homepage.mac.com	2012-04-12 22:03:47	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	homepage.mac.com-burningberry.warc.gz	54241
+burningberry	public.me.com	2012-04-12 21:28:45	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	public.me.com-burningberry.warc.gz	848420750
+burningberry	web.me.com	2012-04-12 20:58:57	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	web.me.com-burningberry.warc.gz	551814665
+gillesk	gallery.me.com	2012-04-12 20:21:27	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	gallery.me.com-gillesk.warc.gz	4242
+gillesk	homepage.mac.com	2012-04-12 20:21:28	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	homepage.mac.com-gillesk.warc.gz	4899
+gillesk	public.me.com	2012-04-12 20:21:23	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	public.me.com-gillesk.warc.gz	137515933
+gillesk	web.me.com	2012-04-12 20:16:46	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	web.me.com-gillesk.warc.gz	7433
+izecubes	gallery.me.com	2012-04-12 20:16:43	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	gallery.me.com-izecubes.warc.gz	4231
+izecubes	homepage.mac.com	2012-04-12 20:16:43	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	homepage.mac.com-izecubes.warc.gz	4909
+izecubes	public.me.com	2012-04-12 20:16:42	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	public.me.com-izecubes.warc.gz	3330
+izecubes	web.me.com	2012-04-12 20:16:41	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	web.me.com-izecubes.warc.gz	119274765
+jhouee	gallery.me.com	2012-04-12 19:47:49	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	gallery.me.com-jhouee.warc.gz	1545251846
+jhouee	homepage.mac.com	2012-04-12 19:47:49	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	homepage.mac.com-jhouee.warc.gz	4890
+jhouee	public.me.com	2012-04-12 19:06:42	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	public.me.com-jhouee.warc.gz	72482132
+jhouee	web.me.com	2012-04-12 19:05:03	archiveteam-mobileme-hero-697x	archiveteam-mobileme-hero-697x-6979.tar	web.me.com-jhouee.warc.gz	204673420

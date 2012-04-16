@@ -1,16 +1,16 @@
-robolaw1	gallery.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	gallery.me.com-robolaw1.warc.gz	0
-robolaw1	homepage.mac.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	homepage.mac.com-robolaw1.warc.gz	0
-robolaw1	public.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	public.me.com-robolaw1.warc.gz	0
-robolaw1	web.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	web.me.com-robolaw1.warc.gz	0
-stumpandfindlater	gallery.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	gallery.me.com-stumpandfindlater.warc.gz	0
-stumpandfindlater	homepage.mac.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	homepage.mac.com-stumpandfindlater.warc.gz	0
-stumpandfindlater	public.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	public.me.com-stumpandfindlater.warc.gz	0
-stumpandfindlater	web.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	web.me.com-stumpandfindlater.warc.gz	0
-tfrangi	gallery.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	gallery.me.com-tfrangi.warc.gz	0
-tfrangi	homepage.mac.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	homepage.mac.com-tfrangi.warc.gz	0
-tfrangi	public.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	public.me.com-tfrangi.warc.gz	0
-tfrangi	web.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	web.me.com-tfrangi.warc.gz	0
-timdepledge	gallery.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	gallery.me.com-timdepledge.warc.gz	0
-timdepledge	homepage.mac.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	homepage.mac.com-timdepledge.warc.gz	0
-timdepledge	public.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	public.me.com-timdepledge.warc.gz	0
-timdepledge	web.me.com		archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	web.me.com-timdepledge.warc.gz	0
+robolaw1	gallery.me.com	2012-04-05 06:23:46	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	gallery.me.com-robolaw1.warc.gz	111605248
+robolaw1	homepage.mac.com	2012-04-05 06:23:48	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	homepage.mac.com-robolaw1.warc.gz	36930
+robolaw1	public.me.com	2012-04-05 06:22:06	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	public.me.com-robolaw1.warc.gz	1917
+robolaw1	web.me.com	2012-04-05 06:22:05	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	web.me.com-robolaw1.warc.gz	23265607
+stumpandfindlater	gallery.me.com	2012-04-05 06:33:09	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	gallery.me.com-stumpandfindlater.warc.gz	4317
+stumpandfindlater	homepage.mac.com	2012-04-05 06:33:09	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	homepage.mac.com-stumpandfindlater.warc.gz	4948
+stumpandfindlater	public.me.com	2012-04-05 06:33:08	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	public.me.com-stumpandfindlater.warc.gz	1933
+stumpandfindlater	web.me.com	2012-04-05 06:33:08	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	web.me.com-stumpandfindlater.warc.gz	76817079
+tfrangi	gallery.me.com	2012-04-05 07:55:52	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	gallery.me.com-tfrangi.warc.gz	4054481734
+tfrangi	homepage.mac.com	2012-04-05 07:55:52	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	homepage.mac.com-tfrangi.warc.gz	4899
+tfrangi	public.me.com	2012-04-05 07:10:27	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	public.me.com-tfrangi.warc.gz	1944950915
+tfrangi	web.me.com	2012-04-05 07:01:03	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	web.me.com-tfrangi.warc.gz	913717266
+timdepledge	gallery.me.com	2012-04-05 06:11:06	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	gallery.me.com-timdepledge.warc.gz	364609105
+timdepledge	homepage.mac.com	2012-04-05 06:11:07	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	homepage.mac.com-timdepledge.warc.gz	4926
+timdepledge	public.me.com	2012-04-05 06:08:06	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	public.me.com-timdepledge.warc.gz	1923
+timdepledge	web.me.com	2012-04-05 06:08:04	archiveteam-mobileme-hero-415x	archiveteam-mobileme-hero-415x-4152.tar	web.me.com-timdepledge.warc.gz	207633698

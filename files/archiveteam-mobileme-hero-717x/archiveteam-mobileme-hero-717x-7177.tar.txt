@@ -1,28 +1,28 @@
-abus	gallery.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	gallery.me.com-abus.warc.gz	0
-abus	homepage.mac.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	homepage.mac.com-abus.warc.gz	0
-abus	public.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	public.me.com-abus.warc.gz	0
-abus	web.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	web.me.com-abus.warc.gz	0
-cjfrelund	gallery.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	gallery.me.com-cjfrelund.warc.gz	0
-cjfrelund	homepage.mac.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	homepage.mac.com-cjfrelund.warc.gz	0
-cjfrelund	public.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	public.me.com-cjfrelund.warc.gz	0
-cjfrelund	web.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	web.me.com-cjfrelund.warc.gz	0
-daniel.kessler	gallery.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	gallery.me.com-daniel.kessler.warc.gz	0
-daniel.kessler	homepage.mac.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	homepage.mac.com-daniel.kessler.warc.gz	0
-daniel.kessler	public.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	public.me.com-daniel.kessler.warc.gz	0
-daniel.kessler	web.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	web.me.com-daniel.kessler.warc.gz	0
-ludovicbourely	gallery.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	gallery.me.com-ludovicbourely.warc.gz	0
-ludovicbourely	homepage.mac.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	homepage.mac.com-ludovicbourely.warc.gz	0
-ludovicbourely	public.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	public.me.com-ludovicbourely.warc.gz	0
-ludovicbourely	web.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	web.me.com-ludovicbourely.warc.gz	0
-mrgaff	gallery.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	gallery.me.com-mrgaff.warc.gz	0
-mrgaff	homepage.mac.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	homepage.mac.com-mrgaff.warc.gz	0
-mrgaff	public.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	public.me.com-mrgaff.warc.gz	0
-mrgaff	web.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	web.me.com-mrgaff.warc.gz	0
-robertoekholm	gallery.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	gallery.me.com-robertoekholm.warc.gz	0
-robertoekholm	homepage.mac.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	homepage.mac.com-robertoekholm.warc.gz	0
-robertoekholm	public.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	public.me.com-robertoekholm.warc.gz	0
-robertoekholm	web.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	web.me.com-robertoekholm.warc.gz	0
-steingrimurjg	gallery.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	gallery.me.com-steingrimurjg.warc.gz	0
-steingrimurjg	homepage.mac.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	homepage.mac.com-steingrimurjg.warc.gz	0
-steingrimurjg	public.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	public.me.com-steingrimurjg.warc.gz	0
-steingrimurjg	web.me.com		archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	web.me.com-steingrimurjg.warc.gz	0
+abus	gallery.me.com	2012-04-13 07:12:27	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	gallery.me.com-abus.warc.gz	1944008954
+abus	homepage.mac.com	2012-04-13 07:12:27	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	homepage.mac.com-abus.warc.gz	4899
+abus	public.me.com	2012-04-13 06:16:20	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	public.me.com-abus.warc.gz	1903
+abus	web.me.com	2012-04-13 06:16:20	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	web.me.com-abus.warc.gz	47440918
+cjfrelund	gallery.me.com	2012-04-13 05:33:00	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	gallery.me.com-cjfrelund.warc.gz	163371091
+cjfrelund	homepage.mac.com	2012-04-13 05:33:01	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	homepage.mac.com-cjfrelund.warc.gz	4921
+cjfrelund	public.me.com	2012-04-13 05:23:04	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	public.me.com-cjfrelund.warc.gz	3531
+cjfrelund	web.me.com	2012-04-13 05:23:03	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	web.me.com-cjfrelund.warc.gz	5953360
+daniel.kessler	gallery.me.com	2012-04-13 05:18:59	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	gallery.me.com-daniel.kessler.warc.gz	137852829
+daniel.kessler	homepage.mac.com	2012-04-13 05:18:59	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	homepage.mac.com-daniel.kessler.warc.gz	4933
+daniel.kessler	public.me.com	2012-04-13 05:15:30	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	public.me.com-daniel.kessler.warc.gz	1927
+daniel.kessler	web.me.com	2012-04-13 05:15:11	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	web.me.com-daniel.kessler.warc.gz	3344959261
+ludovicbourely	gallery.me.com	2012-04-13 06:01:24	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	gallery.me.com-ludovicbourely.warc.gz	12358
+ludovicbourely	homepage.mac.com	2012-04-13 06:01:25	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	homepage.mac.com-ludovicbourely.warc.gz	7172
+ludovicbourely	public.me.com	2012-04-13 06:01:22	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	public.me.com-ludovicbourely.warc.gz	1930
+ludovicbourely	web.me.com	2012-04-13 06:01:21	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	web.me.com-ludovicbourely.warc.gz	22544
+mrgaff	gallery.me.com	2012-04-13 06:01:11	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	gallery.me.com-mrgaff.warc.gz	372228116
+mrgaff	homepage.mac.com	2012-04-13 06:01:14	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	homepage.mac.com-mrgaff.warc.gz	36778
+mrgaff	public.me.com	2012-04-13 05:40:44	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	public.me.com-mrgaff.warc.gz	49557306
+mrgaff	web.me.com	2012-04-13 05:38:37	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	web.me.com-mrgaff.warc.gz	15048261
+robertoekholm	gallery.me.com	2012-04-13 06:01:33	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	gallery.me.com-robertoekholm.warc.gz	12351
+robertoekholm	homepage.mac.com	2012-04-13 06:01:34	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	homepage.mac.com-robertoekholm.warc.gz	7168
+robertoekholm	public.me.com	2012-04-13 06:01:31	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	public.me.com-robertoekholm.warc.gz	1929
+robertoekholm	web.me.com	2012-04-13 06:01:31	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	web.me.com-robertoekholm.warc.gz	22555
+steingrimurjg	gallery.me.com	2012-04-13 05:19:08	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	gallery.me.com-steingrimurjg.warc.gz	12354
+steingrimurjg	homepage.mac.com	2012-04-13 05:19:09	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	homepage.mac.com-steingrimurjg.warc.gz	7174
+steingrimurjg	public.me.com	2012-04-13 05:19:05	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	public.me.com-steingrimurjg.warc.gz	1931
+steingrimurjg	web.me.com	2012-04-13 05:19:05	archiveteam-mobileme-hero-717x	archiveteam-mobileme-hero-717x-7177.tar	web.me.com-steingrimurjg.warc.gz	22567

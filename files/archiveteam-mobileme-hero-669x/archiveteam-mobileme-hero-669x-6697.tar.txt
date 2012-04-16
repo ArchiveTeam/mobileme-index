@@ -1,20 +1,20 @@
-c1870302883	gallery.me.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	gallery.me.com-c1870302883.warc.gz	0
-c1870302883	homepage.mac.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	homepage.mac.com-c1870302883.warc.gz	0
-c1870302883	public.me.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	public.me.com-c1870302883.warc.gz	0
-c1870302883	web.me.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	web.me.com-c1870302883.warc.gz	0
-ihelmut	gallery.me.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	gallery.me.com-ihelmut.warc.gz	0
-ihelmut	homepage.mac.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	homepage.mac.com-ihelmut.warc.gz	0
-ihelmut	public.me.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	public.me.com-ihelmut.warc.gz	0
-ihelmut	web.me.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	web.me.com-ihelmut.warc.gz	0
-irenepanayi1	gallery.me.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	gallery.me.com-irenepanayi1.warc.gz	0
-irenepanayi1	homepage.mac.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	homepage.mac.com-irenepanayi1.warc.gz	0
-irenepanayi1	public.me.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	public.me.com-irenepanayi1.warc.gz	0
-irenepanayi1	web.me.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	web.me.com-irenepanayi1.warc.gz	0
-lweinblatt	gallery.me.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	gallery.me.com-lweinblatt.warc.gz	0
-lweinblatt	homepage.mac.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	homepage.mac.com-lweinblatt.warc.gz	0
-lweinblatt	public.me.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	public.me.com-lweinblatt.warc.gz	0
-lweinblatt	web.me.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	web.me.com-lweinblatt.warc.gz	0
-mommamel	gallery.me.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	gallery.me.com-mommamel.warc.gz	0
-mommamel	homepage.mac.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	homepage.mac.com-mommamel.warc.gz	0
-mommamel	public.me.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	public.me.com-mommamel.warc.gz	0
-mommamel	web.me.com		archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	web.me.com-mommamel.warc.gz	0
+c1870302883	gallery.me.com	2012-04-12 06:34:15	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	gallery.me.com-c1870302883.warc.gz	8350
+c1870302883	homepage.mac.com	2012-04-12 06:34:15	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	homepage.mac.com-c1870302883.warc.gz	5188
+c1870302883	public.me.com	2012-04-12 06:34:14	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	public.me.com-c1870302883.warc.gz	1925
+c1870302883	web.me.com	2012-04-12 06:34:14	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	web.me.com-c1870302883.warc.gz	17735
+ihelmut	gallery.me.com	2012-04-12 06:44:56	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	gallery.me.com-ihelmut.warc.gz	121947148
+ihelmut	homepage.mac.com	2012-04-12 06:45:25	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	homepage.mac.com-ihelmut.warc.gz	1479942
+ihelmut	public.me.com	2012-04-12 06:42:48	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	public.me.com-ihelmut.warc.gz	1907
+ihelmut	web.me.com	2012-04-12 06:42:48	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	web.me.com-ihelmut.warc.gz	40951497
+irenepanayi1	gallery.me.com	2012-04-12 06:37:35	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	gallery.me.com-irenepanayi1.warc.gz	5683
+irenepanayi1	homepage.mac.com	2012-04-12 06:37:36	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	homepage.mac.com-irenepanayi1.warc.gz	4923
+irenepanayi1	public.me.com	2012-04-12 06:37:35	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	public.me.com-irenepanayi1.warc.gz	23061892
+irenepanayi1	web.me.com	2012-04-12 06:36:33	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	web.me.com-irenepanayi1.warc.gz	6700605
+lweinblatt	gallery.me.com	2012-04-12 09:07:38	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	gallery.me.com-lweinblatt.warc.gz	3112325941
+lweinblatt	homepage.mac.com	2012-04-12 09:07:49	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	homepage.mac.com-lweinblatt.warc.gz	148937
+lweinblatt	public.me.com	2012-04-12 07:38:38	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	public.me.com-lweinblatt.warc.gz	199500447
+lweinblatt	web.me.com	2012-04-12 07:36:03	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	web.me.com-lweinblatt.warc.gz	515358776
+mommamel	gallery.me.com	2012-04-12 07:01:00	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	gallery.me.com-mommamel.warc.gz	426646135
+mommamel	homepage.mac.com	2012-04-12 07:01:00	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	homepage.mac.com-mommamel.warc.gz	4907
+mommamel	public.me.com	2012-04-12 06:49:41	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	public.me.com-mommamel.warc.gz	1916
+mommamel	web.me.com	2012-04-12 06:49:41	archiveteam-mobileme-hero-669x	archiveteam-mobileme-hero-669x-6697.tar	web.me.com-mommamel.warc.gz	233918205

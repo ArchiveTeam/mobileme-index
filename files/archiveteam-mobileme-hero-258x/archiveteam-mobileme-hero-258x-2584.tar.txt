@@ -1,16 +1,16 @@
-gpntech	gallery.me.com		archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	gallery.me.com-gpntech.warc.gz	0
-gpntech	homepage.mac.com		archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	homepage.mac.com-gpntech.warc.gz	0
-gpntech	public.me.com		archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	public.me.com-gpntech.warc.gz	0
-gpntech	web.me.com		archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	web.me.com-gpntech.warc.gz	0
-luisisidor	gallery.me.com		archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	gallery.me.com-luisisidor.warc.gz	0
-luisisidor	homepage.mac.com		archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	homepage.mac.com-luisisidor.warc.gz	0
-luisisidor	public.me.com		archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	public.me.com-luisisidor.warc.gz	0
-luisisidor	web.me.com		archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	web.me.com-luisisidor.warc.gz	0
-mskellyteach	gallery.me.com		archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	gallery.me.com-mskellyteach.warc.gz	0
-mskellyteach	homepage.mac.com		archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	homepage.mac.com-mskellyteach.warc.gz	0
-mskellyteach	public.me.com		archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	public.me.com-mskellyteach.warc.gz	0
-mskellyteach	web.me.com		archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	web.me.com-mskellyteach.warc.gz	0
-yamellaer	gallery.me.com		archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	gallery.me.com-yamellaer.warc.gz	0
-yamellaer	homepage.mac.com		archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	homepage.mac.com-yamellaer.warc.gz	0
-yamellaer	public.me.com		archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	public.me.com-yamellaer.warc.gz	0
-yamellaer	web.me.com		archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	web.me.com-yamellaer.warc.gz	0
+gpntech	gallery.me.com	2012-03-31 21:19:51	archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	gallery.me.com-gpntech.warc.gz	4236
+gpntech	homepage.mac.com	2012-03-31 21:19:51	archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	homepage.mac.com-gpntech.warc.gz	4894
+gpntech	public.me.com	2012-03-31 21:19:50	archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	public.me.com-gpntech.warc.gz	1915
+gpntech	web.me.com	2012-03-31 21:19:49	archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	web.me.com-gpntech.warc.gz	7420
+luisisidor	gallery.me.com	2012-03-31 21:19:46	archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	gallery.me.com-luisisidor.warc.gz	23431669
+luisisidor	homepage.mac.com	2012-03-31 21:19:46	archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	homepage.mac.com-luisisidor.warc.gz	4908
+luisisidor	public.me.com	2012-03-31 21:18:36	archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	public.me.com-luisisidor.warc.gz	43010946
+luisisidor	web.me.com	2012-03-31 21:15:55	archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	web.me.com-luisisidor.warc.gz	36936475
+mskellyteach	gallery.me.com	2012-04-01 04:05:12	archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	gallery.me.com-mskellyteach.warc.gz	408789164
+mskellyteach	homepage.mac.com	2012-04-01 04:05:13	archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	homepage.mac.com-mskellyteach.warc.gz	4909
+mskellyteach	public.me.com	2012-04-01 03:36:50	archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	public.me.com-mskellyteach.warc.gz	1930
+mskellyteach	web.me.com	2012-04-01 03:36:42	archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	web.me.com-mskellyteach.warc.gz	1642921793
+yamellaer	gallery.me.com	2012-04-01 01:00:35	archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	gallery.me.com-yamellaer.warc.gz	194948602
+yamellaer	homepage.mac.com	2012-04-01 01:00:35	archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	homepage.mac.com-yamellaer.warc.gz	4624
+yamellaer	public.me.com	2012-04-01 00:51:31	archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	public.me.com-yamellaer.warc.gz	505099051
+yamellaer	web.me.com	2012-04-01 00:27:16	archiveteam-mobileme-hero-258x	archiveteam-mobileme-hero-258x-2584.tar	web.me.com-yamellaer.warc.gz	1939956046

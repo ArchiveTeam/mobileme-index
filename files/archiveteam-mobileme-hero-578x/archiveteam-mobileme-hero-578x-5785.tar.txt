@@ -1,20 +1,20 @@
-VANSTEENHOUSE	gallery.me.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	gallery.me.com-VANSTEENHOUSE.warc.gz	0
-VANSTEENHOUSE	homepage.mac.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	homepage.mac.com-VANSTEENHOUSE.warc.gz	0
-VANSTEENHOUSE	public.me.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	public.me.com-VANSTEENHOUSE.warc.gz	0
-VANSTEENHOUSE	web.me.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	web.me.com-VANSTEENHOUSE.warc.gz	0
-dehammond	gallery.me.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	gallery.me.com-dehammond.warc.gz	0
-dehammond	homepage.mac.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	homepage.mac.com-dehammond.warc.gz	0
-dehammond	public.me.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	public.me.com-dehammond.warc.gz	0
-dehammond	web.me.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	web.me.com-dehammond.warc.gz	0
-finnsims	gallery.me.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	gallery.me.com-finnsims.warc.gz	0
-finnsims	homepage.mac.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	homepage.mac.com-finnsims.warc.gz	0
-finnsims	public.me.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	public.me.com-finnsims.warc.gz	0
-finnsims	web.me.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	web.me.com-finnsims.warc.gz	0
-fujito_dent	gallery.me.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	gallery.me.com-fujito_dent.warc.gz	0
-fujito_dent	homepage.mac.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	homepage.mac.com-fujito_dent.warc.gz	0
-fujito_dent	public.me.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	public.me.com-fujito_dent.warc.gz	0
-fujito_dent	web.me.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	web.me.com-fujito_dent.warc.gz	0
-stonelight24	gallery.me.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	gallery.me.com-stonelight24.warc.gz	0
-stonelight24	homepage.mac.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	homepage.mac.com-stonelight24.warc.gz	0
-stonelight24	public.me.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	public.me.com-stonelight24.warc.gz	0
-stonelight24	web.me.com		archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	web.me.com-stonelight24.warc.gz	0
+VANSTEENHOUSE	gallery.me.com	2012-04-10 04:50:30	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	gallery.me.com-VANSTEENHOUSE.warc.gz	4312
+VANSTEENHOUSE	homepage.mac.com	2012-04-10 04:50:30	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	homepage.mac.com-VANSTEENHOUSE.warc.gz	4960
+VANSTEENHOUSE	public.me.com	2012-04-10 04:50:29	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	public.me.com-VANSTEENHOUSE.warc.gz	1945
+VANSTEENHOUSE	web.me.com	2012-04-10 04:50:27	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	web.me.com-VANSTEENHOUSE.warc.gz	6084249
+dehammond	gallery.me.com	2012-04-10 05:36:10	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	gallery.me.com-dehammond.warc.gz	395645238
+dehammond	homepage.mac.com	2012-04-10 05:36:11	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	homepage.mac.com-dehammond.warc.gz	4916
+dehammond	public.me.com	2012-04-10 05:06:54	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	public.me.com-dehammond.warc.gz	1404962097
+dehammond	web.me.com	2012-04-10 04:54:03	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	web.me.com-dehammond.warc.gz	6024514
+finnsims	gallery.me.com	2012-04-10 03:02:00	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	gallery.me.com-finnsims.warc.gz	403590522
+finnsims	homepage.mac.com	2012-04-10 03:02:01	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	homepage.mac.com-finnsims.warc.gz	4913
+finnsims	public.me.com	2012-04-10 02:49:29	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	public.me.com-finnsims.warc.gz	1913
+finnsims	web.me.com	2012-04-10 02:49:26	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	web.me.com-finnsims.warc.gz	2180045
+fujito_dent	gallery.me.com	2012-04-10 03:20:49	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	gallery.me.com-fujito_dent.warc.gz	4287
+fujito_dent	homepage.mac.com	2012-04-10 03:20:49	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	homepage.mac.com-fujito_dent.warc.gz	4914
+fujito_dent	public.me.com	2012-04-10 03:20:48	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	public.me.com-fujito_dent.warc.gz	1925
+fujito_dent	web.me.com	2012-04-10 03:20:48	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	web.me.com-fujito_dent.warc.gz	18162684
+stonelight24	gallery.me.com	2012-04-10 04:47:54	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	gallery.me.com-stonelight24.warc.gz	4277
+stonelight24	homepage.mac.com	2012-04-10 04:47:54	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	homepage.mac.com-stonelight24.warc.gz	4922
+stonelight24	public.me.com	2012-04-10 04:47:52	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	public.me.com-stonelight24.warc.gz	2601564734
+stonelight24	web.me.com	2012-04-10 03:55:42	archiveteam-mobileme-hero-578x	archiveteam-mobileme-hero-578x-5785.tar	web.me.com-stonelight24.warc.gz	265859567

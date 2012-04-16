@@ -1,20 +1,20 @@
-cavadino	gallery.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	gallery.me.com-cavadino.warc.gz	0
-cavadino	homepage.mac.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	homepage.mac.com-cavadino.warc.gz	0
-cavadino	public.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	public.me.com-cavadino.warc.gz	0
-cavadino	web.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	web.me.com-cavadino.warc.gz	0
-duanekuss	gallery.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	gallery.me.com-duanekuss.warc.gz	0
-duanekuss	homepage.mac.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	homepage.mac.com-duanekuss.warc.gz	0
-duanekuss	public.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	public.me.com-duanekuss.warc.gz	0
-duanekuss	web.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	web.me.com-duanekuss.warc.gz	0
-formido	gallery.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	gallery.me.com-formido.warc.gz	0
-formido	homepage.mac.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	homepage.mac.com-formido.warc.gz	0
-formido	public.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	public.me.com-formido.warc.gz	0
-formido	web.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	web.me.com-formido.warc.gz	0
-mattiedaisy	gallery.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	gallery.me.com-mattiedaisy.warc.gz	0
-mattiedaisy	homepage.mac.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	homepage.mac.com-mattiedaisy.warc.gz	0
-mattiedaisy	public.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	public.me.com-mattiedaisy.warc.gz	0
-mattiedaisy	web.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	web.me.com-mattiedaisy.warc.gz	0
-pbaird	gallery.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	gallery.me.com-pbaird.warc.gz	0
-pbaird	homepage.mac.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	homepage.mac.com-pbaird.warc.gz	0
-pbaird	public.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	public.me.com-pbaird.warc.gz	0
-pbaird	web.me.com		archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	web.me.com-pbaird.warc.gz	0
+cavadino	gallery.me.com	2012-04-04 15:14:22	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	gallery.me.com-cavadino.warc.gz	4880687
+cavadino	homepage.mac.com	2012-04-04 15:14:23	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	homepage.mac.com-cavadino.warc.gz	4888
+cavadino	public.me.com	2012-04-04 15:13:54	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	public.me.com-cavadino.warc.gz	1913
+cavadino	web.me.com	2012-04-04 15:13:54	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	web.me.com-cavadino.warc.gz	3361295
+duanekuss	gallery.me.com	2012-04-04 17:30:11	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	gallery.me.com-duanekuss.warc.gz	6091635895
+duanekuss	homepage.mac.com	2012-04-04 17:30:11	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	homepage.mac.com-duanekuss.warc.gz	4918
+duanekuss	public.me.com	2012-04-04 16:33:50	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	public.me.com-duanekuss.warc.gz	1916
+duanekuss	web.me.com	2012-04-04 16:33:24	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	web.me.com-duanekuss.warc.gz	1387070605
+formido	gallery.me.com	2012-04-04 15:14:25	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	gallery.me.com-formido.warc.gz	12299
+formido	homepage.mac.com	2012-04-04 15:14:25	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	homepage.mac.com-formido.warc.gz	7134
+formido	public.me.com	2012-04-04 15:14:24	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	public.me.com-formido.warc.gz	1904
+formido	web.me.com	2012-04-04 15:14:24	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	web.me.com-formido.warc.gz	22419
+mattiedaisy	gallery.me.com	2012-04-04 15:11:57	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	gallery.me.com-mattiedaisy.warc.gz	2033416
+mattiedaisy	homepage.mac.com	2012-04-04 15:11:57	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	homepage.mac.com-mattiedaisy.warc.gz	4915
+mattiedaisy	public.me.com	2012-04-04 15:11:53	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	public.me.com-mattiedaisy.warc.gz	1925
+mattiedaisy	web.me.com	2012-04-04 15:11:52	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	web.me.com-mattiedaisy.warc.gz	1087096228
+pbaird	gallery.me.com	2012-04-04 15:14:27	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	gallery.me.com-pbaird.warc.gz	8328
+pbaird	homepage.mac.com	2012-04-04 15:14:27	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	homepage.mac.com-pbaird.warc.gz	5162
+pbaird	public.me.com	2012-04-04 15:14:27	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	public.me.com-pbaird.warc.gz	1905
+pbaird	web.me.com	2012-04-04 15:14:27	archiveteam-mobileme-hero-389x	archiveteam-mobileme-hero-389x-3898.tar	web.me.com-pbaird.warc.gz	17617

@@ -1,24 +1,24 @@
-balsamorhiza	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	gallery.me.com-balsamorhiza.warc.gz	0
-balsamorhiza	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	homepage.mac.com-balsamorhiza.warc.gz	0
-balsamorhiza	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	public.me.com-balsamorhiza.warc.gz	0
-balsamorhiza	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	web.me.com-balsamorhiza.warc.gz	0
-engel2	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	gallery.me.com-engel2.warc.gz	0
-engel2	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	homepage.mac.com-engel2.warc.gz	0
-engel2	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	public.me.com-engel2.warc.gz	0
-engel2	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	web.me.com-engel2.warc.gz	0
-jonathan_wakeham	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	gallery.me.com-jonathan_wakeham.warc.gz	0
-jonathan_wakeham	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	homepage.mac.com-jonathan_wakeham.warc.gz	0
-jonathan_wakeham	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	public.me.com-jonathan_wakeham.warc.gz	0
-jonathan_wakeham	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	web.me.com-jonathan_wakeham.warc.gz	0
-lape1	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	gallery.me.com-lape1.warc.gz	0
-lape1	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	homepage.mac.com-lape1.warc.gz	0
-lape1	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	public.me.com-lape1.warc.gz	0
-lape1	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	web.me.com-lape1.warc.gz	0
-mlewicki	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	gallery.me.com-mlewicki.warc.gz	0
-mlewicki	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	homepage.mac.com-mlewicki.warc.gz	0
-mlewicki	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	public.me.com-mlewicki.warc.gz	0
-mlewicki	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	web.me.com-mlewicki.warc.gz	0
-ncschaeffer	gallery.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	gallery.me.com-ncschaeffer.warc.gz	0
-ncschaeffer	homepage.mac.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	homepage.mac.com-ncschaeffer.warc.gz	0
-ncschaeffer	public.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	public.me.com-ncschaeffer.warc.gz	0
-ncschaeffer	web.me.com		archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	web.me.com-ncschaeffer.warc.gz	0
+balsamorhiza	gallery.me.com	2012-04-08 03:59:45	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	gallery.me.com-balsamorhiza.warc.gz	3796699298
+balsamorhiza	homepage.mac.com	2012-04-08 04:04:29	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	homepage.mac.com-balsamorhiza.warc.gz	4488538
+balsamorhiza	public.me.com	2012-04-08 02:55:05	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	public.me.com-balsamorhiza.warc.gz	7545436017
+balsamorhiza	web.me.com	2012-04-08 01:29:40	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	web.me.com-balsamorhiza.warc.gz	144478383
+engel2	gallery.me.com	2012-04-08 01:00:50	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	gallery.me.com-engel2.warc.gz	8338
+engel2	homepage.mac.com	2012-04-08 01:00:50	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	homepage.mac.com-engel2.warc.gz	5159
+engel2	public.me.com	2012-04-08 01:00:49	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	public.me.com-engel2.warc.gz	1910
+engel2	web.me.com	2012-04-08 01:00:49	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	web.me.com-engel2.warc.gz	17708
+jonathan_wakeham	gallery.me.com	2012-04-08 01:00:47	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	gallery.me.com-jonathan_wakeham.warc.gz	5307
+jonathan_wakeham	homepage.mac.com	2012-04-08 01:00:48	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	homepage.mac.com-jonathan_wakeham.warc.gz	4954
+jonathan_wakeham	public.me.com	2012-04-08 01:00:47	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	public.me.com-jonathan_wakeham.warc.gz	1941
+jonathan_wakeham	web.me.com	2012-04-08 01:00:46	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	web.me.com-jonathan_wakeham.warc.gz	2734228
+lape1	gallery.me.com	2012-04-08 01:00:54	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	gallery.me.com-lape1.warc.gz	12322
+lape1	homepage.mac.com	2012-04-08 01:00:54	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	homepage.mac.com-lape1.warc.gz	7132
+lape1	public.me.com	2012-04-08 01:00:54	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	public.me.com-lape1.warc.gz	1912
+lape1	web.me.com	2012-04-08 01:00:53	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	web.me.com-lape1.warc.gz	22483
+mlewicki	gallery.me.com	2012-04-08 01:12:52	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	gallery.me.com-mlewicki.warc.gz	54455924
+mlewicki	homepage.mac.com	2012-04-08 01:12:53	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	homepage.mac.com-mlewicki.warc.gz	4888
+mlewicki	public.me.com	2012-04-08 01:11:34	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	public.me.com-mlewicki.warc.gz	1912
+mlewicki	web.me.com	2012-04-08 01:11:33	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	web.me.com-mlewicki.warc.gz	55898013
+ncschaeffer	gallery.me.com	2012-04-08 01:00:52	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	gallery.me.com-ncschaeffer.warc.gz	8355
+ncschaeffer	homepage.mac.com	2012-04-08 01:00:52	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	homepage.mac.com-ncschaeffer.warc.gz	5186
+ncschaeffer	public.me.com	2012-04-08 01:00:51	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	public.me.com-ncschaeffer.warc.gz	1917
+ncschaeffer	web.me.com	2012-04-08 01:00:51	archiveteam-mobileme-hero-510x	archiveteam-mobileme-hero-510x-5102.tar	web.me.com-ncschaeffer.warc.gz	17732

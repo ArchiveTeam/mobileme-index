@@ -1,28 +1,28 @@
-davislive	gallery.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	gallery.me.com-davislive.warc.gz	0
-davislive	homepage.mac.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	homepage.mac.com-davislive.warc.gz	0
-davislive	public.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	public.me.com-davislive.warc.gz	0
-davislive	web.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	web.me.com-davislive.warc.gz	0
-javierm1	gallery.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	gallery.me.com-javierm1.warc.gz	0
-javierm1	homepage.mac.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	homepage.mac.com-javierm1.warc.gz	0
-javierm1	public.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	public.me.com-javierm1.warc.gz	0
-javierm1	web.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	web.me.com-javierm1.warc.gz	0
-jrmcneely	gallery.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	gallery.me.com-jrmcneely.warc.gz	0
-jrmcneely	homepage.mac.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	homepage.mac.com-jrmcneely.warc.gz	0
-jrmcneely	public.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	public.me.com-jrmcneely.warc.gz	0
-jrmcneely	web.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	web.me.com-jrmcneely.warc.gz	0
-kcahill	gallery.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	gallery.me.com-kcahill.warc.gz	0
-kcahill	homepage.mac.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	homepage.mac.com-kcahill.warc.gz	0
-kcahill	public.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	public.me.com-kcahill.warc.gz	0
-kcahill	web.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	web.me.com-kcahill.warc.gz	0
-mathieutouillet	gallery.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	gallery.me.com-mathieutouillet.warc.gz	0
-mathieutouillet	homepage.mac.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	homepage.mac.com-mathieutouillet.warc.gz	0
-mathieutouillet	public.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	public.me.com-mathieutouillet.warc.gz	0
-mathieutouillet	web.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	web.me.com-mathieutouillet.warc.gz	0
-rodger.hurst	gallery.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	gallery.me.com-rodger.hurst.warc.gz	0
-rodger.hurst	homepage.mac.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	homepage.mac.com-rodger.hurst.warc.gz	0
-rodger.hurst	public.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	public.me.com-rodger.hurst.warc.gz	0
-rodger.hurst	web.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	web.me.com-rodger.hurst.warc.gz	0
-seb4700	gallery.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	gallery.me.com-seb4700.warc.gz	0
-seb4700	homepage.mac.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	homepage.mac.com-seb4700.warc.gz	0
-seb4700	public.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	public.me.com-seb4700.warc.gz	0
-seb4700	web.me.com		archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	web.me.com-seb4700.warc.gz	0
+davislive	gallery.me.com	2012-04-10 00:31:29	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	gallery.me.com-davislive.warc.gz	35827737
+davislive	homepage.mac.com	2012-04-10 00:31:29	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	homepage.mac.com-davislive.warc.gz	4898
+davislive	public.me.com	2012-04-10 00:28:12	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	public.me.com-davislive.warc.gz	1919
+davislive	web.me.com	2012-04-10 00:28:11	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	web.me.com-davislive.warc.gz	777624913
+javierm1	gallery.me.com	2012-04-09 23:51:56	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	gallery.me.com-javierm1.warc.gz	5213
+javierm1	homepage.mac.com	2012-04-09 23:51:56	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	homepage.mac.com-javierm1.warc.gz	4925
+javierm1	public.me.com	2012-04-09 23:51:54	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	public.me.com-javierm1.warc.gz	1918
+javierm1	web.me.com	2012-04-09 23:51:54	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	web.me.com-javierm1.warc.gz	20423809
+jrmcneely	gallery.me.com	2012-04-10 00:32:05	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	gallery.me.com-jrmcneely.warc.gz	5710
+jrmcneely	homepage.mac.com	2012-04-10 00:32:05	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	homepage.mac.com-jrmcneely.warc.gz	4925
+jrmcneely	public.me.com	2012-04-10 00:32:04	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	public.me.com-jrmcneely.warc.gz	1918
+jrmcneely	web.me.com	2012-04-10 00:32:04	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	web.me.com-jrmcneely.warc.gz	1833843
+kcahill	gallery.me.com	2012-04-09 23:48:17	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	gallery.me.com-kcahill.warc.gz	5671
+kcahill	homepage.mac.com	2012-04-09 23:48:17	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	homepage.mac.com-kcahill.warc.gz	4905
+kcahill	public.me.com	2012-04-09 23:48:14	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	public.me.com-kcahill.warc.gz	1912
+kcahill	web.me.com	2012-04-09 23:48:14	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	web.me.com-kcahill.warc.gz	17100473
+mathieutouillet	gallery.me.com	2012-04-10 00:12:24	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	gallery.me.com-mathieutouillet.warc.gz	5698
+mathieutouillet	homepage.mac.com	2012-04-10 00:12:25	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	homepage.mac.com-mathieutouillet.warc.gz	4917
+mathieutouillet	public.me.com	2012-04-10 00:12:23	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	public.me.com-mathieutouillet.warc.gz	6580
+mathieutouillet	web.me.com	2012-04-10 00:12:22	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	web.me.com-mathieutouillet.warc.gz	135596432
+rodger.hurst	gallery.me.com	2012-04-10 01:16:56	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	gallery.me.com-rodger.hurst.warc.gz	1747432398
+rodger.hurst	homepage.mac.com	2012-04-10 01:16:57	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	homepage.mac.com-rodger.hurst.warc.gz	4936
+rodger.hurst	public.me.com	2012-04-10 00:40:03	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	public.me.com-rodger.hurst.warc.gz	79846427
+rodger.hurst	web.me.com	2012-04-10 00:38:55	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	web.me.com-rodger.hurst.warc.gz	86741335
+seb4700	gallery.me.com	2012-04-10 02:28:58	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	gallery.me.com-seb4700.warc.gz	1253975141
+seb4700	homepage.mac.com	2012-04-10 02:28:58	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	homepage.mac.com-seb4700.warc.gz	4889
+seb4700	public.me.com	2012-04-10 01:32:20	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	public.me.com-seb4700.warc.gz	578488480
+seb4700	web.me.com	2012-04-10 01:18:47	archiveteam-mobileme-hero-571x	archiveteam-mobileme-hero-571x-5719.tar	web.me.com-seb4700.warc.gz	5193757

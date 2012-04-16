@@ -1,12 +1,12 @@
-lynsmith	gallery.me.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	gallery.me.com-lynsmith.warc.gz	0
-lynsmith	homepage.mac.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	homepage.mac.com-lynsmith.warc.gz	0
-lynsmith	public.me.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	public.me.com-lynsmith.warc.gz	0
-lynsmith	web.me.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	web.me.com-lynsmith.warc.gz	0
-prattes	gallery.me.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	gallery.me.com-prattes.warc.gz	0
-prattes	homepage.mac.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	homepage.mac.com-prattes.warc.gz	0
-prattes	public.me.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	public.me.com-prattes.warc.gz	0
-prattes	web.me.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	web.me.com-prattes.warc.gz	0
-skylerlusteg	gallery.me.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	gallery.me.com-skylerlusteg.warc.gz	0
-skylerlusteg	homepage.mac.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	homepage.mac.com-skylerlusteg.warc.gz	0
-skylerlusteg	public.me.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	public.me.com-skylerlusteg.warc.gz	0
-skylerlusteg	web.me.com		archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	web.me.com-skylerlusteg.warc.gz	0
+lynsmith	gallery.me.com	2012-04-09 12:36:42	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	gallery.me.com-lynsmith.warc.gz	2082614482
+lynsmith	homepage.mac.com	2012-04-09 12:36:42	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	homepage.mac.com-lynsmith.warc.gz	4905
+lynsmith	public.me.com	2012-04-09 12:01:05	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	public.me.com-lynsmith.warc.gz	97748402
+lynsmith	web.me.com	2012-04-09 11:58:47	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	web.me.com-lynsmith.warc.gz	452667022
+prattes	gallery.me.com	2012-04-09 13:00:57	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	gallery.me.com-prattes.warc.gz	1911689067
+prattes	homepage.mac.com	2012-04-09 13:00:58	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	homepage.mac.com-prattes.warc.gz	36894
+prattes	public.me.com	2012-04-09 12:47:22	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	public.me.com-prattes.warc.gz	1907
+prattes	web.me.com	2012-04-09 12:47:22	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	web.me.com-prattes.warc.gz	211730647
+skylerlusteg	gallery.me.com	2012-04-09 12:37:37	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	gallery.me.com-skylerlusteg.warc.gz	5352
+skylerlusteg	homepage.mac.com	2012-04-09 12:37:37	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	homepage.mac.com-skylerlusteg.warc.gz	4930
+skylerlusteg	public.me.com	2012-04-09 12:37:36	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	public.me.com-skylerlusteg.warc.gz	1927
+skylerlusteg	web.me.com	2012-04-09 12:37:36	archiveteam-mobileme-hero-548x	archiveteam-mobileme-hero-548x-5486.tar	web.me.com-skylerlusteg.warc.gz	7320637

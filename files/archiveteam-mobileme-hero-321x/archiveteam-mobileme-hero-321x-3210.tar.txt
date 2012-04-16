@@ -1,16 +1,16 @@
-daveangle	gallery.me.com		archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	gallery.me.com-daveangle.warc.gz	0
-daveangle	homepage.mac.com		archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	homepage.mac.com-daveangle.warc.gz	0
-daveangle	public.me.com		archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	public.me.com-daveangle.warc.gz	0
-daveangle	web.me.com		archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	web.me.com-daveangle.warc.gz	0
-editrichallen	gallery.me.com		archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	gallery.me.com-editrichallen.warc.gz	0
-editrichallen	homepage.mac.com		archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	homepage.mac.com-editrichallen.warc.gz	0
-editrichallen	public.me.com		archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	public.me.com-editrichallen.warc.gz	0
-editrichallen	web.me.com		archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	web.me.com-editrichallen.warc.gz	0
-kainashirt	gallery.me.com		archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	gallery.me.com-kainashirt.warc.gz	0
-kainashirt	homepage.mac.com		archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	homepage.mac.com-kainashirt.warc.gz	0
-kainashirt	public.me.com		archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	public.me.com-kainashirt.warc.gz	0
-kainashirt	web.me.com		archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	web.me.com-kainashirt.warc.gz	0
-me.morris1	gallery.me.com		archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	gallery.me.com-me.morris1.warc.gz	0
-me.morris1	homepage.mac.com		archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	homepage.mac.com-me.morris1.warc.gz	0
-me.morris1	public.me.com		archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	public.me.com-me.morris1.warc.gz	0
-me.morris1	web.me.com		archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	web.me.com-me.morris1.warc.gz	0
+daveangle	gallery.me.com	2012-04-03 00:49:01	archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	gallery.me.com-daveangle.warc.gz	4241
+daveangle	homepage.mac.com	2012-04-03 00:49:05	archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	homepage.mac.com-daveangle.warc.gz	126693
+daveangle	public.me.com	2012-04-03 00:49:00	archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	public.me.com-daveangle.warc.gz	69366820
+daveangle	web.me.com	2012-04-03 00:48:45	archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	web.me.com-daveangle.warc.gz	41698531
+editrichallen	gallery.me.com	2012-04-03 01:01:09	archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	gallery.me.com-editrichallen.warc.gz	43202895
+editrichallen	homepage.mac.com	2012-04-03 01:01:14	archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	homepage.mac.com-editrichallen.warc.gz	144353
+editrichallen	public.me.com	2012-04-03 01:00:24	archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	public.me.com-editrichallen.warc.gz	1928
+editrichallen	web.me.com	2012-04-03 01:00:23	archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	web.me.com-editrichallen.warc.gz	836579326
+kainashirt	gallery.me.com	2012-04-03 01:03:12	archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	gallery.me.com-kainashirt.warc.gz	5039
+kainashirt	homepage.mac.com	2012-04-03 01:03:12	archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	homepage.mac.com-kainashirt.warc.gz	4928
+kainashirt	public.me.com	2012-04-03 01:03:11	archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	public.me.com-kainashirt.warc.gz	1913
+kainashirt	web.me.com	2012-04-03 01:03:11	archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	web.me.com-kainashirt.warc.gz	11829944
+me.morris1	gallery.me.com	2012-04-03 02:43:54	archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	gallery.me.com-me.morris1.warc.gz	4010199406
+me.morris1	homepage.mac.com	2012-04-03 02:44:13	archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	homepage.mac.com-me.morris1.warc.gz	524815
+me.morris1	public.me.com	2012-04-03 01:16:25	archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	public.me.com-me.morris1.warc.gz	3559
+me.morris1	web.me.com	2012-04-03 01:16:24	archiveteam-mobileme-hero-321x	archiveteam-mobileme-hero-321x-3210.tar	web.me.com-me.morris1.warc.gz	406892102

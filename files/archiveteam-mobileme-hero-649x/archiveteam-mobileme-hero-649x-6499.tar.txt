@@ -1,8 +1,8 @@
-alec.anderson	gallery.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6499.tar	gallery.me.com-alec.anderson.warc.gz	0
-alec.anderson	homepage.mac.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6499.tar	homepage.mac.com-alec.anderson.warc.gz	0
-alec.anderson	public.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6499.tar	public.me.com-alec.anderson.warc.gz	0
-alec.anderson	web.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6499.tar	web.me.com-alec.anderson.warc.gz	0
-kyedsuler	gallery.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6499.tar	gallery.me.com-kyedsuler.warc.gz	0
-kyedsuler	homepage.mac.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6499.tar	homepage.mac.com-kyedsuler.warc.gz	0
-kyedsuler	public.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6499.tar	public.me.com-kyedsuler.warc.gz	0
-kyedsuler	web.me.com		archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6499.tar	web.me.com-kyedsuler.warc.gz	0
+alec.anderson	gallery.me.com	2012-04-11 20:39:41	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6499.tar	gallery.me.com-alec.anderson.warc.gz	1512015228
+alec.anderson	homepage.mac.com	2012-04-11 20:39:42	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6499.tar	homepage.mac.com-alec.anderson.warc.gz	4912
+alec.anderson	public.me.com	2012-04-11 17:56:05	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6499.tar	public.me.com-alec.anderson.warc.gz	5574619773
+alec.anderson	web.me.com	2012-04-11 16:52:24	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6499.tar	web.me.com-alec.anderson.warc.gz	86413116
+kyedsuler	gallery.me.com	2012-04-11 16:41:33	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6499.tar	gallery.me.com-kyedsuler.warc.gz	2497293609
+kyedsuler	homepage.mac.com	2012-04-11 16:42:58	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6499.tar	homepage.mac.com-kyedsuler.warc.gz	2704750
+kyedsuler	public.me.com	2012-04-11 15:45:09	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6499.tar	public.me.com-kyedsuler.warc.gz	14491342
+kyedsuler	web.me.com	2012-04-11 15:44:21	archiveteam-mobileme-hero-649x	archiveteam-mobileme-hero-649x-6499.tar	web.me.com-kyedsuler.warc.gz	935990851

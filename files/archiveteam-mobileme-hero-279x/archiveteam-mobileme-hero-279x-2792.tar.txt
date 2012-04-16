@@ -1,16 +1,16 @@
-e162267207	gallery.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	gallery.me.com-e162267207.warc.gz	0
-e162267207	homepage.mac.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	homepage.mac.com-e162267207.warc.gz	0
-e162267207	public.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	public.me.com-e162267207.warc.gz	0
-e162267207	web.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	web.me.com-e162267207.warc.gz	0
-ireneaclan	gallery.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	gallery.me.com-ireneaclan.warc.gz	0
-ireneaclan	homepage.mac.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	homepage.mac.com-ireneaclan.warc.gz	0
-ireneaclan	public.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	public.me.com-ireneaclan.warc.gz	0
-ireneaclan	web.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	web.me.com-ireneaclan.warc.gz	0
-jjnoel	gallery.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	gallery.me.com-jjnoel.warc.gz	0
-jjnoel	homepage.mac.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	homepage.mac.com-jjnoel.warc.gz	0
-jjnoel	public.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	public.me.com-jjnoel.warc.gz	0
-jjnoel	web.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	web.me.com-jjnoel.warc.gz	0
-ollie.cuk	gallery.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	gallery.me.com-ollie.cuk.warc.gz	0
-ollie.cuk	homepage.mac.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	homepage.mac.com-ollie.cuk.warc.gz	0
-ollie.cuk	public.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	public.me.com-ollie.cuk.warc.gz	0
-ollie.cuk	web.me.com		archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	web.me.com-ollie.cuk.warc.gz	0
+e162267207	gallery.me.com	2012-04-01 22:28:43	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	gallery.me.com-e162267207.warc.gz	8352
+e162267207	homepage.mac.com	2012-04-01 22:28:43	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	homepage.mac.com-e162267207.warc.gz	5184
+e162267207	public.me.com	2012-04-01 22:28:43	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	public.me.com-e162267207.warc.gz	1924
+e162267207	web.me.com	2012-04-01 22:28:43	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	web.me.com-e162267207.warc.gz	17681
+ireneaclan	gallery.me.com	2012-04-02 00:25:50	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	gallery.me.com-ireneaclan.warc.gz	3588542615
+ireneaclan	homepage.mac.com	2012-04-02 00:25:50	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	homepage.mac.com-ireneaclan.warc.gz	4917
+ireneaclan	public.me.com	2012-04-01 23:03:07	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	public.me.com-ireneaclan.warc.gz	1911
+ireneaclan	web.me.com	2012-04-01 23:03:06	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	web.me.com-ireneaclan.warc.gz	378074308
+jjnoel	gallery.me.com	2012-04-01 22:30:05	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	gallery.me.com-jjnoel.warc.gz	97961328
+jjnoel	homepage.mac.com	2012-04-01 22:30:05	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	homepage.mac.com-jjnoel.warc.gz	4904
+jjnoel	public.me.com	2012-04-01 22:29:35	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	public.me.com-jjnoel.warc.gz	1914
+jjnoel	web.me.com	2012-04-01 22:29:35	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	web.me.com-jjnoel.warc.gz	5132778
+ollie.cuk	gallery.me.com	2012-04-02 00:32:28	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	gallery.me.com-ollie.cuk.warc.gz	75172092
+ollie.cuk	homepage.mac.com	2012-04-02 00:32:28	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	homepage.mac.com-ollie.cuk.warc.gz	4902
+ollie.cuk	public.me.com	2012-04-02 00:30:24	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	public.me.com-ollie.cuk.warc.gz	142473387
+ollie.cuk	web.me.com	2012-04-02 00:28:20	archiveteam-mobileme-hero-279x	archiveteam-mobileme-hero-279x-2792.tar	web.me.com-ollie.cuk.warc.gz	342792524

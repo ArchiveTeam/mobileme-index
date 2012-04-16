@@ -1,8 +1,8 @@
-glenngregg	gallery.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4741.tar	gallery.me.com-glenngregg.warc.gz	0
-glenngregg	homepage.mac.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4741.tar	homepage.mac.com-glenngregg.warc.gz	0
-glenngregg	public.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4741.tar	public.me.com-glenngregg.warc.gz	0
-glenngregg	web.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4741.tar	web.me.com-glenngregg.warc.gz	0
-melissadcrocker	gallery.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4741.tar	gallery.me.com-melissadcrocker.warc.gz	0
-melissadcrocker	homepage.mac.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4741.tar	homepage.mac.com-melissadcrocker.warc.gz	0
-melissadcrocker	public.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4741.tar	public.me.com-melissadcrocker.warc.gz	0
-melissadcrocker	web.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4741.tar	web.me.com-melissadcrocker.warc.gz	0
+glenngregg	gallery.me.com	2012-04-06 16:45:19	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4741.tar	gallery.me.com-glenngregg.warc.gz	1272601459
+glenngregg	homepage.mac.com	2012-04-06 16:45:58	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4741.tar	homepage.mac.com-glenngregg.warc.gz	646271
+glenngregg	public.me.com	2012-04-06 15:54:49	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4741.tar	public.me.com-glenngregg.warc.gz	7769687294
+glenngregg	web.me.com	2012-04-06 13:11:13	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4741.tar	web.me.com-glenngregg.warc.gz	1686335165
+melissadcrocker	gallery.me.com	2012-04-06 12:30:25	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4741.tar	gallery.me.com-melissadcrocker.warc.gz	15098453
+melissadcrocker	homepage.mac.com	2012-04-06 12:30:25	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4741.tar	homepage.mac.com-melissadcrocker.warc.gz	4934
+melissadcrocker	public.me.com	2012-04-06 12:29:59	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4741.tar	public.me.com-melissadcrocker.warc.gz	1928
+melissadcrocker	web.me.com	2012-04-06 12:29:59	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4741.tar	web.me.com-melissadcrocker.warc.gz	85836550

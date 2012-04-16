@@ -1,28 +1,28 @@
-alwayson	gallery.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	gallery.me.com-alwayson.warc.gz	0
-alwayson	homepage.mac.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	homepage.mac.com-alwayson.warc.gz	0
-alwayson	public.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	public.me.com-alwayson.warc.gz	0
-alwayson	web.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	web.me.com-alwayson.warc.gz	0
-azul.cielo	gallery.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	gallery.me.com-azul.cielo.warc.gz	0
-azul.cielo	homepage.mac.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	homepage.mac.com-azul.cielo.warc.gz	0
-azul.cielo	public.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	public.me.com-azul.cielo.warc.gz	0
-azul.cielo	web.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	web.me.com-azul.cielo.warc.gz	0
-dcoproductions	gallery.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	gallery.me.com-dcoproductions.warc.gz	0
-dcoproductions	homepage.mac.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	homepage.mac.com-dcoproductions.warc.gz	0
-dcoproductions	public.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	public.me.com-dcoproductions.warc.gz	0
-dcoproductions	web.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	web.me.com-dcoproductions.warc.gz	0
-eflaten	gallery.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	gallery.me.com-eflaten.warc.gz	0
-eflaten	homepage.mac.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	homepage.mac.com-eflaten.warc.gz	0
-eflaten	public.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	public.me.com-eflaten.warc.gz	0
-eflaten	web.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	web.me.com-eflaten.warc.gz	0
-femtodude	gallery.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	gallery.me.com-femtodude.warc.gz	0
-femtodude	homepage.mac.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	homepage.mac.com-femtodude.warc.gz	0
-femtodude	public.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	public.me.com-femtodude.warc.gz	0
-femtodude	web.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	web.me.com-femtodude.warc.gz	0
-ste_lucas	gallery.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	gallery.me.com-ste_lucas.warc.gz	0
-ste_lucas	homepage.mac.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	homepage.mac.com-ste_lucas.warc.gz	0
-ste_lucas	public.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	public.me.com-ste_lucas.warc.gz	0
-ste_lucas	web.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	web.me.com-ste_lucas.warc.gz	0
-susanripley	gallery.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	gallery.me.com-susanripley.warc.gz	0
-susanripley	homepage.mac.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	homepage.mac.com-susanripley.warc.gz	0
-susanripley	public.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	public.me.com-susanripley.warc.gz	0
-susanripley	web.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	web.me.com-susanripley.warc.gz	0
+alwayson	gallery.me.com	2012-04-05 20:40:17	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	gallery.me.com-alwayson.warc.gz	5671
+alwayson	homepage.mac.com	2012-04-05 20:40:17	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	homepage.mac.com-alwayson.warc.gz	4907
+alwayson	public.me.com	2012-04-05 20:40:16	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	public.me.com-alwayson.warc.gz	493718980
+alwayson	web.me.com	2012-04-05 20:06:45	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	web.me.com-alwayson.warc.gz	495182616
+azul.cielo	gallery.me.com	2012-04-05 22:37:22	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	gallery.me.com-azul.cielo.warc.gz	280995402
+azul.cielo	homepage.mac.com	2012-04-05 22:37:22	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	homepage.mac.com-azul.cielo.warc.gz	4900
+azul.cielo	public.me.com	2012-04-05 22:28:27	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	public.me.com-azul.cielo.warc.gz	1283533228
+azul.cielo	web.me.com	2012-04-05 21:59:02	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	web.me.com-azul.cielo.warc.gz	305688771
+dcoproductions	gallery.me.com	2012-04-05 21:01:14	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	gallery.me.com-dcoproductions.warc.gz	1143817142
+dcoproductions	homepage.mac.com	2012-04-05 21:01:15	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	homepage.mac.com-dcoproductions.warc.gz	4929
+dcoproductions	public.me.com	2012-04-05 20:43:55	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	public.me.com-dcoproductions.warc.gz	22661409
+dcoproductions	web.me.com	2012-04-05 20:43:14	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	web.me.com-dcoproductions.warc.gz	22179951
+eflaten	gallery.me.com	2012-04-05 20:40:20	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	gallery.me.com-eflaten.warc.gz	12326
+eflaten	homepage.mac.com	2012-04-05 20:40:20	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	homepage.mac.com-eflaten.warc.gz	7138
+eflaten	public.me.com	2012-04-05 20:40:19	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	public.me.com-eflaten.warc.gz	1913
+eflaten	web.me.com	2012-04-05 20:40:19	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	web.me.com-eflaten.warc.gz	22482
+femtodude	gallery.me.com	2012-04-05 20:40:22	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	gallery.me.com-femtodude.warc.gz	8358
+femtodude	homepage.mac.com	2012-04-05 20:40:22	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	homepage.mac.com-femtodude.warc.gz	5174
+femtodude	public.me.com	2012-04-05 20:40:21	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	public.me.com-femtodude.warc.gz	1919
+femtodude	web.me.com	2012-04-05 20:40:21	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	web.me.com-femtodude.warc.gz	17684
+ste_lucas	gallery.me.com	2012-04-05 21:28:11	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	gallery.me.com-ste_lucas.warc.gz	133483533
+ste_lucas	homepage.mac.com	2012-04-05 21:28:11	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	homepage.mac.com-ste_lucas.warc.gz	4903
+ste_lucas	public.me.com	2012-04-05 21:23:32	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	public.me.com-ste_lucas.warc.gz	15319
+ste_lucas	web.me.com	2012-04-05 21:23:30	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	web.me.com-ste_lucas.warc.gz	122577122
+susanripley	gallery.me.com	2012-04-05 19:58:41	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	gallery.me.com-susanripley.warc.gz	5276
+susanripley	homepage.mac.com	2012-04-05 19:58:41	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	homepage.mac.com-susanripley.warc.gz	4933
+susanripley	public.me.com	2012-04-05 19:58:40	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	public.me.com-susanripley.warc.gz	1926
+susanripley	web.me.com	2012-04-05 19:58:37	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4412.tar	web.me.com-susanripley.warc.gz	1611090

@@ -1,16 +1,16 @@
-blairapryan	gallery.me.com		archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	gallery.me.com-blairapryan.warc.gz	0
-blairapryan	homepage.mac.com		archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	homepage.mac.com-blairapryan.warc.gz	0
-blairapryan	public.me.com		archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	public.me.com-blairapryan.warc.gz	0
-blairapryan	web.me.com		archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	web.me.com-blairapryan.warc.gz	0
-hd24	gallery.me.com		archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	gallery.me.com-hd24.warc.gz	0
-hd24	homepage.mac.com		archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	homepage.mac.com-hd24.warc.gz	0
-hd24	public.me.com		archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	public.me.com-hd24.warc.gz	0
-hd24	web.me.com		archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	web.me.com-hd24.warc.gz	0
-mark.wolff	gallery.me.com		archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	gallery.me.com-mark.wolff.warc.gz	0
-mark.wolff	homepage.mac.com		archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	homepage.mac.com-mark.wolff.warc.gz	0
-mark.wolff	public.me.com		archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	public.me.com-mark.wolff.warc.gz	0
-mark.wolff	web.me.com		archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	web.me.com-mark.wolff.warc.gz	0
-plustt	gallery.me.com		archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	gallery.me.com-plustt.warc.gz	0
-plustt	homepage.mac.com		archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	homepage.mac.com-plustt.warc.gz	0
-plustt	public.me.com		archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	public.me.com-plustt.warc.gz	0
-plustt	web.me.com		archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	web.me.com-plustt.warc.gz	0
+blairapryan	gallery.me.com	2012-04-08 01:06:22	archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	gallery.me.com-blairapryan.warc.gz	4818187
+blairapryan	homepage.mac.com	2012-04-08 01:06:23	archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	homepage.mac.com-blairapryan.warc.gz	59102
+blairapryan	public.me.com	2012-04-08 01:06:12	archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	public.me.com-blairapryan.warc.gz	1928
+blairapryan	web.me.com	2012-04-08 01:06:11	archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	web.me.com-blairapryan.warc.gz	389857190
+hd24	gallery.me.com	2012-04-08 00:46:04	archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	gallery.me.com-hd24.warc.gz	5139
+hd24	homepage.mac.com	2012-04-08 00:46:05	archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	homepage.mac.com-hd24.warc.gz	62287
+hd24	public.me.com	2012-04-08 00:46:03	archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	public.me.com-hd24.warc.gz	1906
+hd24	web.me.com	2012-04-08 00:46:03	archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	web.me.com-hd24.warc.gz	14466554
+mark.wolff	gallery.me.com	2012-04-08 02:30:25	archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	gallery.me.com-mark.wolff.warc.gz	3514278195
+mark.wolff	homepage.mac.com	2012-04-08 02:30:25	archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	homepage.mac.com-mark.wolff.warc.gz	4903
+mark.wolff	public.me.com	2012-04-08 01:43:47	archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	public.me.com-mark.wolff.warc.gz	1918
+mark.wolff	web.me.com	2012-04-08 01:43:44	archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	web.me.com-mark.wolff.warc.gz	2381566359
+plustt	gallery.me.com	2012-04-08 00:42:51	archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	gallery.me.com-plustt.warc.gz	461321090
+plustt	homepage.mac.com	2012-04-08 00:42:51	archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	homepage.mac.com-plustt.warc.gz	4907
+plustt	public.me.com	2012-04-08 00:31:49	archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	public.me.com-plustt.warc.gz	1912
+plustt	web.me.com	2012-04-08 00:31:49	archiveteam-mobileme-hero-506x	archiveteam-mobileme-hero-506x-5064.tar	web.me.com-plustt.warc.gz	14066177

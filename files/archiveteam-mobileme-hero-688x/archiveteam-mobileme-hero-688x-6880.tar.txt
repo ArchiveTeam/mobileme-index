@@ -1,12 +1,12 @@
-drshane	gallery.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	gallery.me.com-drshane.warc.gz	0
-drshane	homepage.mac.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	homepage.mac.com-drshane.warc.gz	0
-drshane	public.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	public.me.com-drshane.warc.gz	0
-drshane	web.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	web.me.com-drshane.warc.gz	0
-mbrianmcguire	gallery.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	gallery.me.com-mbrianmcguire.warc.gz	0
-mbrianmcguire	homepage.mac.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	homepage.mac.com-mbrianmcguire.warc.gz	0
-mbrianmcguire	public.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	public.me.com-mbrianmcguire.warc.gz	0
-mbrianmcguire	web.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	web.me.com-mbrianmcguire.warc.gz	0
-nicholsonjim	gallery.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	gallery.me.com-nicholsonjim.warc.gz	0
-nicholsonjim	homepage.mac.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	homepage.mac.com-nicholsonjim.warc.gz	0
-nicholsonjim	public.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	public.me.com-nicholsonjim.warc.gz	0
-nicholsonjim	web.me.com		archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	web.me.com-nicholsonjim.warc.gz	0
+drshane	gallery.me.com	2012-04-12 15:44:18	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	gallery.me.com-drshane.warc.gz	1241364735
+drshane	homepage.mac.com	2012-04-12 15:44:19	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	homepage.mac.com-drshane.warc.gz	4887
+drshane	public.me.com	2012-04-12 15:32:07	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	public.me.com-drshane.warc.gz	1910
+drshane	web.me.com	2012-04-12 15:30:58	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	web.me.com-drshane.warc.gz	1732280346
+mbrianmcguire	gallery.me.com	2012-04-12 12:32:24	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	gallery.me.com-mbrianmcguire.warc.gz	35707731
+mbrianmcguire	homepage.mac.com	2012-04-12 12:32:25	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	homepage.mac.com-mbrianmcguire.warc.gz	4920
+mbrianmcguire	public.me.com	2012-04-12 12:32:05	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	public.me.com-mbrianmcguire.warc.gz	84056
+mbrianmcguire	web.me.com	2012-04-12 12:32:04	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	web.me.com-mbrianmcguire.warc.gz	1841430
+nicholsonjim	gallery.me.com	2012-04-12 17:21:29	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	gallery.me.com-nicholsonjim.warc.gz	2334723415
+nicholsonjim	homepage.mac.com	2012-04-12 17:21:29	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	homepage.mac.com-nicholsonjim.warc.gz	4924
+nicholsonjim	public.me.com	2012-04-12 16:07:54	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	public.me.com-nicholsonjim.warc.gz	5692494
+nicholsonjim	web.me.com	2012-04-12 16:07:36	archiveteam-mobileme-hero-688x	archiveteam-mobileme-hero-688x-6880.tar	web.me.com-nicholsonjim.warc.gz	148878576

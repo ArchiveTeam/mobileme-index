@@ -1,24 +1,24 @@
-adriatichouse	gallery.me.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	gallery.me.com-adriatichouse.warc.gz	0
-adriatichouse	homepage.mac.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	homepage.mac.com-adriatichouse.warc.gz	0
-adriatichouse	public.me.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	public.me.com-adriatichouse.warc.gz	0
-adriatichouse	web.me.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	web.me.com-adriatichouse.warc.gz	0
-blakechoquer	gallery.me.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	gallery.me.com-blakechoquer.warc.gz	0
-blakechoquer	homepage.mac.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	homepage.mac.com-blakechoquer.warc.gz	0
-blakechoquer	public.me.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	public.me.com-blakechoquer.warc.gz	0
-blakechoquer	web.me.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	web.me.com-blakechoquer.warc.gz	0
-c2032348317	gallery.me.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	gallery.me.com-c2032348317.warc.gz	0
-c2032348317	homepage.mac.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	homepage.mac.com-c2032348317.warc.gz	0
-c2032348317	public.me.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	public.me.com-c2032348317.warc.gz	0
-c2032348317	web.me.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	web.me.com-c2032348317.warc.gz	0
-dbrouillette	gallery.me.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	gallery.me.com-dbrouillette.warc.gz	0
-dbrouillette	homepage.mac.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	homepage.mac.com-dbrouillette.warc.gz	0
-dbrouillette	public.me.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	public.me.com-dbrouillette.warc.gz	0
-dbrouillette	web.me.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	web.me.com-dbrouillette.warc.gz	0
-dionvs	gallery.me.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	gallery.me.com-dionvs.warc.gz	0
-dionvs	homepage.mac.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	homepage.mac.com-dionvs.warc.gz	0
-dionvs	public.me.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	public.me.com-dionvs.warc.gz	0
-dionvs	web.me.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	web.me.com-dionvs.warc.gz	0
-susanhayden	gallery.me.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	gallery.me.com-susanhayden.warc.gz	0
-susanhayden	homepage.mac.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	homepage.mac.com-susanhayden.warc.gz	0
-susanhayden	public.me.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	public.me.com-susanhayden.warc.gz	0
-susanhayden	web.me.com		archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	web.me.com-susanhayden.warc.gz	0
+adriatichouse	gallery.me.com	2012-04-06 10:22:19	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	gallery.me.com-adriatichouse.warc.gz	8367
+adriatichouse	homepage.mac.com	2012-04-06 10:22:19	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	homepage.mac.com-adriatichouse.warc.gz	5178
+adriatichouse	public.me.com	2012-04-06 10:22:18	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	public.me.com-adriatichouse.warc.gz	1925
+adriatichouse	web.me.com	2012-04-06 10:22:18	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	web.me.com-adriatichouse.warc.gz	17767
+blakechoquer	gallery.me.com	2012-04-06 11:36:54	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	gallery.me.com-blakechoquer.warc.gz	63359392
+blakechoquer	homepage.mac.com	2012-04-06 11:37:15	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	homepage.mac.com-blakechoquer.warc.gz	2565464
+blakechoquer	public.me.com	2012-04-06 11:33:12	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	public.me.com-blakechoquer.warc.gz	96240612
+blakechoquer	web.me.com	2012-04-06 11:32:48	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	web.me.com-blakechoquer.warc.gz	285654480
+c2032348317	gallery.me.com	2012-04-06 10:22:21	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	gallery.me.com-c2032348317.warc.gz	8361
+c2032348317	homepage.mac.com	2012-04-06 10:22:21	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	homepage.mac.com-c2032348317.warc.gz	5180
+c2032348317	public.me.com	2012-04-06 10:22:20	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	public.me.com-c2032348317.warc.gz	1923
+c2032348317	web.me.com	2012-04-06 10:22:20	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	web.me.com-c2032348317.warc.gz	17723
+dbrouillette	gallery.me.com	2012-04-06 10:22:04	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	gallery.me.com-dbrouillette.warc.gz	1327134181
+dbrouillette	homepage.mac.com	2012-04-06 10:22:04	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	homepage.mac.com-dbrouillette.warc.gz	4916
+dbrouillette	public.me.com	2012-04-06 10:06:41	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	public.me.com-dbrouillette.warc.gz	316685924
+dbrouillette	web.me.com	2012-04-06 10:03:40	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	web.me.com-dbrouillette.warc.gz	145633676
+dionvs	gallery.me.com	2012-04-06 10:22:17	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	gallery.me.com-dionvs.warc.gz	6438276
+dionvs	homepage.mac.com	2012-04-06 10:22:17	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	homepage.mac.com-dionvs.warc.gz	4909
+dionvs	public.me.com	2012-04-06 10:22:10	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	public.me.com-dionvs.warc.gz	1914
+dionvs	web.me.com	2012-04-06 10:22:10	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	web.me.com-dionvs.warc.gz	90540
+susanhayden	gallery.me.com	2012-04-06 11:05:48	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	gallery.me.com-susanhayden.warc.gz	2328370395
+susanhayden	homepage.mac.com	2012-04-06 11:05:49	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	homepage.mac.com-susanhayden.warc.gz	7896
+susanhayden	public.me.com	2012-04-06 10:29:58	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	public.me.com-susanhayden.warc.gz	1923
+susanhayden	web.me.com	2012-04-06 10:29:58	archiveteam-mobileme-hero-465x	archiveteam-mobileme-hero-465x-4652.tar	web.me.com-susanhayden.warc.gz	73347447

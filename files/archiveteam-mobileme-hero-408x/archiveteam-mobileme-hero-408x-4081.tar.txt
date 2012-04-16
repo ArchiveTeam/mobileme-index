@@ -1,24 +1,24 @@
-c530731664	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	gallery.me.com-c530731664.warc.gz	0
-c530731664	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	homepage.mac.com-c530731664.warc.gz	0
-c530731664	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	public.me.com-c530731664.warc.gz	0
-c530731664	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	web.me.com-c530731664.warc.gz	0
-ethan_hill	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	gallery.me.com-ethan_hill.warc.gz	0
-ethan_hill	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	homepage.mac.com-ethan_hill.warc.gz	0
-ethan_hill	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	public.me.com-ethan_hill.warc.gz	0
-ethan_hill	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	web.me.com-ethan_hill.warc.gz	0
-isehnneto	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	gallery.me.com-isehnneto.warc.gz	0
-isehnneto	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	homepage.mac.com-isehnneto.warc.gz	0
-isehnneto	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	public.me.com-isehnneto.warc.gz	0
-isehnneto	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	web.me.com-isehnneto.warc.gz	0
-mraceto	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	gallery.me.com-mraceto.warc.gz	0
-mraceto	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	homepage.mac.com-mraceto.warc.gz	0
-mraceto	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	public.me.com-mraceto.warc.gz	0
-mraceto	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	web.me.com-mraceto.warc.gz	0
-rmennick	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	gallery.me.com-rmennick.warc.gz	0
-rmennick	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	homepage.mac.com-rmennick.warc.gz	0
-rmennick	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	public.me.com-rmennick.warc.gz	0
-rmennick	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	web.me.com-rmennick.warc.gz	0
-speakmanwatt	gallery.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	gallery.me.com-speakmanwatt.warc.gz	0
-speakmanwatt	homepage.mac.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	homepage.mac.com-speakmanwatt.warc.gz	0
-speakmanwatt	public.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	public.me.com-speakmanwatt.warc.gz	0
-speakmanwatt	web.me.com		archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	web.me.com-speakmanwatt.warc.gz	0
+c530731664	gallery.me.com	2012-04-05 01:35:54	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	gallery.me.com-c530731664.warc.gz	8353
+c530731664	homepage.mac.com	2012-04-05 01:35:54	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	homepage.mac.com-c530731664.warc.gz	5170
+c530731664	public.me.com	2012-04-05 01:35:53	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	public.me.com-c530731664.warc.gz	1918
+c530731664	web.me.com	2012-04-05 01:35:53	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	web.me.com-c530731664.warc.gz	17709
+ethan_hill	gallery.me.com	2012-04-05 00:18:12	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	gallery.me.com-ethan_hill.warc.gz	4294
+ethan_hill	homepage.mac.com	2012-04-05 00:18:12	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	homepage.mac.com-ethan_hill.warc.gz	4927
+ethan_hill	public.me.com	2012-04-05 00:18:11	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	public.me.com-ethan_hill.warc.gz	1923
+ethan_hill	web.me.com	2012-04-05 00:18:10	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	web.me.com-ethan_hill.warc.gz	7427
+isehnneto	gallery.me.com	2012-04-05 04:07:36	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	gallery.me.com-isehnneto.warc.gz	807768886
+isehnneto	homepage.mac.com	2012-04-05 04:07:36	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	homepage.mac.com-isehnneto.warc.gz	4895
+isehnneto	public.me.com	2012-04-05 03:58:01	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	public.me.com-isehnneto.warc.gz	1917
+isehnneto	web.me.com	2012-04-05 03:57:59	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	web.me.com-isehnneto.warc.gz	7490715
+mraceto	gallery.me.com	2012-04-05 03:56:13	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	gallery.me.com-mraceto.warc.gz	170906116
+mraceto	homepage.mac.com	2012-04-05 03:56:13	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	homepage.mac.com-mraceto.warc.gz	4906
+mraceto	public.me.com	2012-04-05 03:52:29	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	public.me.com-mraceto.warc.gz	3394
+mraceto	web.me.com	2012-04-05 03:52:28	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	web.me.com-mraceto.warc.gz	227907125
+rmennick	gallery.me.com	2012-04-05 01:35:51	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	gallery.me.com-rmennick.warc.gz	463530269
+rmennick	homepage.mac.com	2012-04-05 01:35:51	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	homepage.mac.com-rmennick.warc.gz	4905
+rmennick	public.me.com	2012-04-05 01:27:18	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	public.me.com-rmennick.warc.gz	137541368
+rmennick	web.me.com	2012-04-05 00:51:52	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	web.me.com-rmennick.warc.gz	261635878
+speakmanwatt	gallery.me.com	2012-04-05 03:33:44	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	gallery.me.com-speakmanwatt.warc.gz	1608858599
+speakmanwatt	homepage.mac.com	2012-04-05 03:33:47	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	homepage.mac.com-speakmanwatt.warc.gz	49473
+speakmanwatt	public.me.com	2012-04-05 02:15:56	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	public.me.com-speakmanwatt.warc.gz	1927
+speakmanwatt	web.me.com	2012-04-05 02:15:38	archiveteam-mobileme-hero-408x	archiveteam-mobileme-hero-408x-4081.tar	web.me.com-speakmanwatt.warc.gz	606169893

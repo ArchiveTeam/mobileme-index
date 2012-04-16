@@ -1,16 +1,16 @@
-grisedale	gallery.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	gallery.me.com-grisedale.warc.gz	0
-grisedale	homepage.mac.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	homepage.mac.com-grisedale.warc.gz	0
-grisedale	public.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	public.me.com-grisedale.warc.gz	0
-grisedale	web.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	web.me.com-grisedale.warc.gz	0
-karensamenow	gallery.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	gallery.me.com-karensamenow.warc.gz	0
-karensamenow	homepage.mac.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	homepage.mac.com-karensamenow.warc.gz	0
-karensamenow	public.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	public.me.com-karensamenow.warc.gz	0
-karensamenow	web.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	web.me.com-karensamenow.warc.gz	0
-khilona	gallery.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	gallery.me.com-khilona.warc.gz	0
-khilona	homepage.mac.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	homepage.mac.com-khilona.warc.gz	0
-khilona	public.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	public.me.com-khilona.warc.gz	0
-khilona	web.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	web.me.com-khilona.warc.gz	0
-ryanharrisbrown	gallery.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	gallery.me.com-ryanharrisbrown.warc.gz	0
-ryanharrisbrown	homepage.mac.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	homepage.mac.com-ryanharrisbrown.warc.gz	0
-ryanharrisbrown	public.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	public.me.com-ryanharrisbrown.warc.gz	0
-ryanharrisbrown	web.me.com		archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	web.me.com-ryanharrisbrown.warc.gz	0
+grisedale	gallery.me.com	2012-04-11 07:29:45	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	gallery.me.com-grisedale.warc.gz	12884469
+grisedale	homepage.mac.com	2012-04-11 07:29:45	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	homepage.mac.com-grisedale.warc.gz	4910
+grisedale	public.me.com	2012-04-11 07:29:18	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	public.me.com-grisedale.warc.gz	1920
+grisedale	web.me.com	2012-04-11 07:29:18	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	web.me.com-grisedale.warc.gz	26672897
+karensamenow	gallery.me.com	2012-04-11 07:23:54	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	gallery.me.com-karensamenow.warc.gz	1449234
+karensamenow	homepage.mac.com	2012-04-11 07:23:54	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	homepage.mac.com-karensamenow.warc.gz	4925
+karensamenow	public.me.com	2012-04-11 07:23:51	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	public.me.com-karensamenow.warc.gz	1926
+karensamenow	web.me.com	2012-04-11 07:23:51	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	web.me.com-karensamenow.warc.gz	29628599
+khilona	gallery.me.com	2012-04-11 14:42:23	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	gallery.me.com-khilona.warc.gz	199140764
+khilona	homepage.mac.com	2012-04-11 14:42:24	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	homepage.mac.com-khilona.warc.gz	4898
+khilona	public.me.com	2012-04-11 14:33:03	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	public.me.com-khilona.warc.gz	1468161605
+khilona	web.me.com	2012-04-11 14:04:08	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	web.me.com-khilona.warc.gz	3205382425
+ryanharrisbrown	gallery.me.com	2012-04-11 07:18:42	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	gallery.me.com-ryanharrisbrown.warc.gz	4287
+ryanharrisbrown	homepage.mac.com	2012-04-11 07:18:42	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	homepage.mac.com-ryanharrisbrown.warc.gz	4952
+ryanharrisbrown	public.me.com	2012-04-11 07:18:41	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	public.me.com-ryanharrisbrown.warc.gz	1927
+ryanharrisbrown	web.me.com	2012-04-11 07:18:41	archiveteam-mobileme-hero-641x	archiveteam-mobileme-hero-641x-6418.tar	web.me.com-ryanharrisbrown.warc.gz	1897675

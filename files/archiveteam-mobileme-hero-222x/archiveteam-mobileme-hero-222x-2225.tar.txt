@@ -1,8 +1,8 @@
-dolfinmagikpro	gallery.me.com		archiveteam-mobileme-hero-222x	archiveteam-mobileme-hero-222x-2225.tar	gallery.me.com-dolfinmagikpro.warc.gz	0
-dolfinmagikpro	homepage.mac.com		archiveteam-mobileme-hero-222x	archiveteam-mobileme-hero-222x-2225.tar	homepage.mac.com-dolfinmagikpro.warc.gz	0
-dolfinmagikpro	public.me.com		archiveteam-mobileme-hero-222x	archiveteam-mobileme-hero-222x-2225.tar	public.me.com-dolfinmagikpro.warc.gz	0
-dolfinmagikpro	web.me.com		archiveteam-mobileme-hero-222x	archiveteam-mobileme-hero-222x-2225.tar	web.me.com-dolfinmagikpro.warc.gz	0
-garygartland	gallery.me.com		archiveteam-mobileme-hero-222x	archiveteam-mobileme-hero-222x-2225.tar	gallery.me.com-garygartland.warc.gz	0
-garygartland	homepage.mac.com		archiveteam-mobileme-hero-222x	archiveteam-mobileme-hero-222x-2225.tar	homepage.mac.com-garygartland.warc.gz	0
-garygartland	public.me.com		archiveteam-mobileme-hero-222x	archiveteam-mobileme-hero-222x-2225.tar	public.me.com-garygartland.warc.gz	0
-garygartland	web.me.com		archiveteam-mobileme-hero-222x	archiveteam-mobileme-hero-222x-2225.tar	web.me.com-garygartland.warc.gz	0
+dolfinmagikpro	gallery.me.com	2012-03-30 21:14:25	archiveteam-mobileme-hero-222x	archiveteam-mobileme-hero-222x-2225.tar	gallery.me.com-dolfinmagikpro.warc.gz	204761
+dolfinmagikpro	homepage.mac.com	2012-03-30 21:14:26	archiveteam-mobileme-hero-222x	archiveteam-mobileme-hero-222x-2225.tar	homepage.mac.com-dolfinmagikpro.warc.gz	4929
+dolfinmagikpro	public.me.com	2012-03-30 21:14:24	archiveteam-mobileme-hero-222x	archiveteam-mobileme-hero-222x-2225.tar	public.me.com-dolfinmagikpro.warc.gz	1929
+dolfinmagikpro	web.me.com	2012-03-30 21:14:23	archiveteam-mobileme-hero-222x	archiveteam-mobileme-hero-222x-2225.tar	web.me.com-dolfinmagikpro.warc.gz	54438342
+garygartland	gallery.me.com	2012-03-30 22:41:12	archiveteam-mobileme-hero-222x	archiveteam-mobileme-hero-222x-2225.tar	gallery.me.com-garygartland.warc.gz	2044854379
+garygartland	homepage.mac.com	2012-03-30 22:41:12	archiveteam-mobileme-hero-222x	archiveteam-mobileme-hero-222x-2225.tar	homepage.mac.com-garygartland.warc.gz	6081
+garygartland	public.me.com	2012-03-30 22:22:29	archiveteam-mobileme-hero-222x	archiveteam-mobileme-hero-222x-2225.tar	public.me.com-garygartland.warc.gz	1923
+garygartland	web.me.com	2012-03-30 22:22:23	archiveteam-mobileme-hero-222x	archiveteam-mobileme-hero-222x-2225.tar	web.me.com-garygartland.warc.gz	4278478599

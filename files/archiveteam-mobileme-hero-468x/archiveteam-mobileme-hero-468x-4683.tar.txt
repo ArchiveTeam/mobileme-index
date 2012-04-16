@@ -1,12 +1,12 @@
-abject_boy	gallery.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	gallery.me.com-abject_boy.warc.gz	0
-abject_boy	homepage.mac.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	homepage.mac.com-abject_boy.warc.gz	0
-abject_boy	public.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	public.me.com-abject_boy.warc.gz	0
-abject_boy	web.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	web.me.com-abject_boy.warc.gz	0
-bellavistapro	gallery.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	gallery.me.com-bellavistapro.warc.gz	0
-bellavistapro	homepage.mac.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	homepage.mac.com-bellavistapro.warc.gz	0
-bellavistapro	public.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	public.me.com-bellavistapro.warc.gz	0
-bellavistapro	web.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	web.me.com-bellavistapro.warc.gz	0
-traciemeadows	gallery.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	gallery.me.com-traciemeadows.warc.gz	0
-traciemeadows	homepage.mac.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	homepage.mac.com-traciemeadows.warc.gz	0
-traciemeadows	public.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	public.me.com-traciemeadows.warc.gz	0
-traciemeadows	web.me.com		archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	web.me.com-traciemeadows.warc.gz	0
+abject_boy	gallery.me.com	2012-04-06 09:53:22	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	gallery.me.com-abject_boy.warc.gz	12339
+abject_boy	homepage.mac.com	2012-04-06 09:53:22	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	homepage.mac.com-abject_boy.warc.gz	7161
+abject_boy	public.me.com	2012-04-06 09:53:21	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	public.me.com-abject_boy.warc.gz	1924
+abject_boy	web.me.com	2012-04-06 09:53:21	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	web.me.com-abject_boy.warc.gz	22489
+bellavistapro	gallery.me.com	2012-04-06 13:27:19	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	gallery.me.com-bellavistapro.warc.gz	230426638
+bellavistapro	homepage.mac.com	2012-04-06 13:27:21	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	homepage.mac.com-bellavistapro.warc.gz	4936
+bellavistapro	public.me.com	2012-04-06 13:18:22	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	public.me.com-bellavistapro.warc.gz	811548580
+bellavistapro	web.me.com	2012-04-06 12:56:57	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	web.me.com-bellavistapro.warc.gz	3557138727
+traciemeadows	gallery.me.com	2012-04-06 09:55:14	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	gallery.me.com-traciemeadows.warc.gz	13336395
+traciemeadows	homepage.mac.com	2012-04-06 09:55:14	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	homepage.mac.com-traciemeadows.warc.gz	4922
+traciemeadows	public.me.com	2012-04-06 09:55:04	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	public.me.com-traciemeadows.warc.gz	1922
+traciemeadows	web.me.com	2012-04-06 09:55:04	archiveteam-mobileme-hero-468x	archiveteam-mobileme-hero-468x-4683.tar	web.me.com-traciemeadows.warc.gz	8125624

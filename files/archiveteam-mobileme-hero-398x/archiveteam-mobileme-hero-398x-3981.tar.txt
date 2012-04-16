@@ -1,16 +1,16 @@
-birdangel	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	gallery.me.com-birdangel.warc.gz	0
-birdangel	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	homepage.mac.com-birdangel.warc.gz	0
-birdangel	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	public.me.com-birdangel.warc.gz	0
-birdangel	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	web.me.com-birdangel.warc.gz	0
-glmiles	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	gallery.me.com-glmiles.warc.gz	0
-glmiles	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	homepage.mac.com-glmiles.warc.gz	0
-glmiles	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	public.me.com-glmiles.warc.gz	0
-glmiles	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	web.me.com-glmiles.warc.gz	0
-neonunicorn	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	gallery.me.com-neonunicorn.warc.gz	0
-neonunicorn	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	homepage.mac.com-neonunicorn.warc.gz	0
-neonunicorn	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	public.me.com-neonunicorn.warc.gz	0
-neonunicorn	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	web.me.com-neonunicorn.warc.gz	0
-tommytorres	gallery.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	gallery.me.com-tommytorres.warc.gz	0
-tommytorres	homepage.mac.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	homepage.mac.com-tommytorres.warc.gz	0
-tommytorres	public.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	public.me.com-tommytorres.warc.gz	0
-tommytorres	web.me.com		archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	web.me.com-tommytorres.warc.gz	0
+birdangel	gallery.me.com	2012-04-04 22:32:55	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	gallery.me.com-birdangel.warc.gz	1864880780
+birdangel	homepage.mac.com	2012-04-04 22:33:16	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	homepage.mac.com-birdangel.warc.gz	287419
+birdangel	public.me.com	2012-04-04 21:18:13	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	public.me.com-birdangel.warc.gz	1910
+birdangel	web.me.com	2012-04-04 21:18:08	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	web.me.com-birdangel.warc.gz	804975678
+glmiles	gallery.me.com	2012-04-04 19:49:25	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	gallery.me.com-glmiles.warc.gz	91051249
+glmiles	homepage.mac.com	2012-04-04 19:49:27	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	homepage.mac.com-glmiles.warc.gz	36821
+glmiles	public.me.com	2012-04-04 19:46:48	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	public.me.com-glmiles.warc.gz	3408
+glmiles	web.me.com	2012-04-04 19:46:46	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	web.me.com-glmiles.warc.gz	50241803
+neonunicorn	gallery.me.com	2012-04-04 19:50:55	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	gallery.me.com-neonunicorn.warc.gz	4285
+neonunicorn	homepage.mac.com	2012-04-04 19:50:55	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	homepage.mac.com-neonunicorn.warc.gz	4906
+neonunicorn	public.me.com	2012-04-04 19:50:54	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	public.me.com-neonunicorn.warc.gz	1919
+neonunicorn	web.me.com	2012-04-04 19:50:53	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	web.me.com-neonunicorn.warc.gz	8498657
+tommytorres	gallery.me.com	2012-04-04 19:41:42	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	gallery.me.com-tommytorres.warc.gz	324252287
+tommytorres	homepage.mac.com	2012-04-04 19:41:44	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	homepage.mac.com-tommytorres.warc.gz	65065
+tommytorres	public.me.com	2012-04-04 19:34:03	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	public.me.com-tommytorres.warc.gz	3384638756
+tommytorres	web.me.com	2012-04-04 18:45:43	archiveteam-mobileme-hero-398x	archiveteam-mobileme-hero-398x-3981.tar	web.me.com-tommytorres.warc.gz	13317692

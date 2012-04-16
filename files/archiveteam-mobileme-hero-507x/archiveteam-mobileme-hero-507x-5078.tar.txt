@@ -1,16 +1,16 @@
-aprimrose	gallery.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	gallery.me.com-aprimrose.warc.gz	0
-aprimrose	homepage.mac.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	homepage.mac.com-aprimrose.warc.gz	0
-aprimrose	public.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	public.me.com-aprimrose.warc.gz	0
-aprimrose	web.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	web.me.com-aprimrose.warc.gz	0
-laelia	gallery.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	gallery.me.com-laelia.warc.gz	0
-laelia	homepage.mac.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	homepage.mac.com-laelia.warc.gz	0
-laelia	public.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	public.me.com-laelia.warc.gz	0
-laelia	web.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	web.me.com-laelia.warc.gz	0
-skawa	gallery.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	gallery.me.com-skawa.warc.gz	0
-skawa	homepage.mac.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	homepage.mac.com-skawa.warc.gz	0
-skawa	public.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	public.me.com-skawa.warc.gz	0
-skawa	web.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	web.me.com-skawa.warc.gz	0
-zmuzik1	gallery.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	gallery.me.com-zmuzik1.warc.gz	0
-zmuzik1	homepage.mac.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	homepage.mac.com-zmuzik1.warc.gz	0
-zmuzik1	public.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	public.me.com-zmuzik1.warc.gz	0
-zmuzik1	web.me.com		archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	web.me.com-zmuzik1.warc.gz	0
+aprimrose	gallery.me.com	2012-04-08 02:58:44	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	gallery.me.com-aprimrose.warc.gz	2613787268
+aprimrose	homepage.mac.com	2012-04-08 02:58:57	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	homepage.mac.com-aprimrose.warc.gz	542933
+aprimrose	public.me.com	2012-04-08 02:21:41	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	public.me.com-aprimrose.warc.gz	315201091
+aprimrose	web.me.com	2012-04-08 02:15:01	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	web.me.com-aprimrose.warc.gz	728444958
+laelia	gallery.me.com	2012-04-08 01:51:53	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	gallery.me.com-laelia.warc.gz	121108091
+laelia	homepage.mac.com	2012-04-08 01:51:53	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	homepage.mac.com-laelia.warc.gz	4880
+laelia	public.me.com	2012-04-08 01:48:41	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	public.me.com-laelia.warc.gz	25097939
+laelia	web.me.com	2012-04-08 01:48:35	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	web.me.com-laelia.warc.gz	9829759
+skawa	gallery.me.com	2012-04-08 01:26:01	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	gallery.me.com-skawa.warc.gz	255844548
+skawa	homepage.mac.com	2012-04-08 01:26:06	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	homepage.mac.com-skawa.warc.gz	87074
+skawa	public.me.com	2012-04-08 01:23:37	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	public.me.com-skawa.warc.gz	1911
+skawa	web.me.com	2012-04-08 01:23:36	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	web.me.com-skawa.warc.gz	2862115688
+zmuzik1	gallery.me.com	2012-04-08 01:46:28	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	gallery.me.com-zmuzik1.warc.gz	29936355
+zmuzik1	homepage.mac.com	2012-04-08 01:46:47	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	homepage.mac.com-zmuzik1.warc.gz	485845
+zmuzik1	public.me.com	2012-04-08 01:45:58	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	public.me.com-zmuzik1.warc.gz	238555715
+zmuzik1	web.me.com	2012-04-08 01:41:19	archiveteam-mobileme-hero-507x	archiveteam-mobileme-hero-507x-5078.tar	web.me.com-zmuzik1.warc.gz	133119230

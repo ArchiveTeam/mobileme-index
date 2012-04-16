@@ -1,12 +1,12 @@
-dorothyreading	gallery.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	gallery.me.com-dorothyreading.warc.gz	0
-dorothyreading	homepage.mac.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	homepage.mac.com-dorothyreading.warc.gz	0
-dorothyreading	public.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	public.me.com-dorothyreading.warc.gz	0
-dorothyreading	web.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	web.me.com-dorothyreading.warc.gz	0
-kustersj	gallery.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	gallery.me.com-kustersj.warc.gz	0
-kustersj	homepage.mac.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	homepage.mac.com-kustersj.warc.gz	0
-kustersj	public.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	public.me.com-kustersj.warc.gz	0
-kustersj	web.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	web.me.com-kustersj.warc.gz	0
-scullom	gallery.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	gallery.me.com-scullom.warc.gz	0
-scullom	homepage.mac.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	homepage.mac.com-scullom.warc.gz	0
-scullom	public.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	public.me.com-scullom.warc.gz	0
-scullom	web.me.com		archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	web.me.com-scullom.warc.gz	0
+dorothyreading	gallery.me.com	2012-03-30 15:56:34	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	gallery.me.com-dorothyreading.warc.gz	190462453
+dorothyreading	homepage.mac.com	2012-03-30 15:56:34	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	homepage.mac.com-dorothyreading.warc.gz	4940
+dorothyreading	public.me.com	2012-03-30 15:52:41	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	public.me.com-dorothyreading.warc.gz	1935
+dorothyreading	web.me.com	2012-03-30 15:52:41	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	web.me.com-dorothyreading.warc.gz	37732905
+kustersj	gallery.me.com	2012-03-30 15:48:31	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	gallery.me.com-kustersj.warc.gz	549295567
+kustersj	homepage.mac.com	2012-03-30 15:48:32	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	homepage.mac.com-kustersj.warc.gz	7850
+kustersj	public.me.com	2012-03-30 15:43:35	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	public.me.com-kustersj.warc.gz	1916
+kustersj	web.me.com	2012-03-30 15:43:34	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	web.me.com-kustersj.warc.gz	320562242
+scullom	gallery.me.com	2012-03-30 17:00:44	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	gallery.me.com-scullom.warc.gz	2583438706
+scullom	homepage.mac.com	2012-03-30 17:00:55	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	homepage.mac.com-scullom.warc.gz	231559
+scullom	public.me.com	2012-03-30 16:24:49	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	public.me.com-scullom.warc.gz	25064338
+scullom	web.me.com	2012-03-30 16:24:15	archiveteam-mobileme-hero-217x	archiveteam-mobileme-hero-217x-2178.tar	web.me.com-scullom.warc.gz	981808945

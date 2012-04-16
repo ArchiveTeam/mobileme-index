@@ -1,12 +1,12 @@
-pierre.lavail	gallery.me.com		archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	gallery.me.com-pierre.lavail.warc.gz	0
-pierre.lavail	homepage.mac.com		archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	homepage.mac.com-pierre.lavail.warc.gz	0
-pierre.lavail	public.me.com		archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	public.me.com-pierre.lavail.warc.gz	0
-pierre.lavail	web.me.com		archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	web.me.com-pierre.lavail.warc.gz	0
-tingo25	gallery.me.com		archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	gallery.me.com-tingo25.warc.gz	0
-tingo25	homepage.mac.com		archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	homepage.mac.com-tingo25.warc.gz	0
-tingo25	public.me.com		archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	public.me.com-tingo25.warc.gz	0
-tingo25	web.me.com		archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	web.me.com-tingo25.warc.gz	0
-tyyorgason	gallery.me.com		archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	gallery.me.com-tyyorgason.warc.gz	0
-tyyorgason	homepage.mac.com		archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	homepage.mac.com-tyyorgason.warc.gz	0
-tyyorgason	public.me.com		archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	public.me.com-tyyorgason.warc.gz	0
-tyyorgason	web.me.com		archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	web.me.com-tyyorgason.warc.gz	0
+pierre.lavail	gallery.me.com	2012-04-04 10:09:06	archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	gallery.me.com-pierre.lavail.warc.gz	12239731
+pierre.lavail	homepage.mac.com	2012-04-04 10:09:15	archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	homepage.mac.com-pierre.lavail.warc.gz	185465
+pierre.lavail	public.me.com	2012-04-04 10:08:21	archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	public.me.com-pierre.lavail.warc.gz	1928
+pierre.lavail	web.me.com	2012-04-04 10:08:19	archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	web.me.com-pierre.lavail.warc.gz	22384073
+tingo25	gallery.me.com	2012-04-04 10:28:42	archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	gallery.me.com-tingo25.warc.gz	386801575
+tingo25	homepage.mac.com	2012-04-04 10:28:42	archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	homepage.mac.com-tingo25.warc.gz	4897
+tingo25	public.me.com	2012-04-04 10:18:32	archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	public.me.com-tingo25.warc.gz	1910
+tingo25	web.me.com	2012-04-04 10:18:31	archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	web.me.com-tingo25.warc.gz	45462608
+tyyorgason	gallery.me.com	2012-04-04 11:37:32	archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	gallery.me.com-tyyorgason.warc.gz	5567855223
+tyyorgason	homepage.mac.com	2012-04-04 11:37:32	archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	homepage.mac.com-tyyorgason.warc.gz	4925
+tyyorgason	public.me.com	2012-04-04 10:41:14	archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	public.me.com-tyyorgason.warc.gz	1917
+tyyorgason	web.me.com	2012-04-04 10:41:13	archiveteam-mobileme-hero-379x	archiveteam-mobileme-hero-379x-3797.tar	web.me.com-tyyorgason.warc.gz	361158163

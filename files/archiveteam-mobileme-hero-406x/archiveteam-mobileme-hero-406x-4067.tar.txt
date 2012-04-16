@@ -1,8 +1,8 @@
-george_gallagher	gallery.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4067.tar	gallery.me.com-george_gallagher.warc.gz	0
-george_gallagher	homepage.mac.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4067.tar	homepage.mac.com-george_gallagher.warc.gz	0
-george_gallagher	public.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4067.tar	public.me.com-george_gallagher.warc.gz	0
-george_gallagher	web.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4067.tar	web.me.com-george_gallagher.warc.gz	0
-merinakis	gallery.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4067.tar	gallery.me.com-merinakis.warc.gz	0
-merinakis	homepage.mac.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4067.tar	homepage.mac.com-merinakis.warc.gz	0
-merinakis	public.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4067.tar	public.me.com-merinakis.warc.gz	0
-merinakis	web.me.com		archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4067.tar	web.me.com-merinakis.warc.gz	0
+george_gallagher	gallery.me.com	2012-04-05 03:21:59	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4067.tar	gallery.me.com-george_gallagher.warc.gz	3356568582
+george_gallagher	homepage.mac.com	2012-04-05 03:22:02	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4067.tar	homepage.mac.com-george_gallagher.warc.gz	41068
+george_gallagher	public.me.com	2012-04-05 01:40:52	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4067.tar	public.me.com-george_gallagher.warc.gz	1633209085
+george_gallagher	web.me.com	2012-04-05 00:56:03	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4067.tar	web.me.com-george_gallagher.warc.gz	1014507216
+merinakis	gallery.me.com	2012-04-04 23:59:42	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4067.tar	gallery.me.com-merinakis.warc.gz	4283
+merinakis	homepage.mac.com	2012-04-04 23:59:42	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4067.tar	homepage.mac.com-merinakis.warc.gz	4900
+merinakis	public.me.com	2012-04-04 23:59:40	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4067.tar	public.me.com-merinakis.warc.gz	1912
+merinakis	web.me.com	2012-04-04 23:59:40	archiveteam-mobileme-hero-406x	archiveteam-mobileme-hero-406x-4067.tar	web.me.com-merinakis.warc.gz	10751559

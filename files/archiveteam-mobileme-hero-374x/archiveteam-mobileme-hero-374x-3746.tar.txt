@@ -1,20 +1,20 @@
-abarblan	gallery.me.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	gallery.me.com-abarblan.warc.gz	0
-abarblan	homepage.mac.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	homepage.mac.com-abarblan.warc.gz	0
-abarblan	public.me.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	public.me.com-abarblan.warc.gz	0
-abarblan	web.me.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	web.me.com-abarblan.warc.gz	0
-dubeck	gallery.me.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	gallery.me.com-dubeck.warc.gz	0
-dubeck	homepage.mac.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	homepage.mac.com-dubeck.warc.gz	0
-dubeck	public.me.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	public.me.com-dubeck.warc.gz	0
-dubeck	web.me.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	web.me.com-dubeck.warc.gz	0
-hotjohn1	gallery.me.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	gallery.me.com-hotjohn1.warc.gz	0
-hotjohn1	homepage.mac.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	homepage.mac.com-hotjohn1.warc.gz	0
-hotjohn1	public.me.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	public.me.com-hotjohn1.warc.gz	0
-hotjohn1	web.me.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	web.me.com-hotjohn1.warc.gz	0
-mirjalk	gallery.me.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	gallery.me.com-mirjalk.warc.gz	0
-mirjalk	homepage.mac.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	homepage.mac.com-mirjalk.warc.gz	0
-mirjalk	public.me.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	public.me.com-mirjalk.warc.gz	0
-mirjalk	web.me.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	web.me.com-mirjalk.warc.gz	0
-uppitygal	gallery.me.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	gallery.me.com-uppitygal.warc.gz	0
-uppitygal	homepage.mac.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	homepage.mac.com-uppitygal.warc.gz	0
-uppitygal	public.me.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	public.me.com-uppitygal.warc.gz	0
-uppitygal	web.me.com		archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	web.me.com-uppitygal.warc.gz	0
+abarblan	gallery.me.com	2012-04-04 08:50:02	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	gallery.me.com-abarblan.warc.gz	5621471359
+abarblan	homepage.mac.com	2012-04-04 08:50:03	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	homepage.mac.com-abarblan.warc.gz	4906
+abarblan	public.me.com	2012-04-04 07:33:09	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	public.me.com-abarblan.warc.gz	1907
+abarblan	web.me.com	2012-04-04 07:32:56	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	web.me.com-abarblan.warc.gz	512203624
+dubeck	gallery.me.com	2012-04-04 06:28:27	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	gallery.me.com-dubeck.warc.gz	4225
+dubeck	homepage.mac.com	2012-04-04 06:28:27	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	homepage.mac.com-dubeck.warc.gz	4897
+dubeck	public.me.com	2012-04-04 06:28:26	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	public.me.com-dubeck.warc.gz	1910
+dubeck	web.me.com	2012-04-04 06:28:26	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	web.me.com-dubeck.warc.gz	6727283
+hotjohn1	gallery.me.com	2012-04-04 06:27:09	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	gallery.me.com-hotjohn1.warc.gz	65901949
+hotjohn1	homepage.mac.com	2012-04-04 06:27:09	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	homepage.mac.com-hotjohn1.warc.gz	4898
+hotjohn1	public.me.com	2012-04-04 06:26:47	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	public.me.com-hotjohn1.warc.gz	391976374
+hotjohn1	web.me.com	2012-04-04 06:18:15	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	web.me.com-hotjohn1.warc.gz	583632564
+mirjalk	gallery.me.com	2012-04-04 01:46:42	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	gallery.me.com-mirjalk.warc.gz	4239
+mirjalk	homepage.mac.com	2012-04-04 01:46:42	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	homepage.mac.com-mirjalk.warc.gz	4880
+mirjalk	public.me.com	2012-04-04 01:46:41	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	public.me.com-mirjalk.warc.gz	1918
+mirjalk	web.me.com	2012-04-04 01:46:37	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	web.me.com-mirjalk.warc.gz	17501490
+uppitygal	gallery.me.com	2012-04-04 01:51:52	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	gallery.me.com-uppitygal.warc.gz	4253
+uppitygal	homepage.mac.com	2012-04-04 01:51:52	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	homepage.mac.com-uppitygal.warc.gz	4912
+uppitygal	public.me.com	2012-04-04 01:51:52	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	public.me.com-uppitygal.warc.gz	1916
+uppitygal	web.me.com	2012-04-04 01:51:51	archiveteam-mobileme-hero-374x	archiveteam-mobileme-hero-374x-3746.tar	web.me.com-uppitygal.warc.gz	5206586

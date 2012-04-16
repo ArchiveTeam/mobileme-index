@@ -1,24 +1,24 @@
-a.david	gallery.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	gallery.me.com-a.david.warc.gz	0
-a.david	homepage.mac.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	homepage.mac.com-a.david.warc.gz	0
-a.david	public.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	public.me.com-a.david.warc.gz	0
-a.david	web.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	web.me.com-a.david.warc.gz	0
-bloomantyne	gallery.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	gallery.me.com-bloomantyne.warc.gz	0
-bloomantyne	homepage.mac.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	homepage.mac.com-bloomantyne.warc.gz	0
-bloomantyne	public.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	public.me.com-bloomantyne.warc.gz	0
-bloomantyne	web.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	web.me.com-bloomantyne.warc.gz	0
-mannyknowles	gallery.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	gallery.me.com-mannyknowles.warc.gz	0
-mannyknowles	homepage.mac.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	homepage.mac.com-mannyknowles.warc.gz	0
-mannyknowles	public.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	public.me.com-mannyknowles.warc.gz	0
-mannyknowles	web.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	web.me.com-mannyknowles.warc.gz	0
-pawelczyk	gallery.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	gallery.me.com-pawelczyk.warc.gz	0
-pawelczyk	homepage.mac.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	homepage.mac.com-pawelczyk.warc.gz	0
-pawelczyk	public.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	public.me.com-pawelczyk.warc.gz	0
-pawelczyk	web.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	web.me.com-pawelczyk.warc.gz	0
-spwamela	gallery.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	gallery.me.com-spwamela.warc.gz	0
-spwamela	homepage.mac.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	homepage.mac.com-spwamela.warc.gz	0
-spwamela	public.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	public.me.com-spwamela.warc.gz	0
-spwamela	web.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	web.me.com-spwamela.warc.gz	0
-thitomi1	gallery.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	gallery.me.com-thitomi1.warc.gz	0
-thitomi1	homepage.mac.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	homepage.mac.com-thitomi1.warc.gz	0
-thitomi1	public.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	public.me.com-thitomi1.warc.gz	0
-thitomi1	web.me.com		archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	web.me.com-thitomi1.warc.gz	0
+a.david	gallery.me.com	2012-04-03 09:43:52	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	gallery.me.com-a.david.warc.gz	100340865
+a.david	homepage.mac.com	2012-04-03 09:43:54	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	homepage.mac.com-a.david.warc.gz	41270
+a.david	public.me.com	2012-04-03 09:42:12	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	public.me.com-a.david.warc.gz	1910
+a.david	web.me.com	2012-04-03 09:42:11	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	web.me.com-a.david.warc.gz	19523162
+bloomantyne	gallery.me.com	2012-04-03 09:30:27	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	gallery.me.com-bloomantyne.warc.gz	1782181984
+bloomantyne	homepage.mac.com	2012-04-03 09:30:28	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	homepage.mac.com-bloomantyne.warc.gz	4928
+bloomantyne	public.me.com	2012-04-03 08:58:53	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	public.me.com-bloomantyne.warc.gz	571351
+bloomantyne	web.me.com	2012-04-03 08:58:48	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	web.me.com-bloomantyne.warc.gz	145263586
+mannyknowles	gallery.me.com	2012-04-03 10:16:41	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	gallery.me.com-mannyknowles.warc.gz	701998732
+mannyknowles	homepage.mac.com	2012-04-03 10:16:41	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	homepage.mac.com-mannyknowles.warc.gz	4932
+mannyknowles	public.me.com	2012-04-03 10:06:32	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	public.me.com-mannyknowles.warc.gz	3411123278
+mannyknowles	web.me.com	2012-04-03 09:48:41	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	web.me.com-mannyknowles.warc.gz	21257066
+pawelczyk	gallery.me.com	2012-04-03 08:33:51	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	gallery.me.com-pawelczyk.warc.gz	6408
+pawelczyk	homepage.mac.com	2012-04-03 08:33:51	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	homepage.mac.com-pawelczyk.warc.gz	4924
+pawelczyk	public.me.com	2012-04-03 08:33:50	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	public.me.com-pawelczyk.warc.gz	1926
+pawelczyk	web.me.com	2012-04-03 08:33:50	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	web.me.com-pawelczyk.warc.gz	146490344
+spwamela	gallery.me.com	2012-04-03 09:41:54	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	gallery.me.com-spwamela.warc.gz	4275
+spwamela	homepage.mac.com	2012-04-03 09:41:54	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	homepage.mac.com-spwamela.warc.gz	4894
+spwamela	public.me.com	2012-04-03 09:41:53	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	public.me.com-spwamela.warc.gz	1918
+spwamela	web.me.com	2012-04-03 09:41:52	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	web.me.com-spwamela.warc.gz	65576593
+thitomi1	gallery.me.com	2012-04-03 08:29:22	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	gallery.me.com-thitomi1.warc.gz	10846519
+thitomi1	homepage.mac.com	2012-04-03 08:29:27	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	homepage.mac.com-thitomi1.warc.gz	116276
+thitomi1	public.me.com	2012-04-03 08:29:09	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	public.me.com-thitomi1.warc.gz	1918
+thitomi1	web.me.com	2012-04-03 08:29:08	archiveteam-mobileme-hero-337x	archiveteam-mobileme-hero-337x-3372.tar	web.me.com-thitomi1.warc.gz	40585872

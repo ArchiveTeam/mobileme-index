@@ -1,8 +1,8 @@
-gvmelbrty	gallery.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6273.tar	gallery.me.com-gvmelbrty.warc.gz	0
-gvmelbrty	homepage.mac.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6273.tar	homepage.mac.com-gvmelbrty.warc.gz	0
-gvmelbrty	public.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6273.tar	public.me.com-gvmelbrty.warc.gz	0
-gvmelbrty	web.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6273.tar	web.me.com-gvmelbrty.warc.gz	0
-johnshead	gallery.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6273.tar	gallery.me.com-johnshead.warc.gz	0
-johnshead	homepage.mac.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6273.tar	homepage.mac.com-johnshead.warc.gz	0
-johnshead	public.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6273.tar	public.me.com-johnshead.warc.gz	0
-johnshead	web.me.com		archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6273.tar	web.me.com-johnshead.warc.gz	0
+gvmelbrty	gallery.me.com	2012-04-11 03:21:31	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6273.tar	gallery.me.com-gvmelbrty.warc.gz	8356
+gvmelbrty	homepage.mac.com	2012-04-11 03:21:32	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6273.tar	homepage.mac.com-gvmelbrty.warc.gz	5175
+gvmelbrty	public.me.com	2012-04-11 03:21:27	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6273.tar	public.me.com-gvmelbrty.warc.gz	1919
+gvmelbrty	web.me.com	2012-04-11 03:21:23	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6273.tar	web.me.com-gvmelbrty.warc.gz	17664
+johnshead	gallery.me.com	2012-04-11 07:50:32	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6273.tar	gallery.me.com-johnshead.warc.gz	6289270650
+johnshead	homepage.mac.com	2012-04-11 07:50:32	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6273.tar	homepage.mac.com-johnshead.warc.gz	4902
+johnshead	public.me.com	2012-04-11 05:56:34	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6273.tar	public.me.com-johnshead.warc.gz	1918
+johnshead	web.me.com	2012-04-11 05:55:26	archiveteam-mobileme-hero-627x	archiveteam-mobileme-hero-627x-6273.tar	web.me.com-johnshead.warc.gz	1095650569

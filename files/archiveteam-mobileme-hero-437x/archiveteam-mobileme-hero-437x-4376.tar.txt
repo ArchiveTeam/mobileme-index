@@ -1,20 +1,20 @@
-araseyuta	gallery.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	gallery.me.com-araseyuta.warc.gz	0
-araseyuta	homepage.mac.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	homepage.mac.com-araseyuta.warc.gz	0
-araseyuta	public.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	public.me.com-araseyuta.warc.gz	0
-araseyuta	web.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	web.me.com-araseyuta.warc.gz	0
-fullquiver	gallery.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	gallery.me.com-fullquiver.warc.gz	0
-fullquiver	homepage.mac.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	homepage.mac.com-fullquiver.warc.gz	0
-fullquiver	public.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	public.me.com-fullquiver.warc.gz	0
-fullquiver	web.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	web.me.com-fullquiver.warc.gz	0
-lisa_harrison	gallery.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	gallery.me.com-lisa_harrison.warc.gz	0
-lisa_harrison	homepage.mac.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	homepage.mac.com-lisa_harrison.warc.gz	0
-lisa_harrison	public.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	public.me.com-lisa_harrison.warc.gz	0
-lisa_harrison	web.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	web.me.com-lisa_harrison.warc.gz	0
-mobynico	gallery.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	gallery.me.com-mobynico.warc.gz	0
-mobynico	homepage.mac.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	homepage.mac.com-mobynico.warc.gz	0
-mobynico	public.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	public.me.com-mobynico.warc.gz	0
-mobynico	web.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	web.me.com-mobynico.warc.gz	0
-neffets	gallery.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	gallery.me.com-neffets.warc.gz	0
-neffets	homepage.mac.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	homepage.mac.com-neffets.warc.gz	0
-neffets	public.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	public.me.com-neffets.warc.gz	0
-neffets	web.me.com		archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	web.me.com-neffets.warc.gz	0
+araseyuta	gallery.me.com	2012-04-05 17:12:11	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	gallery.me.com-araseyuta.warc.gz	4242909
+araseyuta	homepage.mac.com	2012-04-05 17:12:13	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	homepage.mac.com-araseyuta.warc.gz	14075
+araseyuta	public.me.com	2012-04-05 17:11:59	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	public.me.com-araseyuta.warc.gz	1918
+araseyuta	web.me.com	2012-04-05 17:11:58	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	web.me.com-araseyuta.warc.gz	110413
+fullquiver	gallery.me.com	2012-04-05 18:49:16	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	gallery.me.com-fullquiver.warc.gz	1348768824
+fullquiver	homepage.mac.com	2012-04-05 18:49:16	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	homepage.mac.com-fullquiver.warc.gz	4935
+fullquiver	public.me.com	2012-04-05 18:31:53	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	public.me.com-fullquiver.warc.gz	1920
+fullquiver	web.me.com	2012-04-05 18:31:50	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	web.me.com-fullquiver.warc.gz	733687537
+lisa_harrison	gallery.me.com	2012-04-05 18:53:40	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	gallery.me.com-lisa_harrison.warc.gz	3111584
+lisa_harrison	homepage.mac.com	2012-04-05 18:53:40	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	homepage.mac.com-lisa_harrison.warc.gz	4909
+lisa_harrison	public.me.com	2012-04-05 18:53:32	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	public.me.com-lisa_harrison.warc.gz	1930
+lisa_harrison	web.me.com	2012-04-05 18:53:31	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	web.me.com-lisa_harrison.warc.gz	22838519
+mobynico	gallery.me.com	2012-04-05 20:33:21	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	gallery.me.com-mobynico.warc.gz	1828860275
+mobynico	homepage.mac.com	2012-04-05 20:33:21	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	homepage.mac.com-mobynico.warc.gz	4893
+mobynico	public.me.com	2012-04-05 20:06:11	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	public.me.com-mobynico.warc.gz	123554022
+mobynico	web.me.com	2012-04-05 20:02:01	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	web.me.com-mobynico.warc.gz	588724645
+neffets	gallery.me.com	2012-04-05 18:05:25	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	gallery.me.com-neffets.warc.gz	150901642
+neffets	homepage.mac.com	2012-04-05 18:05:26	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	homepage.mac.com-neffets.warc.gz	4889
+neffets	public.me.com	2012-04-05 17:57:49	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	public.me.com-neffets.warc.gz	3463
+neffets	web.me.com	2012-04-05 17:57:49	archiveteam-mobileme-hero-437x	archiveteam-mobileme-hero-437x-4376.tar	web.me.com-neffets.warc.gz	12316551

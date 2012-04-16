@@ -1,12 +1,12 @@
-bara	gallery.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	gallery.me.com-bara.warc.gz	0
-bara	homepage.mac.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	homepage.mac.com-bara.warc.gz	0
-bara	public.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	public.me.com-bara.warc.gz	0
-bara	web.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	web.me.com-bara.warc.gz	0
-funkymonk	gallery.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	gallery.me.com-funkymonk.warc.gz	0
-funkymonk	homepage.mac.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	homepage.mac.com-funkymonk.warc.gz	0
-funkymonk	public.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	public.me.com-funkymonk.warc.gz	0
-funkymonk	web.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	web.me.com-funkymonk.warc.gz	0
-mpapi	gallery.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	gallery.me.com-mpapi.warc.gz	0
-mpapi	homepage.mac.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	homepage.mac.com-mpapi.warc.gz	0
-mpapi	public.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	public.me.com-mpapi.warc.gz	0
-mpapi	web.me.com		archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	web.me.com-mpapi.warc.gz	0
+bara	gallery.me.com	2012-04-07 08:33:10	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	gallery.me.com-bara.warc.gz	241578
+bara	homepage.mac.com	2012-04-07 08:33:11	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	homepage.mac.com-bara.warc.gz	4900
+bara	public.me.com	2012-04-07 08:33:07	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	public.me.com-bara.warc.gz	15106
+bara	web.me.com	2012-04-07 08:33:05	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	web.me.com-bara.warc.gz	124914
+funkymonk	gallery.me.com	2012-04-07 09:13:28	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	gallery.me.com-funkymonk.warc.gz	5259
+funkymonk	homepage.mac.com	2012-04-07 09:13:28	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	homepage.mac.com-funkymonk.warc.gz	4922
+funkymonk	public.me.com	2012-04-07 09:13:25	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	public.me.com-funkymonk.warc.gz	2299428652
+funkymonk	web.me.com	2012-04-07 08:33:17	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	web.me.com-funkymonk.warc.gz	33043
+mpapi	gallery.me.com	2012-04-07 10:33:12	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	gallery.me.com-mpapi.warc.gz	5193
+mpapi	homepage.mac.com	2012-04-07 10:33:13	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	homepage.mac.com-mpapi.warc.gz	4900
+mpapi	public.me.com	2012-04-07 10:33:11	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	public.me.com-mpapi.warc.gz	1906
+mpapi	web.me.com	2012-04-07 10:33:00	archiveteam-mobileme-hero-489x	archiveteam-mobileme-hero-489x-4891.tar	web.me.com-mpapi.warc.gz	3726071256

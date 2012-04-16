@@ -1,8 +1,8 @@
-krampf	gallery.me.com		archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2709.tar	gallery.me.com-krampf.warc.gz	0
-krampf	homepage.mac.com		archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2709.tar	homepage.mac.com-krampf.warc.gz	0
-krampf	public.me.com		archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2709.tar	public.me.com-krampf.warc.gz	0
-krampf	web.me.com		archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2709.tar	web.me.com-krampf.warc.gz	0
-zan	gallery.me.com		archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2709.tar	gallery.me.com-zan.warc.gz	0
-zan	homepage.mac.com		archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2709.tar	homepage.mac.com-zan.warc.gz	0
-zan	public.me.com		archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2709.tar	public.me.com-zan.warc.gz	0
-zan	web.me.com		archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2709.tar	web.me.com-zan.warc.gz	0
+krampf	gallery.me.com	2012-04-01 15:17:50	archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2709.tar	gallery.me.com-krampf.warc.gz	12302
+krampf	homepage.mac.com	2012-04-01 15:17:50	archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2709.tar	homepage.mac.com-krampf.warc.gz	7130
+krampf	public.me.com	2012-04-01 15:17:49	archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2709.tar	public.me.com-krampf.warc.gz	1913
+krampf	web.me.com	2012-04-01 15:17:49	archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2709.tar	web.me.com-krampf.warc.gz	22434
+zan	gallery.me.com	2012-04-01 16:24:02	archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2709.tar	gallery.me.com-zan.warc.gz	2793303925
+zan	homepage.mac.com	2012-04-01 16:24:05	archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2709.tar	homepage.mac.com-zan.warc.gz	78423
+zan	public.me.com	2012-04-01 15:49:34	archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2709.tar	public.me.com-zan.warc.gz	15903
+zan	web.me.com	2012-04-01 15:49:28	archiveteam-mobileme-hero-270x	archiveteam-mobileme-hero-270x-2709.tar	web.me.com-zan.warc.gz	1817748543

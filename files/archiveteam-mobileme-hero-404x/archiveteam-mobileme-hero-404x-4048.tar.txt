@@ -1,8 +1,8 @@
-e.deleon	gallery.me.com		archiveteam-mobileme-hero-404x	archiveteam-mobileme-hero-404x-4048.tar	gallery.me.com-e.deleon.warc.gz	0
-e.deleon	homepage.mac.com		archiveteam-mobileme-hero-404x	archiveteam-mobileme-hero-404x-4048.tar	homepage.mac.com-e.deleon.warc.gz	0
-e.deleon	public.me.com		archiveteam-mobileme-hero-404x	archiveteam-mobileme-hero-404x-4048.tar	public.me.com-e.deleon.warc.gz	0
-e.deleon	web.me.com		archiveteam-mobileme-hero-404x	archiveteam-mobileme-hero-404x-4048.tar	web.me.com-e.deleon.warc.gz	0
-le_secret_bleu	gallery.me.com		archiveteam-mobileme-hero-404x	archiveteam-mobileme-hero-404x-4048.tar	gallery.me.com-le_secret_bleu.warc.gz	0
-le_secret_bleu	homepage.mac.com		archiveteam-mobileme-hero-404x	archiveteam-mobileme-hero-404x-4048.tar	homepage.mac.com-le_secret_bleu.warc.gz	0
-le_secret_bleu	public.me.com		archiveteam-mobileme-hero-404x	archiveteam-mobileme-hero-404x-4048.tar	public.me.com-le_secret_bleu.warc.gz	0
-le_secret_bleu	web.me.com		archiveteam-mobileme-hero-404x	archiveteam-mobileme-hero-404x-4048.tar	web.me.com-le_secret_bleu.warc.gz	0
+e.deleon	gallery.me.com	2012-04-05 02:42:26	archiveteam-mobileme-hero-404x	archiveteam-mobileme-hero-404x-4048.tar	gallery.me.com-e.deleon.warc.gz	2229467001
+e.deleon	homepage.mac.com	2012-04-05 02:42:26	archiveteam-mobileme-hero-404x	archiveteam-mobileme-hero-404x-4048.tar	homepage.mac.com-e.deleon.warc.gz	4885
+e.deleon	public.me.com	2012-04-05 02:28:41	archiveteam-mobileme-hero-404x	archiveteam-mobileme-hero-404x-4048.tar	public.me.com-e.deleon.warc.gz	2639243690
+e.deleon	web.me.com	2012-04-05 01:59:42	archiveteam-mobileme-hero-404x	archiveteam-mobileme-hero-404x-4048.tar	web.me.com-e.deleon.warc.gz	13281302
+le_secret_bleu	gallery.me.com	2012-04-05 01:56:25	archiveteam-mobileme-hero-404x	archiveteam-mobileme-hero-404x-4048.tar	gallery.me.com-le_secret_bleu.warc.gz	542684012
+le_secret_bleu	homepage.mac.com	2012-04-05 01:56:26	archiveteam-mobileme-hero-404x	archiveteam-mobileme-hero-404x-4048.tar	homepage.mac.com-le_secret_bleu.warc.gz	4940
+le_secret_bleu	public.me.com	2012-04-05 01:44:54	archiveteam-mobileme-hero-404x	archiveteam-mobileme-hero-404x-4048.tar	public.me.com-le_secret_bleu.warc.gz	1927
+le_secret_bleu	web.me.com	2012-04-05 01:44:53	archiveteam-mobileme-hero-404x	archiveteam-mobileme-hero-404x-4048.tar	web.me.com-le_secret_bleu.warc.gz	220895579

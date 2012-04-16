@@ -1,20 +1,20 @@
-artillerylondon	gallery.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	gallery.me.com-artillerylondon.warc.gz	0
-artillerylondon	homepage.mac.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	homepage.mac.com-artillerylondon.warc.gz	0
-artillerylondon	public.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	public.me.com-artillerylondon.warc.gz	0
-artillerylondon	web.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	web.me.com-artillerylondon.warc.gz	0
-bevachterhof	gallery.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	gallery.me.com-bevachterhof.warc.gz	0
-bevachterhof	homepage.mac.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	homepage.mac.com-bevachterhof.warc.gz	0
-bevachterhof	public.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	public.me.com-bevachterhof.warc.gz	0
-bevachterhof	web.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	web.me.com-bevachterhof.warc.gz	0
-jacklin	gallery.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	gallery.me.com-jacklin.warc.gz	0
-jacklin	homepage.mac.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	homepage.mac.com-jacklin.warc.gz	0
-jacklin	public.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	public.me.com-jacklin.warc.gz	0
-jacklin	web.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	web.me.com-jacklin.warc.gz	0
-odegard	gallery.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	gallery.me.com-odegard.warc.gz	0
-odegard	homepage.mac.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	homepage.mac.com-odegard.warc.gz	0
-odegard	public.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	public.me.com-odegard.warc.gz	0
-odegard	web.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	web.me.com-odegard.warc.gz	0
-thebitchsisters	gallery.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	gallery.me.com-thebitchsisters.warc.gz	0
-thebitchsisters	homepage.mac.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	homepage.mac.com-thebitchsisters.warc.gz	0
-thebitchsisters	public.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	public.me.com-thebitchsisters.warc.gz	0
-thebitchsisters	web.me.com		archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	web.me.com-thebitchsisters.warc.gz	0
+artillerylondon	gallery.me.com	2012-04-05 11:11:22	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	gallery.me.com-artillerylondon.warc.gz	4285
+artillerylondon	homepage.mac.com	2012-04-05 11:11:22	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	homepage.mac.com-artillerylondon.warc.gz	4936
+artillerylondon	public.me.com	2012-04-05 11:11:21	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	public.me.com-artillerylondon.warc.gz	1925
+artillerylondon	web.me.com	2012-04-05 11:11:21	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	web.me.com-artillerylondon.warc.gz	8092063
+bevachterhof	gallery.me.com	2012-04-05 11:09:17	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	gallery.me.com-bevachterhof.warc.gz	1086448
+bevachterhof	homepage.mac.com	2012-04-05 11:09:17	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	homepage.mac.com-bevachterhof.warc.gz	4940
+bevachterhof	public.me.com	2012-04-05 11:09:10	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	public.me.com-bevachterhof.warc.gz	101062
+bevachterhof	web.me.com	2012-04-05 11:09:10	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	web.me.com-bevachterhof.warc.gz	7565377
+jacklin	gallery.me.com	2012-04-05 11:08:50	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	gallery.me.com-jacklin.warc.gz	5503
+jacklin	homepage.mac.com	2012-04-05 11:08:50	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	homepage.mac.com-jacklin.warc.gz	4884
+jacklin	public.me.com	2012-04-05 11:08:48	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	public.me.com-jacklin.warc.gz	1915
+jacklin	web.me.com	2012-04-05 11:08:47	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	web.me.com-jacklin.warc.gz	187833890
+odegard	gallery.me.com	2012-04-05 12:32:03	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	gallery.me.com-odegard.warc.gz	4580873539
+odegard	homepage.mac.com	2012-04-05 12:32:03	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	homepage.mac.com-odegard.warc.gz	4906
+odegard	public.me.com	2012-04-05 11:38:48	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	public.me.com-odegard.warc.gz	17728
+odegard	web.me.com	2012-04-05 11:38:43	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	web.me.com-odegard.warc.gz	877800937
+thebitchsisters	gallery.me.com	2012-04-05 11:08:52	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	gallery.me.com-thebitchsisters.warc.gz	12336
+thebitchsisters	homepage.mac.com	2012-04-05 11:08:52	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	homepage.mac.com-thebitchsisters.warc.gz	7159
+thebitchsisters	public.me.com	2012-04-05 11:08:51	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	public.me.com-thebitchsisters.warc.gz	1930
+thebitchsisters	web.me.com	2012-04-05 11:08:51	archiveteam-mobileme-hero-423x	archiveteam-mobileme-hero-423x-4238.tar	web.me.com-thebitchsisters.warc.gz	22497

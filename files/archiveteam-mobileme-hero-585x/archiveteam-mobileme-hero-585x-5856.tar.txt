@@ -1,16 +1,16 @@
-pauldespain	gallery.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	gallery.me.com-pauldespain.warc.gz	0
-pauldespain	homepage.mac.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	homepage.mac.com-pauldespain.warc.gz	0
-pauldespain	public.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	public.me.com-pauldespain.warc.gz	0
-pauldespain	web.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	web.me.com-pauldespain.warc.gz	0
-pixmation	gallery.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	gallery.me.com-pixmation.warc.gz	0
-pixmation	homepage.mac.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	homepage.mac.com-pixmation.warc.gz	0
-pixmation	public.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	public.me.com-pixmation.warc.gz	0
-pixmation	web.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	web.me.com-pixmation.warc.gz	0
-smpuckster	gallery.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	gallery.me.com-smpuckster.warc.gz	0
-smpuckster	homepage.mac.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	homepage.mac.com-smpuckster.warc.gz	0
-smpuckster	public.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	public.me.com-smpuckster.warc.gz	0
-smpuckster	web.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	web.me.com-smpuckster.warc.gz	0
-wmbarnes1	gallery.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	gallery.me.com-wmbarnes1.warc.gz	0
-wmbarnes1	homepage.mac.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	homepage.mac.com-wmbarnes1.warc.gz	0
-wmbarnes1	public.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	public.me.com-wmbarnes1.warc.gz	0
-wmbarnes1	web.me.com		archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	web.me.com-wmbarnes1.warc.gz	0
+pauldespain	gallery.me.com	2012-04-10 09:07:44	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	gallery.me.com-pauldespain.warc.gz	4985
+pauldespain	homepage.mac.com	2012-04-10 09:07:44	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	homepage.mac.com-pauldespain.warc.gz	4906
+pauldespain	public.me.com	2012-04-10 09:07:42	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	public.me.com-pauldespain.warc.gz	1926
+pauldespain	web.me.com	2012-04-10 09:07:41	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	web.me.com-pauldespain.warc.gz	674805390
+pixmation	gallery.me.com	2012-04-10 08:57:20	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	gallery.me.com-pixmation.warc.gz	147636726
+pixmation	homepage.mac.com	2012-04-10 08:58:22	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	homepage.mac.com-pixmation.warc.gz	776696
+pixmation	public.me.com	2012-04-10 08:52:43	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	public.me.com-pixmation.warc.gz	311913521
+pixmation	web.me.com	2012-04-10 08:45:46	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	web.me.com-pixmation.warc.gz	178808348
+smpuckster	gallery.me.com	2012-04-10 08:40:42	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	gallery.me.com-smpuckster.warc.gz	148709141
+smpuckster	homepage.mac.com	2012-04-10 08:41:04	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	homepage.mac.com-smpuckster.warc.gz	562632
+smpuckster	public.me.com	2012-04-10 08:38:51	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	public.me.com-smpuckster.warc.gz	148634484
+smpuckster	web.me.com	2012-04-10 08:27:16	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	web.me.com-smpuckster.warc.gz	1348601240
+wmbarnes1	gallery.me.com	2012-04-10 07:36:54	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	gallery.me.com-wmbarnes1.warc.gz	1337265687
+wmbarnes1	homepage.mac.com	2012-04-10 07:36:57	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	homepage.mac.com-wmbarnes1.warc.gz	4920
+wmbarnes1	public.me.com	2012-04-10 06:51:39	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	public.me.com-wmbarnes1.warc.gz	1921
+wmbarnes1	web.me.com	2012-04-10 06:51:38	archiveteam-mobileme-hero-585x	archiveteam-mobileme-hero-585x-5856.tar	web.me.com-wmbarnes1.warc.gz	18413864

@@ -1,16 +1,16 @@
-dongcarl	gallery.me.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	gallery.me.com-dongcarl.warc.gz	0
-dongcarl	homepage.mac.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	homepage.mac.com-dongcarl.warc.gz	0
-dongcarl	public.me.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	public.me.com-dongcarl.warc.gz	0
-dongcarl	web.me.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	web.me.com-dongcarl.warc.gz	0
-lorentzhof15	gallery.me.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	gallery.me.com-lorentzhof15.warc.gz	0
-lorentzhof15	homepage.mac.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	homepage.mac.com-lorentzhof15.warc.gz	0
-lorentzhof15	public.me.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	public.me.com-lorentzhof15.warc.gz	0
-lorentzhof15	web.me.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	web.me.com-lorentzhof15.warc.gz	0
-mokamp	gallery.me.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	gallery.me.com-mokamp.warc.gz	0
-mokamp	homepage.mac.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	homepage.mac.com-mokamp.warc.gz	0
-mokamp	public.me.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	public.me.com-mokamp.warc.gz	0
-mokamp	web.me.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	web.me.com-mokamp.warc.gz	0
-tracer302	gallery.me.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	gallery.me.com-tracer302.warc.gz	0
-tracer302	homepage.mac.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	homepage.mac.com-tracer302.warc.gz	0
-tracer302	public.me.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	public.me.com-tracer302.warc.gz	0
-tracer302	web.me.com		archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	web.me.com-tracer302.warc.gz	0
+dongcarl	gallery.me.com	2012-04-12 19:08:46	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	gallery.me.com-dongcarl.warc.gz	231255472
+dongcarl	homepage.mac.com	2012-04-12 19:08:47	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	homepage.mac.com-dongcarl.warc.gz	4921
+dongcarl	public.me.com	2012-04-12 19:00:29	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	public.me.com-dongcarl.warc.gz	18290280
+dongcarl	web.me.com	2012-04-12 19:00:00	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	web.me.com-dongcarl.warc.gz	6680666
+lorentzhof15	gallery.me.com	2012-04-13 01:45:59	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	gallery.me.com-lorentzhof15.warc.gz	3012115916
+lorentzhof15	homepage.mac.com	2012-04-13 01:46:01	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	homepage.mac.com-lorentzhof15.warc.gz	36921
+lorentzhof15	public.me.com	2012-04-12 23:15:43	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	public.me.com-lorentzhof15.warc.gz	1926
+lorentzhof15	web.me.com	2012-04-12 23:14:20	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	web.me.com-lorentzhof15.warc.gz	3085108506
+mokamp	gallery.me.com	2012-04-12 19:21:21	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	gallery.me.com-mokamp.warc.gz	168678809
+mokamp	homepage.mac.com	2012-04-12 19:22:21	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	homepage.mac.com-mokamp.warc.gz	2200340
+mokamp	public.me.com	2012-04-12 19:17:43	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	public.me.com-mokamp.warc.gz	1912
+mokamp	web.me.com	2012-04-12 19:17:43	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	web.me.com-mokamp.warc.gz	71184416
+tracer302	gallery.me.com	2012-04-12 20:03:19	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	gallery.me.com-tracer302.warc.gz	431016240
+tracer302	homepage.mac.com	2012-04-12 20:03:27	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	homepage.mac.com-tracer302.warc.gz	136048
+tracer302	public.me.com	2012-04-12 19:50:31	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	public.me.com-tracer302.warc.gz	170809847
+tracer302	web.me.com	2012-04-12 19:48:38	archiveteam-mobileme-hero-705x	archiveteam-mobileme-hero-705x-7054.tar	web.me.com-tracer302.warc.gz	380652878

@@ -1,16 +1,16 @@
-asharman	gallery.me.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	gallery.me.com-asharman.warc.gz	0
-asharman	homepage.mac.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	homepage.mac.com-asharman.warc.gz	0
-asharman	public.me.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	public.me.com-asharman.warc.gz	0
-asharman	web.me.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	web.me.com-asharman.warc.gz	0
-jenniferjuliano	gallery.me.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	gallery.me.com-jenniferjuliano.warc.gz	0
-jenniferjuliano	homepage.mac.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	homepage.mac.com-jenniferjuliano.warc.gz	0
-jenniferjuliano	public.me.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	public.me.com-jenniferjuliano.warc.gz	0
-jenniferjuliano	web.me.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	web.me.com-jenniferjuliano.warc.gz	0
-jimcutler	gallery.me.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	gallery.me.com-jimcutler.warc.gz	0
-jimcutler	homepage.mac.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	homepage.mac.com-jimcutler.warc.gz	0
-jimcutler	public.me.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	public.me.com-jimcutler.warc.gz	0
-jimcutler	web.me.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	web.me.com-jimcutler.warc.gz	0
-patrickevans13	gallery.me.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	gallery.me.com-patrickevans13.warc.gz	0
-patrickevans13	homepage.mac.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	homepage.mac.com-patrickevans13.warc.gz	0
-patrickevans13	public.me.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	public.me.com-patrickevans13.warc.gz	0
-patrickevans13	web.me.com		archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	web.me.com-patrickevans13.warc.gz	0
+asharman	gallery.me.com	2012-04-12 10:28:51	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	gallery.me.com-asharman.warc.gz	1443279071
+asharman	homepage.mac.com	2012-04-12 10:28:52	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	homepage.mac.com-asharman.warc.gz	4903
+asharman	public.me.com	2012-04-12 09:45:59	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	public.me.com-asharman.warc.gz	1918
+asharman	web.me.com	2012-04-12 09:45:58	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	web.me.com-asharman.warc.gz	66975171
+jenniferjuliano	gallery.me.com	2012-04-12 09:09:42	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	gallery.me.com-jenniferjuliano.warc.gz	1282129
+jenniferjuliano	homepage.mac.com	2012-04-12 09:09:43	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	homepage.mac.com-jenniferjuliano.warc.gz	6099
+jenniferjuliano	public.me.com	2012-04-12 09:09:30	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	public.me.com-jenniferjuliano.warc.gz	73615713
+jenniferjuliano	web.me.com	2012-04-12 09:05:39	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	web.me.com-jenniferjuliano.warc.gz	8633102
+jimcutler	gallery.me.com	2012-04-12 09:01:43	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	gallery.me.com-jimcutler.warc.gz	5367
+jimcutler	homepage.mac.com	2012-04-12 09:01:44	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	homepage.mac.com-jimcutler.warc.gz	4901
+jimcutler	public.me.com	2012-04-12 09:01:41	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	public.me.com-jimcutler.warc.gz	5988155
+jimcutler	web.me.com	2012-04-12 09:01:12	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	web.me.com-jimcutler.warc.gz	8243814
+patrickevans13	gallery.me.com	2012-04-12 08:58:25	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	gallery.me.com-patrickevans13.warc.gz	3283977518
+patrickevans13	homepage.mac.com	2012-04-12 08:58:25	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	homepage.mac.com-patrickevans13.warc.gz	4942
+patrickevans13	public.me.com	2012-04-12 07:06:45	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	public.me.com-patrickevans13.warc.gz	1934
+patrickevans13	web.me.com	2012-04-12 07:06:42	archiveteam-mobileme-hero-673x	archiveteam-mobileme-hero-673x-6731.tar	web.me.com-patrickevans13.warc.gz	202271638

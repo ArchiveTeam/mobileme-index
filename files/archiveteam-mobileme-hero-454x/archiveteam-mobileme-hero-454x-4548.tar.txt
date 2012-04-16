@@ -1,16 +1,16 @@
-lh20041002162322	gallery.me.com		archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	gallery.me.com-lh20041002162322.warc.gz	0
-lh20041002162322	homepage.mac.com		archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	homepage.mac.com-lh20041002162322.warc.gz	0
-lh20041002162322	public.me.com		archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	public.me.com-lh20041002162322.warc.gz	0
-lh20041002162322	web.me.com		archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	web.me.com-lh20041002162322.warc.gz	0
-luisrh	gallery.me.com		archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	gallery.me.com-luisrh.warc.gz	0
-luisrh	homepage.mac.com		archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	homepage.mac.com-luisrh.warc.gz	0
-luisrh	public.me.com		archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	public.me.com-luisrh.warc.gz	0
-luisrh	web.me.com		archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	web.me.com-luisrh.warc.gz	0
-macmaster69	gallery.me.com		archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	gallery.me.com-macmaster69.warc.gz	0
-macmaster69	homepage.mac.com		archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	homepage.mac.com-macmaster69.warc.gz	0
-macmaster69	public.me.com		archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	public.me.com-macmaster69.warc.gz	0
-macmaster69	web.me.com		archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	web.me.com-macmaster69.warc.gz	0
-wesche17	gallery.me.com		archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	gallery.me.com-wesche17.warc.gz	0
-wesche17	homepage.mac.com		archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	homepage.mac.com-wesche17.warc.gz	0
-wesche17	public.me.com		archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	public.me.com-wesche17.warc.gz	0
-wesche17	web.me.com		archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	web.me.com-wesche17.warc.gz	0
+lh20041002162322	gallery.me.com	2012-04-06 03:22:37	archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	gallery.me.com-lh20041002162322.warc.gz	8372
+lh20041002162322	homepage.mac.com	2012-04-06 03:22:37	archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	homepage.mac.com-lh20041002162322.warc.gz	5188
+lh20041002162322	public.me.com	2012-04-06 03:22:36	archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	public.me.com-lh20041002162322.warc.gz	1940
+lh20041002162322	web.me.com	2012-04-06 03:22:36	archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	web.me.com-lh20041002162322.warc.gz	17780
+luisrh	gallery.me.com	2012-04-06 03:22:34	archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	gallery.me.com-luisrh.warc.gz	609357828
+luisrh	homepage.mac.com	2012-04-06 03:22:35	archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	homepage.mac.com-luisrh.warc.gz	6039
+luisrh	public.me.com	2012-04-06 03:15:19	archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	public.me.com-luisrh.warc.gz	1069595282
+luisrh	web.me.com	2012-04-06 03:02:34	archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	web.me.com-luisrh.warc.gz	123735822
+macmaster69	gallery.me.com	2012-04-06 06:28:45	archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	gallery.me.com-macmaster69.warc.gz	470799482
+macmaster69	homepage.mac.com	2012-04-06 06:28:45	archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	homepage.mac.com-macmaster69.warc.gz	4927
+macmaster69	public.me.com	2012-04-06 06:16:55	archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	public.me.com-macmaster69.warc.gz	12831950
+macmaster69	web.me.com	2012-04-06 06:16:38	archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	web.me.com-macmaster69.warc.gz	189067298
+wesche17	gallery.me.com	2012-04-06 05:55:36	archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	gallery.me.com-wesche17.warc.gz	5713
+wesche17	homepage.mac.com	2012-04-06 05:55:36	archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	homepage.mac.com-wesche17.warc.gz	4918
+wesche17	public.me.com	2012-04-06 05:55:34	archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	public.me.com-wesche17.warc.gz	1914
+wesche17	web.me.com	2012-04-06 05:55:08	archiveteam-mobileme-hero-454x	archiveteam-mobileme-hero-454x-4548.tar	web.me.com-wesche17.warc.gz	2266747245

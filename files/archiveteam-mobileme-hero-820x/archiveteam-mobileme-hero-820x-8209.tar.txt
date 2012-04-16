@@ -1,0 +1,16 @@
+ajax16	gallery.me.com	2012-04-15 00:45:45	archiveteam-mobileme-hero-820x	archiveteam-mobileme-hero-820x-8209.tar	gallery.me.com-ajax16.warc.gz	288527552
+ajax16	homepage.mac.com	2012-04-15 00:45:47	archiveteam-mobileme-hero-820x	archiveteam-mobileme-hero-820x-8209.tar	homepage.mac.com-ajax16.warc.gz	62350
+ajax16	public.me.com	2012-04-15 00:44:05	archiveteam-mobileme-hero-820x	archiveteam-mobileme-hero-820x-8209.tar	public.me.com-ajax16.warc.gz	1917
+ajax16	web.me.com	2012-04-15 00:44:05	archiveteam-mobileme-hero-820x	archiveteam-mobileme-hero-820x-8209.tar	web.me.com-ajax16.warc.gz	382273
+donttellme_showme501	gallery.me.com	2012-04-15 01:33:18	archiveteam-mobileme-hero-820x	archiveteam-mobileme-hero-820x-8209.tar	gallery.me.com-donttellme_showme501.warc.gz	1131169193
+donttellme_showme501	homepage.mac.com	2012-04-15 01:33:19	archiveteam-mobileme-hero-820x	archiveteam-mobileme-hero-820x-8209.tar	homepage.mac.com-donttellme_showme501.warc.gz	4964
+donttellme_showme501	public.me.com	2012-04-15 01:19:29	archiveteam-mobileme-hero-820x	archiveteam-mobileme-hero-820x-8209.tar	public.me.com-donttellme_showme501.warc.gz	3429
+donttellme_showme501	web.me.com	2012-04-15 01:19:24	archiveteam-mobileme-hero-820x	archiveteam-mobileme-hero-820x-8209.tar	web.me.com-donttellme_showme501.warc.gz	1199682331
+jamiferg	gallery.me.com	2012-04-15 02:38:44	archiveteam-mobileme-hero-820x	archiveteam-mobileme-hero-820x-8209.tar	gallery.me.com-jamiferg.warc.gz	1119665354
+jamiferg	homepage.mac.com	2012-04-15 02:38:45	archiveteam-mobileme-hero-820x	archiveteam-mobileme-hero-820x-8209.tar	homepage.mac.com-jamiferg.warc.gz	4903
+jamiferg	public.me.com	2012-04-15 02:08:01	archiveteam-mobileme-hero-820x	archiveteam-mobileme-hero-820x-8209.tar	public.me.com-jamiferg.warc.gz	1921
+jamiferg	web.me.com	2012-04-15 02:08:00	archiveteam-mobileme-hero-820x	archiveteam-mobileme-hero-820x-8209.tar	web.me.com-jamiferg.warc.gz	25568375
+sobera	gallery.me.com	2012-04-15 02:04:02	archiveteam-mobileme-hero-820x	archiveteam-mobileme-hero-820x-8209.tar	gallery.me.com-sobera.warc.gz	1101671557
+sobera	homepage.mac.com	2012-04-15 02:04:03	archiveteam-mobileme-hero-820x	archiveteam-mobileme-hero-820x-8209.tar	homepage.mac.com-sobera.warc.gz	4896
+sobera	public.me.com	2012-04-15 01:47:08	archiveteam-mobileme-hero-820x	archiveteam-mobileme-hero-820x-8209.tar	public.me.com-sobera.warc.gz	1914
+sobera	web.me.com	2012-04-15 01:47:06	archiveteam-mobileme-hero-820x	archiveteam-mobileme-hero-820x-8209.tar	web.me.com-sobera.warc.gz	183740299

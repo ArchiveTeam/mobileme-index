@@ -1,8 +1,8 @@
-ced.free	gallery.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7080.tar	gallery.me.com-ced.free.warc.gz	0
-ced.free	homepage.mac.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7080.tar	homepage.mac.com-ced.free.warc.gz	0
-ced.free	public.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7080.tar	public.me.com-ced.free.warc.gz	0
-ced.free	web.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7080.tar	web.me.com-ced.free.warc.gz	0
-phmetzker	gallery.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7080.tar	gallery.me.com-phmetzker.warc.gz	0
-phmetzker	homepage.mac.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7080.tar	homepage.mac.com-phmetzker.warc.gz	0
-phmetzker	public.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7080.tar	public.me.com-phmetzker.warc.gz	0
-phmetzker	web.me.com		archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7080.tar	web.me.com-phmetzker.warc.gz	0
+ced.free	gallery.me.com	2012-04-13 03:22:29	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7080.tar	gallery.me.com-ced.free.warc.gz	4253496206
+ced.free	homepage.mac.com	2012-04-13 03:22:30	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7080.tar	homepage.mac.com-ced.free.warc.gz	4911
+ced.free	public.me.com	2012-04-12 23:22:10	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7080.tar	public.me.com-ced.free.warc.gz	6984247410
+ced.free	web.me.com	2012-04-12 19:19:48	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7080.tar	web.me.com-ced.free.warc.gz	1588636244
+phmetzker	gallery.me.com	2012-04-12 13:47:30	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7080.tar	gallery.me.com-phmetzker.warc.gz	4258
+phmetzker	homepage.mac.com	2012-04-12 13:47:47	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7080.tar	homepage.mac.com-phmetzker.warc.gz	132641
+phmetzker	public.me.com	2012-04-12 13:47:30	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7080.tar	public.me.com-phmetzker.warc.gz	1929
+phmetzker	web.me.com	2012-04-12 13:47:24	archiveteam-mobileme-hero-708x	archiveteam-mobileme-hero-708x-7080.tar	web.me.com-phmetzker.warc.gz	263749884

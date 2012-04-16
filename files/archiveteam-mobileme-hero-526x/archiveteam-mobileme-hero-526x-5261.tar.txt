@@ -1,16 +1,16 @@
-leskerr	gallery.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	gallery.me.com-leskerr.warc.gz	0
-leskerr	homepage.mac.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	homepage.mac.com-leskerr.warc.gz	0
-leskerr	public.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	public.me.com-leskerr.warc.gz	0
-leskerr	web.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	web.me.com-leskerr.warc.gz	0
-mckenzitaylor	gallery.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	gallery.me.com-mckenzitaylor.warc.gz	0
-mckenzitaylor	homepage.mac.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	homepage.mac.com-mckenzitaylor.warc.gz	0
-mckenzitaylor	public.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	public.me.com-mckenzitaylor.warc.gz	0
-mckenzitaylor	web.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	web.me.com-mckenzitaylor.warc.gz	0
-nancydemarcay	gallery.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	gallery.me.com-nancydemarcay.warc.gz	0
-nancydemarcay	homepage.mac.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	homepage.mac.com-nancydemarcay.warc.gz	0
-nancydemarcay	public.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	public.me.com-nancydemarcay.warc.gz	0
-nancydemarcay	web.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	web.me.com-nancydemarcay.warc.gz	0
-nybemotion	gallery.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	gallery.me.com-nybemotion.warc.gz	0
-nybemotion	homepage.mac.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	homepage.mac.com-nybemotion.warc.gz	0
-nybemotion	public.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	public.me.com-nybemotion.warc.gz	0
-nybemotion	web.me.com		archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	web.me.com-nybemotion.warc.gz	0
+leskerr	gallery.me.com	2012-04-08 21:01:06	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	gallery.me.com-leskerr.warc.gz	5393
+leskerr	homepage.mac.com	2012-04-08 21:01:07	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	homepage.mac.com-leskerr.warc.gz	6043
+leskerr	public.me.com	2012-04-08 21:01:05	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	public.me.com-leskerr.warc.gz	1910
+leskerr	web.me.com	2012-04-08 21:01:05	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	web.me.com-leskerr.warc.gz	141184557
+mckenzitaylor	gallery.me.com	2012-04-09 00:45:14	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	gallery.me.com-mckenzitaylor.warc.gz	7267476847
+mckenzitaylor	homepage.mac.com	2012-04-09 00:45:15	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	homepage.mac.com-mckenzitaylor.warc.gz	4938
+mckenzitaylor	public.me.com	2012-04-08 21:56:56	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	public.me.com-mckenzitaylor.warc.gz	1933
+mckenzitaylor	web.me.com	2012-04-08 21:56:40	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	web.me.com-mckenzitaylor.warc.gz	358989671
+nancydemarcay	gallery.me.com	2012-04-08 20:45:03	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	gallery.me.com-nancydemarcay.warc.gz	21804324
+nancydemarcay	homepage.mac.com	2012-04-08 20:45:03	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	homepage.mac.com-nancydemarcay.warc.gz	4940
+nancydemarcay	public.me.com	2012-04-08 20:43:54	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	public.me.com-nancydemarcay.warc.gz	342455
+nancydemarcay	web.me.com	2012-04-08 20:43:52	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	web.me.com-nancydemarcay.warc.gz	3967611
+nybemotion	gallery.me.com	2012-04-08 21:10:13	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	gallery.me.com-nybemotion.warc.gz	12309
+nybemotion	homepage.mac.com	2012-04-08 21:10:13	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	homepage.mac.com-nybemotion.warc.gz	7133
+nybemotion	public.me.com	2012-04-08 21:10:12	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	public.me.com-nybemotion.warc.gz	1918
+nybemotion	web.me.com	2012-04-08 21:10:12	archiveteam-mobileme-hero-526x	archiveteam-mobileme-hero-526x-5261.tar	web.me.com-nybemotion.warc.gz	22421

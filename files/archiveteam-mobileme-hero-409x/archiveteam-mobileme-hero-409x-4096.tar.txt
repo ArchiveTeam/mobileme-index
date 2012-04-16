@@ -1,8 +1,8 @@
-contact_bart	gallery.me.com		archiveteam-mobileme-hero-409x	archiveteam-mobileme-hero-409x-4096.tar	gallery.me.com-contact_bart.warc.gz	0
-contact_bart	homepage.mac.com		archiveteam-mobileme-hero-409x	archiveteam-mobileme-hero-409x-4096.tar	homepage.mac.com-contact_bart.warc.gz	0
-contact_bart	public.me.com		archiveteam-mobileme-hero-409x	archiveteam-mobileme-hero-409x-4096.tar	public.me.com-contact_bart.warc.gz	0
-contact_bart	web.me.com		archiveteam-mobileme-hero-409x	archiveteam-mobileme-hero-409x-4096.tar	web.me.com-contact_bart.warc.gz	0
-fdhsyearbook	gallery.me.com		archiveteam-mobileme-hero-409x	archiveteam-mobileme-hero-409x-4096.tar	gallery.me.com-fdhsyearbook.warc.gz	0
-fdhsyearbook	homepage.mac.com		archiveteam-mobileme-hero-409x	archiveteam-mobileme-hero-409x-4096.tar	homepage.mac.com-fdhsyearbook.warc.gz	0
-fdhsyearbook	public.me.com		archiveteam-mobileme-hero-409x	archiveteam-mobileme-hero-409x-4096.tar	public.me.com-fdhsyearbook.warc.gz	0
-fdhsyearbook	web.me.com		archiveteam-mobileme-hero-409x	archiveteam-mobileme-hero-409x-4096.tar	web.me.com-fdhsyearbook.warc.gz	0
+contact_bart	gallery.me.com	2012-04-05 03:31:38	archiveteam-mobileme-hero-409x	archiveteam-mobileme-hero-409x-4096.tar	gallery.me.com-contact_bart.warc.gz	2540996834
+contact_bart	homepage.mac.com	2012-04-05 03:31:38	archiveteam-mobileme-hero-409x	archiveteam-mobileme-hero-409x-4096.tar	homepage.mac.com-contact_bart.warc.gz	4930
+contact_bart	public.me.com	2012-04-05 02:11:25	archiveteam-mobileme-hero-409x	archiveteam-mobileme-hero-409x-4096.tar	public.me.com-contact_bart.warc.gz	23974679
+contact_bart	web.me.com	2012-04-05 02:10:46	archiveteam-mobileme-hero-409x	archiveteam-mobileme-hero-409x-4096.tar	web.me.com-contact_bart.warc.gz	1362984503
+fdhsyearbook	gallery.me.com	2012-04-05 04:54:32	archiveteam-mobileme-hero-409x	archiveteam-mobileme-hero-409x-4096.tar	gallery.me.com-fdhsyearbook.warc.gz	2962052590
+fdhsyearbook	homepage.mac.com	2012-04-05 04:54:32	archiveteam-mobileme-hero-409x	archiveteam-mobileme-hero-409x-4096.tar	homepage.mac.com-fdhsyearbook.warc.gz	4941
+fdhsyearbook	public.me.com	2012-04-05 03:49:39	archiveteam-mobileme-hero-409x	archiveteam-mobileme-hero-409x-4096.tar	public.me.com-fdhsyearbook.warc.gz	15558434
+fdhsyearbook	web.me.com	2012-04-05 03:48:55	archiveteam-mobileme-hero-409x	archiveteam-mobileme-hero-409x-4096.tar	web.me.com-fdhsyearbook.warc.gz	99852262

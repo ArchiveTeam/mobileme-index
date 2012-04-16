@@ -1,20 +1,20 @@
-adamassinder	gallery.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	gallery.me.com-adamassinder.warc.gz	0
-adamassinder	homepage.mac.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	homepage.mac.com-adamassinder.warc.gz	0
-adamassinder	public.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	public.me.com-adamassinder.warc.gz	0
-adamassinder	web.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	web.me.com-adamassinder.warc.gz	0
-bodyminder	gallery.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	gallery.me.com-bodyminder.warc.gz	0
-bodyminder	homepage.mac.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	homepage.mac.com-bodyminder.warc.gz	0
-bodyminder	public.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	public.me.com-bodyminder.warc.gz	0
-bodyminder	web.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	web.me.com-bodyminder.warc.gz	0
-deborahdion	gallery.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	gallery.me.com-deborahdion.warc.gz	0
-deborahdion	homepage.mac.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	homepage.mac.com-deborahdion.warc.gz	0
-deborahdion	public.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	public.me.com-deborahdion.warc.gz	0
-deborahdion	web.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	web.me.com-deborahdion.warc.gz	0
-musakon	gallery.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	gallery.me.com-musakon.warc.gz	0
-musakon	homepage.mac.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	homepage.mac.com-musakon.warc.gz	0
-musakon	public.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	public.me.com-musakon.warc.gz	0
-musakon	web.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	web.me.com-musakon.warc.gz	0
-rscottburns	gallery.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	gallery.me.com-rscottburns.warc.gz	0
-rscottburns	homepage.mac.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	homepage.mac.com-rscottburns.warc.gz	0
-rscottburns	public.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	public.me.com-rscottburns.warc.gz	0
-rscottburns	web.me.com		archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	web.me.com-rscottburns.warc.gz	0
+adamassinder	gallery.me.com	2012-03-31 12:11:41	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	gallery.me.com-adamassinder.warc.gz	2242036746
+adamassinder	homepage.mac.com	2012-03-31 12:13:24	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	homepage.mac.com-adamassinder.warc.gz	1031026
+adamassinder	public.me.com	2012-03-31 10:41:55	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	public.me.com-adamassinder.warc.gz	15634
+adamassinder	web.me.com	2012-03-31 10:41:45	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	web.me.com-adamassinder.warc.gz	760620714
+bodyminder	gallery.me.com	2012-03-31 12:30:01	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	gallery.me.com-bodyminder.warc.gz	22495998
+bodyminder	homepage.mac.com	2012-03-31 12:30:01	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	homepage.mac.com-bodyminder.warc.gz	4913
+bodyminder	public.me.com	2012-03-31 12:28:18	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	public.me.com-bodyminder.warc.gz	18617855
+bodyminder	web.me.com	2012-03-31 12:27:37	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	web.me.com-bodyminder.warc.gz	65640544
+deborahdion	gallery.me.com	2012-03-31 13:01:55	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	gallery.me.com-deborahdion.warc.gz	1290941464
+deborahdion	homepage.mac.com	2012-03-31 13:01:55	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	homepage.mac.com-deborahdion.warc.gz	4899
+deborahdion	public.me.com	2012-03-31 12:42:10	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	public.me.com-deborahdion.warc.gz	3868
+deborahdion	web.me.com	2012-03-31 12:42:09	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	web.me.com-deborahdion.warc.gz	2506997
+musakon	gallery.me.com	2012-03-31 12:40:49	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	gallery.me.com-musakon.warc.gz	232577
+musakon	homepage.mac.com	2012-03-31 12:40:49	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	homepage.mac.com-musakon.warc.gz	4908
+musakon	public.me.com	2012-03-31 12:40:44	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	public.me.com-musakon.warc.gz	5648881
+musakon	web.me.com	2012-03-31 12:40:30	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	web.me.com-musakon.warc.gz	46019
+rscottburns	gallery.me.com	2012-03-31 12:40:24	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	gallery.me.com-rscottburns.warc.gz	4256
+rscottburns	homepage.mac.com	2012-03-31 12:40:24	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	homepage.mac.com-rscottburns.warc.gz	4926
+rscottburns	public.me.com	2012-03-31 12:40:23	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	public.me.com-rscottburns.warc.gz	1919
+rscottburns	web.me.com	2012-03-31 12:40:22	archiveteam-mobileme-hero-240x	archiveteam-mobileme-hero-240x-2406.tar	web.me.com-rscottburns.warc.gz	115629713

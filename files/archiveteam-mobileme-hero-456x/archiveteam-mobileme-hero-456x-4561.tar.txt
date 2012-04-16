@@ -1,16 +1,16 @@
-j.gillis	gallery.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	gallery.me.com-j.gillis.warc.gz	0
-j.gillis	homepage.mac.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	homepage.mac.com-j.gillis.warc.gz	0
-j.gillis	public.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	public.me.com-j.gillis.warc.gz	0
-j.gillis	web.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	web.me.com-j.gillis.warc.gz	0
-laniolsen	gallery.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	gallery.me.com-laniolsen.warc.gz	0
-laniolsen	homepage.mac.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	homepage.mac.com-laniolsen.warc.gz	0
-laniolsen	public.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	public.me.com-laniolsen.warc.gz	0
-laniolsen	web.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	web.me.com-laniolsen.warc.gz	0
-phix1	gallery.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	gallery.me.com-phix1.warc.gz	0
-phix1	homepage.mac.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	homepage.mac.com-phix1.warc.gz	0
-phix1	public.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	public.me.com-phix1.warc.gz	0
-phix1	web.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	web.me.com-phix1.warc.gz	0
-rockjon	gallery.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	gallery.me.com-rockjon.warc.gz	0
-rockjon	homepage.mac.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	homepage.mac.com-rockjon.warc.gz	0
-rockjon	public.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	public.me.com-rockjon.warc.gz	0
-rockjon	web.me.com		archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	web.me.com-rockjon.warc.gz	0
+j.gillis	gallery.me.com	2012-04-06 06:46:24	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	gallery.me.com-j.gillis.warc.gz	304959949
+j.gillis	homepage.mac.com	2012-04-06 06:46:24	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	homepage.mac.com-j.gillis.warc.gz	4894
+j.gillis	public.me.com	2012-04-06 06:42:49	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	public.me.com-j.gillis.warc.gz	3143375442
+j.gillis	web.me.com	2012-04-06 06:19:19	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	web.me.com-j.gillis.warc.gz	340485778
+laniolsen	gallery.me.com	2012-04-06 06:47:07	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	gallery.me.com-laniolsen.warc.gz	4984
+laniolsen	homepage.mac.com	2012-04-06 06:47:08	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	homepage.mac.com-laniolsen.warc.gz	58868
+laniolsen	public.me.com	2012-04-06 06:47:07	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	public.me.com-laniolsen.warc.gz	1916
+laniolsen	web.me.com	2012-04-06 06:47:06	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	web.me.com-laniolsen.warc.gz	4166863
+phix1	gallery.me.com	2012-04-06 07:12:18	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	gallery.me.com-phix1.warc.gz	777896162
+phix1	homepage.mac.com	2012-04-06 07:12:42	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	homepage.mac.com-phix1.warc.gz	916150
+phix1	public.me.com	2012-04-06 07:01:36	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	public.me.com-phix1.warc.gz	1910
+phix1	web.me.com	2012-04-06 07:01:36	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	web.me.com-phix1.warc.gz	622651292
+rockjon	gallery.me.com	2012-04-06 06:08:13	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	gallery.me.com-rockjon.warc.gz	57603331
+rockjon	homepage.mac.com	2012-04-06 06:08:13	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	homepage.mac.com-rockjon.warc.gz	4915
+rockjon	public.me.com	2012-04-06 06:07:31	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	public.me.com-rockjon.warc.gz	3382
+rockjon	web.me.com	2012-04-06 06:07:31	archiveteam-mobileme-hero-456x	archiveteam-mobileme-hero-456x-4561.tar	web.me.com-rockjon.warc.gz	93408899

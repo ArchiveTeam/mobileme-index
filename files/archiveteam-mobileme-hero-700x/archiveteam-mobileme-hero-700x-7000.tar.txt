@@ -1,8 +1,8 @@
-bkhan2	gallery.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7000.tar	gallery.me.com-bkhan2.warc.gz	0
-bkhan2	homepage.mac.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7000.tar	homepage.mac.com-bkhan2.warc.gz	0
-bkhan2	public.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7000.tar	public.me.com-bkhan2.warc.gz	0
-bkhan2	web.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7000.tar	web.me.com-bkhan2.warc.gz	0
-skyrtst	gallery.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7000.tar	gallery.me.com-skyrtst.warc.gz	0
-skyrtst	homepage.mac.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7000.tar	homepage.mac.com-skyrtst.warc.gz	0
-skyrtst	public.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7000.tar	public.me.com-skyrtst.warc.gz	0
-skyrtst	web.me.com		archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7000.tar	web.me.com-skyrtst.warc.gz	0
+bkhan2	gallery.me.com	2012-04-12 21:05:17	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7000.tar	gallery.me.com-bkhan2.warc.gz	3687247861
+bkhan2	homepage.mac.com	2012-04-12 21:05:17	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7000.tar	homepage.mac.com-bkhan2.warc.gz	4907
+bkhan2	public.me.com	2012-04-12 19:04:15	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7000.tar	public.me.com-bkhan2.warc.gz	1913
+bkhan2	web.me.com	2012-04-12 19:04:15	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7000.tar	web.me.com-bkhan2.warc.gz	40272684
+skyrtst	gallery.me.com	2012-04-12 22:37:24	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7000.tar	gallery.me.com-skyrtst.warc.gz	2453006371
+skyrtst	homepage.mac.com	2012-04-12 22:37:25	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7000.tar	homepage.mac.com-skyrtst.warc.gz	4914
+skyrtst	public.me.com	2012-04-12 21:28:14	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7000.tar	public.me.com-skyrtst.warc.gz	300489911
+skyrtst	web.me.com	2012-04-12 21:25:36	archiveteam-mobileme-hero-700x	archiveteam-mobileme-hero-700x-7000.tar	web.me.com-skyrtst.warc.gz	136440273

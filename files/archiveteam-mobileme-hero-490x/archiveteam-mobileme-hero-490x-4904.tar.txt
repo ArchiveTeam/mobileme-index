@@ -1,8 +1,8 @@
-svcue	gallery.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4904.tar	gallery.me.com-svcue.warc.gz	0
-svcue	homepage.mac.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4904.tar	homepage.mac.com-svcue.warc.gz	0
-svcue	public.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4904.tar	public.me.com-svcue.warc.gz	0
-svcue	web.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4904.tar	web.me.com-svcue.warc.gz	0
-tophschott	gallery.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4904.tar	gallery.me.com-tophschott.warc.gz	0
-tophschott	homepage.mac.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4904.tar	homepage.mac.com-tophschott.warc.gz	0
-tophschott	public.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4904.tar	public.me.com-tophschott.warc.gz	0
-tophschott	web.me.com		archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4904.tar	web.me.com-tophschott.warc.gz	0
+svcue	gallery.me.com	2012-04-07 13:28:55	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4904.tar	gallery.me.com-svcue.warc.gz	5354
+svcue	homepage.mac.com	2012-04-07 13:30:05	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4904.tar	homepage.mac.com-svcue.warc.gz	121527489
+svcue	public.me.com	2012-04-07 13:28:54	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4904.tar	public.me.com-svcue.warc.gz	11286211
+svcue	web.me.com	2012-04-07 13:28:43	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4904.tar	web.me.com-svcue.warc.gz	33070
+tophschott	gallery.me.com	2012-04-07 16:21:49	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4904.tar	gallery.me.com-tophschott.warc.gz	4907408339
+tophschott	homepage.mac.com	2012-04-07 16:21:50	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4904.tar	homepage.mac.com-tophschott.warc.gz	7896
+tophschott	public.me.com	2012-04-07 14:50:14	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4904.tar	public.me.com-tophschott.warc.gz	45016389
+tophschott	web.me.com	2012-04-07 14:49:32	archiveteam-mobileme-hero-490x	archiveteam-mobileme-hero-490x-4904.tar	web.me.com-tophschott.warc.gz	2548771848

@@ -1,16 +1,16 @@
-chapman.mac	gallery.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	gallery.me.com-chapman.mac.warc.gz	0
-chapman.mac	homepage.mac.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	homepage.mac.com-chapman.mac.warc.gz	0
-chapman.mac	public.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	public.me.com-chapman.mac.warc.gz	0
-chapman.mac	web.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	web.me.com-chapman.mac.warc.gz	0
-kathy.sell	gallery.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	gallery.me.com-kathy.sell.warc.gz	0
-kathy.sell	homepage.mac.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	homepage.mac.com-kathy.sell.warc.gz	0
-kathy.sell	public.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	public.me.com-kathy.sell.warc.gz	0
-kathy.sell	web.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	web.me.com-kathy.sell.warc.gz	0
-robertojt	gallery.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	gallery.me.com-robertojt.warc.gz	0
-robertojt	homepage.mac.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	homepage.mac.com-robertojt.warc.gz	0
-robertojt	public.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	public.me.com-robertojt.warc.gz	0
-robertojt	web.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	web.me.com-robertojt.warc.gz	0
-tristan.darien	gallery.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	gallery.me.com-tristan.darien.warc.gz	0
-tristan.darien	homepage.mac.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	homepage.mac.com-tristan.darien.warc.gz	0
-tristan.darien	public.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	public.me.com-tristan.darien.warc.gz	0
-tristan.darien	web.me.com		archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	web.me.com-tristan.darien.warc.gz	0
+chapman.mac	gallery.me.com	2012-04-09 10:46:22	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	gallery.me.com-chapman.mac.warc.gz	8363
+chapman.mac	homepage.mac.com	2012-04-09 10:46:22	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	homepage.mac.com-chapman.mac.warc.gz	5171
+chapman.mac	public.me.com	2012-04-09 10:46:21	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	public.me.com-chapman.mac.warc.gz	1926
+chapman.mac	web.me.com	2012-04-09 10:46:21	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	web.me.com-chapman.mac.warc.gz	17735
+kathy.sell	gallery.me.com	2012-04-09 10:45:39	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	gallery.me.com-kathy.sell.warc.gz	419111489
+kathy.sell	homepage.mac.com	2012-04-09 10:45:39	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	homepage.mac.com-kathy.sell.warc.gz	4918
+kathy.sell	public.me.com	2012-04-09 10:34:49	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	public.me.com-kathy.sell.warc.gz	1925
+kathy.sell	web.me.com	2012-04-09 10:34:48	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	web.me.com-kathy.sell.warc.gz	27678578
+robertojt	gallery.me.com	2012-04-09 10:46:17	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	gallery.me.com-robertojt.warc.gz	4933
+robertojt	homepage.mac.com	2012-04-09 10:46:20	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	homepage.mac.com-robertojt.warc.gz	185366
+robertojt	public.me.com	2012-04-09 10:46:17	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	public.me.com-robertojt.warc.gz	14721099
+robertojt	web.me.com	2012-04-09 10:45:41	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	web.me.com-robertojt.warc.gz	16124
+tristan.darien	gallery.me.com	2012-04-09 11:44:59	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	gallery.me.com-tristan.darien.warc.gz	4294950761
+tristan.darien	homepage.mac.com	2012-04-09 11:45:00	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	homepage.mac.com-tristan.darien.warc.gz	4938
+tristan.darien	public.me.com	2012-04-09 10:57:10	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	public.me.com-tristan.darien.warc.gz	3551
+tristan.darien	web.me.com	2012-04-09 10:57:10	archiveteam-mobileme-hero-546x	archiveteam-mobileme-hero-546x-5462.tar	web.me.com-tristan.darien.warc.gz	83223328

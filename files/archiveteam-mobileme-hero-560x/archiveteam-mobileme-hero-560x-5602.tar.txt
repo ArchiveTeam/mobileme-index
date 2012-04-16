@@ -1,16 +1,16 @@
-craig_ruaux	gallery.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	gallery.me.com-craig_ruaux.warc.gz	0
-craig_ruaux	homepage.mac.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	homepage.mac.com-craig_ruaux.warc.gz	0
-craig_ruaux	public.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	public.me.com-craig_ruaux.warc.gz	0
-craig_ruaux	web.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	web.me.com-craig_ruaux.warc.gz	0
-markcummins1	gallery.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	gallery.me.com-markcummins1.warc.gz	0
-markcummins1	homepage.mac.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	homepage.mac.com-markcummins1.warc.gz	0
-markcummins1	public.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	public.me.com-markcummins1.warc.gz	0
-markcummins1	web.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	web.me.com-markcummins1.warc.gz	0
-reidnixon	gallery.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	gallery.me.com-reidnixon.warc.gz	0
-reidnixon	homepage.mac.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	homepage.mac.com-reidnixon.warc.gz	0
-reidnixon	public.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	public.me.com-reidnixon.warc.gz	0
-reidnixon	web.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	web.me.com-reidnixon.warc.gz	0
-starleishamichelle	gallery.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	gallery.me.com-starleishamichelle.warc.gz	0
-starleishamichelle	homepage.mac.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	homepage.mac.com-starleishamichelle.warc.gz	0
-starleishamichelle	public.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	public.me.com-starleishamichelle.warc.gz	0
-starleishamichelle	web.me.com		archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	web.me.com-starleishamichelle.warc.gz	0
+craig_ruaux	gallery.me.com	2012-04-09 16:01:02	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	gallery.me.com-craig_ruaux.warc.gz	8363
+craig_ruaux	homepage.mac.com	2012-04-09 16:01:02	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	homepage.mac.com-craig_ruaux.warc.gz	5169
+craig_ruaux	public.me.com	2012-04-09 16:01:01	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	public.me.com-craig_ruaux.warc.gz	1929
+craig_ruaux	web.me.com	2012-04-09 16:01:01	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	web.me.com-craig_ruaux.warc.gz	17724
+markcummins1	gallery.me.com	2012-04-09 19:41:28	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	gallery.me.com-markcummins1.warc.gz	4275
+markcummins1	homepage.mac.com	2012-04-09 19:41:28	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	homepage.mac.com-markcummins1.warc.gz	4935
+markcummins1	public.me.com	2012-04-09 19:41:27	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	public.me.com-markcummins1.warc.gz	6854638105
+markcummins1	web.me.com	2012-04-09 16:01:44	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	web.me.com-markcummins1.warc.gz	754761
+reidnixon	gallery.me.com	2012-04-09 15:59:06	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	gallery.me.com-reidnixon.warc.gz	15540060
+reidnixon	homepage.mac.com	2012-04-09 15:59:15	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	homepage.mac.com-reidnixon.warc.gz	169803
+reidnixon	public.me.com	2012-04-09 15:58:29	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	public.me.com-reidnixon.warc.gz	841344
+reidnixon	web.me.com	2012-04-09 15:58:26	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	web.me.com-reidnixon.warc.gz	424656073
+starleishamichelle	gallery.me.com	2012-04-09 16:00:59	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	gallery.me.com-starleishamichelle.warc.gz	4293
+starleishamichelle	homepage.mac.com	2012-04-09 16:00:59	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	homepage.mac.com-starleishamichelle.warc.gz	4943
+starleishamichelle	public.me.com	2012-04-09 16:00:53	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	public.me.com-starleishamichelle.warc.gz	1937
+starleishamichelle	web.me.com	2012-04-09 16:00:53	archiveteam-mobileme-hero-560x	archiveteam-mobileme-hero-560x-5602.tar	web.me.com-starleishamichelle.warc.gz	2616360

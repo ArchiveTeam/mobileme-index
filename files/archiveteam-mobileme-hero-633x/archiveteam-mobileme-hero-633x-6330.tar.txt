@@ -1,20 +1,20 @@
-bruceclanton	gallery.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	gallery.me.com-bruceclanton.warc.gz	0
-bruceclanton	homepage.mac.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	homepage.mac.com-bruceclanton.warc.gz	0
-bruceclanton	public.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	public.me.com-bruceclanton.warc.gz	0
-bruceclanton	web.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	web.me.com-bruceclanton.warc.gz	0
-cburney	gallery.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	gallery.me.com-cburney.warc.gz	0
-cburney	homepage.mac.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	homepage.mac.com-cburney.warc.gz	0
-cburney	public.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	public.me.com-cburney.warc.gz	0
-cburney	web.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	web.me.com-cburney.warc.gz	0
-cyaned24	gallery.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	gallery.me.com-cyaned24.warc.gz	0
-cyaned24	homepage.mac.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	homepage.mac.com-cyaned24.warc.gz	0
-cyaned24	public.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	public.me.com-cyaned24.warc.gz	0
-cyaned24	web.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	web.me.com-cyaned24.warc.gz	0
-dmasselot	gallery.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	gallery.me.com-dmasselot.warc.gz	0
-dmasselot	homepage.mac.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	homepage.mac.com-dmasselot.warc.gz	0
-dmasselot	public.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	public.me.com-dmasselot.warc.gz	0
-dmasselot	web.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	web.me.com-dmasselot.warc.gz	0
-g.basnett	gallery.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	gallery.me.com-g.basnett.warc.gz	0
-g.basnett	homepage.mac.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	homepage.mac.com-g.basnett.warc.gz	0
-g.basnett	public.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	public.me.com-g.basnett.warc.gz	0
-g.basnett	web.me.com		archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	web.me.com-g.basnett.warc.gz	0
+bruceclanton	gallery.me.com	2012-04-11 09:46:50	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	gallery.me.com-bruceclanton.warc.gz	1160178479
+bruceclanton	homepage.mac.com	2012-04-11 09:46:51	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	homepage.mac.com-bruceclanton.warc.gz	4935
+bruceclanton	public.me.com	2012-04-11 09:33:45	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	public.me.com-bruceclanton.warc.gz	1927
+bruceclanton	web.me.com	2012-04-11 09:29:07	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	web.me.com-bruceclanton.warc.gz	2466328516
+cburney	gallery.me.com	2012-04-11 10:09:09	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	gallery.me.com-cburney.warc.gz	117260305
+cburney	homepage.mac.com	2012-04-11 10:09:16	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	homepage.mac.com-cburney.warc.gz	36830
+cburney	public.me.com	2012-04-11 10:07:10	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	public.me.com-cburney.warc.gz	82560543
+cburney	web.me.com	2012-04-11 10:03:58	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	web.me.com-cburney.warc.gz	23976709
+cyaned24	gallery.me.com	2012-04-11 09:55:53	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	gallery.me.com-cyaned24.warc.gz	4235
+cyaned24	homepage.mac.com	2012-04-11 09:55:55	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	homepage.mac.com-cyaned24.warc.gz	4896
+cyaned24	public.me.com	2012-04-11 09:55:49	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	public.me.com-cyaned24.warc.gz	1913
+cyaned24	web.me.com	2012-04-11 09:55:39	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	web.me.com-cyaned24.warc.gz	11170852
+dmasselot	gallery.me.com	2012-04-11 10:27:55	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	gallery.me.com-dmasselot.warc.gz	207168120
+dmasselot	homepage.mac.com	2012-04-11 10:27:59	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	homepage.mac.com-dmasselot.warc.gz	4915
+dmasselot	public.me.com	2012-04-11 10:24:53	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	public.me.com-dmasselot.warc.gz	1917
+dmasselot	web.me.com	2012-04-11 10:24:43	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	web.me.com-dmasselot.warc.gz	460587652
+g.basnett	gallery.me.com	2012-04-11 03:23:44	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	gallery.me.com-g.basnett.warc.gz	4238
+g.basnett	homepage.mac.com	2012-04-11 03:23:46	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	homepage.mac.com-g.basnett.warc.gz	4911
+g.basnett	public.me.com	2012-04-11 03:23:38	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	public.me.com-g.basnett.warc.gz	1916
+g.basnett	web.me.com	2012-04-11 03:23:34	archiveteam-mobileme-hero-633x	archiveteam-mobileme-hero-633x-6330.tar	web.me.com-g.basnett.warc.gz	7087969

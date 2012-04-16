@@ -1,20 +1,20 @@
-barrycoward	gallery.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	gallery.me.com-barrycoward.warc.gz	0
-barrycoward	homepage.mac.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	homepage.mac.com-barrycoward.warc.gz	0
-barrycoward	public.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	public.me.com-barrycoward.warc.gz	0
-barrycoward	web.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	web.me.com-barrycoward.warc.gz	0
-jtimbers	gallery.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	gallery.me.com-jtimbers.warc.gz	0
-jtimbers	homepage.mac.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	homepage.mac.com-jtimbers.warc.gz	0
-jtimbers	public.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	public.me.com-jtimbers.warc.gz	0
-jtimbers	web.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	web.me.com-jtimbers.warc.gz	0
-peterbarrs	gallery.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	gallery.me.com-peterbarrs.warc.gz	0
-peterbarrs	homepage.mac.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	homepage.mac.com-peterbarrs.warc.gz	0
-peterbarrs	public.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	public.me.com-peterbarrs.warc.gz	0
-peterbarrs	web.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	web.me.com-peterbarrs.warc.gz	0
-randy.bird	gallery.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	gallery.me.com-randy.bird.warc.gz	0
-randy.bird	homepage.mac.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	homepage.mac.com-randy.bird.warc.gz	0
-randy.bird	public.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	public.me.com-randy.bird.warc.gz	0
-randy.bird	web.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	web.me.com-randy.bird.warc.gz	0
-selconferences	gallery.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	gallery.me.com-selconferences.warc.gz	0
-selconferences	homepage.mac.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	homepage.mac.com-selconferences.warc.gz	0
-selconferences	public.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	public.me.com-selconferences.warc.gz	0
-selconferences	web.me.com		archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	web.me.com-selconferences.warc.gz	0
+barrycoward	gallery.me.com	2012-04-13 10:02:24	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	gallery.me.com-barrycoward.warc.gz	1596963527
+barrycoward	homepage.mac.com	2012-04-13 10:02:30	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	homepage.mac.com-barrycoward.warc.gz	188454
+barrycoward	public.me.com	2012-04-13 09:17:57	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	public.me.com-barrycoward.warc.gz	152524441
+barrycoward	web.me.com	2012-04-13 09:17:14	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	web.me.com-barrycoward.warc.gz	110627693
+jtimbers	gallery.me.com	2012-04-13 10:04:56	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	gallery.me.com-jtimbers.warc.gz	5019
+jtimbers	homepage.mac.com	2012-04-13 10:04:56	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	homepage.mac.com-jtimbers.warc.gz	4909
+jtimbers	public.me.com	2012-04-13 10:04:55	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	public.me.com-jtimbers.warc.gz	137649047
+jtimbers	web.me.com	2012-04-13 10:04:19	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	web.me.com-jtimbers.warc.gz	30082071
+peterbarrs	gallery.me.com	2012-04-13 10:40:26	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	gallery.me.com-peterbarrs.warc.gz	5017
+peterbarrs	homepage.mac.com	2012-04-13 10:40:27	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	homepage.mac.com-peterbarrs.warc.gz	23898
+peterbarrs	public.me.com	2012-04-13 10:40:25	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	public.me.com-peterbarrs.warc.gz	2140535314
+peterbarrs	web.me.com	2012-04-13 10:29:58	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	web.me.com-peterbarrs.warc.gz	39386446
+randy.bird	gallery.me.com	2012-04-13 10:27:46	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	gallery.me.com-randy.bird.warc.gz	624099584
+randy.bird	homepage.mac.com	2012-04-13 10:27:48	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	homepage.mac.com-randy.bird.warc.gz	4923
+randy.bird	public.me.com	2012-04-13 10:15:46	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	public.me.com-randy.bird.warc.gz	1911
+randy.bird	web.me.com	2012-04-13 10:15:46	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	web.me.com-randy.bird.warc.gz	59183354
+selconferences	gallery.me.com	2012-04-13 08:58:02	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	gallery.me.com-selconferences.warc.gz	4279
+selconferences	homepage.mac.com	2012-04-13 08:58:03	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	homepage.mac.com-selconferences.warc.gz	4918
+selconferences	public.me.com	2012-04-13 08:58:02	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	public.me.com-selconferences.warc.gz	1928
+selconferences	web.me.com	2012-04-13 08:58:01	archiveteam-mobileme-hero-726x	archiveteam-mobileme-hero-726x-7266.tar	web.me.com-selconferences.warc.gz	1770006

@@ -1,8 +1,8 @@
-mikeshu	gallery.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7406.tar	gallery.me.com-mikeshu.warc.gz	0
-mikeshu	homepage.mac.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7406.tar	homepage.mac.com-mikeshu.warc.gz	0
-mikeshu	public.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7406.tar	public.me.com-mikeshu.warc.gz	0
-mikeshu	web.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7406.tar	web.me.com-mikeshu.warc.gz	0
-mldearth	gallery.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7406.tar	gallery.me.com-mldearth.warc.gz	0
-mldearth	homepage.mac.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7406.tar	homepage.mac.com-mldearth.warc.gz	0
-mldearth	public.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7406.tar	public.me.com-mldearth.warc.gz	0
-mldearth	web.me.com		archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7406.tar	web.me.com-mldearth.warc.gz	0
+mikeshu	gallery.me.com	2012-04-13 17:31:39	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7406.tar	gallery.me.com-mikeshu.warc.gz	444976422
+mikeshu	homepage.mac.com	2012-04-13 17:31:39	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7406.tar	homepage.mac.com-mikeshu.warc.gz	4914
+mikeshu	public.me.com	2012-04-13 17:02:49	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7406.tar	public.me.com-mikeshu.warc.gz	2898554490
+mikeshu	web.me.com	2012-04-13 16:05:39	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7406.tar	web.me.com-mikeshu.warc.gz	2330058774
+mldearth	gallery.me.com	2012-04-13 14:16:00	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7406.tar	gallery.me.com-mldearth.warc.gz	167781078
+mldearth	homepage.mac.com	2012-04-13 14:16:39	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7406.tar	homepage.mac.com-mldearth.warc.gz	363608
+mldearth	public.me.com	2012-04-13 14:08:16	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7406.tar	public.me.com-mldearth.warc.gz	66989304
+mldearth	web.me.com	2012-04-13 14:05:14	archiveteam-mobileme-hero-740x	archiveteam-mobileme-hero-740x-7406.tar	web.me.com-mldearth.warc.gz	3110153

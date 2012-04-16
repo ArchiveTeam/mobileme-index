@@ -1,24 +1,24 @@
-appleuic	gallery.me.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	gallery.me.com-appleuic.warc.gz	0
-appleuic	homepage.mac.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	homepage.mac.com-appleuic.warc.gz	0
-appleuic	public.me.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	public.me.com-appleuic.warc.gz	0
-appleuic	web.me.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	web.me.com-appleuic.warc.gz	0
-chicagobob	gallery.me.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	gallery.me.com-chicagobob.warc.gz	0
-chicagobob	homepage.mac.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	homepage.mac.com-chicagobob.warc.gz	0
-chicagobob	public.me.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	public.me.com-chicagobob.warc.gz	0
-chicagobob	web.me.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	web.me.com-chicagobob.warc.gz	0
-moriss	gallery.me.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	gallery.me.com-moriss.warc.gz	0
-moriss	homepage.mac.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	homepage.mac.com-moriss.warc.gz	0
-moriss	public.me.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	public.me.com-moriss.warc.gz	0
-moriss	web.me.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	web.me.com-moriss.warc.gz	0
-richard_a	gallery.me.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	gallery.me.com-richard_a.warc.gz	0
-richard_a	homepage.mac.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	homepage.mac.com-richard_a.warc.gz	0
-richard_a	public.me.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	public.me.com-richard_a.warc.gz	0
-richard_a	web.me.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	web.me.com-richard_a.warc.gz	0
-telebielingue	gallery.me.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	gallery.me.com-telebielingue.warc.gz	0
-telebielingue	homepage.mac.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	homepage.mac.com-telebielingue.warc.gz	0
-telebielingue	public.me.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	public.me.com-telebielingue.warc.gz	0
-telebielingue	web.me.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	web.me.com-telebielingue.warc.gz	0
-wesweisser	gallery.me.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	gallery.me.com-wesweisser.warc.gz	0
-wesweisser	homepage.mac.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	homepage.mac.com-wesweisser.warc.gz	0
-wesweisser	public.me.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	public.me.com-wesweisser.warc.gz	0
-wesweisser	web.me.com		archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	web.me.com-wesweisser.warc.gz	0
+appleuic	gallery.me.com	2012-03-31 19:36:14	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	gallery.me.com-appleuic.warc.gz	8347
+appleuic	homepage.mac.com	2012-03-31 19:36:14	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	homepage.mac.com-appleuic.warc.gz	5159
+appleuic	public.me.com	2012-03-31 19:36:13	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	public.me.com-appleuic.warc.gz	1912
+appleuic	web.me.com	2012-03-31 19:36:12	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	web.me.com-appleuic.warc.gz	17688
+chicagobob	gallery.me.com	2012-03-31 18:26:19	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	gallery.me.com-chicagobob.warc.gz	5852
+chicagobob	homepage.mac.com	2012-03-31 18:28:01	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	homepage.mac.com-chicagobob.warc.gz	1048902
+chicagobob	public.me.com	2012-03-31 18:26:17	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	public.me.com-chicagobob.warc.gz	2859364
+chicagobob	web.me.com	2012-03-31 18:26:06	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	web.me.com-chicagobob.warc.gz	299017
+moriss	gallery.me.com	2012-03-31 18:31:05	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	gallery.me.com-moriss.warc.gz	6990
+moriss	homepage.mac.com	2012-03-31 18:31:06	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	homepage.mac.com-moriss.warc.gz	4890
+moriss	public.me.com	2012-03-31 18:31:02	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	public.me.com-moriss.warc.gz	1910
+moriss	web.me.com	2012-03-31 18:31:02	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	web.me.com-moriss.warc.gz	6685618
+richard_a	gallery.me.com	2012-03-31 19:02:49	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	gallery.me.com-richard_a.warc.gz	5619
+richard_a	homepage.mac.com	2012-03-31 19:02:49	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	homepage.mac.com-richard_a.warc.gz	4914
+richard_a	public.me.com	2012-03-31 19:02:47	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	public.me.com-richard_a.warc.gz	1920
+richard_a	web.me.com	2012-03-31 19:02:41	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	web.me.com-richard_a.warc.gz	817616590
+telebielingue	gallery.me.com	2012-03-31 19:36:02	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	gallery.me.com-telebielingue.warc.gz	5044
+telebielingue	homepage.mac.com	2012-03-31 19:36:03	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	homepage.mac.com-telebielingue.warc.gz	4929
+telebielingue	public.me.com	2012-03-31 19:36:00	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	public.me.com-telebielingue.warc.gz	117033
+telebielingue	web.me.com	2012-03-31 19:35:55	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	web.me.com-telebielingue.warc.gz	1382085689
+wesweisser	gallery.me.com	2012-03-31 20:16:46	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	gallery.me.com-wesweisser.warc.gz	5681
+wesweisser	homepage.mac.com	2012-03-31 20:16:46	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	homepage.mac.com-wesweisser.warc.gz	4904
+wesweisser	public.me.com	2012-03-31 20:16:43	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	public.me.com-wesweisser.warc.gz	1997061637
+wesweisser	web.me.com	2012-03-31 19:39:04	archiveteam-mobileme-hero-249x	archiveteam-mobileme-hero-249x-2499.tar	web.me.com-wesweisser.warc.gz	99566548

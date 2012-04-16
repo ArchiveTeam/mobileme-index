@@ -1,8 +1,8 @@
-blainweiss	gallery.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3035.tar	gallery.me.com-blainweiss.warc.gz	0
-blainweiss	homepage.mac.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3035.tar	homepage.mac.com-blainweiss.warc.gz	0
-blainweiss	public.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3035.tar	public.me.com-blainweiss.warc.gz	0
-blainweiss	web.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3035.tar	web.me.com-blainweiss.warc.gz	0
-solenne.guilbert	gallery.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3035.tar	gallery.me.com-solenne.guilbert.warc.gz	0
-solenne.guilbert	homepage.mac.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3035.tar	homepage.mac.com-solenne.guilbert.warc.gz	0
-solenne.guilbert	public.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3035.tar	public.me.com-solenne.guilbert.warc.gz	0
-solenne.guilbert	web.me.com		archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3035.tar	web.me.com-solenne.guilbert.warc.gz	0
+blainweiss	gallery.me.com	2012-04-02 17:06:33	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3035.tar	gallery.me.com-blainweiss.warc.gz	2796846893
+blainweiss	homepage.mac.com	2012-04-02 17:06:33	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3035.tar	homepage.mac.com-blainweiss.warc.gz	4922
+blainweiss	public.me.com	2012-04-02 16:19:11	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3035.tar	public.me.com-blainweiss.warc.gz	1307946921
+blainweiss	web.me.com	2012-04-02 15:55:57	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3035.tar	web.me.com-blainweiss.warc.gz	293116880
+solenne.guilbert	gallery.me.com	2012-04-02 14:56:52	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3035.tar	gallery.me.com-solenne.guilbert.warc.gz	5795
+solenne.guilbert	homepage.mac.com	2012-04-02 14:56:52	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3035.tar	homepage.mac.com-solenne.guilbert.warc.gz	4951
+solenne.guilbert	public.me.com	2012-04-02 14:56:51	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3035.tar	public.me.com-solenne.guilbert.warc.gz	1931
+solenne.guilbert	web.me.com	2012-04-02 14:56:47	archiveteam-mobileme-hero-303x	archiveteam-mobileme-hero-303x-3035.tar	web.me.com-solenne.guilbert.warc.gz	7020229

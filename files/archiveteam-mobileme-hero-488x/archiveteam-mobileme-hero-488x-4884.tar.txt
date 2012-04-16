@@ -1,16 +1,16 @@
-acmeaudioeng	gallery.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	gallery.me.com-acmeaudioeng.warc.gz	0
-acmeaudioeng	homepage.mac.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	homepage.mac.com-acmeaudioeng.warc.gz	0
-acmeaudioeng	public.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	public.me.com-acmeaudioeng.warc.gz	0
-acmeaudioeng	web.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	web.me.com-acmeaudioeng.warc.gz	0
-gwendelius	gallery.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	gallery.me.com-gwendelius.warc.gz	0
-gwendelius	homepage.mac.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	homepage.mac.com-gwendelius.warc.gz	0
-gwendelius	public.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	public.me.com-gwendelius.warc.gz	0
-gwendelius	web.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	web.me.com-gwendelius.warc.gz	0
-mikeshur	gallery.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	gallery.me.com-mikeshur.warc.gz	0
-mikeshur	homepage.mac.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	homepage.mac.com-mikeshur.warc.gz	0
-mikeshur	public.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	public.me.com-mikeshur.warc.gz	0
-mikeshur	web.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	web.me.com-mikeshur.warc.gz	0
-thelatest	gallery.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	gallery.me.com-thelatest.warc.gz	0
-thelatest	homepage.mac.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	homepage.mac.com-thelatest.warc.gz	0
-thelatest	public.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	public.me.com-thelatest.warc.gz	0
-thelatest	web.me.com		archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	web.me.com-thelatest.warc.gz	0
+acmeaudioeng	gallery.me.com	2012-04-07 07:27:02	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	gallery.me.com-acmeaudioeng.warc.gz	2618605117
+acmeaudioeng	homepage.mac.com	2012-04-07 07:27:10	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	homepage.mac.com-acmeaudioeng.warc.gz	112000
+acmeaudioeng	public.me.com	2012-04-07 07:04:25	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	public.me.com-acmeaudioeng.warc.gz	8183
+acmeaudioeng	web.me.com	2012-04-07 07:04:22	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	web.me.com-acmeaudioeng.warc.gz	216563855
+gwendelius	gallery.me.com	2012-04-07 07:50:59	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	gallery.me.com-gwendelius.warc.gz	1089646
+gwendelius	homepage.mac.com	2012-04-07 07:50:59	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	homepage.mac.com-gwendelius.warc.gz	4928
+gwendelius	public.me.com	2012-04-07 07:50:55	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	public.me.com-gwendelius.warc.gz	1909
+gwendelius	web.me.com	2012-04-07 07:50:55	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	web.me.com-gwendelius.warc.gz	163694819
+mikeshur	gallery.me.com	2012-04-07 07:52:41	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	gallery.me.com-mikeshur.warc.gz	40635866
+mikeshur	homepage.mac.com	2012-04-07 07:52:47	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	homepage.mac.com-mikeshur.warc.gz	116421
+mikeshur	public.me.com	2012-04-07 07:51:48	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	public.me.com-mikeshur.warc.gz	1918
+mikeshur	web.me.com	2012-04-07 07:51:48	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	web.me.com-mikeshur.warc.gz	12189806
+thelatest	gallery.me.com	2012-04-07 11:25:16	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	gallery.me.com-thelatest.warc.gz	8022088487
+thelatest	homepage.mac.com	2012-04-07 11:25:17	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	homepage.mac.com-thelatest.warc.gz	4904
+thelatest	public.me.com	2012-04-07 08:59:32	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	public.me.com-thelatest.warc.gz	1913
+thelatest	web.me.com	2012-04-07 08:58:41	archiveteam-mobileme-hero-488x	archiveteam-mobileme-hero-488x-4884.tar	web.me.com-thelatest.warc.gz	1849828048

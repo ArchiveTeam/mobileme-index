@@ -1,20 +1,20 @@
-doug.morrow	gallery.me.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	gallery.me.com-doug.morrow.warc.gz	0
-doug.morrow	homepage.mac.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	homepage.mac.com-doug.morrow.warc.gz	0
-doug.morrow	public.me.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	public.me.com-doug.morrow.warc.gz	0
-doug.morrow	web.me.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	web.me.com-doug.morrow.warc.gz	0
-karibarrera	gallery.me.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	gallery.me.com-karibarrera.warc.gz	0
-karibarrera	homepage.mac.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	homepage.mac.com-karibarrera.warc.gz	0
-karibarrera	public.me.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	public.me.com-karibarrera.warc.gz	0
-karibarrera	web.me.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	web.me.com-karibarrera.warc.gz	0
-key1	gallery.me.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	gallery.me.com-key1.warc.gz	0
-key1	homepage.mac.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	homepage.mac.com-key1.warc.gz	0
-key1	public.me.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	public.me.com-key1.warc.gz	0
-key1	web.me.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	web.me.com-key1.warc.gz	0
-muzfuz	gallery.me.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	gallery.me.com-muzfuz.warc.gz	0
-muzfuz	homepage.mac.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	homepage.mac.com-muzfuz.warc.gz	0
-muzfuz	public.me.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	public.me.com-muzfuz.warc.gz	0
-muzfuz	web.me.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	web.me.com-muzfuz.warc.gz	0
-timadams	gallery.me.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	gallery.me.com-timadams.warc.gz	0
-timadams	homepage.mac.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	homepage.mac.com-timadams.warc.gz	0
-timadams	public.me.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	public.me.com-timadams.warc.gz	0
-timadams	web.me.com		archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	web.me.com-timadams.warc.gz	0
+doug.morrow	gallery.me.com	2012-04-09 22:20:53	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	gallery.me.com-doug.morrow.warc.gz	1781358811
+doug.morrow	homepage.mac.com	2012-04-09 22:20:54	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	homepage.mac.com-doug.morrow.warc.gz	7919
+doug.morrow	public.me.com	2012-04-09 21:38:24	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	public.me.com-doug.morrow.warc.gz	148706347
+doug.morrow	web.me.com	2012-04-09 21:33:52	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	web.me.com-doug.morrow.warc.gz	2649675899
+karibarrera	gallery.me.com	2012-04-09 19:32:59	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	gallery.me.com-karibarrera.warc.gz	4296
+karibarrera	homepage.mac.com	2012-04-09 19:32:59	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	homepage.mac.com-karibarrera.warc.gz	4921
+karibarrera	public.me.com	2012-04-09 19:32:58	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	public.me.com-karibarrera.warc.gz	1919
+karibarrera	web.me.com	2012-04-09 19:32:57	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	web.me.com-karibarrera.warc.gz	64947251
+key1	gallery.me.com	2012-04-09 20:16:19	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	gallery.me.com-key1.warc.gz	5739
+key1	homepage.mac.com	2012-04-09 20:16:19	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	homepage.mac.com-key1.warc.gz	7860
+key1	public.me.com	2012-04-09 20:16:18	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	public.me.com-key1.warc.gz	15169
+key1	web.me.com	2012-04-09 20:16:17	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	web.me.com-key1.warc.gz	273378
+muzfuz	gallery.me.com	2012-04-09 20:15:50	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	gallery.me.com-muzfuz.warc.gz	4247
+muzfuz	homepage.mac.com	2012-04-09 20:15:51	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	homepage.mac.com-muzfuz.warc.gz	7876
+muzfuz	public.me.com	2012-04-09 20:15:50	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	public.me.com-muzfuz.warc.gz	599210986
+muzfuz	web.me.com	2012-04-09 19:56:03	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	web.me.com-muzfuz.warc.gz	40593106
+timadams	gallery.me.com	2012-04-09 19:48:52	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	gallery.me.com-timadams.warc.gz	5091
+timadams	homepage.mac.com	2012-04-09 19:55:24	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	homepage.mac.com-timadams.warc.gz	40699483
+timadams	public.me.com	2012-04-09 19:48:51	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	public.me.com-timadams.warc.gz	1922
+timadams	web.me.com	2012-04-09 19:48:51	archiveteam-mobileme-hero-565x	archiveteam-mobileme-hero-565x-5650.tar	web.me.com-timadams.warc.gz	51722203

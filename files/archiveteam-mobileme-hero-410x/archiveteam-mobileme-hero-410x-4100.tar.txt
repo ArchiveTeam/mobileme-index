@@ -1,4 +1,4 @@
-lburch	gallery.me.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4100.tar	gallery.me.com-lburch.warc.gz	0
-lburch	homepage.mac.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4100.tar	homepage.mac.com-lburch.warc.gz	0
-lburch	public.me.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4100.tar	public.me.com-lburch.warc.gz	0
-lburch	web.me.com		archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4100.tar	web.me.com-lburch.warc.gz	0
+lburch	gallery.me.com	2012-04-05 04:30:32	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4100.tar	gallery.me.com-lburch.warc.gz	6501587019
+lburch	homepage.mac.com	2012-04-05 04:30:37	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4100.tar	homepage.mac.com-lburch.warc.gz	41223
+lburch	public.me.com	2012-04-05 02:30:49	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4100.tar	public.me.com-lburch.warc.gz	1906
+lburch	web.me.com	2012-04-05 02:30:31	archiveteam-mobileme-hero-410x	archiveteam-mobileme-hero-410x-4100.tar	web.me.com-lburch.warc.gz	3196683128

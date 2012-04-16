@@ -1,16 +1,16 @@
-bszaronos1	gallery.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	gallery.me.com-bszaronos1.warc.gz	0
-bszaronos1	homepage.mac.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	homepage.mac.com-bszaronos1.warc.gz	0
-bszaronos1	public.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	public.me.com-bszaronos1.warc.gz	0
-bszaronos1	web.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	web.me.com-bszaronos1.warc.gz	0
-houstonderob	gallery.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	gallery.me.com-houstonderob.warc.gz	0
-houstonderob	homepage.mac.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	homepage.mac.com-houstonderob.warc.gz	0
-houstonderob	public.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	public.me.com-houstonderob.warc.gz	0
-houstonderob	web.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	web.me.com-houstonderob.warc.gz	0
-nicksaemenes	gallery.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	gallery.me.com-nicksaemenes.warc.gz	0
-nicksaemenes	homepage.mac.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	homepage.mac.com-nicksaemenes.warc.gz	0
-nicksaemenes	public.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	public.me.com-nicksaemenes.warc.gz	0
-nicksaemenes	web.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	web.me.com-nicksaemenes.warc.gz	0
-richard.carter	gallery.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	gallery.me.com-richard.carter.warc.gz	0
-richard.carter	homepage.mac.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	homepage.mac.com-richard.carter.warc.gz	0
-richard.carter	public.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	public.me.com-richard.carter.warc.gz	0
-richard.carter	web.me.com		archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	web.me.com-richard.carter.warc.gz	0
+bszaronos1	gallery.me.com	2012-04-05 20:07:12	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	gallery.me.com-bszaronos1.warc.gz	8343
+bszaronos1	homepage.mac.com	2012-04-05 20:07:12	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	homepage.mac.com-bszaronos1.warc.gz	5173
+bszaronos1	public.me.com	2012-04-05 20:07:12	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	public.me.com-bszaronos1.warc.gz	1918
+bszaronos1	web.me.com	2012-04-05 20:07:12	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	web.me.com-bszaronos1.warc.gz	17724
+houstonderob	gallery.me.com	2012-04-05 20:51:53	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	gallery.me.com-houstonderob.warc.gz	251764500
+houstonderob	homepage.mac.com	2012-04-05 20:51:53	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	homepage.mac.com-houstonderob.warc.gz	4922
+houstonderob	public.me.com	2012-04-05 20:34:19	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	public.me.com-houstonderob.warc.gz	67978310
+houstonderob	web.me.com	2012-04-05 20:31:32	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	web.me.com-houstonderob.warc.gz	155317956
+nicksaemenes	gallery.me.com	2012-04-05 22:51:40	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	gallery.me.com-nicksaemenes.warc.gz	3806474364
+nicksaemenes	homepage.mac.com	2012-04-05 22:51:58	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	homepage.mac.com-nicksaemenes.warc.gz	516106
+nicksaemenes	public.me.com	2012-04-05 22:27:43	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	public.me.com-nicksaemenes.warc.gz	33190322
+nicksaemenes	web.me.com	2012-04-05 22:26:32	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	web.me.com-nicksaemenes.warc.gz	3679712432
+richard.carter	gallery.me.com	2012-04-05 20:07:05	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	gallery.me.com-richard.carter.warc.gz	574384865
+richard.carter	homepage.mac.com	2012-04-05 20:07:10	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	homepage.mac.com-richard.carter.warc.gz	101994
+richard.carter	public.me.com	2012-04-05 19:56:21	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	public.me.com-richard.carter.warc.gz	1930
+richard.carter	web.me.com	2012-04-05 19:56:19	archiveteam-mobileme-hero-441x	archiveteam-mobileme-hero-441x-4415.tar	web.me.com-richard.carter.warc.gz	580944676

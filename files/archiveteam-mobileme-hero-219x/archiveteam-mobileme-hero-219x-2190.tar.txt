@@ -1,20 +1,20 @@
-baliu	gallery.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	gallery.me.com-baliu.warc.gz	0
-baliu	homepage.mac.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	homepage.mac.com-baliu.warc.gz	0
-baliu	public.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	public.me.com-baliu.warc.gz	0
-baliu	web.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	web.me.com-baliu.warc.gz	0
-benjaminengle	gallery.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	gallery.me.com-benjaminengle.warc.gz	0
-benjaminengle	homepage.mac.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	homepage.mac.com-benjaminengle.warc.gz	0
-benjaminengle	public.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	public.me.com-benjaminengle.warc.gz	0
-benjaminengle	web.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	web.me.com-benjaminengle.warc.gz	0
-defenseengineer	gallery.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	gallery.me.com-defenseengineer.warc.gz	0
-defenseengineer	homepage.mac.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	homepage.mac.com-defenseengineer.warc.gz	0
-defenseengineer	public.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	public.me.com-defenseengineer.warc.gz	0
-defenseengineer	web.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	web.me.com-defenseengineer.warc.gz	0
-raphaelsinna	gallery.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	gallery.me.com-raphaelsinna.warc.gz	0
-raphaelsinna	homepage.mac.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	homepage.mac.com-raphaelsinna.warc.gz	0
-raphaelsinna	public.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	public.me.com-raphaelsinna.warc.gz	0
-raphaelsinna	web.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	web.me.com-raphaelsinna.warc.gz	0
-rickfilms	gallery.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	gallery.me.com-rickfilms.warc.gz	0
-rickfilms	homepage.mac.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	homepage.mac.com-rickfilms.warc.gz	0
-rickfilms	public.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	public.me.com-rickfilms.warc.gz	0
-rickfilms	web.me.com		archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	web.me.com-rickfilms.warc.gz	0
+baliu	gallery.me.com	2012-03-30 17:24:19	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	gallery.me.com-baliu.warc.gz	102190920
+baliu	homepage.mac.com	2012-03-30 17:24:23	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	homepage.mac.com-baliu.warc.gz	115258
+baliu	public.me.com	2012-03-30 17:19:46	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	public.me.com-baliu.warc.gz	1908
+baliu	web.me.com	2012-03-30 17:19:45	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	web.me.com-baliu.warc.gz	914346447
+benjaminengle	gallery.me.com	2012-03-30 17:28:46	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	gallery.me.com-benjaminengle.warc.gz	7584
+benjaminengle	homepage.mac.com	2012-03-30 17:28:46	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	homepage.mac.com-benjaminengle.warc.gz	4929
+benjaminengle	public.me.com	2012-03-30 17:28:45	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	public.me.com-benjaminengle.warc.gz	19495283
+benjaminengle	web.me.com	2012-03-30 17:28:18	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	web.me.com-benjaminengle.warc.gz	13318353
+defenseengineer	gallery.me.com	2012-03-30 16:37:37	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	gallery.me.com-defenseengineer.warc.gz	921492014
+defenseengineer	homepage.mac.com	2012-03-30 16:37:38	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	homepage.mac.com-defenseengineer.warc.gz	36981
+defenseengineer	public.me.com	2012-03-30 16:29:13	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	public.me.com-defenseengineer.warc.gz	17115985
+defenseengineer	web.me.com	2012-03-30 16:29:07	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	web.me.com-defenseengineer.warc.gz	47114420
+raphaelsinna	gallery.me.com	2012-03-30 16:42:24	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	gallery.me.com-raphaelsinna.warc.gz	1404606
+raphaelsinna	homepage.mac.com	2012-03-30 16:42:24	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	homepage.mac.com-raphaelsinna.warc.gz	4936
+raphaelsinna	public.me.com	2012-03-30 16:42:16	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	public.me.com-raphaelsinna.warc.gz	1928
+raphaelsinna	web.me.com	2012-03-30 16:42:15	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	web.me.com-raphaelsinna.warc.gz	7911951
+rickfilms	gallery.me.com	2012-03-30 18:06:20	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	gallery.me.com-rickfilms.warc.gz	2564045315
+rickfilms	homepage.mac.com	2012-03-30 18:06:28	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	homepage.mac.com-rickfilms.warc.gz	94105
+rickfilms	public.me.com	2012-03-30 17:44:29	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	public.me.com-rickfilms.warc.gz	508446549
+rickfilms	web.me.com	2012-03-30 17:33:14	archiveteam-mobileme-hero-219x	archiveteam-mobileme-hero-219x-2190.tar	web.me.com-rickfilms.warc.gz	279159857

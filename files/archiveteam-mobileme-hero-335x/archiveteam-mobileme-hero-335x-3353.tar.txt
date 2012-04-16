@@ -1,8 +1,8 @@
-lynnhunt	gallery.me.com		archiveteam-mobileme-hero-335x	archiveteam-mobileme-hero-335x-3353.tar	gallery.me.com-lynnhunt.warc.gz	0
-lynnhunt	homepage.mac.com		archiveteam-mobileme-hero-335x	archiveteam-mobileme-hero-335x-3353.tar	homepage.mac.com-lynnhunt.warc.gz	0
-lynnhunt	public.me.com		archiveteam-mobileme-hero-335x	archiveteam-mobileme-hero-335x-3353.tar	public.me.com-lynnhunt.warc.gz	0
-lynnhunt	web.me.com		archiveteam-mobileme-hero-335x	archiveteam-mobileme-hero-335x-3353.tar	web.me.com-lynnhunt.warc.gz	0
-michael.barron	gallery.me.com		archiveteam-mobileme-hero-335x	archiveteam-mobileme-hero-335x-3353.tar	gallery.me.com-michael.barron.warc.gz	0
-michael.barron	homepage.mac.com		archiveteam-mobileme-hero-335x	archiveteam-mobileme-hero-335x-3353.tar	homepage.mac.com-michael.barron.warc.gz	0
-michael.barron	public.me.com		archiveteam-mobileme-hero-335x	archiveteam-mobileme-hero-335x-3353.tar	public.me.com-michael.barron.warc.gz	0
-michael.barron	web.me.com		archiveteam-mobileme-hero-335x	archiveteam-mobileme-hero-335x-3353.tar	web.me.com-michael.barron.warc.gz	0
+lynnhunt	gallery.me.com	2012-04-03 07:24:31	archiveteam-mobileme-hero-335x	archiveteam-mobileme-hero-335x-3353.tar	gallery.me.com-lynnhunt.warc.gz	4976249
+lynnhunt	homepage.mac.com	2012-04-03 07:24:31	archiveteam-mobileme-hero-335x	archiveteam-mobileme-hero-335x-3353.tar	homepage.mac.com-lynnhunt.warc.gz	4919
+lynnhunt	public.me.com	2012-04-03 07:24:15	archiveteam-mobileme-hero-335x	archiveteam-mobileme-hero-335x-3353.tar	public.me.com-lynnhunt.warc.gz	1915
+lynnhunt	web.me.com	2012-04-03 07:24:14	archiveteam-mobileme-hero-335x	archiveteam-mobileme-hero-335x-3353.tar	web.me.com-lynnhunt.warc.gz	1718143
+michael.barron	gallery.me.com	2012-04-03 09:29:09	archiveteam-mobileme-hero-335x	archiveteam-mobileme-hero-335x-3353.tar	gallery.me.com-michael.barron.warc.gz	887738218
+michael.barron	homepage.mac.com	2012-04-03 09:29:09	archiveteam-mobileme-hero-335x	archiveteam-mobileme-hero-335x-3353.tar	homepage.mac.com-michael.barron.warc.gz	7866
+michael.barron	public.me.com	2012-04-03 08:53:42	archiveteam-mobileme-hero-335x	archiveteam-mobileme-hero-335x-3353.tar	public.me.com-michael.barron.warc.gz	1483484502
+michael.barron	web.me.com	2012-04-03 08:25:52	archiveteam-mobileme-hero-335x	archiveteam-mobileme-hero-335x-3353.tar	web.me.com-michael.barron.warc.gz	2251749086

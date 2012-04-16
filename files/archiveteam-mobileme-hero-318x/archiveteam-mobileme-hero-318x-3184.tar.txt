@@ -1,12 +1,12 @@
-chrisfriend	gallery.me.com		archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	gallery.me.com-chrisfriend.warc.gz	0
-chrisfriend	homepage.mac.com		archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	homepage.mac.com-chrisfriend.warc.gz	0
-chrisfriend	public.me.com		archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	public.me.com-chrisfriend.warc.gz	0
-chrisfriend	web.me.com		archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	web.me.com-chrisfriend.warc.gz	0
-palatucci	gallery.me.com		archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	gallery.me.com-palatucci.warc.gz	0
-palatucci	homepage.mac.com		archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	homepage.mac.com-palatucci.warc.gz	0
-palatucci	public.me.com		archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	public.me.com-palatucci.warc.gz	0
-palatucci	web.me.com		archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	web.me.com-palatucci.warc.gz	0
-sandra.frias	gallery.me.com		archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	gallery.me.com-sandra.frias.warc.gz	0
-sandra.frias	homepage.mac.com		archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	homepage.mac.com-sandra.frias.warc.gz	0
-sandra.frias	public.me.com		archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	public.me.com-sandra.frias.warc.gz	0
-sandra.frias	web.me.com		archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	web.me.com-sandra.frias.warc.gz	0
+chrisfriend	gallery.me.com	2012-04-02 21:58:47	archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	gallery.me.com-chrisfriend.warc.gz	1519903758
+chrisfriend	homepage.mac.com	2012-04-02 21:58:51	archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	homepage.mac.com-chrisfriend.warc.gz	4311
+chrisfriend	public.me.com	2012-04-02 21:30:38	archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	public.me.com-chrisfriend.warc.gz	11376204
+chrisfriend	web.me.com	2012-04-02 21:30:20	archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	web.me.com-chrisfriend.warc.gz	542134026
+palatucci	gallery.me.com	2012-04-03 01:13:13	archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	gallery.me.com-palatucci.warc.gz	1869626856
+palatucci	homepage.mac.com	2012-04-03 01:13:13	archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	homepage.mac.com-palatucci.warc.gz	4916
+palatucci	public.me.com	2012-04-03 00:04:52	archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	public.me.com-palatucci.warc.gz	1482102272
+palatucci	web.me.com	2012-04-02 23:24:59	archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	web.me.com-palatucci.warc.gz	538528298
+sandra.frias	gallery.me.com	2012-04-02 22:00:05	archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	gallery.me.com-sandra.frias.warc.gz	4257
+sandra.frias	homepage.mac.com	2012-04-02 22:00:06	archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	homepage.mac.com-sandra.frias.warc.gz	4904
+sandra.frias	public.me.com	2012-04-02 22:00:05	archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	public.me.com-sandra.frias.warc.gz	1925
+sandra.frias	web.me.com	2012-04-02 22:00:05	archiveteam-mobileme-hero-318x	archiveteam-mobileme-hero-318x-3184.tar	web.me.com-sandra.frias.warc.gz	6426926

@@ -1,12 +1,12 @@
-afro0485	gallery.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	gallery.me.com-afro0485.warc.gz	0
-afro0485	homepage.mac.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	homepage.mac.com-afro0485.warc.gz	0
-afro0485	public.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	public.me.com-afro0485.warc.gz	0
-afro0485	web.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	web.me.com-afro0485.warc.gz	0
-gundam	gallery.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	gallery.me.com-gundam.warc.gz	0
-gundam	homepage.mac.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	homepage.mac.com-gundam.warc.gz	0
-gundam	public.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	public.me.com-gundam.warc.gz	0
-gundam	web.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	web.me.com-gundam.warc.gz	0
-remiller3	gallery.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	gallery.me.com-remiller3.warc.gz	0
-remiller3	homepage.mac.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	homepage.mac.com-remiller3.warc.gz	0
-remiller3	public.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	public.me.com-remiller3.warc.gz	0
-remiller3	web.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	web.me.com-remiller3.warc.gz	0
+afro0485	gallery.me.com	2012-04-03 04:17:27	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	gallery.me.com-afro0485.warc.gz	2850441793
+afro0485	homepage.mac.com	2012-04-03 04:17:31	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	homepage.mac.com-afro0485.warc.gz	91473
+afro0485	public.me.com	2012-04-03 03:55:44	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	public.me.com-afro0485.warc.gz	71635711
+afro0485	web.me.com	2012-04-03 03:53:38	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	web.me.com-afro0485.warc.gz	2873983
+gundam	gallery.me.com	2012-04-03 03:52:32	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	gallery.me.com-gundam.warc.gz	8345
+gundam	homepage.mac.com	2012-04-03 03:52:32	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	homepage.mac.com-gundam.warc.gz	5161
+gundam	public.me.com	2012-04-03 03:52:31	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	public.me.com-gundam.warc.gz	1911
+gundam	web.me.com	2012-04-03 03:52:31	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	web.me.com-gundam.warc.gz	17627
+remiller3	gallery.me.com	2012-04-03 03:52:26	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	gallery.me.com-remiller3.warc.gz	3530393625
+remiller3	homepage.mac.com	2012-04-03 03:52:29	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	homepage.mac.com-remiller3.warc.gz	36886
+remiller3	public.me.com	2012-04-03 02:23:05	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	public.me.com-remiller3.warc.gz	87110294
+remiller3	web.me.com	2012-04-03 02:21:05	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3244.tar	web.me.com-remiller3.warc.gz	110103031

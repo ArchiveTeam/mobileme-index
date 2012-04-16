@@ -1,20 +1,20 @@
-brad.titus	gallery.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	gallery.me.com-brad.titus.warc.gz	0
-brad.titus	homepage.mac.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	homepage.mac.com-brad.titus.warc.gz	0
-brad.titus	public.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	public.me.com-brad.titus.warc.gz	0
-brad.titus	web.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	web.me.com-brad.titus.warc.gz	0
-dfliesen	gallery.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	gallery.me.com-dfliesen.warc.gz	0
-dfliesen	homepage.mac.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	homepage.mac.com-dfliesen.warc.gz	0
-dfliesen	public.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	public.me.com-dfliesen.warc.gz	0
-dfliesen	web.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	web.me.com-dfliesen.warc.gz	0
-dmthart	gallery.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	gallery.me.com-dmthart.warc.gz	0
-dmthart	homepage.mac.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	homepage.mac.com-dmthart.warc.gz	0
-dmthart	public.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	public.me.com-dmthart.warc.gz	0
-dmthart	web.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	web.me.com-dmthart.warc.gz	0
-raisinsband	gallery.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	gallery.me.com-raisinsband.warc.gz	0
-raisinsband	homepage.mac.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	homepage.mac.com-raisinsband.warc.gz	0
-raisinsband	public.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	public.me.com-raisinsband.warc.gz	0
-raisinsband	web.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	web.me.com-raisinsband.warc.gz	0
-superior_olive	gallery.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	gallery.me.com-superior_olive.warc.gz	0
-superior_olive	homepage.mac.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	homepage.mac.com-superior_olive.warc.gz	0
-superior_olive	public.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	public.me.com-superior_olive.warc.gz	0
-superior_olive	web.me.com		archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	web.me.com-superior_olive.warc.gz	0
+brad.titus	gallery.me.com	2012-03-30 09:52:11	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	gallery.me.com-brad.titus.warc.gz	12334
+brad.titus	homepage.mac.com	2012-03-30 09:52:11	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	homepage.mac.com-brad.titus.warc.gz	7153
+brad.titus	public.me.com	2012-03-30 09:52:10	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	public.me.com-brad.titus.warc.gz	1921
+brad.titus	web.me.com	2012-03-30 09:52:10	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	web.me.com-brad.titus.warc.gz	22440
+dfliesen	gallery.me.com	2012-03-30 11:47:01	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	gallery.me.com-dfliesen.warc.gz	2131756406
+dfliesen	homepage.mac.com	2012-03-30 11:47:01	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	homepage.mac.com-dfliesen.warc.gz	4910
+dfliesen	public.me.com	2012-03-30 11:23:57	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	public.me.com-dfliesen.warc.gz	421493834
+dfliesen	web.me.com	2012-03-30 11:14:11	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	web.me.com-dfliesen.warc.gz	1984907772
+dmthart	gallery.me.com	2012-03-30 09:52:08	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	gallery.me.com-dmthart.warc.gz	640619833
+dmthart	homepage.mac.com	2012-03-30 09:52:08	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	homepage.mac.com-dmthart.warc.gz	4904
+dmthart	public.me.com	2012-03-30 09:43:54	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	public.me.com-dmthart.warc.gz	1914
+dmthart	web.me.com	2012-03-30 09:43:54	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	web.me.com-dmthart.warc.gz	8661670
+raisinsband	gallery.me.com	2012-03-30 09:52:20	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	gallery.me.com-raisinsband.warc.gz	832659
+raisinsband	homepage.mac.com	2012-03-30 09:52:20	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	homepage.mac.com-raisinsband.warc.gz	4927
+raisinsband	public.me.com	2012-03-30 09:52:17	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	public.me.com-raisinsband.warc.gz	1924
+raisinsband	web.me.com	2012-03-30 09:52:16	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	web.me.com-raisinsband.warc.gz	61665
+superior_olive	gallery.me.com	2012-03-30 09:54:22	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	gallery.me.com-superior_olive.warc.gz	4271
+superior_olive	homepage.mac.com	2012-03-30 09:54:23	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	homepage.mac.com-superior_olive.warc.gz	4955
+superior_olive	public.me.com	2012-03-30 09:54:22	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	public.me.com-superior_olive.warc.gz	1926
+superior_olive	web.me.com	2012-03-30 09:54:21	archiveteam-mobileme-hero-212x	archiveteam-mobileme-hero-212x-2129.tar	web.me.com-superior_olive.warc.gz	7355323

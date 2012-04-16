@@ -1,16 +1,16 @@
-kevinmanion	gallery.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	gallery.me.com-kevinmanion.warc.gz	0
-kevinmanion	homepage.mac.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	homepage.mac.com-kevinmanion.warc.gz	0
-kevinmanion	public.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	public.me.com-kevinmanion.warc.gz	0
-kevinmanion	web.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	web.me.com-kevinmanion.warc.gz	0
-minnezona	gallery.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	gallery.me.com-minnezona.warc.gz	0
-minnezona	homepage.mac.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	homepage.mac.com-minnezona.warc.gz	0
-minnezona	public.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	public.me.com-minnezona.warc.gz	0
-minnezona	web.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	web.me.com-minnezona.warc.gz	0
-robinson.avery	gallery.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	gallery.me.com-robinson.avery.warc.gz	0
-robinson.avery	homepage.mac.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	homepage.mac.com-robinson.avery.warc.gz	0
-robinson.avery	public.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	public.me.com-robinson.avery.warc.gz	0
-robinson.avery	web.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	web.me.com-robinson.avery.warc.gz	0
-ssukotto	gallery.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	gallery.me.com-ssukotto.warc.gz	0
-ssukotto	homepage.mac.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	homepage.mac.com-ssukotto.warc.gz	0
-ssukotto	public.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	public.me.com-ssukotto.warc.gz	0
-ssukotto	web.me.com		archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	web.me.com-ssukotto.warc.gz	0
+kevinmanion	gallery.me.com	2012-04-07 03:26:31	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	gallery.me.com-kevinmanion.warc.gz	1880174
+kevinmanion	homepage.mac.com	2012-04-07 03:26:31	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	homepage.mac.com-kevinmanion.warc.gz	4922
+kevinmanion	public.me.com	2012-04-07 03:26:27	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	public.me.com-kevinmanion.warc.gz	1925
+kevinmanion	web.me.com	2012-04-07 03:26:27	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	web.me.com-kevinmanion.warc.gz	205957969
+minnezona	gallery.me.com	2012-04-07 05:01:53	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	gallery.me.com-minnezona.warc.gz	4464876535
+minnezona	homepage.mac.com	2012-04-07 05:01:54	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	homepage.mac.com-minnezona.warc.gz	4917
+minnezona	public.me.com	2012-04-07 03:44:13	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	public.me.com-minnezona.warc.gz	1200633
+minnezona	web.me.com	2012-04-07 03:44:06	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	web.me.com-minnezona.warc.gz	307379328
+robinson.avery	gallery.me.com	2012-04-07 03:18:13	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	gallery.me.com-robinson.avery.warc.gz	12351
+robinson.avery	homepage.mac.com	2012-04-07 03:18:13	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	homepage.mac.com-robinson.avery.warc.gz	7171
+robinson.avery	public.me.com	2012-04-07 03:18:12	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	public.me.com-robinson.avery.warc.gz	1929
+robinson.avery	web.me.com	2012-04-07 03:18:12	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	web.me.com-robinson.avery.warc.gz	22511
+ssukotto	gallery.me.com	2012-04-07 03:21:05	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	gallery.me.com-ssukotto.warc.gz	23636667
+ssukotto	homepage.mac.com	2012-04-07 03:21:06	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	homepage.mac.com-ssukotto.warc.gz	4911
+ssukotto	public.me.com	2012-04-07 03:20:54	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	public.me.com-ssukotto.warc.gz	1913
+ssukotto	web.me.com	2012-04-07 03:20:53	archiveteam-mobileme-hero-485x	archiveteam-mobileme-hero-485x-4854.tar	web.me.com-ssukotto.warc.gz	126616810

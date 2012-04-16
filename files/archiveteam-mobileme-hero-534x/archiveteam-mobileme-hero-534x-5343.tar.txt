@@ -1,8 +1,8 @@
-itanewf	gallery.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5343.tar	gallery.me.com-itanewf.warc.gz	0
-itanewf	homepage.mac.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5343.tar	homepage.mac.com-itanewf.warc.gz	0
-itanewf	public.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5343.tar	public.me.com-itanewf.warc.gz	0
-itanewf	web.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5343.tar	web.me.com-itanewf.warc.gz	0
-johnbean	gallery.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5343.tar	gallery.me.com-johnbean.warc.gz	0
-johnbean	homepage.mac.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5343.tar	homepage.mac.com-johnbean.warc.gz	0
-johnbean	public.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5343.tar	public.me.com-johnbean.warc.gz	0
-johnbean	web.me.com		archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5343.tar	web.me.com-johnbean.warc.gz	0
+itanewf	gallery.me.com	2012-04-09 05:28:08	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5343.tar	gallery.me.com-itanewf.warc.gz	8701276
+itanewf	homepage.mac.com	2012-04-09 05:28:11	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5343.tar	homepage.mac.com-itanewf.warc.gz	58774
+itanewf	public.me.com	2012-04-09 05:27:35	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5343.tar	public.me.com-itanewf.warc.gz	1915
+itanewf	web.me.com	2012-04-09 05:27:23	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5343.tar	web.me.com-itanewf.warc.gz	4167367818
+johnbean	gallery.me.com	2012-04-09 05:50:47	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5343.tar	gallery.me.com-johnbean.warc.gz	304309012
+johnbean	homepage.mac.com	2012-04-09 05:50:50	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5343.tar	homepage.mac.com-johnbean.warc.gz	97781
+johnbean	public.me.com	2012-04-09 05:40:24	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5343.tar	public.me.com-johnbean.warc.gz	1925
+johnbean	web.me.com	2012-04-09 05:40:23	archiveteam-mobileme-hero-534x	archiveteam-mobileme-hero-534x-5343.tar	web.me.com-johnbean.warc.gz	214640495

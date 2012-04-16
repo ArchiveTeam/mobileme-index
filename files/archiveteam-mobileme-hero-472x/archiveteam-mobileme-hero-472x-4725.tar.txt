@@ -1,16 +1,16 @@
-annfalkenstein	gallery.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	gallery.me.com-annfalkenstein.warc.gz	0
-annfalkenstein	homepage.mac.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	homepage.mac.com-annfalkenstein.warc.gz	0
-annfalkenstein	public.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	public.me.com-annfalkenstein.warc.gz	0
-annfalkenstein	web.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	web.me.com-annfalkenstein.warc.gz	0
-heta.hyttinen	gallery.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	gallery.me.com-heta.hyttinen.warc.gz	0
-heta.hyttinen	homepage.mac.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	homepage.mac.com-heta.hyttinen.warc.gz	0
-heta.hyttinen	public.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	public.me.com-heta.hyttinen.warc.gz	0
-heta.hyttinen	web.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	web.me.com-heta.hyttinen.warc.gz	0
-marc.b	gallery.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	gallery.me.com-marc.b.warc.gz	0
-marc.b	homepage.mac.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	homepage.mac.com-marc.b.warc.gz	0
-marc.b	public.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	public.me.com-marc.b.warc.gz	0
-marc.b	web.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	web.me.com-marc.b.warc.gz	0
-rvlahakis	gallery.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	gallery.me.com-rvlahakis.warc.gz	0
-rvlahakis	homepage.mac.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	homepage.mac.com-rvlahakis.warc.gz	0
-rvlahakis	public.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	public.me.com-rvlahakis.warc.gz	0
-rvlahakis	web.me.com		archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	web.me.com-rvlahakis.warc.gz	0
+annfalkenstein	gallery.me.com	2012-04-06 12:25:24	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	gallery.me.com-annfalkenstein.warc.gz	119609181
+annfalkenstein	homepage.mac.com	2012-04-06 12:25:25	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	homepage.mac.com-annfalkenstein.warc.gz	4940
+annfalkenstein	public.me.com	2012-04-06 12:24:28	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	public.me.com-annfalkenstein.warc.gz	1932
+annfalkenstein	web.me.com	2012-04-06 12:24:28	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	web.me.com-annfalkenstein.warc.gz	126251489
+heta.hyttinen	gallery.me.com	2012-04-06 12:46:55	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	gallery.me.com-heta.hyttinen.warc.gz	4309
+heta.hyttinen	homepage.mac.com	2012-04-06 12:46:56	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	homepage.mac.com-heta.hyttinen.warc.gz	4930
+heta.hyttinen	public.me.com	2012-04-06 12:46:54	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	public.me.com-heta.hyttinen.warc.gz	2382407841
+heta.hyttinen	web.me.com	2012-04-06 12:29:32	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	web.me.com-heta.hyttinen.warc.gz	161848589
+marc.b	gallery.me.com	2012-04-06 13:22:07	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	gallery.me.com-marc.b.warc.gz	882494010
+marc.b	homepage.mac.com	2012-04-06 13:22:08	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	homepage.mac.com-marc.b.warc.gz	4880
+marc.b	public.me.com	2012-04-06 13:03:19	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	public.me.com-marc.b.warc.gz	1911
+marc.b	web.me.com	2012-04-06 13:03:17	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	web.me.com-marc.b.warc.gz	136844706
+rvlahakis	gallery.me.com	2012-04-06 15:33:58	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	gallery.me.com-rvlahakis.warc.gz	7442059428
+rvlahakis	homepage.mac.com	2012-04-06 15:34:05	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	homepage.mac.com-rvlahakis.warc.gz	130770
+rvlahakis	public.me.com	2012-04-06 14:36:47	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	public.me.com-rvlahakis.warc.gz	102319357
+rvlahakis	web.me.com	2012-04-06 14:34:55	archiveteam-mobileme-hero-472x	archiveteam-mobileme-hero-472x-4725.tar	web.me.com-rvlahakis.warc.gz	1943006557

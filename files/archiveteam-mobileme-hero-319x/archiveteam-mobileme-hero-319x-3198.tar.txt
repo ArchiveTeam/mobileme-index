@@ -1,12 +1,12 @@
-clarkedon71	gallery.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	gallery.me.com-clarkedon71.warc.gz	0
-clarkedon71	homepage.mac.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	homepage.mac.com-clarkedon71.warc.gz	0
-clarkedon71	public.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	public.me.com-clarkedon71.warc.gz	0
-clarkedon71	web.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	web.me.com-clarkedon71.warc.gz	0
-hjenkins2	gallery.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	gallery.me.com-hjenkins2.warc.gz	0
-hjenkins2	homepage.mac.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	homepage.mac.com-hjenkins2.warc.gz	0
-hjenkins2	public.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	public.me.com-hjenkins2.warc.gz	0
-hjenkins2	web.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	web.me.com-hjenkins2.warc.gz	0
-tinabaughman	gallery.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	gallery.me.com-tinabaughman.warc.gz	0
-tinabaughman	homepage.mac.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	homepage.mac.com-tinabaughman.warc.gz	0
-tinabaughman	public.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	public.me.com-tinabaughman.warc.gz	0
-tinabaughman	web.me.com		archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	web.me.com-tinabaughman.warc.gz	0
+clarkedon71	gallery.me.com	2012-04-03 02:04:43	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	gallery.me.com-clarkedon71.warc.gz	4285
+clarkedon71	homepage.mac.com	2012-04-03 02:04:44	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	homepage.mac.com-clarkedon71.warc.gz	4916
+clarkedon71	public.me.com	2012-04-03 02:04:43	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	public.me.com-clarkedon71.warc.gz	2919756702
+clarkedon71	web.me.com	2012-04-03 01:47:03	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	web.me.com-clarkedon71.warc.gz	1903564
+hjenkins2	gallery.me.com	2012-04-03 01:02:14	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	gallery.me.com-hjenkins2.warc.gz	84132747
+hjenkins2	homepage.mac.com	2012-04-03 01:02:30	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	homepage.mac.com-hjenkins2.warc.gz	254223
+hjenkins2	public.me.com	2012-04-03 00:58:57	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	public.me.com-hjenkins2.warc.gz	451398
+hjenkins2	web.me.com	2012-04-03 00:58:46	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	web.me.com-hjenkins2.warc.gz	3549636
+tinabaughman	gallery.me.com	2012-04-03 01:46:36	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	gallery.me.com-tinabaughman.warc.gz	1832933304
+tinabaughman	homepage.mac.com	2012-04-03 01:46:38	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	homepage.mac.com-tinabaughman.warc.gz	4919
+tinabaughman	public.me.com	2012-04-03 01:18:42	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	public.me.com-tinabaughman.warc.gz	60076640
+tinabaughman	web.me.com	2012-04-03 01:15:33	archiveteam-mobileme-hero-319x	archiveteam-mobileme-hero-319x-3198.tar	web.me.com-tinabaughman.warc.gz	344695472

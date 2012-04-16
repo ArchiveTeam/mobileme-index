@@ -1,12 +1,12 @@
-fp1100	gallery.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	gallery.me.com-fp1100.warc.gz	0
-fp1100	homepage.mac.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	homepage.mac.com-fp1100.warc.gz	0
-fp1100	public.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	public.me.com-fp1100.warc.gz	0
-fp1100	web.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	web.me.com-fp1100.warc.gz	0
-rbfernando	gallery.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	gallery.me.com-rbfernando.warc.gz	0
-rbfernando	homepage.mac.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	homepage.mac.com-rbfernando.warc.gz	0
-rbfernando	public.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	public.me.com-rbfernando.warc.gz	0
-rbfernando	web.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	web.me.com-rbfernando.warc.gz	0
-toddbudge	gallery.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	gallery.me.com-toddbudge.warc.gz	0
-toddbudge	homepage.mac.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	homepage.mac.com-toddbudge.warc.gz	0
-toddbudge	public.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	public.me.com-toddbudge.warc.gz	0
-toddbudge	web.me.com		archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	web.me.com-toddbudge.warc.gz	0
+fp1100	gallery.me.com	2012-04-02 18:05:19	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	gallery.me.com-fp1100.warc.gz	8336
+fp1100	homepage.mac.com	2012-04-02 18:05:20	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	homepage.mac.com-fp1100.warc.gz	5155
+fp1100	public.me.com	2012-04-02 18:05:19	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	public.me.com-fp1100.warc.gz	1914
+fp1100	web.me.com	2012-04-02 18:05:19	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	web.me.com-fp1100.warc.gz	17708
+rbfernando	gallery.me.com	2012-04-02 19:10:44	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	gallery.me.com-rbfernando.warc.gz	7263
+rbfernando	homepage.mac.com	2012-04-02 19:10:45	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	homepage.mac.com-rbfernando.warc.gz	4912
+rbfernando	public.me.com	2012-04-02 19:10:39	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	public.me.com-rbfernando.warc.gz	1923
+rbfernando	web.me.com	2012-04-02 19:10:32	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	web.me.com-rbfernando.warc.gz	375837255
+toddbudge	gallery.me.com	2012-04-02 20:49:27	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	gallery.me.com-toddbudge.warc.gz	6365782502
+toddbudge	homepage.mac.com	2012-04-02 20:49:29	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	homepage.mac.com-toddbudge.warc.gz	4926
+toddbudge	public.me.com	2012-04-02 19:25:44	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	public.me.com-toddbudge.warc.gz	229890494
+toddbudge	web.me.com	2012-04-02 19:22:18	archiveteam-mobileme-hero-310x	archiveteam-mobileme-hero-310x-3104.tar	web.me.com-toddbudge.warc.gz	44111956

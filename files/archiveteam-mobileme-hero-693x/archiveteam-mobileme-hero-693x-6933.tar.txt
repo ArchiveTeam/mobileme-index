@@ -1,16 +1,16 @@
-gmacer	gallery.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	gallery.me.com-gmacer.warc.gz	0
-gmacer	homepage.mac.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	homepage.mac.com-gmacer.warc.gz	0
-gmacer	public.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	public.me.com-gmacer.warc.gz	0
-gmacer	web.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	web.me.com-gmacer.warc.gz	0
-okayama_jinken	gallery.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	gallery.me.com-okayama_jinken.warc.gz	0
-okayama_jinken	homepage.mac.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	homepage.mac.com-okayama_jinken.warc.gz	0
-okayama_jinken	public.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	public.me.com-okayama_jinken.warc.gz	0
-okayama_jinken	web.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	web.me.com-okayama_jinken.warc.gz	0
-pwojtkowiak	gallery.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	gallery.me.com-pwojtkowiak.warc.gz	0
-pwojtkowiak	homepage.mac.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	homepage.mac.com-pwojtkowiak.warc.gz	0
-pwojtkowiak	public.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	public.me.com-pwojtkowiak.warc.gz	0
-pwojtkowiak	web.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	web.me.com-pwojtkowiak.warc.gz	0
-sgmoran	gallery.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	gallery.me.com-sgmoran.warc.gz	0
-sgmoran	homepage.mac.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	homepage.mac.com-sgmoran.warc.gz	0
-sgmoran	public.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	public.me.com-sgmoran.warc.gz	0
-sgmoran	web.me.com		archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	web.me.com-sgmoran.warc.gz	0
+gmacer	gallery.me.com	2012-04-12 14:59:07	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	gallery.me.com-gmacer.warc.gz	102670878
+gmacer	homepage.mac.com	2012-04-12 14:59:07	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	homepage.mac.com-gmacer.warc.gz	4896
+gmacer	public.me.com	2012-04-12 14:53:17	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	public.me.com-gmacer.warc.gz	1909
+gmacer	web.me.com	2012-04-12 14:53:16	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	web.me.com-gmacer.warc.gz	46656947
+okayama_jinken	gallery.me.com	2012-04-12 15:08:59	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	gallery.me.com-okayama_jinken.warc.gz	5122
+okayama_jinken	homepage.mac.com	2012-04-12 15:08:59	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	homepage.mac.com-okayama_jinken.warc.gz	4934
+okayama_jinken	public.me.com	2012-04-12 15:08:57	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	public.me.com-okayama_jinken.warc.gz	1936
+okayama_jinken	web.me.com	2012-04-12 15:08:54	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	web.me.com-okayama_jinken.warc.gz	50773250
+pwojtkowiak	gallery.me.com	2012-04-12 14:34:58	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	gallery.me.com-pwojtkowiak.warc.gz	134843472
+pwojtkowiak	homepage.mac.com	2012-04-12 14:34:58	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	homepage.mac.com-pwojtkowiak.warc.gz	4915
+pwojtkowiak	public.me.com	2012-04-12 14:30:44	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	public.me.com-pwojtkowiak.warc.gz	1927
+pwojtkowiak	web.me.com	2012-04-12 14:30:44	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	web.me.com-pwojtkowiak.warc.gz	573716796
+sgmoran	gallery.me.com	2012-04-12 19:12:42	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	gallery.me.com-sgmoran.warc.gz	4580864487
+sgmoran	homepage.mac.com	2012-04-12 19:12:43	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	homepage.mac.com-sgmoran.warc.gz	4903
+sgmoran	public.me.com	2012-04-12 16:25:21	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	public.me.com-sgmoran.warc.gz	918829135
+sgmoran	web.me.com	2012-04-12 16:04:15	archiveteam-mobileme-hero-693x	archiveteam-mobileme-hero-693x-6933.tar	web.me.com-sgmoran.warc.gz	439145069

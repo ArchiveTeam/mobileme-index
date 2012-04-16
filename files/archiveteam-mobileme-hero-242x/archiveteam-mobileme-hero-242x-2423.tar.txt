@@ -1,12 +1,12 @@
-cosongo	gallery.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	gallery.me.com-cosongo.warc.gz	0
-cosongo	homepage.mac.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	homepage.mac.com-cosongo.warc.gz	0
-cosongo	public.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	public.me.com-cosongo.warc.gz	0
-cosongo	web.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	web.me.com-cosongo.warc.gz	0
-themacintoshman	gallery.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	gallery.me.com-themacintoshman.warc.gz	0
-themacintoshman	homepage.mac.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	homepage.mac.com-themacintoshman.warc.gz	0
-themacintoshman	public.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	public.me.com-themacintoshman.warc.gz	0
-themacintoshman	web.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	web.me.com-themacintoshman.warc.gz	0
-uomodoki	gallery.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	gallery.me.com-uomodoki.warc.gz	0
-uomodoki	homepage.mac.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	homepage.mac.com-uomodoki.warc.gz	0
-uomodoki	public.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	public.me.com-uomodoki.warc.gz	0
-uomodoki	web.me.com		archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	web.me.com-uomodoki.warc.gz	0
+cosongo	gallery.me.com	2012-03-31 14:32:50	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	gallery.me.com-cosongo.warc.gz	6612013878
+cosongo	homepage.mac.com	2012-03-31 14:33:06	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	homepage.mac.com-cosongo.warc.gz	5232448
+cosongo	public.me.com	2012-03-31 11:11:55	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	public.me.com-cosongo.warc.gz	1910
+cosongo	web.me.com	2012-03-31 11:11:48	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	web.me.com-cosongo.warc.gz	1064693577
+themacintoshman	gallery.me.com	2012-03-31 09:32:25	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	gallery.me.com-themacintoshman.warc.gz	4317
+themacintoshman	homepage.mac.com	2012-03-31 09:32:25	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	homepage.mac.com-themacintoshman.warc.gz	6058
+themacintoshman	public.me.com	2012-03-31 09:32:24	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	public.me.com-themacintoshman.warc.gz	3360
+themacintoshman	web.me.com	2012-03-31 09:32:22	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	web.me.com-themacintoshman.warc.gz	6966538
+uomodoki	gallery.me.com	2012-03-31 09:29:12	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	gallery.me.com-uomodoki.warc.gz	8338
+uomodoki	homepage.mac.com	2012-03-31 09:29:13	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	homepage.mac.com-uomodoki.warc.gz	5162
+uomodoki	public.me.com	2012-03-31 09:29:11	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	public.me.com-uomodoki.warc.gz	1918
+uomodoki	web.me.com	2012-03-31 09:29:11	archiveteam-mobileme-hero-242x	archiveteam-mobileme-hero-242x-2423.tar	web.me.com-uomodoki.warc.gz	17708

@@ -1,16 +1,16 @@
-davidwood25	gallery.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	gallery.me.com-davidwood25.warc.gz	0
-davidwood25	homepage.mac.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	homepage.mac.com-davidwood25.warc.gz	0
-davidwood25	public.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	public.me.com-davidwood25.warc.gz	0
-davidwood25	web.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	web.me.com-davidwood25.warc.gz	0
-eld_jocke	gallery.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	gallery.me.com-eld_jocke.warc.gz	0
-eld_jocke	homepage.mac.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	homepage.mac.com-eld_jocke.warc.gz	0
-eld_jocke	public.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	public.me.com-eld_jocke.warc.gz	0
-eld_jocke	web.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	web.me.com-eld_jocke.warc.gz	0
-errosfitz	gallery.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	gallery.me.com-errosfitz.warc.gz	0
-errosfitz	homepage.mac.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	homepage.mac.com-errosfitz.warc.gz	0
-errosfitz	public.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	public.me.com-errosfitz.warc.gz	0
-errosfitz	web.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	web.me.com-errosfitz.warc.gz	0
-hhpoole	gallery.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	gallery.me.com-hhpoole.warc.gz	0
-hhpoole	homepage.mac.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	homepage.mac.com-hhpoole.warc.gz	0
-hhpoole	public.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	public.me.com-hhpoole.warc.gz	0
-hhpoole	web.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	web.me.com-hhpoole.warc.gz	0
+davidwood25	gallery.me.com	2012-04-02 21:19:21	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	gallery.me.com-davidwood25.warc.gz	5000
+davidwood25	homepage.mac.com	2012-04-02 21:19:21	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	homepage.mac.com-davidwood25.warc.gz	4933
+davidwood25	public.me.com	2012-04-02 21:19:19	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	public.me.com-davidwood25.warc.gz	2192918219
+davidwood25	web.me.com	2012-04-02 20:34:10	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	web.me.com-davidwood25.warc.gz	49644944
+eld_jocke	gallery.me.com	2012-04-02 21:19:29	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	gallery.me.com-eld_jocke.warc.gz	12336
+eld_jocke	homepage.mac.com	2012-04-02 21:19:29	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	homepage.mac.com-eld_jocke.warc.gz	7160
+eld_jocke	public.me.com	2012-04-02 21:19:28	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	public.me.com-eld_jocke.warc.gz	1920
+eld_jocke	web.me.com	2012-04-02 21:19:28	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	web.me.com-eld_jocke.warc.gz	22497
+errosfitz	gallery.me.com	2012-04-02 23:17:43	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	gallery.me.com-errosfitz.warc.gz	4451809179
+errosfitz	homepage.mac.com	2012-04-02 23:17:45	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	homepage.mac.com-errosfitz.warc.gz	596158
+errosfitz	public.me.com	2012-04-02 21:44:46	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	public.me.com-errosfitz.warc.gz	1921
+errosfitz	web.me.com	2012-04-02 21:44:37	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	web.me.com-errosfitz.warc.gz	73072130
+hhpoole	gallery.me.com	2012-04-02 21:19:32	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	gallery.me.com-hhpoole.warc.gz	12324
+hhpoole	homepage.mac.com	2012-04-02 21:19:32	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	homepage.mac.com-hhpoole.warc.gz	7136
+hhpoole	public.me.com	2012-04-02 21:19:31	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	public.me.com-hhpoole.warc.gz	1915
+hhpoole	web.me.com	2012-04-02 21:19:31	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3148.tar	web.me.com-hhpoole.warc.gz	22467

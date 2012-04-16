@@ -1,12 +1,12 @@
-chosho	gallery.me.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	gallery.me.com-chosho.warc.gz	0
-chosho	homepage.mac.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	homepage.mac.com-chosho.warc.gz	0
-chosho	public.me.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	public.me.com-chosho.warc.gz	0
-chosho	web.me.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	web.me.com-chosho.warc.gz	0
-echidnapi	gallery.me.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	gallery.me.com-echidnapi.warc.gz	0
-echidnapi	homepage.mac.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	homepage.mac.com-echidnapi.warc.gz	0
-echidnapi	public.me.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	public.me.com-echidnapi.warc.gz	0
-echidnapi	web.me.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	web.me.com-echidnapi.warc.gz	0
-mikadonef	gallery.me.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	gallery.me.com-mikadonef.warc.gz	0
-mikadonef	homepage.mac.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	homepage.mac.com-mikadonef.warc.gz	0
-mikadonef	public.me.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	public.me.com-mikadonef.warc.gz	0
-mikadonef	web.me.com		archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	web.me.com-mikadonef.warc.gz	0
+chosho	gallery.me.com	2012-04-12 18:18:43	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	gallery.me.com-chosho.warc.gz	6192374900
+chosho	homepage.mac.com	2012-04-12 18:18:43	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	homepage.mac.com-chosho.warc.gz	4906
+chosho	public.me.com	2012-04-12 16:07:50	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	public.me.com-chosho.warc.gz	1911
+chosho	web.me.com	2012-04-12 16:07:50	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	web.me.com-chosho.warc.gz	59698326
+echidnapi	gallery.me.com	2012-04-12 15:49:36	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	gallery.me.com-echidnapi.warc.gz	407681424
+echidnapi	homepage.mac.com	2012-04-12 15:49:36	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	homepage.mac.com-echidnapi.warc.gz	4903
+echidnapi	public.me.com	2012-04-12 15:45:04	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	public.me.com-echidnapi.warc.gz	15106
+echidnapi	web.me.com	2012-04-12 15:45:04	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	web.me.com-echidnapi.warc.gz	350495
+mikadonef	gallery.me.com	2012-04-12 15:44:44	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	gallery.me.com-mikadonef.warc.gz	29878348
+mikadonef	homepage.mac.com	2012-04-12 15:44:49	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	homepage.mac.com-mikadonef.warc.gz	4910
+mikadonef	public.me.com	2012-04-12 15:43:50	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	public.me.com-mikadonef.warc.gz	1921
+mikadonef	web.me.com	2012-04-12 15:43:49	archiveteam-mobileme-hero-690x	archiveteam-mobileme-hero-690x-6904.tar	web.me.com-mikadonef.warc.gz	4570006

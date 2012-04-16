@@ -1,20 +1,20 @@
-a.i.lamond	gallery.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	gallery.me.com-a.i.lamond.warc.gz	0
-a.i.lamond	homepage.mac.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	homepage.mac.com-a.i.lamond.warc.gz	0
-a.i.lamond	public.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	public.me.com-a.i.lamond.warc.gz	0
-a.i.lamond	web.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	web.me.com-a.i.lamond.warc.gz	0
-amyleigh2	gallery.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	gallery.me.com-amyleigh2.warc.gz	0
-amyleigh2	homepage.mac.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	homepage.mac.com-amyleigh2.warc.gz	0
-amyleigh2	public.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	public.me.com-amyleigh2.warc.gz	0
-amyleigh2	web.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	web.me.com-amyleigh2.warc.gz	0
-c659179467	gallery.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	gallery.me.com-c659179467.warc.gz	0
-c659179467	homepage.mac.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	homepage.mac.com-c659179467.warc.gz	0
-c659179467	public.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	public.me.com-c659179467.warc.gz	0
-c659179467	web.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	web.me.com-c659179467.warc.gz	0
-lisaholmberg	gallery.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	gallery.me.com-lisaholmberg.warc.gz	0
-lisaholmberg	homepage.mac.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	homepage.mac.com-lisaholmberg.warc.gz	0
-lisaholmberg	public.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	public.me.com-lisaholmberg.warc.gz	0
-lisaholmberg	web.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	web.me.com-lisaholmberg.warc.gz	0
-whoop_dang	gallery.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	gallery.me.com-whoop_dang.warc.gz	0
-whoop_dang	homepage.mac.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	homepage.mac.com-whoop_dang.warc.gz	0
-whoop_dang	public.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	public.me.com-whoop_dang.warc.gz	0
-whoop_dang	web.me.com		archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	web.me.com-whoop_dang.warc.gz	0
+a.i.lamond	gallery.me.com	2012-04-08 20:23:29	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	gallery.me.com-a.i.lamond.warc.gz	1735265928
+a.i.lamond	homepage.mac.com	2012-04-08 20:23:32	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	homepage.mac.com-a.i.lamond.warc.gz	86558
+a.i.lamond	public.me.com	2012-04-08 19:35:06	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	public.me.com-a.i.lamond.warc.gz	1917
+a.i.lamond	web.me.com	2012-04-08 19:35:03	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	web.me.com-a.i.lamond.warc.gz	411977962
+amyleigh2	gallery.me.com	2012-04-08 21:44:09	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	gallery.me.com-amyleigh2.warc.gz	2919994212
+amyleigh2	homepage.mac.com	2012-04-08 21:44:10	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	homepage.mac.com-amyleigh2.warc.gz	4908
+amyleigh2	public.me.com	2012-04-08 20:38:04	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	public.me.com-amyleigh2.warc.gz	1914
+amyleigh2	web.me.com	2012-04-08 20:38:00	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	web.me.com-amyleigh2.warc.gz	161039949
+c659179467	gallery.me.com	2012-04-08 20:23:37	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	gallery.me.com-c659179467.warc.gz	8340
+c659179467	homepage.mac.com	2012-04-08 20:23:37	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	homepage.mac.com-c659179467.warc.gz	5188
+c659179467	public.me.com	2012-04-08 20:23:36	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	public.me.com-c659179467.warc.gz	1924
+c659179467	web.me.com	2012-04-08 20:23:36	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	web.me.com-c659179467.warc.gz	17744
+lisaholmberg	gallery.me.com	2012-04-08 20:23:35	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	gallery.me.com-lisaholmberg.warc.gz	12344
+lisaholmberg	homepage.mac.com	2012-04-08 20:23:35	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	homepage.mac.com-lisaholmberg.warc.gz	7148
+lisaholmberg	public.me.com	2012-04-08 20:23:34	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	public.me.com-lisaholmberg.warc.gz	1929
+lisaholmberg	web.me.com	2012-04-08 20:23:34	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	web.me.com-lisaholmberg.warc.gz	22460
+whoop_dang	gallery.me.com	2012-04-08 19:17:37	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	gallery.me.com-whoop_dang.warc.gz	18665262
+whoop_dang	homepage.mac.com	2012-04-08 19:18:15	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	homepage.mac.com-whoop_dang.warc.gz	606509
+whoop_dang	public.me.com	2012-04-08 19:17:08	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	public.me.com-whoop_dang.warc.gz	3341
+whoop_dang	web.me.com	2012-04-08 19:17:07	archiveteam-mobileme-hero-519x	archiveteam-mobileme-hero-519x-5198.tar	web.me.com-whoop_dang.warc.gz	12169117

@@ -1,24 +1,24 @@
-cafrancois	gallery.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	gallery.me.com-cafrancois.warc.gz	0
-cafrancois	homepage.mac.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	homepage.mac.com-cafrancois.warc.gz	0
-cafrancois	public.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	public.me.com-cafrancois.warc.gz	0
-cafrancois	web.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	web.me.com-cafrancois.warc.gz	0
-f2mc	gallery.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	gallery.me.com-f2mc.warc.gz	0
-f2mc	homepage.mac.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	homepage.mac.com-f2mc.warc.gz	0
-f2mc	public.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	public.me.com-f2mc.warc.gz	0
-f2mc	web.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	web.me.com-f2mc.warc.gz	0
-jacobsoboroff	gallery.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	gallery.me.com-jacobsoboroff.warc.gz	0
-jacobsoboroff	homepage.mac.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	homepage.mac.com-jacobsoboroff.warc.gz	0
-jacobsoboroff	public.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	public.me.com-jacobsoboroff.warc.gz	0
-jacobsoboroff	web.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	web.me.com-jacobsoboroff.warc.gz	0
-joefinlon	gallery.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	gallery.me.com-joefinlon.warc.gz	0
-joefinlon	homepage.mac.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	homepage.mac.com-joefinlon.warc.gz	0
-joefinlon	public.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	public.me.com-joefinlon.warc.gz	0
-joefinlon	web.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	web.me.com-joefinlon.warc.gz	0
-johnfeimster	gallery.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	gallery.me.com-johnfeimster.warc.gz	0
-johnfeimster	homepage.mac.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	homepage.mac.com-johnfeimster.warc.gz	0
-johnfeimster	public.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	public.me.com-johnfeimster.warc.gz	0
-johnfeimster	web.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	web.me.com-johnfeimster.warc.gz	0
-meredithwhite	gallery.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	gallery.me.com-meredithwhite.warc.gz	0
-meredithwhite	homepage.mac.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	homepage.mac.com-meredithwhite.warc.gz	0
-meredithwhite	public.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	public.me.com-meredithwhite.warc.gz	0
-meredithwhite	web.me.com		archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	web.me.com-meredithwhite.warc.gz	0
+cafrancois	gallery.me.com	2012-04-03 08:37:49	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	gallery.me.com-cafrancois.warc.gz	100939007
+cafrancois	homepage.mac.com	2012-04-03 08:37:49	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	homepage.mac.com-cafrancois.warc.gz	4921
+cafrancois	public.me.com	2012-04-03 08:35:29	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	public.me.com-cafrancois.warc.gz	1920
+cafrancois	web.me.com	2012-04-03 08:35:28	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	web.me.com-cafrancois.warc.gz	283699073
+f2mc	gallery.me.com	2012-04-03 08:51:38	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	gallery.me.com-f2mc.warc.gz	42228186
+f2mc	homepage.mac.com	2012-04-03 08:51:39	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	homepage.mac.com-f2mc.warc.gz	4899
+f2mc	public.me.com	2012-04-03 08:51:01	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	public.me.com-f2mc.warc.gz	1912
+f2mc	web.me.com	2012-04-03 08:51:00	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	web.me.com-f2mc.warc.gz	197495071
+jacobsoboroff	gallery.me.com	2012-04-03 08:51:41	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	gallery.me.com-jacobsoboroff.warc.gz	12346
+jacobsoboroff	homepage.mac.com	2012-04-03 08:51:41	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	homepage.mac.com-jacobsoboroff.warc.gz	7151
+jacobsoboroff	public.me.com	2012-04-03 08:51:40	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	public.me.com-jacobsoboroff.warc.gz	1926
+jacobsoboroff	web.me.com	2012-04-03 08:51:40	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	web.me.com-jacobsoboroff.warc.gz	22510
+joefinlon	gallery.me.com	2012-04-03 10:11:00	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	gallery.me.com-joefinlon.warc.gz	866319277
+joefinlon	homepage.mac.com	2012-04-03 10:11:00	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	homepage.mac.com-joefinlon.warc.gz	4914
+joefinlon	public.me.com	2012-04-03 09:56:25	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	public.me.com-joefinlon.warc.gz	4250
+joefinlon	web.me.com	2012-04-03 09:56:24	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	web.me.com-joefinlon.warc.gz	15068062
+johnfeimster	gallery.me.com	2012-04-03 09:12:18	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	gallery.me.com-johnfeimster.warc.gz	51842348
+johnfeimster	homepage.mac.com	2012-04-03 09:12:24	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	homepage.mac.com-johnfeimster.warc.gz	127415
+johnfeimster	public.me.com	2012-04-03 09:10:29	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	public.me.com-johnfeimster.warc.gz	1223749663
+johnfeimster	web.me.com	2012-04-03 08:55:25	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	web.me.com-johnfeimster.warc.gz	28304978
+meredithwhite	gallery.me.com	2012-04-03 09:53:01	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	gallery.me.com-meredithwhite.warc.gz	1346983597
+meredithwhite	homepage.mac.com	2012-04-03 09:53:01	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	homepage.mac.com-meredithwhite.warc.gz	7847
+meredithwhite	public.me.com	2012-04-03 09:28:03	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	public.me.com-meredithwhite.warc.gz	1914
+meredithwhite	web.me.com	2012-04-03 09:28:02	archiveteam-mobileme-hero-336x	archiveteam-mobileme-hero-336x-3366.tar	web.me.com-meredithwhite.warc.gz	126823164

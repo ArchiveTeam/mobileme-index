@@ -1,32 +1,32 @@
-dilation	gallery.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	gallery.me.com-dilation.warc.gz	0
-dilation	homepage.mac.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	homepage.mac.com-dilation.warc.gz	0
-dilation	public.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	public.me.com-dilation.warc.gz	0
-dilation	web.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	web.me.com-dilation.warc.gz	0
-ecmusic1	gallery.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	gallery.me.com-ecmusic1.warc.gz	0
-ecmusic1	homepage.mac.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	homepage.mac.com-ecmusic1.warc.gz	0
-ecmusic1	public.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	public.me.com-ecmusic1.warc.gz	0
-ecmusic1	web.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	web.me.com-ecmusic1.warc.gz	0
-halcyonthegreek	gallery.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	gallery.me.com-halcyonthegreek.warc.gz	0
-halcyonthegreek	homepage.mac.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	homepage.mac.com-halcyonthegreek.warc.gz	0
-halcyonthegreek	public.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	public.me.com-halcyonthegreek.warc.gz	0
-halcyonthegreek	web.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	web.me.com-halcyonthegreek.warc.gz	0
-ktschernow	gallery.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	gallery.me.com-ktschernow.warc.gz	0
-ktschernow	homepage.mac.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	homepage.mac.com-ktschernow.warc.gz	0
-ktschernow	public.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	public.me.com-ktschernow.warc.gz	0
-ktschernow	web.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	web.me.com-ktschernow.warc.gz	0
-richardbostick	gallery.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	gallery.me.com-richardbostick.warc.gz	0
-richardbostick	homepage.mac.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	homepage.mac.com-richardbostick.warc.gz	0
-richardbostick	public.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	public.me.com-richardbostick.warc.gz	0
-richardbostick	web.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	web.me.com-richardbostick.warc.gz	0
-ron.elaine	gallery.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	gallery.me.com-ron.elaine.warc.gz	0
-ron.elaine	homepage.mac.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	homepage.mac.com-ron.elaine.warc.gz	0
-ron.elaine	public.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	public.me.com-ron.elaine.warc.gz	0
-ron.elaine	web.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	web.me.com-ron.elaine.warc.gz	0
-sarahrobertson	gallery.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	gallery.me.com-sarahrobertson.warc.gz	0
-sarahrobertson	homepage.mac.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	homepage.mac.com-sarahrobertson.warc.gz	0
-sarahrobertson	public.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	public.me.com-sarahrobertson.warc.gz	0
-sarahrobertson	web.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	web.me.com-sarahrobertson.warc.gz	0
-stevegmac	gallery.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	gallery.me.com-stevegmac.warc.gz	0
-stevegmac	homepage.mac.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	homepage.mac.com-stevegmac.warc.gz	0
-stevegmac	public.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	public.me.com-stevegmac.warc.gz	0
-stevegmac	web.me.com		archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	web.me.com-stevegmac.warc.gz	0
+dilation	gallery.me.com	2012-04-13 05:17:54	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	gallery.me.com-dilation.warc.gz	10594844
+dilation	homepage.mac.com	2012-04-13 05:17:56	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	homepage.mac.com-dilation.warc.gz	1666291
+dilation	public.me.com	2012-04-13 05:17:36	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	public.me.com-dilation.warc.gz	17056008
+dilation	web.me.com	2012-04-13 05:17:20	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	web.me.com-dilation.warc.gz	145605910
+ecmusic1	gallery.me.com	2012-04-13 05:29:53	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	gallery.me.com-ecmusic1.warc.gz	94808548
+ecmusic1	homepage.mac.com	2012-04-13 05:29:53	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	homepage.mac.com-ecmusic1.warc.gz	4893
+ecmusic1	public.me.com	2012-04-13 05:27:11	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	public.me.com-ecmusic1.warc.gz	1916
+ecmusic1	web.me.com	2012-04-13 05:27:11	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	web.me.com-ecmusic1.warc.gz	131535913
+halcyonthegreek	gallery.me.com	2012-04-13 05:46:10	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	gallery.me.com-halcyonthegreek.warc.gz	674446875
+halcyonthegreek	homepage.mac.com	2012-04-13 05:46:10	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	homepage.mac.com-halcyonthegreek.warc.gz	4936
+halcyonthegreek	public.me.com	2012-04-13 05:40:42	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	public.me.com-halcyonthegreek.warc.gz	1929
+halcyonthegreek	web.me.com	2012-04-13 05:40:42	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	web.me.com-halcyonthegreek.warc.gz	525802372
+ktschernow	gallery.me.com	2012-04-13 05:29:55	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	gallery.me.com-ktschernow.warc.gz	12319
+ktschernow	homepage.mac.com	2012-04-13 05:29:55	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	homepage.mac.com-ktschernow.warc.gz	7162
+ktschernow	public.me.com	2012-04-13 05:29:54	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	public.me.com-ktschernow.warc.gz	1922
+ktschernow	web.me.com	2012-04-13 05:29:54	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	web.me.com-ktschernow.warc.gz	22463
+richardbostick	gallery.me.com	2012-04-13 05:23:01	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	gallery.me.com-richardbostick.warc.gz	7928
+richardbostick	homepage.mac.com	2012-04-13 05:23:01	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	homepage.mac.com-richardbostick.warc.gz	4941
+richardbostick	public.me.com	2012-04-13 05:23:00	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	public.me.com-richardbostick.warc.gz	1926
+richardbostick	web.me.com	2012-04-13 05:23:00	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	web.me.com-richardbostick.warc.gz	196524907
+ron.elaine	gallery.me.com	2012-04-13 13:46:35	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	gallery.me.com-ron.elaine.warc.gz	4143839943
+ron.elaine	homepage.mac.com	2012-04-13 13:46:35	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	homepage.mac.com-ron.elaine.warc.gz	4908
+ron.elaine	public.me.com	2012-04-13 12:53:50	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	public.me.com-ron.elaine.warc.gz	1918
+ron.elaine	web.me.com	2012-04-13 12:53:35	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	web.me.com-ron.elaine.warc.gz	1069725703
+sarahrobertson	gallery.me.com	2012-04-13 05:18:22	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	gallery.me.com-sarahrobertson.warc.gz	37267930
+sarahrobertson	homepage.mac.com	2012-04-13 05:18:22	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	homepage.mac.com-sarahrobertson.warc.gz	4066
+sarahrobertson	public.me.com	2012-04-13 05:18:02	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	public.me.com-sarahrobertson.warc.gz	1928
+sarahrobertson	web.me.com	2012-04-13 05:18:02	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	web.me.com-sarahrobertson.warc.gz	183307
+stevegmac	gallery.me.com	2012-04-13 05:24:30	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	gallery.me.com-stevegmac.warc.gz	3690386
+stevegmac	homepage.mac.com	2012-04-13 05:24:30	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	homepage.mac.com-stevegmac.warc.gz	4911
+stevegmac	public.me.com	2012-04-13 05:24:19	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	public.me.com-stevegmac.warc.gz	1920
+stevegmac	web.me.com	2012-04-13 05:24:18	archiveteam-mobileme-hero-733x	archiveteam-mobileme-hero-733x-7339.tar	web.me.com-stevegmac.warc.gz	6483977

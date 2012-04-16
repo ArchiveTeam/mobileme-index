@@ -1,16 +1,16 @@
-frontporch	gallery.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	gallery.me.com-frontporch.warc.gz	0
-frontporch	homepage.mac.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	homepage.mac.com-frontporch.warc.gz	0
-frontporch	public.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	public.me.com-frontporch.warc.gz	0
-frontporch	web.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	web.me.com-frontporch.warc.gz	0
-jessicaolivieri	gallery.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	gallery.me.com-jessicaolivieri.warc.gz	0
-jessicaolivieri	homepage.mac.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	homepage.mac.com-jessicaolivieri.warc.gz	0
-jessicaolivieri	public.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	public.me.com-jessicaolivieri.warc.gz	0
-jessicaolivieri	web.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	web.me.com-jessicaolivieri.warc.gz	0
-marty.dempsey	gallery.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	gallery.me.com-marty.dempsey.warc.gz	0
-marty.dempsey	homepage.mac.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	homepage.mac.com-marty.dempsey.warc.gz	0
-marty.dempsey	public.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	public.me.com-marty.dempsey.warc.gz	0
-marty.dempsey	web.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	web.me.com-marty.dempsey.warc.gz	0
-willthebuzzcutguy	gallery.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	gallery.me.com-willthebuzzcutguy.warc.gz	0
-willthebuzzcutguy	homepage.mac.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	homepage.mac.com-willthebuzzcutguy.warc.gz	0
-willthebuzzcutguy	public.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	public.me.com-willthebuzzcutguy.warc.gz	0
-willthebuzzcutguy	web.me.com		archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	web.me.com-willthebuzzcutguy.warc.gz	0
+frontporch	gallery.me.com	2012-04-09 02:54:48	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	gallery.me.com-frontporch.warc.gz	54651962
+frontporch	homepage.mac.com	2012-04-09 02:54:58	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	homepage.mac.com-frontporch.warc.gz	122076
+frontporch	public.me.com	2012-04-09 02:52:19	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	public.me.com-frontporch.warc.gz	10765159
+frontporch	web.me.com	2012-04-09 02:51:37	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	web.me.com-frontporch.warc.gz	52329611
+jessicaolivieri	gallery.me.com	2012-04-09 02:46:26	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	gallery.me.com-jessicaolivieri.warc.gz	2115963358
+jessicaolivieri	homepage.mac.com	2012-04-09 02:46:27	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	homepage.mac.com-jessicaolivieri.warc.gz	4940
+jessicaolivieri	public.me.com	2012-04-09 01:05:11	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	public.me.com-jessicaolivieri.warc.gz	1933
+jessicaolivieri	web.me.com	2012-04-09 01:05:01	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	web.me.com-jessicaolivieri.warc.gz	1177575816
+marty.dempsey	gallery.me.com	2012-04-09 03:35:58	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	gallery.me.com-marty.dempsey.warc.gz	870028350
+marty.dempsey	homepage.mac.com	2012-04-09 03:35:59	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	homepage.mac.com-marty.dempsey.warc.gz	4928
+marty.dempsey	public.me.com	2012-04-09 03:00:41	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	public.me.com-marty.dempsey.warc.gz	12559057
+marty.dempsey	web.me.com	2012-04-09 03:00:06	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	web.me.com-marty.dempsey.warc.gz	6792113
+willthebuzzcutguy	gallery.me.com	2012-04-09 02:46:31	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	gallery.me.com-willthebuzzcutguy.warc.gz	8386
+willthebuzzcutguy	homepage.mac.com	2012-04-09 02:46:32	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	homepage.mac.com-willthebuzzcutguy.warc.gz	5210
+willthebuzzcutguy	public.me.com	2012-04-09 02:46:30	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	public.me.com-willthebuzzcutguy.warc.gz	1939
+willthebuzzcutguy	web.me.com	2012-04-09 02:46:30	archiveteam-mobileme-hero-530x	archiveteam-mobileme-hero-530x-5303.tar	web.me.com-willthebuzzcutguy.warc.gz	17822

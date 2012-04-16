@@ -1,12 +1,12 @@
-bboucek	gallery.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	gallery.me.com-bboucek.warc.gz	0
-bboucek	homepage.mac.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	homepage.mac.com-bboucek.warc.gz	0
-bboucek	public.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	public.me.com-bboucek.warc.gz	0
-bboucek	web.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	web.me.com-bboucek.warc.gz	0
-hallstroem	gallery.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	gallery.me.com-hallstroem.warc.gz	0
-hallstroem	homepage.mac.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	homepage.mac.com-hallstroem.warc.gz	0
-hallstroem	public.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	public.me.com-hallstroem.warc.gz	0
-hallstroem	web.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	web.me.com-hallstroem.warc.gz	0
-hunterre	gallery.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	gallery.me.com-hunterre.warc.gz	0
-hunterre	homepage.mac.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	homepage.mac.com-hunterre.warc.gz	0
-hunterre	public.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	public.me.com-hunterre.warc.gz	0
-hunterre	web.me.com		archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	web.me.com-hunterre.warc.gz	0
+bboucek	gallery.me.com	2012-04-10 20:58:20	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	gallery.me.com-bboucek.warc.gz	124929038
+bboucek	homepage.mac.com	2012-04-10 20:58:20	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	homepage.mac.com-bboucek.warc.gz	4914
+bboucek	public.me.com	2012-04-10 20:55:08	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	public.me.com-bboucek.warc.gz	1907
+bboucek	web.me.com	2012-04-10 20:55:07	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	web.me.com-bboucek.warc.gz	27432534
+hallstroem	gallery.me.com	2012-04-10 20:50:04	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	gallery.me.com-hallstroem.warc.gz	1150949258
+hallstroem	homepage.mac.com	2012-04-10 20:50:05	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	homepage.mac.com-hallstroem.warc.gz	4922
+hallstroem	public.me.com	2012-04-10 20:34:05	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	public.me.com-hallstroem.warc.gz	255999217
+hallstroem	web.me.com	2012-04-10 20:29:10	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	web.me.com-hallstroem.warc.gz	89746887
+hunterre	gallery.me.com	2012-04-10 23:09:58	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	gallery.me.com-hunterre.warc.gz	6278842134
+hunterre	homepage.mac.com	2012-04-10 23:09:59	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	homepage.mac.com-hunterre.warc.gz	4912
+hunterre	public.me.com	2012-04-10 21:38:57	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	public.me.com-hunterre.warc.gz	3653
+hunterre	web.me.com	2012-04-10 21:38:51	archiveteam-mobileme-hero-611x	archiveteam-mobileme-hero-611x-6118.tar	web.me.com-hunterre.warc.gz	753108273

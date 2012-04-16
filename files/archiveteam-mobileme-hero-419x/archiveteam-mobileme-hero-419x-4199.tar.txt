@@ -1,12 +1,12 @@
-JGKeefe	gallery.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	gallery.me.com-JGKeefe.warc.gz	0
-JGKeefe	homepage.mac.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	homepage.mac.com-JGKeefe.warc.gz	0
-JGKeefe	public.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	public.me.com-JGKeefe.warc.gz	0
-JGKeefe	web.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	web.me.com-JGKeefe.warc.gz	0
-flashback.photos	gallery.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	gallery.me.com-flashback.photos.warc.gz	0
-flashback.photos	homepage.mac.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	homepage.mac.com-flashback.photos.warc.gz	0
-flashback.photos	public.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	public.me.com-flashback.photos.warc.gz	0
-flashback.photos	web.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	web.me.com-flashback.photos.warc.gz	0
-g4tiguy	gallery.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	gallery.me.com-g4tiguy.warc.gz	0
-g4tiguy	homepage.mac.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	homepage.mac.com-g4tiguy.warc.gz	0
-g4tiguy	public.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	public.me.com-g4tiguy.warc.gz	0
-g4tiguy	web.me.com		archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	web.me.com-g4tiguy.warc.gz	0
+JGKeefe	gallery.me.com	2012-04-05 10:11:27	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	gallery.me.com-JGKeefe.warc.gz	2279499
+JGKeefe	homepage.mac.com	2012-04-05 10:11:27	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	homepage.mac.com-JGKeefe.warc.gz	4897
+JGKeefe	public.me.com	2012-04-05 10:11:22	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	public.me.com-JGKeefe.warc.gz	5728642903
+JGKeefe	web.me.com	2012-04-05 08:46:07	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	web.me.com-JGKeefe.warc.gz	1985782704
+flashback.photos	gallery.me.com	2012-04-05 07:58:46	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	gallery.me.com-flashback.photos.warc.gz	12376
+flashback.photos	homepage.mac.com	2012-04-05 07:58:46	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	homepage.mac.com-flashback.photos.warc.gz	7171
+flashback.photos	public.me.com	2012-04-05 07:58:45	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	public.me.com-flashback.photos.warc.gz	1936
+flashback.photos	web.me.com	2012-04-05 07:58:45	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	web.me.com-flashback.photos.warc.gz	22571
+g4tiguy	gallery.me.com	2012-04-05 07:58:48	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	gallery.me.com-g4tiguy.warc.gz	8343
+g4tiguy	homepage.mac.com	2012-04-05 07:58:48	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	homepage.mac.com-g4tiguy.warc.gz	5178
+g4tiguy	public.me.com	2012-04-05 07:58:47	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	public.me.com-g4tiguy.warc.gz	1918
+g4tiguy	web.me.com	2012-04-05 07:58:47	archiveteam-mobileme-hero-419x	archiveteam-mobileme-hero-419x-4199.tar	web.me.com-g4tiguy.warc.gz	17687

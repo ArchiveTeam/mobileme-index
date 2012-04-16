@@ -1,16 +1,16 @@
-benmui	gallery.me.com		archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	gallery.me.com-benmui.warc.gz	0
-benmui	homepage.mac.com		archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	homepage.mac.com-benmui.warc.gz	0
-benmui	public.me.com		archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	public.me.com-benmui.warc.gz	0
-benmui	web.me.com		archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	web.me.com-benmui.warc.gz	0
-epiesasha	gallery.me.com		archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	gallery.me.com-epiesasha.warc.gz	0
-epiesasha	homepage.mac.com		archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	homepage.mac.com-epiesasha.warc.gz	0
-epiesasha	public.me.com		archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	public.me.com-epiesasha.warc.gz	0
-epiesasha	web.me.com		archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	web.me.com-epiesasha.warc.gz	0
-fabio.f	gallery.me.com		archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	gallery.me.com-fabio.f.warc.gz	0
-fabio.f	homepage.mac.com		archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	homepage.mac.com-fabio.f.warc.gz	0
-fabio.f	public.me.com		archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	public.me.com-fabio.f.warc.gz	0
-fabio.f	web.me.com		archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	web.me.com-fabio.f.warc.gz	0
-harukoku	gallery.me.com		archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	gallery.me.com-harukoku.warc.gz	0
-harukoku	homepage.mac.com		archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	homepage.mac.com-harukoku.warc.gz	0
-harukoku	public.me.com		archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	public.me.com-harukoku.warc.gz	0
-harukoku	web.me.com		archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	web.me.com-harukoku.warc.gz	0
+benmui	gallery.me.com	2012-04-08 22:51:05	archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	gallery.me.com-benmui.warc.gz	933511889
+benmui	homepage.mac.com	2012-04-08 22:52:20	archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	homepage.mac.com-benmui.warc.gz	1202466
+benmui	public.me.com	2012-04-08 22:25:20	archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	public.me.com-benmui.warc.gz	46390488
+benmui	web.me.com	2012-04-08 22:24:36	archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	web.me.com-benmui.warc.gz	156655385
+epiesasha	gallery.me.com	2012-04-09 03:54:13	archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	gallery.me.com-epiesasha.warc.gz	4465437491
+epiesasha	homepage.mac.com	2012-04-09 03:54:13	archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	homepage.mac.com-epiesasha.warc.gz	4903
+epiesasha	public.me.com	2012-04-09 01:49:55	archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	public.me.com-epiesasha.warc.gz	1916
+epiesasha	web.me.com	2012-04-09 01:49:49	archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	web.me.com-epiesasha.warc.gz	1966775144
+fabio.f	gallery.me.com	2012-04-08 21:58:39	archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	gallery.me.com-fabio.f.warc.gz	53089472
+fabio.f	homepage.mac.com	2012-04-08 21:58:39	archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	homepage.mac.com-fabio.f.warc.gz	6035
+fabio.f	public.me.com	2012-04-08 21:57:21	archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	public.me.com-fabio.f.warc.gz	1908
+fabio.f	web.me.com	2012-04-08 21:57:20	archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	web.me.com-fabio.f.warc.gz	217687125
+harukoku	gallery.me.com	2012-04-08 22:58:06	archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	gallery.me.com-harukoku.warc.gz	4239
+harukoku	homepage.mac.com	2012-04-08 22:58:06	archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	homepage.mac.com-harukoku.warc.gz	4894
+harukoku	public.me.com	2012-04-08 22:58:05	archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	public.me.com-harukoku.warc.gz	1910
+harukoku	web.me.com	2012-04-08 22:58:01	archiveteam-mobileme-hero-531x	archiveteam-mobileme-hero-531x-5310.tar	web.me.com-harukoku.warc.gz	30831055

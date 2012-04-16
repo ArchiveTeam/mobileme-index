@@ -1,20 +1,20 @@
-acityonahill	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	gallery.me.com-acityonahill.warc.gz	0
-acityonahill	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	homepage.mac.com-acityonahill.warc.gz	0
-acityonahill	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	public.me.com-acityonahill.warc.gz	0
-acityonahill	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	web.me.com-acityonahill.warc.gz	0
-bpembleton	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	gallery.me.com-bpembleton.warc.gz	0
-bpembleton	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	homepage.mac.com-bpembleton.warc.gz	0
-bpembleton	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	public.me.com-bpembleton.warc.gz	0
-bpembleton	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	web.me.com-bpembleton.warc.gz	0
-keakakona	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	gallery.me.com-keakakona.warc.gz	0
-keakakona	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	homepage.mac.com-keakakona.warc.gz	0
-keakakona	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	public.me.com-keakakona.warc.gz	0
-keakakona	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	web.me.com-keakakona.warc.gz	0
-macquest	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	gallery.me.com-macquest.warc.gz	0
-macquest	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	homepage.mac.com-macquest.warc.gz	0
-macquest	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	public.me.com-macquest.warc.gz	0
-macquest	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	web.me.com-macquest.warc.gz	0
-projectcavalier	gallery.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	gallery.me.com-projectcavalier.warc.gz	0
-projectcavalier	homepage.mac.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	homepage.mac.com-projectcavalier.warc.gz	0
-projectcavalier	public.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	public.me.com-projectcavalier.warc.gz	0
-projectcavalier	web.me.com		archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	web.me.com-projectcavalier.warc.gz	0
+acityonahill	gallery.me.com	2012-04-10 15:28:36	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	gallery.me.com-acityonahill.warc.gz	259693964
+acityonahill	homepage.mac.com	2012-04-10 15:28:41	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	homepage.mac.com-acityonahill.warc.gz	95876
+acityonahill	public.me.com	2012-04-10 15:17:35	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	public.me.com-acityonahill.warc.gz	1927
+acityonahill	web.me.com	2012-04-10 15:17:24	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	web.me.com-acityonahill.warc.gz	385183472
+bpembleton	gallery.me.com	2012-04-10 16:03:18	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	gallery.me.com-bpembleton.warc.gz	142354542
+bpembleton	homepage.mac.com	2012-04-10 16:03:18	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	homepage.mac.com-bpembleton.warc.gz	4920
+bpembleton	public.me.com	2012-04-10 16:01:29	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	public.me.com-bpembleton.warc.gz	1922
+bpembleton	web.me.com	2012-04-10 16:01:28	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	web.me.com-bpembleton.warc.gz	9194867
+keakakona	gallery.me.com	2012-04-10 15:58:32	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	gallery.me.com-keakakona.warc.gz	167899343
+keakakona	homepage.mac.com	2012-04-10 15:58:32	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	homepage.mac.com-keakakona.warc.gz	4920
+keakakona	public.me.com	2012-04-10 15:57:41	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	public.me.com-keakakona.warc.gz	1581174734
+keakakona	web.me.com	2012-04-10 15:40:28	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	web.me.com-keakakona.warc.gz	96469213
+macquest	gallery.me.com	2012-04-10 17:04:17	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	gallery.me.com-macquest.warc.gz	3603677154
+macquest	homepage.mac.com	2012-04-10 17:04:20	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	homepage.mac.com-macquest.warc.gz	74223
+macquest	public.me.com	2012-04-10 16:30:15	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	public.me.com-macquest.warc.gz	367389979
+macquest	web.me.com	2012-04-10 16:23:01	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	web.me.com-macquest.warc.gz	380402004
+projectcavalier	gallery.me.com	2012-04-10 14:55:24	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	gallery.me.com-projectcavalier.warc.gz	8356
+projectcavalier	homepage.mac.com	2012-04-10 14:55:25	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	homepage.mac.com-projectcavalier.warc.gz	5189
+projectcavalier	public.me.com	2012-04-10 14:55:24	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	public.me.com-projectcavalier.warc.gz	1930
+projectcavalier	web.me.com	2012-04-10 14:55:23	archiveteam-mobileme-hero-600x	archiveteam-mobileme-hero-600x-6009.tar	web.me.com-projectcavalier.warc.gz	17743

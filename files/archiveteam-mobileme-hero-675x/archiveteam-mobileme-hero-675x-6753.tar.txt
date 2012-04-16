@@ -1,24 +1,24 @@
-cynops	gallery.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	gallery.me.com-cynops.warc.gz	0
-cynops	homepage.mac.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	homepage.mac.com-cynops.warc.gz	0
-cynops	public.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	public.me.com-cynops.warc.gz	0
-cynops	web.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	web.me.com-cynops.warc.gz	0
-fishserver	gallery.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	gallery.me.com-fishserver.warc.gz	0
-fishserver	homepage.mac.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	homepage.mac.com-fishserver.warc.gz	0
-fishserver	public.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	public.me.com-fishserver.warc.gz	0
-fishserver	web.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	web.me.com-fishserver.warc.gz	0
-jadazajur	gallery.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	gallery.me.com-jadazajur.warc.gz	0
-jadazajur	homepage.mac.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	homepage.mac.com-jadazajur.warc.gz	0
-jadazajur	public.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	public.me.com-jadazajur.warc.gz	0
-jadazajur	web.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	web.me.com-jadazajur.warc.gz	0
-ricardojavier	gallery.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	gallery.me.com-ricardojavier.warc.gz	0
-ricardojavier	homepage.mac.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	homepage.mac.com-ricardojavier.warc.gz	0
-ricardojavier	public.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	public.me.com-ricardojavier.warc.gz	0
-ricardojavier	web.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	web.me.com-ricardojavier.warc.gz	0
-suzannepicard	gallery.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	gallery.me.com-suzannepicard.warc.gz	0
-suzannepicard	homepage.mac.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	homepage.mac.com-suzannepicard.warc.gz	0
-suzannepicard	public.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	public.me.com-suzannepicard.warc.gz	0
-suzannepicard	web.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	web.me.com-suzannepicard.warc.gz	0
-xroot	gallery.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	gallery.me.com-xroot.warc.gz	0
-xroot	homepage.mac.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	homepage.mac.com-xroot.warc.gz	0
-xroot	public.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	public.me.com-xroot.warc.gz	0
-xroot	web.me.com		archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	web.me.com-xroot.warc.gz	0
+cynops	gallery.me.com	2012-04-12 11:46:43	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	gallery.me.com-cynops.warc.gz	88768149
+cynops	homepage.mac.com	2012-04-12 11:46:43	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	homepage.mac.com-cynops.warc.gz	4892
+cynops	public.me.com	2012-04-12 11:45:29	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	public.me.com-cynops.warc.gz	1281545261
+cynops	web.me.com	2012-04-12 11:38:46	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	web.me.com-cynops.warc.gz	116950772
+fishserver	gallery.me.com	2012-04-12 11:33:10	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	gallery.me.com-fishserver.warc.gz	1367242362
+fishserver	homepage.mac.com	2012-04-12 11:33:11	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	homepage.mac.com-fishserver.warc.gz	36914
+fishserver	public.me.com	2012-04-12 11:22:56	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	public.me.com-fishserver.warc.gz	225842689
+fishserver	web.me.com	2012-04-12 11:20:49	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	web.me.com-fishserver.warc.gz	398422017
+jadazajur	gallery.me.com	2012-04-12 10:51:25	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	gallery.me.com-jadazajur.warc.gz	4258
+jadazajur	homepage.mac.com	2012-04-12 10:51:26	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	homepage.mac.com-jadazajur.warc.gz	4923
+jadazajur	public.me.com	2012-04-12 10:51:25	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	public.me.com-jadazajur.warc.gz	1930
+jadazajur	web.me.com	2012-04-12 10:51:25	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	web.me.com-jadazajur.warc.gz	26012634
+ricardojavier	gallery.me.com	2012-04-12 11:06:59	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	gallery.me.com-ricardojavier.warc.gz	7019514
+ricardojavier	homepage.mac.com	2012-04-12 11:07:02	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	homepage.mac.com-ricardojavier.warc.gz	76803
+ricardojavier	public.me.com	2012-04-12 11:06:56	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	public.me.com-ricardojavier.warc.gz	355917053
+ricardojavier	web.me.com	2012-04-12 11:01:51	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	web.me.com-ricardojavier.warc.gz	707490273
+suzannepicard	gallery.me.com	2012-04-12 10:47:42	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	gallery.me.com-suzannepicard.warc.gz	4998
+suzannepicard	homepage.mac.com	2012-04-12 10:47:42	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	homepage.mac.com-suzannepicard.warc.gz	4941
+suzannepicard	public.me.com	2012-04-12 10:47:41	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	public.me.com-suzannepicard.warc.gz	1934
+suzannepicard	web.me.com	2012-04-12 10:47:41	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	web.me.com-suzannepicard.warc.gz	13904638
+xroot	gallery.me.com	2012-04-12 10:45:04	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	gallery.me.com-xroot.warc.gz	12329
+xroot	homepage.mac.com	2012-04-12 10:45:04	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	homepage.mac.com-xroot.warc.gz	7137
+xroot	public.me.com	2012-04-12 10:45:02	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	public.me.com-xroot.warc.gz	1914
+xroot	web.me.com	2012-04-12 10:45:02	archiveteam-mobileme-hero-675x	archiveteam-mobileme-hero-675x-6753.tar	web.me.com-xroot.warc.gz	22461

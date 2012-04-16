@@ -1,12 +1,12 @@
-bporter615	gallery.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	gallery.me.com-bporter615.warc.gz	0
-bporter615	homepage.mac.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	homepage.mac.com-bporter615.warc.gz	0
-bporter615	public.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	public.me.com-bporter615.warc.gz	0
-bporter615	web.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	web.me.com-bporter615.warc.gz	0
-mjdonovan	gallery.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	gallery.me.com-mjdonovan.warc.gz	0
-mjdonovan	homepage.mac.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	homepage.mac.com-mjdonovan.warc.gz	0
-mjdonovan	public.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	public.me.com-mjdonovan.warc.gz	0
-mjdonovan	web.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	web.me.com-mjdonovan.warc.gz	0
-tristanbarrocks	gallery.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	gallery.me.com-tristanbarrocks.warc.gz	0
-tristanbarrocks	homepage.mac.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	homepage.mac.com-tristanbarrocks.warc.gz	0
-tristanbarrocks	public.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	public.me.com-tristanbarrocks.warc.gz	0
-tristanbarrocks	web.me.com		archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	web.me.com-tristanbarrocks.warc.gz	0
+bporter615	gallery.me.com	2012-04-07 22:36:09	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	gallery.me.com-bporter615.warc.gz	4284
+bporter615	homepage.mac.com	2012-04-07 22:36:09	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	homepage.mac.com-bporter615.warc.gz	7860
+bporter615	public.me.com	2012-04-07 22:36:07	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	public.me.com-bporter615.warc.gz	2884395310
+bporter615	web.me.com	2012-04-07 21:34:55	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	web.me.com-bporter615.warc.gz	185973
+mjdonovan	gallery.me.com	2012-04-07 20:27:36	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	gallery.me.com-mjdonovan.warc.gz	224307064
+mjdonovan	homepage.mac.com	2012-04-07 20:27:36	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	homepage.mac.com-mjdonovan.warc.gz	4928
+mjdonovan	public.me.com	2012-04-07 20:19:50	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	public.me.com-mjdonovan.warc.gz	1922
+mjdonovan	web.me.com	2012-04-07 20:19:49	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	web.me.com-mjdonovan.warc.gz	18074068
+tristanbarrocks	gallery.me.com	2012-04-07 21:34:41	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	gallery.me.com-tristanbarrocks.warc.gz	49397721
+tristanbarrocks	homepage.mac.com	2012-04-07 21:34:47	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	homepage.mac.com-tristanbarrocks.warc.gz	59057
+tristanbarrocks	public.me.com	2012-04-07 21:33:47	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	public.me.com-tristanbarrocks.warc.gz	2799087354
+tristanbarrocks	web.me.com	2012-04-07 20:45:17	archiveteam-mobileme-hero-499x	archiveteam-mobileme-hero-499x-4997.tar	web.me.com-tristanbarrocks.warc.gz	139632360

@@ -1,12 +1,12 @@
-chad.leverenz	gallery.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	gallery.me.com-chad.leverenz.warc.gz	0
-chad.leverenz	homepage.mac.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	homepage.mac.com-chad.leverenz.warc.gz	0
-chad.leverenz	public.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	public.me.com-chad.leverenz.warc.gz	0
-chad.leverenz	web.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	web.me.com-chad.leverenz.warc.gz	0
-jaqbaldwin	gallery.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	gallery.me.com-jaqbaldwin.warc.gz	0
-jaqbaldwin	homepage.mac.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	homepage.mac.com-jaqbaldwin.warc.gz	0
-jaqbaldwin	public.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	public.me.com-jaqbaldwin.warc.gz	0
-jaqbaldwin	web.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	web.me.com-jaqbaldwin.warc.gz	0
-mjrap	gallery.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	gallery.me.com-mjrap.warc.gz	0
-mjrap	homepage.mac.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	homepage.mac.com-mjrap.warc.gz	0
-mjrap	public.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	public.me.com-mjrap.warc.gz	0
-mjrap	web.me.com		archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	web.me.com-mjrap.warc.gz	0
+chad.leverenz	gallery.me.com	2012-04-02 23:03:26	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	gallery.me.com-chad.leverenz.warc.gz	181770076
+chad.leverenz	homepage.mac.com	2012-04-02 23:03:26	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	homepage.mac.com-chad.leverenz.warc.gz	4924
+chad.leverenz	public.me.com	2012-04-02 23:01:29	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	public.me.com-chad.leverenz.warc.gz	5658835043
+chad.leverenz	web.me.com	2012-04-02 21:47:44	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	web.me.com-chad.leverenz.warc.gz	96246424
+jaqbaldwin	gallery.me.com	2012-04-02 21:29:15	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	gallery.me.com-jaqbaldwin.warc.gz	12352
+jaqbaldwin	homepage.mac.com	2012-04-02 21:29:16	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	homepage.mac.com-jaqbaldwin.warc.gz	7170
+jaqbaldwin	public.me.com	2012-04-02 21:29:15	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	public.me.com-jaqbaldwin.warc.gz	1926
+jaqbaldwin	web.me.com	2012-04-02 21:29:14	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	web.me.com-jaqbaldwin.warc.gz	22558
+mjrap	gallery.me.com	2012-04-02 21:44:26	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	gallery.me.com-mjrap.warc.gz	603542595
+mjrap	homepage.mac.com	2012-04-02 21:44:27	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	homepage.mac.com-mjrap.warc.gz	36860
+mjrap	public.me.com	2012-04-02 21:36:13	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	public.me.com-mjrap.warc.gz	18152771
+mjrap	web.me.com	2012-04-02 21:35:48	archiveteam-mobileme-hero-314x	archiveteam-mobileme-hero-314x-3142.tar	web.me.com-mjrap.warc.gz	225007662

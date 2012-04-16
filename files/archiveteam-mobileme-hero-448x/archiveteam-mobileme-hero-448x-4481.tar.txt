@@ -1,20 +1,20 @@
-aglee	gallery.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	gallery.me.com-aglee.warc.gz	0
-aglee	homepage.mac.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	homepage.mac.com-aglee.warc.gz	0
-aglee	public.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	public.me.com-aglee.warc.gz	0
-aglee	web.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	web.me.com-aglee.warc.gz	0
-antonio.iacopino	gallery.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	gallery.me.com-antonio.iacopino.warc.gz	0
-antonio.iacopino	homepage.mac.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	homepage.mac.com-antonio.iacopino.warc.gz	0
-antonio.iacopino	public.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	public.me.com-antonio.iacopino.warc.gz	0
-antonio.iacopino	web.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	web.me.com-antonio.iacopino.warc.gz	0
-coachtom1	gallery.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	gallery.me.com-coachtom1.warc.gz	0
-coachtom1	homepage.mac.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	homepage.mac.com-coachtom1.warc.gz	0
-coachtom1	public.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	public.me.com-coachtom1.warc.gz	0
-coachtom1	web.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	web.me.com-coachtom1.warc.gz	0
-jvicinanza	gallery.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	gallery.me.com-jvicinanza.warc.gz	0
-jvicinanza	homepage.mac.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	homepage.mac.com-jvicinanza.warc.gz	0
-jvicinanza	public.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	public.me.com-jvicinanza.warc.gz	0
-jvicinanza	web.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	web.me.com-jvicinanza.warc.gz	0
-prophet.able	gallery.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	gallery.me.com-prophet.able.warc.gz	0
-prophet.able	homepage.mac.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	homepage.mac.com-prophet.able.warc.gz	0
-prophet.able	public.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	public.me.com-prophet.able.warc.gz	0
-prophet.able	web.me.com		archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	web.me.com-prophet.able.warc.gz	0
+aglee	gallery.me.com	2012-04-06 00:24:23	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	gallery.me.com-aglee.warc.gz	45329829
+aglee	homepage.mac.com	2012-04-06 00:26:45	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	homepage.mac.com-aglee.warc.gz	75627037
+aglee	public.me.com	2012-04-06 00:23:27	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	public.me.com-aglee.warc.gz	38851
+aglee	web.me.com	2012-04-06 00:23:25	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	web.me.com-aglee.warc.gz	11722192
+antonio.iacopino	gallery.me.com	2012-04-06 00:16:06	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	gallery.me.com-antonio.iacopino.warc.gz	547259949
+antonio.iacopino	homepage.mac.com	2012-04-06 00:16:06	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	homepage.mac.com-antonio.iacopino.warc.gz	4934
+antonio.iacopino	public.me.com	2012-04-05 23:56:13	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	public.me.com-antonio.iacopino.warc.gz	1932
+antonio.iacopino	web.me.com	2012-04-05 23:56:09	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	web.me.com-antonio.iacopino.warc.gz	1349220446
+coachtom1	gallery.me.com	2012-04-06 00:22:32	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	gallery.me.com-coachtom1.warc.gz	4246
+coachtom1	homepage.mac.com	2012-04-06 00:22:33	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	homepage.mac.com-coachtom1.warc.gz	4915
+coachtom1	public.me.com	2012-04-06 00:22:31	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	public.me.com-coachtom1.warc.gz	1917
+coachtom1	web.me.com	2012-04-06 00:22:31	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	web.me.com-coachtom1.warc.gz	11196417
+jvicinanza	gallery.me.com	2012-04-06 00:26:47	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	gallery.me.com-jvicinanza.warc.gz	8374
+jvicinanza	homepage.mac.com	2012-04-06 00:26:47	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	homepage.mac.com-jvicinanza.warc.gz	5186
+jvicinanza	public.me.com	2012-04-06 00:26:47	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	public.me.com-jvicinanza.warc.gz	1919
+jvicinanza	web.me.com	2012-04-06 00:26:46	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	web.me.com-jvicinanza.warc.gz	17711
+prophet.able	gallery.me.com	2012-04-06 02:36:05	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	gallery.me.com-prophet.able.warc.gz	1830290759
+prophet.able	homepage.mac.com	2012-04-06 02:36:05	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	homepage.mac.com-prophet.able.warc.gz	4930
+prophet.able	public.me.com	2012-04-06 01:49:55	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	public.me.com-prophet.able.warc.gz	4916334319
+prophet.able	web.me.com	2012-04-06 00:32:52	archiveteam-mobileme-hero-448x	archiveteam-mobileme-hero-448x-4481.tar	web.me.com-prophet.able.warc.gz	18913426

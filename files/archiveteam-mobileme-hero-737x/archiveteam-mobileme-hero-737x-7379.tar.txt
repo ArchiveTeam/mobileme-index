@@ -1,20 +1,20 @@
-c1263181935	gallery.me.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	gallery.me.com-c1263181935.warc.gz	0
-c1263181935	homepage.mac.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	homepage.mac.com-c1263181935.warc.gz	0
-c1263181935	public.me.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	public.me.com-c1263181935.warc.gz	0
-c1263181935	web.me.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	web.me.com-c1263181935.warc.gz	0
-coolkitty	gallery.me.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	gallery.me.com-coolkitty.warc.gz	0
-coolkitty	homepage.mac.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	homepage.mac.com-coolkitty.warc.gz	0
-coolkitty	public.me.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	public.me.com-coolkitty.warc.gz	0
-coolkitty	web.me.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	web.me.com-coolkitty.warc.gz	0
-cwilliams1979	gallery.me.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	gallery.me.com-cwilliams1979.warc.gz	0
-cwilliams1979	homepage.mac.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	homepage.mac.com-cwilliams1979.warc.gz	0
-cwilliams1979	public.me.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	public.me.com-cwilliams1979.warc.gz	0
-cwilliams1979	web.me.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	web.me.com-cwilliams1979.warc.gz	0
-leonefimov	gallery.me.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	gallery.me.com-leonefimov.warc.gz	0
-leonefimov	homepage.mac.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	homepage.mac.com-leonefimov.warc.gz	0
-leonefimov	public.me.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	public.me.com-leonefimov.warc.gz	0
-leonefimov	web.me.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	web.me.com-leonefimov.warc.gz	0
-standrews.uni	gallery.me.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	gallery.me.com-standrews.uni.warc.gz	0
-standrews.uni	homepage.mac.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	homepage.mac.com-standrews.uni.warc.gz	0
-standrews.uni	public.me.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	public.me.com-standrews.uni.warc.gz	0
-standrews.uni	web.me.com		archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	web.me.com-standrews.uni.warc.gz	0
+c1263181935	gallery.me.com	2012-04-13 13:59:47	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	gallery.me.com-c1263181935.warc.gz	8383
+c1263181935	homepage.mac.com	2012-04-13 13:59:48	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	homepage.mac.com-c1263181935.warc.gz	5185
+c1263181935	public.me.com	2012-04-13 13:59:47	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	public.me.com-c1263181935.warc.gz	1925
+c1263181935	web.me.com	2012-04-13 13:59:46	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	web.me.com-c1263181935.warc.gz	17790
+coolkitty	gallery.me.com	2012-04-13 14:12:23	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	gallery.me.com-coolkitty.warc.gz	5683
+coolkitty	homepage.mac.com	2012-04-13 14:12:26	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	homepage.mac.com-coolkitty.warc.gz	4894
+coolkitty	public.me.com	2012-04-13 14:12:21	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	public.me.com-coolkitty.warc.gz	1920
+coolkitty	web.me.com	2012-04-13 14:12:20	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	web.me.com-coolkitty.warc.gz	82605544
+cwilliams1979	gallery.me.com	2012-04-13 13:59:43	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	gallery.me.com-cwilliams1979.warc.gz	5049
+cwilliams1979	homepage.mac.com	2012-04-13 13:59:44	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	homepage.mac.com-cwilliams1979.warc.gz	4916
+cwilliams1979	public.me.com	2012-04-13 13:59:42	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	public.me.com-cwilliams1979.warc.gz	1927
+cwilliams1979	web.me.com	2012-04-13 13:59:41	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	web.me.com-cwilliams1979.warc.gz	1816087147
+leonefimov	gallery.me.com	2012-04-13 16:17:26	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	gallery.me.com-leonefimov.warc.gz	2429764395
+leonefimov	homepage.mac.com	2012-04-13 16:17:26	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	homepage.mac.com-leonefimov.warc.gz	4929
+leonefimov	public.me.com	2012-04-13 14:33:55	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	public.me.com-leonefimov.warc.gz	1922
+leonefimov	web.me.com	2012-04-13 14:33:55	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	web.me.com-leonefimov.warc.gz	53263227
+standrews.uni	gallery.me.com	2012-04-13 13:11:42	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	gallery.me.com-standrews.uni.warc.gz	12347
+standrews.uni	homepage.mac.com	2012-04-13 13:11:43	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	homepage.mac.com-standrews.uni.warc.gz	7164
+standrews.uni	public.me.com	2012-04-13 13:11:40	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	public.me.com-standrews.uni.warc.gz	1927
+standrews.uni	web.me.com	2012-04-13 13:11:40	archiveteam-mobileme-hero-737x	archiveteam-mobileme-hero-737x-7379.tar	web.me.com-standrews.uni.warc.gz	22533

@@ -1,4 +1,4 @@
-borgersrud	gallery.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3156.tar	gallery.me.com-borgersrud.warc.gz	0
-borgersrud	homepage.mac.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3156.tar	homepage.mac.com-borgersrud.warc.gz	0
-borgersrud	public.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3156.tar	public.me.com-borgersrud.warc.gz	0
-borgersrud	web.me.com		archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3156.tar	web.me.com-borgersrud.warc.gz	0
+borgersrud	gallery.me.com	2012-04-03 00:33:29	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3156.tar	gallery.me.com-borgersrud.warc.gz	3847551476
+borgersrud	homepage.mac.com	2012-04-03 00:33:29	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3156.tar	homepage.mac.com-borgersrud.warc.gz	4929
+borgersrud	public.me.com	2012-04-02 21:11:37	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3156.tar	public.me.com-borgersrud.warc.gz	965389216
+borgersrud	web.me.com	2012-04-02 20:22:50	archiveteam-mobileme-hero-315x	archiveteam-mobileme-hero-315x-3156.tar	web.me.com-borgersrud.warc.gz	79323302

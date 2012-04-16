@@ -1,16 +1,16 @@
-abarg	gallery.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	gallery.me.com-abarg.warc.gz	0
-abarg	homepage.mac.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	homepage.mac.com-abarg.warc.gz	0
-abarg	public.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	public.me.com-abarg.warc.gz	0
-abarg	web.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	web.me.com-abarg.warc.gz	0
-annashepherd	gallery.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	gallery.me.com-annashepherd.warc.gz	0
-annashepherd	homepage.mac.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	homepage.mac.com-annashepherd.warc.gz	0
-annashepherd	public.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	public.me.com-annashepherd.warc.gz	0
-annashepherd	web.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	web.me.com-annashepherd.warc.gz	0
-jaynewt	gallery.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	gallery.me.com-jaynewt.warc.gz	0
-jaynewt	homepage.mac.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	homepage.mac.com-jaynewt.warc.gz	0
-jaynewt	public.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	public.me.com-jaynewt.warc.gz	0
-jaynewt	web.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	web.me.com-jaynewt.warc.gz	0
-laurashibut	gallery.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	gallery.me.com-laurashibut.warc.gz	0
-laurashibut	homepage.mac.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	homepage.mac.com-laurashibut.warc.gz	0
-laurashibut	public.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	public.me.com-laurashibut.warc.gz	0
-laurashibut	web.me.com		archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	web.me.com-laurashibut.warc.gz	0
+abarg	gallery.me.com	2012-04-09 20:16:03	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	gallery.me.com-abarg.warc.gz	8326
+abarg	homepage.mac.com	2012-04-09 20:16:03	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	homepage.mac.com-abarg.warc.gz	5134
+abarg	public.me.com	2012-04-09 20:16:02	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	public.me.com-abarg.warc.gz	1901
+abarg	web.me.com	2012-04-09 20:16:02	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	web.me.com-abarg.warc.gz	17669
+annashepherd	gallery.me.com	2012-04-09 18:55:00	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	gallery.me.com-annashepherd.warc.gz	522895320
+annashepherd	homepage.mac.com	2012-04-09 18:55:01	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	homepage.mac.com-annashepherd.warc.gz	4905
+annashepherd	public.me.com	2012-04-09 18:31:08	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	public.me.com-annashepherd.warc.gz	1923
+annashepherd	web.me.com	2012-04-09 18:30:38	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	web.me.com-annashepherd.warc.gz	385095697
+jaynewt	gallery.me.com	2012-04-09 20:15:57	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	gallery.me.com-jaynewt.warc.gz	5351
+jaynewt	homepage.mac.com	2012-04-09 20:15:58	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	homepage.mac.com-jaynewt.warc.gz	4895
+jaynewt	public.me.com	2012-04-09 20:15:55	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	public.me.com-jaynewt.warc.gz	1918
+jaynewt	web.me.com	2012-04-09 20:15:55	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	web.me.com-jaynewt.warc.gz	30863170
+laurashibut	gallery.me.com	2012-04-09 23:23:45	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	gallery.me.com-laurashibut.warc.gz	3325221980
+laurashibut	homepage.mac.com	2012-04-09 23:23:50	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	homepage.mac.com-laurashibut.warc.gz	4935
+laurashibut	public.me.com	2012-04-09 22:00:21	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	public.me.com-laurashibut.warc.gz	2642049919
+laurashibut	web.me.com	2012-04-09 21:00:40	archiveteam-mobileme-hero-567x	archiveteam-mobileme-hero-567x-5672.tar	web.me.com-laurashibut.warc.gz	129071071

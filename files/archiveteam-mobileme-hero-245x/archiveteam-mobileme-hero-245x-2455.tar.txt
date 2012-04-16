@@ -1,16 +1,16 @@
-blue	gallery.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	gallery.me.com-blue.warc.gz	0
-blue	homepage.mac.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	homepage.mac.com-blue.warc.gz	0
-blue	public.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	public.me.com-blue.warc.gz	0
-blue	web.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	web.me.com-blue.warc.gz	0
-bsimica	gallery.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	gallery.me.com-bsimica.warc.gz	0
-bsimica	homepage.mac.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	homepage.mac.com-bsimica.warc.gz	0
-bsimica	public.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	public.me.com-bsimica.warc.gz	0
-bsimica	web.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	web.me.com-bsimica.warc.gz	0
-league.of.legos	gallery.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	gallery.me.com-league.of.legos.warc.gz	0
-league.of.legos	homepage.mac.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	homepage.mac.com-league.of.legos.warc.gz	0
-league.of.legos	public.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	public.me.com-league.of.legos.warc.gz	0
-league.of.legos	web.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	web.me.com-league.of.legos.warc.gz	0
-samourh	gallery.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	gallery.me.com-samourh.warc.gz	0
-samourh	homepage.mac.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	homepage.mac.com-samourh.warc.gz	0
-samourh	public.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	public.me.com-samourh.warc.gz	0
-samourh	web.me.com		archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	web.me.com-samourh.warc.gz	0
+blue	gallery.me.com	2012-03-31 12:37:27	archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	gallery.me.com-blue.warc.gz	15152947
+blue	homepage.mac.com	2012-03-31 12:37:27	archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	homepage.mac.com-blue.warc.gz	4879
+blue	public.me.com	2012-03-31 12:36:16	archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	public.me.com-blue.warc.gz	15324
+blue	web.me.com	2012-03-31 12:36:14	archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	web.me.com-blue.warc.gz	15973482
+bsimica	gallery.me.com	2012-03-31 17:16:28	archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	gallery.me.com-bsimica.warc.gz	4006788008
+bsimica	homepage.mac.com	2012-03-31 17:16:32	archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	homepage.mac.com-bsimica.warc.gz	36820
+bsimica	public.me.com	2012-03-31 14:16:09	archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	public.me.com-bsimica.warc.gz	547769940
+bsimica	web.me.com	2012-03-31 13:52:04	archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	web.me.com-bsimica.warc.gz	206180037
+league.of.legos	gallery.me.com	2012-03-31 12:27:01	archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	gallery.me.com-league.of.legos.warc.gz	862151669
+league.of.legos	homepage.mac.com	2012-03-31 12:27:01	archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	homepage.mac.com-league.of.legos.warc.gz	4945
+league.of.legos	public.me.com	2012-03-31 11:48:42	archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	public.me.com-league.of.legos.warc.gz	1931
+league.of.legos	web.me.com	2012-03-31 11:48:41	archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	web.me.com-league.of.legos.warc.gz	560604423
+samourh	gallery.me.com	2012-03-31 12:32:24	archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	gallery.me.com-samourh.warc.gz	78706699
+samourh	homepage.mac.com	2012-03-31 12:32:25	archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	homepage.mac.com-samourh.warc.gz	4891
+samourh	public.me.com	2012-03-31 12:29:52	archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	public.me.com-samourh.warc.gz	1915
+samourh	web.me.com	2012-03-31 12:29:52	archiveteam-mobileme-hero-245x	archiveteam-mobileme-hero-245x-2455.tar	web.me.com-samourh.warc.gz	27838555

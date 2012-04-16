@@ -1,8 +1,8 @@
-joeljohns	gallery.me.com		archiveteam-mobileme-hero-229x	archiveteam-mobileme-hero-229x-2292.tar	gallery.me.com-joeljohns.warc.gz	0
-joeljohns	homepage.mac.com		archiveteam-mobileme-hero-229x	archiveteam-mobileme-hero-229x-2292.tar	homepage.mac.com-joeljohns.warc.gz	0
-joeljohns	public.me.com		archiveteam-mobileme-hero-229x	archiveteam-mobileme-hero-229x-2292.tar	public.me.com-joeljohns.warc.gz	0
-joeljohns	web.me.com		archiveteam-mobileme-hero-229x	archiveteam-mobileme-hero-229x-2292.tar	web.me.com-joeljohns.warc.gz	0
-sandrainspire	gallery.me.com		archiveteam-mobileme-hero-229x	archiveteam-mobileme-hero-229x-2292.tar	gallery.me.com-sandrainspire.warc.gz	0
-sandrainspire	homepage.mac.com		archiveteam-mobileme-hero-229x	archiveteam-mobileme-hero-229x-2292.tar	homepage.mac.com-sandrainspire.warc.gz	0
-sandrainspire	public.me.com		archiveteam-mobileme-hero-229x	archiveteam-mobileme-hero-229x-2292.tar	public.me.com-sandrainspire.warc.gz	0
-sandrainspire	web.me.com		archiveteam-mobileme-hero-229x	archiveteam-mobileme-hero-229x-2292.tar	web.me.com-sandrainspire.warc.gz	0
+joeljohns	gallery.me.com	2012-03-31 04:06:02	archiveteam-mobileme-hero-229x	archiveteam-mobileme-hero-229x-2292.tar	gallery.me.com-joeljohns.warc.gz	1007626370
+joeljohns	homepage.mac.com	2012-03-31 04:06:03	archiveteam-mobileme-hero-229x	archiveteam-mobileme-hero-229x-2292.tar	homepage.mac.com-joeljohns.warc.gz	7882
+joeljohns	public.me.com	2012-03-31 03:20:47	archiveteam-mobileme-hero-229x	archiveteam-mobileme-hero-229x-2292.tar	public.me.com-joeljohns.warc.gz	6704041705
+joeljohns	web.me.com	2012-03-31 00:35:32	archiveteam-mobileme-hero-229x	archiveteam-mobileme-hero-229x-2292.tar	web.me.com-joeljohns.warc.gz	35941513
+sandrainspire	gallery.me.com	2012-03-31 00:19:31	archiveteam-mobileme-hero-229x	archiveteam-mobileme-hero-229x-2292.tar	gallery.me.com-sandrainspire.warc.gz	126176434
+sandrainspire	homepage.mac.com	2012-03-31 00:19:32	archiveteam-mobileme-hero-229x	archiveteam-mobileme-hero-229x-2292.tar	homepage.mac.com-sandrainspire.warc.gz	4910
+sandrainspire	public.me.com	2012-03-31 00:12:57	archiveteam-mobileme-hero-229x	archiveteam-mobileme-hero-229x-2292.tar	public.me.com-sandrainspire.warc.gz	216341856
+sandrainspire	web.me.com	2012-03-30 23:57:11	archiveteam-mobileme-hero-229x	archiveteam-mobileme-hero-229x-2292.tar	web.me.com-sandrainspire.warc.gz	51361255

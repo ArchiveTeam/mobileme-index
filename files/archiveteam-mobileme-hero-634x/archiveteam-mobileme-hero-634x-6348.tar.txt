@@ -1,16 +1,16 @@
-cola.music	gallery.me.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	gallery.me.com-cola.music.warc.gz	0
-cola.music	homepage.mac.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	homepage.mac.com-cola.music.warc.gz	0
-cola.music	public.me.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	public.me.com-cola.music.warc.gz	0
-cola.music	web.me.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	web.me.com-cola.music.warc.gz	0
-dtsteele	gallery.me.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	gallery.me.com-dtsteele.warc.gz	0
-dtsteele	homepage.mac.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	homepage.mac.com-dtsteele.warc.gz	0
-dtsteele	public.me.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	public.me.com-dtsteele.warc.gz	0
-dtsteele	web.me.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	web.me.com-dtsteele.warc.gz	0
-macbus	gallery.me.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	gallery.me.com-macbus.warc.gz	0
-macbus	homepage.mac.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	homepage.mac.com-macbus.warc.gz	0
-macbus	public.me.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	public.me.com-macbus.warc.gz	0
-macbus	web.me.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	web.me.com-macbus.warc.gz	0
-vcas1	gallery.me.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	gallery.me.com-vcas1.warc.gz	0
-vcas1	homepage.mac.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	homepage.mac.com-vcas1.warc.gz	0
-vcas1	public.me.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	public.me.com-vcas1.warc.gz	0
-vcas1	web.me.com		archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	web.me.com-vcas1.warc.gz	0
+cola.music	gallery.me.com	2012-04-11 10:40:52	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	gallery.me.com-cola.music.warc.gz	666550043
+cola.music	homepage.mac.com	2012-04-11 10:40:54	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	homepage.mac.com-cola.music.warc.gz	70290
+cola.music	public.me.com	2012-04-11 10:26:19	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	public.me.com-cola.music.warc.gz	1856498997
+cola.music	web.me.com	2012-04-11 10:09:25	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	web.me.com-cola.music.warc.gz	201488263
+dtsteele	gallery.me.com	2012-04-11 11:34:01	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	gallery.me.com-dtsteele.warc.gz	1477188720
+dtsteele	homepage.mac.com	2012-04-11 11:35:21	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	homepage.mac.com-dtsteele.warc.gz	7858221
+dtsteele	public.me.com	2012-04-11 11:03:13	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	public.me.com-dtsteele.warc.gz	217485881
+dtsteele	web.me.com	2012-04-11 10:59:14	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	web.me.com-dtsteele.warc.gz	155421742
+macbus	gallery.me.com	2012-04-11 09:59:37	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	gallery.me.com-macbus.warc.gz	78675502
+macbus	homepage.mac.com	2012-04-11 09:59:37	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	homepage.mac.com-macbus.warc.gz	4902
+macbus	public.me.com	2012-04-11 09:58:11	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	public.me.com-macbus.warc.gz	7635178
+macbus	web.me.com	2012-04-11 09:57:56	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	web.me.com-macbus.warc.gz	80846729
+vcas1	gallery.me.com	2012-04-11 10:43:52	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	gallery.me.com-vcas1.warc.gz	74104109
+vcas1	homepage.mac.com	2012-04-11 10:43:52	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	homepage.mac.com-vcas1.warc.gz	4895
+vcas1	public.me.com	2012-04-11 10:41:53	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	public.me.com-vcas1.warc.gz	1910
+vcas1	web.me.com	2012-04-11 10:41:52	archiveteam-mobileme-hero-634x	archiveteam-mobileme-hero-634x-6348.tar	web.me.com-vcas1.warc.gz	4554572

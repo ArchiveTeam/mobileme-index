@@ -1,8 +1,8 @@
-banehood	gallery.me.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5476.tar	gallery.me.com-banehood.warc.gz	0
-banehood	homepage.mac.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5476.tar	homepage.mac.com-banehood.warc.gz	0
-banehood	public.me.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5476.tar	public.me.com-banehood.warc.gz	0
-banehood	web.me.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5476.tar	web.me.com-banehood.warc.gz	0
-dehenderson	gallery.me.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5476.tar	gallery.me.com-dehenderson.warc.gz	0
-dehenderson	homepage.mac.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5476.tar	homepage.mac.com-dehenderson.warc.gz	0
-dehenderson	public.me.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5476.tar	public.me.com-dehenderson.warc.gz	0
-dehenderson	web.me.com		archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5476.tar	web.me.com-dehenderson.warc.gz	0
+banehood	gallery.me.com	2012-04-09 10:41:40	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5476.tar	gallery.me.com-banehood.warc.gz	4276
+banehood	homepage.mac.com	2012-04-09 10:41:40	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5476.tar	homepage.mac.com-banehood.warc.gz	4914
+banehood	public.me.com	2012-04-09 10:41:39	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5476.tar	public.me.com-banehood.warc.gz	1918
+banehood	web.me.com	2012-04-09 10:41:38	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5476.tar	web.me.com-banehood.warc.gz	5400747
+dehenderson	gallery.me.com	2012-04-09 12:25:11	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5476.tar	gallery.me.com-dehenderson.warc.gz	646508179
+dehenderson	homepage.mac.com	2012-04-09 12:25:12	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5476.tar	homepage.mac.com-dehenderson.warc.gz	4922
+dehenderson	public.me.com	2012-04-09 12:20:21	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5476.tar	public.me.com-dehenderson.warc.gz	3951114507
+dehenderson	web.me.com	2012-04-09 10:41:57	archiveteam-mobileme-hero-547x	archiveteam-mobileme-hero-547x-5476.tar	web.me.com-dehenderson.warc.gz	364037

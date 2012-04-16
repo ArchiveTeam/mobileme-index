@@ -1,8 +1,8 @@
-craig.fraserdesign	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3237.tar	gallery.me.com-craig.fraserdesign.warc.gz	0
-craig.fraserdesign	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3237.tar	homepage.mac.com-craig.fraserdesign.warc.gz	0
-craig.fraserdesign	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3237.tar	public.me.com-craig.fraserdesign.warc.gz	0
-craig.fraserdesign	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3237.tar	web.me.com-craig.fraserdesign.warc.gz	0
-jacquigee	gallery.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3237.tar	gallery.me.com-jacquigee.warc.gz	0
-jacquigee	homepage.mac.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3237.tar	homepage.mac.com-jacquigee.warc.gz	0
-jacquigee	public.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3237.tar	public.me.com-jacquigee.warc.gz	0
-jacquigee	web.me.com		archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3237.tar	web.me.com-jacquigee.warc.gz	0
+craig.fraserdesign	gallery.me.com	2012-04-03 03:58:53	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3237.tar	gallery.me.com-craig.fraserdesign.warc.gz	3347883376
+craig.fraserdesign	homepage.mac.com	2012-04-03 03:58:56	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3237.tar	homepage.mac.com-craig.fraserdesign.warc.gz	58459
+craig.fraserdesign	public.me.com	2012-04-03 03:27:48	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3237.tar	public.me.com-craig.fraserdesign.warc.gz	244297521
+craig.fraserdesign	web.me.com	2012-04-03 03:22:07	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3237.tar	web.me.com-craig.fraserdesign.warc.gz	251061645
+jacquigee	gallery.me.com	2012-04-03 03:08:57	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3237.tar	gallery.me.com-jacquigee.warc.gz	59336876
+jacquigee	homepage.mac.com	2012-04-03 03:08:58	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3237.tar	homepage.mac.com-jacquigee.warc.gz	4920
+jacquigee	public.me.com	2012-04-03 03:08:14	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3237.tar	public.me.com-jacquigee.warc.gz	1921
+jacquigee	web.me.com	2012-04-03 03:08:13	archiveteam-mobileme-hero-323x	archiveteam-mobileme-hero-323x-3237.tar	web.me.com-jacquigee.warc.gz	1355924312

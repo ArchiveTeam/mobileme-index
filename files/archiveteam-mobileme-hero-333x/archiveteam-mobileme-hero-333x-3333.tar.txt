@@ -1,4 +1,4 @@
-hawk4	gallery.me.com		archiveteam-mobileme-hero-333x	archiveteam-mobileme-hero-333x-3333.tar	gallery.me.com-hawk4.warc.gz	0
-hawk4	homepage.mac.com		archiveteam-mobileme-hero-333x	archiveteam-mobileme-hero-333x-3333.tar	homepage.mac.com-hawk4.warc.gz	0
-hawk4	public.me.com		archiveteam-mobileme-hero-333x	archiveteam-mobileme-hero-333x-3333.tar	public.me.com-hawk4.warc.gz	0
-hawk4	web.me.com		archiveteam-mobileme-hero-333x	archiveteam-mobileme-hero-333x-3333.tar	web.me.com-hawk4.warc.gz	0
+hawk4	gallery.me.com	2012-04-03 08:29:27	archiveteam-mobileme-hero-333x	archiveteam-mobileme-hero-333x-3333.tar	gallery.me.com-hawk4.warc.gz	158531
+hawk4	homepage.mac.com	2012-04-03 08:34:39	archiveteam-mobileme-hero-333x	archiveteam-mobileme-hero-333x-3333.tar	homepage.mac.com-hawk4.warc.gz	299571508
+hawk4	public.me.com	2012-04-03 08:29:25	archiveteam-mobileme-hero-333x	archiveteam-mobileme-hero-333x-3333.tar	public.me.com-hawk4.warc.gz	4570092398
+hawk4	web.me.com	2012-04-03 07:04:04	archiveteam-mobileme-hero-333x	archiveteam-mobileme-hero-333x-3333.tar	web.me.com-hawk4.warc.gz	210987

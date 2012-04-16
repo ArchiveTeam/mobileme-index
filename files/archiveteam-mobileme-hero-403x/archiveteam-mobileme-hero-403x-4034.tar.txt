@@ -1,12 +1,12 @@
-c_lincoln	gallery.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	gallery.me.com-c_lincoln.warc.gz	0
-c_lincoln	homepage.mac.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	homepage.mac.com-c_lincoln.warc.gz	0
-c_lincoln	public.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	public.me.com-c_lincoln.warc.gz	0
-c_lincoln	web.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	web.me.com-c_lincoln.warc.gz	0
-paul.anderson	gallery.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	gallery.me.com-paul.anderson.warc.gz	0
-paul.anderson	homepage.mac.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	homepage.mac.com-paul.anderson.warc.gz	0
-paul.anderson	public.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	public.me.com-paul.anderson.warc.gz	0
-paul.anderson	web.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	web.me.com-paul.anderson.warc.gz	0
-tammyjprust	gallery.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	gallery.me.com-tammyjprust.warc.gz	0
-tammyjprust	homepage.mac.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	homepage.mac.com-tammyjprust.warc.gz	0
-tammyjprust	public.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	public.me.com-tammyjprust.warc.gz	0
-tammyjprust	web.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	web.me.com-tammyjprust.warc.gz	0
+c_lincoln	gallery.me.com	2012-04-05 01:51:31	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	gallery.me.com-c_lincoln.warc.gz	57261594
+c_lincoln	homepage.mac.com	2012-04-05 01:51:31	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	homepage.mac.com-c_lincoln.warc.gz	4919
+c_lincoln	public.me.com	2012-04-05 01:50:43	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	public.me.com-c_lincoln.warc.gz	428246109
+c_lincoln	web.me.com	2012-04-05 01:39:57	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	web.me.com-c_lincoln.warc.gz	2964377150
+paul.anderson	gallery.me.com	2012-04-05 00:31:41	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	gallery.me.com-paul.anderson.warc.gz	12318
+paul.anderson	homepage.mac.com	2012-04-05 00:31:42	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	homepage.mac.com-paul.anderson.warc.gz	7153
+paul.anderson	public.me.com	2012-04-05 00:31:40	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	public.me.com-paul.anderson.warc.gz	1920
+paul.anderson	web.me.com	2012-04-05 00:31:40	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	web.me.com-paul.anderson.warc.gz	22473
+tammyjprust	gallery.me.com	2012-04-05 01:05:48	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	gallery.me.com-tammyjprust.warc.gz	914174603
+tammyjprust	homepage.mac.com	2012-04-05 01:05:48	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	homepage.mac.com-tammyjprust.warc.gz	4909
+tammyjprust	public.me.com	2012-04-05 00:59:53	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	public.me.com-tammyjprust.warc.gz	1930
+tammyjprust	web.me.com	2012-04-05 00:59:53	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4034.tar	web.me.com-tammyjprust.warc.gz	183384264

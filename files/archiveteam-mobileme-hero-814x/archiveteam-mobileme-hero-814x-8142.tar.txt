@@ -1,0 +1,16 @@
+brutesentiment	gallery.me.com	2012-04-14 23:50:29	archiveteam-mobileme-hero-814x	archiveteam-mobileme-hero-814x-8142.tar	gallery.me.com-brutesentiment.warc.gz	3352827823
+brutesentiment	homepage.mac.com	2012-04-14 23:50:29	archiveteam-mobileme-hero-814x	archiveteam-mobileme-hero-814x-8142.tar	homepage.mac.com-brutesentiment.warc.gz	4935
+brutesentiment	public.me.com	2012-04-14 21:32:54	archiveteam-mobileme-hero-814x	archiveteam-mobileme-hero-814x-8142.tar	public.me.com-brutesentiment.warc.gz	1157293091
+brutesentiment	web.me.com	2012-04-14 21:12:04	archiveteam-mobileme-hero-814x	archiveteam-mobileme-hero-814x-8142.tar	web.me.com-brutesentiment.warc.gz	129161710
+qnational	gallery.me.com	2012-04-14 20:54:01	archiveteam-mobileme-hero-814x	archiveteam-mobileme-hero-814x-8142.tar	gallery.me.com-qnational.warc.gz	6700
+qnational	homepage.mac.com	2012-04-14 20:54:02	archiveteam-mobileme-hero-814x	archiveteam-mobileme-hero-814x-8142.tar	homepage.mac.com-qnational.warc.gz	4900
+qnational	public.me.com	2012-04-14 20:54:00	archiveteam-mobileme-hero-814x	archiveteam-mobileme-hero-814x-8142.tar	public.me.com-qnational.warc.gz	1919
+qnational	web.me.com	2012-04-14 20:53:45	archiveteam-mobileme-hero-814x	archiveteam-mobileme-hero-814x-8142.tar	web.me.com-qnational.warc.gz	159033470
+rebeccainoxford	gallery.me.com	2012-04-14 20:29:30	archiveteam-mobileme-hero-814x	archiveteam-mobileme-hero-814x-8142.tar	gallery.me.com-rebeccainoxford.warc.gz	725715763
+rebeccainoxford	homepage.mac.com	2012-04-14 20:29:30	archiveteam-mobileme-hero-814x	archiveteam-mobileme-hero-814x-8142.tar	homepage.mac.com-rebeccainoxford.warc.gz	4941
+rebeccainoxford	public.me.com	2012-04-14 19:50:54	archiveteam-mobileme-hero-814x	archiveteam-mobileme-hero-814x-8142.tar	public.me.com-rebeccainoxford.warc.gz	37143512
+rebeccainoxford	web.me.com	2012-04-14 19:50:32	archiveteam-mobileme-hero-814x	archiveteam-mobileme-hero-814x-8142.tar	web.me.com-rebeccainoxford.warc.gz	129941903
+ykanou	gallery.me.com	2012-04-14 19:30:36	archiveteam-mobileme-hero-814x	archiveteam-mobileme-hero-814x-8142.tar	gallery.me.com-ykanou.warc.gz	5007
+ykanou	homepage.mac.com	2012-04-14 19:30:36	archiveteam-mobileme-hero-814x	archiveteam-mobileme-hero-814x-8142.tar	homepage.mac.com-ykanou.warc.gz	4903
+ykanou	public.me.com	2012-04-14 19:30:34	archiveteam-mobileme-hero-814x	archiveteam-mobileme-hero-814x-8142.tar	public.me.com-ykanou.warc.gz	3426
+ykanou	web.me.com	2012-04-14 19:30:32	archiveteam-mobileme-hero-814x	archiveteam-mobileme-hero-814x-8142.tar	web.me.com-ykanou.warc.gz	40874430

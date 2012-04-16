@@ -1,8 +1,8 @@
-homestatus	gallery.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4744.tar	gallery.me.com-homestatus.warc.gz	0
-homestatus	homepage.mac.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4744.tar	homepage.mac.com-homestatus.warc.gz	0
-homestatus	public.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4744.tar	public.me.com-homestatus.warc.gz	0
-homestatus	web.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4744.tar	web.me.com-homestatus.warc.gz	0
-mandiandjason	gallery.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4744.tar	gallery.me.com-mandiandjason.warc.gz	0
-mandiandjason	homepage.mac.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4744.tar	homepage.mac.com-mandiandjason.warc.gz	0
-mandiandjason	public.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4744.tar	public.me.com-mandiandjason.warc.gz	0
-mandiandjason	web.me.com		archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4744.tar	web.me.com-mandiandjason.warc.gz	0
+homestatus	gallery.me.com	2012-04-06 09:30:18	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4744.tar	gallery.me.com-homestatus.warc.gz	685722272
+homestatus	homepage.mac.com	2012-04-06 09:31:21	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4744.tar	homepage.mac.com-homestatus.warc.gz	824286
+homestatus	public.me.com	2012-04-06 09:09:40	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4744.tar	public.me.com-homestatus.warc.gz	3391
+homestatus	web.me.com	2012-04-06 09:09:39	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4744.tar	web.me.com-homestatus.warc.gz	56634877
+mandiandjason	gallery.me.com	2012-04-06 17:58:24	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4744.tar	gallery.me.com-mandiandjason.warc.gz	231211705
+mandiandjason	homepage.mac.com	2012-04-06 17:58:25	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4744.tar	homepage.mac.com-mandiandjason.warc.gz	4921
+mandiandjason	public.me.com	2012-04-06 17:45:05	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4744.tar	public.me.com-mandiandjason.warc.gz	4779863777
+mandiandjason	web.me.com	2012-04-06 15:32:37	archiveteam-mobileme-hero-474x	archiveteam-mobileme-hero-474x-4744.tar	web.me.com-mandiandjason.warc.gz	1043933114

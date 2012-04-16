@@ -1,16 +1,16 @@
-aromano7	gallery.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	gallery.me.com-aromano7.warc.gz	0
-aromano7	homepage.mac.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	homepage.mac.com-aromano7.warc.gz	0
-aromano7	public.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	public.me.com-aromano7.warc.gz	0
-aromano7	web.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	web.me.com-aromano7.warc.gz	0
-benmclaughlan	gallery.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	gallery.me.com-benmclaughlan.warc.gz	0
-benmclaughlan	homepage.mac.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	homepage.mac.com-benmclaughlan.warc.gz	0
-benmclaughlan	public.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	public.me.com-benmclaughlan.warc.gz	0
-benmclaughlan	web.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	web.me.com-benmclaughlan.warc.gz	0
-grimlore	gallery.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	gallery.me.com-grimlore.warc.gz	0
-grimlore	homepage.mac.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	homepage.mac.com-grimlore.warc.gz	0
-grimlore	public.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	public.me.com-grimlore.warc.gz	0
-grimlore	web.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	web.me.com-grimlore.warc.gz	0
-heirinberg	gallery.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	gallery.me.com-heirinberg.warc.gz	0
-heirinberg	homepage.mac.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	homepage.mac.com-heirinberg.warc.gz	0
-heirinberg	public.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	public.me.com-heirinberg.warc.gz	0
-heirinberg	web.me.com		archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	web.me.com-heirinberg.warc.gz	0
+aromano7	gallery.me.com	2012-04-05 00:28:52	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	gallery.me.com-aromano7.warc.gz	4278
+aromano7	homepage.mac.com	2012-04-05 00:28:52	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	homepage.mac.com-aromano7.warc.gz	4909
+aromano7	public.me.com	2012-04-05 00:28:51	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	public.me.com-aromano7.warc.gz	1913
+aromano7	web.me.com	2012-04-05 00:28:51	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	web.me.com-aromano7.warc.gz	43756576
+benmclaughlan	gallery.me.com	2012-04-05 00:27:04	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	gallery.me.com-benmclaughlan.warc.gz	1017675294
+benmclaughlan	homepage.mac.com	2012-04-05 00:27:05	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	homepage.mac.com-benmclaughlan.warc.gz	4945
+benmclaughlan	public.me.com	2012-04-04 23:50:16	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	public.me.com-benmclaughlan.warc.gz	1926
+benmclaughlan	web.me.com	2012-04-04 23:50:09	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	web.me.com-benmclaughlan.warc.gz	576023815
+grimlore	gallery.me.com	2012-04-05 01:48:47	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	gallery.me.com-grimlore.warc.gz	6503
+grimlore	homepage.mac.com	2012-04-05 01:48:47	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	homepage.mac.com-grimlore.warc.gz	4895
+grimlore	public.me.com	2012-04-05 01:48:45	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	public.me.com-grimlore.warc.gz	1919
+grimlore	web.me.com	2012-04-05 01:48:40	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	web.me.com-grimlore.warc.gz	2205950535
+heirinberg	gallery.me.com	2012-04-05 00:43:52	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	gallery.me.com-heirinberg.warc.gz	27728001
+heirinberg	homepage.mac.com	2012-04-05 00:43:54	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	homepage.mac.com-heirinberg.warc.gz	36917
+heirinberg	public.me.com	2012-04-05 00:43:44	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	public.me.com-heirinberg.warc.gz	35811628
+heirinberg	web.me.com	2012-04-05 00:41:57	archiveteam-mobileme-hero-403x	archiveteam-mobileme-hero-403x-4033.tar	web.me.com-heirinberg.warc.gz	530719758

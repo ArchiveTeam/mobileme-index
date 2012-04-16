@@ -1,12 +1,12 @@
-irko123	gallery.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	gallery.me.com-irko123.warc.gz	0
-irko123	homepage.mac.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	homepage.mac.com-irko123.warc.gz	0
-irko123	public.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	public.me.com-irko123.warc.gz	0
-irko123	web.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	web.me.com-irko123.warc.gz	0
-jason.normandin	gallery.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	gallery.me.com-jason.normandin.warc.gz	0
-jason.normandin	homepage.mac.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	homepage.mac.com-jason.normandin.warc.gz	0
-jason.normandin	public.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	public.me.com-jason.normandin.warc.gz	0
-jason.normandin	web.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	web.me.com-jason.normandin.warc.gz	0
-manumatt	gallery.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	gallery.me.com-manumatt.warc.gz	0
-manumatt	homepage.mac.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	homepage.mac.com-manumatt.warc.gz	0
-manumatt	public.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	public.me.com-manumatt.warc.gz	0
-manumatt	web.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	web.me.com-manumatt.warc.gz	0
+irko123	gallery.me.com	2012-04-03 04:14:28	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	gallery.me.com-irko123.warc.gz	10023
+irko123	homepage.mac.com	2012-04-03 04:14:28	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	homepage.mac.com-irko123.warc.gz	4913
+irko123	public.me.com	2012-04-03 04:14:25	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	public.me.com-irko123.warc.gz	42545489
+irko123	web.me.com	2012-04-03 04:11:25	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	web.me.com-irko123.warc.gz	1191889811
+jason.normandin	gallery.me.com	2012-04-03 01:28:41	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	gallery.me.com-jason.normandin.warc.gz	3844939543
+jason.normandin	homepage.mac.com	2012-04-03 01:28:41	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	homepage.mac.com-jason.normandin.warc.gz	4937
+jason.normandin	public.me.com	2012-04-03 00:40:51	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	public.me.com-jason.normandin.warc.gz	3129304
+jason.normandin	web.me.com	2012-04-03 00:40:32	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	web.me.com-jason.normandin.warc.gz	141216859
+manumatt	gallery.me.com	2012-04-02 23:56:53	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	gallery.me.com-manumatt.warc.gz	29290782
+manumatt	homepage.mac.com	2012-04-02 23:56:54	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	homepage.mac.com-manumatt.warc.gz	4893
+manumatt	public.me.com	2012-04-02 23:55:59	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	public.me.com-manumatt.warc.gz	1918
+manumatt	web.me.com	2012-04-02 23:55:58	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3242.tar	web.me.com-manumatt.warc.gz	119786729

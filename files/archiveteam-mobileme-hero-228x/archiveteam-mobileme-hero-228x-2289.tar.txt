@@ -1,12 +1,12 @@
-bradleyjoyce	gallery.me.com		archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	gallery.me.com-bradleyjoyce.warc.gz	0
-bradleyjoyce	homepage.mac.com		archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	homepage.mac.com-bradleyjoyce.warc.gz	0
-bradleyjoyce	public.me.com		archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	public.me.com-bradleyjoyce.warc.gz	0
-bradleyjoyce	web.me.com		archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	web.me.com-bradleyjoyce.warc.gz	0
-mwittwer	gallery.me.com		archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	gallery.me.com-mwittwer.warc.gz	0
-mwittwer	homepage.mac.com		archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	homepage.mac.com-mwittwer.warc.gz	0
-mwittwer	public.me.com		archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	public.me.com-mwittwer.warc.gz	0
-mwittwer	web.me.com		archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	web.me.com-mwittwer.warc.gz	0
-tsykes	gallery.me.com		archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	gallery.me.com-tsykes.warc.gz	0
-tsykes	homepage.mac.com		archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	homepage.mac.com-tsykes.warc.gz	0
-tsykes	public.me.com		archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	public.me.com-tsykes.warc.gz	0
-tsykes	web.me.com		archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	web.me.com-tsykes.warc.gz	0
+bradleyjoyce	gallery.me.com	2012-03-31 03:19:31	archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	gallery.me.com-bradleyjoyce.warc.gz	1191181793
+bradleyjoyce	homepage.mac.com	2012-03-31 03:19:31	archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	homepage.mac.com-bradleyjoyce.warc.gz	8968
+bradleyjoyce	public.me.com	2012-03-31 03:05:32	archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	public.me.com-bradleyjoyce.warc.gz	3459
+bradleyjoyce	web.me.com	2012-03-31 03:05:24	archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	web.me.com-bradleyjoyce.warc.gz	254781221
+mwittwer	gallery.me.com	2012-03-31 04:03:53	archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	gallery.me.com-mwittwer.warc.gz	3031068536
+mwittwer	homepage.mac.com	2012-03-31 04:03:53	archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	homepage.mac.com-mwittwer.warc.gz	4921
+mwittwer	public.me.com	2012-03-31 03:44:10	archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	public.me.com-mwittwer.warc.gz	151144903
+mwittwer	web.me.com	2012-03-31 03:42:13	archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	web.me.com-mwittwer.warc.gz	119002017
+tsykes	gallery.me.com	2012-03-31 03:38:03	archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	gallery.me.com-tsykes.warc.gz	199574246
+tsykes	homepage.mac.com	2012-03-31 03:38:04	archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	homepage.mac.com-tsykes.warc.gz	4914
+tsykes	public.me.com	2012-03-31 03:36:33	archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	public.me.com-tsykes.warc.gz	1519946611
+tsykes	web.me.com	2012-03-31 03:20:20	archiveteam-mobileme-hero-228x	archiveteam-mobileme-hero-228x-2289.tar	web.me.com-tsykes.warc.gz	8209600

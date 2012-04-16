@@ -1,16 +1,16 @@
-igrade5s	gallery.me.com		archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	gallery.me.com-igrade5s.warc.gz	0
-igrade5s	homepage.mac.com		archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	homepage.mac.com-igrade5s.warc.gz	0
-igrade5s	public.me.com		archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	public.me.com-igrade5s.warc.gz	0
-igrade5s	web.me.com		archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	web.me.com-igrade5s.warc.gz	0
-mmycyk	gallery.me.com		archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	gallery.me.com-mmycyk.warc.gz	0
-mmycyk	homepage.mac.com		archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	homepage.mac.com-mmycyk.warc.gz	0
-mmycyk	public.me.com		archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	public.me.com-mmycyk.warc.gz	0
-mmycyk	web.me.com		archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	web.me.com-mmycyk.warc.gz	0
-randyloveless	gallery.me.com		archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	gallery.me.com-randyloveless.warc.gz	0
-randyloveless	homepage.mac.com		archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	homepage.mac.com-randyloveless.warc.gz	0
-randyloveless	public.me.com		archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	public.me.com-randyloveless.warc.gz	0
-randyloveless	web.me.com		archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	web.me.com-randyloveless.warc.gz	0
-troykurtz	gallery.me.com		archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	gallery.me.com-troykurtz.warc.gz	0
-troykurtz	homepage.mac.com		archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	homepage.mac.com-troykurtz.warc.gz	0
-troykurtz	public.me.com		archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	public.me.com-troykurtz.warc.gz	0
-troykurtz	web.me.com		archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	web.me.com-troykurtz.warc.gz	0
+igrade5s	gallery.me.com	2012-04-12 07:54:53	archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	gallery.me.com-igrade5s.warc.gz	8334
+igrade5s	homepage.mac.com	2012-04-12 07:54:53	archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	homepage.mac.com-igrade5s.warc.gz	5164
+igrade5s	public.me.com	2012-04-12 07:54:52	archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	public.me.com-igrade5s.warc.gz	1915
+igrade5s	web.me.com	2012-04-12 07:54:52	archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	web.me.com-igrade5s.warc.gz	17689
+mmycyk	gallery.me.com	2012-04-12 07:54:50	archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	gallery.me.com-mmycyk.warc.gz	6472874
+mmycyk	homepage.mac.com	2012-04-12 07:54:50	archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	homepage.mac.com-mmycyk.warc.gz	4902
+mmycyk	public.me.com	2012-04-12 07:54:44	archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	public.me.com-mmycyk.warc.gz	3972
+mmycyk	web.me.com	2012-04-12 07:54:42	archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	web.me.com-mmycyk.warc.gz	1018606815
+randyloveless	gallery.me.com	2012-04-12 09:21:47	archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	gallery.me.com-randyloveless.warc.gz	1936444883
+randyloveless	homepage.mac.com	2012-04-12 09:21:48	archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	homepage.mac.com-randyloveless.warc.gz	4928
+randyloveless	public.me.com	2012-04-12 08:51:28	archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	public.me.com-randyloveless.warc.gz	1930
+randyloveless	web.me.com	2012-04-12 08:50:53	archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	web.me.com-randyloveless.warc.gz	1854175317
+troykurtz	gallery.me.com	2012-04-12 07:35:41	archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	gallery.me.com-troykurtz.warc.gz	4265
+troykurtz	homepage.mac.com	2012-04-12 07:35:43	archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	homepage.mac.com-troykurtz.warc.gz	49507
+troykurtz	public.me.com	2012-04-12 07:35:41	archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	public.me.com-troykurtz.warc.gz	1920
+troykurtz	web.me.com	2012-04-12 07:35:39	archiveteam-mobileme-hero-670x	archiveteam-mobileme-hero-670x-6703.tar	web.me.com-troykurtz.warc.gz	7442

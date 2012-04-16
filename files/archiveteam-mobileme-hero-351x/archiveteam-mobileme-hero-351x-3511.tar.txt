@@ -1,24 +1,24 @@
-adrianstokes	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	gallery.me.com-adrianstokes.warc.gz	0
-adrianstokes	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	homepage.mac.com-adrianstokes.warc.gz	0
-adrianstokes	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	public.me.com-adrianstokes.warc.gz	0
-adrianstokes	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	web.me.com-adrianstokes.warc.gz	0
-ahostetter	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	gallery.me.com-ahostetter.warc.gz	0
-ahostetter	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	homepage.mac.com-ahostetter.warc.gz	0
-ahostetter	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	public.me.com-ahostetter.warc.gz	0
-ahostetter	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	web.me.com-ahostetter.warc.gz	0
-high_density	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	gallery.me.com-high_density.warc.gz	0
-high_density	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	homepage.mac.com-high_density.warc.gz	0
-high_density	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	public.me.com-high_density.warc.gz	0
-high_density	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	web.me.com-high_density.warc.gz	0
-josuemaldonado	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	gallery.me.com-josuemaldonado.warc.gz	0
-josuemaldonado	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	homepage.mac.com-josuemaldonado.warc.gz	0
-josuemaldonado	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	public.me.com-josuemaldonado.warc.gz	0
-josuemaldonado	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	web.me.com-josuemaldonado.warc.gz	0
-ndemouron	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	gallery.me.com-ndemouron.warc.gz	0
-ndemouron	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	homepage.mac.com-ndemouron.warc.gz	0
-ndemouron	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	public.me.com-ndemouron.warc.gz	0
-ndemouron	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	web.me.com-ndemouron.warc.gz	0
-sei	gallery.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	gallery.me.com-sei.warc.gz	0
-sei	homepage.mac.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	homepage.mac.com-sei.warc.gz	0
-sei	public.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	public.me.com-sei.warc.gz	0
-sei	web.me.com		archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	web.me.com-sei.warc.gz	0
+adrianstokes	gallery.me.com	2012-04-03 15:55:09	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	gallery.me.com-adrianstokes.warc.gz	4306
+adrianstokes	homepage.mac.com	2012-04-03 15:55:09	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	homepage.mac.com-adrianstokes.warc.gz	4915
+adrianstokes	public.me.com	2012-04-03 15:55:08	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	public.me.com-adrianstokes.warc.gz	1925
+adrianstokes	web.me.com	2012-04-03 15:55:07	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	web.me.com-adrianstokes.warc.gz	67819676
+ahostetter	gallery.me.com	2012-04-03 15:50:30	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	gallery.me.com-ahostetter.warc.gz	4277
+ahostetter	homepage.mac.com	2012-04-03 15:50:31	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	homepage.mac.com-ahostetter.warc.gz	4915
+ahostetter	public.me.com	2012-04-03 15:50:29	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	public.me.com-ahostetter.warc.gz	49131240
+ahostetter	web.me.com	2012-04-03 15:49:13	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	web.me.com-ahostetter.warc.gz	32092726
+high_density	gallery.me.com	2012-04-03 15:32:31	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	gallery.me.com-high_density.warc.gz	285204654
+high_density	homepage.mac.com	2012-04-03 15:32:31	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	homepage.mac.com-high_density.warc.gz	4936
+high_density	public.me.com	2012-04-03 15:29:59	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	public.me.com-high_density.warc.gz	1930
+high_density	web.me.com	2012-04-03 15:29:55	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	web.me.com-high_density.warc.gz	1598913348
+josuemaldonado	gallery.me.com	2012-04-03 15:37:32	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	gallery.me.com-josuemaldonado.warc.gz	5200778
+josuemaldonado	homepage.mac.com	2012-04-03 15:37:32	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	homepage.mac.com-josuemaldonado.warc.gz	4925
+josuemaldonado	public.me.com	2012-04-03 15:37:21	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	public.me.com-josuemaldonado.warc.gz	1929
+josuemaldonado	web.me.com	2012-04-03 15:37:18	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	web.me.com-josuemaldonado.warc.gz	13329967
+ndemouron	gallery.me.com	2012-04-03 15:45:20	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	gallery.me.com-ndemouron.warc.gz	93181872
+ndemouron	homepage.mac.com	2012-04-03 15:45:24	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	homepage.mac.com-ndemouron.warc.gz	86291
+ndemouron	public.me.com	2012-04-03 15:42:12	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	public.me.com-ndemouron.warc.gz	1916
+ndemouron	web.me.com	2012-04-03 15:42:11	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	web.me.com-ndemouron.warc.gz	37946422
+sei	gallery.me.com	2012-04-03 17:52:01	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	gallery.me.com-sei.warc.gz	4216372736
+sei	homepage.mac.com	2012-04-03 17:52:02	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	homepage.mac.com-sei.warc.gz	4882
+sei	public.me.com	2012-04-03 16:09:08	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	public.me.com-sei.warc.gz	1900
+sei	web.me.com	2012-04-03 16:09:07	archiveteam-mobileme-hero-351x	archiveteam-mobileme-hero-351x-3511.tar	web.me.com-sei.warc.gz	38610444

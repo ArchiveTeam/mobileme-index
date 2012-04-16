@@ -1,12 +1,12 @@
-m1928	gallery.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	gallery.me.com-m1928.warc.gz	0
-m1928	homepage.mac.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	homepage.mac.com-m1928.warc.gz	0
-m1928	public.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	public.me.com-m1928.warc.gz	0
-m1928	web.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	web.me.com-m1928.warc.gz	0
-polarism	gallery.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	gallery.me.com-polarism.warc.gz	0
-polarism	homepage.mac.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	homepage.mac.com-polarism.warc.gz	0
-polarism	public.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	public.me.com-polarism.warc.gz	0
-polarism	web.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	web.me.com-polarism.warc.gz	0
-treykruse	gallery.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	gallery.me.com-treykruse.warc.gz	0
-treykruse	homepage.mac.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	homepage.mac.com-treykruse.warc.gz	0
-treykruse	public.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	public.me.com-treykruse.warc.gz	0
-treykruse	web.me.com		archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	web.me.com-treykruse.warc.gz	0
+m1928	gallery.me.com	2012-04-03 01:57:22	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	gallery.me.com-m1928.warc.gz	311465115
+m1928	homepage.mac.com	2012-04-03 01:57:28	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	homepage.mac.com-m1928.warc.gz	53474
+m1928	public.me.com	2012-04-03 01:53:56	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	public.me.com-m1928.warc.gz	1913
+m1928	web.me.com	2012-04-03 01:53:56	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	web.me.com-m1928.warc.gz	326944682
+polarism	gallery.me.com	2012-04-03 04:32:29	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	gallery.me.com-polarism.warc.gz	3423801344
+polarism	homepage.mac.com	2012-04-03 04:32:30	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	homepage.mac.com-polarism.warc.gz	6043
+polarism	public.me.com	2012-04-03 03:18:12	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	public.me.com-polarism.warc.gz	811206412
+polarism	web.me.com	2012-04-03 03:05:43	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	web.me.com-polarism.warc.gz	472009220
+treykruse	gallery.me.com	2012-04-03 01:32:06	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	gallery.me.com-treykruse.warc.gz	94387468
+treykruse	homepage.mac.com	2012-04-03 01:32:06	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	homepage.mac.com-treykruse.warc.gz	4906
+treykruse	public.me.com	2012-04-03 01:30:34	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	public.me.com-treykruse.warc.gz	1916
+treykruse	web.me.com	2012-04-03 01:30:33	archiveteam-mobileme-hero-324x	archiveteam-mobileme-hero-324x-3247.tar	web.me.com-treykruse.warc.gz	1441913
