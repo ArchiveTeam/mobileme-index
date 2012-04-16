@@ -52,8 +52,8 @@ def update_file(item_name, file_name)
         files << { :file=>$1,
                    :domain=>$2,
                    :user=>$3,
-                   :datetime=>a_el.parent.next_sibling.next_sibling.text[/^\s+([-0-9]+\s+[:0-9]+)\s([0-9]+)/, 1],
-                   :size=>a_el.parent.next_sibling.next_sibling.next_sibling.text[/^\s+\S+\s+\S+\s([0-9]+)/, 1].to_i }
+                   :datetime=>a_el.parent.next_sibling.next_sibling.text[/([-0-9]+\s+[:0-9]+)/, 1],
+                   :size=>a_el.parent.next_sibling.next_sibling.next_sibling.text[/([0-9]+)/, 1].to_i }
       end
     end
   rescue RestClient::RequestTimeout
@@ -147,7 +147,7 @@ items = Hash[prev_items]
 # download items
 print "Downloading current item list... "
 
-response = RestClient.get("http://archive.org/advancedsearch.php?q=collection%3Aarchiveteam-mobileme%20OR%20identifier%3Aarchiveteam-mobileme-%2A&fl%5B%5D=identifier&fl%5B%5D=oai_updatedate&rows=100000&page=1&output=xml")
+response = RestClient.get("http://archive.org/advancedsearch.php?q=collection%3Aarchiveteam-mobileme%20OR%20identifier%3Amobileme-hero-%2A%20OR%20identifier%3Aarchiveteam-mobileme-%2A&fl%5B%5D=identifier&fl%5B%5D=oai_updatedate&rows=100000&page=1&output=xml")
 items_xml = Nokogiri::XML(response)
 latest_items = items_xml.xpath("//doc/str[@name='identifier']").map do |el|
   updatedates = el.xpath("../arr[@name='oai_updatedate']/date").map{|e|e.text}
