@@ -1,0 +1,16 @@
+apmi	gallery.me.com	2012-04-17 00:17:56	archiveteam-mobileme-hero-928x	archiveteam-mobileme-hero-928x-9281.tar	gallery.me.com-apmi.warc.gz	3694168201
+apmi	homepage.mac.com	2012-04-17 00:17:57	archiveteam-mobileme-hero-928x	archiveteam-mobileme-hero-928x-9281.tar	homepage.mac.com-apmi.warc.gz	4876
+apmi	public.me.com	2012-04-16 23:44:28	archiveteam-mobileme-hero-928x	archiveteam-mobileme-hero-928x-9281.tar	public.me.com-apmi.warc.gz	26530863
+apmi	web.me.com	2012-04-16 23:43:37	archiveteam-mobileme-hero-928x	archiveteam-mobileme-hero-928x-9281.tar	web.me.com-apmi.warc.gz	373444572
+cxs	gallery.me.com	2012-04-16 23:25:53	archiveteam-mobileme-hero-928x	archiveteam-mobileme-hero-928x-9281.tar	gallery.me.com-cxs.warc.gz	6198
+cxs	homepage.mac.com	2012-04-16 23:25:54	archiveteam-mobileme-hero-928x	archiveteam-mobileme-hero-928x-9281.tar	homepage.mac.com-cxs.warc.gz	4890
+cxs	public.me.com	2012-04-16 23:25:52	archiveteam-mobileme-hero-928x	archiveteam-mobileme-hero-928x-9281.tar	public.me.com-cxs.warc.gz	1901
+cxs	web.me.com	2012-04-16 23:25:52	archiveteam-mobileme-hero-928x	archiveteam-mobileme-hero-928x-9281.tar	web.me.com-cxs.warc.gz	1719296
+elainerogalla	gallery.me.com	2012-04-17 01:10:53	archiveteam-mobileme-hero-928x	archiveteam-mobileme-hero-928x-9281.tar	gallery.me.com-elainerogalla.warc.gz	1635089002
+elainerogalla	homepage.mac.com	2012-04-17 01:10:56	archiveteam-mobileme-hero-928x	archiveteam-mobileme-hero-928x-9281.tar	homepage.mac.com-elainerogalla.warc.gz	4916
+elainerogalla	public.me.com	2012-04-17 00:27:26	archiveteam-mobileme-hero-928x	archiveteam-mobileme-hero-928x-9281.tar	public.me.com-elainerogalla.warc.gz	1918
+elainerogalla	web.me.com	2012-04-17 00:27:24	archiveteam-mobileme-hero-928x	archiveteam-mobileme-hero-928x-9281.tar	web.me.com-elainerogalla.warc.gz	32629922
+jasonrappaport	gallery.me.com	2012-04-16 23:30:20	archiveteam-mobileme-hero-928x	archiveteam-mobileme-hero-928x-9281.tar	gallery.me.com-jasonrappaport.warc.gz	76195877
+jasonrappaport	homepage.mac.com	2012-04-16 23:30:27	archiveteam-mobileme-hero-928x	archiveteam-mobileme-hero-928x-9281.tar	homepage.mac.com-jasonrappaport.warc.gz	117136
+jasonrappaport	public.me.com	2012-04-16 23:26:32	archiveteam-mobileme-hero-928x	archiveteam-mobileme-hero-928x-9281.tar	public.me.com-jasonrappaport.warc.gz	3353
+jasonrappaport	web.me.com	2012-04-16 23:26:31	archiveteam-mobileme-hero-928x	archiveteam-mobileme-hero-928x-9281.tar	web.me.com-jasonrappaport.warc.gz	1254936

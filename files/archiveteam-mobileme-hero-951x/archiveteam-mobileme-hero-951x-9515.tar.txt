@@ -1,0 +1,12 @@
+chopper	gallery.me.com	2012-04-17 05:28:31	archiveteam-mobileme-hero-951x	archiveteam-mobileme-hero-951x-9515.tar	gallery.me.com-chopper.warc.gz	197377646
+chopper	homepage.mac.com	2012-04-17 05:28:31	archiveteam-mobileme-hero-951x	archiveteam-mobileme-hero-951x-9515.tar	homepage.mac.com-chopper.warc.gz	4900
+chopper	public.me.com	2012-04-17 05:14:17	archiveteam-mobileme-hero-951x	archiveteam-mobileme-hero-951x-9515.tar	public.me.com-chopper.warc.gz	1917
+chopper	web.me.com	2012-04-17 05:14:17	archiveteam-mobileme-hero-951x	archiveteam-mobileme-hero-951x-9515.tar	web.me.com-chopper.warc.gz	4751109
+efithian	gallery.me.com	2012-04-17 08:54:27	archiveteam-mobileme-hero-951x	archiveteam-mobileme-hero-951x-9515.tar	gallery.me.com-efithian.warc.gz	4651799824
+efithian	homepage.mac.com	2012-04-17 09:00:01	archiveteam-mobileme-hero-951x	archiveteam-mobileme-hero-951x-9515.tar	homepage.mac.com-efithian.warc.gz	16950624
+efithian	public.me.com	2012-04-17 06:15:44	archiveteam-mobileme-hero-951x	archiveteam-mobileme-hero-951x-9515.tar	public.me.com-efithian.warc.gz	3806
+efithian	web.me.com	2012-04-17 06:15:20	archiveteam-mobileme-hero-951x	archiveteam-mobileme-hero-951x-9515.tar	web.me.com-efithian.warc.gz	217565955
+todobajos	gallery.me.com	2012-04-17 05:11:43	archiveteam-mobileme-hero-951x	archiveteam-mobileme-hero-951x-9515.tar	gallery.me.com-todobajos.warc.gz	271960190
+todobajos	homepage.mac.com	2012-04-17 05:11:44	archiveteam-mobileme-hero-951x	archiveteam-mobileme-hero-951x-9515.tar	homepage.mac.com-todobajos.warc.gz	4905
+todobajos	public.me.com	2012-04-17 04:39:02	archiveteam-mobileme-hero-951x	archiveteam-mobileme-hero-951x-9515.tar	public.me.com-todobajos.warc.gz	1926
+todobajos	web.me.com	2012-04-17 04:38:58	archiveteam-mobileme-hero-951x	archiveteam-mobileme-hero-951x-9515.tar	web.me.com-todobajos.warc.gz	23904409

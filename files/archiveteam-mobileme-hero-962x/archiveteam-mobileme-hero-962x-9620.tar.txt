@@ -1,0 +1,12 @@
+amz3	gallery.me.com	2012-04-17 11:54:21	archiveteam-mobileme-hero-962x	archiveteam-mobileme-hero-962x-9620.tar	gallery.me.com-amz3.warc.gz	401192
+amz3	homepage.mac.com	2012-04-17 11:54:21	archiveteam-mobileme-hero-962x	archiveteam-mobileme-hero-962x-9620.tar	homepage.mac.com-amz3.warc.gz	4901
+amz3	public.me.com	2012-04-17 11:54:18	archiveteam-mobileme-hero-962x	archiveteam-mobileme-hero-962x-9620.tar	public.me.com-amz3.warc.gz	1909
+amz3	web.me.com	2012-04-17 11:54:17	archiveteam-mobileme-hero-962x	archiveteam-mobileme-hero-962x-9620.tar	web.me.com-amz3.warc.gz	104075443
+mrmagruder	gallery.me.com	2012-04-17 13:00:32	archiveteam-mobileme-hero-962x	archiveteam-mobileme-hero-962x-9620.tar	gallery.me.com-mrmagruder.warc.gz	2912038368
+mrmagruder	homepage.mac.com	2012-04-17 13:00:32	archiveteam-mobileme-hero-962x	archiveteam-mobileme-hero-962x-9620.tar	homepage.mac.com-mrmagruder.warc.gz	4922
+mrmagruder	public.me.com	2012-04-17 12:06:23	archiveteam-mobileme-hero-962x	archiveteam-mobileme-hero-962x-9620.tar	public.me.com-mrmagruder.warc.gz	7058369
+mrmagruder	web.me.com	2012-04-17 12:06:12	archiveteam-mobileme-hero-962x	archiveteam-mobileme-hero-962x-9620.tar	web.me.com-mrmagruder.warc.gz	198089120
+rcostain	gallery.me.com	2012-04-17 13:37:33	archiveteam-mobileme-hero-962x	archiveteam-mobileme-hero-962x-9620.tar	gallery.me.com-rcostain.warc.gz	998424962
+rcostain	homepage.mac.com	2012-04-17 13:38:28	archiveteam-mobileme-hero-962x	archiveteam-mobileme-hero-962x-9620.tar	homepage.mac.com-rcostain.warc.gz	1353139
+rcostain	public.me.com	2012-04-17 13:19:00	archiveteam-mobileme-hero-962x	archiveteam-mobileme-hero-962x-9620.tar	public.me.com-rcostain.warc.gz	3216255
+rcostain	web.me.com	2012-04-17 13:18:58	archiveteam-mobileme-hero-962x	archiveteam-mobileme-hero-962x-9620.tar	web.me.com-rcostain.warc.gz	222283185
