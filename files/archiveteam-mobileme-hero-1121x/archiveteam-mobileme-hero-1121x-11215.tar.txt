@@ -1,0 +1,16 @@
+bartx	gallery.me.com	2012-04-21 04:35:42	archiveteam-mobileme-hero-1121x	archiveteam-mobileme-hero-1121x-11215.tar	gallery.me.com-bartx.warc.gz	4238
+bartx	homepage.mac.com	2012-04-21 04:36:00	archiveteam-mobileme-hero-1121x	archiveteam-mobileme-hero-1121x-11215.tar	homepage.mac.com-bartx.warc.gz	175439
+bartx	public.me.com	2012-04-21 04:35:41	archiveteam-mobileme-hero-1121x	archiveteam-mobileme-hero-1121x-11215.tar	public.me.com-bartx.warc.gz	86726302
+bartx	web.me.com	2012-04-21 04:33:47	archiveteam-mobileme-hero-1121x	archiveteam-mobileme-hero-1121x-11215.tar	web.me.com-bartx.warc.gz	5218043
+femont	gallery.me.com	2012-04-21 04:30:21	archiveteam-mobileme-hero-1121x	archiveteam-mobileme-hero-1121x-11215.tar	gallery.me.com-femont.warc.gz	52466
+femont	homepage.mac.com	2012-04-21 04:30:34	archiveteam-mobileme-hero-1121x	archiveteam-mobileme-hero-1121x-11215.tar	homepage.mac.com-femont.warc.gz	147254
+femont	public.me.com	2012-04-21 04:30:19	archiveteam-mobileme-hero-1121x	archiveteam-mobileme-hero-1121x-11215.tar	public.me.com-femont.warc.gz	1911
+femont	web.me.com	2012-04-21 04:30:18	archiveteam-mobileme-hero-1121x	archiveteam-mobileme-hero-1121x-11215.tar	web.me.com-femont.warc.gz	80767913
+judas_loc	gallery.me.com	2012-04-21 07:58:30	archiveteam-mobileme-hero-1121x	archiveteam-mobileme-hero-1121x-11215.tar	gallery.me.com-judas_loc.warc.gz	2568843966
+judas_loc	homepage.mac.com	2012-04-21 07:58:30	archiveteam-mobileme-hero-1121x	archiveteam-mobileme-hero-1121x-11215.tar	homepage.mac.com-judas_loc.warc.gz	4932
+judas_loc	public.me.com	2012-04-21 06:33:17	archiveteam-mobileme-hero-1121x	archiveteam-mobileme-hero-1121x-11215.tar	public.me.com-judas_loc.warc.gz	57973865
+judas_loc	web.me.com	2012-04-21 06:29:12	archiveteam-mobileme-hero-1121x	archiveteam-mobileme-hero-1121x-11215.tar	web.me.com-judas_loc.warc.gz	876147745
+toorude	gallery.me.com	2012-04-21 09:49:27	archiveteam-mobileme-hero-1121x	archiveteam-mobileme-hero-1121x-11215.tar	gallery.me.com-toorude.warc.gz	6014
+toorude	homepage.mac.com	2012-04-21 09:49:27	archiveteam-mobileme-hero-1121x	archiveteam-mobileme-hero-1121x-11215.tar	homepage.mac.com-toorude.warc.gz	4897
+toorude	public.me.com	2012-04-21 09:49:25	archiveteam-mobileme-hero-1121x	archiveteam-mobileme-hero-1121x-11215.tar	public.me.com-toorude.warc.gz	99297187
+toorude	web.me.com	2012-04-21 09:43:35	archiveteam-mobileme-hero-1121x	archiveteam-mobileme-hero-1121x-11215.tar	web.me.com-toorude.warc.gz	780020998

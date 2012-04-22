@@ -1,0 +1,12 @@
+drcarld	gallery.me.com	2012-04-20 02:29:13	archiveteam-mobileme-hero-1062x	archiveteam-mobileme-hero-1062x-10621.tar	gallery.me.com-drcarld.warc.gz	4241
+drcarld	homepage.mac.com	2012-04-20 02:29:14	archiveteam-mobileme-hero-1062x	archiveteam-mobileme-hero-1062x-10621.tar	homepage.mac.com-drcarld.warc.gz	4916
+drcarld	public.me.com	2012-04-20 02:29:12	archiveteam-mobileme-hero-1062x	archiveteam-mobileme-hero-1062x-10621.tar	public.me.com-drcarld.warc.gz	772371469
+drcarld	web.me.com	2012-04-20 02:15:34	archiveteam-mobileme-hero-1062x	archiveteam-mobileme-hero-1062x-10621.tar	web.me.com-drcarld.warc.gz	42009657
+ghbeaulieu	gallery.me.com	2012-04-20 02:58:30	archiveteam-mobileme-hero-1062x	archiveteam-mobileme-hero-1062x-10621.tar	gallery.me.com-ghbeaulieu.warc.gz	2382905846
+ghbeaulieu	homepage.mac.com	2012-04-20 02:58:31	archiveteam-mobileme-hero-1062x	archiveteam-mobileme-hero-1062x-10621.tar	homepage.mac.com-ghbeaulieu.warc.gz	9399
+ghbeaulieu	public.me.com	2012-04-20 02:35:18	archiveteam-mobileme-hero-1062x	archiveteam-mobileme-hero-1062x-10621.tar	public.me.com-ghbeaulieu.warc.gz	15441
+ghbeaulieu	web.me.com	2012-04-20 02:35:16	archiveteam-mobileme-hero-1062x	archiveteam-mobileme-hero-1062x-10621.tar	web.me.com-ghbeaulieu.warc.gz	32974244
+helimedvac86	gallery.me.com	2012-04-20 04:11:18	archiveteam-mobileme-hero-1062x	archiveteam-mobileme-hero-1062x-10621.tar	gallery.me.com-helimedvac86.warc.gz	1254092297
+helimedvac86	homepage.mac.com	2012-04-20 04:11:18	archiveteam-mobileme-hero-1062x	archiveteam-mobileme-hero-1062x-10621.tar	homepage.mac.com-helimedvac86.warc.gz	4922
+helimedvac86	public.me.com	2012-04-20 03:58:33	archiveteam-mobileme-hero-1062x	archiveteam-mobileme-hero-1062x-10621.tar	public.me.com-helimedvac86.warc.gz	1928
+helimedvac86	web.me.com	2012-04-20 03:58:32	archiveteam-mobileme-hero-1062x	archiveteam-mobileme-hero-1062x-10621.tar	web.me.com-helimedvac86.warc.gz	1410752267

@@ -1,0 +1,16 @@
+danphil	gallery.me.com	2012-04-22 07:04:53	archiveteam-mobileme-hero-1170x	archiveteam-mobileme-hero-1170x-11701.tar	gallery.me.com-danphil.warc.gz	8535345242
+danphil	homepage.mac.com	2012-04-22 07:04:53	archiveteam-mobileme-hero-1170x	archiveteam-mobileme-hero-1170x-11701.tar	homepage.mac.com-danphil.warc.gz	4915
+danphil	public.me.com	2012-04-22 01:37:24	archiveteam-mobileme-hero-1170x	archiveteam-mobileme-hero-1170x-11701.tar	public.me.com-danphil.warc.gz	1914
+danphil	web.me.com	2012-04-22 01:37:23	archiveteam-mobileme-hero-1170x	archiveteam-mobileme-hero-1170x-11701.tar	web.me.com-danphil.warc.gz	1204671731
+digitalocean	gallery.me.com	2012-04-21 23:31:16	archiveteam-mobileme-hero-1170x	archiveteam-mobileme-hero-1170x-11701.tar	gallery.me.com-digitalocean.warc.gz	1703436
+digitalocean	homepage.mac.com	2012-04-21 23:31:16	archiveteam-mobileme-hero-1170x	archiveteam-mobileme-hero-1170x-11701.tar	homepage.mac.com-digitalocean.warc.gz	6088
+digitalocean	public.me.com	2012-04-21 23:31:10	archiveteam-mobileme-hero-1170x	archiveteam-mobileme-hero-1170x-11701.tar	public.me.com-digitalocean.warc.gz	1927
+digitalocean	web.me.com	2012-04-21 23:31:10	archiveteam-mobileme-hero-1170x	archiveteam-mobileme-hero-1170x-11701.tar	web.me.com-digitalocean.warc.gz	5634084
+hrikane	gallery.me.com	2012-04-21 23:31:23	archiveteam-mobileme-hero-1170x	archiveteam-mobileme-hero-1170x-11701.tar	gallery.me.com-hrikane.warc.gz	12340
+hrikane	homepage.mac.com	2012-04-21 23:31:24	archiveteam-mobileme-hero-1170x	archiveteam-mobileme-hero-1170x-11701.tar	homepage.mac.com-hrikane.warc.gz	7157
+hrikane	public.me.com	2012-04-21 23:31:21	archiveteam-mobileme-hero-1170x	archiveteam-mobileme-hero-1170x-11701.tar	public.me.com-hrikane.warc.gz	1918
+hrikane	web.me.com	2012-04-21 23:31:21	archiveteam-mobileme-hero-1170x	archiveteam-mobileme-hero-1170x-11701.tar	web.me.com-hrikane.warc.gz	22557
+mhaisten	gallery.me.com	2012-04-21 23:28:33	archiveteam-mobileme-hero-1170x	archiveteam-mobileme-hero-1170x-11701.tar	gallery.me.com-mhaisten.warc.gz	137366446
+mhaisten	homepage.mac.com	2012-04-21 23:28:34	archiveteam-mobileme-hero-1170x	archiveteam-mobileme-hero-1170x-11701.tar	homepage.mac.com-mhaisten.warc.gz	4916
+mhaisten	public.me.com	2012-04-21 23:25:06	archiveteam-mobileme-hero-1170x	archiveteam-mobileme-hero-1170x-11701.tar	public.me.com-mhaisten.warc.gz	1919
+mhaisten	web.me.com	2012-04-21 23:25:05	archiveteam-mobileme-hero-1170x	archiveteam-mobileme-hero-1170x-11701.tar	web.me.com-mhaisten.warc.gz	205750546

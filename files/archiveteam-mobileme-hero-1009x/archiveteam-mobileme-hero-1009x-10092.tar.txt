@@ -1,0 +1,12 @@
+smgx	gallery.me.com	2012-04-18 16:00:05	archiveteam-mobileme-hero-1009x	archiveteam-mobileme-hero-1009x-10092.tar	gallery.me.com-smgx.warc.gz	1440234086
+smgx	homepage.mac.com	2012-04-18 16:00:24	archiveteam-mobileme-hero-1009x	archiveteam-mobileme-hero-1009x-10092.tar	homepage.mac.com-smgx.warc.gz	321224
+smgx	public.me.com	2012-04-18 14:49:52	archiveteam-mobileme-hero-1009x	archiveteam-mobileme-hero-1009x-10092.tar	public.me.com-smgx.warc.gz	664919
+smgx	web.me.com	2012-04-18 14:49:37	archiveteam-mobileme-hero-1009x	archiveteam-mobileme-hero-1009x-10092.tar	web.me.com-smgx.warc.gz	427714660
+tcolston	gallery.me.com	2012-04-18 13:58:19	archiveteam-mobileme-hero-1009x	archiveteam-mobileme-hero-1009x-10092.tar	gallery.me.com-tcolston.warc.gz	5014
+tcolston	homepage.mac.com	2012-04-18 13:58:19	archiveteam-mobileme-hero-1009x	archiveteam-mobileme-hero-1009x-10092.tar	homepage.mac.com-tcolston.warc.gz	4918
+tcolston	public.me.com	2012-04-18 13:58:18	archiveteam-mobileme-hero-1009x	archiveteam-mobileme-hero-1009x-10092.tar	public.me.com-tcolston.warc.gz	773699064
+tcolston	web.me.com	2012-04-18 13:43:21	archiveteam-mobileme-hero-1009x	archiveteam-mobileme-hero-1009x-10092.tar	web.me.com-tcolston.warc.gz	99409906
+wsforstercsv	gallery.me.com	2012-04-18 17:04:54	archiveteam-mobileme-hero-1009x	archiveteam-mobileme-hero-1009x-10092.tar	gallery.me.com-wsforstercsv.warc.gz	521389210
+wsforstercsv	homepage.mac.com	2012-04-18 17:05:04	archiveteam-mobileme-hero-1009x	archiveteam-mobileme-hero-1009x-10092.tar	homepage.mac.com-wsforstercsv.warc.gz	369677
+wsforstercsv	public.me.com	2012-04-18 16:41:38	archiveteam-mobileme-hero-1009x	archiveteam-mobileme-hero-1009x-10092.tar	public.me.com-wsforstercsv.warc.gz	1513727286
+wsforstercsv	web.me.com	2012-04-18 16:22:27	archiveteam-mobileme-hero-1009x	archiveteam-mobileme-hero-1009x-10092.tar	web.me.com-wsforstercsv.warc.gz	121988377

@@ -1,0 +1,8 @@
+bloomfc	gallery.me.com	2012-04-21 10:24:03	archiveteam-mobileme-hero-1125x	archiveteam-mobileme-hero-1125x-11252.tar	gallery.me.com-bloomfc.warc.gz	3803988546
+bloomfc	homepage.mac.com	2012-04-21 10:24:10	archiveteam-mobileme-hero-1125x	archiveteam-mobileme-hero-1125x-11252.tar	homepage.mac.com-bloomfc.warc.gz	130599
+bloomfc	public.me.com	2012-04-21 09:30:44	archiveteam-mobileme-hero-1125x	archiveteam-mobileme-hero-1125x-11252.tar	public.me.com-bloomfc.warc.gz	6051807270
+bloomfc	web.me.com	2012-04-21 07:41:05	archiveteam-mobileme-hero-1125x	archiveteam-mobileme-hero-1125x-11252.tar	web.me.com-bloomfc.warc.gz	3395987833
+mac_access	gallery.me.com	2012-04-21 06:09:36	archiveteam-mobileme-hero-1125x	archiveteam-mobileme-hero-1125x-11252.tar	gallery.me.com-mac_access.warc.gz	981366988
+mac_access	homepage.mac.com	2012-04-21 06:09:36	archiveteam-mobileme-hero-1125x	archiveteam-mobileme-hero-1125x-11252.tar	homepage.mac.com-mac_access.warc.gz	4916
+mac_access	public.me.com	2012-04-21 06:00:24	archiveteam-mobileme-hero-1125x	archiveteam-mobileme-hero-1125x-11252.tar	public.me.com-mac_access.warc.gz	132367462
+mac_access	web.me.com	2012-04-21 05:57:05	archiveteam-mobileme-hero-1125x	archiveteam-mobileme-hero-1125x-11252.tar	web.me.com-mac_access.warc.gz	39293863

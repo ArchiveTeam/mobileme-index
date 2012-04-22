@@ -1,0 +1,12 @@
+brad.jenkins	gallery.me.com	2012-04-20 06:30:12	archiveteam-mobileme-hero-1066x	archiveteam-mobileme-hero-1066x-10665.tar	gallery.me.com-brad.jenkins.warc.gz	5745
+brad.jenkins	homepage.mac.com	2012-04-20 06:30:12	archiveteam-mobileme-hero-1066x	archiveteam-mobileme-hero-1066x-10665.tar	homepage.mac.com-brad.jenkins.warc.gz	4936
+brad.jenkins	public.me.com	2012-04-20 06:30:10	archiveteam-mobileme-hero-1066x	archiveteam-mobileme-hero-1066x-10665.tar	public.me.com-brad.jenkins.warc.gz	1813118562
+brad.jenkins	web.me.com	2012-04-20 06:11:51	archiveteam-mobileme-hero-1066x	archiveteam-mobileme-hero-1066x-10665.tar	web.me.com-brad.jenkins.warc.gz	16266682
+rhmusic	gallery.me.com	2012-04-20 06:07:43	archiveteam-mobileme-hero-1066x	archiveteam-mobileme-hero-1066x-10665.tar	gallery.me.com-rhmusic.warc.gz	2339049330
+rhmusic	homepage.mac.com	2012-04-20 06:07:45	archiveteam-mobileme-hero-1066x	archiveteam-mobileme-hero-1066x-10665.tar	homepage.mac.com-rhmusic.warc.gz	36840
+rhmusic	public.me.com	2012-04-20 05:33:29	archiveteam-mobileme-hero-1066x	archiveteam-mobileme-hero-1066x-10665.tar	public.me.com-rhmusic.warc.gz	117537119
+rhmusic	web.me.com	2012-04-20 05:30:03	archiveteam-mobileme-hero-1066x	archiveteam-mobileme-hero-1066x-10665.tar	web.me.com-rhmusic.warc.gz	272380050
+thedavematthews	gallery.me.com	2012-04-20 05:15:48	archiveteam-mobileme-hero-1066x	archiveteam-mobileme-hero-1066x-10665.tar	gallery.me.com-thedavematthews.warc.gz	12353
+thedavematthews	homepage.mac.com	2012-04-20 05:15:49	archiveteam-mobileme-hero-1066x	archiveteam-mobileme-hero-1066x-10665.tar	homepage.mac.com-thedavematthews.warc.gz	7166
+thedavematthews	public.me.com	2012-04-20 05:15:45	archiveteam-mobileme-hero-1066x	archiveteam-mobileme-hero-1066x-10665.tar	public.me.com-thedavematthews.warc.gz	1930
+thedavematthews	web.me.com	2012-04-20 05:15:45	archiveteam-mobileme-hero-1066x	archiveteam-mobileme-hero-1066x-10665.tar	web.me.com-thedavematthews.warc.gz	22532

@@ -1,0 +1,12 @@
+pipeline1	gallery.me.com	2012-04-18 00:42:30	archiveteam-mobileme-hero-984x	archiveteam-mobileme-hero-984x-9849.tar	gallery.me.com-pipeline1.warc.gz	8347
+pipeline1	homepage.mac.com	2012-04-18 00:42:30	archiveteam-mobileme-hero-984x	archiveteam-mobileme-hero-984x-9849.tar	homepage.mac.com-pipeline1.warc.gz	5178
+pipeline1	public.me.com	2012-04-18 00:42:29	archiveteam-mobileme-hero-984x	archiveteam-mobileme-hero-984x-9849.tar	public.me.com-pipeline1.warc.gz	1916
+pipeline1	web.me.com	2012-04-18 00:42:29	archiveteam-mobileme-hero-984x	archiveteam-mobileme-hero-984x-9849.tar	web.me.com-pipeline1.warc.gz	17689
+tfang1	gallery.me.com	2012-04-18 02:39:55	archiveteam-mobileme-hero-984x	archiveteam-mobileme-hero-984x-9849.tar	gallery.me.com-tfang1.warc.gz	1989984236
+tfang1	homepage.mac.com	2012-04-18 02:39:58	archiveteam-mobileme-hero-984x	archiveteam-mobileme-hero-984x-9849.tar	homepage.mac.com-tfang1.warc.gz	41264
+tfang1	public.me.com	2012-04-18 02:15:21	archiveteam-mobileme-hero-984x	archiveteam-mobileme-hero-984x-9849.tar	public.me.com-tfang1.warc.gz	78829904
+tfang1	web.me.com	2012-04-18 02:12:51	archiveteam-mobileme-hero-984x	archiveteam-mobileme-hero-984x-9849.tar	web.me.com-tfang1.warc.gz	2138996172
+thracing	gallery.me.com	2012-04-18 01:27:51	archiveteam-mobileme-hero-984x	archiveteam-mobileme-hero-984x-9849.tar	gallery.me.com-thracing.warc.gz	256761524
+thracing	homepage.mac.com	2012-04-18 01:27:53	archiveteam-mobileme-hero-984x	archiveteam-mobileme-hero-984x-9849.tar	homepage.mac.com-thracing.warc.gz	4909
+thracing	public.me.com	2012-04-18 01:19:51	archiveteam-mobileme-hero-984x	archiveteam-mobileme-hero-984x-9849.tar	public.me.com-thracing.warc.gz	1922
+thracing	web.me.com	2012-04-18 01:19:50	archiveteam-mobileme-hero-984x	archiveteam-mobileme-hero-984x-9849.tar	web.me.com-thracing.warc.gz	502299627

@@ -1,0 +1,8 @@
+hypothetic	gallery.me.com	2012-04-20 18:58:21	archiveteam-mobileme-hero-1101x	archiveteam-mobileme-hero-1101x-11011.tar	gallery.me.com-hypothetic.warc.gz	8368
+hypothetic	homepage.mac.com	2012-04-20 18:58:22	archiveteam-mobileme-hero-1101x	archiveteam-mobileme-hero-1101x-11011.tar	homepage.mac.com-hypothetic.warc.gz	5157
+hypothetic	public.me.com	2012-04-20 18:58:20	archiveteam-mobileme-hero-1101x	archiveteam-mobileme-hero-1101x-11011.tar	public.me.com-hypothetic.warc.gz	1924
+hypothetic	web.me.com	2012-04-20 18:58:20	archiveteam-mobileme-hero-1101x	archiveteam-mobileme-hero-1101x-11011.tar	web.me.com-hypothetic.warc.gz	17778
+jeff_mccord	gallery.me.com	2012-04-20 23:42:43	archiveteam-mobileme-hero-1101x	archiveteam-mobileme-hero-1101x-11011.tar	gallery.me.com-jeff_mccord.warc.gz	16635453482
+jeff_mccord	homepage.mac.com	2012-04-20 23:42:44	archiveteam-mobileme-hero-1101x	archiveteam-mobileme-hero-1101x-11011.tar	homepage.mac.com-jeff_mccord.warc.gz	4932
+jeff_mccord	public.me.com	2012-04-20 19:20:06	archiveteam-mobileme-hero-1101x	archiveteam-mobileme-hero-1101x-11011.tar	public.me.com-jeff_mccord.warc.gz	1926
+jeff_mccord	web.me.com	2012-04-20 19:20:06	archiveteam-mobileme-hero-1101x	archiveteam-mobileme-hero-1101x-11011.tar	web.me.com-jeff_mccord.warc.gz	105430659

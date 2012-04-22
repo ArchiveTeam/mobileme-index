@@ -1,0 +1,12 @@
+branchpoint	gallery.me.com	2012-04-19 14:20:08	archiveteam-mobileme-hero-1037x	archiveteam-mobileme-hero-1037x-10370.tar	gallery.me.com-branchpoint.warc.gz	762846731
+branchpoint	homepage.mac.com	2012-04-19 14:20:14	archiveteam-mobileme-hero-1037x	archiveteam-mobileme-hero-1037x-10370.tar	homepage.mac.com-branchpoint.warc.gz	295235
+branchpoint	public.me.com	2012-04-19 14:04:59	archiveteam-mobileme-hero-1037x	archiveteam-mobileme-hero-1037x-10370.tar	public.me.com-branchpoint.warc.gz	10403826
+branchpoint	web.me.com	2012-04-19 14:04:09	archiveteam-mobileme-hero-1037x	archiveteam-mobileme-hero-1037x-10370.tar	web.me.com-branchpoint.warc.gz	6109767650
+masteraquarius	gallery.me.com	2012-04-19 10:38:51	archiveteam-mobileme-hero-1037x	archiveteam-mobileme-hero-1037x-10370.tar	gallery.me.com-masteraquarius.warc.gz	618871957
+masteraquarius	homepage.mac.com	2012-04-19 10:39:03	archiveteam-mobileme-hero-1037x	archiveteam-mobileme-hero-1037x-10370.tar	homepage.mac.com-masteraquarius.warc.gz	149705
+masteraquarius	public.me.com	2012-04-19 10:08:39	archiveteam-mobileme-hero-1037x	archiveteam-mobileme-hero-1037x-10370.tar	public.me.com-masteraquarius.warc.gz	1934
+masteraquarius	web.me.com	2012-04-19 10:08:29	archiveteam-mobileme-hero-1037x	archiveteam-mobileme-hero-1037x-10370.tar	web.me.com-masteraquarius.warc.gz	32087621
+sam_cr	gallery.me.com	2012-04-19 10:47:18	archiveteam-mobileme-hero-1037x	archiveteam-mobileme-hero-1037x-10370.tar	gallery.me.com-sam_cr.warc.gz	1038733621
+sam_cr	homepage.mac.com	2012-04-19 10:47:19	archiveteam-mobileme-hero-1037x	archiveteam-mobileme-hero-1037x-10370.tar	homepage.mac.com-sam_cr.warc.gz	4912
+sam_cr	public.me.com	2012-04-19 10:40:25	archiveteam-mobileme-hero-1037x	archiveteam-mobileme-hero-1037x-10370.tar	public.me.com-sam_cr.warc.gz	1914
+sam_cr	web.me.com	2012-04-19 10:40:25	archiveteam-mobileme-hero-1037x	archiveteam-mobileme-hero-1037x-10370.tar	web.me.com-sam_cr.warc.gz	2584967

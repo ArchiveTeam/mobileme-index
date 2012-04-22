@@ -1,0 +1,16 @@
+c316256010	gallery.me.com	2012-04-21 00:14:06	archiveteam-mobileme-hero-1109x	archiveteam-mobileme-hero-1109x-11093.tar	gallery.me.com-c316256010.warc.gz	8350
+c316256010	homepage.mac.com	2012-04-21 00:14:06	archiveteam-mobileme-hero-1109x	archiveteam-mobileme-hero-1109x-11093.tar	homepage.mac.com-c316256010.warc.gz	5184
+c316256010	public.me.com	2012-04-21 00:14:05	archiveteam-mobileme-hero-1109x	archiveteam-mobileme-hero-1109x-11093.tar	public.me.com-c316256010.warc.gz	1921
+c316256010	web.me.com	2012-04-21 00:14:04	archiveteam-mobileme-hero-1109x	archiveteam-mobileme-hero-1109x-11093.tar	web.me.com-c316256010.warc.gz	17748
+munchmonkey	gallery.me.com	2012-04-21 00:14:21	archiveteam-mobileme-hero-1109x	archiveteam-mobileme-hero-1109x-11093.tar	gallery.me.com-munchmonkey.warc.gz	4275
+munchmonkey	homepage.mac.com	2012-04-21 00:14:22	archiveteam-mobileme-hero-1109x	archiveteam-mobileme-hero-1109x-11093.tar	homepage.mac.com-munchmonkey.warc.gz	4925
+munchmonkey	public.me.com	2012-04-21 00:14:21	archiveteam-mobileme-hero-1109x	archiveteam-mobileme-hero-1109x-11093.tar	public.me.com-munchmonkey.warc.gz	51754
+munchmonkey	web.me.com	2012-04-21 00:14:20	archiveteam-mobileme-hero-1109x	archiveteam-mobileme-hero-1109x-11093.tar	web.me.com-munchmonkey.warc.gz	567545
+paquettc	gallery.me.com	2012-04-21 03:43:18	archiveteam-mobileme-hero-1109x	archiveteam-mobileme-hero-1109x-11093.tar	gallery.me.com-paquettc.warc.gz	7990683116
+paquettc	homepage.mac.com	2012-04-21 03:43:19	archiveteam-mobileme-hero-1109x	archiveteam-mobileme-hero-1109x-11093.tar	homepage.mac.com-paquettc.warc.gz	4909
+paquettc	public.me.com	2012-04-21 00:46:13	archiveteam-mobileme-hero-1109x	archiveteam-mobileme-hero-1109x-11093.tar	public.me.com-paquettc.warc.gz	93991467
+paquettc	web.me.com	2012-04-21 00:42:14	archiveteam-mobileme-hero-1109x	archiveteam-mobileme-hero-1109x-11093.tar	web.me.com-paquettc.warc.gz	70558828
+robert.puhr	gallery.me.com	2012-04-21 00:14:01	archiveteam-mobileme-hero-1109x	archiveteam-mobileme-hero-1109x-11093.tar	gallery.me.com-robert.puhr.warc.gz	683958527
+robert.puhr	homepage.mac.com	2012-04-21 00:14:02	archiveteam-mobileme-hero-1109x	archiveteam-mobileme-hero-1109x-11093.tar	homepage.mac.com-robert.puhr.warc.gz	9517
+robert.puhr	public.me.com	2012-04-20 23:59:15	archiveteam-mobileme-hero-1109x	archiveteam-mobileme-hero-1109x-11093.tar	public.me.com-robert.puhr.warc.gz	1925
+robert.puhr	web.me.com	2012-04-20 23:59:15	archiveteam-mobileme-hero-1109x	archiveteam-mobileme-hero-1109x-11093.tar	web.me.com-robert.puhr.warc.gz	11783992

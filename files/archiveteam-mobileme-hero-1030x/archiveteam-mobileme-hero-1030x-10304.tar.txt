@@ -1,0 +1,8 @@
+cstrainer	gallery.me.com	2012-04-19 10:00:45	archiveteam-mobileme-hero-1030x	archiveteam-mobileme-hero-1030x-10304.tar	gallery.me.com-cstrainer.warc.gz	3384868763
+cstrainer	homepage.mac.com	2012-04-19 10:00:48	archiveteam-mobileme-hero-1030x	archiveteam-mobileme-hero-1030x-10304.tar	homepage.mac.com-cstrainer.warc.gz	4900
+cstrainer	public.me.com	2012-04-19 08:53:24	archiveteam-mobileme-hero-1030x	archiveteam-mobileme-hero-1030x-10304.tar	public.me.com-cstrainer.warc.gz	95696059
+cstrainer	web.me.com	2012-04-19 08:50:36	archiveteam-mobileme-hero-1030x	archiveteam-mobileme-hero-1030x-10304.tar	web.me.com-cstrainer.warc.gz	697940874
+sakaguti3	gallery.me.com	2012-04-19 08:10:26	archiveteam-mobileme-hero-1030x	archiveteam-mobileme-hero-1030x-10304.tar	gallery.me.com-sakaguti3.warc.gz	80479102
+sakaguti3	homepage.mac.com	2012-04-19 08:10:33	archiveteam-mobileme-hero-1030x	archiveteam-mobileme-hero-1030x-10304.tar	homepage.mac.com-sakaguti3.warc.gz	36866
+sakaguti3	public.me.com	2012-04-19 08:06:00	archiveteam-mobileme-hero-1030x	archiveteam-mobileme-hero-1030x-10304.tar	public.me.com-sakaguti3.warc.gz	1916
+sakaguti3	web.me.com	2012-04-19 08:05:48	archiveteam-mobileme-hero-1030x	archiveteam-mobileme-hero-1030x-10304.tar	web.me.com-sakaguti3.warc.gz	306782573

@@ -1,0 +1,12 @@
+all4nrdc	gallery.me.com	2012-04-20 08:02:04	archiveteam-mobileme-hero-1071x	archiveteam-mobileme-hero-1071x-10715.tar	gallery.me.com-all4nrdc.warc.gz	38769
+all4nrdc	homepage.mac.com	2012-04-20 08:02:04	archiveteam-mobileme-hero-1071x	archiveteam-mobileme-hero-1071x-10715.tar	homepage.mac.com-all4nrdc.warc.gz	4912
+all4nrdc	public.me.com	2012-04-20 08:02:02	archiveteam-mobileme-hero-1071x	archiveteam-mobileme-hero-1071x-10715.tar	public.me.com-all4nrdc.warc.gz	1909
+all4nrdc	web.me.com	2012-04-20 08:02:02	archiveteam-mobileme-hero-1071x	archiveteam-mobileme-hero-1071x-10715.tar	web.me.com-all4nrdc.warc.gz	3979386
+louieb6	gallery.me.com	2012-04-20 08:00:01	archiveteam-mobileme-hero-1071x	archiveteam-mobileme-hero-1071x-10715.tar	gallery.me.com-louieb6.warc.gz	12338
+louieb6	homepage.mac.com	2012-04-20 08:00:01	archiveteam-mobileme-hero-1071x	archiveteam-mobileme-hero-1071x-10715.tar	homepage.mac.com-louieb6.warc.gz	7158
+louieb6	public.me.com	2012-04-20 07:59:59	archiveteam-mobileme-hero-1071x	archiveteam-mobileme-hero-1071x-10715.tar	public.me.com-louieb6.warc.gz	1905
+louieb6	web.me.com	2012-04-20 07:59:59	archiveteam-mobileme-hero-1071x	archiveteam-mobileme-hero-1071x-10715.tar	web.me.com-louieb6.warc.gz	22567
+scottireson	gallery.me.com	2012-04-20 09:37:07	archiveteam-mobileme-hero-1071x	archiveteam-mobileme-hero-1071x-10715.tar	gallery.me.com-scottireson.warc.gz	1750883332
+scottireson	homepage.mac.com	2012-04-20 09:37:27	archiveteam-mobileme-hero-1071x	archiveteam-mobileme-hero-1071x-10715.tar	homepage.mac.com-scottireson.warc.gz	1920381
+scottireson	public.me.com	2012-04-20 09:24:03	archiveteam-mobileme-hero-1071x	archiveteam-mobileme-hero-1071x-10715.tar	public.me.com-scottireson.warc.gz	1285616608
+scottireson	web.me.com	2012-04-20 08:37:34	archiveteam-mobileme-hero-1071x	archiveteam-mobileme-hero-1071x-10715.tar	web.me.com-scottireson.warc.gz	1753101810

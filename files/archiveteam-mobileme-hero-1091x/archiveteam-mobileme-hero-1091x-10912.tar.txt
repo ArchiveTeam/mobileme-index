@@ -1,0 +1,8 @@
+en_punto	gallery.me.com	2012-04-20 19:28:07	archiveteam-mobileme-hero-1091x	archiveteam-mobileme-hero-1091x-10912.tar	gallery.me.com-en_punto.warc.gz	91194
+en_punto	homepage.mac.com	2012-04-20 19:28:21	archiveteam-mobileme-hero-1091x	archiveteam-mobileme-hero-1091x-10912.tar	homepage.mac.com-en_punto.warc.gz	216041
+en_punto	public.me.com	2012-04-20 19:28:01	archiveteam-mobileme-hero-1091x	archiveteam-mobileme-hero-1091x-10912.tar	public.me.com-en_punto.warc.gz	8682086836
+en_punto	web.me.com	2012-04-20 17:36:42	archiveteam-mobileme-hero-1091x	archiveteam-mobileme-hero-1091x-10912.tar	web.me.com-en_punto.warc.gz	71379
+peteportage	gallery.me.com	2012-04-20 17:36:35	archiveteam-mobileme-hero-1091x	archiveteam-mobileme-hero-1091x-10912.tar	gallery.me.com-peteportage.warc.gz	4257
+peteportage	homepage.mac.com	2012-04-20 17:36:35	archiveteam-mobileme-hero-1091x	archiveteam-mobileme-hero-1091x-10912.tar	homepage.mac.com-peteportage.warc.gz	9427
+peteportage	public.me.com	2012-04-20 17:36:33	archiveteam-mobileme-hero-1091x	archiveteam-mobileme-hero-1091x-10912.tar	public.me.com-peteportage.warc.gz	1922
+peteportage	web.me.com	2012-04-20 17:36:33	archiveteam-mobileme-hero-1091x	archiveteam-mobileme-hero-1091x-10912.tar	web.me.com-peteportage.warc.gz	108866686
