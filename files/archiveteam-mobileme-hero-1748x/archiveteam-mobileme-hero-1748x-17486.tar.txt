@@ -1,0 +1,16 @@
+jconlon1	gallery.me.com	2012-05-04 14:00:13	archiveteam-mobileme-hero-1748x	archiveteam-mobileme-hero-1748x-17486.tar	gallery.me.com-jconlon1.warc.gz	1805315518
+jconlon1	homepage.mac.com	2012-05-04 14:00:13	archiveteam-mobileme-hero-1748x	archiveteam-mobileme-hero-1748x-17486.tar	homepage.mac.com-jconlon1.warc.gz	4921
+jconlon1	public.me.com	2012-05-04 13:24:56	archiveteam-mobileme-hero-1748x	archiveteam-mobileme-hero-1748x-17486.tar	public.me.com-jconlon1.warc.gz	10104221
+jconlon1	web.me.com	2012-05-04 13:24:32	archiveteam-mobileme-hero-1748x	archiveteam-mobileme-hero-1748x-17486.tar	web.me.com-jconlon1.warc.gz	313428677
+progress1	gallery.me.com	2012-05-04 15:27:50	archiveteam-mobileme-hero-1748x	archiveteam-mobileme-hero-1748x-17486.tar	gallery.me.com-progress1.warc.gz	22421954
+progress1	homepage.mac.com	2012-05-04 15:27:51	archiveteam-mobileme-hero-1748x	archiveteam-mobileme-hero-1748x-17486.tar	homepage.mac.com-progress1.warc.gz	17191
+progress1	public.me.com	2012-05-04 15:27:40	archiveteam-mobileme-hero-1748x	archiveteam-mobileme-hero-1748x-17486.tar	public.me.com-progress1.warc.gz	2392404470
+progress1	web.me.com	2012-05-04 14:27:29	archiveteam-mobileme-hero-1748x	archiveteam-mobileme-hero-1748x-17486.tar	web.me.com-progress1.warc.gz	132020205
+slod	gallery.me.com	2012-05-04 14:02:47	archiveteam-mobileme-hero-1748x	archiveteam-mobileme-hero-1748x-17486.tar	gallery.me.com-slod.warc.gz	12319
+slod	homepage.mac.com	2012-05-04 14:02:47	archiveteam-mobileme-hero-1748x	archiveteam-mobileme-hero-1748x-17486.tar	homepage.mac.com-slod.warc.gz	7147
+slod	public.me.com	2012-05-04 14:02:46	archiveteam-mobileme-hero-1748x	archiveteam-mobileme-hero-1748x-17486.tar	public.me.com-slod.warc.gz	1912
+slod	web.me.com	2012-05-04 14:02:46	archiveteam-mobileme-hero-1748x	archiveteam-mobileme-hero-1748x-17486.tar	web.me.com-slod.warc.gz	22490
+zombador	gallery.me.com	2012-05-04 14:02:44	archiveteam-mobileme-hero-1748x	archiveteam-mobileme-hero-1748x-17486.tar	gallery.me.com-zombador.warc.gz	4247
+zombador	homepage.mac.com	2012-05-04 14:02:44	archiveteam-mobileme-hero-1748x	archiveteam-mobileme-hero-1748x-17486.tar	homepage.mac.com-zombador.warc.gz	4922
+zombador	public.me.com	2012-05-04 14:02:43	archiveteam-mobileme-hero-1748x	archiveteam-mobileme-hero-1748x-17486.tar	public.me.com-zombador.warc.gz	1920
+zombador	web.me.com	2012-05-04 14:02:41	archiveteam-mobileme-hero-1748x	archiveteam-mobileme-hero-1748x-17486.tar	web.me.com-zombador.warc.gz	9530806

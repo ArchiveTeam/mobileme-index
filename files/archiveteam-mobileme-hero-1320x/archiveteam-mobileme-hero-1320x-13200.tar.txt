@@ -1,0 +1,16 @@
+hughes	gallery.me.com	2012-04-25 02:24:35	archiveteam-mobileme-hero-1320x	archiveteam-mobileme-hero-1320x-13200.tar	gallery.me.com-hughes.warc.gz	25511378
+hughes	homepage.mac.com	2012-04-25 02:24:35	archiveteam-mobileme-hero-1320x	archiveteam-mobileme-hero-1320x-13200.tar	homepage.mac.com-hughes.warc.gz	4898
+hughes	public.me.com	2012-04-25 02:23:27	archiveteam-mobileme-hero-1320x	archiveteam-mobileme-hero-1320x-13200.tar	public.me.com-hughes.warc.gz	106339403
+hughes	web.me.com	2012-04-25 02:23:04	archiveteam-mobileme-hero-1320x	archiveteam-mobileme-hero-1320x-13200.tar	web.me.com-hughes.warc.gz	689186089
+justindenton	gallery.me.com	2012-04-25 02:03:55	archiveteam-mobileme-hero-1320x	archiveteam-mobileme-hero-1320x-13200.tar	gallery.me.com-justindenton.warc.gz	2079194305
+justindenton	homepage.mac.com	2012-04-25 02:03:55	archiveteam-mobileme-hero-1320x	archiveteam-mobileme-hero-1320x-13200.tar	homepage.mac.com-justindenton.warc.gz	4938
+justindenton	public.me.com	2012-04-25 01:02:20	archiveteam-mobileme-hero-1320x	archiveteam-mobileme-hero-1320x-13200.tar	public.me.com-justindenton.warc.gz	425458
+justindenton	web.me.com	2012-04-25 01:02:18	archiveteam-mobileme-hero-1320x	archiveteam-mobileme-hero-1320x-13200.tar	web.me.com-justindenton.warc.gz	138321288
+radiocamp	gallery.me.com	2012-04-25 03:21:37	archiveteam-mobileme-hero-1320x	archiveteam-mobileme-hero-1320x-13200.tar	gallery.me.com-radiocamp.warc.gz	5347
+radiocamp	homepage.mac.com	2012-04-25 03:21:37	archiveteam-mobileme-hero-1320x	archiveteam-mobileme-hero-1320x-13200.tar	homepage.mac.com-radiocamp.warc.gz	7851
+radiocamp	public.me.com	2012-04-25 03:21:35	archiveteam-mobileme-hero-1320x	archiveteam-mobileme-hero-1320x-13200.tar	public.me.com-radiocamp.warc.gz	1918
+radiocamp	web.me.com	2012-04-25 03:21:30	archiveteam-mobileme-hero-1320x	archiveteam-mobileme-hero-1320x-13200.tar	web.me.com-radiocamp.warc.gz	3115517595
+sonnyelia	gallery.me.com	2012-04-25 00:44:08	archiveteam-mobileme-hero-1320x	archiveteam-mobileme-hero-1320x-13200.tar	gallery.me.com-sonnyelia.warc.gz	12310
+sonnyelia	homepage.mac.com	2012-04-25 00:44:09	archiveteam-mobileme-hero-1320x	archiveteam-mobileme-hero-1320x-13200.tar	homepage.mac.com-sonnyelia.warc.gz	7128
+sonnyelia	public.me.com	2012-04-25 00:44:08	archiveteam-mobileme-hero-1320x	archiveteam-mobileme-hero-1320x-13200.tar	public.me.com-sonnyelia.warc.gz	1916
+sonnyelia	web.me.com	2012-04-25 00:44:07	archiveteam-mobileme-hero-1320x	archiveteam-mobileme-hero-1320x-13200.tar	web.me.com-sonnyelia.warc.gz	22471

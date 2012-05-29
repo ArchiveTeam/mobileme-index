@@ -1,0 +1,16 @@
+cloudmover	gallery.me.com	2012-05-23 17:17:54	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20544.tar	gallery.me.com-cloudmover.warc.gz	4286002
+cloudmover	homepage.mac.com	2012-05-23 17:17:56	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20544.tar	homepage.mac.com-cloudmover.warc.gz	85393
+cloudmover	public.me.com	2012-05-23 17:17:46	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20544.tar	public.me.com-cloudmover.warc.gz	15146
+cloudmover	web.me.com	2012-05-23 17:17:44	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20544.tar	web.me.com-cloudmover.warc.gz	75273711
+lissner	gallery.me.com	2012-05-23 17:25:25	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20544.tar	gallery.me.com-lissner.warc.gz	231646276
+lissner	homepage.mac.com	2012-05-23 17:25:25	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20544.tar	homepage.mac.com-lissner.warc.gz	4905
+lissner	public.me.com	2012-05-23 17:23:26	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20544.tar	public.me.com-lissner.warc.gz	1917
+lissner	web.me.com	2012-05-23 17:23:15	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20544.tar	web.me.com-lissner.warc.gz	209470037
+monarchymusicgroup	gallery.me.com	2012-05-23 18:20:34	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20544.tar	gallery.me.com-monarchymusicgroup.warc.gz	2630183937
+monarchymusicgroup	homepage.mac.com	2012-05-23 18:20:34	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20544.tar	homepage.mac.com-monarchymusicgroup.warc.gz	4943
+monarchymusicgroup	public.me.com	2012-05-23 17:57:58	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20544.tar	public.me.com-monarchymusicgroup.warc.gz	3355
+monarchymusicgroup	web.me.com	2012-05-23 17:57:34	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20544.tar	web.me.com-monarchymusicgroup.warc.gz	2484256257
+touchin	gallery.me.com	2012-05-23 17:26:38	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20544.tar	gallery.me.com-touchin.warc.gz	4249
+touchin	homepage.mac.com	2012-05-23 17:26:39	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20544.tar	homepage.mac.com-touchin.warc.gz	4898
+touchin	public.me.com	2012-05-23 17:26:38	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20544.tar	public.me.com-touchin.warc.gz	1914
+touchin	web.me.com	2012-05-23 17:26:37	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20544.tar	web.me.com-touchin.warc.gz	29542826

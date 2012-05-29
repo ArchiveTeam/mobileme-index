@@ -1,0 +1,16 @@
+bordering	gallery.me.com	2012-05-02 15:09:17	archiveteam-mobileme-hero-1684x	archiveteam-mobileme-hero-1684x-16844.tar	gallery.me.com-bordering.warc.gz	138429564
+bordering	homepage.mac.com	2012-05-02 15:09:17	archiveteam-mobileme-hero-1684x	archiveteam-mobileme-hero-1684x-16844.tar	homepage.mac.com-bordering.warc.gz	4899
+bordering	public.me.com	2012-05-02 15:04:52	archiveteam-mobileme-hero-1684x	archiveteam-mobileme-hero-1684x-16844.tar	public.me.com-bordering.warc.gz	1919
+bordering	web.me.com	2012-05-02 15:04:51	archiveteam-mobileme-hero-1684x	archiveteam-mobileme-hero-1684x-16844.tar	web.me.com-bordering.warc.gz	98192287
+georgesaira	gallery.me.com	2012-05-02 18:17:17	archiveteam-mobileme-hero-1684x	archiveteam-mobileme-hero-1684x-16844.tar	gallery.me.com-georgesaira.warc.gz	2963636209
+georgesaira	homepage.mac.com	2012-05-02 18:17:17	archiveteam-mobileme-hero-1684x	archiveteam-mobileme-hero-1684x-16844.tar	homepage.mac.com-georgesaira.warc.gz	4924
+georgesaira	public.me.com	2012-05-02 17:02:01	archiveteam-mobileme-hero-1684x	archiveteam-mobileme-hero-1684x-16844.tar	public.me.com-georgesaira.warc.gz	21936902
+georgesaira	web.me.com	2012-05-02 16:55:40	archiveteam-mobileme-hero-1684x	archiveteam-mobileme-hero-1684x-16844.tar	web.me.com-georgesaira.warc.gz	683978591
+lkhallman	gallery.me.com	2012-05-02 15:00:00	archiveteam-mobileme-hero-1684x	archiveteam-mobileme-hero-1684x-16844.tar	gallery.me.com-lkhallman.warc.gz	251938405
+lkhallman	homepage.mac.com	2012-05-02 15:00:07	archiveteam-mobileme-hero-1684x	archiveteam-mobileme-hero-1684x-16844.tar	homepage.mac.com-lkhallman.warc.gz	145505
+lkhallman	public.me.com	2012-05-02 14:51:24	archiveteam-mobileme-hero-1684x	archiveteam-mobileme-hero-1684x-16844.tar	public.me.com-lkhallman.warc.gz	1920
+lkhallman	web.me.com	2012-05-02 14:51:19	archiveteam-mobileme-hero-1684x	archiveteam-mobileme-hero-1684x-16844.tar	web.me.com-lkhallman.warc.gz	42849848
+rnaylor1	gallery.me.com	2012-05-02 16:23:14	archiveteam-mobileme-hero-1684x	archiveteam-mobileme-hero-1684x-16844.tar	gallery.me.com-rnaylor1.warc.gz	1791738083
+rnaylor1	homepage.mac.com	2012-05-02 16:23:14	archiveteam-mobileme-hero-1684x	archiveteam-mobileme-hero-1684x-16844.tar	homepage.mac.com-rnaylor1.warc.gz	4895
+rnaylor1	public.me.com	2012-05-02 15:32:35	archiveteam-mobileme-hero-1684x	archiveteam-mobileme-hero-1684x-16844.tar	public.me.com-rnaylor1.warc.gz	529426848
+rnaylor1	web.me.com	2012-05-02 15:18:53	archiveteam-mobileme-hero-1684x	archiveteam-mobileme-hero-1684x-16844.tar	web.me.com-rnaylor1.warc.gz	30368913

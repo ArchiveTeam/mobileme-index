@@ -1,0 +1,8 @@
+channel32	gallery.me.com	2012-04-27 12:52:32	archiveteam-mobileme-hero-1453x	archiveteam-mobileme-hero-1453x-14538.tar	gallery.me.com-channel32.warc.gz	102638834
+channel32	homepage.mac.com	2012-04-27 12:52:32	archiveteam-mobileme-hero-1453x	archiveteam-mobileme-hero-1453x-14538.tar	homepage.mac.com-channel32.warc.gz	4921
+channel32	public.me.com	2012-04-27 12:47:00	archiveteam-mobileme-hero-1453x	archiveteam-mobileme-hero-1453x-14538.tar	public.me.com-channel32.warc.gz	3274397169
+channel32	web.me.com	2012-04-27 11:28:00	archiveteam-mobileme-hero-1453x	archiveteam-mobileme-hero-1453x-14538.tar	web.me.com-channel32.warc.gz	474355552
+milesburns	gallery.me.com	2012-04-27 13:14:47	archiveteam-mobileme-hero-1453x	archiveteam-mobileme-hero-1453x-14538.tar	gallery.me.com-milesburns.warc.gz	531950657
+milesburns	homepage.mac.com	2012-04-27 13:14:49	archiveteam-mobileme-hero-1453x	archiveteam-mobileme-hero-1453x-14538.tar	homepage.mac.com-milesburns.warc.gz	63620
+milesburns	public.me.com	2012-04-27 12:54:58	archiveteam-mobileme-hero-1453x	archiveteam-mobileme-hero-1453x-14538.tar	public.me.com-milesburns.warc.gz	35269
+milesburns	web.me.com	2012-04-27 12:54:57	archiveteam-mobileme-hero-1453x	archiveteam-mobileme-hero-1453x-14538.tar	web.me.com-milesburns.warc.gz	6589820

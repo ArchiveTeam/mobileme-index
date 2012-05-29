@@ -1,0 +1,12 @@
+etc	gallery.me.com	2012-05-09 17:16:23	archiveteam-mobileme-hero-1861x	archiveteam-mobileme-hero-1861x-18613.tar	gallery.me.com-etc.warc.gz	5963
+etc	homepage.mac.com	2012-05-09 17:16:55	archiveteam-mobileme-hero-1861x	archiveteam-mobileme-hero-1861x-18613.tar	homepage.mac.com-etc.warc.gz	700537
+etc	public.me.com	2012-05-09 17:16:23	archiveteam-mobileme-hero-1861x	archiveteam-mobileme-hero-1861x-18613.tar	public.me.com-etc.warc.gz	7968418
+etc	web.me.com	2012-05-09 17:16:11	archiveteam-mobileme-hero-1861x	archiveteam-mobileme-hero-1861x-18613.tar	web.me.com-etc.warc.gz	1063814
+fosgood	gallery.me.com	2012-05-09 19:58:08	archiveteam-mobileme-hero-1861x	archiveteam-mobileme-hero-1861x-18613.tar	gallery.me.com-fosgood.warc.gz	6118332663
+fosgood	homepage.mac.com	2012-05-09 19:58:12	archiveteam-mobileme-hero-1861x	archiveteam-mobileme-hero-1861x-18613.tar	homepage.mac.com-fosgood.warc.gz	144062
+fosgood	public.me.com	2012-05-09 17:22:55	archiveteam-mobileme-hero-1861x	archiveteam-mobileme-hero-1861x-18613.tar	public.me.com-fosgood.warc.gz	2498261
+fosgood	web.me.com	2012-05-09 17:22:52	archiveteam-mobileme-hero-1861x	archiveteam-mobileme-hero-1861x-18613.tar	web.me.com-fosgood.warc.gz	7711332
+freshfishcreative	gallery.me.com	2012-05-09 17:15:51	archiveteam-mobileme-hero-1861x	archiveteam-mobileme-hero-1861x-18613.tar	gallery.me.com-freshfishcreative.warc.gz	4299
+freshfishcreative	homepage.mac.com	2012-05-09 17:15:51	archiveteam-mobileme-hero-1861x	archiveteam-mobileme-hero-1861x-18613.tar	homepage.mac.com-freshfishcreative.warc.gz	4963
+freshfishcreative	public.me.com	2012-05-09 17:15:51	archiveteam-mobileme-hero-1861x	archiveteam-mobileme-hero-1861x-18613.tar	public.me.com-freshfishcreative.warc.gz	1944
+freshfishcreative	web.me.com	2012-05-09 17:15:51	archiveteam-mobileme-hero-1861x	archiveteam-mobileme-hero-1861x-18613.tar	web.me.com-freshfishcreative.warc.gz	31163480

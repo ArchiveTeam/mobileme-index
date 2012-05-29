@@ -1,0 +1,12 @@
+macr	gallery.me.com	2012-04-24 13:45:23	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13036.tar	gallery.me.com-macr.warc.gz	1351249416
+macr	homepage.mac.com	2012-04-24 13:45:25	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13036.tar	homepage.mac.com-macr.warc.gz	6017
+macr	public.me.com	2012-04-24 12:13:50	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13036.tar	public.me.com-macr.warc.gz	43284378
+macr	web.me.com	2012-04-24 12:09:49	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13036.tar	web.me.com-macr.warc.gz	15700890
+rc.vervoorn	gallery.me.com	2012-04-24 18:20:29	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13036.tar	gallery.me.com-rc.vervoorn.warc.gz	2904955164
+rc.vervoorn	homepage.mac.com	2012-04-24 18:20:36	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13036.tar	homepage.mac.com-rc.vervoorn.warc.gz	4915
+rc.vervoorn	public.me.com	2012-04-24 14:08:19	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13036.tar	public.me.com-rc.vervoorn.warc.gz	1930
+rc.vervoorn	web.me.com	2012-04-24 14:08:05	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13036.tar	web.me.com-rc.vervoorn.warc.gz	15591007
+suripatty	gallery.me.com	2012-04-24 11:48:09	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13036.tar	gallery.me.com-suripatty.warc.gz	11985732
+suripatty	homepage.mac.com	2012-04-24 11:48:41	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13036.tar	homepage.mac.com-suripatty.warc.gz	98176
+suripatty	public.me.com	2012-04-24 11:46:13	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13036.tar	public.me.com-suripatty.warc.gz	1925
+suripatty	web.me.com	2012-04-24 11:46:11	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13036.tar	web.me.com-suripatty.warc.gz	96603

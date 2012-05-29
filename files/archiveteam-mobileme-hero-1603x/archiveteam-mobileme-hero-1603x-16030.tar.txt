@@ -1,0 +1,16 @@
+arran_pearson	gallery.me.com	2012-04-30 14:35:45	archiveteam-mobileme-hero-1603x	archiveteam-mobileme-hero-1603x-16030.tar	gallery.me.com-arran_pearson.warc.gz	196979473
+arran_pearson	homepage.mac.com	2012-04-30 14:35:47	archiveteam-mobileme-hero-1603x	archiveteam-mobileme-hero-1603x-16030.tar	homepage.mac.com-arran_pearson.warc.gz	81688
+arran_pearson	public.me.com	2012-04-30 14:32:58	archiveteam-mobileme-hero-1603x	archiveteam-mobileme-hero-1603x-16030.tar	public.me.com-arran_pearson.warc.gz	96593477
+arran_pearson	web.me.com	2012-04-30 14:32:16	archiveteam-mobileme-hero-1603x	archiveteam-mobileme-hero-1603x-16030.tar	web.me.com-arran_pearson.warc.gz	103226658
+megruber	gallery.me.com	2012-04-30 16:51:48	archiveteam-mobileme-hero-1603x	archiveteam-mobileme-hero-1603x-16030.tar	gallery.me.com-megruber.warc.gz	1516118871
+megruber	homepage.mac.com	2012-04-30 16:51:51	archiveteam-mobileme-hero-1603x	archiveteam-mobileme-hero-1603x-16030.tar	homepage.mac.com-megruber.warc.gz	112136
+megruber	public.me.com	2012-04-30 16:26:48	archiveteam-mobileme-hero-1603x	archiveteam-mobileme-hero-1603x-16030.tar	public.me.com-megruber.warc.gz	1914
+megruber	web.me.com	2012-04-30 16:26:46	archiveteam-mobileme-hero-1603x	archiveteam-mobileme-hero-1603x-16030.tar	web.me.com-megruber.warc.gz	279523199
+robinfreeman	gallery.me.com	2012-04-30 16:16:46	archiveteam-mobileme-hero-1603x	archiveteam-mobileme-hero-1603x-16030.tar	gallery.me.com-robinfreeman.warc.gz	2723478956
+robinfreeman	homepage.mac.com	2012-04-30 16:16:47	archiveteam-mobileme-hero-1603x	archiveteam-mobileme-hero-1603x-16030.tar	homepage.mac.com-robinfreeman.warc.gz	4928
+robinfreeman	public.me.com	2012-04-30 15:35:17	archiveteam-mobileme-hero-1603x	archiveteam-mobileme-hero-1603x-16030.tar	public.me.com-robinfreeman.warc.gz	1925
+robinfreeman	web.me.com	2012-04-30 15:35:15	archiveteam-mobileme-hero-1603x	archiveteam-mobileme-hero-1603x-16030.tar	web.me.com-robinfreeman.warc.gz	392173878
+veronicamilliken	gallery.me.com	2012-04-30 14:17:26	archiveteam-mobileme-hero-1603x	archiveteam-mobileme-hero-1603x-16030.tar	gallery.me.com-veronicamilliken.warc.gz	4285
+veronicamilliken	homepage.mac.com	2012-04-30 14:17:26	archiveteam-mobileme-hero-1603x	archiveteam-mobileme-hero-1603x-16030.tar	homepage.mac.com-veronicamilliken.warc.gz	4950
+veronicamilliken	public.me.com	2012-04-30 14:17:25	archiveteam-mobileme-hero-1603x	archiveteam-mobileme-hero-1603x-16030.tar	public.me.com-veronicamilliken.warc.gz	1930
+veronicamilliken	web.me.com	2012-04-30 14:17:25	archiveteam-mobileme-hero-1603x	archiveteam-mobileme-hero-1603x-16030.tar	web.me.com-veronicamilliken.warc.gz	147710384

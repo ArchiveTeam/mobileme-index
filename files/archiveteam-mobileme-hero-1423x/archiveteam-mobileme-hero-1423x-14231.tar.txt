@@ -1,0 +1,16 @@
+amalgam	gallery.me.com	2012-04-26 21:06:19	archiveteam-mobileme-hero-1423x	archiveteam-mobileme-hero-1423x-14231.tar	gallery.me.com-amalgam.warc.gz	12297
+amalgam	homepage.mac.com	2012-04-26 21:06:21	archiveteam-mobileme-hero-1423x	archiveteam-mobileme-hero-1423x-14231.tar	homepage.mac.com-amalgam.warc.gz	7139
+amalgam	public.me.com	2012-04-26 21:06:16	archiveteam-mobileme-hero-1423x	archiveteam-mobileme-hero-1423x-14231.tar	public.me.com-amalgam.warc.gz	1910
+amalgam	web.me.com	2012-04-26 21:06:15	archiveteam-mobileme-hero-1423x	archiveteam-mobileme-hero-1423x-14231.tar	web.me.com-amalgam.warc.gz	22453
+drjimsamuels	gallery.me.com	2012-04-26 23:17:37	archiveteam-mobileme-hero-1423x	archiveteam-mobileme-hero-1423x-14231.tar	gallery.me.com-drjimsamuels.warc.gz	19464381404
+drjimsamuels	homepage.mac.com	2012-04-26 23:17:37	archiveteam-mobileme-hero-1423x	archiveteam-mobileme-hero-1423x-14231.tar	homepage.mac.com-drjimsamuels.warc.gz	4913
+drjimsamuels	public.me.com	2012-04-26 21:17:55	archiveteam-mobileme-hero-1423x	archiveteam-mobileme-hero-1423x-14231.tar	public.me.com-drjimsamuels.warc.gz	4746696
+drjimsamuels	web.me.com	2012-04-26 21:17:33	archiveteam-mobileme-hero-1423x	archiveteam-mobileme-hero-1423x-14231.tar	web.me.com-drjimsamuels.warc.gz	60033328
+lbarajas	gallery.me.com	2012-04-26 21:11:23	archiveteam-mobileme-hero-1423x	archiveteam-mobileme-hero-1423x-14231.tar	gallery.me.com-lbarajas.warc.gz	38792410
+lbarajas	homepage.mac.com	2012-04-26 21:11:23	archiveteam-mobileme-hero-1423x	archiveteam-mobileme-hero-1423x-14231.tar	homepage.mac.com-lbarajas.warc.gz	4893
+lbarajas	public.me.com	2012-04-26 21:11:04	archiveteam-mobileme-hero-1423x	archiveteam-mobileme-hero-1423x-14231.tar	public.me.com-lbarajas.warc.gz	389301
+lbarajas	web.me.com	2012-04-26 21:11:03	archiveteam-mobileme-hero-1423x	archiveteam-mobileme-hero-1423x-14231.tar	web.me.com-lbarajas.warc.gz	96657110
+ppodevijn	gallery.me.com	2012-04-26 21:06:24	archiveteam-mobileme-hero-1423x	archiveteam-mobileme-hero-1423x-14231.tar	gallery.me.com-ppodevijn.warc.gz	8353
+ppodevijn	homepage.mac.com	2012-04-26 21:06:24	archiveteam-mobileme-hero-1423x	archiveteam-mobileme-hero-1423x-14231.tar	homepage.mac.com-ppodevijn.warc.gz	5174
+ppodevijn	public.me.com	2012-04-26 21:06:23	archiveteam-mobileme-hero-1423x	archiveteam-mobileme-hero-1423x-14231.tar	public.me.com-ppodevijn.warc.gz	1915
+ppodevijn	web.me.com	2012-04-26 21:06:23	archiveteam-mobileme-hero-1423x	archiveteam-mobileme-hero-1423x-14231.tar	web.me.com-ppodevijn.warc.gz	17729

@@ -1,0 +1,16 @@
+earl_john	gallery.me.com	2012-05-01 10:58:04	archiveteam-mobileme-hero-1634x	archiveteam-mobileme-hero-1634x-16345.tar	gallery.me.com-earl_john.warc.gz	9063141662
+earl_john	homepage.mac.com	2012-05-01 10:58:05	archiveteam-mobileme-hero-1634x	archiveteam-mobileme-hero-1634x-16345.tar	homepage.mac.com-earl_john.warc.gz	4922
+earl_john	public.me.com	2012-05-01 06:42:17	archiveteam-mobileme-hero-1634x	archiveteam-mobileme-hero-1634x-16345.tar	public.me.com-earl_john.warc.gz	1919
+earl_john	web.me.com	2012-05-01 06:42:04	archiveteam-mobileme-hero-1634x	archiveteam-mobileme-hero-1634x-16345.tar	web.me.com-earl_john.warc.gz	249053973
+kitanin	gallery.me.com	2012-05-01 03:23:21	archiveteam-mobileme-hero-1634x	archiveteam-mobileme-hero-1634x-16345.tar	gallery.me.com-kitanin.warc.gz	5806
+kitanin	homepage.mac.com	2012-05-01 03:24:16	archiveteam-mobileme-hero-1634x	archiveteam-mobileme-hero-1634x-16345.tar	homepage.mac.com-kitanin.warc.gz	6675694
+kitanin	public.me.com	2012-05-01 03:23:20	archiveteam-mobileme-hero-1634x	archiveteam-mobileme-hero-1634x-16345.tar	public.me.com-kitanin.warc.gz	1910
+kitanin	web.me.com	2012-05-01 03:23:16	archiveteam-mobileme-hero-1634x	archiveteam-mobileme-hero-1634x-16345.tar	web.me.com-kitanin.warc.gz	1403589
+kustomkar	gallery.me.com	2012-05-01 05:15:56	archiveteam-mobileme-hero-1634x	archiveteam-mobileme-hero-1634x-16345.tar	gallery.me.com-kustomkar.warc.gz	732957404
+kustomkar	homepage.mac.com	2012-05-01 05:15:59	archiveteam-mobileme-hero-1634x	archiveteam-mobileme-hero-1634x-16345.tar	homepage.mac.com-kustomkar.warc.gz	4916
+kustomkar	public.me.com	2012-05-01 04:31:47	archiveteam-mobileme-hero-1634x	archiveteam-mobileme-hero-1634x-16345.tar	public.me.com-kustomkar.warc.gz	1919
+kustomkar	web.me.com	2012-05-01 04:31:22	archiveteam-mobileme-hero-1634x	archiveteam-mobileme-hero-1634x-16345.tar	web.me.com-kustomkar.warc.gz	669410500
+weatheredwall	gallery.me.com	2012-05-01 03:24:21	archiveteam-mobileme-hero-1634x	archiveteam-mobileme-hero-1634x-16345.tar	gallery.me.com-weatheredwall.warc.gz	8359
+weatheredwall	homepage.mac.com	2012-05-01 03:24:21	archiveteam-mobileme-hero-1634x	archiveteam-mobileme-hero-1634x-16345.tar	homepage.mac.com-weatheredwall.warc.gz	5186
+weatheredwall	public.me.com	2012-05-01 03:24:20	archiveteam-mobileme-hero-1634x	archiveteam-mobileme-hero-1634x-16345.tar	public.me.com-weatheredwall.warc.gz	1928
+weatheredwall	web.me.com	2012-05-01 03:24:19	archiveteam-mobileme-hero-1634x	archiveteam-mobileme-hero-1634x-16345.tar	web.me.com-weatheredwall.warc.gz	17766

@@ -1,0 +1,16 @@
+cornfed	gallery.me.com	2012-04-29 03:20:44	archiveteam-mobileme-hero-1536x	archiveteam-mobileme-hero-1536x-15368.tar	gallery.me.com-cornfed.warc.gz	5060
+cornfed	homepage.mac.com	2012-04-29 03:20:52	archiveteam-mobileme-hero-1536x	archiveteam-mobileme-hero-1536x-15368.tar	homepage.mac.com-cornfed.warc.gz	124862
+cornfed	public.me.com	2012-04-29 03:20:43	archiveteam-mobileme-hero-1536x	archiveteam-mobileme-hero-1536x-15368.tar	public.me.com-cornfed.warc.gz	4091
+cornfed	web.me.com	2012-04-29 03:20:42	archiveteam-mobileme-hero-1536x	archiveteam-mobileme-hero-1536x-15368.tar	web.me.com-cornfed.warc.gz	2938195
+johluc	gallery.me.com	2012-04-29 03:21:19	archiveteam-mobileme-hero-1536x	archiveteam-mobileme-hero-1536x-15368.tar	gallery.me.com-johluc.warc.gz	5097
+johluc	homepage.mac.com	2012-04-29 03:21:26	archiveteam-mobileme-hero-1536x	archiveteam-mobileme-hero-1536x-15368.tar	homepage.mac.com-johluc.warc.gz	98872
+johluc	public.me.com	2012-04-29 03:21:18	archiveteam-mobileme-hero-1536x	archiveteam-mobileme-hero-1536x-15368.tar	public.me.com-johluc.warc.gz	39991516
+johluc	web.me.com	2012-04-29 03:20:58	archiveteam-mobileme-hero-1536x	archiveteam-mobileme-hero-1536x-15368.tar	web.me.com-johluc.warc.gz	32913
+ruy.blanes	gallery.me.com	2012-04-29 05:26:38	archiveteam-mobileme-hero-1536x	archiveteam-mobileme-hero-1536x-15368.tar	gallery.me.com-ruy.blanes.warc.gz	1796373239
+ruy.blanes	homepage.mac.com	2012-04-29 05:26:38	archiveteam-mobileme-hero-1536x	archiveteam-mobileme-hero-1536x-15368.tar	homepage.mac.com-ruy.blanes.warc.gz	4921
+ruy.blanes	public.me.com	2012-04-29 04:40:25	archiveteam-mobileme-hero-1536x	archiveteam-mobileme-hero-1536x-15368.tar	public.me.com-ruy.blanes.warc.gz	3441
+ruy.blanes	web.me.com	2012-04-29 04:40:24	archiveteam-mobileme-hero-1536x	archiveteam-mobileme-hero-1536x-15368.tar	web.me.com-ruy.blanes.warc.gz	196860336
+vincentpetit	gallery.me.com	2012-04-29 04:27:09	archiveteam-mobileme-hero-1536x	archiveteam-mobileme-hero-1536x-15368.tar	gallery.me.com-vincentpetit.warc.gz	680927883
+vincentpetit	homepage.mac.com	2012-04-29 04:27:09	archiveteam-mobileme-hero-1536x	archiveteam-mobileme-hero-1536x-15368.tar	homepage.mac.com-vincentpetit.warc.gz	4941
+vincentpetit	public.me.com	2012-04-29 04:02:44	archiveteam-mobileme-hero-1536x	archiveteam-mobileme-hero-1536x-15368.tar	public.me.com-vincentpetit.warc.gz	897663373
+vincentpetit	web.me.com	2012-04-29 03:49:41	archiveteam-mobileme-hero-1536x	archiveteam-mobileme-hero-1536x-15368.tar	web.me.com-vincentpetit.warc.gz	769428685

@@ -1,0 +1,8 @@
+oncard1	gallery.me.com	2012-05-04 17:25:28	archiveteam-mobileme-hero-1755x	archiveteam-mobileme-hero-1755x-17557.tar	gallery.me.com-oncard1.warc.gz	12315
+oncard1	homepage.mac.com	2012-05-04 17:25:28	archiveteam-mobileme-hero-1755x	archiveteam-mobileme-hero-1755x-17557.tar	homepage.mac.com-oncard1.warc.gz	7154
+oncard1	public.me.com	2012-05-04 17:25:26	archiveteam-mobileme-hero-1755x	archiveteam-mobileme-hero-1755x-17557.tar	public.me.com-oncard1.warc.gz	1918
+oncard1	web.me.com	2012-05-04 17:25:25	archiveteam-mobileme-hero-1755x	archiveteam-mobileme-hero-1755x-17557.tar	web.me.com-oncard1.warc.gz	22507
+zealot	gallery.me.com	2012-05-04 20:12:10	archiveteam-mobileme-hero-1755x	archiveteam-mobileme-hero-1755x-17557.tar	gallery.me.com-zealot.warc.gz	5012408524
+zealot	homepage.mac.com	2012-05-04 20:12:12	archiveteam-mobileme-hero-1755x	archiveteam-mobileme-hero-1755x-17557.tar	homepage.mac.com-zealot.warc.gz	217714
+zealot	public.me.com	2012-05-04 18:29:13	archiveteam-mobileme-hero-1755x	archiveteam-mobileme-hero-1755x-17557.tar	public.me.com-zealot.warc.gz	1919
+zealot	web.me.com	2012-05-04 18:28:55	archiveteam-mobileme-hero-1755x	archiveteam-mobileme-hero-1755x-17557.tar	web.me.com-zealot.warc.gz	2675722266

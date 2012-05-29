@@ -1,0 +1,16 @@
+pbg4_web	gallery.me.com	2012-04-23 10:02:45	archiveteam-mobileme-hero-1232x	archiveteam-mobileme-hero-1232x-12327.tar	gallery.me.com-pbg4_web.warc.gz	8348
+pbg4_web	homepage.mac.com	2012-04-23 10:02:45	archiveteam-mobileme-hero-1232x	archiveteam-mobileme-hero-1232x-12327.tar	homepage.mac.com-pbg4_web.warc.gz	5153
+pbg4_web	public.me.com	2012-04-23 10:02:44	archiveteam-mobileme-hero-1232x	archiveteam-mobileme-hero-1232x-12327.tar	public.me.com-pbg4_web.warc.gz	1911
+pbg4_web	web.me.com	2012-04-23 10:02:43	archiveteam-mobileme-hero-1232x	archiveteam-mobileme-hero-1232x-12327.tar	web.me.com-pbg4_web.warc.gz	17749
+per.maning	gallery.me.com	2012-04-23 11:51:13	archiveteam-mobileme-hero-1232x	archiveteam-mobileme-hero-1232x-12327.tar	gallery.me.com-per.maning.warc.gz	761152929
+per.maning	homepage.mac.com	2012-04-23 11:51:14	archiveteam-mobileme-hero-1232x	archiveteam-mobileme-hero-1232x-12327.tar	homepage.mac.com-per.maning.warc.gz	4908
+per.maning	public.me.com	2012-04-23 11:43:41	archiveteam-mobileme-hero-1232x	archiveteam-mobileme-hero-1232x-12327.tar	public.me.com-per.maning.warc.gz	1919
+per.maning	web.me.com	2012-04-23 11:43:40	archiveteam-mobileme-hero-1232x	archiveteam-mobileme-hero-1232x-12327.tar	web.me.com-per.maning.warc.gz	176900466
+toby.prod	gallery.me.com	2012-04-23 11:00:06	archiveteam-mobileme-hero-1232x	archiveteam-mobileme-hero-1232x-12327.tar	gallery.me.com-toby.prod.warc.gz	741584008
+toby.prod	homepage.mac.com	2012-04-23 11:00:07	archiveteam-mobileme-hero-1232x	archiveteam-mobileme-hero-1232x-12327.tar	homepage.mac.com-toby.prod.warc.gz	4923
+toby.prod	public.me.com	2012-04-23 10:41:14	archiveteam-mobileme-hero-1232x	archiveteam-mobileme-hero-1232x-12327.tar	public.me.com-toby.prod.warc.gz	1921
+toby.prod	web.me.com	2012-04-23 10:41:09	archiveteam-mobileme-hero-1232x	archiveteam-mobileme-hero-1232x-12327.tar	web.me.com-toby.prod.warc.gz	915283626
+worley	gallery.me.com	2012-04-23 13:26:17	archiveteam-mobileme-hero-1232x	archiveteam-mobileme-hero-1232x-12327.tar	gallery.me.com-worley.warc.gz	8048734
+worley	homepage.mac.com	2012-04-23 13:38:12	archiveteam-mobileme-hero-1232x	archiveteam-mobileme-hero-1232x-12327.tar	homepage.mac.com-worley.warc.gz	156262635
+worley	public.me.com	2012-04-23 13:25:38	archiveteam-mobileme-hero-1232x	archiveteam-mobileme-hero-1232x-12327.tar	public.me.com-worley.warc.gz	1872668743
+worley	web.me.com	2012-04-23 12:18:22	archiveteam-mobileme-hero-1232x	archiveteam-mobileme-hero-1232x-12327.tar	web.me.com-worley.warc.gz	684791112

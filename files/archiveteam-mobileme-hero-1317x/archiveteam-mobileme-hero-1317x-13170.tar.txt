@@ -1,0 +1,12 @@
+emesser	gallery.me.com	2012-04-25 00:27:27	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13170.tar	gallery.me.com-emesser.warc.gz	12280
+emesser	homepage.mac.com	2012-04-25 00:27:27	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13170.tar	homepage.mac.com-emesser.warc.gz	7124
+emesser	public.me.com	2012-04-25 00:27:26	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13170.tar	public.me.com-emesser.warc.gz	1909
+emesser	web.me.com	2012-04-25 00:27:26	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13170.tar	web.me.com-emesser.warc.gz	22418
+hmann	gallery.me.com	2012-04-25 02:01:06	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13170.tar	gallery.me.com-hmann.warc.gz	4885133039
+hmann	homepage.mac.com	2012-04-25 02:01:14	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13170.tar	homepage.mac.com-hmann.warc.gz	170969
+hmann	public.me.com	2012-04-25 00:41:19	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13170.tar	public.me.com-hmann.warc.gz	2337284
+hmann	web.me.com	2012-04-25 00:41:12	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13170.tar	web.me.com-hmann.warc.gz	105111883
+markcnewton	gallery.me.com	2012-04-25 00:27:24	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13170.tar	gallery.me.com-markcnewton.warc.gz	577551034
+markcnewton	homepage.mac.com	2012-04-25 00:27:24	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13170.tar	homepage.mac.com-markcnewton.warc.gz	4912
+markcnewton	public.me.com	2012-04-25 00:24:36	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13170.tar	public.me.com-markcnewton.warc.gz	3338
+markcnewton	web.me.com	2012-04-25 00:24:35	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13170.tar	web.me.com-markcnewton.warc.gz	21273022

@@ -1,0 +1,16 @@
+harpath	gallery.me.com	2012-04-23 02:40:33	archiveteam-mobileme-hero-1214x	archiveteam-mobileme-hero-1214x-12140.tar	gallery.me.com-harpath.warc.gz	4237
+harpath	homepage.mac.com	2012-04-23 02:40:34	archiveteam-mobileme-hero-1214x	archiveteam-mobileme-hero-1214x-12140.tar	homepage.mac.com-harpath.warc.gz	4906
+harpath	public.me.com	2012-04-23 02:40:33	archiveteam-mobileme-hero-1214x	archiveteam-mobileme-hero-1214x-12140.tar	public.me.com-harpath.warc.gz	1908
+harpath	web.me.com	2012-04-23 02:40:32	archiveteam-mobileme-hero-1214x	archiveteam-mobileme-hero-1214x-12140.tar	web.me.com-harpath.warc.gz	8938298
+matma92ser	gallery.me.com	2012-04-23 04:29:47	archiveteam-mobileme-hero-1214x	archiveteam-mobileme-hero-1214x-12140.tar	gallery.me.com-matma92ser.warc.gz	3195009841
+matma92ser	homepage.mac.com	2012-04-23 04:29:53	archiveteam-mobileme-hero-1214x	archiveteam-mobileme-hero-1214x-12140.tar	homepage.mac.com-matma92ser.warc.gz	122225
+matma92ser	public.me.com	2012-04-23 03:37:56	archiveteam-mobileme-hero-1214x	archiveteam-mobileme-hero-1214x-12140.tar	public.me.com-matma92ser.warc.gz	1864673637
+matma92ser	web.me.com	2012-04-23 03:18:04	archiveteam-mobileme-hero-1214x	archiveteam-mobileme-hero-1214x-12140.tar	web.me.com-matma92ser.warc.gz	216798994
+rbford	gallery.me.com	2012-04-23 02:37:47	archiveteam-mobileme-hero-1214x	archiveteam-mobileme-hero-1214x-12140.tar	gallery.me.com-rbford.warc.gz	94849117
+rbford	homepage.mac.com	2012-04-23 02:37:47	archiveteam-mobileme-hero-1214x	archiveteam-mobileme-hero-1214x-12140.tar	homepage.mac.com-rbford.warc.gz	4903
+rbford	public.me.com	2012-04-23 02:31:24	archiveteam-mobileme-hero-1214x	archiveteam-mobileme-hero-1214x-12140.tar	public.me.com-rbford.warc.gz	1910
+rbford	web.me.com	2012-04-23 02:31:23	archiveteam-mobileme-hero-1214x	archiveteam-mobileme-hero-1214x-12140.tar	web.me.com-rbford.warc.gz	987712
+roussi	gallery.me.com	2012-04-23 02:59:43	archiveteam-mobileme-hero-1214x	archiveteam-mobileme-hero-1214x-12140.tar	gallery.me.com-roussi.warc.gz	754813910
+roussi	homepage.mac.com	2012-04-23 02:59:44	archiveteam-mobileme-hero-1214x	archiveteam-mobileme-hero-1214x-12140.tar	homepage.mac.com-roussi.warc.gz	4843
+roussi	public.me.com	2012-04-23 02:44:27	archiveteam-mobileme-hero-1214x	archiveteam-mobileme-hero-1214x-12140.tar	public.me.com-roussi.warc.gz	3367
+roussi	web.me.com	2012-04-23 02:44:26	archiveteam-mobileme-hero-1214x	archiveteam-mobileme-hero-1214x-12140.tar	web.me.com-roussi.warc.gz	20762670

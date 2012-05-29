@@ -1,0 +1,12 @@
+amarb	gallery.me.com	2012-04-23 10:45:03	archiveteam-mobileme-hero-1234x	archiveteam-mobileme-hero-1234x-12345.tar	gallery.me.com-amarb.warc.gz	4225
+amarb	homepage.mac.com	2012-04-23 10:45:08	archiveteam-mobileme-hero-1234x	archiveteam-mobileme-hero-1234x-12345.tar	homepage.mac.com-amarb.warc.gz	203270
+amarb	public.me.com	2012-04-23 10:45:03	archiveteam-mobileme-hero-1234x	archiveteam-mobileme-hero-1234x-12345.tar	public.me.com-amarb.warc.gz	947584
+amarb	web.me.com	2012-04-23 10:45:02	archiveteam-mobileme-hero-1234x	archiveteam-mobileme-hero-1234x-12345.tar	web.me.com-amarb.warc.gz	7405
+blackbub	gallery.me.com	2012-04-23 14:41:02	archiveteam-mobileme-hero-1234x	archiveteam-mobileme-hero-1234x-12345.tar	gallery.me.com-blackbub.warc.gz	2004301358
+blackbub	homepage.mac.com	2012-04-23 14:41:02	archiveteam-mobileme-hero-1234x	archiveteam-mobileme-hero-1234x-12345.tar	homepage.mac.com-blackbub.warc.gz	4925
+blackbub	public.me.com	2012-04-23 14:00:49	archiveteam-mobileme-hero-1234x	archiveteam-mobileme-hero-1234x-12345.tar	public.me.com-blackbub.warc.gz	252961
+blackbub	web.me.com	2012-04-23 13:59:42	archiveteam-mobileme-hero-1234x	archiveteam-mobileme-hero-1234x-12345.tar	web.me.com-blackbub.warc.gz	3955017581
+sandrinecohen	gallery.me.com	2012-04-23 11:05:54	archiveteam-mobileme-hero-1234x	archiveteam-mobileme-hero-1234x-12345.tar	gallery.me.com-sandrinecohen.warc.gz	110247811
+sandrinecohen	homepage.mac.com	2012-04-23 11:05:54	archiveteam-mobileme-hero-1234x	archiveteam-mobileme-hero-1234x-12345.tar	homepage.mac.com-sandrinecohen.warc.gz	4934
+sandrinecohen	public.me.com	2012-04-23 11:01:18	archiveteam-mobileme-hero-1234x	archiveteam-mobileme-hero-1234x-12345.tar	public.me.com-sandrinecohen.warc.gz	1931
+sandrinecohen	web.me.com	2012-04-23 11:01:14	archiveteam-mobileme-hero-1234x	archiveteam-mobileme-hero-1234x-12345.tar	web.me.com-sandrinecohen.warc.gz	220947962

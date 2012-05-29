@@ -1,0 +1,16 @@
+adam.morgan	gallery.me.com	2012-05-23 17:48:45	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20548.tar	gallery.me.com-adam.morgan.warc.gz	296136148
+adam.morgan	homepage.mac.com	2012-05-23 17:48:47	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20548.tar	homepage.mac.com-adam.morgan.warc.gz	4915
+adam.morgan	public.me.com	2012-05-23 17:43:17	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20548.tar	public.me.com-adam.morgan.warc.gz	34620
+adam.morgan	web.me.com	2012-05-23 17:43:14	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20548.tar	web.me.com-adam.morgan.warc.gz	4036304
+blackwhite	gallery.me.com	2012-05-23 19:00:44	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20548.tar	gallery.me.com-blackwhite.warc.gz	4318253483
+blackwhite	homepage.mac.com	2012-05-23 19:00:45	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20548.tar	homepage.mac.com-blackwhite.warc.gz	4934
+blackwhite	public.me.com	2012-05-23 17:56:45	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20548.tar	public.me.com-blackwhite.warc.gz	431291
+blackwhite	web.me.com	2012-05-23 17:56:43	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20548.tar	web.me.com-blackwhite.warc.gz	50268626
+shuggie	gallery.me.com	2012-05-23 17:41:30	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20548.tar	gallery.me.com-shuggie.warc.gz	4242
+shuggie	homepage.mac.com	2012-05-23 17:41:35	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20548.tar	homepage.mac.com-shuggie.warc.gz	107821
+shuggie	public.me.com	2012-05-23 17:41:29	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20548.tar	public.me.com-shuggie.warc.gz	345988932
+shuggie	web.me.com	2012-05-23 17:35:04	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20548.tar	web.me.com-shuggie.warc.gz	205491
+tdereus	gallery.me.com	2012-05-23 17:42:40	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20548.tar	gallery.me.com-tdereus.warc.gz	4242
+tdereus	homepage.mac.com	2012-05-23 17:42:40	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20548.tar	homepage.mac.com-tdereus.warc.gz	4907
+tdereus	public.me.com	2012-05-23 17:42:39	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20548.tar	public.me.com-tdereus.warc.gz	1908
+tdereus	web.me.com	2012-05-23 17:42:39	archiveteam-mobileme-hero-2054x	archiveteam-mobileme-hero-2054x-20548.tar	web.me.com-tdereus.warc.gz	10419074

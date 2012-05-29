@@ -1,0 +1,16 @@
+cmeltzer1	gallery.me.com	2012-04-29 17:04:51	archiveteam-mobileme-hero-1561x	archiveteam-mobileme-hero-1561x-15617.tar	gallery.me.com-cmeltzer1.warc.gz	8358
+cmeltzer1	homepage.mac.com	2012-04-29 17:04:51	archiveteam-mobileme-hero-1561x	archiveteam-mobileme-hero-1561x-15617.tar	homepage.mac.com-cmeltzer1.warc.gz	5180
+cmeltzer1	public.me.com	2012-04-29 17:04:48	archiveteam-mobileme-hero-1561x	archiveteam-mobileme-hero-1561x-15617.tar	public.me.com-cmeltzer1.warc.gz	1911
+cmeltzer1	web.me.com	2012-04-29 17:04:48	archiveteam-mobileme-hero-1561x	archiveteam-mobileme-hero-1561x-15617.tar	web.me.com-cmeltzer1.warc.gz	17690
+mroesser	gallery.me.com	2012-04-29 17:04:45	archiveteam-mobileme-hero-1561x	archiveteam-mobileme-hero-1561x-15617.tar	gallery.me.com-mroesser.warc.gz	1517637372
+mroesser	homepage.mac.com	2012-04-29 17:04:46	archiveteam-mobileme-hero-1561x	archiveteam-mobileme-hero-1561x-15617.tar	homepage.mac.com-mroesser.warc.gz	4896
+mroesser	public.me.com	2012-04-29 16:53:21	archiveteam-mobileme-hero-1561x	archiveteam-mobileme-hero-1561x-15617.tar	public.me.com-mroesser.warc.gz	1912
+mroesser	web.me.com	2012-04-29 16:53:19	archiveteam-mobileme-hero-1561x	archiveteam-mobileme-hero-1561x-15617.tar	web.me.com-mroesser.warc.gz	797094873
+terrusini	gallery.me.com	2012-04-29 16:35:47	archiveteam-mobileme-hero-1561x	archiveteam-mobileme-hero-1561x-15617.tar	gallery.me.com-terrusini.warc.gz	5906
+terrusini	homepage.mac.com	2012-04-29 16:35:49	archiveteam-mobileme-hero-1561x	archiveteam-mobileme-hero-1561x-15617.tar	homepage.mac.com-terrusini.warc.gz	36949
+terrusini	public.me.com	2012-04-29 16:35:45	archiveteam-mobileme-hero-1561x	archiveteam-mobileme-hero-1561x-15617.tar	public.me.com-terrusini.warc.gz	1914
+terrusini	web.me.com	2012-04-29 16:35:45	archiveteam-mobileme-hero-1561x	archiveteam-mobileme-hero-1561x-15617.tar	web.me.com-terrusini.warc.gz	7907403
+zbr06	gallery.me.com	2012-04-29 17:30:02	archiveteam-mobileme-hero-1561x	archiveteam-mobileme-hero-1561x-15617.tar	gallery.me.com-zbr06.warc.gz	1527449034
+zbr06	homepage.mac.com	2012-04-29 17:30:03	archiveteam-mobileme-hero-1561x	archiveteam-mobileme-hero-1561x-15617.tar	homepage.mac.com-zbr06.warc.gz	7816
+zbr06	public.me.com	2012-04-29 17:17:18	archiveteam-mobileme-hero-1561x	archiveteam-mobileme-hero-1561x-15617.tar	public.me.com-zbr06.warc.gz	1904
+zbr06	web.me.com	2012-04-29 17:17:13	archiveteam-mobileme-hero-1561x	archiveteam-mobileme-hero-1561x-15617.tar	web.me.com-zbr06.warc.gz	972077263

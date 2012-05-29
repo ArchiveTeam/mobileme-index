@@ -1,0 +1,12 @@
+ahc_files	gallery.me.com	2012-05-03 09:59:09	archiveteam-mobileme-hero-1711x	archiveteam-mobileme-hero-1711x-17117.tar	gallery.me.com-ahc_files.warc.gz	4262
+ahc_files	homepage.mac.com	2012-05-03 09:59:14	archiveteam-mobileme-hero-1711x	archiveteam-mobileme-hero-1711x-17117.tar	homepage.mac.com-ahc_files.warc.gz	79929
+ahc_files	public.me.com	2012-05-03 09:59:08	archiveteam-mobileme-hero-1711x	archiveteam-mobileme-hero-1711x-17117.tar	public.me.com-ahc_files.warc.gz	184948
+ahc_files	web.me.com	2012-05-03 09:59:06	archiveteam-mobileme-hero-1711x	archiveteam-mobileme-hero-1711x-17117.tar	web.me.com-ahc_files.warc.gz	2499157
+morglum_s	gallery.me.com	2012-05-03 13:24:00	archiveteam-mobileme-hero-1711x	archiveteam-mobileme-hero-1711x-17117.tar	gallery.me.com-morglum_s.warc.gz	7398799119
+morglum_s	homepage.mac.com	2012-05-03 13:24:01	archiveteam-mobileme-hero-1711x	archiveteam-mobileme-hero-1711x-17117.tar	homepage.mac.com-morglum_s.warc.gz	4920
+morglum_s	public.me.com	2012-05-03 12:05:38	archiveteam-mobileme-hero-1711x	archiveteam-mobileme-hero-1711x-17117.tar	public.me.com-morglum_s.warc.gz	25046838
+morglum_s	web.me.com	2012-05-03 12:04:18	archiveteam-mobileme-hero-1711x	archiveteam-mobileme-hero-1711x-17117.tar	web.me.com-morglum_s.warc.gz	1464369731
+oreillytl	gallery.me.com	2012-05-03 09:58:45	archiveteam-mobileme-hero-1711x	archiveteam-mobileme-hero-1711x-17117.tar	gallery.me.com-oreillytl.warc.gz	909508687
+oreillytl	homepage.mac.com	2012-05-03 09:58:45	archiveteam-mobileme-hero-1711x	archiveteam-mobileme-hero-1711x-17117.tar	homepage.mac.com-oreillytl.warc.gz	4928
+oreillytl	public.me.com	2012-05-03 09:33:59	archiveteam-mobileme-hero-1711x	archiveteam-mobileme-hero-1711x-17117.tar	public.me.com-oreillytl.warc.gz	1929
+oreillytl	web.me.com	2012-05-03 09:33:58	archiveteam-mobileme-hero-1711x	archiveteam-mobileme-hero-1711x-17117.tar	web.me.com-oreillytl.warc.gz	7191087

@@ -1,0 +1,12 @@
+debussy	gallery.me.com	2012-05-12 18:01:24	archiveteam-mobileme-hero-1902x	archiveteam-mobileme-hero-1902x-19025.tar	gallery.me.com-debussy.warc.gz	4250
+debussy	homepage.mac.com	2012-05-12 18:01:24	archiveteam-mobileme-hero-1902x	archiveteam-mobileme-hero-1902x-19025.tar	homepage.mac.com-debussy.warc.gz	4906
+debussy	public.me.com	2012-05-12 18:01:24	archiveteam-mobileme-hero-1902x	archiveteam-mobileme-hero-1902x-19025.tar	public.me.com-debussy.warc.gz	1919
+debussy	web.me.com	2012-05-12 18:01:24	archiveteam-mobileme-hero-1902x	archiveteam-mobileme-hero-1902x-19025.tar	web.me.com-debussy.warc.gz	7417
+guenther.becker	gallery.me.com	2012-05-12 18:01:22	archiveteam-mobileme-hero-1902x	archiveteam-mobileme-hero-1902x-19025.tar	gallery.me.com-guenther.becker.warc.gz	44852230
+guenther.becker	homepage.mac.com	2012-05-12 18:01:23	archiveteam-mobileme-hero-1902x	archiveteam-mobileme-hero-1902x-19025.tar	homepage.mac.com-guenther.becker.warc.gz	4944
+guenther.becker	public.me.com	2012-05-12 18:00:26	archiveteam-mobileme-hero-1902x	archiveteam-mobileme-hero-1902x-19025.tar	public.me.com-guenther.becker.warc.gz	1935
+guenther.becker	web.me.com	2012-05-12 18:00:26	archiveteam-mobileme-hero-1902x	archiveteam-mobileme-hero-1902x-19025.tar	web.me.com-guenther.becker.warc.gz	4378622
+jstarko	gallery.me.com	2012-05-12 20:09:24	archiveteam-mobileme-hero-1902x	archiveteam-mobileme-hero-1902x-19025.tar	gallery.me.com-jstarko.warc.gz	5002474830
+jstarko	homepage.mac.com	2012-05-12 20:09:24	archiveteam-mobileme-hero-1902x	archiveteam-mobileme-hero-1902x-19025.tar	homepage.mac.com-jstarko.warc.gz	4902
+jstarko	public.me.com	2012-05-12 19:02:18	archiveteam-mobileme-hero-1902x	archiveteam-mobileme-hero-1902x-19025.tar	public.me.com-jstarko.warc.gz	2506704511
+jstarko	web.me.com	2012-05-12 18:44:04	archiveteam-mobileme-hero-1902x	archiveteam-mobileme-hero-1902x-19025.tar	web.me.com-jstarko.warc.gz	1702221803

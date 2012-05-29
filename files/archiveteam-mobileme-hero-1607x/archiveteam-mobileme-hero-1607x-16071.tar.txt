@@ -1,0 +1,16 @@
+GWINSTILE	gallery.me.com	2012-04-30 15:22:46	archiveteam-mobileme-hero-1607x	archiveteam-mobileme-hero-1607x-16071.tar	gallery.me.com-GWINSTILE.warc.gz	5193
+GWINSTILE	homepage.mac.com	2012-04-30 15:22:47	archiveteam-mobileme-hero-1607x	archiveteam-mobileme-hero-1607x-16071.tar	homepage.mac.com-GWINSTILE.warc.gz	4918
+GWINSTILE	public.me.com	2012-04-30 15:22:42	archiveteam-mobileme-hero-1607x	archiveteam-mobileme-hero-1607x-16071.tar	public.me.com-GWINSTILE.warc.gz	1922
+GWINSTILE	web.me.com	2012-04-30 15:22:39	archiveteam-mobileme-hero-1607x	archiveteam-mobileme-hero-1607x-16071.tar	web.me.com-GWINSTILE.warc.gz	30919485
+lornadavis	gallery.me.com	2012-04-30 17:35:41	archiveteam-mobileme-hero-1607x	archiveteam-mobileme-hero-1607x-16071.tar	gallery.me.com-lornadavis.warc.gz	613710837
+lornadavis	homepage.mac.com	2012-04-30 17:35:41	archiveteam-mobileme-hero-1607x	archiveteam-mobileme-hero-1607x-16071.tar	homepage.mac.com-lornadavis.warc.gz	4908
+lornadavis	public.me.com	2012-04-30 17:25:30	archiveteam-mobileme-hero-1607x	archiveteam-mobileme-hero-1607x-16071.tar	public.me.com-lornadavis.warc.gz	1920
+lornadavis	web.me.com	2012-04-30 17:25:30	archiveteam-mobileme-hero-1607x	archiveteam-mobileme-hero-1607x-16071.tar	web.me.com-lornadavis.warc.gz	7430407
+olivier.goldstein	gallery.me.com	2012-04-30 17:22:34	archiveteam-mobileme-hero-1607x	archiveteam-mobileme-hero-1607x-16071.tar	gallery.me.com-olivier.goldstein.warc.gz	1894784474
+olivier.goldstein	homepage.mac.com	2012-04-30 17:22:34	archiveteam-mobileme-hero-1607x	archiveteam-mobileme-hero-1607x-16071.tar	homepage.mac.com-olivier.goldstein.warc.gz	4953
+olivier.goldstein	public.me.com	2012-04-30 15:58:35	archiveteam-mobileme-hero-1607x	archiveteam-mobileme-hero-1607x-16071.tar	public.me.com-olivier.goldstein.warc.gz	72887484
+olivier.goldstein	web.me.com	2012-04-30 15:55:27	archiveteam-mobileme-hero-1607x	archiveteam-mobileme-hero-1607x-16071.tar	web.me.com-olivier.goldstein.warc.gz	245247776
+thierry.langenberger	gallery.me.com	2012-04-30 19:05:45	archiveteam-mobileme-hero-1607x	archiveteam-mobileme-hero-1607x-16071.tar	gallery.me.com-thierry.langenberger.warc.gz	2035917113
+thierry.langenberger	homepage.mac.com	2012-04-30 19:05:45	archiveteam-mobileme-hero-1607x	archiveteam-mobileme-hero-1607x-16071.tar	homepage.mac.com-thierry.langenberger.warc.gz	4944
+thierry.langenberger	public.me.com	2012-04-30 18:04:40	archiveteam-mobileme-hero-1607x	archiveteam-mobileme-hero-1607x-16071.tar	public.me.com-thierry.langenberger.warc.gz	224393
+thierry.langenberger	web.me.com	2012-04-30 18:04:33	archiveteam-mobileme-hero-1607x	archiveteam-mobileme-hero-1607x-16071.tar	web.me.com-thierry.langenberger.warc.gz	111065962

@@ -1,0 +1,16 @@
+busterx	gallery.me.com	2012-05-11 09:02:23	archiveteam-mobileme-hero-1883x	archiveteam-mobileme-hero-1883x-18830.tar	gallery.me.com-busterx.warc.gz	38515605
+busterx	homepage.mac.com	2012-05-11 09:02:24	archiveteam-mobileme-hero-1883x	archiveteam-mobileme-hero-1883x-18830.tar	homepage.mac.com-busterx.warc.gz	4902
+busterx	public.me.com	2012-05-11 09:01:52	archiveteam-mobileme-hero-1883x	archiveteam-mobileme-hero-1883x-18830.tar	public.me.com-busterx.warc.gz	1313717766
+busterx	web.me.com	2012-05-11 08:40:48	archiveteam-mobileme-hero-1883x	archiveteam-mobileme-hero-1883x-18830.tar	web.me.com-busterx.warc.gz	10340019
+duke25	gallery.me.com	2012-05-11 12:21:40	archiveteam-mobileme-hero-1883x	archiveteam-mobileme-hero-1883x-18830.tar	gallery.me.com-duke25.warc.gz	2899321098
+duke25	homepage.mac.com	2012-05-11 12:21:40	archiveteam-mobileme-hero-1883x	archiveteam-mobileme-hero-1883x-18830.tar	homepage.mac.com-duke25.warc.gz	4893
+duke25	public.me.com	2012-05-11 11:51:38	archiveteam-mobileme-hero-1883x	archiveteam-mobileme-hero-1883x-18830.tar	public.me.com-duke25.warc.gz	1915
+duke25	web.me.com	2012-05-11 11:47:29	archiveteam-mobileme-hero-1883x	archiveteam-mobileme-hero-1883x-18830.tar	web.me.com-duke25.warc.gz	1067029977
+marsha.stewart	gallery.me.com	2012-05-11 10:35:05	archiveteam-mobileme-hero-1883x	archiveteam-mobileme-hero-1883x-18830.tar	gallery.me.com-marsha.stewart.warc.gz	5719
+marsha.stewart	homepage.mac.com	2012-05-11 10:35:05	archiveteam-mobileme-hero-1883x	archiveteam-mobileme-hero-1883x-18830.tar	homepage.mac.com-marsha.stewart.warc.gz	4939
+marsha.stewart	public.me.com	2012-05-11 10:35:04	archiveteam-mobileme-hero-1883x	archiveteam-mobileme-hero-1883x-18830.tar	public.me.com-marsha.stewart.warc.gz	1929
+marsha.stewart	web.me.com	2012-05-11 10:35:04	archiveteam-mobileme-hero-1883x	archiveteam-mobileme-hero-1883x-18830.tar	web.me.com-marsha.stewart.warc.gz	10195328
+seamushyland	gallery.me.com	2012-05-11 10:32:39	archiveteam-mobileme-hero-1883x	archiveteam-mobileme-hero-1883x-18830.tar	gallery.me.com-seamushyland.warc.gz	1932437597
+seamushyland	homepage.mac.com	2012-05-11 10:32:43	archiveteam-mobileme-hero-1883x	archiveteam-mobileme-hero-1883x-18830.tar	homepage.mac.com-seamushyland.warc.gz	91001
+seamushyland	public.me.com	2012-05-11 09:44:21	archiveteam-mobileme-hero-1883x	archiveteam-mobileme-hero-1883x-18830.tar	public.me.com-seamushyland.warc.gz	1934
+seamushyland	web.me.com	2012-05-11 09:44:03	archiveteam-mobileme-hero-1883x	archiveteam-mobileme-hero-1883x-18830.tar	web.me.com-seamushyland.warc.gz	593287293

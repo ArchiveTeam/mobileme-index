@@ -1,0 +1,8 @@
+a.j.w	gallery.me.com	2012-05-02 06:17:20	archiveteam-mobileme-hero-1668x	archiveteam-mobileme-hero-1668x-16686.tar	gallery.me.com-a.j.w.warc.gz	4245
+a.j.w	homepage.mac.com	2012-05-02 06:17:21	archiveteam-mobileme-hero-1668x	archiveteam-mobileme-hero-1668x-16686.tar	homepage.mac.com-a.j.w.warc.gz	4903
+a.j.w	public.me.com	2012-05-02 06:17:20	archiveteam-mobileme-hero-1668x	archiveteam-mobileme-hero-1668x-16686.tar	public.me.com-a.j.w.warc.gz	850328186
+a.j.w	web.me.com	2012-05-02 05:50:17	archiveteam-mobileme-hero-1668x	archiveteam-mobileme-hero-1668x-16686.tar	web.me.com-a.j.w.warc.gz	121176568
+rsr2	gallery.me.com	2012-05-02 08:50:41	archiveteam-mobileme-hero-1668x	archiveteam-mobileme-hero-1668x-16686.tar	gallery.me.com-rsr2.warc.gz	111381049
+rsr2	homepage.mac.com	2012-05-02 08:50:42	archiveteam-mobileme-hero-1668x	archiveteam-mobileme-hero-1668x-16686.tar	homepage.mac.com-rsr2.warc.gz	4890
+rsr2	public.me.com	2012-05-02 08:47:47	archiveteam-mobileme-hero-1668x	archiveteam-mobileme-hero-1668x-16686.tar	public.me.com-rsr2.warc.gz	5466513097
+rsr2	web.me.com	2012-05-02 06:17:57	archiveteam-mobileme-hero-1668x	archiveteam-mobileme-hero-1668x-16686.tar	web.me.com-rsr2.warc.gz	1810537

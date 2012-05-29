@@ -1,0 +1,16 @@
+cognacdiagnostics	gallery.me.com	2012-04-24 03:32:09	archiveteam-mobileme-hero-1265x	archiveteam-mobileme-hero-1265x-12651.tar	gallery.me.com-cognacdiagnostics.warc.gz	12358
+cognacdiagnostics	homepage.mac.com	2012-04-24 03:32:09	archiveteam-mobileme-hero-1265x	archiveteam-mobileme-hero-1265x-12651.tar	homepage.mac.com-cognacdiagnostics.warc.gz	7186
+cognacdiagnostics	public.me.com	2012-04-24 03:32:07	archiveteam-mobileme-hero-1265x	archiveteam-mobileme-hero-1265x-12651.tar	public.me.com-cognacdiagnostics.warc.gz	1931
+cognacdiagnostics	web.me.com	2012-04-24 03:32:07	archiveteam-mobileme-hero-1265x	archiveteam-mobileme-hero-1265x-12651.tar	web.me.com-cognacdiagnostics.warc.gz	22591
+dr.mantis	gallery.me.com	2012-04-24 03:32:03	archiveteam-mobileme-hero-1265x	archiveteam-mobileme-hero-1265x-12651.tar	gallery.me.com-dr.mantis.warc.gz	6371
+dr.mantis	homepage.mac.com	2012-04-24 03:32:03	archiveteam-mobileme-hero-1265x	archiveteam-mobileme-hero-1265x-12651.tar	homepage.mac.com-dr.mantis.warc.gz	4900
+dr.mantis	public.me.com	2012-04-24 03:32:01	archiveteam-mobileme-hero-1265x	archiveteam-mobileme-hero-1265x-12651.tar	public.me.com-dr.mantis.warc.gz	4162
+dr.mantis	web.me.com	2012-04-24 03:32:00	archiveteam-mobileme-hero-1265x	archiveteam-mobileme-hero-1265x-12651.tar	web.me.com-dr.mantis.warc.gz	79753
+elishae	gallery.me.com	2012-04-24 05:55:19	archiveteam-mobileme-hero-1265x	archiveteam-mobileme-hero-1265x-12651.tar	gallery.me.com-elishae.warc.gz	4561651944
+elishae	homepage.mac.com	2012-04-24 05:55:20	archiveteam-mobileme-hero-1265x	archiveteam-mobileme-hero-1265x-12651.tar	homepage.mac.com-elishae.warc.gz	4886
+elishae	public.me.com	2012-04-24 04:07:04	archiveteam-mobileme-hero-1265x	archiveteam-mobileme-hero-1265x-12651.tar	public.me.com-elishae.warc.gz	1915
+elishae	web.me.com	2012-04-24 04:06:40	archiveteam-mobileme-hero-1265x	archiveteam-mobileme-hero-1265x-12651.tar	web.me.com-elishae.warc.gz	309029309
+jbguy1	gallery.me.com	2012-04-24 03:38:15	archiveteam-mobileme-hero-1265x	archiveteam-mobileme-hero-1265x-12651.tar	gallery.me.com-jbguy1.warc.gz	4253
+jbguy1	homepage.mac.com	2012-04-24 03:38:15	archiveteam-mobileme-hero-1265x	archiveteam-mobileme-hero-1265x-12651.tar	homepage.mac.com-jbguy1.warc.gz	4895
+jbguy1	public.me.com	2012-04-24 03:38:14	archiveteam-mobileme-hero-1265x	archiveteam-mobileme-hero-1265x-12651.tar	public.me.com-jbguy1.warc.gz	1918
+jbguy1	web.me.com	2012-04-24 03:38:13	archiveteam-mobileme-hero-1265x	archiveteam-mobileme-hero-1265x-12651.tar	web.me.com-jbguy1.warc.gz	83142145

@@ -1,0 +1,12 @@
+bg_hodges	gallery.me.com	2012-04-24 10:54:27	archiveteam-mobileme-hero-1290x	archiveteam-mobileme-hero-1290x-12909.tar	gallery.me.com-bg_hodges.warc.gz	4254
+bg_hodges	homepage.mac.com	2012-04-24 10:54:27	archiveteam-mobileme-hero-1290x	archiveteam-mobileme-hero-1290x-12909.tar	homepage.mac.com-bg_hodges.warc.gz	4904
+bg_hodges	public.me.com	2012-04-24 10:54:26	archiveteam-mobileme-hero-1290x	archiveteam-mobileme-hero-1290x-12909.tar	public.me.com-bg_hodges.warc.gz	1921
+bg_hodges	web.me.com	2012-04-24 10:54:17	archiveteam-mobileme-hero-1290x	archiveteam-mobileme-hero-1290x-12909.tar	web.me.com-bg_hodges.warc.gz	321238478
+karaandtrey	gallery.me.com	2012-04-24 15:01:42	archiveteam-mobileme-hero-1290x	archiveteam-mobileme-hero-1290x-12909.tar	gallery.me.com-karaandtrey.warc.gz	3530774203
+karaandtrey	homepage.mac.com	2012-04-24 15:01:43	archiveteam-mobileme-hero-1290x	archiveteam-mobileme-hero-1290x-12909.tar	homepage.mac.com-karaandtrey.warc.gz	4915
+karaandtrey	public.me.com	2012-04-24 13:31:00	archiveteam-mobileme-hero-1290x	archiveteam-mobileme-hero-1290x-12909.tar	public.me.com-karaandtrey.warc.gz	353914145
+karaandtrey	web.me.com	2012-04-24 13:11:38	archiveteam-mobileme-hero-1290x	archiveteam-mobileme-hero-1290x-12909.tar	web.me.com-karaandtrey.warc.gz	3518780375
+sec1350	gallery.me.com	2012-04-24 10:44:15	archiveteam-mobileme-hero-1290x	archiveteam-mobileme-hero-1290x-12909.tar	gallery.me.com-sec1350.warc.gz	4236
+sec1350	homepage.mac.com	2012-04-24 10:44:16	archiveteam-mobileme-hero-1290x	archiveteam-mobileme-hero-1290x-12909.tar	homepage.mac.com-sec1350.warc.gz	4899
+sec1350	public.me.com	2012-04-24 10:44:15	archiveteam-mobileme-hero-1290x	archiveteam-mobileme-hero-1290x-12909.tar	public.me.com-sec1350.warc.gz	3326
+sec1350	web.me.com	2012-04-24 10:44:14	archiveteam-mobileme-hero-1290x	archiveteam-mobileme-hero-1290x-12909.tar	web.me.com-sec1350.warc.gz	28837

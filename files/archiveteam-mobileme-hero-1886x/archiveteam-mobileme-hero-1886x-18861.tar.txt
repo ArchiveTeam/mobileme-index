@@ -1,0 +1,16 @@
+ccmd	gallery.me.com	2012-05-11 17:00:40	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18861.tar	gallery.me.com-ccmd.warc.gz	8577424909
+ccmd	homepage.mac.com	2012-05-11 17:01:19	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18861.tar	homepage.mac.com-ccmd.warc.gz	516582
+ccmd	public.me.com	2012-05-11 14:55:37	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18861.tar	public.me.com-ccmd.warc.gz	3371
+ccmd	web.me.com	2012-05-11 14:55:06	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18861.tar	web.me.com-ccmd.warc.gz	918443111
+dmcbride90	gallery.me.com	2012-05-11 12:29:42	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18861.tar	gallery.me.com-dmcbride90.warc.gz	288615697
+dmcbride90	homepage.mac.com	2012-05-11 12:29:42	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18861.tar	homepage.mac.com-dmcbride90.warc.gz	4921
+dmcbride90	public.me.com	2012-05-11 12:22:10	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18861.tar	public.me.com-dmcbride90.warc.gz	1922
+dmcbride90	web.me.com	2012-05-11 12:22:09	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18861.tar	web.me.com-dmcbride90.warc.gz	264883351
+jenksfarmer	gallery.me.com	2012-05-11 13:34:21	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18861.tar	gallery.me.com-jenksfarmer.warc.gz	470127709
+jenksfarmer	homepage.mac.com	2012-05-11 13:34:24	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18861.tar	homepage.mac.com-jenksfarmer.warc.gz	4932
+jenksfarmer	public.me.com	2012-05-11 13:27:53	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18861.tar	public.me.com-jenksfarmer.warc.gz	132717364
+jenksfarmer	web.me.com	2012-05-11 13:24:32	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18861.tar	web.me.com-jenksfarmer.warc.gz	206023442
+sibilled	gallery.me.com	2012-05-11 12:58:23	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18861.tar	gallery.me.com-sibilled.warc.gz	14243756
+sibilled	homepage.mac.com	2012-05-11 12:58:24	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18861.tar	homepage.mac.com-sibilled.warc.gz	4909
+sibilled	public.me.com	2012-05-11 12:57:56	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18861.tar	public.me.com-sibilled.warc.gz	1913
+sibilled	web.me.com	2012-05-11 12:57:55	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18861.tar	web.me.com-sibilled.warc.gz	857258756

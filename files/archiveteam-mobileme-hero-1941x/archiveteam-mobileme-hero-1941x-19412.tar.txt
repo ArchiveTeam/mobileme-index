@@ -1,0 +1,12 @@
+anmac2	gallery.me.com	2012-05-16 05:59:05	archiveteam-mobileme-hero-1941x	archiveteam-mobileme-hero-1941x-19412.tar	gallery.me.com-anmac2.warc.gz	183570642
+anmac2	homepage.mac.com	2012-05-16 05:59:05	archiveteam-mobileme-hero-1941x	archiveteam-mobileme-hero-1941x-19412.tar	homepage.mac.com-anmac2.warc.gz	4892
+anmac2	public.me.com	2012-05-16 05:53:23	archiveteam-mobileme-hero-1941x	archiveteam-mobileme-hero-1941x-19412.tar	public.me.com-anmac2.warc.gz	1912
+anmac2	web.me.com	2012-05-16 05:53:22	archiveteam-mobileme-hero-1941x	archiveteam-mobileme-hero-1941x-19412.tar	web.me.com-anmac2.warc.gz	92353289
+gbelli	gallery.me.com	2012-05-16 08:13:57	archiveteam-mobileme-hero-1941x	archiveteam-mobileme-hero-1941x-19412.tar	gallery.me.com-gbelli.warc.gz	12565507110
+gbelli	homepage.mac.com	2012-05-16 08:14:02	archiveteam-mobileme-hero-1941x	archiveteam-mobileme-hero-1941x-19412.tar	homepage.mac.com-gbelli.warc.gz	115332
+gbelli	public.me.com	2012-05-16 06:17:47	archiveteam-mobileme-hero-1941x	archiveteam-mobileme-hero-1941x-19412.tar	public.me.com-gbelli.warc.gz	251840733
+gbelli	web.me.com	2012-05-16 06:12:17	archiveteam-mobileme-hero-1941x	archiveteam-mobileme-hero-1941x-19412.tar	web.me.com-gbelli.warc.gz	29866097
+zoranmatic	gallery.me.com	2012-05-16 06:02:53	archiveteam-mobileme-hero-1941x	archiveteam-mobileme-hero-1941x-19412.tar	gallery.me.com-zoranmatic.warc.gz	4262
+zoranmatic	homepage.mac.com	2012-05-16 06:02:53	archiveteam-mobileme-hero-1941x	archiveteam-mobileme-hero-1941x-19412.tar	homepage.mac.com-zoranmatic.warc.gz	4924
+zoranmatic	public.me.com	2012-05-16 06:02:52	archiveteam-mobileme-hero-1941x	archiveteam-mobileme-hero-1941x-19412.tar	public.me.com-zoranmatic.warc.gz	1926
+zoranmatic	web.me.com	2012-05-16 06:02:52	archiveteam-mobileme-hero-1941x	archiveteam-mobileme-hero-1941x-19412.tar	web.me.com-zoranmatic.warc.gz	16633224

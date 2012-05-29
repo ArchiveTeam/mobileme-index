@@ -1,0 +1,16 @@
+impuhh1	gallery.me.com	2012-04-30 00:43:18	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15780.tar	gallery.me.com-impuhh1.warc.gz	8342
+impuhh1	homepage.mac.com	2012-04-30 00:43:19	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15780.tar	homepage.mac.com-impuhh1.warc.gz	5168
+impuhh1	public.me.com	2012-04-30 00:43:17	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15780.tar	public.me.com-impuhh1.warc.gz	1916
+impuhh1	web.me.com	2012-04-30 00:43:17	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15780.tar	web.me.com-impuhh1.warc.gz	17741
+jenkuhlmann	gallery.me.com	2012-04-30 00:43:13	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15780.tar	gallery.me.com-jenkuhlmann.warc.gz	5013
+jenkuhlmann	homepage.mac.com	2012-04-30 00:43:13	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15780.tar	homepage.mac.com-jenkuhlmann.warc.gz	4931
+jenkuhlmann	public.me.com	2012-04-30 00:43:11	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15780.tar	public.me.com-jenkuhlmann.warc.gz	1925
+jenkuhlmann	web.me.com	2012-04-30 00:43:09	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15780.tar	web.me.com-jenkuhlmann.warc.gz	82572490
+robertoc	gallery.me.com	2012-04-30 00:07:55	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15780.tar	gallery.me.com-robertoc.warc.gz	2213353088
+robertoc	homepage.mac.com	2012-04-30 00:07:55	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15780.tar	homepage.mac.com-robertoc.warc.gz	4914
+robertoc	public.me.com	2012-04-29 23:05:36	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15780.tar	public.me.com-robertoc.warc.gz	3559
+robertoc	web.me.com	2012-04-29 23:05:30	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15780.tar	web.me.com-robertoc.warc.gz	45658512
+vanbaalen	gallery.me.com	2012-04-30 02:21:07	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15780.tar	gallery.me.com-vanbaalen.warc.gz	3490711931
+vanbaalen	homepage.mac.com	2012-04-30 02:21:08	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15780.tar	homepage.mac.com-vanbaalen.warc.gz	4913
+vanbaalen	public.me.com	2012-04-30 01:04:53	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15780.tar	public.me.com-vanbaalen.warc.gz	214589937
+vanbaalen	web.me.com	2012-04-30 00:57:04	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15780.tar	web.me.com-vanbaalen.warc.gz	98242482

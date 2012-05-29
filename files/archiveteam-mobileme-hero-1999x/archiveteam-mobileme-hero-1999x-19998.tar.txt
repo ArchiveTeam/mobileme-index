@@ -1,0 +1,8 @@
+deg	gallery.me.com	2012-05-20 18:14:55	archiveteam-mobileme-hero-1999x	archiveteam-mobileme-hero-1999x-19998.tar	gallery.me.com-deg.warc.gz	11956234318
+deg	homepage.mac.com	2012-05-20 18:14:55	archiveteam-mobileme-hero-1999x	archiveteam-mobileme-hero-1999x-19998.tar	homepage.mac.com-deg.warc.gz	4869
+deg	public.me.com	2012-05-20 12:49:26	archiveteam-mobileme-hero-1999x	archiveteam-mobileme-hero-1999x-19998.tar	public.me.com-deg.warc.gz	3324
+deg	web.me.com	2012-05-20 12:49:07	archiveteam-mobileme-hero-1999x	archiveteam-mobileme-hero-1999x-19998.tar	web.me.com-deg.warc.gz	3124737943
+lcalvez	gallery.me.com	2012-05-20 01:04:21	archiveteam-mobileme-hero-1999x	archiveteam-mobileme-hero-1999x-19998.tar	gallery.me.com-lcalvez.warc.gz	74317535
+lcalvez	homepage.mac.com	2012-05-20 01:04:21	archiveteam-mobileme-hero-1999x	archiveteam-mobileme-hero-1999x-19998.tar	homepage.mac.com-lcalvez.warc.gz	4893
+lcalvez	public.me.com	2012-05-20 00:57:01	archiveteam-mobileme-hero-1999x	archiveteam-mobileme-hero-1999x-19998.tar	public.me.com-lcalvez.warc.gz	61122337
+lcalvez	web.me.com	2012-05-20 00:54:06	archiveteam-mobileme-hero-1999x	archiveteam-mobileme-hero-1999x-19998.tar	web.me.com-lcalvez.warc.gz	8417075

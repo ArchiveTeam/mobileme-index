@@ -1,0 +1,12 @@
+adj	gallery.me.com	2012-04-27 11:34:59	archiveteam-mobileme-hero-1452x	archiveteam-mobileme-hero-1452x-14521.tar	gallery.me.com-adj.warc.gz	6190
+adj	homepage.mac.com	2012-04-27 11:35:00	archiveteam-mobileme-hero-1452x	archiveteam-mobileme-hero-1452x-14521.tar	homepage.mac.com-adj.warc.gz	4889
+adj	public.me.com	2012-04-27 11:34:58	archiveteam-mobileme-hero-1452x	archiveteam-mobileme-hero-1452x-14521.tar	public.me.com-adj.warc.gz	1900
+adj	web.me.com	2012-04-27 11:34:56	archiveteam-mobileme-hero-1452x	archiveteam-mobileme-hero-1452x-14521.tar	web.me.com-adj.warc.gz	177038140
+big_malk	gallery.me.com	2012-04-27 11:11:45	archiveteam-mobileme-hero-1452x	archiveteam-mobileme-hero-1452x-14521.tar	gallery.me.com-big_malk.warc.gz	811668657
+big_malk	homepage.mac.com	2012-04-27 11:13:07	archiveteam-mobileme-hero-1452x	archiveteam-mobileme-hero-1452x-14521.tar	homepage.mac.com-big_malk.warc.gz	1611244
+big_malk	public.me.com	2012-04-27 10:58:00	archiveteam-mobileme-hero-1452x	archiveteam-mobileme-hero-1452x-14521.tar	public.me.com-big_malk.warc.gz	3824
+big_malk	web.me.com	2012-04-27 10:57:59	archiveteam-mobileme-hero-1452x	archiveteam-mobileme-hero-1452x-14521.tar	web.me.com-big_malk.warc.gz	42832018
+simonandmartina	gallery.me.com	2012-04-27 12:24:54	archiveteam-mobileme-hero-1452x	archiveteam-mobileme-hero-1452x-14521.tar	gallery.me.com-simonandmartina.warc.gz	756017734
+simonandmartina	homepage.mac.com	2012-04-27 12:24:56	archiveteam-mobileme-hero-1452x	archiveteam-mobileme-hero-1452x-14521.tar	homepage.mac.com-simonandmartina.warc.gz	51775
+simonandmartina	public.me.com	2012-04-27 12:19:24	archiveteam-mobileme-hero-1452x	archiveteam-mobileme-hero-1452x-14521.tar	public.me.com-simonandmartina.warc.gz	3662922253
+simonandmartina	web.me.com	2012-04-27 11:47:53	archiveteam-mobileme-hero-1452x	archiveteam-mobileme-hero-1452x-14521.tar	web.me.com-simonandmartina.warc.gz	760542363

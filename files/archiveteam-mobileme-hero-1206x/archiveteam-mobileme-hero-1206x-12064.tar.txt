@@ -1,0 +1,16 @@
+c653008508	gallery.me.com	2012-04-22 18:19:41	archiveteam-mobileme-hero-1206x	archiveteam-mobileme-hero-1206x-12064.tar	gallery.me.com-c653008508.warc.gz	8366
+c653008508	homepage.mac.com	2012-04-22 18:19:41	archiveteam-mobileme-hero-1206x	archiveteam-mobileme-hero-1206x-12064.tar	homepage.mac.com-c653008508.warc.gz	5183
+c653008508	public.me.com	2012-04-22 18:19:40	archiveteam-mobileme-hero-1206x	archiveteam-mobileme-hero-1206x-12064.tar	public.me.com-c653008508.warc.gz	1922
+c653008508	web.me.com	2012-04-22 18:19:40	archiveteam-mobileme-hero-1206x	archiveteam-mobileme-hero-1206x-12064.tar	web.me.com-c653008508.warc.gz	17712
+mej4	gallery.me.com	2012-04-22 20:45:31	archiveteam-mobileme-hero-1206x	archiveteam-mobileme-hero-1206x-12064.tar	gallery.me.com-mej4.warc.gz	5341
+mej4	homepage.mac.com	2012-04-22 20:45:31	archiveteam-mobileme-hero-1206x	archiveteam-mobileme-hero-1206x-12064.tar	homepage.mac.com-mej4.warc.gz	4902
+mej4	public.me.com	2012-04-22 20:45:29	archiveteam-mobileme-hero-1206x	archiveteam-mobileme-hero-1206x-12064.tar	public.me.com-mej4.warc.gz	7010
+mej4	web.me.com	2012-04-22 20:44:50	archiveteam-mobileme-hero-1206x	archiveteam-mobileme-hero-1206x-12064.tar	web.me.com-mej4.warc.gz	1014596127
+rsalsman	gallery.me.com	2012-04-23 00:15:55	archiveteam-mobileme-hero-1206x	archiveteam-mobileme-hero-1206x-12064.tar	gallery.me.com-rsalsman.warc.gz	4232298746
+rsalsman	homepage.mac.com	2012-04-23 00:16:10	archiveteam-mobileme-hero-1206x	archiveteam-mobileme-hero-1206x-12064.tar	homepage.mac.com-rsalsman.warc.gz	355207
+rsalsman	public.me.com	2012-04-22 22:00:47	archiveteam-mobileme-hero-1206x	archiveteam-mobileme-hero-1206x-12064.tar	public.me.com-rsalsman.warc.gz	1917
+rsalsman	web.me.com	2012-04-22 21:58:37	archiveteam-mobileme-hero-1206x	archiveteam-mobileme-hero-1206x-12064.tar	web.me.com-rsalsman.warc.gz	1814655454
+tkadc	gallery.me.com	2012-04-22 18:28:31	archiveteam-mobileme-hero-1206x	archiveteam-mobileme-hero-1206x-12064.tar	gallery.me.com-tkadc.warc.gz	8471985
+tkadc	homepage.mac.com	2012-04-22 18:28:31	archiveteam-mobileme-hero-1206x	archiveteam-mobileme-hero-1206x-12064.tar	homepage.mac.com-tkadc.warc.gz	4902
+tkadc	public.me.com	2012-04-22 18:28:19	archiveteam-mobileme-hero-1206x	archiveteam-mobileme-hero-1206x-12064.tar	public.me.com-tkadc.warc.gz	1909
+tkadc	web.me.com	2012-04-22 18:28:15	archiveteam-mobileme-hero-1206x	archiveteam-mobileme-hero-1206x-12064.tar	web.me.com-tkadc.warc.gz	981794086

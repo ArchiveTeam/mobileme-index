@@ -1,0 +1,12 @@
+crgny	gallery.me.com	2012-04-30 02:19:47	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15783.tar	gallery.me.com-crgny.warc.gz	174706345
+crgny	homepage.mac.com	2012-04-30 02:19:47	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15783.tar	homepage.mac.com-crgny.warc.gz	4901
+crgny	public.me.com	2012-04-30 02:18:20	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15783.tar	public.me.com-crgny.warc.gz	3790938584
+crgny	web.me.com	2012-04-29 23:49:52	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15783.tar	web.me.com-crgny.warc.gz	24088328
+products	gallery.me.com	2012-04-30 02:19:57	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15783.tar	gallery.me.com-products.warc.gz	5961
+products	homepage.mac.com	2012-04-30 02:19:57	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15783.tar	homepage.mac.com-products.warc.gz	4914
+products	public.me.com	2012-04-30 02:19:55	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15783.tar	public.me.com-products.warc.gz	1918
+products	web.me.com	2012-04-30 02:19:53	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15783.tar	web.me.com-products.warc.gz	36476
+zgraph1	gallery.me.com	2012-04-30 02:33:49	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15783.tar	gallery.me.com-zgraph1.warc.gz	842285441
+zgraph1	homepage.mac.com	2012-04-30 02:33:50	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15783.tar	homepage.mac.com-zgraph1.warc.gz	7863
+zgraph1	public.me.com	2012-04-30 02:22:11	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15783.tar	public.me.com-zgraph1.warc.gz	1913
+zgraph1	web.me.com	2012-04-30 02:22:09	archiveteam-mobileme-hero-1578x	archiveteam-mobileme-hero-1578x-15783.tar	web.me.com-zgraph1.warc.gz	128868485

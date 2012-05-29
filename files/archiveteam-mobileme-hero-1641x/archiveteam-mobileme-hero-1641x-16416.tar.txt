@@ -1,0 +1,16 @@
+n.gorsuch	gallery.me.com	2012-05-01 14:54:00	archiveteam-mobileme-hero-1641x	archiveteam-mobileme-hero-1641x-16416.tar	gallery.me.com-n.gorsuch.warc.gz	5246
+n.gorsuch	homepage.mac.com	2012-05-01 14:54:03	archiveteam-mobileme-hero-1641x	archiveteam-mobileme-hero-1641x-16416.tar	homepage.mac.com-n.gorsuch.warc.gz	36888
+n.gorsuch	public.me.com	2012-05-01 14:54:00	archiveteam-mobileme-hero-1641x	archiveteam-mobileme-hero-1641x-16416.tar	public.me.com-n.gorsuch.warc.gz	6683375
+n.gorsuch	web.me.com	2012-05-01 14:53:47	archiveteam-mobileme-hero-1641x	archiveteam-mobileme-hero-1641x-16416.tar	web.me.com-n.gorsuch.warc.gz	3571544
+nacapuy	gallery.me.com	2012-05-01 15:34:56	archiveteam-mobileme-hero-1641x	archiveteam-mobileme-hero-1641x-16416.tar	gallery.me.com-nacapuy.warc.gz	1870865873
+nacapuy	homepage.mac.com	2012-05-01 15:34:56	archiveteam-mobileme-hero-1641x	archiveteam-mobileme-hero-1641x-16416.tar	homepage.mac.com-nacapuy.warc.gz	4905
+nacapuy	public.me.com	2012-05-01 15:03:45	archiveteam-mobileme-hero-1641x	archiveteam-mobileme-hero-1641x-16416.tar	public.me.com-nacapuy.warc.gz	4816487
+nacapuy	web.me.com	2012-05-01 15:03:41	archiveteam-mobileme-hero-1641x	archiveteam-mobileme-hero-1641x-16416.tar	web.me.com-nacapuy.warc.gz	344707922
+phesterman	gallery.me.com	2012-05-01 14:07:39	archiveteam-mobileme-hero-1641x	archiveteam-mobileme-hero-1641x-16416.tar	gallery.me.com-phesterman.warc.gz	9406
+phesterman	homepage.mac.com	2012-05-01 14:07:39	archiveteam-mobileme-hero-1641x	archiveteam-mobileme-hero-1641x-16416.tar	homepage.mac.com-phesterman.warc.gz	4922
+phesterman	public.me.com	2012-05-01 14:07:33	archiveteam-mobileme-hero-1641x	archiveteam-mobileme-hero-1641x-16416.tar	public.me.com-phesterman.warc.gz	772689767
+phesterman	web.me.com	2012-05-01 13:59:29	archiveteam-mobileme-hero-1641x	archiveteam-mobileme-hero-1641x-16416.tar	web.me.com-phesterman.warc.gz	672081
+virgogo	gallery.me.com	2012-05-01 14:52:01	archiveteam-mobileme-hero-1641x	archiveteam-mobileme-hero-1641x-16416.tar	gallery.me.com-virgogo.warc.gz	5667
+virgogo	homepage.mac.com	2012-05-01 14:52:02	archiveteam-mobileme-hero-1641x	archiveteam-mobileme-hero-1641x-16416.tar	homepage.mac.com-virgogo.warc.gz	4916
+virgogo	public.me.com	2012-05-01 14:51:59	archiveteam-mobileme-hero-1641x	archiveteam-mobileme-hero-1641x-16416.tar	public.me.com-virgogo.warc.gz	1865429758
+virgogo	web.me.com	2012-05-01 14:10:50	archiveteam-mobileme-hero-1641x	archiveteam-mobileme-hero-1641x-16416.tar	web.me.com-virgogo.warc.gz	14739753

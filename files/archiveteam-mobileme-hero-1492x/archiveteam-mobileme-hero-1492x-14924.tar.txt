@@ -1,0 +1,16 @@
+bullseye1	gallery.me.com	2012-04-28 03:58:45	archiveteam-mobileme-hero-1492x	archiveteam-mobileme-hero-1492x-14924.tar	gallery.me.com-bullseye1.warc.gz	1551664170
+bullseye1	homepage.mac.com	2012-04-28 03:58:48	archiveteam-mobileme-hero-1492x	archiveteam-mobileme-hero-1492x-14924.tar	homepage.mac.com-bullseye1.warc.gz	93563
+bullseye1	public.me.com	2012-04-28 03:37:18	archiveteam-mobileme-hero-1492x	archiveteam-mobileme-hero-1492x-14924.tar	public.me.com-bullseye1.warc.gz	1916
+bullseye1	web.me.com	2012-04-28 03:37:17	archiveteam-mobileme-hero-1492x	archiveteam-mobileme-hero-1492x-14924.tar	web.me.com-bullseye1.warc.gz	608295310
+cmorzier	gallery.me.com	2012-04-28 07:53:45	archiveteam-mobileme-hero-1492x	archiveteam-mobileme-hero-1492x-14924.tar	gallery.me.com-cmorzier.warc.gz	2322316580
+cmorzier	homepage.mac.com	2012-04-28 07:53:46	archiveteam-mobileme-hero-1492x	archiveteam-mobileme-hero-1492x-14924.tar	homepage.mac.com-cmorzier.warc.gz	4917
+cmorzier	public.me.com	2012-04-28 07:21:27	archiveteam-mobileme-hero-1492x	archiveteam-mobileme-hero-1492x-14924.tar	public.me.com-cmorzier.warc.gz	1909
+cmorzier	web.me.com	2012-04-28 07:21:11	archiveteam-mobileme-hero-1492x	archiveteam-mobileme-hero-1492x-14924.tar	web.me.com-cmorzier.warc.gz	1395219630
+saucycontessa	gallery.me.com	2012-04-28 05:15:40	archiveteam-mobileme-hero-1492x	archiveteam-mobileme-hero-1492x-14924.tar	gallery.me.com-saucycontessa.warc.gz	918389808
+saucycontessa	homepage.mac.com	2012-04-28 05:15:40	archiveteam-mobileme-hero-1492x	archiveteam-mobileme-hero-1492x-14924.tar	homepage.mac.com-saucycontessa.warc.gz	4943
+saucycontessa	public.me.com	2012-04-28 04:49:17	archiveteam-mobileme-hero-1492x	archiveteam-mobileme-hero-1492x-14924.tar	public.me.com-saucycontessa.warc.gz	1926
+saucycontessa	web.me.com	2012-04-28 04:49:07	archiveteam-mobileme-hero-1492x	archiveteam-mobileme-hero-1492x-14924.tar	web.me.com-saucycontessa.warc.gz	1079433781
+yogaetchemins	gallery.me.com	2012-04-28 04:01:26	archiveteam-mobileme-hero-1492x	archiveteam-mobileme-hero-1492x-14924.tar	gallery.me.com-yogaetchemins.warc.gz	4280
+yogaetchemins	homepage.mac.com	2012-04-28 04:01:26	archiveteam-mobileme-hero-1492x	archiveteam-mobileme-hero-1492x-14924.tar	homepage.mac.com-yogaetchemins.warc.gz	4929
+yogaetchemins	public.me.com	2012-04-28 04:01:25	archiveteam-mobileme-hero-1492x	archiveteam-mobileme-hero-1492x-14924.tar	public.me.com-yogaetchemins.warc.gz	17071139
+yogaetchemins	web.me.com	2012-04-28 04:00:42	archiveteam-mobileme-hero-1492x	archiveteam-mobileme-hero-1492x-14924.tar	web.me.com-yogaetchemins.warc.gz	10775178

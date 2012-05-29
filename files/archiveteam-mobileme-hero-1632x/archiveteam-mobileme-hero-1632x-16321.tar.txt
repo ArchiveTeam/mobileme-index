@@ -1,0 +1,12 @@
+htval	gallery.me.com	2012-05-01 08:17:16	archiveteam-mobileme-hero-1632x	archiveteam-mobileme-hero-1632x-16321.tar	gallery.me.com-htval.warc.gz	102807759
+htval	homepage.mac.com	2012-05-01 08:17:17	archiveteam-mobileme-hero-1632x	archiveteam-mobileme-hero-1632x-16321.tar	homepage.mac.com-htval.warc.gz	4904
+htval	public.me.com	2012-05-01 08:15:07	archiveteam-mobileme-hero-1632x	archiveteam-mobileme-hero-1632x-16321.tar	public.me.com-htval.warc.gz	98082331
+htval	web.me.com	2012-05-01 08:12:40	archiveteam-mobileme-hero-1632x	archiveteam-mobileme-hero-1632x-16321.tar	web.me.com-htval.warc.gz	13564529
+stoeff	gallery.me.com	2012-05-01 09:51:15	archiveteam-mobileme-hero-1632x	archiveteam-mobileme-hero-1632x-16321.tar	gallery.me.com-stoeff.warc.gz	4151413248
+stoeff	homepage.mac.com	2012-05-01 09:51:40	archiveteam-mobileme-hero-1632x	archiveteam-mobileme-hero-1632x-16321.tar	homepage.mac.com-stoeff.warc.gz	262542
+stoeff	public.me.com	2012-05-01 08:56:53	archiveteam-mobileme-hero-1632x	archiveteam-mobileme-hero-1632x-16321.tar	public.me.com-stoeff.warc.gz	1501274436
+stoeff	web.me.com	2012-05-01 08:35:24	archiveteam-mobileme-hero-1632x	archiveteam-mobileme-hero-1632x-16321.tar	web.me.com-stoeff.warc.gz	283660482
+yuheiyagisawa	gallery.me.com	2012-05-01 08:18:06	archiveteam-mobileme-hero-1632x	archiveteam-mobileme-hero-1632x-16321.tar	gallery.me.com-yuheiyagisawa.warc.gz	4270
+yuheiyagisawa	homepage.mac.com	2012-05-01 08:18:06	archiveteam-mobileme-hero-1632x	archiveteam-mobileme-hero-1632x-16321.tar	homepage.mac.com-yuheiyagisawa.warc.gz	4933
+yuheiyagisawa	public.me.com	2012-05-01 08:18:05	archiveteam-mobileme-hero-1632x	archiveteam-mobileme-hero-1632x-16321.tar	public.me.com-yuheiyagisawa.warc.gz	1933
+yuheiyagisawa	web.me.com	2012-05-01 08:18:05	archiveteam-mobileme-hero-1632x	archiveteam-mobileme-hero-1632x-16321.tar	web.me.com-yuheiyagisawa.warc.gz	42018655

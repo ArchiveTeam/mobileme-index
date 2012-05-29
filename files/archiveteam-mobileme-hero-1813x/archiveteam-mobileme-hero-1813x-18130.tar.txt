@@ -1,0 +1,12 @@
+bchristman	gallery.me.com	2012-05-07 10:36:55	archiveteam-mobileme-hero-1813x	archiveteam-mobileme-hero-1813x-18130.tar	gallery.me.com-bchristman.warc.gz	6063706017
+bchristman	homepage.mac.com	2012-05-07 10:36:56	archiveteam-mobileme-hero-1813x	archiveteam-mobileme-hero-1813x-18130.tar	homepage.mac.com-bchristman.warc.gz	7892
+bchristman	public.me.com	2012-05-07 07:10:20	archiveteam-mobileme-hero-1813x	archiveteam-mobileme-hero-1813x-18130.tar	public.me.com-bchristman.warc.gz	1920
+bchristman	web.me.com	2012-05-07 07:09:39	archiveteam-mobileme-hero-1813x	archiveteam-mobileme-hero-1813x-18130.tar	web.me.com-bchristman.warc.gz	6163940232
+syncdifferent	gallery.me.com	2012-05-07 01:12:30	archiveteam-mobileme-hero-1813x	archiveteam-mobileme-hero-1813x-18130.tar	gallery.me.com-syncdifferent.warc.gz	8376
+syncdifferent	homepage.mac.com	2012-05-07 01:12:30	archiveteam-mobileme-hero-1813x	archiveteam-mobileme-hero-1813x-18130.tar	homepage.mac.com-syncdifferent.warc.gz	5189
+syncdifferent	public.me.com	2012-05-07 01:12:28	archiveteam-mobileme-hero-1813x	archiveteam-mobileme-hero-1813x-18130.tar	public.me.com-syncdifferent.warc.gz	1930
+syncdifferent	web.me.com	2012-05-07 01:12:28	archiveteam-mobileme-hero-1813x	archiveteam-mobileme-hero-1813x-18130.tar	web.me.com-syncdifferent.warc.gz	17753
+taylorhord	gallery.me.com	2012-05-07 01:30:16	archiveteam-mobileme-hero-1813x	archiveteam-mobileme-hero-1813x-18130.tar	gallery.me.com-taylorhord.warc.gz	415469016
+taylorhord	homepage.mac.com	2012-05-07 01:30:17	archiveteam-mobileme-hero-1813x	archiveteam-mobileme-hero-1813x-18130.tar	homepage.mac.com-taylorhord.warc.gz	4883
+taylorhord	public.me.com	2012-05-07 01:20:45	archiveteam-mobileme-hero-1813x	archiveteam-mobileme-hero-1813x-18130.tar	public.me.com-taylorhord.warc.gz	1921
+taylorhord	web.me.com	2012-05-07 01:20:44	archiveteam-mobileme-hero-1813x	archiveteam-mobileme-hero-1813x-18130.tar	web.me.com-taylorhord.warc.gz	12180604

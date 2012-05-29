@@ -1,0 +1,4 @@
+dubprocess	gallery.me.com	2012-05-22 15:58:14	archiveteam-mobileme-hero-2029x	archiveteam-mobileme-hero-2029x-20296.tar	gallery.me.com-dubprocess.warc.gz	2954774560
+dubprocess	homepage.mac.com	2012-05-22 15:58:17	archiveteam-mobileme-hero-2029x	archiveteam-mobileme-hero-2029x-20296.tar	homepage.mac.com-dubprocess.warc.gz	98692
+dubprocess	public.me.com	2012-05-22 15:27:30	archiveteam-mobileme-hero-2029x	archiveteam-mobileme-hero-2029x-20296.tar	public.me.com-dubprocess.warc.gz	1109671448
+dubprocess	web.me.com	2012-05-22 15:16:04	archiveteam-mobileme-hero-2029x	archiveteam-mobileme-hero-2029x-20296.tar	web.me.com-dubprocess.warc.gz	457670763

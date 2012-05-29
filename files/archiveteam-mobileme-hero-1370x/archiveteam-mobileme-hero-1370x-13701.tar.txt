@@ -1,0 +1,12 @@
+jrayfarm	gallery.me.com	2012-04-26 01:38:50	archiveteam-mobileme-hero-1370x	archiveteam-mobileme-hero-1370x-13701.tar	gallery.me.com-jrayfarm.warc.gz	4631095051
+jrayfarm	homepage.mac.com	2012-04-26 01:38:50	archiveteam-mobileme-hero-1370x	archiveteam-mobileme-hero-1370x-13701.tar	homepage.mac.com-jrayfarm.warc.gz	4923
+jrayfarm	public.me.com	2012-04-25 23:38:19	archiveteam-mobileme-hero-1370x	archiveteam-mobileme-hero-1370x-13701.tar	public.me.com-jrayfarm.warc.gz	601410190
+jrayfarm	web.me.com	2012-04-25 23:31:28	archiveteam-mobileme-hero-1370x	archiveteam-mobileme-hero-1370x-13701.tar	web.me.com-jrayfarm.warc.gz	28236668
+redherringrabbits	gallery.me.com	2012-04-25 23:20:30	archiveteam-mobileme-hero-1370x	archiveteam-mobileme-hero-1370x-13701.tar	gallery.me.com-redherringrabbits.warc.gz	12389
+redherringrabbits	homepage.mac.com	2012-04-25 23:20:31	archiveteam-mobileme-hero-1370x	archiveteam-mobileme-hero-1370x-13701.tar	homepage.mac.com-redherringrabbits.warc.gz	7176
+redherringrabbits	public.me.com	2012-04-25 23:20:28	archiveteam-mobileme-hero-1370x	archiveteam-mobileme-hero-1370x-13701.tar	public.me.com-redherringrabbits.warc.gz	1927
+redherringrabbits	web.me.com	2012-04-25 23:20:27	archiveteam-mobileme-hero-1370x	archiveteam-mobileme-hero-1370x-13701.tar	web.me.com-redherringrabbits.warc.gz	22589
+steve.klassen	gallery.me.com	2012-04-25 23:20:19	archiveteam-mobileme-hero-1370x	archiveteam-mobileme-hero-1370x-13701.tar	gallery.me.com-steve.klassen.warc.gz	33352235
+steve.klassen	homepage.mac.com	2012-04-25 23:20:19	archiveteam-mobileme-hero-1370x	archiveteam-mobileme-hero-1370x-13701.tar	homepage.mac.com-steve.klassen.warc.gz	4939
+steve.klassen	public.me.com	2012-04-25 23:19:02	archiveteam-mobileme-hero-1370x	archiveteam-mobileme-hero-1370x-13701.tar	public.me.com-steve.klassen.warc.gz	1929
+steve.klassen	web.me.com	2012-04-25 23:19:00	archiveteam-mobileme-hero-1370x	archiveteam-mobileme-hero-1370x-13701.tar	web.me.com-steve.klassen.warc.gz	42448162

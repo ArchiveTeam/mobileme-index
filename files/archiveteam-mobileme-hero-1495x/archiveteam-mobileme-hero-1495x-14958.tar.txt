@@ -1,0 +1,12 @@
+happy_site	gallery.me.com	2012-04-28 08:06:50	archiveteam-mobileme-hero-1495x	archiveteam-mobileme-hero-1495x-14958.tar	gallery.me.com-happy_site.warc.gz	6473126
+happy_site	homepage.mac.com	2012-04-28 08:21:25	archiveteam-mobileme-hero-1495x	archiveteam-mobileme-hero-1495x-14958.tar	homepage.mac.com-happy_site.warc.gz	129091940
+happy_site	public.me.com	2012-04-28 08:06:40	archiveteam-mobileme-hero-1495x	archiveteam-mobileme-hero-1495x-14958.tar	public.me.com-happy_site.warc.gz	1924
+happy_site	web.me.com	2012-04-28 08:06:39	archiveteam-mobileme-hero-1495x	archiveteam-mobileme-hero-1495x-14958.tar	web.me.com-happy_site.warc.gz	79129
+justin.rousseau	gallery.me.com	2012-04-28 08:06:26	archiveteam-mobileme-hero-1495x	archiveteam-mobileme-hero-1495x-14958.tar	gallery.me.com-justin.rousseau.warc.gz	510761171
+justin.rousseau	homepage.mac.com	2012-04-28 08:06:36	archiveteam-mobileme-hero-1495x	archiveteam-mobileme-hero-1495x-14958.tar	homepage.mac.com-justin.rousseau.warc.gz	170162
+justin.rousseau	public.me.com	2012-04-28 07:59:32	archiveteam-mobileme-hero-1495x	archiveteam-mobileme-hero-1495x-14958.tar	public.me.com-justin.rousseau.warc.gz	34803510
+justin.rousseau	web.me.com	2012-04-28 07:58:32	archiveteam-mobileme-hero-1495x	archiveteam-mobileme-hero-1495x-14958.tar	web.me.com-justin.rousseau.warc.gz	459741175
+msherwood	gallery.me.com	2012-04-28 09:28:17	archiveteam-mobileme-hero-1495x	archiveteam-mobileme-hero-1495x-14958.tar	gallery.me.com-msherwood.warc.gz	3461535905
+msherwood	homepage.mac.com	2012-04-28 09:28:19	archiveteam-mobileme-hero-1495x	archiveteam-mobileme-hero-1495x-14958.tar	homepage.mac.com-msherwood.warc.gz	31970
+msherwood	public.me.com	2012-04-28 08:44:46	archiveteam-mobileme-hero-1495x	archiveteam-mobileme-hero-1495x-14958.tar	public.me.com-msherwood.warc.gz	3539
+msherwood	web.me.com	2012-04-28 08:44:23	archiveteam-mobileme-hero-1495x	archiveteam-mobileme-hero-1495x-14958.tar	web.me.com-msherwood.warc.gz	992635322

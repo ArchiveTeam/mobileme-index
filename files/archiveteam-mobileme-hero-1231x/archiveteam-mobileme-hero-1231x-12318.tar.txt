@@ -1,0 +1,12 @@
+dog	gallery.me.com	2012-04-23 11:54:24	archiveteam-mobileme-hero-1231x	archiveteam-mobileme-hero-1231x-12318.tar	gallery.me.com-dog.warc.gz	12280
+dog	homepage.mac.com	2012-04-23 11:54:25	archiveteam-mobileme-hero-1231x	archiveteam-mobileme-hero-1231x-12318.tar	homepage.mac.com-dog.warc.gz	7117
+dog	public.me.com	2012-04-23 11:54:24	archiveteam-mobileme-hero-1231x	archiveteam-mobileme-hero-1231x-12318.tar	public.me.com-dog.warc.gz	1900
+dog	web.me.com	2012-04-23 11:54:22	archiveteam-mobileme-hero-1231x	archiveteam-mobileme-hero-1231x-12318.tar	web.me.com-dog.warc.gz	22405
+mgianzero	gallery.me.com	2012-04-23 13:01:10	archiveteam-mobileme-hero-1231x	archiveteam-mobileme-hero-1231x-12318.tar	gallery.me.com-mgianzero.warc.gz	4402512641
+mgianzero	homepage.mac.com	2012-04-23 13:01:11	archiveteam-mobileme-hero-1231x	archiveteam-mobileme-hero-1231x-12318.tar	homepage.mac.com-mgianzero.warc.gz	4896
+mgianzero	public.me.com	2012-04-23 12:16:30	archiveteam-mobileme-hero-1231x	archiveteam-mobileme-hero-1231x-12318.tar	public.me.com-mgianzero.warc.gz	1246393
+mgianzero	web.me.com	2012-04-23 12:16:09	archiveteam-mobileme-hero-1231x	archiveteam-mobileme-hero-1231x-12318.tar	web.me.com-mgianzero.warc.gz	624561258
+roberto_mda.home	gallery.me.com	2012-04-23 11:54:55	archiveteam-mobileme-hero-1231x	archiveteam-mobileme-hero-1231x-12318.tar	gallery.me.com-roberto_mda.home.warc.gz	1525416
+roberto_mda.home	homepage.mac.com	2012-04-23 11:54:56	archiveteam-mobileme-hero-1231x	archiveteam-mobileme-hero-1231x-12318.tar	homepage.mac.com-roberto_mda.home.warc.gz	3663
+roberto_mda.home	public.me.com	2012-04-23 11:54:48	archiveteam-mobileme-hero-1231x	archiveteam-mobileme-hero-1231x-12318.tar	public.me.com-roberto_mda.home.warc.gz	16189
+roberto_mda.home	web.me.com	2012-04-23 11:54:48	archiveteam-mobileme-hero-1231x	archiveteam-mobileme-hero-1231x-12318.tar	web.me.com-roberto_mda.home.warc.gz	923383

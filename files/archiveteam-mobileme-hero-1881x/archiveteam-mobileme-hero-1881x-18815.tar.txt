@@ -1,0 +1,12 @@
+dbn.parc	gallery.me.com	2012-05-11 07:52:16	archiveteam-mobileme-hero-1881x	archiveteam-mobileme-hero-1881x-18815.tar	gallery.me.com-dbn.parc.warc.gz	4249
+dbn.parc	homepage.mac.com	2012-05-11 07:52:16	archiveteam-mobileme-hero-1881x	archiveteam-mobileme-hero-1881x-18815.tar	homepage.mac.com-dbn.parc.warc.gz	4895
+dbn.parc	public.me.com	2012-05-11 07:52:16	archiveteam-mobileme-hero-1881x	archiveteam-mobileme-hero-1881x-18815.tar	public.me.com-dbn.parc.warc.gz	1917
+dbn.parc	web.me.com	2012-05-11 07:52:16	archiveteam-mobileme-hero-1881x	archiveteam-mobileme-hero-1881x-18815.tar	web.me.com-dbn.parc.warc.gz	220214
+kieran	gallery.me.com	2012-05-11 07:51:43	archiveteam-mobileme-hero-1881x	archiveteam-mobileme-hero-1881x-18815.tar	gallery.me.com-kieran.warc.gz	804901669
+kieran	homepage.mac.com	2012-05-11 07:51:58	archiveteam-mobileme-hero-1881x	archiveteam-mobileme-hero-1881x-18815.tar	homepage.mac.com-kieran.warc.gz	37847781
+kieran	public.me.com	2012-05-11 07:40:13	archiveteam-mobileme-hero-1881x	archiveteam-mobileme-hero-1881x-18815.tar	public.me.com-kieran.warc.gz	346461702
+kieran	web.me.com	2012-05-11 07:30:00	archiveteam-mobileme-hero-1881x	archiveteam-mobileme-hero-1881x-18815.tar	web.me.com-kieran.warc.gz	606213609
+logictoolbox	gallery.me.com	2012-05-11 09:49:55	archiveteam-mobileme-hero-1881x	archiveteam-mobileme-hero-1881x-18815.tar	gallery.me.com-logictoolbox.warc.gz	4280
+logictoolbox	homepage.mac.com	2012-05-11 09:49:55	archiveteam-mobileme-hero-1881x	archiveteam-mobileme-hero-1881x-18815.tar	homepage.mac.com-logictoolbox.warc.gz	4913
+logictoolbox	public.me.com	2012-05-11 09:49:54	archiveteam-mobileme-hero-1881x	archiveteam-mobileme-hero-1881x-18815.tar	public.me.com-logictoolbox.warc.gz	1165838026
+logictoolbox	web.me.com	2012-05-11 09:26:46	archiveteam-mobileme-hero-1881x	archiveteam-mobileme-hero-1881x-18815.tar	web.me.com-logictoolbox.warc.gz	3913223186

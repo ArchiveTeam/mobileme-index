@@ -1,0 +1,12 @@
+candyspender	gallery.me.com	2012-04-24 21:17:38	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13039.tar	gallery.me.com-candyspender.warc.gz	2227183771
+candyspender	homepage.mac.com	2012-04-24 21:17:40	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13039.tar	homepage.mac.com-candyspender.warc.gz	72617
+candyspender	public.me.com	2012-04-24 20:33:19	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13039.tar	public.me.com-candyspender.warc.gz	2835933097
+candyspender	web.me.com	2012-04-24 19:59:33	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13039.tar	web.me.com-candyspender.warc.gz	175969294
+gerold.schatt	gallery.me.com	2012-04-24 19:43:59	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13039.tar	gallery.me.com-gerold.schatt.warc.gz	4269
+gerold.schatt	homepage.mac.com	2012-04-24 19:44:07	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13039.tar	homepage.mac.com-gerold.schatt.warc.gz	36982
+gerold.schatt	public.me.com	2012-04-24 19:43:57	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13039.tar	public.me.com-gerold.schatt.warc.gz	3492
+gerold.schatt	web.me.com	2012-04-24 19:43:54	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13039.tar	web.me.com-gerold.schatt.warc.gz	13928089
+start_line	gallery.me.com	2012-04-24 19:50:28	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13039.tar	gallery.me.com-start_line.warc.gz	990856
+start_line	homepage.mac.com	2012-04-24 19:50:28	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13039.tar	homepage.mac.com-start_line.warc.gz	4929
+start_line	public.me.com	2012-04-24 19:50:08	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13039.tar	public.me.com-start_line.warc.gz	1925
+start_line	web.me.com	2012-04-24 19:50:08	archiveteam-mobileme-hero-1303x	archiveteam-mobileme-hero-1303x-13039.tar	web.me.com-start_line.warc.gz	353134007

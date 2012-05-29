@@ -1,0 +1,12 @@
+capybara	gallery.me.com	2012-05-23 05:48:02	archiveteam-mobileme-hero-2042x	archiveteam-mobileme-hero-2042x-20426.tar	gallery.me.com-capybara.warc.gz	6903807040
+capybara	homepage.mac.com	2012-05-23 05:48:04	archiveteam-mobileme-hero-2042x	archiveteam-mobileme-hero-2042x-20426.tar	homepage.mac.com-capybara.warc.gz	125911
+capybara	public.me.com	2012-05-23 04:58:36	archiveteam-mobileme-hero-2042x	archiveteam-mobileme-hero-2042x-20426.tar	public.me.com-capybara.warc.gz	1922
+capybara	web.me.com	2012-05-23 04:58:36	archiveteam-mobileme-hero-2042x	archiveteam-mobileme-hero-2042x-20426.tar	web.me.com-capybara.warc.gz	20854116
+monikahummer	gallery.me.com	2012-05-23 04:55:15	archiveteam-mobileme-hero-2042x	archiveteam-mobileme-hero-2042x-20426.tar	gallery.me.com-monikahummer.warc.gz	5720
+monikahummer	homepage.mac.com	2012-05-23 04:55:15	archiveteam-mobileme-hero-2042x	archiveteam-mobileme-hero-2042x-20426.tar	homepage.mac.com-monikahummer.warc.gz	4950
+monikahummer	public.me.com	2012-05-23 04:55:15	archiveteam-mobileme-hero-2042x	archiveteam-mobileme-hero-2042x-20426.tar	public.me.com-monikahummer.warc.gz	1930
+monikahummer	web.me.com	2012-05-23 04:55:15	archiveteam-mobileme-hero-2042x	archiveteam-mobileme-hero-2042x-20426.tar	web.me.com-monikahummer.warc.gz	63399133
+motzo	gallery.me.com	2012-05-23 04:52:10	archiveteam-mobileme-hero-2042x	archiveteam-mobileme-hero-2042x-20426.tar	gallery.me.com-motzo.warc.gz	1026347262
+motzo	homepage.mac.com	2012-05-23 04:52:10	archiveteam-mobileme-hero-2042x	archiveteam-mobileme-hero-2042x-20426.tar	homepage.mac.com-motzo.warc.gz	4904
+motzo	public.me.com	2012-05-23 04:41:48	archiveteam-mobileme-hero-2042x	archiveteam-mobileme-hero-2042x-20426.tar	public.me.com-motzo.warc.gz	1912
+motzo	web.me.com	2012-05-23 04:41:48	archiveteam-mobileme-hero-2042x	archiveteam-mobileme-hero-2042x-20426.tar	web.me.com-motzo.warc.gz	19463235

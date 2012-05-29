@@ -1,0 +1,16 @@
+firewall5	gallery.me.com	2012-05-28 21:10:08	archiveteam-mobileme-hero-2123x	archiveteam-mobileme-hero-2123x-21239.tar	gallery.me.com-firewall5.warc	44973225
+firewall5	homepage.mac.com	2012-05-28 21:10:09	archiveteam-mobileme-hero-2123x	archiveteam-mobileme-hero-2123x-21239.tar	homepage.mac.com-firewall5.warc	9776
+firewall5	public.me.com	2012-05-28 21:06:50	archiveteam-mobileme-hero-2123x	archiveteam-mobileme-hero-2123x-21239.tar	public.me.com-firewall5.warc	2955
+firewall5	web.me.com	2012-05-28 21:06:49	archiveteam-mobileme-hero-2123x	archiveteam-mobileme-hero-2123x-21239.tar	web.me.com-firewall5.warc	42729428
+pgronberg	gallery.me.com	2012-05-28 20:59:41	archiveteam-mobileme-hero-2123x	archiveteam-mobileme-hero-2123x-21239.tar	gallery.me.com-pgronberg.warc	394550239
+pgronberg	homepage.mac.com	2012-05-28 20:59:41	archiveteam-mobileme-hero-2123x	archiveteam-mobileme-hero-2123x-21239.tar	homepage.mac.com-pgronberg.warc	9799
+pgronberg	public.me.com	2012-05-28 20:38:39	archiveteam-mobileme-hero-2123x	archiveteam-mobileme-hero-2123x-21239.tar	public.me.com-pgronberg.warc	2955
+pgronberg	web.me.com	2012-05-28 20:38:37	archiveteam-mobileme-hero-2123x	archiveteam-mobileme-hero-2123x-21239.tar	web.me.com-pgronberg.warc	160477905
+rantastic	gallery.me.com	2012-05-28 19:59:30	archiveteam-mobileme-hero-2123x	archiveteam-mobileme-hero-2123x-21239.tar	gallery.me.com-rantastic.warc	758267807
+rantastic	homepage.mac.com	2012-05-28 19:59:31	archiveteam-mobileme-hero-2123x	archiveteam-mobileme-hero-2123x-21239.tar	homepage.mac.com-rantastic.warc	9780
+rantastic	public.me.com	2012-05-28 19:31:21	archiveteam-mobileme-hero-2123x	archiveteam-mobileme-hero-2123x-21239.tar	public.me.com-rantastic.warc	1854630401
+rantastic	web.me.com	2012-05-28 18:39:40	archiveteam-mobileme-hero-2123x	archiveteam-mobileme-hero-2123x-21239.tar	web.me.com-rantastic.warc	96122567
+swin1	gallery.me.com	2012-05-28 22:21:13	archiveteam-mobileme-hero-2123x	archiveteam-mobileme-hero-2123x-21239.tar	gallery.me.com-swin1.warc	3404114058
+swin1	homepage.mac.com	2012-05-28 22:21:13	archiveteam-mobileme-hero-2123x	archiveteam-mobileme-hero-2123x-21239.tar	homepage.mac.com-swin1.warc	9695
+swin1	public.me.com	2012-05-28 21:17:59	archiveteam-mobileme-hero-2123x	archiveteam-mobileme-hero-2123x-21239.tar	public.me.com-swin1.warc	2903
+swin1	web.me.com	2012-05-28 21:17:57	archiveteam-mobileme-hero-2123x	archiveteam-mobileme-hero-2123x-21239.tar	web.me.com-swin1.warc	60308218

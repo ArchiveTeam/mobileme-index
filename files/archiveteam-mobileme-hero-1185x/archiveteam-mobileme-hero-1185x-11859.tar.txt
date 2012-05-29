@@ -1,0 +1,12 @@
+c2072572900	gallery.me.com	2012-04-22 11:18:37	archiveteam-mobileme-hero-1185x	archiveteam-mobileme-hero-1185x-11859.tar	gallery.me.com-c2072572900.warc.gz	8373
+c2072572900	homepage.mac.com	2012-04-22 11:18:37	archiveteam-mobileme-hero-1185x	archiveteam-mobileme-hero-1185x-11859.tar	homepage.mac.com-c2072572900.warc.gz	5194
+c2072572900	public.me.com	2012-04-22 11:18:36	archiveteam-mobileme-hero-1185x	archiveteam-mobileme-hero-1185x-11859.tar	public.me.com-c2072572900.warc.gz	1920
+c2072572900	web.me.com	2012-04-22 11:18:36	archiveteam-mobileme-hero-1185x	archiveteam-mobileme-hero-1185x-11859.tar	web.me.com-c2072572900.warc.gz	17738
+fdkemp	gallery.me.com	2012-04-22 11:18:33	archiveteam-mobileme-hero-1185x	archiveteam-mobileme-hero-1185x-11859.tar	gallery.me.com-fdkemp.warc.gz	1701396
+fdkemp	homepage.mac.com	2012-04-22 11:18:33	archiveteam-mobileme-hero-1185x	archiveteam-mobileme-hero-1185x-11859.tar	homepage.mac.com-fdkemp.warc.gz	4895
+fdkemp	public.me.com	2012-04-22 11:18:29	archiveteam-mobileme-hero-1185x	archiveteam-mobileme-hero-1185x-11859.tar	public.me.com-fdkemp.warc.gz	1910
+fdkemp	web.me.com	2012-04-22 11:18:29	archiveteam-mobileme-hero-1185x	archiveteam-mobileme-hero-1185x-11859.tar	web.me.com-fdkemp.warc.gz	10046930
+hholler	gallery.me.com	2012-04-22 13:31:00	archiveteam-mobileme-hero-1185x	archiveteam-mobileme-hero-1185x-11859.tar	gallery.me.com-hholler.warc.gz	5735259235
+hholler	homepage.mac.com	2012-04-22 13:31:04	archiveteam-mobileme-hero-1185x	archiveteam-mobileme-hero-1185x-11859.tar	homepage.mac.com-hholler.warc.gz	36898
+hholler	public.me.com	2012-04-22 11:55:16	archiveteam-mobileme-hero-1185x	archiveteam-mobileme-hero-1185x-11859.tar	public.me.com-hholler.warc.gz	317977744
+hholler	web.me.com	2012-04-22 11:48:51	archiveteam-mobileme-hero-1185x	archiveteam-mobileme-hero-1185x-11859.tar	web.me.com-hholler.warc.gz	194907428

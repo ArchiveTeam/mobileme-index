@@ -1,0 +1,12 @@
+bauchfamily	gallery.me.com	2012-05-06 20:11:09	archiveteam-mobileme-hero-1801x	archiveteam-mobileme-hero-1801x-18011.tar	gallery.me.com-bauchfamily.warc.gz	2855721503
+bauchfamily	homepage.mac.com	2012-05-06 20:11:09	archiveteam-mobileme-hero-1801x	archiveteam-mobileme-hero-1801x-18011.tar	homepage.mac.com-bauchfamily.warc.gz	4911
+bauchfamily	public.me.com	2012-05-06 19:45:03	archiveteam-mobileme-hero-1801x	archiveteam-mobileme-hero-1801x-18011.tar	public.me.com-bauchfamily.warc.gz	1925
+bauchfamily	web.me.com	2012-05-06 19:45:03	archiveteam-mobileme-hero-1801x	archiveteam-mobileme-hero-1801x-18011.tar	web.me.com-bauchfamily.warc.gz	55975528
+isc456	gallery.me.com	2012-05-07 00:00:09	archiveteam-mobileme-hero-1801x	archiveteam-mobileme-hero-1801x-18011.tar	gallery.me.com-isc456.warc.gz	498362160
+isc456	homepage.mac.com	2012-05-07 00:00:09	archiveteam-mobileme-hero-1801x	archiveteam-mobileme-hero-1801x-18011.tar	homepage.mac.com-isc456.warc.gz	4889
+isc456	public.me.com	2012-05-06 23:31:40	archiveteam-mobileme-hero-1801x	archiveteam-mobileme-hero-1801x-18011.tar	public.me.com-isc456.warc.gz	81770696
+isc456	web.me.com	2012-05-06 23:29:24	archiveteam-mobileme-hero-1801x	archiveteam-mobileme-hero-1801x-18011.tar	web.me.com-isc456.warc.gz	1475206078
+wgilles	gallery.me.com	2012-05-06 19:33:29	archiveteam-mobileme-hero-1801x	archiveteam-mobileme-hero-1801x-18011.tar	gallery.me.com-wgilles.warc.gz	8329
+wgilles	homepage.mac.com	2012-05-06 19:33:29	archiveteam-mobileme-hero-1801x	archiveteam-mobileme-hero-1801x-18011.tar	homepage.mac.com-wgilles.warc.gz	5151
+wgilles	public.me.com	2012-05-06 19:33:28	archiveteam-mobileme-hero-1801x	archiveteam-mobileme-hero-1801x-18011.tar	public.me.com-wgilles.warc.gz	1915
+wgilles	web.me.com	2012-05-06 19:33:28	archiveteam-mobileme-hero-1801x	archiveteam-mobileme-hero-1801x-18011.tar	web.me.com-wgilles.warc.gz	17661

@@ -1,0 +1,16 @@
+evolutions	gallery.me.com	2012-05-21 11:22:03	archiveteam-mobileme-hero-2010x	archiveteam-mobileme-hero-2010x-20107.tar	gallery.me.com-evolutions.warc.gz	5542
+evolutions	homepage.mac.com	2012-05-21 11:22:04	archiveteam-mobileme-hero-2010x	archiveteam-mobileme-hero-2010x-20107.tar	homepage.mac.com-evolutions.warc.gz	4904
+evolutions	public.me.com	2012-05-21 11:22:01	archiveteam-mobileme-hero-2010x	archiveteam-mobileme-hero-2010x-20107.tar	public.me.com-evolutions.warc.gz	1923
+evolutions	web.me.com	2012-05-21 11:21:57	archiveteam-mobileme-hero-2010x	archiveteam-mobileme-hero-2010x-20107.tar	web.me.com-evolutions.warc.gz	47898061
+nuage_h	gallery.me.com	2012-05-21 12:20:03	archiveteam-mobileme-hero-2010x	archiveteam-mobileme-hero-2010x-20107.tar	gallery.me.com-nuage_h.warc.gz	60176398
+nuage_h	homepage.mac.com	2012-05-21 12:20:08	archiveteam-mobileme-hero-2010x	archiveteam-mobileme-hero-2010x-20107.tar	homepage.mac.com-nuage_h.warc.gz	4914
+nuage_h	public.me.com	2012-05-21 12:14:00	archiveteam-mobileme-hero-2010x	archiveteam-mobileme-hero-2010x-20107.tar	public.me.com-nuage_h.warc.gz	898999141
+nuage_h	web.me.com	2012-05-21 11:27:34	archiveteam-mobileme-hero-2010x	archiveteam-mobileme-hero-2010x-20107.tar	web.me.com-nuage_h.warc.gz	4340590
+philippelacroix13	gallery.me.com	2012-05-21 11:25:47	archiveteam-mobileme-hero-2010x	archiveteam-mobileme-hero-2010x-20107.tar	gallery.me.com-philippelacroix13.warc.gz	5877
+philippelacroix13	homepage.mac.com	2012-05-21 11:25:47	archiveteam-mobileme-hero-2010x	archiveteam-mobileme-hero-2010x-20107.tar	homepage.mac.com-philippelacroix13.warc.gz	4952
+philippelacroix13	public.me.com	2012-05-21 11:25:45	archiveteam-mobileme-hero-2010x	archiveteam-mobileme-hero-2010x-20107.tar	public.me.com-philippelacroix13.warc.gz	1931
+philippelacroix13	web.me.com	2012-05-21 11:25:44	archiveteam-mobileme-hero-2010x	archiveteam-mobileme-hero-2010x-20107.tar	web.me.com-philippelacroix13.warc.gz	12173904
+pinkiemaeproductions	gallery.me.com	2012-05-21 11:15:44	archiveteam-mobileme-hero-2010x	archiveteam-mobileme-hero-2010x-20107.tar	gallery.me.com-pinkiemaeproductions.warc.gz	172970888
+pinkiemaeproductions	homepage.mac.com	2012-05-21 11:15:44	archiveteam-mobileme-hero-2010x	archiveteam-mobileme-hero-2010x-20107.tar	homepage.mac.com-pinkiemaeproductions.warc.gz	4959
+pinkiemaeproductions	public.me.com	2012-05-21 11:11:25	archiveteam-mobileme-hero-2010x	archiveteam-mobileme-hero-2010x-20107.tar	public.me.com-pinkiemaeproductions.warc.gz	3105641186
+pinkiemaeproductions	web.me.com	2012-05-21 09:56:24	archiveteam-mobileme-hero-2010x	archiveteam-mobileme-hero-2010x-20107.tar	web.me.com-pinkiemaeproductions.warc.gz	922692

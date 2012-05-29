@@ -1,0 +1,12 @@
+jq_waller	gallery.me.com	2012-04-24 10:04:53	archiveteam-mobileme-hero-1275x	archiveteam-mobileme-hero-1275x-12757.tar	gallery.me.com-jq_waller.warc.gz	3721321094
+jq_waller	homepage.mac.com	2012-04-24 10:04:53	archiveteam-mobileme-hero-1275x	archiveteam-mobileme-hero-1275x-12757.tar	homepage.mac.com-jq_waller.warc.gz	4918
+jq_waller	public.me.com	2012-04-24 09:25:29	archiveteam-mobileme-hero-1275x	archiveteam-mobileme-hero-1275x-12757.tar	public.me.com-jq_waller.warc.gz	3347
+jq_waller	web.me.com	2012-04-24 09:25:27	archiveteam-mobileme-hero-1275x	archiveteam-mobileme-hero-1275x-12757.tar	web.me.com-jq_waller.warc.gz	1008743694
+lhumphreys	gallery.me.com	2012-04-24 08:27:37	archiveteam-mobileme-hero-1275x	archiveteam-mobileme-hero-1275x-12757.tar	gallery.me.com-lhumphreys.warc.gz	192996274
+lhumphreys	homepage.mac.com	2012-04-24 08:27:37	archiveteam-mobileme-hero-1275x	archiveteam-mobileme-hero-1275x-12757.tar	homepage.mac.com-lhumphreys.warc.gz	4946
+lhumphreys	public.me.com	2012-04-24 08:18:52	archiveteam-mobileme-hero-1275x	archiveteam-mobileme-hero-1275x-12757.tar	public.me.com-lhumphreys.warc.gz	1923
+lhumphreys	web.me.com	2012-04-24 08:18:51	archiveteam-mobileme-hero-1275x	archiveteam-mobileme-hero-1275x-12757.tar	web.me.com-lhumphreys.warc.gz	16750028
+photo.freestyle	gallery.me.com	2012-04-24 08:46:19	archiveteam-mobileme-hero-1275x	archiveteam-mobileme-hero-1275x-12757.tar	gallery.me.com-photo.freestyle.warc.gz	1026598324
+photo.freestyle	homepage.mac.com	2012-04-24 08:46:26	archiveteam-mobileme-hero-1275x	archiveteam-mobileme-hero-1275x-12757.tar	homepage.mac.com-photo.freestyle.warc.gz	104973
+photo.freestyle	public.me.com	2012-04-24 08:38:48	archiveteam-mobileme-hero-1275x	archiveteam-mobileme-hero-1275x-12757.tar	public.me.com-photo.freestyle.warc.gz	1934
+photo.freestyle	web.me.com	2012-04-24 08:38:38	archiveteam-mobileme-hero-1275x	archiveteam-mobileme-hero-1275x-12757.tar	web.me.com-photo.freestyle.warc.gz	139247112

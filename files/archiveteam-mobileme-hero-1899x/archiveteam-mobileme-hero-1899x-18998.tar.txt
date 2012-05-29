@@ -1,0 +1,8 @@
+antims	gallery.me.com	2012-05-12 15:31:13	archiveteam-mobileme-hero-1899x	archiveteam-mobileme-hero-1899x-18998.tar	gallery.me.com-antims.warc.gz	131103400
+antims	homepage.mac.com	2012-05-12 15:31:14	archiveteam-mobileme-hero-1899x	archiveteam-mobileme-hero-1899x-18998.tar	homepage.mac.com-antims.warc.gz	4908
+antims	public.me.com	2012-05-12 15:23:31	archiveteam-mobileme-hero-1899x	archiveteam-mobileme-hero-1899x-18998.tar	public.me.com-antims.warc.gz	4956874972
+antims	web.me.com	2012-05-12 13:50:44	archiveteam-mobileme-hero-1899x	archiveteam-mobileme-hero-1899x-18998.tar	web.me.com-antims.warc.gz	138991550
+public	gallery.me.com	2012-05-12 13:15:22	archiveteam-mobileme-hero-1899x	archiveteam-mobileme-hero-1899x-18998.tar	gallery.me.com-public.warc.gz	12311
+public	homepage.mac.com	2012-05-12 13:15:22	archiveteam-mobileme-hero-1899x	archiveteam-mobileme-hero-1899x-18998.tar	homepage.mac.com-public.warc.gz	7155
+public	public.me.com	2012-05-12 13:15:21	archiveteam-mobileme-hero-1899x	archiveteam-mobileme-hero-1899x-18998.tar	public.me.com-public.warc.gz	1906
+public	web.me.com	2012-05-12 13:15:21	archiveteam-mobileme-hero-1899x	archiveteam-mobileme-hero-1899x-18998.tar	web.me.com-public.warc.gz	22463

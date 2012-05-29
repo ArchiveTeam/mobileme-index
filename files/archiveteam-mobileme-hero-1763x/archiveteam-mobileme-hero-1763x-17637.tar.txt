@@ -1,0 +1,12 @@
+gcarrier	gallery.me.com	2012-05-05 01:45:03	archiveteam-mobileme-hero-1763x	archiveteam-mobileme-hero-1763x-17637.tar	gallery.me.com-gcarrier.warc.gz	4378940968
+gcarrier	homepage.mac.com	2012-05-05 01:45:03	archiveteam-mobileme-hero-1763x	archiveteam-mobileme-hero-1763x-17637.tar	homepage.mac.com-gcarrier.warc.gz	4897
+gcarrier	public.me.com	2012-05-05 01:15:33	archiveteam-mobileme-hero-1763x	archiveteam-mobileme-hero-1763x-17637.tar	public.me.com-gcarrier.warc.gz	1918
+gcarrier	web.me.com	2012-05-05 01:15:33	archiveteam-mobileme-hero-1763x	archiveteam-mobileme-hero-1763x-17637.tar	web.me.com-gcarrier.warc.gz	783296011
+h.d	gallery.me.com	2012-05-05 01:01:13	archiveteam-mobileme-hero-1763x	archiveteam-mobileme-hero-1763x-17637.tar	gallery.me.com-h.d.warc.gz	5873
+h.d	homepage.mac.com	2012-05-05 01:01:13	archiveteam-mobileme-hero-1763x	archiveteam-mobileme-hero-1763x-17637.tar	homepage.mac.com-h.d.warc.gz	4876
+h.d	public.me.com	2012-05-05 01:01:12	archiveteam-mobileme-hero-1763x	archiveteam-mobileme-hero-1763x-17637.tar	public.me.com-h.d.warc.gz	1905
+h.d	web.me.com	2012-05-05 01:01:11	archiveteam-mobileme-hero-1763x	archiveteam-mobileme-hero-1763x-17637.tar	web.me.com-h.d.warc.gz	132508236
+tarahyer	gallery.me.com	2012-05-05 01:03:03	archiveteam-mobileme-hero-1763x	archiveteam-mobileme-hero-1763x-17637.tar	gallery.me.com-tarahyer.warc.gz	7940
+tarahyer	homepage.mac.com	2012-05-05 01:03:03	archiveteam-mobileme-hero-1763x	archiveteam-mobileme-hero-1763x-17637.tar	homepage.mac.com-tarahyer.warc.gz	4897
+tarahyer	public.me.com	2012-05-05 01:03:02	archiveteam-mobileme-hero-1763x	archiveteam-mobileme-hero-1763x-17637.tar	public.me.com-tarahyer.warc.gz	3421
+tarahyer	web.me.com	2012-05-05 01:03:01	archiveteam-mobileme-hero-1763x	archiveteam-mobileme-hero-1763x-17637.tar	web.me.com-tarahyer.warc.gz	491813426

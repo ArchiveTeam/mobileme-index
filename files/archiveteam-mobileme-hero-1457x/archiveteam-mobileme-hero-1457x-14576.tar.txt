@@ -1,0 +1,8 @@
+lion.events	gallery.me.com	2012-04-27 10:24:21	archiveteam-mobileme-hero-1457x	archiveteam-mobileme-hero-1457x-14576.tar	gallery.me.com-lion.events.warc.gz	129938034
+lion.events	homepage.mac.com	2012-04-27 10:24:21	archiveteam-mobileme-hero-1457x	archiveteam-mobileme-hero-1457x-14576.tar	homepage.mac.com-lion.events.warc.gz	4924
+lion.events	public.me.com	2012-04-27 10:21:19	archiveteam-mobileme-hero-1457x	archiveteam-mobileme-hero-1457x-14576.tar	public.me.com-lion.events.warc.gz	775537
+lion.events	web.me.com	2012-04-27 10:21:17	archiveteam-mobileme-hero-1457x	archiveteam-mobileme-hero-1457x-14576.tar	web.me.com-lion.events.warc.gz	118520656
+matfarm	gallery.me.com	2012-04-27 14:53:07	archiveteam-mobileme-hero-1457x	archiveteam-mobileme-hero-1457x-14576.tar	gallery.me.com-matfarm.warc.gz	2330791031
+matfarm	homepage.mac.com	2012-04-27 14:53:07	archiveteam-mobileme-hero-1457x	archiveteam-mobileme-hero-1457x-14576.tar	homepage.mac.com-matfarm.warc.gz	4888
+matfarm	public.me.com	2012-04-27 13:11:00	archiveteam-mobileme-hero-1457x	archiveteam-mobileme-hero-1457x-14576.tar	public.me.com-matfarm.warc.gz	1916
+matfarm	web.me.com	2012-04-27 13:10:08	archiveteam-mobileme-hero-1457x	archiveteam-mobileme-hero-1457x-14576.tar	web.me.com-matfarm.warc.gz	2281907824

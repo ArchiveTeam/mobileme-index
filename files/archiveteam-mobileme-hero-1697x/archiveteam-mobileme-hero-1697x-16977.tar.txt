@@ -1,0 +1,8 @@
+proxonaut1	gallery.me.com	2012-05-03 03:26:11	archiveteam-mobileme-hero-1697x	archiveteam-mobileme-hero-1697x-16977.tar	gallery.me.com-proxonaut1.warc.gz	4935651466
+proxonaut1	homepage.mac.com	2012-05-03 03:26:12	archiveteam-mobileme-hero-1697x	archiveteam-mobileme-hero-1697x-16977.tar	homepage.mac.com-proxonaut1.warc.gz	4909
+proxonaut1	public.me.com	2012-05-03 02:21:21	archiveteam-mobileme-hero-1697x	archiveteam-mobileme-hero-1697x-16977.tar	public.me.com-proxonaut1.warc.gz	1920
+proxonaut1	web.me.com	2012-05-03 02:21:21	archiveteam-mobileme-hero-1697x	archiveteam-mobileme-hero-1697x-16977.tar	web.me.com-proxonaut1.warc.gz	233770354
+sappirus	gallery.me.com	2012-05-03 02:09:58	archiveteam-mobileme-hero-1697x	archiveteam-mobileme-hero-1697x-16977.tar	gallery.me.com-sappirus.warc.gz	4971
+sappirus	homepage.mac.com	2012-05-03 02:10:00	archiveteam-mobileme-hero-1697x	archiveteam-mobileme-hero-1697x-16977.tar	homepage.mac.com-sappirus.warc.gz	36950
+sappirus	public.me.com	2012-05-03 02:09:57	archiveteam-mobileme-hero-1697x	archiveteam-mobileme-hero-1697x-16977.tar	public.me.com-sappirus.warc.gz	15187
+sappirus	web.me.com	2012-05-03 02:09:57	archiveteam-mobileme-hero-1697x	archiveteam-mobileme-hero-1697x-16977.tar	web.me.com-sappirus.warc.gz	268452

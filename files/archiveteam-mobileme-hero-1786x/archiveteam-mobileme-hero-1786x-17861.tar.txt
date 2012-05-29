@@ -1,0 +1,8 @@
+spf2j	gallery.me.com	2012-05-05 20:53:13	archiveteam-mobileme-hero-1786x	archiveteam-mobileme-hero-1786x-17861.tar	gallery.me.com-spf2j.warc.gz	5019153049
+spf2j	homepage.mac.com	2012-05-05 20:53:17	archiveteam-mobileme-hero-1786x	archiveteam-mobileme-hero-1786x-17861.tar	homepage.mac.com-spf2j.warc.gz	4899
+spf2j	public.me.com	2012-05-05 18:30:45	archiveteam-mobileme-hero-1786x	archiveteam-mobileme-hero-1786x-17861.tar	public.me.com-spf2j.warc.gz	8229528
+spf2j	web.me.com	2012-05-05 18:30:13	archiveteam-mobileme-hero-1786x	archiveteam-mobileme-hero-1786x-17861.tar	web.me.com-spf2j.warc.gz	951335666
+tim.macdonald	gallery.me.com	2012-05-05 17:09:42	archiveteam-mobileme-hero-1786x	archiveteam-mobileme-hero-1786x-17861.tar	gallery.me.com-tim.macdonald.warc.gz	33165514
+tim.macdonald	homepage.mac.com	2012-05-05 17:09:44	archiveteam-mobileme-hero-1786x	archiveteam-mobileme-hero-1786x-17861.tar	homepage.mac.com-tim.macdonald.warc.gz	4921
+tim.macdonald	public.me.com	2012-05-05 17:08:35	archiveteam-mobileme-hero-1786x	archiveteam-mobileme-hero-1786x-17861.tar	public.me.com-tim.macdonald.warc.gz	1921
+tim.macdonald	web.me.com	2012-05-05 17:08:34	archiveteam-mobileme-hero-1786x	archiveteam-mobileme-hero-1786x-17861.tar	web.me.com-tim.macdonald.warc.gz	1350886

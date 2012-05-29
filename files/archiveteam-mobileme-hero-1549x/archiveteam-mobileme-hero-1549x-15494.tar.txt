@@ -1,0 +1,12 @@
+ac13	gallery.me.com	2012-04-29 08:25:07	archiveteam-mobileme-hero-1549x	archiveteam-mobileme-hero-1549x-15494.tar	gallery.me.com-ac13.warc.gz	5650
+ac13	homepage.mac.com	2012-04-29 08:25:07	archiveteam-mobileme-hero-1549x	archiveteam-mobileme-hero-1549x-15494.tar	homepage.mac.com-ac13.warc.gz	4890
+ac13	public.me.com	2012-04-29 08:25:04	archiveteam-mobileme-hero-1549x	archiveteam-mobileme-hero-1549x-15494.tar	public.me.com-ac13.warc.gz	1904
+ac13	web.me.com	2012-04-29 08:25:01	archiveteam-mobileme-hero-1549x	archiveteam-mobileme-hero-1549x-15494.tar	web.me.com-ac13.warc.gz	7588560
+dloughery	gallery.me.com	2012-04-29 10:19:42	archiveteam-mobileme-hero-1549x	archiveteam-mobileme-hero-1549x-15494.tar	gallery.me.com-dloughery.warc.gz	2598701810
+dloughery	homepage.mac.com	2012-04-29 10:20:07	archiveteam-mobileme-hero-1549x	archiveteam-mobileme-hero-1549x-15494.tar	homepage.mac.com-dloughery.warc.gz	362601
+dloughery	public.me.com	2012-04-29 09:33:06	archiveteam-mobileme-hero-1549x	archiveteam-mobileme-hero-1549x-15494.tar	public.me.com-dloughery.warc.gz	26156402
+dloughery	web.me.com	2012-04-29 09:32:15	archiveteam-mobileme-hero-1549x	archiveteam-mobileme-hero-1549x-15494.tar	web.me.com-dloughery.warc.gz	860474795
+massmixpl	gallery.me.com	2012-04-29 11:39:59	archiveteam-mobileme-hero-1549x	archiveteam-mobileme-hero-1549x-15494.tar	gallery.me.com-massmixpl.warc.gz	1211043043
+massmixpl	homepage.mac.com	2012-04-29 11:39:59	archiveteam-mobileme-hero-1549x	archiveteam-mobileme-hero-1549x-15494.tar	homepage.mac.com-massmixpl.warc.gz	4921
+massmixpl	public.me.com	2012-04-29 11:19:26	archiveteam-mobileme-hero-1549x	archiveteam-mobileme-hero-1549x-15494.tar	public.me.com-massmixpl.warc.gz	299922138
+massmixpl	web.me.com	2012-04-29 11:18:13	archiveteam-mobileme-hero-1549x	archiveteam-mobileme-hero-1549x-15494.tar	web.me.com-massmixpl.warc.gz	440375994

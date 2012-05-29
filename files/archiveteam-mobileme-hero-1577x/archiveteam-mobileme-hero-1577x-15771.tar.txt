@@ -1,0 +1,4 @@
+bfetch	gallery.me.com	2012-04-30 01:36:13	archiveteam-mobileme-hero-1577x	archiveteam-mobileme-hero-1577x-15771.tar	gallery.me.com-bfetch.warc.gz	3118266035
+bfetch	homepage.mac.com	2012-04-30 01:36:14	archiveteam-mobileme-hero-1577x	archiveteam-mobileme-hero-1577x-15771.tar	homepage.mac.com-bfetch.warc.gz	4885
+bfetch	public.me.com	2012-04-30 00:27:38	archiveteam-mobileme-hero-1577x	archiveteam-mobileme-hero-1577x-15771.tar	public.me.com-bfetch.warc.gz	1912
+bfetch	web.me.com	2012-04-30 00:26:39	archiveteam-mobileme-hero-1577x	archiveteam-mobileme-hero-1577x-15771.tar	web.me.com-bfetch.warc.gz	3981447399

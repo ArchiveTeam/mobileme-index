@@ -1,0 +1,8 @@
+ami_np	gallery.me.com	2012-04-27 11:37:38	archiveteam-mobileme-hero-1457x	archiveteam-mobileme-hero-1457x-14570.tar	gallery.me.com-ami_np.warc.gz	8335
+ami_np	homepage.mac.com	2012-04-27 11:37:39	archiveteam-mobileme-hero-1457x	archiveteam-mobileme-hero-1457x-14570.tar	homepage.mac.com-ami_np.warc.gz	5155
+ami_np	public.me.com	2012-04-27 11:37:38	archiveteam-mobileme-hero-1457x	archiveteam-mobileme-hero-1457x-14570.tar	public.me.com-ami_np.warc.gz	1912
+ami_np	web.me.com	2012-04-27 11:37:35	archiveteam-mobileme-hero-1457x	archiveteam-mobileme-hero-1457x-14570.tar	web.me.com-ami_np.warc.gz	17719
+janker	gallery.me.com	2012-04-27 14:40:11	archiveteam-mobileme-hero-1457x	archiveteam-mobileme-hero-1457x-14570.tar	gallery.me.com-janker.warc.gz	10797696908
+janker	homepage.mac.com	2012-04-27 14:40:11	archiveteam-mobileme-hero-1457x	archiveteam-mobileme-hero-1457x-14570.tar	homepage.mac.com-janker.warc.gz	4894
+janker	public.me.com	2012-04-27 12:19:57	archiveteam-mobileme-hero-1457x	archiveteam-mobileme-hero-1457x-14570.tar	public.me.com-janker.warc.gz	54066
+janker	web.me.com	2012-04-27 12:19:44	archiveteam-mobileme-hero-1457x	archiveteam-mobileme-hero-1457x-14570.tar	web.me.com-janker.warc.gz	1682489065

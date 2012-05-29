@@ -1,0 +1,12 @@
+mattstec	gallery.me.com	2012-04-28 12:38:03	archiveteam-mobileme-hero-1506x	archiveteam-mobileme-hero-1506x-15068.tar	gallery.me.com-mattstec.warc.gz	3741819
+mattstec	homepage.mac.com	2012-04-28 12:38:05	archiveteam-mobileme-hero-1506x	archiveteam-mobileme-hero-1506x-15068.tar	homepage.mac.com-mattstec.warc.gz	4904
+mattstec	public.me.com	2012-04-28 12:37:46	archiveteam-mobileme-hero-1506x	archiveteam-mobileme-hero-1506x-15068.tar	public.me.com-mattstec.warc.gz	40680328
+mattstec	web.me.com	2012-04-28 12:37:30	archiveteam-mobileme-hero-1506x	archiveteam-mobileme-hero-1506x-15068.tar	web.me.com-mattstec.warc.gz	1004023828
+nerfherder	gallery.me.com	2012-04-28 13:37:43	archiveteam-mobileme-hero-1506x	archiveteam-mobileme-hero-1506x-15068.tar	gallery.me.com-nerfherder.warc.gz	868247720
+nerfherder	homepage.mac.com	2012-04-28 13:37:44	archiveteam-mobileme-hero-1506x	archiveteam-mobileme-hero-1506x-15068.tar	homepage.mac.com-nerfherder.warc.gz	4925
+nerfherder	public.me.com	2012-04-28 13:19:16	archiveteam-mobileme-hero-1506x	archiveteam-mobileme-hero-1506x-15068.tar	public.me.com-nerfherder.warc.gz	2223172069
+nerfherder	web.me.com	2012-04-28 12:56:34	archiveteam-mobileme-hero-1506x	archiveteam-mobileme-hero-1506x-15068.tar	web.me.com-nerfherder.warc.gz	872683830
+xtremform	gallery.me.com	2012-04-28 12:38:52	archiveteam-mobileme-hero-1506x	archiveteam-mobileme-hero-1506x-15068.tar	gallery.me.com-xtremform.warc.gz	4269
+xtremform	homepage.mac.com	2012-04-28 12:38:52	archiveteam-mobileme-hero-1506x	archiveteam-mobileme-hero-1506x-15068.tar	homepage.mac.com-xtremform.warc.gz	4888
+xtremform	public.me.com	2012-04-28 12:38:52	archiveteam-mobileme-hero-1506x	archiveteam-mobileme-hero-1506x-15068.tar	public.me.com-xtremform.warc.gz	1920
+xtremform	web.me.com	2012-04-28 12:38:52	archiveteam-mobileme-hero-1506x	archiveteam-mobileme-hero-1506x-15068.tar	web.me.com-xtremform.warc.gz	6367260

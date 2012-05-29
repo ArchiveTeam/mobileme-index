@@ -1,0 +1,8 @@
+acoustic_rendezvous	gallery.me.com	2012-04-23 16:09:01	archiveteam-mobileme-hero-1242x	archiveteam-mobileme-hero-1242x-12424.tar	gallery.me.com-acoustic_rendezvous.warc.gz	54459821
+acoustic_rendezvous	homepage.mac.com	2012-04-23 16:09:02	archiveteam-mobileme-hero-1242x	archiveteam-mobileme-hero-1242x-12424.tar	homepage.mac.com-acoustic_rendezvous.warc.gz	4116
+acoustic_rendezvous	public.me.com	2012-04-23 16:04:18	archiveteam-mobileme-hero-1242x	archiveteam-mobileme-hero-1242x-12424.tar	public.me.com-acoustic_rendezvous.warc.gz	1952
+acoustic_rendezvous	web.me.com	2012-04-23 16:03:58	archiveteam-mobileme-hero-1242x	archiveteam-mobileme-hero-1242x-12424.tar	web.me.com-acoustic_rendezvous.warc.gz	329054866
+ledain	gallery.me.com	2012-04-23 18:01:42	archiveteam-mobileme-hero-1242x	archiveteam-mobileme-hero-1242x-12424.tar	gallery.me.com-ledain.warc.gz	1863980476
+ledain	homepage.mac.com	2012-04-23 18:01:46	archiveteam-mobileme-hero-1242x	archiveteam-mobileme-hero-1242x-12424.tar	homepage.mac.com-ledain.warc.gz	95995
+ledain	public.me.com	2012-04-23 17:25:06	archiveteam-mobileme-hero-1242x	archiveteam-mobileme-hero-1242x-12424.tar	public.me.com-ledain.warc.gz	2002223306
+ledain	web.me.com	2012-04-23 16:43:28	archiveteam-mobileme-hero-1242x	archiveteam-mobileme-hero-1242x-12424.tar	web.me.com-ledain.warc.gz	461957517

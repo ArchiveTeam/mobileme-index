@@ -1,0 +1,16 @@
+customdatamakers	gallery.me.com	2012-04-29 06:34:00	archiveteam-mobileme-hero-1543x	archiveteam-mobileme-hero-1543x-15438.tar	gallery.me.com-customdatamakers.warc.gz	8376
+customdatamakers	homepage.mac.com	2012-04-29 06:34:01	archiveteam-mobileme-hero-1543x	archiveteam-mobileme-hero-1543x-15438.tar	homepage.mac.com-customdatamakers.warc.gz	5203
+customdatamakers	public.me.com	2012-04-29 06:33:59	archiveteam-mobileme-hero-1543x	archiveteam-mobileme-hero-1543x-15438.tar	public.me.com-customdatamakers.warc.gz	1930
+customdatamakers	web.me.com	2012-04-29 06:33:59	archiveteam-mobileme-hero-1543x	archiveteam-mobileme-hero-1543x-15438.tar	web.me.com-customdatamakers.warc.gz	17818
+jksolheim	gallery.me.com	2012-04-29 08:41:31	archiveteam-mobileme-hero-1543x	archiveteam-mobileme-hero-1543x-15438.tar	gallery.me.com-jksolheim.warc.gz	7836697653
+jksolheim	homepage.mac.com	2012-04-29 08:41:32	archiveteam-mobileme-hero-1543x	archiveteam-mobileme-hero-1543x-15438.tar	homepage.mac.com-jksolheim.warc.gz	4916
+jksolheim	public.me.com	2012-04-29 06:57:55	archiveteam-mobileme-hero-1543x	archiveteam-mobileme-hero-1543x-15438.tar	public.me.com-jksolheim.warc.gz	200220096
+jksolheim	web.me.com	2012-04-29 06:54:39	archiveteam-mobileme-hero-1543x	archiveteam-mobileme-hero-1543x-15438.tar	web.me.com-jksolheim.warc.gz	351041432
+mywiena	gallery.me.com	2012-04-29 06:33:45	archiveteam-mobileme-hero-1543x	archiveteam-mobileme-hero-1543x-15438.tar	gallery.me.com-mywiena.warc.gz	4243
+mywiena	homepage.mac.com	2012-04-29 06:33:56	archiveteam-mobileme-hero-1543x	archiveteam-mobileme-hero-1543x-15438.tar	homepage.mac.com-mywiena.warc.gz	185498
+mywiena	public.me.com	2012-04-29 06:33:44	archiveteam-mobileme-hero-1543x	archiveteam-mobileme-hero-1543x-15438.tar	public.me.com-mywiena.warc.gz	1909
+mywiena	web.me.com	2012-04-29 06:33:44	archiveteam-mobileme-hero-1543x	archiveteam-mobileme-hero-1543x-15438.tar	web.me.com-mywiena.warc.gz	7451
+vallem	gallery.me.com	2012-04-29 06:38:23	archiveteam-mobileme-hero-1543x	archiveteam-mobileme-hero-1543x-15438.tar	gallery.me.com-vallem.warc.gz	4228
+vallem	homepage.mac.com	2012-04-29 06:38:24	archiveteam-mobileme-hero-1543x	archiveteam-mobileme-hero-1543x-15438.tar	homepage.mac.com-vallem.warc.gz	4903
+vallem	public.me.com	2012-04-29 06:38:23	archiveteam-mobileme-hero-1543x	archiveteam-mobileme-hero-1543x-15438.tar	public.me.com-vallem.warc.gz	1914
+vallem	web.me.com	2012-04-29 06:38:22	archiveteam-mobileme-hero-1543x	archiveteam-mobileme-hero-1543x-15438.tar	web.me.com-vallem.warc.gz	32252385

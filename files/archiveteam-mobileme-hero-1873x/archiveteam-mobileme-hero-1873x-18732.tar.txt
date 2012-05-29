@@ -1,0 +1,12 @@
+johncmail	gallery.me.com	2012-05-10 13:24:12	archiveteam-mobileme-hero-1873x	archiveteam-mobileme-hero-1873x-18732.tar	gallery.me.com-johncmail.warc.gz	4251
+johncmail	homepage.mac.com	2012-05-10 13:24:13	archiveteam-mobileme-hero-1873x	archiveteam-mobileme-hero-1873x-18732.tar	homepage.mac.com-johncmail.warc.gz	4927
+johncmail	public.me.com	2012-05-10 13:24:11	archiveteam-mobileme-hero-1873x	archiveteam-mobileme-hero-1873x-18732.tar	public.me.com-johncmail.warc.gz	1917
+johncmail	web.me.com	2012-05-10 13:24:10	archiveteam-mobileme-hero-1873x	archiveteam-mobileme-hero-1873x-18732.tar	web.me.com-johncmail.warc.gz	24122016
+old	gallery.me.com	2012-05-10 18:00:14	archiveteam-mobileme-hero-1873x	archiveteam-mobileme-hero-1873x-18732.tar	gallery.me.com-old.warc.gz	4345468398
+old	homepage.mac.com	2012-05-10 18:29:43	archiveteam-mobileme-hero-1873x	archiveteam-mobileme-hero-1873x-18732.tar	homepage.mac.com-old.warc.gz	55138227
+old	public.me.com	2012-05-10 14:39:28	archiveteam-mobileme-hero-1873x	archiveteam-mobileme-hero-1873x-18732.tar	public.me.com-old.warc.gz	16172533
+old	web.me.com	2012-05-10 14:39:19	archiveteam-mobileme-hero-1873x	archiveteam-mobileme-hero-1873x-18732.tar	web.me.com-old.warc.gz	795507556
+rfrye555	gallery.me.com	2012-05-10 13:14:37	archiveteam-mobileme-hero-1873x	archiveteam-mobileme-hero-1873x-18732.tar	gallery.me.com-rfrye555.warc.gz	4257
+rfrye555	homepage.mac.com	2012-05-10 13:14:38	archiveteam-mobileme-hero-1873x	archiveteam-mobileme-hero-1873x-18732.tar	homepage.mac.com-rfrye555.warc.gz	4908
+rfrye555	public.me.com	2012-05-10 13:14:36	archiveteam-mobileme-hero-1873x	archiveteam-mobileme-hero-1873x-18732.tar	public.me.com-rfrye555.warc.gz	1912
+rfrye555	web.me.com	2012-05-10 13:14:35	archiveteam-mobileme-hero-1873x	archiveteam-mobileme-hero-1873x-18732.tar	web.me.com-rfrye555.warc.gz	5424908

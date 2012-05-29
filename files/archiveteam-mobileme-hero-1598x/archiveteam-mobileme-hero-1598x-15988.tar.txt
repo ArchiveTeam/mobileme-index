@@ -1,0 +1,12 @@
+pockyre	gallery.me.com	2012-04-30 12:23:07	archiveteam-mobileme-hero-1598x	archiveteam-mobileme-hero-1598x-15988.tar	gallery.me.com-pockyre.warc.gz	8351
+pockyre	homepage.mac.com	2012-04-30 12:23:07	archiveteam-mobileme-hero-1598x	archiveteam-mobileme-hero-1598x-15988.tar	homepage.mac.com-pockyre.warc.gz	5166
+pockyre	public.me.com	2012-04-30 12:23:06	archiveteam-mobileme-hero-1598x	archiveteam-mobileme-hero-1598x-15988.tar	public.me.com-pockyre.warc.gz	1914
+pockyre	web.me.com	2012-04-30 12:23:06	archiveteam-mobileme-hero-1598x	archiveteam-mobileme-hero-1598x-15988.tar	web.me.com-pockyre.warc.gz	17727
+scanlon.tom	gallery.me.com	2012-04-30 14:30:15	archiveteam-mobileme-hero-1598x	archiveteam-mobileme-hero-1598x-15988.tar	gallery.me.com-scanlon.tom.warc.gz	8839955220
+scanlon.tom	homepage.mac.com	2012-04-30 14:30:16	archiveteam-mobileme-hero-1598x	archiveteam-mobileme-hero-1598x-15988.tar	homepage.mac.com-scanlon.tom.warc.gz	4923
+scanlon.tom	public.me.com	2012-04-30 12:34:05	archiveteam-mobileme-hero-1598x	archiveteam-mobileme-hero-1598x-15988.tar	public.me.com-scanlon.tom.warc.gz	3386
+scanlon.tom	web.me.com	2012-04-30 12:34:03	archiveteam-mobileme-hero-1598x	archiveteam-mobileme-hero-1598x-15988.tar	web.me.com-scanlon.tom.warc.gz	27514564
+zeimentz	gallery.me.com	2012-04-30 12:23:56	archiveteam-mobileme-hero-1598x	archiveteam-mobileme-hero-1598x-15988.tar	gallery.me.com-zeimentz.warc.gz	5228
+zeimentz	homepage.mac.com	2012-04-30 12:23:56	archiveteam-mobileme-hero-1598x	archiveteam-mobileme-hero-1598x-15988.tar	homepage.mac.com-zeimentz.warc.gz	4910
+zeimentz	public.me.com	2012-04-30 12:23:55	archiveteam-mobileme-hero-1598x	archiveteam-mobileme-hero-1598x-15988.tar	public.me.com-zeimentz.warc.gz	1913
+zeimentz	web.me.com	2012-04-30 12:23:54	archiveteam-mobileme-hero-1598x	archiveteam-mobileme-hero-1598x-15988.tar	web.me.com-zeimentz.warc.gz	1591828

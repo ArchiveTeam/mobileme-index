@@ -1,0 +1,16 @@
+hshires	gallery.me.com	2012-04-24 05:54:19	archiveteam-mobileme-hero-1286x	archiveteam-mobileme-hero-1286x-12864.tar	gallery.me.com-hshires.warc.gz	98964532
+hshires	homepage.mac.com	2012-04-24 05:54:29	archiveteam-mobileme-hero-1286x	archiveteam-mobileme-hero-1286x-12864.tar	homepage.mac.com-hshires.warc.gz	123542
+hshires	public.me.com	2012-04-24 05:51:10	archiveteam-mobileme-hero-1286x	archiveteam-mobileme-hero-1286x-12864.tar	public.me.com-hshires.warc.gz	1915
+hshires	web.me.com	2012-04-24 05:51:09	archiveteam-mobileme-hero-1286x	archiveteam-mobileme-hero-1286x-12864.tar	web.me.com-hshires.warc.gz	52922256
+nesserfly	gallery.me.com	2012-04-24 13:14:41	archiveteam-mobileme-hero-1286x	archiveteam-mobileme-hero-1286x-12864.tar	gallery.me.com-nesserfly.warc.gz	4251175258
+nesserfly	homepage.mac.com	2012-04-24 13:14:42	archiveteam-mobileme-hero-1286x	archiveteam-mobileme-hero-1286x-12864.tar	homepage.mac.com-nesserfly.warc.gz	4919
+nesserfly	public.me.com	2012-04-24 09:41:56	archiveteam-mobileme-hero-1286x	archiveteam-mobileme-hero-1286x-12864.tar	public.me.com-nesserfly.warc.gz	174242999
+nesserfly	web.me.com	2012-04-24 09:33:54	archiveteam-mobileme-hero-1286x	archiveteam-mobileme-hero-1286x-12864.tar	web.me.com-nesserfly.warc.gz	2322042695
+taichi.periple.fred	gallery.me.com	2012-04-24 05:44:52	archiveteam-mobileme-hero-1286x	archiveteam-mobileme-hero-1286x-12864.tar	gallery.me.com-taichi.periple.fred.warc.gz	5322
+taichi.periple.fred	homepage.mac.com	2012-04-24 05:44:52	archiveteam-mobileme-hero-1286x	archiveteam-mobileme-hero-1286x-12864.tar	homepage.mac.com-taichi.periple.fred.warc.gz	4956
+taichi.periple.fred	public.me.com	2012-04-24 05:44:51	archiveteam-mobileme-hero-1286x	archiveteam-mobileme-hero-1286x-12864.tar	public.me.com-taichi.periple.fred.warc.gz	3428
+taichi.periple.fred	web.me.com	2012-04-24 05:44:49	archiveteam-mobileme-hero-1286x	archiveteam-mobileme-hero-1286x-12864.tar	web.me.com-taichi.periple.fred.warc.gz	21778064
+team82	gallery.me.com	2012-04-24 05:41:57	archiveteam-mobileme-hero-1286x	archiveteam-mobileme-hero-1286x-12864.tar	gallery.me.com-team82.warc.gz	12314
+team82	homepage.mac.com	2012-04-24 05:41:58	archiveteam-mobileme-hero-1286x	archiveteam-mobileme-hero-1286x-12864.tar	homepage.mac.com-team82.warc.gz	7149
+team82	public.me.com	2012-04-24 05:41:53	archiveteam-mobileme-hero-1286x	archiveteam-mobileme-hero-1286x-12864.tar	public.me.com-team82.warc.gz	1910
+team82	web.me.com	2012-04-24 05:41:52	archiveteam-mobileme-hero-1286x	archiveteam-mobileme-hero-1286x-12864.tar	web.me.com-team82.warc.gz	22477

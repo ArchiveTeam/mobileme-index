@@ -1,0 +1,16 @@
+apthorp	gallery.me.com	2012-04-25 06:21:26	archiveteam-mobileme-hero-1329x	archiveteam-mobileme-hero-1329x-13290.tar	gallery.me.com-apthorp.warc.gz	211433986
+apthorp	homepage.mac.com	2012-04-25 06:21:44	archiveteam-mobileme-hero-1329x	archiveteam-mobileme-hero-1329x-13290.tar	homepage.mac.com-apthorp.warc.gz	759839
+apthorp	public.me.com	2012-04-25 06:15:16	archiveteam-mobileme-hero-1329x	archiveteam-mobileme-hero-1329x-13290.tar	public.me.com-apthorp.warc.gz	1845337725
+apthorp	web.me.com	2012-04-25 05:51:34	archiveteam-mobileme-hero-1329x	archiveteam-mobileme-hero-1329x-13290.tar	web.me.com-apthorp.warc.gz	502369494
+milers	gallery.me.com	2012-04-25 05:39:49	archiveteam-mobileme-hero-1329x	archiveteam-mobileme-hero-1329x-13290.tar	gallery.me.com-milers.warc.gz	1671025291
+milers	homepage.mac.com	2012-04-25 05:39:51	archiveteam-mobileme-hero-1329x	archiveteam-mobileme-hero-1329x-13290.tar	homepage.mac.com-milers.warc.gz	70908
+milers	public.me.com	2012-04-25 05:21:36	archiveteam-mobileme-hero-1329x	archiveteam-mobileme-hero-1329x-13290.tar	public.me.com-milers.warc.gz	812716766
+milers	web.me.com	2012-04-25 05:07:50	archiveteam-mobileme-hero-1329x	archiveteam-mobileme-hero-1329x-13290.tar	web.me.com-milers.warc.gz	625789340
+thesmithgang	gallery.me.com	2012-04-25 05:41:02	archiveteam-mobileme-hero-1329x	archiveteam-mobileme-hero-1329x-13290.tar	gallery.me.com-thesmithgang.warc.gz	6029
+thesmithgang	homepage.mac.com	2012-04-25 05:41:02	archiveteam-mobileme-hero-1329x	archiveteam-mobileme-hero-1329x-13290.tar	homepage.mac.com-thesmithgang.warc.gz	4921
+thesmithgang	public.me.com	2012-04-25 05:41:01	archiveteam-mobileme-hero-1329x	archiveteam-mobileme-hero-1329x-13290.tar	public.me.com-thesmithgang.warc.gz	1931
+thesmithgang	web.me.com	2012-04-25 05:41:00	archiveteam-mobileme-hero-1329x	archiveteam-mobileme-hero-1329x-13290.tar	web.me.com-thesmithgang.warc.gz	5684332
+wielock	gallery.me.com	2012-04-25 04:39:11	archiveteam-mobileme-hero-1329x	archiveteam-mobileme-hero-1329x-13290.tar	gallery.me.com-wielock.warc.gz	5008
+wielock	homepage.mac.com	2012-04-25 04:39:12	archiveteam-mobileme-hero-1329x	archiveteam-mobileme-hero-1329x-13290.tar	homepage.mac.com-wielock.warc.gz	4887
+wielock	public.me.com	2012-04-25 04:39:10	archiveteam-mobileme-hero-1329x	archiveteam-mobileme-hero-1329x-13290.tar	public.me.com-wielock.warc.gz	1912
+wielock	web.me.com	2012-04-25 04:39:07	archiveteam-mobileme-hero-1329x	archiveteam-mobileme-hero-1329x-13290.tar	web.me.com-wielock.warc.gz	37057245

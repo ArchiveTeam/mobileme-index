@@ -1,0 +1,12 @@
+bpme	gallery.me.com	2012-05-26 08:14:59	archiveteam-mobileme-hero-2098x	archiveteam-mobileme-hero-2098x-20980.tar	gallery.me.com-bpme.warc.gz	354346234
+bpme	homepage.mac.com	2012-05-26 08:15:00	archiveteam-mobileme-hero-2098x	archiveteam-mobileme-hero-2098x-20980.tar	homepage.mac.com-bpme.warc.gz	4877
+bpme	public.me.com	2012-05-26 08:10:32	archiveteam-mobileme-hero-2098x	archiveteam-mobileme-hero-2098x-20980.tar	public.me.com-bpme.warc.gz	15133
+bpme	web.me.com	2012-05-26 08:09:04	archiveteam-mobileme-hero-2098x	archiveteam-mobileme-hero-2098x-20980.tar	web.me.com-bpme.warc.gz	578970922
+cayman1	gallery.me.com	2012-05-26 08:43:38	archiveteam-mobileme-hero-2098x	archiveteam-mobileme-hero-2098x-20980.tar	gallery.me.com-cayman1.warc.gz	2329540882
+cayman1	homepage.mac.com	2012-05-26 08:43:51	archiveteam-mobileme-hero-2098x	archiveteam-mobileme-hero-2098x-20980.tar	homepage.mac.com-cayman1.warc.gz	445348
+cayman1	public.me.com	2012-05-26 08:20:10	archiveteam-mobileme-hero-2098x	archiveteam-mobileme-hero-2098x-20980.tar	public.me.com-cayman1.warc.gz	1916
+cayman1	web.me.com	2012-05-26 08:20:05	archiveteam-mobileme-hero-2098x	archiveteam-mobileme-hero-2098x-20980.tar	web.me.com-cayman1.warc.gz	451075831
+fourkidclub	gallery.me.com	2012-05-26 10:25:16	archiveteam-mobileme-hero-2098x	archiveteam-mobileme-hero-2098x-20980.tar	gallery.me.com-fourkidclub.warc.gz	11690071328
+fourkidclub	homepage.mac.com	2012-05-26 10:25:17	archiveteam-mobileme-hero-2098x	archiveteam-mobileme-hero-2098x-20980.tar	homepage.mac.com-fourkidclub.warc.gz	4934
+fourkidclub	public.me.com	2012-05-26 08:49:32	archiveteam-mobileme-hero-2098x	archiveteam-mobileme-hero-2098x-20980.tar	public.me.com-fourkidclub.warc.gz	113842225
+fourkidclub	web.me.com	2012-05-26 08:48:53	archiveteam-mobileme-hero-2098x	archiveteam-mobileme-hero-2098x-20980.tar	web.me.com-fourkidclub.warc.gz	167060110

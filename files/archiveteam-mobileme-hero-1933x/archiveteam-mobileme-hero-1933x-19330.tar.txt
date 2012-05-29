@@ -1,0 +1,16 @@
+add_art	gallery.me.com	2012-05-15 14:58:48	archiveteam-mobileme-hero-1933x	archiveteam-mobileme-hero-1933x-19330.tar	gallery.me.com-add_art.warc.gz	142762298
+add_art	homepage.mac.com	2012-05-15 14:58:48	archiveteam-mobileme-hero-1933x	archiveteam-mobileme-hero-1933x-19330.tar	homepage.mac.com-add_art.warc.gz	4892
+add_art	public.me.com	2012-05-15 14:47:33	archiveteam-mobileme-hero-1933x	archiveteam-mobileme-hero-1933x-19330.tar	public.me.com-add_art.warc.gz	1822471139
+add_art	web.me.com	2012-05-15 13:58:12	archiveteam-mobileme-hero-1933x	archiveteam-mobileme-hero-1933x-19330.tar	web.me.com-add_art.warc.gz	1123497235
+eugenerayess	gallery.me.com	2012-05-15 13:02:11	archiveteam-mobileme-hero-1933x	archiveteam-mobileme-hero-1933x-19330.tar	gallery.me.com-eugenerayess.warc.gz	1846068695
+eugenerayess	homepage.mac.com	2012-05-15 13:02:14	archiveteam-mobileme-hero-1933x	archiveteam-mobileme-hero-1933x-19330.tar	homepage.mac.com-eugenerayess.warc.gz	36916
+eugenerayess	public.me.com	2012-05-15 11:42:53	archiveteam-mobileme-hero-1933x	archiveteam-mobileme-hero-1933x-19330.tar	public.me.com-eugenerayess.warc.gz	755151075
+eugenerayess	web.me.com	2012-05-15 11:11:48	archiveteam-mobileme-hero-1933x	archiveteam-mobileme-hero-1933x-19330.tar	web.me.com-eugenerayess.warc.gz	541205286
+foundobject	gallery.me.com	2012-05-15 10:10:31	archiveteam-mobileme-hero-1933x	archiveteam-mobileme-hero-1933x-19330.tar	gallery.me.com-foundobject.warc.gz	2013062
+foundobject	homepage.mac.com	2012-05-15 10:10:35	archiveteam-mobileme-hero-1933x	archiveteam-mobileme-hero-1933x-19330.tar	homepage.mac.com-foundobject.warc.gz	3587510
+foundobject	public.me.com	2012-05-15 10:10:17	archiveteam-mobileme-hero-1933x	archiveteam-mobileme-hero-1933x-19330.tar	public.me.com-foundobject.warc.gz	203249191
+foundobject	web.me.com	2012-05-15 10:08:44	archiveteam-mobileme-hero-1933x	archiveteam-mobileme-hero-1933x-19330.tar	web.me.com-foundobject.warc.gz	217093406
+michaelgouveia	gallery.me.com	2012-05-15 09:09:50	archiveteam-mobileme-hero-1933x	archiveteam-mobileme-hero-1933x-19330.tar	gallery.me.com-michaelgouveia.warc.gz	4275
+michaelgouveia	homepage.mac.com	2012-05-15 09:09:50	archiveteam-mobileme-hero-1933x	archiveteam-mobileme-hero-1933x-19330.tar	homepage.mac.com-michaelgouveia.warc.gz	4926
+michaelgouveia	public.me.com	2012-05-15 09:09:48	archiveteam-mobileme-hero-1933x	archiveteam-mobileme-hero-1933x-19330.tar	public.me.com-michaelgouveia.warc.gz	186813872
+michaelgouveia	web.me.com	2012-05-15 09:03:55	archiveteam-mobileme-hero-1933x	archiveteam-mobileme-hero-1933x-19330.tar	web.me.com-michaelgouveia.warc.gz	114866054

@@ -1,0 +1,16 @@
+cleso20	gallery.me.com	2012-04-23 10:52:20	archiveteam-mobileme-hero-1230x	archiveteam-mobileme-hero-1230x-12309.tar	gallery.me.com-cleso20.warc.gz	8340
+cleso20	homepage.mac.com	2012-04-23 10:52:20	archiveteam-mobileme-hero-1230x	archiveteam-mobileme-hero-1230x-12309.tar	homepage.mac.com-cleso20.warc.gz	5169
+cleso20	public.me.com	2012-04-23 10:52:19	archiveteam-mobileme-hero-1230x	archiveteam-mobileme-hero-1230x-12309.tar	public.me.com-cleso20.warc.gz	1914
+cleso20	web.me.com	2012-04-23 10:52:19	archiveteam-mobileme-hero-1230x	archiveteam-mobileme-hero-1230x-12309.tar	web.me.com-cleso20.warc.gz	17709
+dlesimple	gallery.me.com	2012-04-23 10:58:22	archiveteam-mobileme-hero-1230x	archiveteam-mobileme-hero-1230x-12309.tar	gallery.me.com-dlesimple.warc.gz	167630980
+dlesimple	homepage.mac.com	2012-04-23 10:58:24	archiveteam-mobileme-hero-1230x	archiveteam-mobileme-hero-1230x-12309.tar	homepage.mac.com-dlesimple.warc.gz	9585
+dlesimple	public.me.com	2012-04-23 10:53:30	archiveteam-mobileme-hero-1230x	archiveteam-mobileme-hero-1230x-12309.tar	public.me.com-dlesimple.warc.gz	621088
+dlesimple	web.me.com	2012-04-23 10:53:18	archiveteam-mobileme-hero-1230x	archiveteam-mobileme-hero-1230x-12309.tar	web.me.com-dlesimple.warc.gz	2739351
+matouvormgeving	gallery.me.com	2012-04-23 10:52:17	archiveteam-mobileme-hero-1230x	archiveteam-mobileme-hero-1230x-12309.tar	gallery.me.com-matouvormgeving.warc.gz	4270
+matouvormgeving	homepage.mac.com	2012-04-23 10:52:17	archiveteam-mobileme-hero-1230x	archiveteam-mobileme-hero-1230x-12309.tar	homepage.mac.com-matouvormgeving.warc.gz	4930
+matouvormgeving	public.me.com	2012-04-23 10:52:16	archiveteam-mobileme-hero-1230x	archiveteam-mobileme-hero-1230x-12309.tar	public.me.com-matouvormgeving.warc.gz	1930
+matouvormgeving	web.me.com	2012-04-23 10:52:16	archiveteam-mobileme-hero-1230x	archiveteam-mobileme-hero-1230x-12309.tar	web.me.com-matouvormgeving.warc.gz	31277494
+stsmitz	gallery.me.com	2012-04-23 13:37:04	archiveteam-mobileme-hero-1230x	archiveteam-mobileme-hero-1230x-12309.tar	gallery.me.com-stsmitz.warc.gz	3271059880
+stsmitz	homepage.mac.com	2012-04-23 13:37:04	archiveteam-mobileme-hero-1230x	archiveteam-mobileme-hero-1230x-12309.tar	homepage.mac.com-stsmitz.warc.gz	4917
+stsmitz	public.me.com	2012-04-23 12:00:06	archiveteam-mobileme-hero-1230x	archiveteam-mobileme-hero-1230x-12309.tar	public.me.com-stsmitz.warc.gz	3337
+stsmitz	web.me.com	2012-04-23 12:00:05	archiveteam-mobileme-hero-1230x	archiveteam-mobileme-hero-1230x-12309.tar	web.me.com-stsmitz.warc.gz	861798524

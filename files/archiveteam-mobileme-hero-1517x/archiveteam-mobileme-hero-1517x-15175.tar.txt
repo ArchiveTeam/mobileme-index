@@ -1,0 +1,16 @@
+mthole	gallery.me.com	2012-04-28 14:49:52	archiveteam-mobileme-hero-1517x	archiveteam-mobileme-hero-1517x-15175.tar	gallery.me.com-mthole.warc.gz	27785553
+mthole	homepage.mac.com	2012-04-28 14:49:53	archiveteam-mobileme-hero-1517x	archiveteam-mobileme-hero-1517x-15175.tar	homepage.mac.com-mthole.warc.gz	4908
+mthole	public.me.com	2012-04-28 14:48:37	archiveteam-mobileme-hero-1517x	archiveteam-mobileme-hero-1517x-15175.tar	public.me.com-mthole.warc.gz	1913
+mthole	web.me.com	2012-04-28 14:48:37	archiveteam-mobileme-hero-1517x	archiveteam-mobileme-hero-1517x-15175.tar	web.me.com-mthole.warc.gz	783310
+npautasso	gallery.me.com	2012-04-28 15:00:28	archiveteam-mobileme-hero-1517x	archiveteam-mobileme-hero-1517x-15175.tar	gallery.me.com-npautasso.warc.gz	3217444
+npautasso	homepage.mac.com	2012-04-28 15:00:32	archiveteam-mobileme-hero-1517x	archiveteam-mobileme-hero-1517x-15175.tar	homepage.mac.com-npautasso.warc.gz	106305
+npautasso	public.me.com	2012-04-28 15:00:19	archiveteam-mobileme-hero-1517x	archiveteam-mobileme-hero-1517x-15175.tar	public.me.com-npautasso.warc.gz	44907227
+npautasso	web.me.com	2012-04-28 14:59:06	archiveteam-mobileme-hero-1517x	archiveteam-mobileme-hero-1517x-15175.tar	web.me.com-npautasso.warc.gz	9109131
+pavel.keller	gallery.me.com	2012-04-28 18:53:16	archiveteam-mobileme-hero-1517x	archiveteam-mobileme-hero-1517x-15175.tar	gallery.me.com-pavel.keller.warc.gz	2173038403
+pavel.keller	homepage.mac.com	2012-04-28 18:53:17	archiveteam-mobileme-hero-1517x	archiveteam-mobileme-hero-1517x-15175.tar	homepage.mac.com-pavel.keller.warc.gz	4937
+pavel.keller	public.me.com	2012-04-28 17:39:09	archiveteam-mobileme-hero-1517x	archiveteam-mobileme-hero-1517x-15175.tar	public.me.com-pavel.keller.warc.gz	1580468790
+pavel.keller	web.me.com	2012-04-28 17:31:16	archiveteam-mobileme-hero-1517x	archiveteam-mobileme-hero-1517x-15175.tar	web.me.com-pavel.keller.warc.gz	1535384305
+westharpeth	gallery.me.com	2012-04-28 14:57:21	archiveteam-mobileme-hero-1517x	archiveteam-mobileme-hero-1517x-15175.tar	gallery.me.com-westharpeth.warc.gz	4262
+westharpeth	homepage.mac.com	2012-04-28 14:57:21	archiveteam-mobileme-hero-1517x	archiveteam-mobileme-hero-1517x-15175.tar	homepage.mac.com-westharpeth.warc.gz	4923
+westharpeth	public.me.com	2012-04-28 14:57:20	archiveteam-mobileme-hero-1517x	archiveteam-mobileme-hero-1517x-15175.tar	public.me.com-westharpeth.warc.gz	1921
+westharpeth	web.me.com	2012-04-28 14:57:18	archiveteam-mobileme-hero-1517x	archiveteam-mobileme-hero-1517x-15175.tar	web.me.com-westharpeth.warc.gz	17104080

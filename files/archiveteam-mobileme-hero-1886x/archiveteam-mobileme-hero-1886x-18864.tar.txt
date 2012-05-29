@@ -1,0 +1,4 @@
+g.storm	gallery.me.com	2012-05-11 17:12:31	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18864.tar	gallery.me.com-g.storm.warc.gz	50645865
+g.storm	homepage.mac.com	2012-05-11 17:12:31	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18864.tar	homepage.mac.com-g.storm.warc.gz	4914
+g.storm	public.me.com	2012-05-11 17:11:29	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18864.tar	public.me.com-g.storm.warc.gz	1909
+g.storm	web.me.com	2012-05-11 17:11:18	archiveteam-mobileme-hero-1886x	archiveteam-mobileme-hero-1886x-18864.tar	web.me.com-g.storm.warc.gz	5524831531

@@ -1,0 +1,16 @@
+itemp	gallery.me.com	2012-05-01 05:41:10	archiveteam-mobileme-hero-1625x	archiveteam-mobileme-hero-1625x-16255.tar	gallery.me.com-itemp.warc.gz	620536396
+itemp	homepage.mac.com	2012-05-01 05:41:10	archiveteam-mobileme-hero-1625x	archiveteam-mobileme-hero-1625x-16255.tar	homepage.mac.com-itemp.warc.gz	4902
+itemp	public.me.com	2012-05-01 05:30:23	archiveteam-mobileme-hero-1625x	archiveteam-mobileme-hero-1625x-16255.tar	public.me.com-itemp.warc.gz	2700424336
+itemp	web.me.com	2012-05-01 05:09:43	archiveteam-mobileme-hero-1625x	archiveteam-mobileme-hero-1625x-16255.tar	web.me.com-itemp.warc.gz	6646066
+macst1	gallery.me.com	2012-05-01 05:06:41	archiveteam-mobileme-hero-1625x	archiveteam-mobileme-hero-1625x-16255.tar	gallery.me.com-macst1.warc.gz	1639867838
+macst1	homepage.mac.com	2012-05-01 05:07:02	archiveteam-mobileme-hero-1625x	archiveteam-mobileme-hero-1625x-16255.tar	homepage.mac.com-macst1.warc.gz	292079
+macst1	public.me.com	2012-05-01 04:40:18	archiveteam-mobileme-hero-1625x	archiveteam-mobileme-hero-1625x-16255.tar	public.me.com-macst1.warc.gz	1908
+macst1	web.me.com	2012-05-01 04:40:18	archiveteam-mobileme-hero-1625x	archiveteam-mobileme-hero-1625x-16255.tar	web.me.com-macst1.warc.gz	65041132
+monicaalvarez	gallery.me.com	2012-05-01 04:34:30	archiveteam-mobileme-hero-1625x	archiveteam-mobileme-hero-1625x-16255.tar	gallery.me.com-monicaalvarez.warc.gz	5057
+monicaalvarez	homepage.mac.com	2012-05-01 04:34:30	archiveteam-mobileme-hero-1625x	archiveteam-mobileme-hero-1625x-16255.tar	homepage.mac.com-monicaalvarez.warc.gz	4916
+monicaalvarez	public.me.com	2012-05-01 04:34:29	archiveteam-mobileme-hero-1625x	archiveteam-mobileme-hero-1625x-16255.tar	public.me.com-monicaalvarez.warc.gz	1930
+monicaalvarez	web.me.com	2012-05-01 04:34:28	archiveteam-mobileme-hero-1625x	archiveteam-mobileme-hero-1625x-16255.tar	web.me.com-monicaalvarez.warc.gz	8862397
+valhal444	gallery.me.com	2012-05-01 04:34:34	archiveteam-mobileme-hero-1625x	archiveteam-mobileme-hero-1625x-16255.tar	gallery.me.com-valhal444.warc.gz	8343
+valhal444	homepage.mac.com	2012-05-01 04:34:34	archiveteam-mobileme-hero-1625x	archiveteam-mobileme-hero-1625x-16255.tar	homepage.mac.com-valhal444.warc.gz	5178
+valhal444	public.me.com	2012-05-01 04:34:33	archiveteam-mobileme-hero-1625x	archiveteam-mobileme-hero-1625x-16255.tar	public.me.com-valhal444.warc.gz	1914
+valhal444	web.me.com	2012-05-01 04:34:33	archiveteam-mobileme-hero-1625x	archiveteam-mobileme-hero-1625x-16255.tar	web.me.com-valhal444.warc.gz	17723

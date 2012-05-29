@@ -1,0 +1,12 @@
+chan	gallery.me.com	2012-05-03 09:30:35	archiveteam-mobileme-hero-1706x	archiveteam-mobileme-hero-1706x-17064.tar	gallery.me.com-chan.warc.gz	6152
+chan	homepage.mac.com	2012-05-03 09:30:56	archiveteam-mobileme-hero-1706x	archiveteam-mobileme-hero-1706x-17064.tar	homepage.mac.com-chan.warc.gz	274365
+chan	public.me.com	2012-05-03 09:30:33	archiveteam-mobileme-hero-1706x	archiveteam-mobileme-hero-1706x-17064.tar	public.me.com-chan.warc.gz	14279581195
+chan	web.me.com	2012-05-03 06:42:08	archiveteam-mobileme-hero-1706x	archiveteam-mobileme-hero-1706x-17064.tar	web.me.com-chan.warc.gz	12292654
+dr.lumsden	gallery.me.com	2012-05-03 06:28:12	archiveteam-mobileme-hero-1706x	archiveteam-mobileme-hero-1706x-17064.tar	gallery.me.com-dr.lumsden.warc.gz	1378845
+dr.lumsden	homepage.mac.com	2012-05-03 06:28:58	archiveteam-mobileme-hero-1706x	archiveteam-mobileme-hero-1706x-17064.tar	homepage.mac.com-dr.lumsden.warc.gz	6783693
+dr.lumsden	public.me.com	2012-05-03 06:28:09	archiveteam-mobileme-hero-1706x	archiveteam-mobileme-hero-1706x-17064.tar	public.me.com-dr.lumsden.warc.gz	1919
+dr.lumsden	web.me.com	2012-05-03 06:28:08	archiveteam-mobileme-hero-1706x	archiveteam-mobileme-hero-1706x-17064.tar	web.me.com-dr.lumsden.warc.gz	74991801
+jeanmead	gallery.me.com	2012-05-03 06:38:36	archiveteam-mobileme-hero-1706x	archiveteam-mobileme-hero-1706x-17064.tar	gallery.me.com-jeanmead.warc.gz	223493599
+jeanmead	homepage.mac.com	2012-05-03 06:38:38	archiveteam-mobileme-hero-1706x	archiveteam-mobileme-hero-1706x-17064.tar	homepage.mac.com-jeanmead.warc.gz	36970
+jeanmead	public.me.com	2012-05-03 06:30:59	archiveteam-mobileme-hero-1706x	archiveteam-mobileme-hero-1706x-17064.tar	public.me.com-jeanmead.warc.gz	23287368
+jeanmead	web.me.com	2012-05-03 06:30:36	archiveteam-mobileme-hero-1706x	archiveteam-mobileme-hero-1706x-17064.tar	web.me.com-jeanmead.warc.gz	3649320

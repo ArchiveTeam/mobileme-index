@@ -1,0 +1,8 @@
+imagemap	gallery.me.com	2012-04-30 18:08:14	archiveteam-mobileme-hero-1615x	archiveteam-mobileme-hero-1615x-16152.tar	gallery.me.com-imagemap.warc.gz	8352
+imagemap	homepage.mac.com	2012-04-30 18:08:14	archiveteam-mobileme-hero-1615x	archiveteam-mobileme-hero-1615x-16152.tar	homepage.mac.com-imagemap.warc.gz	5169
+imagemap	public.me.com	2012-04-30 18:08:13	archiveteam-mobileme-hero-1615x	archiveteam-mobileme-hero-1615x-16152.tar	public.me.com-imagemap.warc.gz	1918
+imagemap	web.me.com	2012-04-30 18:08:12	archiveteam-mobileme-hero-1615x	archiveteam-mobileme-hero-1615x-16152.tar	web.me.com-imagemap.warc.gz	17718
+manticore	gallery.me.com	2012-04-30 23:44:48	archiveteam-mobileme-hero-1615x	archiveteam-mobileme-hero-1615x-16152.tar	gallery.me.com-manticore.warc.gz	6428773115
+manticore	homepage.mac.com	2012-04-30 23:45:30	archiveteam-mobileme-hero-1615x	archiveteam-mobileme-hero-1615x-16152.tar	homepage.mac.com-manticore.warc.gz	681298
+manticore	public.me.com	2012-04-30 21:12:07	archiveteam-mobileme-hero-1615x	archiveteam-mobileme-hero-1615x-16152.tar	public.me.com-manticore.warc.gz	1919
+manticore	web.me.com	2012-04-30 20:48:16	archiveteam-mobileme-hero-1615x	archiveteam-mobileme-hero-1615x-16152.tar	web.me.com-manticore.warc.gz	3015978753

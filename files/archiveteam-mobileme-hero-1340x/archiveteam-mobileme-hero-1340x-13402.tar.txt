@@ -1,0 +1,16 @@
+john.c.brown	gallery.me.com	2012-04-25 11:31:33	archiveteam-mobileme-hero-1340x	archiveteam-mobileme-hero-1340x-13402.tar	gallery.me.com-john.c.brown.warc.gz	1280560119
+john.c.brown	homepage.mac.com	2012-04-25 11:31:34	archiveteam-mobileme-hero-1340x	archiveteam-mobileme-hero-1340x-13402.tar	homepage.mac.com-john.c.brown.warc.gz	4929
+john.c.brown	public.me.com	2012-04-25 10:55:30	archiveteam-mobileme-hero-1340x	archiveteam-mobileme-hero-1340x-13402.tar	public.me.com-john.c.brown.warc.gz	1924
+john.c.brown	web.me.com	2012-04-25 10:55:29	archiveteam-mobileme-hero-1340x	archiveteam-mobileme-hero-1340x-13402.tar	web.me.com-john.c.brown.warc.gz	35009466
+nitin.agarwal	gallery.me.com	2012-04-25 08:54:21	archiveteam-mobileme-hero-1340x	archiveteam-mobileme-hero-1340x-13402.tar	gallery.me.com-nitin.agarwal.warc.gz	5132
+nitin.agarwal	homepage.mac.com	2012-04-25 08:54:21	archiveteam-mobileme-hero-1340x	archiveteam-mobileme-hero-1340x-13402.tar	homepage.mac.com-nitin.agarwal.warc.gz	4938
+nitin.agarwal	public.me.com	2012-04-25 08:54:20	archiveteam-mobileme-hero-1340x	archiveteam-mobileme-hero-1340x-13402.tar	public.me.com-nitin.agarwal.warc.gz	3492
+nitin.agarwal	web.me.com	2012-04-25 08:54:17	archiveteam-mobileme-hero-1340x	archiveteam-mobileme-hero-1340x-13402.tar	web.me.com-nitin.agarwal.warc.gz	31047490
+russellsinclair	gallery.me.com	2012-04-25 10:48:01	archiveteam-mobileme-hero-1340x	archiveteam-mobileme-hero-1340x-13402.tar	gallery.me.com-russellsinclair.warc.gz	1294025704
+russellsinclair	homepage.mac.com	2012-04-25 10:48:05	archiveteam-mobileme-hero-1340x	archiveteam-mobileme-hero-1340x-13402.tar	homepage.mac.com-russellsinclair.warc.gz	87103
+russellsinclair	public.me.com	2012-04-25 10:26:37	archiveteam-mobileme-hero-1340x	archiveteam-mobileme-hero-1340x-13402.tar	public.me.com-russellsinclair.warc.gz	2221743287
+russellsinclair	web.me.com	2012-04-25 09:25:43	archiveteam-mobileme-hero-1340x	archiveteam-mobileme-hero-1340x-13402.tar	web.me.com-russellsinclair.warc.gz	334875529
+wildphoto	gallery.me.com	2012-04-25 09:04:42	archiveteam-mobileme-hero-1340x	archiveteam-mobileme-hero-1340x-13402.tar	gallery.me.com-wildphoto.warc.gz	4244
+wildphoto	homepage.mac.com	2012-04-25 09:04:42	archiveteam-mobileme-hero-1340x	archiveteam-mobileme-hero-1340x-13402.tar	homepage.mac.com-wildphoto.warc.gz	4902
+wildphoto	public.me.com	2012-04-25 09:04:41	archiveteam-mobileme-hero-1340x	archiveteam-mobileme-hero-1340x-13402.tar	public.me.com-wildphoto.warc.gz	1911
+wildphoto	web.me.com	2012-04-25 09:04:40	archiveteam-mobileme-hero-1340x	archiveteam-mobileme-hero-1340x-13402.tar	web.me.com-wildphoto.warc.gz	53635703

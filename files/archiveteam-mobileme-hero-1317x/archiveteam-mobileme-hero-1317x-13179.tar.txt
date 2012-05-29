@@ -1,0 +1,12 @@
+csanyc	gallery.me.com	2012-04-24 23:50:33	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13179.tar	gallery.me.com-csanyc.warc.gz	827337624
+csanyc	homepage.mac.com	2012-04-24 23:50:33	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13179.tar	homepage.mac.com-csanyc.warc.gz	4909
+csanyc	public.me.com	2012-04-24 23:32:10	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13179.tar	public.me.com-csanyc.warc.gz	28724527
+csanyc	web.me.com	2012-04-24 23:31:38	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13179.tar	web.me.com-csanyc.warc.gz	191203848
+rsrtool	gallery.me.com	2012-04-25 02:22:07	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13179.tar	gallery.me.com-rsrtool.warc.gz	3255156187
+rsrtool	homepage.mac.com	2012-04-25 02:22:07	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13179.tar	homepage.mac.com-rsrtool.warc.gz	4887
+rsrtool	public.me.com	2012-04-25 00:11:50	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13179.tar	public.me.com-rsrtool.warc.gz	1917
+rsrtool	web.me.com	2012-04-25 00:11:49	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13179.tar	web.me.com-rsrtool.warc.gz	44989482
+william_white	gallery.me.com	2012-04-24 23:53:53	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13179.tar	gallery.me.com-william_white.warc.gz	12598686
+william_white	homepage.mac.com	2012-04-24 23:53:59	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13179.tar	homepage.mac.com-william_white.warc.gz	169078
+william_white	public.me.com	2012-04-24 23:53:26	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13179.tar	public.me.com-william_white.warc.gz	4997054
+william_white	web.me.com	2012-04-24 23:52:53	archiveteam-mobileme-hero-1317x	archiveteam-mobileme-hero-1317x-13179.tar	web.me.com-william_white.warc.gz	6432529

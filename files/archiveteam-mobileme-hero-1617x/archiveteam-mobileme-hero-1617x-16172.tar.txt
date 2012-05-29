@@ -1,0 +1,12 @@
+ingridonline	gallery.me.com	2012-04-30 22:58:50	archiveteam-mobileme-hero-1617x	archiveteam-mobileme-hero-1617x-16172.tar	gallery.me.com-ingridonline.warc.gz	714619953
+ingridonline	homepage.mac.com	2012-04-30 22:58:52	archiveteam-mobileme-hero-1617x	archiveteam-mobileme-hero-1617x-16172.tar	homepage.mac.com-ingridonline.warc.gz	41324
+ingridonline	public.me.com	2012-04-30 22:26:16	archiveteam-mobileme-hero-1617x	archiveteam-mobileme-hero-1617x-16172.tar	public.me.com-ingridonline.warc.gz	1925
+ingridonline	web.me.com	2012-04-30 22:26:15	archiveteam-mobileme-hero-1617x	archiveteam-mobileme-hero-1617x-16172.tar	web.me.com-ingridonline.warc.gz	13347997
+jrusak	gallery.me.com	2012-04-30 22:21:39	archiveteam-mobileme-hero-1617x	archiveteam-mobileme-hero-1617x-16172.tar	gallery.me.com-jrusak.warc.gz	12318
+jrusak	homepage.mac.com	2012-04-30 22:21:40	archiveteam-mobileme-hero-1617x	archiveteam-mobileme-hero-1617x-16172.tar	homepage.mac.com-jrusak.warc.gz	7139
+jrusak	public.me.com	2012-04-30 22:21:39	archiveteam-mobileme-hero-1617x	archiveteam-mobileme-hero-1617x-16172.tar	public.me.com-jrusak.warc.gz	1916
+jrusak	web.me.com	2012-04-30 22:21:36	archiveteam-mobileme-hero-1617x	archiveteam-mobileme-hero-1617x-16172.tar	web.me.com-jrusak.warc.gz	22480
+writebirds	gallery.me.com	2012-05-01 00:59:11	archiveteam-mobileme-hero-1617x	archiveteam-mobileme-hero-1617x-16172.tar	gallery.me.com-writebirds.warc.gz	4203660185
+writebirds	homepage.mac.com	2012-05-01 00:59:11	archiveteam-mobileme-hero-1617x	archiveteam-mobileme-hero-1617x-16172.tar	homepage.mac.com-writebirds.warc.gz	4925
+writebirds	public.me.com	2012-04-30 23:12:10	archiveteam-mobileme-hero-1617x	archiveteam-mobileme-hero-1617x-16172.tar	public.me.com-writebirds.warc.gz	1918
+writebirds	web.me.com	2012-04-30 23:12:09	archiveteam-mobileme-hero-1617x	archiveteam-mobileme-hero-1617x-16172.tar	web.me.com-writebirds.warc.gz	57400750

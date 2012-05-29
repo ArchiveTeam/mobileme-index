@@ -1,0 +1,16 @@
+ddjudge	gallery.me.com	2012-04-22 11:00:13	archiveteam-mobileme-hero-1180x	archiveteam-mobileme-hero-1180x-11803.tar	gallery.me.com-ddjudge.warc.gz	4242
+ddjudge	homepage.mac.com	2012-04-22 11:00:13	archiveteam-mobileme-hero-1180x	archiveteam-mobileme-hero-1180x-11803.tar	homepage.mac.com-ddjudge.warc.gz	4910
+ddjudge	public.me.com	2012-04-22 11:00:11	archiveteam-mobileme-hero-1180x	archiveteam-mobileme-hero-1180x-11803.tar	public.me.com-ddjudge.warc.gz	15481456952
+ddjudge	web.me.com	2012-04-22 07:20:26	archiveteam-mobileme-hero-1180x	archiveteam-mobileme-hero-1180x-11803.tar	web.me.com-ddjudge.warc.gz	11467932993
+elovesc	gallery.me.com	2012-04-22 03:10:09	archiveteam-mobileme-hero-1180x	archiveteam-mobileme-hero-1180x-11803.tar	gallery.me.com-elovesc.warc.gz	1660826
+elovesc	homepage.mac.com	2012-04-22 03:10:09	archiveteam-mobileme-hero-1180x	archiveteam-mobileme-hero-1180x-11803.tar	homepage.mac.com-elovesc.warc.gz	4887
+elovesc	public.me.com	2012-04-22 03:09:56	archiveteam-mobileme-hero-1180x	archiveteam-mobileme-hero-1180x-11803.tar	public.me.com-elovesc.warc.gz	371856130
+elovesc	web.me.com	2012-04-22 03:00:50	archiveteam-mobileme-hero-1180x	archiveteam-mobileme-hero-1180x-11803.tar	web.me.com-elovesc.warc.gz	171092254
+energydevice	gallery.me.com	2012-04-22 02:47:18	archiveteam-mobileme-hero-1180x	archiveteam-mobileme-hero-1180x-11803.tar	gallery.me.com-energydevice.warc.gz	4268
+energydevice	homepage.mac.com	2012-04-22 02:47:19	archiveteam-mobileme-hero-1180x	archiveteam-mobileme-hero-1180x-11803.tar	homepage.mac.com-energydevice.warc.gz	4934
+energydevice	public.me.com	2012-04-22 02:47:18	archiveteam-mobileme-hero-1180x	archiveteam-mobileme-hero-1180x-11803.tar	public.me.com-energydevice.warc.gz	1920
+energydevice	web.me.com	2012-04-22 02:47:18	archiveteam-mobileme-hero-1180x	archiveteam-mobileme-hero-1180x-11803.tar	web.me.com-energydevice.warc.gz	938479
+goodedog	gallery.me.com	2012-04-22 02:46:58	archiveteam-mobileme-hero-1180x	archiveteam-mobileme-hero-1180x-11803.tar	gallery.me.com-goodedog.warc.gz	14460717
+goodedog	homepage.mac.com	2012-04-22 02:46:58	archiveteam-mobileme-hero-1180x	archiveteam-mobileme-hero-1180x-11803.tar	homepage.mac.com-goodedog.warc.gz	4895
+goodedog	public.me.com	2012-04-22 02:45:36	archiveteam-mobileme-hero-1180x	archiveteam-mobileme-hero-1180x-11803.tar	public.me.com-goodedog.warc.gz	3113
+goodedog	web.me.com	2012-04-22 02:45:36	archiveteam-mobileme-hero-1180x	archiveteam-mobileme-hero-1180x-11803.tar	web.me.com-goodedog.warc.gz	883221

@@ -1,0 +1,8 @@
+cepheus	gallery.me.com	2012-04-30 01:37:24	archiveteam-mobileme-hero-1577x	archiveteam-mobileme-hero-1577x-15773.tar	gallery.me.com-cepheus.warc.gz	1879869615
+cepheus	homepage.mac.com	2012-04-30 01:37:24	archiveteam-mobileme-hero-1577x	archiveteam-mobileme-hero-1577x-15773.tar	homepage.mac.com-cepheus.warc.gz	4885
+cepheus	public.me.com	2012-04-30 00:48:28	archiveteam-mobileme-hero-1577x	archiveteam-mobileme-hero-1577x-15773.tar	public.me.com-cepheus.warc.gz	4211065271
+cepheus	web.me.com	2012-04-29 23:27:46	archiveteam-mobileme-hero-1577x	archiveteam-mobileme-hero-1577x-15773.tar	web.me.com-cepheus.warc.gz	144972701
+timothycash	gallery.me.com	2012-04-29 23:16:45	archiveteam-mobileme-hero-1577x	archiveteam-mobileme-hero-1577x-15773.tar	gallery.me.com-timothycash.warc.gz	2992809
+timothycash	homepage.mac.com	2012-04-29 23:16:51	archiveteam-mobileme-hero-1577x	archiveteam-mobileme-hero-1577x-15773.tar	homepage.mac.com-timothycash.warc.gz	176436
+timothycash	public.me.com	2012-04-29 23:16:38	archiveteam-mobileme-hero-1577x	archiveteam-mobileme-hero-1577x-15773.tar	public.me.com-timothycash.warc.gz	1929
+timothycash	web.me.com	2012-04-29 23:16:35	archiveteam-mobileme-hero-1577x	archiveteam-mobileme-hero-1577x-15773.tar	web.me.com-timothycash.warc.gz	3188733

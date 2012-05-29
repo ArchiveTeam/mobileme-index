@@ -1,0 +1,12 @@
+brian.fox	gallery.me.com	2012-05-26 21:30:55	archiveteam-mobileme-hero-2104x	archiveteam-mobileme-hero-2104x-21044.tar	gallery.me.com-brian.fox.warc.gz	5689
+brian.fox	homepage.mac.com	2012-05-26 21:31:01	archiveteam-mobileme-hero-2104x	archiveteam-mobileme-hero-2104x-21044.tar	homepage.mac.com-brian.fox.warc.gz	123009
+brian.fox	public.me.com	2012-05-26 21:30:54	archiveteam-mobileme-hero-2104x	archiveteam-mobileme-hero-2104x-21044.tar	public.me.com-brian.fox.warc.gz	1916
+brian.fox	web.me.com	2012-05-26 21:30:54	archiveteam-mobileme-hero-2104x	archiveteam-mobileme-hero-2104x-21044.tar	web.me.com-brian.fox.warc.gz	82589575
+cfrye	gallery.me.com	2012-05-26 21:26:02	archiveteam-mobileme-hero-2104x	archiveteam-mobileme-hero-2104x-21044.tar	gallery.me.com-cfrye.warc.gz	3428212683
+cfrye	homepage.mac.com	2012-05-26 21:26:03	archiveteam-mobileme-hero-2104x	archiveteam-mobileme-hero-2104x-21044.tar	homepage.mac.com-cfrye.warc.gz	4887
+cfrye	public.me.com	2012-05-26 20:57:05	archiveteam-mobileme-hero-2104x	archiveteam-mobileme-hero-2104x-21044.tar	public.me.com-cfrye.warc.gz	1912
+cfrye	web.me.com	2012-05-26 20:57:05	archiveteam-mobileme-hero-2104x	archiveteam-mobileme-hero-2104x-21044.tar	web.me.com-cfrye.warc.gz	6347802
+h.tai	gallery.me.com	2012-05-26 22:10:24	archiveteam-mobileme-hero-2104x	archiveteam-mobileme-hero-2104x-21044.tar	gallery.me.com-h.tai.warc.gz	678518440
+h.tai	homepage.mac.com	2012-05-26 22:11:32	archiveteam-mobileme-hero-2104x	archiveteam-mobileme-hero-2104x-21044.tar	homepage.mac.com-h.tai.warc.gz	12919514
+h.tai	public.me.com	2012-05-26 22:02:28	archiveteam-mobileme-hero-2104x	archiveteam-mobileme-hero-2104x-21044.tar	public.me.com-h.tai.warc.gz	1906
+h.tai	web.me.com	2012-05-26 22:02:18	archiveteam-mobileme-hero-2104x	archiveteam-mobileme-hero-2104x-21044.tar	web.me.com-h.tai.warc.gz	524488068

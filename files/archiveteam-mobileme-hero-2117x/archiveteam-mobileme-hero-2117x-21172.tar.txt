@@ -1,0 +1,12 @@
+danmclaughlin	gallery.me.com	2012-05-28 01:23:33	archiveteam-mobileme-hero-2117x	archiveteam-mobileme-hero-2117x-21172.tar	gallery.me.com-danmclaughlin.warc.gz	1693814919
+danmclaughlin	homepage.mac.com	2012-05-28 01:23:33	archiveteam-mobileme-hero-2117x	archiveteam-mobileme-hero-2117x-21172.tar	homepage.mac.com-danmclaughlin.warc.gz	4939
+danmclaughlin	public.me.com	2012-05-28 00:59:05	archiveteam-mobileme-hero-2117x	archiveteam-mobileme-hero-2117x-21172.tar	public.me.com-danmclaughlin.warc.gz	533532173
+danmclaughlin	web.me.com	2012-05-28 00:55:22	archiveteam-mobileme-hero-2117x	archiveteam-mobileme-hero-2117x-21172.tar	web.me.com-danmclaughlin.warc.gz	63988122
+dir1	gallery.me.com	2012-05-28 01:24:16	archiveteam-mobileme-hero-2117x	archiveteam-mobileme-hero-2117x-21172.tar	gallery.me.com-dir1.warc.gz	8089246
+dir1	homepage.mac.com	2012-05-28 01:24:20	archiveteam-mobileme-hero-2117x	archiveteam-mobileme-hero-2117x-21172.tar	homepage.mac.com-dir1.warc.gz	109778
+dir1	public.me.com	2012-05-28 01:23:57	archiveteam-mobileme-hero-2117x	archiveteam-mobileme-hero-2117x-21172.tar	public.me.com-dir1.warc.gz	1902
+dir1	web.me.com	2012-05-28 01:23:57	archiveteam-mobileme-hero-2117x	archiveteam-mobileme-hero-2117x-21172.tar	web.me.com-dir1.warc.gz	1234660
+indera	gallery.me.com	2012-05-28 03:08:50	archiveteam-mobileme-hero-2117x	archiveteam-mobileme-hero-2117x-21172.tar	gallery.me.com-indera.warc.gz	208093460
+indera	homepage.mac.com	2012-05-28 03:08:51	archiveteam-mobileme-hero-2117x	archiveteam-mobileme-hero-2117x-21172.tar	homepage.mac.com-indera.warc.gz	49181
+indera	public.me.com	2012-05-28 03:04:09	archiveteam-mobileme-hero-2117x	archiveteam-mobileme-hero-2117x-21172.tar	public.me.com-indera.warc.gz	5708413949
+indera	web.me.com	2012-05-28 01:28:31	archiveteam-mobileme-hero-2117x	archiveteam-mobileme-hero-2117x-21172.tar	web.me.com-indera.warc.gz	53587393

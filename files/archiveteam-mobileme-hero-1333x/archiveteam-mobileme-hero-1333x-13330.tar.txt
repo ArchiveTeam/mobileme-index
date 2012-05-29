@@ -1,0 +1,16 @@
+freed2serve	gallery.me.com	2012-04-25 02:38:45	archiveteam-mobileme-hero-1333x	archiveteam-mobileme-hero-1333x-13330.tar	gallery.me.com-freed2serve.warc.gz	4255
+freed2serve	homepage.mac.com	2012-04-25 02:38:54	archiveteam-mobileme-hero-1333x	archiveteam-mobileme-hero-1333x-13330.tar	homepage.mac.com-freed2serve.warc.gz	501255
+freed2serve	public.me.com	2012-04-25 02:38:44	archiveteam-mobileme-hero-1333x	archiveteam-mobileme-hero-1333x-13330.tar	public.me.com-freed2serve.warc.gz	1930
+freed2serve	web.me.com	2012-04-25 02:38:44	archiveteam-mobileme-hero-1333x	archiveteam-mobileme-hero-1333x-13330.tar	web.me.com-freed2serve.warc.gz	873414
+htimjohnson	gallery.me.com	2012-04-25 08:09:32	archiveteam-mobileme-hero-1333x	archiveteam-mobileme-hero-1333x-13330.tar	gallery.me.com-htimjohnson.warc.gz	291765957
+htimjohnson	homepage.mac.com	2012-04-25 08:09:33	archiveteam-mobileme-hero-1333x	archiveteam-mobileme-hero-1333x-13330.tar	homepage.mac.com-htimjohnson.warc.gz	4913
+htimjohnson	public.me.com	2012-04-25 08:02:20	archiveteam-mobileme-hero-1333x	archiveteam-mobileme-hero-1333x-13330.tar	public.me.com-htimjohnson.warc.gz	1922
+htimjohnson	web.me.com	2012-04-25 07:54:30	archiveteam-mobileme-hero-1333x	archiveteam-mobileme-hero-1333x-13330.tar	web.me.com-htimjohnson.warc.gz	13861103026
+jeremydelaux	gallery.me.com	2012-04-25 02:43:58	archiveteam-mobileme-hero-1333x	archiveteam-mobileme-hero-1333x-13330.tar	gallery.me.com-jeremydelaux.warc.gz	5272
+jeremydelaux	homepage.mac.com	2012-04-25 02:43:58	archiveteam-mobileme-hero-1333x	archiveteam-mobileme-hero-1333x-13330.tar	homepage.mac.com-jeremydelaux.warc.gz	4923
+jeremydelaux	public.me.com	2012-04-25 02:43:56	archiveteam-mobileme-hero-1333x	archiveteam-mobileme-hero-1333x-13330.tar	public.me.com-jeremydelaux.warc.gz	1930
+jeremydelaux	web.me.com	2012-04-25 02:43:56	archiveteam-mobileme-hero-1333x	archiveteam-mobileme-hero-1333x-13330.tar	web.me.com-jeremydelaux.warc.gz	216415536
+swatmozzies	gallery.me.com	2012-04-25 02:44:16	archiveteam-mobileme-hero-1333x	archiveteam-mobileme-hero-1333x-13330.tar	gallery.me.com-swatmozzies.warc.gz	6019
+swatmozzies	homepage.mac.com	2012-04-25 02:44:18	archiveteam-mobileme-hero-1333x	archiveteam-mobileme-hero-1333x-13330.tar	homepage.mac.com-swatmozzies.warc.gz	58391
+swatmozzies	public.me.com	2012-04-25 02:44:15	archiveteam-mobileme-hero-1333x	archiveteam-mobileme-hero-1333x-13330.tar	public.me.com-swatmozzies.warc.gz	1925
+swatmozzies	web.me.com	2012-04-25 02:44:14	archiveteam-mobileme-hero-1333x	archiveteam-mobileme-hero-1333x-13330.tar	web.me.com-swatmozzies.warc.gz	237271

@@ -1,0 +1,8 @@
+bamclean	gallery.me.com	2012-04-29 08:03:32	archiveteam-mobileme-hero-1542x	archiveteam-mobileme-hero-1542x-15425.tar	gallery.me.com-bamclean.warc.gz	1770014475
+bamclean	homepage.mac.com	2012-04-29 08:03:32	archiveteam-mobileme-hero-1542x	archiveteam-mobileme-hero-1542x-15425.tar	homepage.mac.com-bamclean.warc.gz	4916
+bamclean	public.me.com	2012-04-29 07:17:36	archiveteam-mobileme-hero-1542x	archiveteam-mobileme-hero-1542x-15425.tar	public.me.com-bamclean.warc.gz	1916
+bamclean	web.me.com	2012-04-29 07:17:27	archiveteam-mobileme-hero-1542x	archiveteam-mobileme-hero-1542x-15425.tar	web.me.com-bamclean.warc.gz	661134229
+frankiedn	gallery.me.com	2012-04-29 06:39:49	archiveteam-mobileme-hero-1542x	archiveteam-mobileme-hero-1542x-15425.tar	gallery.me.com-frankiedn.warc.gz	2083519844
+frankiedn	homepage.mac.com	2012-04-29 06:39:52	archiveteam-mobileme-hero-1542x	archiveteam-mobileme-hero-1542x-15425.tar	homepage.mac.com-frankiedn.warc.gz	4923
+frankiedn	public.me.com	2012-04-29 05:55:18	archiveteam-mobileme-hero-1542x	archiveteam-mobileme-hero-1542x-15425.tar	public.me.com-frankiedn.warc.gz	1916
+frankiedn	web.me.com	2012-04-29 05:55:18	archiveteam-mobileme-hero-1542x	archiveteam-mobileme-hero-1542x-15425.tar	web.me.com-frankiedn.warc.gz	939700314

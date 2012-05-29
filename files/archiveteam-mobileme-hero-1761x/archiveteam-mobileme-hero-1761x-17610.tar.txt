@@ -1,0 +1,16 @@
+apple.osx	gallery.me.com	2012-05-04 16:07:32	archiveteam-mobileme-hero-1761x	archiveteam-mobileme-hero-1761x-17610.tar	gallery.me.com-apple.osx.warc.gz	4252
+apple.osx	homepage.mac.com	2012-05-04 16:07:34	archiveteam-mobileme-hero-1761x	archiveteam-mobileme-hero-1761x-17610.tar	homepage.mac.com-apple.osx.warc.gz	41291
+apple.osx	public.me.com	2012-05-04 16:07:31	archiveteam-mobileme-hero-1761x	archiveteam-mobileme-hero-1761x-17610.tar	public.me.com-apple.osx.warc.gz	519830778
+apple.osx	web.me.com	2012-05-04 15:55:56	archiveteam-mobileme-hero-1761x	archiveteam-mobileme-hero-1761x-17610.tar	web.me.com-apple.osx.warc.gz	307018
+natnav	gallery.me.com	2012-05-04 16:11:27	archiveteam-mobileme-hero-1761x	archiveteam-mobileme-hero-1761x-17610.tar	gallery.me.com-natnav.warc.gz	5207
+natnav	homepage.mac.com	2012-05-04 16:11:27	archiveteam-mobileme-hero-1761x	archiveteam-mobileme-hero-1761x-17610.tar	homepage.mac.com-natnav.warc.gz	4892
+natnav	public.me.com	2012-05-04 16:11:26	archiveteam-mobileme-hero-1761x	archiveteam-mobileme-hero-1761x-17610.tar	public.me.com-natnav.warc.gz	1910
+natnav	web.me.com	2012-05-04 16:11:26	archiveteam-mobileme-hero-1761x	archiveteam-mobileme-hero-1761x-17610.tar	web.me.com-natnav.warc.gz	16459323
+neodata	gallery.me.com	2012-05-04 23:41:14	archiveteam-mobileme-hero-1761x	archiveteam-mobileme-hero-1761x-17610.tar	gallery.me.com-neodata.warc.gz	5240683915
+neodata	homepage.mac.com	2012-05-04 23:41:14	archiveteam-mobileme-hero-1761x	archiveteam-mobileme-hero-1761x-17610.tar	homepage.mac.com-neodata.warc.gz	4882
+neodata	public.me.com	2012-05-04 16:58:54	archiveteam-mobileme-hero-1761x	archiveteam-mobileme-hero-1761x-17610.tar	public.me.com-neodata.warc.gz	6635001
+neodata	web.me.com	2012-05-04 16:58:29	archiveteam-mobileme-hero-1761x	archiveteam-mobileme-hero-1761x-17610.tar	web.me.com-neodata.warc.gz	1759690152
+sgfoster5	gallery.me.com	2012-05-04 15:55:42	archiveteam-mobileme-hero-1761x	archiveteam-mobileme-hero-1761x-17610.tar	gallery.me.com-sgfoster5.warc.gz	8356
+sgfoster5	homepage.mac.com	2012-05-04 15:55:42	archiveteam-mobileme-hero-1761x	archiveteam-mobileme-hero-1761x-17610.tar	homepage.mac.com-sgfoster5.warc.gz	5181
+sgfoster5	public.me.com	2012-05-04 15:55:41	archiveteam-mobileme-hero-1761x	archiveteam-mobileme-hero-1761x-17610.tar	public.me.com-sgfoster5.warc.gz	1920
+sgfoster5	web.me.com	2012-05-04 15:55:41	archiveteam-mobileme-hero-1761x	archiveteam-mobileme-hero-1761x-17610.tar	web.me.com-sgfoster5.warc.gz	17732
