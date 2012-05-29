@@ -3,6 +3,25 @@ require "typhoeus"
 
 require "tar_header"
 
+class TarEntry < TarHeader
+  BLOCK_SIZE = 512
+
+  attr_accessor :offset
+
+  def data_offset
+    offset + BLOCK_SIZE
+  end
+
+  class << self
+    alias :from_string_without_offset :from_string
+    def from_string(str, offset)
+      h = from_string_without_offset(str)
+      h.offset = offset
+      h
+    end
+  end
+end
+
 # Lists the contents of a tar file using HTTP 1.1 Range requests.
 class TarIndex
   BLOCK_SIZE = 512
@@ -60,7 +79,7 @@ class TarIndex
     new_headers = []
     offset = 0
     while offset + BLOCK_SIZE <= data.size and not @pos.nil?
-      header = TarHeader.from_string(data[offset, BLOCK_SIZE])
+      header = TarEntry.from_string(data[offset, BLOCK_SIZE], @pos)
       if header.empty?
         @pos = nil
       else
