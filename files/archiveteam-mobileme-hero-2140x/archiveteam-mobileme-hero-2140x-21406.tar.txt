@@ -1,0 +1,12 @@
+cmfestival	gallery.me.com	2012-05-30 17:26:45	archiveteam-mobileme-hero-2140x	archiveteam-mobileme-hero-2140x-21406.tar	gallery.me.com-cmfestival.warc.gz	580215480
+cmfestival	homepage.mac.com	2012-05-30 17:26:46	archiveteam-mobileme-hero-2140x	archiveteam-mobileme-hero-2140x-21406.tar	homepage.mac.com-cmfestival.warc.gz	7890
+cmfestival	public.me.com	2012-05-30 17:02:50	archiveteam-mobileme-hero-2140x	archiveteam-mobileme-hero-2140x-21406.tar	public.me.com-cmfestival.warc.gz	3849175688
+cmfestival	web.me.com	2012-05-30 14:34:42	archiveteam-mobileme-hero-2140x	archiveteam-mobileme-hero-2140x-21406.tar	web.me.com-cmfestival.warc.gz	85961281
+heise	gallery.me.com	2012-05-30 14:15:05	archiveteam-mobileme-hero-2140x	archiveteam-mobileme-hero-2140x-21406.tar	gallery.me.com-heise.warc.gz	1043118130
+heise	homepage.mac.com	2012-05-30 14:15:06	archiveteam-mobileme-hero-2140x	archiveteam-mobileme-hero-2140x-21406.tar	homepage.mac.com-heise.warc.gz	7780
+heise	public.me.com	2012-05-30 13:39:13	archiveteam-mobileme-hero-2140x	archiveteam-mobileme-hero-2140x-21406.tar	public.me.com-heise.warc.gz	232997043
+heise	web.me.com	2012-05-30 13:31:23	archiveteam-mobileme-hero-2140x	archiveteam-mobileme-hero-2140x-21406.tar	web.me.com-heise.warc.gz	147292441
+mojodonedesshow	gallery.me.com	2012-05-30 14:24:30	archiveteam-mobileme-hero-2140x	archiveteam-mobileme-hero-2140x-21406.tar	gallery.me.com-mojodonedesshow.warc.gz	4278
+mojodonedesshow	homepage.mac.com	2012-05-30 14:24:30	archiveteam-mobileme-hero-2140x	archiveteam-mobileme-hero-2140x-21406.tar	homepage.mac.com-mojodonedesshow.warc.gz	4927
+mojodonedesshow	public.me.com	2012-05-30 14:24:29	archiveteam-mobileme-hero-2140x	archiveteam-mobileme-hero-2140x-21406.tar	public.me.com-mojodonedesshow.warc.gz	1930
+mojodonedesshow	web.me.com	2012-05-30 14:24:28	archiveteam-mobileme-hero-2140x	archiveteam-mobileme-hero-2140x-21406.tar	web.me.com-mojodonedesshow.warc.gz	47630292
