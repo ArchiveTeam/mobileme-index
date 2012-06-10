@@ -1,0 +1,4 @@
+pcap	gallery.me.com	2012-06-02 12:50:44	archiveteam-mobileme-hero-2168x	archiveteam-mobileme-hero-2168x-21684.tar	gallery.me.com-pcap.warc.gz	130250184
+pcap	homepage.mac.com	2012-06-02 12:50:45	archiveteam-mobileme-hero-2168x	archiveteam-mobileme-hero-2168x-21684.tar	homepage.mac.com-pcap.warc.gz	4886
+pcap	public.me.com	2012-06-02 12:50:08	archiveteam-mobileme-hero-2168x	archiveteam-mobileme-hero-2168x-21684.tar	public.me.com-pcap.warc.gz	7019744140
+pcap	web.me.com	2012-06-02 10:23:05	archiveteam-mobileme-hero-2168x	archiveteam-mobileme-hero-2168x-21684.tar	web.me.com-pcap.warc.gz	11616785

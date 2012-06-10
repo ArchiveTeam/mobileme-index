@@ -1,0 +1,12 @@
+capturedexpression	gallery.me.com	2012-06-09 17:41:22	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24360.tar	gallery.me.com-capturedexpression.warc.gz	5621
+capturedexpression	homepage.mac.com	2012-06-09 17:41:23	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24360.tar	homepage.mac.com-capturedexpression.warc.gz	4949
+capturedexpression	public.me.com	2012-06-09 17:41:21	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24360.tar	public.me.com-capturedexpression.warc.gz	1933
+capturedexpression	web.me.com	2012-06-09 17:41:21	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24360.tar	web.me.com-capturedexpression.warc.gz	24953472
+moderngentleman	gallery.me.com	2012-06-09 17:35:32	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24360.tar	gallery.me.com-moderngentleman.warc.gz	127499160
+moderngentleman	homepage.mac.com	2012-06-09 17:35:32	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24360.tar	homepage.mac.com-moderngentleman.warc.gz	4946
+moderngentleman	public.me.com	2012-06-09 17:32:41	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24360.tar	public.me.com-moderngentleman.warc.gz	2805029247
+moderngentleman	web.me.com	2012-06-09 17:03:02	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24360.tar	web.me.com-moderngentleman.warc.gz	13073287
+waynelorentz	gallery.me.com	2012-06-09 19:04:14	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24360.tar	gallery.me.com-waynelorentz.warc.gz	2453770005
+waynelorentz	homepage.mac.com	2012-06-09 19:04:14	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24360.tar	homepage.mac.com-waynelorentz.warc.gz	4910
+waynelorentz	public.me.com	2012-06-09 18:15:20	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24360.tar	public.me.com-waynelorentz.warc.gz	1932
+waynelorentz	web.me.com	2012-06-09 18:15:13	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24360.tar	web.me.com-waynelorentz.warc.gz	529647638

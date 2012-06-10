@@ -1,0 +1,12 @@
+marshallgroup	gallery.me.com	2012-06-02 14:23:45	archiveteam-mobileme-hero-2171x	archiveteam-mobileme-hero-2171x-21716.tar	gallery.me.com-marshallgroup.warc.gz	5051
+marshallgroup	homepage.mac.com	2012-06-02 14:23:46	archiveteam-mobileme-hero-2171x	archiveteam-mobileme-hero-2171x-21716.tar	homepage.mac.com-marshallgroup.warc.gz	4932
+marshallgroup	public.me.com	2012-06-02 14:23:44	archiveteam-mobileme-hero-2171x	archiveteam-mobileme-hero-2171x-21716.tar	public.me.com-marshallgroup.warc.gz	1929
+marshallgroup	web.me.com	2012-06-02 14:23:44	archiveteam-mobileme-hero-2171x	archiveteam-mobileme-hero-2171x-21716.tar	web.me.com-marshallgroup.warc.gz	3654887
+rbmaiz	gallery.me.com	2012-06-02 14:54:54	archiveteam-mobileme-hero-2171x	archiveteam-mobileme-hero-2171x-21716.tar	gallery.me.com-rbmaiz.warc.gz	2445837808
+rbmaiz	homepage.mac.com	2012-06-02 14:54:54	archiveteam-mobileme-hero-2171x	archiveteam-mobileme-hero-2171x-21716.tar	homepage.mac.com-rbmaiz.warc.gz	6043
+rbmaiz	public.me.com	2012-06-02 14:27:21	archiveteam-mobileme-hero-2171x	archiveteam-mobileme-hero-2171x-21716.tar	public.me.com-rbmaiz.warc.gz	37619785
+rbmaiz	web.me.com	2012-06-02 14:26:17	archiveteam-mobileme-hero-2171x	archiveteam-mobileme-hero-2171x-21716.tar	web.me.com-rbmaiz.warc.gz	8685362
+w_m_e	gallery.me.com	2012-06-02 15:23:18	archiveteam-mobileme-hero-2171x	archiveteam-mobileme-hero-2171x-21716.tar	gallery.me.com-w_m_e.warc.gz	9070664
+w_m_e	homepage.mac.com	2012-06-02 15:23:20	archiveteam-mobileme-hero-2171x	archiveteam-mobileme-hero-2171x-21716.tar	homepage.mac.com-w_m_e.warc.gz	36869
+w_m_e	public.me.com	2012-06-02 15:22:31	archiveteam-mobileme-hero-2171x	archiveteam-mobileme-hero-2171x-21716.tar	public.me.com-w_m_e.warc.gz	264420478
+w_m_e	web.me.com	2012-06-02 15:16:15	archiveteam-mobileme-hero-2171x	archiveteam-mobileme-hero-2171x-21716.tar	web.me.com-w_m_e.warc.gz	1817003867

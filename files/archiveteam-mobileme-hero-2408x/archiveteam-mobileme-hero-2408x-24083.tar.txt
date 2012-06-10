@@ -1,0 +1,12 @@
+a.lai	gallery.me.com	2012-06-09 03:41:52	archiveteam-mobileme-hero-2408x	archiveteam-mobileme-hero-2408x-24083.tar	gallery.me.com-a.lai.warc.gz	5477
+a.lai	homepage.mac.com	2012-06-09 03:41:53	archiveteam-mobileme-hero-2408x	archiveteam-mobileme-hero-2408x-24083.tar	homepage.mac.com-a.lai.warc.gz	4887
+a.lai	public.me.com	2012-06-09 03:41:51	archiveteam-mobileme-hero-2408x	archiveteam-mobileme-hero-2408x-24083.tar	public.me.com-a.lai.warc.gz	1908
+a.lai	web.me.com	2012-06-09 03:41:51	archiveteam-mobileme-hero-2408x	archiveteam-mobileme-hero-2408x-24083.tar	web.me.com-a.lai.warc.gz	33045
+landoncox	gallery.me.com	2012-06-09 06:03:41	archiveteam-mobileme-hero-2408x	archiveteam-mobileme-hero-2408x-24083.tar	gallery.me.com-landoncox.warc.gz	4588005976
+landoncox	homepage.mac.com	2012-06-09 06:03:41	archiveteam-mobileme-hero-2408x	archiveteam-mobileme-hero-2408x-24083.tar	homepage.mac.com-landoncox.warc.gz	4908
+landoncox	public.me.com	2012-06-09 05:05:28	archiveteam-mobileme-hero-2408x	archiveteam-mobileme-hero-2408x-24083.tar	public.me.com-landoncox.warc.gz	1916
+landoncox	web.me.com	2012-06-09 05:05:07	archiveteam-mobileme-hero-2408x	archiveteam-mobileme-hero-2408x-24083.tar	web.me.com-landoncox.warc.gz	2634191670
+summerscloud	gallery.me.com	2012-06-09 04:05:26	archiveteam-mobileme-hero-2408x	archiveteam-mobileme-hero-2408x-24083.tar	gallery.me.com-summerscloud.warc.gz	4267
+summerscloud	homepage.mac.com	2012-06-09 04:05:26	archiveteam-mobileme-hero-2408x	archiveteam-mobileme-hero-2408x-24083.tar	homepage.mac.com-summerscloud.warc.gz	4909
+summerscloud	public.me.com	2012-06-09 04:05:25	archiveteam-mobileme-hero-2408x	archiveteam-mobileme-hero-2408x-24083.tar	public.me.com-summerscloud.warc.gz	1930
+summerscloud	web.me.com	2012-06-09 04:05:25	archiveteam-mobileme-hero-2408x	archiveteam-mobileme-hero-2408x-24083.tar	web.me.com-summerscloud.warc.gz	144998017

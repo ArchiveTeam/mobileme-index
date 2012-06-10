@@ -1,0 +1,16 @@
+cloar	gallery.me.com	2012-06-03 07:58:01	archiveteam-mobileme-hero-2195x	archiveteam-mobileme-hero-2195x-21957.tar	gallery.me.com-cloar.warc.gz	197536264
+cloar	homepage.mac.com	2012-06-03 07:58:01	archiveteam-mobileme-hero-2195x	archiveteam-mobileme-hero-2195x-21957.tar	homepage.mac.com-cloar.warc.gz	4894
+cloar	public.me.com	2012-06-03 07:55:01	archiveteam-mobileme-hero-2195x	archiveteam-mobileme-hero-2195x-21957.tar	public.me.com-cloar.warc.gz	1911
+cloar	web.me.com	2012-06-03 07:55:00	archiveteam-mobileme-hero-2195x	archiveteam-mobileme-hero-2195x-21957.tar	web.me.com-cloar.warc.gz	284883859
+jeanbaptistepoulon	gallery.me.com	2012-06-03 11:13:50	archiveteam-mobileme-hero-2195x	archiveteam-mobileme-hero-2195x-21957.tar	gallery.me.com-jeanbaptistepoulon.warc.gz	7148528410
+jeanbaptistepoulon	homepage.mac.com	2012-06-03 11:13:50	archiveteam-mobileme-hero-2195x	archiveteam-mobileme-hero-2195x-21957.tar	homepage.mac.com-jeanbaptistepoulon.warc.gz	4942
+jeanbaptistepoulon	public.me.com	2012-06-03 08:41:15	archiveteam-mobileme-hero-2195x	archiveteam-mobileme-hero-2195x-21957.tar	public.me.com-jeanbaptistepoulon.warc.gz	83891
+jeanbaptistepoulon	web.me.com	2012-06-03 08:40:52	archiveteam-mobileme-hero-2195x	archiveteam-mobileme-hero-2195x-21957.tar	web.me.com-jeanbaptistepoulon.warc.gz	74816387
+networkmedia	gallery.me.com	2012-06-03 08:22:34	archiveteam-mobileme-hero-2195x	archiveteam-mobileme-hero-2195x-21957.tar	gallery.me.com-networkmedia.warc.gz	6039
+networkmedia	homepage.mac.com	2012-06-03 08:22:36	archiveteam-mobileme-hero-2195x	archiveteam-mobileme-hero-2195x-21957.tar	homepage.mac.com-networkmedia.warc.gz	36971
+networkmedia	public.me.com	2012-06-03 08:22:31	archiveteam-mobileme-hero-2195x	archiveteam-mobileme-hero-2195x-21957.tar	public.me.com-networkmedia.warc.gz	579699339
+networkmedia	web.me.com	2012-06-03 08:09:24	archiveteam-mobileme-hero-2195x	archiveteam-mobileme-hero-2195x-21957.tar	web.me.com-networkmedia.warc.gz	765111257
+proactive	gallery.me.com	2012-06-03 07:39:19	archiveteam-mobileme-hero-2195x	archiveteam-mobileme-hero-2195x-21957.tar	gallery.me.com-proactive.warc.gz	5804
+proactive	homepage.mac.com	2012-06-03 07:40:19	archiveteam-mobileme-hero-2195x	archiveteam-mobileme-hero-2195x-21957.tar	homepage.mac.com-proactive.warc.gz	1230245
+proactive	public.me.com	2012-06-03 07:39:16	archiveteam-mobileme-hero-2195x	archiveteam-mobileme-hero-2195x-21957.tar	public.me.com-proactive.warc.gz	1918
+proactive	web.me.com	2012-06-03 07:39:09	archiveteam-mobileme-hero-2195x	archiveteam-mobileme-hero-2195x-21957.tar	web.me.com-proactive.warc.gz	273242388

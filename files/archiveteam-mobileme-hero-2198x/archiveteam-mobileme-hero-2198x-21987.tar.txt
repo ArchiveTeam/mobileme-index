@@ -1,0 +1,12 @@
+dig_arch	gallery.me.com	2012-06-03 13:45:04	archiveteam-mobileme-hero-2198x	archiveteam-mobileme-hero-2198x-21987.tar	gallery.me.com-dig_arch.warc.gz	1338247047
+dig_arch	homepage.mac.com	2012-06-03 13:45:04	archiveteam-mobileme-hero-2198x	archiveteam-mobileme-hero-2198x-21987.tar	homepage.mac.com-dig_arch.warc.gz	4916
+dig_arch	public.me.com	2012-06-03 13:12:32	archiveteam-mobileme-hero-2198x	archiveteam-mobileme-hero-2198x-21987.tar	public.me.com-dig_arch.warc.gz	808203243
+dig_arch	web.me.com	2012-06-03 12:53:34	archiveteam-mobileme-hero-2198x	archiveteam-mobileme-hero-2198x-21987.tar	web.me.com-dig_arch.warc.gz	28305324
+jdixson	gallery.me.com	2012-06-03 12:38:44	archiveteam-mobileme-hero-2198x	archiveteam-mobileme-hero-2198x-21987.tar	gallery.me.com-jdixson.warc.gz	1046620078
+jdixson	homepage.mac.com	2012-06-03 12:38:45	archiveteam-mobileme-hero-2198x	archiveteam-mobileme-hero-2198x-21987.tar	homepage.mac.com-jdixson.warc.gz	4910
+jdixson	public.me.com	2012-06-03 12:21:11	archiveteam-mobileme-hero-2198x	archiveteam-mobileme-hero-2198x-21987.tar	public.me.com-jdixson.warc.gz	93983498
+jdixson	web.me.com	2012-06-03 12:17:39	archiveteam-mobileme-hero-2198x	archiveteam-mobileme-hero-2198x-21987.tar	web.me.com-jdixson.warc.gz	674990329
+lapatriotico	gallery.me.com	2012-06-03 11:45:29	archiveteam-mobileme-hero-2198x	archiveteam-mobileme-hero-2198x-21987.tar	gallery.me.com-lapatriotico.warc.gz	1091322936
+lapatriotico	homepage.mac.com	2012-06-03 11:45:29	archiveteam-mobileme-hero-2198x	archiveteam-mobileme-hero-2198x-21987.tar	homepage.mac.com-lapatriotico.warc.gz	4910
+lapatriotico	public.me.com	2012-06-03 11:33:56	archiveteam-mobileme-hero-2198x	archiveteam-mobileme-hero-2198x-21987.tar	public.me.com-lapatriotico.warc.gz	286382558
+lapatriotico	web.me.com	2012-06-03 11:26:46	archiveteam-mobileme-hero-2198x	archiveteam-mobileme-hero-2198x-21987.tar	web.me.com-lapatriotico.warc.gz	181247664

@@ -1,0 +1,16 @@
+cemator	gallery.me.com	2012-06-03 02:11:43	archiveteam-mobileme-hero-2186x	archiveteam-mobileme-hero-2186x-21868.tar	gallery.me.com-cemator.warc.gz	12320
+cemator	homepage.mac.com	2012-06-03 02:11:43	archiveteam-mobileme-hero-2186x	archiveteam-mobileme-hero-2186x-21868.tar	homepage.mac.com-cemator.warc.gz	7139
+cemator	public.me.com	2012-06-03 02:11:42	archiveteam-mobileme-hero-2186x	archiveteam-mobileme-hero-2186x-21868.tar	public.me.com-cemator.warc.gz	1909
+cemator	web.me.com	2012-06-03 02:11:41	archiveteam-mobileme-hero-2186x	archiveteam-mobileme-hero-2186x-21868.tar	web.me.com-cemator.warc.gz	22476
+jfurse	gallery.me.com	2012-06-03 02:16:21	archiveteam-mobileme-hero-2186x	archiveteam-mobileme-hero-2186x-21868.tar	gallery.me.com-jfurse.warc.gz	8345
+jfurse	homepage.mac.com	2012-06-03 02:16:21	archiveteam-mobileme-hero-2186x	archiveteam-mobileme-hero-2186x-21868.tar	homepage.mac.com-jfurse.warc.gz	5142
+jfurse	public.me.com	2012-06-03 02:16:21	archiveteam-mobileme-hero-2186x	archiveteam-mobileme-hero-2186x-21868.tar	public.me.com-jfurse.warc.gz	1918
+jfurse	web.me.com	2012-06-03 02:16:20	archiveteam-mobileme-hero-2186x	archiveteam-mobileme-hero-2186x-21868.tar	web.me.com-jfurse.warc.gz	17648
+soundminer	gallery.me.com	2012-06-03 03:43:47	archiveteam-mobileme-hero-2186x	archiveteam-mobileme-hero-2186x-21868.tar	gallery.me.com-soundminer.warc.gz	19527084
+soundminer	homepage.mac.com	2012-06-03 03:43:48	archiveteam-mobileme-hero-2186x	archiveteam-mobileme-hero-2186x-21868.tar	homepage.mac.com-soundminer.warc.gz	4904
+soundminer	public.me.com	2012-06-03 03:42:55	archiveteam-mobileme-hero-2186x	archiveteam-mobileme-hero-2186x-21868.tar	public.me.com-soundminer.warc.gz	5976418577
+soundminer	web.me.com	2012-06-03 02:21:01	archiveteam-mobileme-hero-2186x	archiveteam-mobileme-hero-2186x-21868.tar	web.me.com-soundminer.warc.gz	35450224
+valerierothenberg	gallery.me.com	2012-06-03 02:16:18	archiveteam-mobileme-hero-2186x	archiveteam-mobileme-hero-2186x-21868.tar	gallery.me.com-valerierothenberg.warc.gz	4307
+valerierothenberg	homepage.mac.com	2012-06-03 02:16:19	archiveteam-mobileme-hero-2186x	archiveteam-mobileme-hero-2186x-21868.tar	homepage.mac.com-valerierothenberg.warc.gz	4936
+valerierothenberg	public.me.com	2012-06-03 02:16:18	archiveteam-mobileme-hero-2186x	archiveteam-mobileme-hero-2186x-21868.tar	public.me.com-valerierothenberg.warc.gz	1936
+valerierothenberg	web.me.com	2012-06-03 02:16:18	archiveteam-mobileme-hero-2186x	archiveteam-mobileme-hero-2186x-21868.tar	web.me.com-valerierothenberg.warc.gz	6750225

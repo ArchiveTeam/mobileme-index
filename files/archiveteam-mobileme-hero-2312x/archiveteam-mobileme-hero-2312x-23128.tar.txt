@@ -1,0 +1,16 @@
+aristrip	gallery.me.com	2012-06-07 03:26:22	archiveteam-mobileme-hero-2312x	archiveteam-mobileme-hero-2312x-23128.tar	gallery.me.com-aristrip.warc.gz	5587
+aristrip	homepage.mac.com	2012-06-07 03:26:25	archiveteam-mobileme-hero-2312x	archiveteam-mobileme-hero-2312x-23128.tar	homepage.mac.com-aristrip.warc.gz	107464
+aristrip	public.me.com	2012-06-07 03:26:21	archiveteam-mobileme-hero-2312x	archiveteam-mobileme-hero-2312x-23128.tar	public.me.com-aristrip.warc.gz	3312
+aristrip	web.me.com	2012-06-07 03:26:21	archiveteam-mobileme-hero-2312x	archiveteam-mobileme-hero-2312x-23128.tar	web.me.com-aristrip.warc.gz	33284
+distress	gallery.me.com	2012-06-07 03:26:18	archiveteam-mobileme-hero-2312x	archiveteam-mobileme-hero-2312x-23128.tar	gallery.me.com-distress.warc.gz	4436572
+distress	homepage.mac.com	2012-06-07 03:26:18	archiveteam-mobileme-hero-2312x	archiveteam-mobileme-hero-2312x-23128.tar	homepage.mac.com-distress.warc.gz	4893
+distress	public.me.com	2012-06-07 03:26:03	archiveteam-mobileme-hero-2312x	archiveteam-mobileme-hero-2312x-23128.tar	public.me.com-distress.warc.gz	3403
+distress	web.me.com	2012-06-07 03:26:02	archiveteam-mobileme-hero-2312x	archiveteam-mobileme-hero-2312x-23128.tar	web.me.com-distress.warc.gz	205080
+h.polveche	gallery.me.com	2012-06-07 03:25:53	archiveteam-mobileme-hero-2312x	archiveteam-mobileme-hero-2312x-23128.tar	gallery.me.com-h.polveche.warc.gz	2209032556
+h.polveche	homepage.mac.com	2012-06-07 03:25:53	archiveteam-mobileme-hero-2312x	archiveteam-mobileme-hero-2312x-23128.tar	homepage.mac.com-h.polveche.warc.gz	4935
+h.polveche	public.me.com	2012-06-07 02:22:10	archiveteam-mobileme-hero-2312x	archiveteam-mobileme-hero-2312x-23128.tar	public.me.com-h.polveche.warc.gz	1927
+h.polveche	web.me.com	2012-06-07 02:22:09	archiveteam-mobileme-hero-2312x	archiveteam-mobileme-hero-2312x-23128.tar	web.me.com-h.polveche.warc.gz	14558097
+rabfel	gallery.me.com	2012-06-07 04:45:53	archiveteam-mobileme-hero-2312x	archiveteam-mobileme-hero-2312x-23128.tar	gallery.me.com-rabfel.warc.gz	2550939403
+rabfel	homepage.mac.com	2012-06-07 04:45:53	archiveteam-mobileme-hero-2312x	archiveteam-mobileme-hero-2312x-23128.tar	homepage.mac.com-rabfel.warc.gz	4894
+rabfel	public.me.com	2012-06-07 04:20:51	archiveteam-mobileme-hero-2312x	archiveteam-mobileme-hero-2312x-23128.tar	public.me.com-rabfel.warc.gz	1910
+rabfel	web.me.com	2012-06-07 04:20:47	archiveteam-mobileme-hero-2312x	archiveteam-mobileme-hero-2312x-23128.tar	web.me.com-rabfel.warc.gz	3396086730

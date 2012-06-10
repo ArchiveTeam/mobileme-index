@@ -1,0 +1,16 @@
+dsnap09	gallery.me.com	2012-06-05 05:56:42	archiveteam-mobileme-hero-2242x	archiveteam-mobileme-hero-2242x-22421.tar	gallery.me.com-dsnap09.warc.gz	1641122265
+dsnap09	homepage.mac.com	2012-06-05 05:56:42	archiveteam-mobileme-hero-2242x	archiveteam-mobileme-hero-2242x-22421.tar	homepage.mac.com-dsnap09.warc.gz	4912
+dsnap09	public.me.com	2012-06-05 05:44:21	archiveteam-mobileme-hero-2242x	archiveteam-mobileme-hero-2242x-22421.tar	public.me.com-dsnap09.warc.gz	2335731934
+dsnap09	web.me.com	2012-06-05 05:28:49	archiveteam-mobileme-hero-2242x	archiveteam-mobileme-hero-2242x-22421.tar	web.me.com-dsnap09.warc.gz	23339882
+enhoh	gallery.me.com	2012-06-05 05:09:13	archiveteam-mobileme-hero-2242x	archiveteam-mobileme-hero-2242x-22421.tar	gallery.me.com-enhoh.warc.gz	81904239
+enhoh	homepage.mac.com	2012-06-05 05:09:13	archiveteam-mobileme-hero-2242x	archiveteam-mobileme-hero-2242x-22421.tar	homepage.mac.com-enhoh.warc.gz	4872
+enhoh	public.me.com	2012-06-05 05:07:16	archiveteam-mobileme-hero-2242x	archiveteam-mobileme-hero-2242x-22421.tar	public.me.com-enhoh.warc.gz	1906
+enhoh	web.me.com	2012-06-05 05:07:15	archiveteam-mobileme-hero-2242x	archiveteam-mobileme-hero-2242x-22421.tar	web.me.com-enhoh.warc.gz	143074645
+karyoung	gallery.me.com	2012-06-05 05:21:54	archiveteam-mobileme-hero-2242x	archiveteam-mobileme-hero-2242x-22421.tar	gallery.me.com-karyoung.warc.gz	4248
+karyoung	homepage.mac.com	2012-06-05 05:21:55	archiveteam-mobileme-hero-2242x	archiveteam-mobileme-hero-2242x-22421.tar	homepage.mac.com-karyoung.warc.gz	4916
+karyoung	public.me.com	2012-06-05 05:21:54	archiveteam-mobileme-hero-2242x	archiveteam-mobileme-hero-2242x-22421.tar	public.me.com-karyoung.warc.gz	65969185
+karyoung	web.me.com	2012-06-05 05:20:06	archiveteam-mobileme-hero-2242x	archiveteam-mobileme-hero-2242x-22421.tar	web.me.com-karyoung.warc.gz	440515467
+rlvisser	gallery.me.com	2012-06-05 05:10:36	archiveteam-mobileme-hero-2242x	archiveteam-mobileme-hero-2242x-22421.tar	gallery.me.com-rlvisser.warc.gz	4245
+rlvisser	homepage.mac.com	2012-06-05 05:10:36	archiveteam-mobileme-hero-2242x	archiveteam-mobileme-hero-2242x-22421.tar	homepage.mac.com-rlvisser.warc.gz	4922
+rlvisser	public.me.com	2012-06-05 05:10:35	archiveteam-mobileme-hero-2242x	archiveteam-mobileme-hero-2242x-22421.tar	public.me.com-rlvisser.warc.gz	1913
+rlvisser	web.me.com	2012-06-05 05:10:35	archiveteam-mobileme-hero-2242x	archiveteam-mobileme-hero-2242x-22421.tar	web.me.com-rlvisser.warc.gz	12021367

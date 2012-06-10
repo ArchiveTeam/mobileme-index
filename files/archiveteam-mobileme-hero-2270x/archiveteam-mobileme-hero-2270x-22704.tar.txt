@@ -1,0 +1,16 @@
+affich	gallery.me.com	2012-06-05 22:05:34	archiveteam-mobileme-hero-2270x	archiveteam-mobileme-hero-2270x-22704.tar	gallery.me.com-affich.warc.gz	84064848
+affich	homepage.mac.com	2012-06-05 22:05:34	archiveteam-mobileme-hero-2270x	archiveteam-mobileme-hero-2270x-22704.tar	homepage.mac.com-affich.warc.gz	4902
+affich	public.me.com	2012-06-05 22:02:26	archiveteam-mobileme-hero-2270x	archiveteam-mobileme-hero-2270x-22704.tar	public.me.com-affich.warc.gz	1913
+affich	web.me.com	2012-06-05 22:02:24	archiveteam-mobileme-hero-2270x	archiveteam-mobileme-hero-2270x-22704.tar	web.me.com-affich.warc.gz	2039415
+bcrabtree	gallery.me.com	2012-06-06 00:48:55	archiveteam-mobileme-hero-2270x	archiveteam-mobileme-hero-2270x-22704.tar	gallery.me.com-bcrabtree.warc.gz	44241281
+bcrabtree	homepage.mac.com	2012-06-06 01:02:57	archiveteam-mobileme-hero-2270x	archiveteam-mobileme-hero-2270x-22704.tar	homepage.mac.com-bcrabtree.warc.gz	375209906
+bcrabtree	public.me.com	2012-06-06 00:46:19	archiveteam-mobileme-hero-2270x	archiveteam-mobileme-hero-2270x-22704.tar	public.me.com-bcrabtree.warc.gz	5465465529
+bcrabtree	web.me.com	2012-06-05 23:04:00	archiveteam-mobileme-hero-2270x	archiveteam-mobileme-hero-2270x-22704.tar	web.me.com-bcrabtree.warc.gz	581127
+c.rondepierre	gallery.me.com	2012-06-05 23:03:47	archiveteam-mobileme-hero-2270x	archiveteam-mobileme-hero-2270x-22704.tar	gallery.me.com-c.rondepierre.warc.gz	72542895
+c.rondepierre	homepage.mac.com	2012-06-05 23:03:47	archiveteam-mobileme-hero-2270x	archiveteam-mobileme-hero-2270x-22704.tar	homepage.mac.com-c.rondepierre.warc.gz	4929
+c.rondepierre	public.me.com	2012-06-05 23:01:25	archiveteam-mobileme-hero-2270x	archiveteam-mobileme-hero-2270x-22704.tar	public.me.com-c.rondepierre.warc.gz	1928
+c.rondepierre	web.me.com	2012-06-05 23:01:18	archiveteam-mobileme-hero-2270x	archiveteam-mobileme-hero-2270x-22704.tar	web.me.com-c.rondepierre.warc.gz	144206899
+pwilson9	gallery.me.com	2012-06-05 22:22:40	archiveteam-mobileme-hero-2270x	archiveteam-mobileme-hero-2270x-22704.tar	gallery.me.com-pwilson9.warc.gz	57542826
+pwilson9	homepage.mac.com	2012-06-05 22:22:40	archiveteam-mobileme-hero-2270x	archiveteam-mobileme-hero-2270x-22704.tar	homepage.mac.com-pwilson9.warc.gz	4902
+pwilson9	public.me.com	2012-06-05 22:21:02	archiveteam-mobileme-hero-2270x	archiveteam-mobileme-hero-2270x-22704.tar	public.me.com-pwilson9.warc.gz	1918
+pwilson9	web.me.com	2012-06-05 22:21:01	archiveteam-mobileme-hero-2270x	archiveteam-mobileme-hero-2270x-22704.tar	web.me.com-pwilson9.warc.gz	203833544

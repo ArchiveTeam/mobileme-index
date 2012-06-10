@@ -1,0 +1,12 @@
+eyemovies	gallery.me.com	2012-06-02 22:38:37	archiveteam-mobileme-hero-2181x	archiveteam-mobileme-hero-2181x-21819.tar	gallery.me.com-eyemovies.warc.gz	3857479125
+eyemovies	homepage.mac.com	2012-06-02 22:38:38	archiveteam-mobileme-hero-2181x	archiveteam-mobileme-hero-2181x-21819.tar	homepage.mac.com-eyemovies.warc.gz	4919
+eyemovies	public.me.com	2012-06-02 20:47:06	archiveteam-mobileme-hero-2181x	archiveteam-mobileme-hero-2181x-21819.tar	public.me.com-eyemovies.warc.gz	21795144
+eyemovies	web.me.com	2012-06-02 20:32:08	archiveteam-mobileme-hero-2181x	archiveteam-mobileme-hero-2181x-21819.tar	web.me.com-eyemovies.warc.gz	2482805857
+scottsoup	gallery.me.com	2012-06-02 17:54:21	archiveteam-mobileme-hero-2181x	archiveteam-mobileme-hero-2181x-21819.tar	gallery.me.com-scottsoup.warc.gz	2396991236
+scottsoup	homepage.mac.com	2012-06-02 17:54:21	archiveteam-mobileme-hero-2181x	archiveteam-mobileme-hero-2181x-21819.tar	homepage.mac.com-scottsoup.warc.gz	4923
+scottsoup	public.me.com	2012-06-02 17:17:58	archiveteam-mobileme-hero-2181x	archiveteam-mobileme-hero-2181x-21819.tar	public.me.com-scottsoup.warc.gz	1909
+scottsoup	web.me.com	2012-06-02 17:17:43	archiveteam-mobileme-hero-2181x	archiveteam-mobileme-hero-2181x-21819.tar	web.me.com-scottsoup.warc.gz	432430006
+vgraeff	gallery.me.com	2012-06-02 16:50:13	archiveteam-mobileme-hero-2181x	archiveteam-mobileme-hero-2181x-21819.tar	gallery.me.com-vgraeff.warc.gz	237646665
+vgraeff	homepage.mac.com	2012-06-02 16:50:14	archiveteam-mobileme-hero-2181x	archiveteam-mobileme-hero-2181x-21819.tar	homepage.mac.com-vgraeff.warc.gz	4892
+vgraeff	public.me.com	2012-06-02 16:43:58	archiveteam-mobileme-hero-2181x	archiveteam-mobileme-hero-2181x-21819.tar	public.me.com-vgraeff.warc.gz	1915
+vgraeff	web.me.com	2012-06-02 16:43:56	archiveteam-mobileme-hero-2181x	archiveteam-mobileme-hero-2181x-21819.tar	web.me.com-vgraeff.warc.gz	66438333

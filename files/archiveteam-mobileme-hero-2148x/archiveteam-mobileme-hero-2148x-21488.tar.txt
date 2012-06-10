@@ -1,0 +1,16 @@
+bbt1	gallery.me.com	2012-05-31 17:11:02	archiveteam-mobileme-hero-2148x	archiveteam-mobileme-hero-2148x-21488.tar	gallery.me.com-bbt1.warc.gz	8329
+bbt1	homepage.mac.com	2012-05-31 17:11:02	archiveteam-mobileme-hero-2148x	archiveteam-mobileme-hero-2148x-21488.tar	homepage.mac.com-bbt1.warc.gz	5133
+bbt1	public.me.com	2012-05-31 17:11:00	archiveteam-mobileme-hero-2148x	archiveteam-mobileme-hero-2148x-21488.tar	public.me.com-bbt1.warc.gz	1902
+bbt1	web.me.com	2012-05-31 17:11:00	archiveteam-mobileme-hero-2148x	archiveteam-mobileme-hero-2148x-21488.tar	web.me.com-bbt1.warc.gz	17658
+mark_edmondson	gallery.me.com	2012-05-31 18:58:34	archiveteam-mobileme-hero-2148x	archiveteam-mobileme-hero-2148x-21488.tar	gallery.me.com-mark_edmondson.warc.gz	5717
+mark_edmondson	homepage.mac.com	2012-05-31 18:58:39	archiveteam-mobileme-hero-2148x	archiveteam-mobileme-hero-2148x-21488.tar	homepage.mac.com-mark_edmondson.warc.gz	73294
+mark_edmondson	public.me.com	2012-05-31 18:58:32	archiveteam-mobileme-hero-2148x	archiveteam-mobileme-hero-2148x-21488.tar	public.me.com-mark_edmondson.warc.gz	658689391
+mark_edmondson	web.me.com	2012-05-31 18:11:12	archiveteam-mobileme-hero-2148x	archiveteam-mobileme-hero-2148x-21488.tar	web.me.com-mark_edmondson.warc.gz	1751718124
+pattirick	gallery.me.com	2012-05-31 16:30:16	archiveteam-mobileme-hero-2148x	archiveteam-mobileme-hero-2148x-21488.tar	gallery.me.com-pattirick.warc.gz	601789951
+pattirick	homepage.mac.com	2012-05-31 16:31:22	archiveteam-mobileme-hero-2148x	archiveteam-mobileme-hero-2148x-21488.tar	homepage.mac.com-pattirick.warc.gz	858966
+pattirick	public.me.com	2012-05-31 16:00:02	archiveteam-mobileme-hero-2148x	archiveteam-mobileme-hero-2148x-21488.tar	public.me.com-pattirick.warc.gz	210378303
+pattirick	web.me.com	2012-05-31 15:50:53	archiveteam-mobileme-hero-2148x	archiveteam-mobileme-hero-2148x-21488.tar	web.me.com-pattirick.warc.gz	1176683601
+sharon.saylor	gallery.me.com	2012-05-31 17:10:56	archiveteam-mobileme-hero-2148x	archiveteam-mobileme-hero-2148x-21488.tar	gallery.me.com-sharon.saylor.warc.gz	215509699
+sharon.saylor	homepage.mac.com	2012-05-31 17:10:56	archiveteam-mobileme-hero-2148x	archiveteam-mobileme-hero-2148x-21488.tar	homepage.mac.com-sharon.saylor.warc.gz	4914
+sharon.saylor	public.me.com	2012-05-31 16:57:09	archiveteam-mobileme-hero-2148x	archiveteam-mobileme-hero-2148x-21488.tar	public.me.com-sharon.saylor.warc.gz	1928
+sharon.saylor	web.me.com	2012-05-31 16:57:07	archiveteam-mobileme-hero-2148x	archiveteam-mobileme-hero-2148x-21488.tar	web.me.com-sharon.saylor.warc.gz	197416309

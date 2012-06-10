@@ -1,0 +1,8 @@
+ead	gallery.me.com	2012-06-09 10:11:23	archiveteam-mobileme-hero-2416x	archiveteam-mobileme-hero-2416x-24164.tar	gallery.me.com-ead.warc.gz	101477163
+ead	homepage.mac.com	2012-06-09 10:11:23	archiveteam-mobileme-hero-2416x	archiveteam-mobileme-hero-2416x-24164.tar	homepage.mac.com-ead.warc.gz	4891
+ead	public.me.com	2012-06-09 10:08:44	archiveteam-mobileme-hero-2416x	archiveteam-mobileme-hero-2416x-24164.tar	public.me.com-ead.warc.gz	1899
+ead	web.me.com	2012-06-09 10:08:30	archiveteam-mobileme-hero-2416x	archiveteam-mobileme-hero-2416x-24164.tar	web.me.com-ead.warc.gz	6647390866
+tuck.rainwater	gallery.me.com	2012-06-09 09:06:36	archiveteam-mobileme-hero-2416x	archiveteam-mobileme-hero-2416x-24164.tar	gallery.me.com-tuck.rainwater.warc.gz	1061374008
+tuck.rainwater	homepage.mac.com	2012-06-09 09:06:36	archiveteam-mobileme-hero-2416x	archiveteam-mobileme-hero-2416x-24164.tar	homepage.mac.com-tuck.rainwater.warc.gz	4940
+tuck.rainwater	public.me.com	2012-06-09 08:52:48	archiveteam-mobileme-hero-2416x	archiveteam-mobileme-hero-2416x-24164.tar	public.me.com-tuck.rainwater.warc.gz	44807346
+tuck.rainwater	web.me.com	2012-06-09 08:51:10	archiveteam-mobileme-hero-2416x	archiveteam-mobileme-hero-2416x-24164.tar	web.me.com-tuck.rainwater.warc.gz	2660478

@@ -1,0 +1,16 @@
+cpy	gallery.me.com	2012-06-09 19:16:39	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24366.tar	gallery.me.com-cpy.warc.gz	3045316704
+cpy	homepage.mac.com	2012-06-09 19:16:42	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24366.tar	homepage.mac.com-cpy.warc.gz	135097
+cpy	public.me.com	2012-06-09 19:01:29	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24366.tar	public.me.com-cpy.warc.gz	1906
+cpy	web.me.com	2012-06-09 19:01:29	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24366.tar	web.me.com-cpy.warc.gz	2357810
+delcastillo	gallery.me.com	2012-06-09 19:00:41	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24366.tar	gallery.me.com-delcastillo.warc.gz	7103
+delcastillo	homepage.mac.com	2012-06-09 19:00:42	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24366.tar	homepage.mac.com-delcastillo.warc.gz	4918
+delcastillo	public.me.com	2012-06-09 19:00:40	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24366.tar	public.me.com-delcastillo.warc.gz	80514838
+delcastillo	web.me.com	2012-06-09 18:58:21	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24366.tar	web.me.com-delcastillo.warc.gz	375178
+michelmolin	gallery.me.com	2012-06-09 18:58:02	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24366.tar	gallery.me.com-michelmolin.warc.gz	2112554734
+michelmolin	homepage.mac.com	2012-06-09 18:58:02	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24366.tar	homepage.mac.com-michelmolin.warc.gz	4924
+michelmolin	public.me.com	2012-06-09 18:33:59	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24366.tar	public.me.com-michelmolin.warc.gz	1926
+michelmolin	web.me.com	2012-06-09 18:33:58	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24366.tar	web.me.com-michelmolin.warc.gz	25628676
+svn.schmdt	gallery.me.com	2012-06-09 18:26:43	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24366.tar	gallery.me.com-svn.schmdt.warc.gz	74080794
+svn.schmdt	homepage.mac.com	2012-06-09 18:26:44	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24366.tar	homepage.mac.com-svn.schmdt.warc.gz	4926
+svn.schmdt	public.me.com	2012-06-09 18:25:27	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24366.tar	public.me.com-svn.schmdt.warc.gz	1921
+svn.schmdt	web.me.com	2012-06-09 18:25:27	archiveteam-mobileme-hero-2436x	archiveteam-mobileme-hero-2436x-24366.tar	web.me.com-svn.schmdt.warc.gz	915622

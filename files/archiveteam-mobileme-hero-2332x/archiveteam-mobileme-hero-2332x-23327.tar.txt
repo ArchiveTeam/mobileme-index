@@ -1,0 +1,16 @@
+all2	gallery.me.com	2012-06-07 07:58:13	archiveteam-mobileme-hero-2332x	archiveteam-mobileme-hero-2332x-23327.tar	gallery.me.com-all2.warc.gz	18558244
+all2	homepage.mac.com	2012-06-07 07:58:14	archiveteam-mobileme-hero-2332x	archiveteam-mobileme-hero-2332x-23327.tar	homepage.mac.com-all2.warc.gz	4872
+all2	public.me.com	2012-06-07 07:57:36	archiveteam-mobileme-hero-2332x	archiveteam-mobileme-hero-2332x-23327.tar	public.me.com-all2.warc.gz	1901
+all2	web.me.com	2012-06-07 07:57:35	archiveteam-mobileme-hero-2332x	archiveteam-mobileme-hero-2332x-23327.tar	web.me.com-all2.warc.gz	778868
+ba.withers	gallery.me.com	2012-06-07 08:01:02	archiveteam-mobileme-hero-2332x	archiveteam-mobileme-hero-2332x-23327.tar	gallery.me.com-ba.withers.warc.gz	15660663
+ba.withers	homepage.mac.com	2012-06-07 08:01:02	archiveteam-mobileme-hero-2332x	archiveteam-mobileme-hero-2332x-23327.tar	homepage.mac.com-ba.withers.warc.gz	4912
+ba.withers	public.me.com	2012-06-07 08:00:38	archiveteam-mobileme-hero-2332x	archiveteam-mobileme-hero-2332x-23327.tar	public.me.com-ba.withers.warc.gz	1919
+ba.withers	web.me.com	2012-06-07 08:00:37	archiveteam-mobileme-hero-2332x	archiveteam-mobileme-hero-2332x-23327.tar	web.me.com-ba.withers.warc.gz	510539
+jayliao	gallery.me.com	2012-06-07 14:30:10	archiveteam-mobileme-hero-2332x	archiveteam-mobileme-hero-2332x-23327.tar	gallery.me.com-jayliao.warc.gz	9405347707
+jayliao	homepage.mac.com	2012-06-07 14:30:11	archiveteam-mobileme-hero-2332x	archiveteam-mobileme-hero-2332x-23327.tar	homepage.mac.com-jayliao.warc.gz	4907
+jayliao	public.me.com	2012-06-07 11:34:38	archiveteam-mobileme-hero-2332x	archiveteam-mobileme-hero-2332x-23327.tar	public.me.com-jayliao.warc.gz	1916
+jayliao	web.me.com	2012-06-07 11:31:48	archiveteam-mobileme-hero-2332x	archiveteam-mobileme-hero-2332x-23327.tar	web.me.com-jayliao.warc.gz	6805056625
+mpaneitz	gallery.me.com	2012-06-07 08:00:23	archiveteam-mobileme-hero-2332x	archiveteam-mobileme-hero-2332x-23327.tar	gallery.me.com-mpaneitz.warc.gz	4250
+mpaneitz	homepage.mac.com	2012-06-07 08:00:25	archiveteam-mobileme-hero-2332x	archiveteam-mobileme-hero-2332x-23327.tar	homepage.mac.com-mpaneitz.warc.gz	51662
+mpaneitz	public.me.com	2012-06-07 08:00:23	archiveteam-mobileme-hero-2332x	archiveteam-mobileme-hero-2332x-23327.tar	public.me.com-mpaneitz.warc.gz	1920
+mpaneitz	web.me.com	2012-06-07 08:00:22	archiveteam-mobileme-hero-2332x	archiveteam-mobileme-hero-2332x-23327.tar	web.me.com-mpaneitz.warc.gz	347403467

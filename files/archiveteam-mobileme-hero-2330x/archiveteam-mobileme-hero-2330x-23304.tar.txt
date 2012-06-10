@@ -1,0 +1,12 @@
+pabc1	gallery.me.com	2012-06-07 13:33:11	archiveteam-mobileme-hero-2330x	archiveteam-mobileme-hero-2330x-23304.tar	gallery.me.com-pabc1.warc.gz	6120315582
+pabc1	homepage.mac.com	2012-06-07 13:33:11	archiveteam-mobileme-hero-2330x	archiveteam-mobileme-hero-2330x-23304.tar	homepage.mac.com-pabc1.warc.gz	4904
+pabc1	public.me.com	2012-06-07 11:03:59	archiveteam-mobileme-hero-2330x	archiveteam-mobileme-hero-2330x-23304.tar	public.me.com-pabc1.warc.gz	1908
+pabc1	web.me.com	2012-06-07 11:03:41	archiveteam-mobileme-hero-2330x	archiveteam-mobileme-hero-2330x-23304.tar	web.me.com-pabc1.warc.gz	145529214
+rm.carr	gallery.me.com	2012-06-07 10:38:17	archiveteam-mobileme-hero-2330x	archiveteam-mobileme-hero-2330x-23304.tar	gallery.me.com-rm.carr.warc.gz	1749963918
+rm.carr	homepage.mac.com	2012-06-07 10:38:17	archiveteam-mobileme-hero-2330x	archiveteam-mobileme-hero-2330x-23304.tar	homepage.mac.com-rm.carr.warc.gz	4913
+rm.carr	public.me.com	2012-06-07 10:18:50	archiveteam-mobileme-hero-2330x	archiveteam-mobileme-hero-2330x-23304.tar	public.me.com-rm.carr.warc.gz	1909
+rm.carr	web.me.com	2012-06-07 10:18:50	archiveteam-mobileme-hero-2330x	archiveteam-mobileme-hero-2330x-23304.tar	web.me.com-rm.carr.warc.gz	6575762
+walcouyi.	gallery.me.com	2012-06-07 10:16:41	archiveteam-mobileme-hero-2330x	archiveteam-mobileme-hero-2330x-23304.tar	gallery.me.com-walcouyi..warc.gz	8366
+walcouyi.	homepage.mac.com	2012-06-07 10:16:41	archiveteam-mobileme-hero-2330x	archiveteam-mobileme-hero-2330x-23304.tar	homepage.mac.com-walcouyi..warc.gz	5182
+walcouyi.	public.me.com	2012-06-07 10:16:40	archiveteam-mobileme-hero-2330x	archiveteam-mobileme-hero-2330x-23304.tar	public.me.com-walcouyi..warc.gz	1908
+walcouyi.	web.me.com	2012-06-07 10:16:40	archiveteam-mobileme-hero-2330x	archiveteam-mobileme-hero-2330x-23304.tar	web.me.com-walcouyi..warc.gz	17691

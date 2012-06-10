@@ -1,0 +1,16 @@
+artbeat.dsn	gallery.me.com	2012-06-03 04:01:27	archiveteam-mobileme-hero-2188x	archiveteam-mobileme-hero-2188x-21885.tar	gallery.me.com-artbeat.dsn.warc.gz	1127702881
+artbeat.dsn	homepage.mac.com	2012-06-03 04:01:28	archiveteam-mobileme-hero-2188x	archiveteam-mobileme-hero-2188x-21885.tar	homepage.mac.com-artbeat.dsn.warc.gz	37005
+artbeat.dsn	public.me.com	2012-06-03 03:53:40	archiveteam-mobileme-hero-2188x	archiveteam-mobileme-hero-2188x-21885.tar	public.me.com-artbeat.dsn.warc.gz	54696103
+artbeat.dsn	web.me.com	2012-06-03 03:52:41	archiveteam-mobileme-hero-2188x	archiveteam-mobileme-hero-2188x-21885.tar	web.me.com-artbeat.dsn.warc.gz	42935647
+galerie.cote.cour	gallery.me.com	2012-06-03 04:51:06	archiveteam-mobileme-hero-2188x	archiveteam-mobileme-hero-2188x-21885.tar	gallery.me.com-galerie.cote.cour.warc.gz	5320
+galerie.cote.cour	homepage.mac.com	2012-06-03 04:51:06	archiveteam-mobileme-hero-2188x	archiveteam-mobileme-hero-2188x-21885.tar	homepage.mac.com-galerie.cote.cour.warc.gz	4944
+galerie.cote.cour	public.me.com	2012-06-03 04:51:05	archiveteam-mobileme-hero-2188x	archiveteam-mobileme-hero-2188x-21885.tar	public.me.com-galerie.cote.cour.warc.gz	16420
+galerie.cote.cour	web.me.com	2012-06-03 04:51:03	archiveteam-mobileme-hero-2188x	archiveteam-mobileme-hero-2188x-21885.tar	web.me.com-galerie.cote.cour.warc.gz	360797009
+gherman	gallery.me.com	2012-06-03 05:29:16	archiveteam-mobileme-hero-2188x	archiveteam-mobileme-hero-2188x-21885.tar	gallery.me.com-gherman.warc.gz	1022288077
+gherman	homepage.mac.com	2012-06-03 05:29:17	archiveteam-mobileme-hero-2188x	archiveteam-mobileme-hero-2188x-21885.tar	homepage.mac.com-gherman.warc.gz	7828
+gherman	public.me.com	2012-06-03 05:08:48	archiveteam-mobileme-hero-2188x	archiveteam-mobileme-hero-2188x-21885.tar	public.me.com-gherman.warc.gz	604857883
+gherman	web.me.com	2012-06-03 05:06:13	archiveteam-mobileme-hero-2188x	archiveteam-mobileme-hero-2188x-21885.tar	web.me.com-gherman.warc.gz	231912167
+tristan.van.tilborgh	gallery.me.com	2012-06-03 03:47:20	archiveteam-mobileme-hero-2188x	archiveteam-mobileme-hero-2188x-21885.tar	gallery.me.com-tristan.van.tilborgh.warc.gz	1613316094
+tristan.van.tilborgh	homepage.mac.com	2012-06-03 03:47:21	archiveteam-mobileme-hero-2188x	archiveteam-mobileme-hero-2188x-21885.tar	homepage.mac.com-tristan.van.tilborgh.warc.gz	37114
+tristan.van.tilborgh	public.me.com	2012-06-03 03:03:32	archiveteam-mobileme-hero-2188x	archiveteam-mobileme-hero-2188x-21885.tar	public.me.com-tristan.van.tilborgh.warc.gz	49282590
+tristan.van.tilborgh	web.me.com	2012-06-03 03:03:03	archiveteam-mobileme-hero-2188x	archiveteam-mobileme-hero-2188x-21885.tar	web.me.com-tristan.van.tilborgh.warc.gz	219573438

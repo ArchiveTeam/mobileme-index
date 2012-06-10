@@ -1,0 +1,16 @@
+charrent	gallery.me.com	2012-06-04 02:24:50	archiveteam-mobileme-hero-2212x	archiveteam-mobileme-hero-2212x-22126.tar	gallery.me.com-charrent.warc.gz	5505107410
+charrent	homepage.mac.com	2012-06-04 02:24:50	archiveteam-mobileme-hero-2212x	archiveteam-mobileme-hero-2212x-22126.tar	homepage.mac.com-charrent.warc.gz	4890
+charrent	public.me.com	2012-06-04 01:13:44	archiveteam-mobileme-hero-2212x	archiveteam-mobileme-hero-2212x-22126.tar	public.me.com-charrent.warc.gz	1918
+charrent	web.me.com	2012-06-04 01:13:43	archiveteam-mobileme-hero-2212x	archiveteam-mobileme-hero-2212x-22126.tar	web.me.com-charrent.warc.gz	79971676
+davidbyerly	gallery.me.com	2012-06-04 00:21:30	archiveteam-mobileme-hero-2212x	archiveteam-mobileme-hero-2212x-22126.tar	gallery.me.com-davidbyerly.warc.gz	5742
+davidbyerly	homepage.mac.com	2012-06-04 00:21:31	archiveteam-mobileme-hero-2212x	archiveteam-mobileme-hero-2212x-22126.tar	homepage.mac.com-davidbyerly.warc.gz	58196
+davidbyerly	public.me.com	2012-06-04 00:21:29	archiveteam-mobileme-hero-2212x	archiveteam-mobileme-hero-2212x-22126.tar	public.me.com-davidbyerly.warc.gz	1930
+davidbyerly	web.me.com	2012-06-04 00:21:28	archiveteam-mobileme-hero-2212x	archiveteam-mobileme-hero-2212x-22126.tar	web.me.com-davidbyerly.warc.gz	760394
+kroneil	gallery.me.com	2012-06-04 00:55:55	archiveteam-mobileme-hero-2212x	archiveteam-mobileme-hero-2212x-22126.tar	gallery.me.com-kroneil.warc.gz	17605765
+kroneil	homepage.mac.com	2012-06-04 00:55:55	archiveteam-mobileme-hero-2212x	archiveteam-mobileme-hero-2212x-22126.tar	homepage.mac.com-kroneil.warc.gz	4880
+kroneil	public.me.com	2012-06-04 00:54:39	archiveteam-mobileme-hero-2212x	archiveteam-mobileme-hero-2212x-22126.tar	public.me.com-kroneil.warc.gz	1910
+kroneil	web.me.com	2012-06-04 00:54:39	archiveteam-mobileme-hero-2212x	archiveteam-mobileme-hero-2212x-22126.tar	web.me.com-kroneil.warc.gz	26642192
+tedo6	gallery.me.com	2012-06-04 00:51:04	archiveteam-mobileme-hero-2212x	archiveteam-mobileme-hero-2212x-22126.tar	gallery.me.com-tedo6.warc.gz	9467100
+tedo6	homepage.mac.com	2012-06-04 00:51:05	archiveteam-mobileme-hero-2212x	archiveteam-mobileme-hero-2212x-22126.tar	homepage.mac.com-tedo6.warc.gz	4874
+tedo6	public.me.com	2012-06-04 00:49:16	archiveteam-mobileme-hero-2212x	archiveteam-mobileme-hero-2212x-22126.tar	public.me.com-tedo6.warc.gz	606160621
+tedo6	web.me.com	2012-06-04 00:25:46	archiveteam-mobileme-hero-2212x	archiveteam-mobileme-hero-2212x-22126.tar	web.me.com-tedo6.warc.gz	44130519

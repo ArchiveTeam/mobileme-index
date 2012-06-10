@@ -1,0 +1,4 @@
+kccall	gallery.me.com	2012-06-02 07:47:55	archiveteam-mobileme-hero-2161x	archiveteam-mobileme-hero-2161x-21610.tar	gallery.me.com-kccall.warc.gz	3459294556
+kccall	homepage.mac.com	2012-06-02 07:47:55	archiveteam-mobileme-hero-2161x	archiveteam-mobileme-hero-2161x-21610.tar	homepage.mac.com-kccall.warc.gz	4903
+kccall	public.me.com	2012-06-02 06:38:38	archiveteam-mobileme-hero-2161x	archiveteam-mobileme-hero-2161x-21610.tar	public.me.com-kccall.warc.gz	1908
+kccall	web.me.com	2012-06-02 06:37:01	archiveteam-mobileme-hero-2161x	archiveteam-mobileme-hero-2161x-21610.tar	web.me.com-kccall.warc.gz	2354305661

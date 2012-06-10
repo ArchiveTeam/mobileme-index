@@ -1,0 +1,12 @@
+23	gallery.me.com	2012-06-06 08:27:45	archiveteam-mobileme-hero-2283x	archiveteam-mobileme-hero-2283x-22834.tar	gallery.me.com-23.warc.gz	12377
+23	homepage.mac.com	2012-06-06 08:27:45	archiveteam-mobileme-hero-2283x	archiveteam-mobileme-hero-2283x-22834.tar	homepage.mac.com-23.warc.gz	7176
+23	public.me.com	2012-06-06 08:27:44	archiveteam-mobileme-hero-2283x	archiveteam-mobileme-hero-2283x-22834.tar	public.me.com-23.warc.gz	1882
+23	web.me.com	2012-06-06 08:27:44	archiveteam-mobileme-hero-2283x	archiveteam-mobileme-hero-2283x-22834.tar	web.me.com-23.warc.gz	22547
+mkue	gallery.me.com	2012-06-06 08:27:41	archiveteam-mobileme-hero-2283x	archiveteam-mobileme-hero-2283x-22834.tar	gallery.me.com-mkue.warc.gz	169799
+mkue	homepage.mac.com	2012-06-06 08:27:42	archiveteam-mobileme-hero-2283x	archiveteam-mobileme-hero-2283x-22834.tar	homepage.mac.com-mkue.warc.gz	4879
+mkue	public.me.com	2012-06-06 08:27:40	archiveteam-mobileme-hero-2283x	archiveteam-mobileme-hero-2283x-22834.tar	public.me.com-mkue.warc.gz	671504197
+mkue	web.me.com	2012-06-06 08:17:06	archiveteam-mobileme-hero-2283x	archiveteam-mobileme-hero-2283x-22834.tar	web.me.com-mkue.warc.gz	297201924
+sergedetalle	gallery.me.com	2012-06-06 10:14:58	archiveteam-mobileme-hero-2283x	archiveteam-mobileme-hero-2283x-22834.tar	gallery.me.com-sergedetalle.warc.gz	4292860293
+sergedetalle	homepage.mac.com	2012-06-06 10:14:58	archiveteam-mobileme-hero-2283x	archiveteam-mobileme-hero-2283x-22834.tar	homepage.mac.com-sergedetalle.warc.gz	4901
+sergedetalle	public.me.com	2012-06-06 08:39:24	archiveteam-mobileme-hero-2283x	archiveteam-mobileme-hero-2283x-22834.tar	public.me.com-sergedetalle.warc.gz	1924
+sergedetalle	web.me.com	2012-06-06 08:39:24	archiveteam-mobileme-hero-2283x	archiveteam-mobileme-hero-2283x-22834.tar	web.me.com-sergedetalle.warc.gz	50361940

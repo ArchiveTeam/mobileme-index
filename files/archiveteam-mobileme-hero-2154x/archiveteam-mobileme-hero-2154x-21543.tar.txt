@@ -1,0 +1,16 @@
+cshc1	gallery.me.com	2012-06-01 21:48:07	archiveteam-mobileme-hero-2154x	archiveteam-mobileme-hero-2154x-21543.tar	gallery.me.com-cshc1.warc.gz	12279
+cshc1	homepage.mac.com	2012-06-01 21:48:08	archiveteam-mobileme-hero-2154x	archiveteam-mobileme-hero-2154x-21543.tar	homepage.mac.com-cshc1.warc.gz	7130
+cshc1	public.me.com	2012-06-01 21:48:07	archiveteam-mobileme-hero-2154x	archiveteam-mobileme-hero-2154x-21543.tar	public.me.com-cshc1.warc.gz	1909
+cshc1	web.me.com	2012-06-01 21:48:07	archiveteam-mobileme-hero-2154x	archiveteam-mobileme-hero-2154x-21543.tar	web.me.com-cshc1.warc.gz	22432
+m.pesce	gallery.me.com	2012-06-01 21:45:49	archiveteam-mobileme-hero-2154x	archiveteam-mobileme-hero-2154x-21543.tar	gallery.me.com-m.pesce.warc.gz	1853016291
+m.pesce	homepage.mac.com	2012-06-01 21:45:50	archiveteam-mobileme-hero-2154x	archiveteam-mobileme-hero-2154x-21543.tar	homepage.mac.com-m.pesce.warc.gz	4915
+m.pesce	public.me.com	2012-06-01 21:22:48	archiveteam-mobileme-hero-2154x	archiveteam-mobileme-hero-2154x-21543.tar	public.me.com-m.pesce.warc.gz	155752488
+m.pesce	web.me.com	2012-06-01 21:22:04	archiveteam-mobileme-hero-2154x	archiveteam-mobileme-hero-2154x-21543.tar	web.me.com-m.pesce.warc.gz	964183876
+mholten	gallery.me.com	2012-06-01 22:23:31	archiveteam-mobileme-hero-2154x	archiveteam-mobileme-hero-2154x-21543.tar	gallery.me.com-mholten.warc.gz	3685568682
+mholten	homepage.mac.com	2012-06-01 22:23:38	archiveteam-mobileme-hero-2154x	archiveteam-mobileme-hero-2154x-21543.tar	homepage.mac.com-mholten.warc.gz	41324
+mholten	public.me.com	2012-06-01 21:57:20	archiveteam-mobileme-hero-2154x	archiveteam-mobileme-hero-2154x-21543.tar	public.me.com-mholten.warc.gz	1912
+mholten	web.me.com	2012-06-01 21:57:20	archiveteam-mobileme-hero-2154x	archiveteam-mobileme-hero-2154x-21543.tar	web.me.com-mholten.warc.gz	353328352
+tdmrl	gallery.me.com	2012-06-01 21:48:04	archiveteam-mobileme-hero-2154x	archiveteam-mobileme-hero-2154x-21543.tar	gallery.me.com-tdmrl.warc.gz	4236
+tdmrl	homepage.mac.com	2012-06-01 21:48:04	archiveteam-mobileme-hero-2154x	archiveteam-mobileme-hero-2154x-21543.tar	homepage.mac.com-tdmrl.warc.gz	4898
+tdmrl	public.me.com	2012-06-01 21:48:04	archiveteam-mobileme-hero-2154x	archiveteam-mobileme-hero-2154x-21543.tar	public.me.com-tdmrl.warc.gz	1912
+tdmrl	web.me.com	2012-06-01 21:48:04	archiveteam-mobileme-hero-2154x	archiveteam-mobileme-hero-2154x-21543.tar	web.me.com-tdmrl.warc.gz	13480673

@@ -1,0 +1,16 @@
+crom1	gallery.me.com	2012-06-09 12:27:33	archiveteam-mobileme-hero-2424x	archiveteam-mobileme-hero-2424x-24244.tar	gallery.me.com-crom1.warc.gz	23065620
+crom1	homepage.mac.com	2012-06-09 12:27:34	archiveteam-mobileme-hero-2424x	archiveteam-mobileme-hero-2424x-24244.tar	homepage.mac.com-crom1.warc.gz	4881
+crom1	public.me.com	2012-06-09 12:25:56	archiveteam-mobileme-hero-2424x	archiveteam-mobileme-hero-2424x-24244.tar	public.me.com-crom1.warc.gz	1909
+crom1	web.me.com	2012-06-09 12:25:55	archiveteam-mobileme-hero-2424x	archiveteam-mobileme-hero-2424x-24244.tar	web.me.com-crom1.warc.gz	128106537
+jennwaters	gallery.me.com	2012-06-09 13:47:45	archiveteam-mobileme-hero-2424x	archiveteam-mobileme-hero-2424x-24244.tar	gallery.me.com-jennwaters.warc.gz	5310619683
+jennwaters	homepage.mac.com	2012-06-09 13:47:46	archiveteam-mobileme-hero-2424x	archiveteam-mobileme-hero-2424x-24244.tar	homepage.mac.com-jennwaters.warc.gz	4926
+jennwaters	public.me.com	2012-06-09 12:50:10	archiveteam-mobileme-hero-2424x	archiveteam-mobileme-hero-2424x-24244.tar	public.me.com-jennwaters.warc.gz	245857579
+jennwaters	web.me.com	2012-06-09 12:43:36	archiveteam-mobileme-hero-2424x	archiveteam-mobileme-hero-2424x-24244.tar	web.me.com-jennwaters.warc.gz	315222586
+ryovet	gallery.me.com	2012-06-09 12:04:27	archiveteam-mobileme-hero-2424x	archiveteam-mobileme-hero-2424x-24244.tar	gallery.me.com-ryovet.warc.gz	5163
+ryovet	homepage.mac.com	2012-06-09 12:04:30	archiveteam-mobileme-hero-2424x	archiveteam-mobileme-hero-2424x-24244.tar	homepage.mac.com-ryovet.warc.gz	77612
+ryovet	public.me.com	2012-06-09 12:04:26	archiveteam-mobileme-hero-2424x	archiveteam-mobileme-hero-2424x-24244.tar	public.me.com-ryovet.warc.gz	1911
+ryovet	web.me.com	2012-06-09 12:04:25	archiveteam-mobileme-hero-2424x	archiveteam-mobileme-hero-2424x-24244.tar	web.me.com-ryovet.warc.gz	6461288
+wulfs	gallery.me.com	2012-06-09 12:03:31	archiveteam-mobileme-hero-2424x	archiveteam-mobileme-hero-2424x-24244.tar	gallery.me.com-wulfs.warc.gz	5198
+wulfs	homepage.mac.com	2012-06-09 12:03:31	archiveteam-mobileme-hero-2424x	archiveteam-mobileme-hero-2424x-24244.tar	homepage.mac.com-wulfs.warc.gz	4896
+wulfs	public.me.com	2012-06-09 12:03:30	archiveteam-mobileme-hero-2424x	archiveteam-mobileme-hero-2424x-24244.tar	public.me.com-wulfs.warc.gz	3316
+wulfs	web.me.com	2012-06-09 12:03:29	archiveteam-mobileme-hero-2424x	archiveteam-mobileme-hero-2424x-24244.tar	web.me.com-wulfs.warc.gz	175650

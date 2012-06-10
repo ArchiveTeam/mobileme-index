@@ -1,0 +1,16 @@
+TrySBC	gallery.me.com	2012-06-05 03:45:27	archiveteam-mobileme-hero-2240x	archiveteam-mobileme-hero-2240x-22400.tar	gallery.me.com-TrySBC.warc.gz	981587696
+TrySBC	homepage.mac.com	2012-06-05 03:45:27	archiveteam-mobileme-hero-2240x	archiveteam-mobileme-hero-2240x-22400.tar	homepage.mac.com-TrySBC.warc.gz	4899
+TrySBC	public.me.com	2012-06-05 03:34:01	archiveteam-mobileme-hero-2240x	archiveteam-mobileme-hero-2240x-22400.tar	public.me.com-TrySBC.warc.gz	581309637
+TrySBC	web.me.com	2012-06-05 03:21:37	archiveteam-mobileme-hero-2240x	archiveteam-mobileme-hero-2240x-22400.tar	web.me.com-TrySBC.warc.gz	6013017580
+debradamore	gallery.me.com	2012-06-04 23:54:13	archiveteam-mobileme-hero-2240x	archiveteam-mobileme-hero-2240x-22400.tar	gallery.me.com-debradamore.warc.gz	8364
+debradamore	homepage.mac.com	2012-06-04 23:54:13	archiveteam-mobileme-hero-2240x	archiveteam-mobileme-hero-2240x-22400.tar	homepage.mac.com-debradamore.warc.gz	5184
+debradamore	public.me.com	2012-06-04 23:54:12	archiveteam-mobileme-hero-2240x	archiveteam-mobileme-hero-2240x-22400.tar	public.me.com-debradamore.warc.gz	1920
+debradamore	web.me.com	2012-06-04 23:54:12	archiveteam-mobileme-hero-2240x	archiveteam-mobileme-hero-2240x-22400.tar	web.me.com-debradamore.warc.gz	17681
+khalil12	gallery.me.com	2012-06-04 23:58:05	archiveteam-mobileme-hero-2240x	archiveteam-mobileme-hero-2240x-22400.tar	gallery.me.com-khalil12.warc.gz	4252
+khalil12	homepage.mac.com	2012-06-04 23:58:05	archiveteam-mobileme-hero-2240x	archiveteam-mobileme-hero-2240x-22400.tar	homepage.mac.com-khalil12.warc.gz	4917
+khalil12	public.me.com	2012-06-04 23:58:04	archiveteam-mobileme-hero-2240x	archiveteam-mobileme-hero-2240x-22400.tar	public.me.com-khalil12.warc.gz	31079153
+khalil12	web.me.com	2012-06-04 23:57:57	archiveteam-mobileme-hero-2240x	archiveteam-mobileme-hero-2240x-22400.tar	web.me.com-khalil12.warc.gz	127066553
+patrickml	gallery.me.com	2012-06-05 01:37:38	archiveteam-mobileme-hero-2240x	archiveteam-mobileme-hero-2240x-22400.tar	gallery.me.com-patrickml.warc.gz	138191597
+patrickml	homepage.mac.com	2012-06-05 01:37:39	archiveteam-mobileme-hero-2240x	archiveteam-mobileme-hero-2240x-22400.tar	homepage.mac.com-patrickml.warc.gz	7869
+patrickml	public.me.com	2012-06-05 01:33:41	archiveteam-mobileme-hero-2240x	archiveteam-mobileme-hero-2240x-22400.tar	public.me.com-patrickml.warc.gz	3327136948
+patrickml	web.me.com	2012-06-05 00:08:39	archiveteam-mobileme-hero-2240x	archiveteam-mobileme-hero-2240x-22400.tar	web.me.com-patrickml.warc.gz	247413904

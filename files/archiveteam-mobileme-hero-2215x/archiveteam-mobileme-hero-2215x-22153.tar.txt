@@ -1,0 +1,16 @@
+adart1	gallery.me.com	2012-06-04 01:34:07	archiveteam-mobileme-hero-2215x	archiveteam-mobileme-hero-2215x-22153.tar	gallery.me.com-adart1.warc.gz	9180260
+adart1	homepage.mac.com	2012-06-04 01:34:08	archiveteam-mobileme-hero-2215x	archiveteam-mobileme-hero-2215x-22153.tar	homepage.mac.com-adart1.warc.gz	4898
+adart1	public.me.com	2012-06-04 01:33:14	archiveteam-mobileme-hero-2215x	archiveteam-mobileme-hero-2215x-22153.tar	public.me.com-adart1.warc.gz	2231537220
+adart1	web.me.com	2012-06-04 01:22:52	archiveteam-mobileme-hero-2215x	archiveteam-mobileme-hero-2215x-22153.tar	web.me.com-adart1.warc.gz	151611677
+cplgroup	gallery.me.com	2012-06-04 01:08:47	archiveteam-mobileme-hero-2215x	archiveteam-mobileme-hero-2215x-22153.tar	gallery.me.com-cplgroup.warc.gz	27240279
+cplgroup	homepage.mac.com	2012-06-04 01:08:47	archiveteam-mobileme-hero-2215x	archiveteam-mobileme-hero-2215x-22153.tar	homepage.mac.com-cplgroup.warc.gz	4915
+cplgroup	public.me.com	2012-06-04 01:02:32	archiveteam-mobileme-hero-2215x	archiveteam-mobileme-hero-2215x-22153.tar	public.me.com-cplgroup.warc.gz	2913588
+cplgroup	web.me.com	2012-06-04 01:02:21	archiveteam-mobileme-hero-2215x	archiveteam-mobileme-hero-2215x-22153.tar	web.me.com-cplgroup.warc.gz	3447290
+jcvandervelde	gallery.me.com	2012-06-04 04:04:48	archiveteam-mobileme-hero-2215x	archiveteam-mobileme-hero-2215x-22153.tar	gallery.me.com-jcvandervelde.warc.gz	6632147603
+jcvandervelde	homepage.mac.com	2012-06-04 04:04:49	archiveteam-mobileme-hero-2215x	archiveteam-mobileme-hero-2215x-22153.tar	homepage.mac.com-jcvandervelde.warc.gz	4938
+jcvandervelde	public.me.com	2012-06-04 02:00:09	archiveteam-mobileme-hero-2215x	archiveteam-mobileme-hero-2215x-22153.tar	public.me.com-jcvandervelde.warc.gz	8844746
+jcvandervelde	web.me.com	2012-06-04 01:59:40	archiveteam-mobileme-hero-2215x	archiveteam-mobileme-hero-2215x-22153.tar	web.me.com-jcvandervelde.warc.gz	553105622
+sjhart	gallery.me.com	2012-06-04 01:34:11	archiveteam-mobileme-hero-2215x	archiveteam-mobileme-hero-2215x-22153.tar	gallery.me.com-sjhart.warc.gz	4240
+sjhart	homepage.mac.com	2012-06-04 01:34:11	archiveteam-mobileme-hero-2215x	archiveteam-mobileme-hero-2215x-22153.tar	homepage.mac.com-sjhart.warc.gz	4903
+sjhart	public.me.com	2012-06-04 01:34:11	archiveteam-mobileme-hero-2215x	archiveteam-mobileme-hero-2215x-22153.tar	public.me.com-sjhart.warc.gz	1913
+sjhart	web.me.com	2012-06-04 01:34:10	archiveteam-mobileme-hero-2215x	archiveteam-mobileme-hero-2215x-22153.tar	web.me.com-sjhart.warc.gz	7402

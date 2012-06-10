@@ -1,0 +1,8 @@
+100048	gallery.me.com	2012-06-05 23:12:25	archiveteam-mobileme-hero-2277x	archiveteam-mobileme-hero-2277x-22770.tar	gallery.me.com-100048.warc.gz	8344
+100048	homepage.mac.com	2012-06-05 23:12:25	archiveteam-mobileme-hero-2277x	archiveteam-mobileme-hero-2277x-22770.tar	homepage.mac.com-100048.warc.gz	5141
+100048	public.me.com	2012-06-05 23:12:23	archiveteam-mobileme-hero-2277x	archiveteam-mobileme-hero-2277x-22770.tar	public.me.com-100048.warc.gz	1914
+100048	web.me.com	2012-06-05 23:12:22	archiveteam-mobileme-hero-2277x	archiveteam-mobileme-hero-2277x-22770.tar	web.me.com-100048.warc.gz	17709
+wfriess	gallery.me.com	2012-06-06 05:41:06	archiveteam-mobileme-hero-2277x	archiveteam-mobileme-hero-2277x-22770.tar	gallery.me.com-wfriess.warc.gz	12108069909
+wfriess	homepage.mac.com	2012-06-06 05:41:06	archiveteam-mobileme-hero-2277x	archiveteam-mobileme-hero-2277x-22770.tar	homepage.mac.com-wfriess.warc.gz	4900
+wfriess	public.me.com	2012-06-06 01:05:11	archiveteam-mobileme-hero-2277x	archiveteam-mobileme-hero-2277x-22770.tar	public.me.com-wfriess.warc.gz	62543704
+wfriess	web.me.com	2012-06-06 01:03:23	archiveteam-mobileme-hero-2277x	archiveteam-mobileme-hero-2277x-22770.tar	web.me.com-wfriess.warc.gz	2922015068

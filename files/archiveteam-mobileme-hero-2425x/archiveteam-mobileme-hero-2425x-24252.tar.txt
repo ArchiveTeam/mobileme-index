@@ -1,0 +1,12 @@
+gcropser	gallery.me.com	2012-06-09 13:19:27	archiveteam-mobileme-hero-2425x	archiveteam-mobileme-hero-2425x-24252.tar	gallery.me.com-gcropser.warc.gz	1055843317
+gcropser	homepage.mac.com	2012-06-09 13:19:28	archiveteam-mobileme-hero-2425x	archiveteam-mobileme-hero-2425x-24252.tar	homepage.mac.com-gcropser.warc.gz	4897
+gcropser	public.me.com	2012-06-09 13:09:32	archiveteam-mobileme-hero-2425x	archiveteam-mobileme-hero-2425x-24252.tar	public.me.com-gcropser.warc.gz	3848
+gcropser	web.me.com	2012-06-09 13:09:31	archiveteam-mobileme-hero-2425x	archiveteam-mobileme-hero-2425x-24252.tar	web.me.com-gcropser.warc.gz	6486631
+sebi01	gallery.me.com	2012-06-09 14:13:37	archiveteam-mobileme-hero-2425x	archiveteam-mobileme-hero-2425x-24252.tar	gallery.me.com-sebi01.warc.gz	4411446383
+sebi01	homepage.mac.com	2012-06-09 14:13:38	archiveteam-mobileme-hero-2425x	archiveteam-mobileme-hero-2425x-24252.tar	homepage.mac.com-sebi01.warc.gz	4903
+sebi01	public.me.com	2012-06-09 13:23:41	archiveteam-mobileme-hero-2425x	archiveteam-mobileme-hero-2425x-24252.tar	public.me.com-sebi01.warc.gz	1912
+sebi01	web.me.com	2012-06-09 13:23:41	archiveteam-mobileme-hero-2425x	archiveteam-mobileme-hero-2425x-24252.tar	web.me.com-sebi01.warc.gz	11521242
+smberes1	gallery.me.com	2012-06-09 13:07:17	archiveteam-mobileme-hero-2425x	archiveteam-mobileme-hero-2425x-24252.tar	gallery.me.com-smberes1.warc.gz	4244
+smberes1	homepage.mac.com	2012-06-09 13:07:20	archiveteam-mobileme-hero-2425x	archiveteam-mobileme-hero-2425x-24252.tar	homepage.mac.com-smberes1.warc.gz	121782
+smberes1	public.me.com	2012-06-09 13:07:17	archiveteam-mobileme-hero-2425x	archiveteam-mobileme-hero-2425x-24252.tar	public.me.com-smberes1.warc.gz	1920
+smberes1	web.me.com	2012-06-09 13:07:16	archiveteam-mobileme-hero-2425x	archiveteam-mobileme-hero-2425x-24252.tar	web.me.com-smberes1.warc.gz	755162

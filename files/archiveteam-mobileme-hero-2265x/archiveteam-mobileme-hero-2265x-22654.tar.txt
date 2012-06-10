@@ -1,0 +1,12 @@
+CAESAR5	gallery.me.com	2012-06-05 20:12:20	archiveteam-mobileme-hero-2265x	archiveteam-mobileme-hero-2265x-22654.tar	gallery.me.com-CAESAR5.warc.gz	4264
+CAESAR5	homepage.mac.com	2012-06-05 20:12:21	archiveteam-mobileme-hero-2265x	archiveteam-mobileme-hero-2265x-22654.tar	homepage.mac.com-CAESAR5.warc.gz	4912
+CAESAR5	public.me.com	2012-06-05 20:12:20	archiveteam-mobileme-hero-2265x	archiveteam-mobileme-hero-2265x-22654.tar	public.me.com-CAESAR5.warc.gz	1912
+CAESAR5	web.me.com	2012-06-05 20:12:20	archiveteam-mobileme-hero-2265x	archiveteam-mobileme-hero-2265x-22654.tar	web.me.com-CAESAR5.warc.gz	7408
+c.putz	gallery.me.com	2012-06-05 22:12:20	archiveteam-mobileme-hero-2265x	archiveteam-mobileme-hero-2265x-22654.tar	gallery.me.com-c.putz.warc.gz	6907422473
+c.putz	homepage.mac.com	2012-06-05 22:12:21	archiveteam-mobileme-hero-2265x	archiveteam-mobileme-hero-2265x-22654.tar	homepage.mac.com-c.putz.warc.gz	4880
+c.putz	public.me.com	2012-06-05 20:18:26	archiveteam-mobileme-hero-2265x	archiveteam-mobileme-hero-2265x-22654.tar	public.me.com-c.putz.warc.gz	92810973
+c.putz	web.me.com	2012-06-05 20:17:04	archiveteam-mobileme-hero-2265x	archiveteam-mobileme-hero-2265x-22654.tar	web.me.com-c.putz.warc.gz	19172568
+em.i.tee	gallery.me.com	2012-06-05 20:12:18	archiveteam-mobileme-hero-2265x	archiveteam-mobileme-hero-2265x-22654.tar	gallery.me.com-em.i.tee.warc.gz	12305
+em.i.tee	homepage.mac.com	2012-06-05 20:12:18	archiveteam-mobileme-hero-2265x	archiveteam-mobileme-hero-2265x-22654.tar	homepage.mac.com-em.i.tee.warc.gz	7141
+em.i.tee	public.me.com	2012-06-05 20:12:17	archiveteam-mobileme-hero-2265x	archiveteam-mobileme-hero-2265x-22654.tar	public.me.com-em.i.tee.warc.gz	1915
+em.i.tee	web.me.com	2012-06-05 20:12:17	archiveteam-mobileme-hero-2265x	archiveteam-mobileme-hero-2265x-22654.tar	web.me.com-em.i.tee.warc.gz	22450

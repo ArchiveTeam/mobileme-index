@@ -1,0 +1,16 @@
+ant.darlow	gallery.me.com	2012-06-03 16:04:35	archiveteam-mobileme-hero-2201x	archiveteam-mobileme-hero-2201x-22015.tar	gallery.me.com-ant.darlow.warc.gz	3899114584
+ant.darlow	homepage.mac.com	2012-06-03 16:04:35	archiveteam-mobileme-hero-2201x	archiveteam-mobileme-hero-2201x-22015.tar	homepage.mac.com-ant.darlow.warc.gz	4929
+ant.darlow	public.me.com	2012-06-03 15:18:01	archiveteam-mobileme-hero-2201x	archiveteam-mobileme-hero-2201x-22015.tar	public.me.com-ant.darlow.warc.gz	1916
+ant.darlow	web.me.com	2012-06-03 15:18:01	archiveteam-mobileme-hero-2201x	archiveteam-mobileme-hero-2201x-22015.tar	web.me.com-ant.darlow.warc.gz	182618114
+danaseiber	gallery.me.com	2012-06-03 16:21:31	archiveteam-mobileme-hero-2201x	archiveteam-mobileme-hero-2201x-22015.tar	gallery.me.com-danaseiber.warc.gz	178884422
+danaseiber	homepage.mac.com	2012-06-03 16:21:31	archiveteam-mobileme-hero-2201x	archiveteam-mobileme-hero-2201x-22015.tar	homepage.mac.com-danaseiber.warc.gz	4922
+danaseiber	public.me.com	2012-06-03 16:15:05	archiveteam-mobileme-hero-2201x	archiveteam-mobileme-hero-2201x-22015.tar	public.me.com-danaseiber.warc.gz	1925
+danaseiber	web.me.com	2012-06-03 16:15:04	archiveteam-mobileme-hero-2201x	archiveteam-mobileme-hero-2201x-22015.tar	web.me.com-danaseiber.warc.gz	53243853
+nancywildermuth	gallery.me.com	2012-06-03 15:06:38	archiveteam-mobileme-hero-2201x	archiveteam-mobileme-hero-2201x-22015.tar	gallery.me.com-nancywildermuth.warc.gz	5060
+nancywildermuth	homepage.mac.com	2012-06-03 15:06:39	archiveteam-mobileme-hero-2201x	archiveteam-mobileme-hero-2201x-22015.tar	homepage.mac.com-nancywildermuth.warc.gz	4931
+nancywildermuth	public.me.com	2012-06-03 15:06:38	archiveteam-mobileme-hero-2201x	archiveteam-mobileme-hero-2201x-22015.tar	public.me.com-nancywildermuth.warc.gz	1928
+nancywildermuth	web.me.com	2012-06-03 15:06:35	archiveteam-mobileme-hero-2201x	archiveteam-mobileme-hero-2201x-22015.tar	web.me.com-nancywildermuth.warc.gz	12156026
+ricardolara	gallery.me.com	2012-06-03 16:06:39	archiveteam-mobileme-hero-2201x	archiveteam-mobileme-hero-2201x-22015.tar	gallery.me.com-ricardolara.warc.gz	5677
+ricardolara	homepage.mac.com	2012-06-03 16:06:39	archiveteam-mobileme-hero-2201x	archiveteam-mobileme-hero-2201x-22015.tar	homepage.mac.com-ricardolara.warc.gz	4924
+ricardolara	public.me.com	2012-06-03 16:06:38	archiveteam-mobileme-hero-2201x	archiveteam-mobileme-hero-2201x-22015.tar	public.me.com-ricardolara.warc.gz	1917
+ricardolara	web.me.com	2012-06-03 16:06:38	archiveteam-mobileme-hero-2201x	archiveteam-mobileme-hero-2201x-22015.tar	web.me.com-ricardolara.warc.gz	5341656

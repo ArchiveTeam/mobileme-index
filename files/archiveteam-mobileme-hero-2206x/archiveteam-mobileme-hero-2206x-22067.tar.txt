@@ -1,0 +1,16 @@
+berlab	gallery.me.com	2012-06-03 20:01:19	archiveteam-mobileme-hero-2206x	archiveteam-mobileme-hero-2206x-22067.tar	gallery.me.com-berlab.warc.gz	20478722
+berlab	homepage.mac.com	2012-06-03 20:01:24	archiveteam-mobileme-hero-2206x	archiveteam-mobileme-hero-2206x-22067.tar	homepage.mac.com-berlab.warc.gz	4888
+berlab	public.me.com	2012-06-03 20:00:13	archiveteam-mobileme-hero-2206x	archiveteam-mobileme-hero-2206x-22067.tar	public.me.com-berlab.warc.gz	16805
+berlab	web.me.com	2012-06-03 20:00:10	archiveteam-mobileme-hero-2206x	archiveteam-mobileme-hero-2206x-22067.tar	web.me.com-berlab.warc.gz	418496
+drashly	gallery.me.com	2012-06-03 20:28:23	archiveteam-mobileme-hero-2206x	archiveteam-mobileme-hero-2206x-22067.tar	gallery.me.com-drashly.warc.gz	51146133
+drashly	homepage.mac.com	2012-06-03 20:28:23	archiveteam-mobileme-hero-2206x	archiveteam-mobileme-hero-2206x-22067.tar	homepage.mac.com-drashly.warc.gz	4912
+drashly	public.me.com	2012-06-03 20:26:28	archiveteam-mobileme-hero-2206x	archiveteam-mobileme-hero-2206x-22067.tar	public.me.com-drashly.warc.gz	1913
+drashly	web.me.com	2012-06-03 20:26:08	archiveteam-mobileme-hero-2206x	archiveteam-mobileme-hero-2206x-22067.tar	web.me.com-drashly.warc.gz	692503828
+joyb8	gallery.me.com	2012-06-03 19:59:53	archiveteam-mobileme-hero-2206x	archiveteam-mobileme-hero-2206x-22067.tar	gallery.me.com-joyb8.warc.gz	3531086496
+joyb8	homepage.mac.com	2012-06-03 19:59:54	archiveteam-mobileme-hero-2206x	archiveteam-mobileme-hero-2206x-22067.tar	homepage.mac.com-joyb8.warc.gz	4887
+joyb8	public.me.com	2012-06-03 19:28:37	archiveteam-mobileme-hero-2206x	archiveteam-mobileme-hero-2206x-22067.tar	public.me.com-joyb8.warc.gz	1913
+joyb8	web.me.com	2012-06-03 19:28:37	archiveteam-mobileme-hero-2206x	archiveteam-mobileme-hero-2206x-22067.tar	web.me.com-joyb8.warc.gz	52111805
+y_sugamoto	gallery.me.com	2012-06-03 19:23:20	archiveteam-mobileme-hero-2206x	archiveteam-mobileme-hero-2206x-22067.tar	gallery.me.com-y_sugamoto.warc.gz	449958
+y_sugamoto	homepage.mac.com	2012-06-03 19:23:20	archiveteam-mobileme-hero-2206x	archiveteam-mobileme-hero-2206x-22067.tar	homepage.mac.com-y_sugamoto.warc.gz	4934
+y_sugamoto	public.me.com	2012-06-03 19:23:17	archiveteam-mobileme-hero-2206x	archiveteam-mobileme-hero-2206x-22067.tar	public.me.com-y_sugamoto.warc.gz	202979990
+y_sugamoto	web.me.com	2012-06-03 19:19:50	archiveteam-mobileme-hero-2206x	archiveteam-mobileme-hero-2206x-22067.tar	web.me.com-y_sugamoto.warc.gz	578897

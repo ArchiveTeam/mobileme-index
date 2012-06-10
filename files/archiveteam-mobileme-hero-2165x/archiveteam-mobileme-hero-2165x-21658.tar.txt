@@ -1,0 +1,12 @@
+aco1	gallery.me.com	2012-06-02 09:20:25	archiveteam-mobileme-hero-2165x	archiveteam-mobileme-hero-2165x-21658.tar	gallery.me.com-aco1.warc.gz	6936456
+aco1	homepage.mac.com	2012-06-02 09:20:27	archiveteam-mobileme-hero-2165x	archiveteam-mobileme-hero-2165x-21658.tar	homepage.mac.com-aco1.warc.gz	41155
+aco1	public.me.com	2012-06-02 09:20:16	archiveteam-mobileme-hero-2165x	archiveteam-mobileme-hero-2165x-21658.tar	public.me.com-aco1.warc.gz	3383
+aco1	web.me.com	2012-06-02 09:20:15	archiveteam-mobileme-hero-2165x	archiveteam-mobileme-hero-2165x-21658.tar	web.me.com-aco1.warc.gz	89469138
+gagasue	gallery.me.com	2012-06-02 09:38:09	archiveteam-mobileme-hero-2165x	archiveteam-mobileme-hero-2165x-21658.tar	gallery.me.com-gagasue.warc.gz	701782715
+gagasue	homepage.mac.com	2012-06-02 09:38:19	archiveteam-mobileme-hero-2165x	archiveteam-mobileme-hero-2165x-21658.tar	homepage.mac.com-gagasue.warc.gz	965445
+gagasue	public.me.com	2012-06-02 09:25:47	archiveteam-mobileme-hero-2165x	archiveteam-mobileme-hero-2165x-21658.tar	public.me.com-gagasue.warc.gz	8865193
+gagasue	web.me.com	2012-06-02 09:25:43	archiveteam-mobileme-hero-2165x	archiveteam-mobileme-hero-2165x-21658.tar	web.me.com-gagasue.warc.gz	26353747
+wharmon1	gallery.me.com	2012-06-02 11:02:39	archiveteam-mobileme-hero-2165x	archiveteam-mobileme-hero-2165x-21658.tar	gallery.me.com-wharmon1.warc.gz	2990661701
+wharmon1	homepage.mac.com	2012-06-02 11:02:39	archiveteam-mobileme-hero-2165x	archiveteam-mobileme-hero-2165x-21658.tar	homepage.mac.com-wharmon1.warc.gz	4914
+wharmon1	public.me.com	2012-06-02 10:21:35	archiveteam-mobileme-hero-2165x	archiveteam-mobileme-hero-2165x-21658.tar	public.me.com-wharmon1.warc.gz	1916
+wharmon1	web.me.com	2012-06-02 10:21:34	archiveteam-mobileme-hero-2165x	archiveteam-mobileme-hero-2165x-21658.tar	web.me.com-wharmon1.warc.gz	618851385

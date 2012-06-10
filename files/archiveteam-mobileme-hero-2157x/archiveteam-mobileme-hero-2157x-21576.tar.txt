@@ -1,0 +1,8 @@
+ace.1	gallery.me.com	2012-06-02 04:32:22	archiveteam-mobileme-hero-2157x	archiveteam-mobileme-hero-2157x-21576.tar	gallery.me.com-ace.1.warc.gz	4230
+ace.1	homepage.mac.com	2012-06-02 04:32:26	archiveteam-mobileme-hero-2157x	archiveteam-mobileme-hero-2157x-21576.tar	homepage.mac.com-ace.1.warc.gz	88662
+ace.1	public.me.com	2012-06-02 04:32:21	archiveteam-mobileme-hero-2157x	archiveteam-mobileme-hero-2157x-21576.tar	public.me.com-ace.1.warc.gz	1910
+ace.1	web.me.com	2012-06-02 04:32:21	archiveteam-mobileme-hero-2157x	archiveteam-mobileme-hero-2157x-21576.tar	web.me.com-ace.1.warc.gz	2231482
+coxfamily1	gallery.me.com	2012-06-02 06:25:09	archiveteam-mobileme-hero-2157x	archiveteam-mobileme-hero-2157x-21576.tar	gallery.me.com-coxfamily1.warc.gz	2656610081
+coxfamily1	homepage.mac.com	2012-06-02 06:25:11	archiveteam-mobileme-hero-2157x	archiveteam-mobileme-hero-2157x-21576.tar	homepage.mac.com-coxfamily1.warc.gz	83735
+coxfamily1	public.me.com	2012-06-02 05:58:56	archiveteam-mobileme-hero-2157x	archiveteam-mobileme-hero-2157x-21576.tar	public.me.com-coxfamily1.warc.gz	5477428579
+coxfamily1	web.me.com	2012-06-02 04:36:21	archiveteam-mobileme-hero-2157x	archiveteam-mobileme-hero-2157x-21576.tar	web.me.com-coxfamily1.warc.gz	137377202

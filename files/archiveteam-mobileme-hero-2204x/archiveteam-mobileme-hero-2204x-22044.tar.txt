@@ -1,0 +1,16 @@
+acod1	gallery.me.com	2012-06-03 15:00:22	archiveteam-mobileme-hero-2204x	archiveteam-mobileme-hero-2204x-22044.tar	gallery.me.com-acod1.warc.gz	8333
+acod1	homepage.mac.com	2012-06-03 15:00:22	archiveteam-mobileme-hero-2204x	archiveteam-mobileme-hero-2204x-22044.tar	homepage.mac.com-acod1.warc.gz	5137
+acod1	public.me.com	2012-06-03 15:00:21	archiveteam-mobileme-hero-2204x	archiveteam-mobileme-hero-2204x-22044.tar	public.me.com-acod1.warc.gz	1907
+acod1	web.me.com	2012-06-03 15:00:21	archiveteam-mobileme-hero-2204x	archiveteam-mobileme-hero-2204x-22044.tar	web.me.com-acod1.warc.gz	17680
+brdaykin	gallery.me.com	2012-06-03 16:46:07	archiveteam-mobileme-hero-2204x	archiveteam-mobileme-hero-2204x-22044.tar	gallery.me.com-brdaykin.warc.gz	65969954
+brdaykin	homepage.mac.com	2012-06-03 16:46:07	archiveteam-mobileme-hero-2204x	archiveteam-mobileme-hero-2204x-22044.tar	homepage.mac.com-brdaykin.warc.gz	4921
+brdaykin	public.me.com	2012-06-03 16:42:16	archiveteam-mobileme-hero-2204x	archiveteam-mobileme-hero-2204x-22044.tar	public.me.com-brdaykin.warc.gz	3386
+brdaykin	web.me.com	2012-06-03 16:42:08	archiveteam-mobileme-hero-2204x	archiveteam-mobileme-hero-2204x-22044.tar	web.me.com-brdaykin.warc.gz	314515022
+gilesreaves	gallery.me.com	2012-06-03 18:42:36	archiveteam-mobileme-hero-2204x	archiveteam-mobileme-hero-2204x-22044.tar	gallery.me.com-gilesreaves.warc.gz	772075511
+gilesreaves	homepage.mac.com	2012-06-03 18:42:37	archiveteam-mobileme-hero-2204x	archiveteam-mobileme-hero-2204x-22044.tar	homepage.mac.com-gilesreaves.warc.gz	7855
+gilesreaves	public.me.com	2012-06-03 18:28:58	archiveteam-mobileme-hero-2204x	archiveteam-mobileme-hero-2204x-22044.tar	public.me.com-gilesreaves.warc.gz	8076848458
+gilesreaves	web.me.com	2012-06-03 16:53:27	archiveteam-mobileme-hero-2204x	archiveteam-mobileme-hero-2204x-22044.tar	web.me.com-gilesreaves.warc.gz	136752310
+jordanschroeder	gallery.me.com	2012-06-03 15:53:35	archiveteam-mobileme-hero-2204x	archiveteam-mobileme-hero-2204x-22044.tar	gallery.me.com-jordanschroeder.warc.gz	5065
+jordanschroeder	homepage.mac.com	2012-06-03 15:53:35	archiveteam-mobileme-hero-2204x	archiveteam-mobileme-hero-2204x-22044.tar	homepage.mac.com-jordanschroeder.warc.gz	4946
+jordanschroeder	public.me.com	2012-06-03 15:53:31	archiveteam-mobileme-hero-2204x	archiveteam-mobileme-hero-2204x-22044.tar	public.me.com-jordanschroeder.warc.gz	1932
+jordanschroeder	web.me.com	2012-06-03 15:53:28	archiveteam-mobileme-hero-2204x	archiveteam-mobileme-hero-2204x-22044.tar	web.me.com-jordanschroeder.warc.gz	542286033

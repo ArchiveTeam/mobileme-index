@@ -1,0 +1,16 @@
+charcot	gallery.me.com	2012-06-03 23:12:49	archiveteam-mobileme-hero-2211x	archiveteam-mobileme-hero-2211x-22110.tar	gallery.me.com-charcot.warc.gz	526979
+charcot	homepage.mac.com	2012-06-03 23:12:58	archiveteam-mobileme-hero-2211x	archiveteam-mobileme-hero-2211x-22110.tar	homepage.mac.com-charcot.warc.gz	155172
+charcot	public.me.com	2012-06-03 23:12:44	archiveteam-mobileme-hero-2211x	archiveteam-mobileme-hero-2211x-22110.tar	public.me.com-charcot.warc.gz	1351172731
+charcot	web.me.com	2012-06-03 23:01:50	archiveteam-mobileme-hero-2211x	archiveteam-mobileme-hero-2211x-22110.tar	web.me.com-charcot.warc.gz	95825711
+katsudonkitsune	gallery.me.com	2012-06-03 22:49:57	archiveteam-mobileme-hero-2211x	archiveteam-mobileme-hero-2211x-22110.tar	gallery.me.com-katsudonkitsune.warc.gz	11392361
+katsudonkitsune	homepage.mac.com	2012-06-03 22:49:57	archiveteam-mobileme-hero-2211x	archiveteam-mobileme-hero-2211x-22110.tar	homepage.mac.com-katsudonkitsune.warc.gz	4927
+katsudonkitsune	public.me.com	2012-06-03 22:49:04	archiveteam-mobileme-hero-2211x	archiveteam-mobileme-hero-2211x-22110.tar	public.me.com-katsudonkitsune.warc.gz	39288852
+katsudonkitsune	web.me.com	2012-06-03 22:48:21	archiveteam-mobileme-hero-2211x	archiveteam-mobileme-hero-2211x-22110.tar	web.me.com-katsudonkitsune.warc.gz	198929085
+mrsruth	gallery.me.com	2012-06-04 00:28:30	archiveteam-mobileme-hero-2211x	archiveteam-mobileme-hero-2211x-22110.tar	gallery.me.com-mrsruth.warc.gz	428349947
+mrsruth	homepage.mac.com	2012-06-04 00:28:31	archiveteam-mobileme-hero-2211x	archiveteam-mobileme-hero-2211x-22110.tar	homepage.mac.com-mrsruth.warc.gz	4906
+mrsruth	public.me.com	2012-06-04 00:14:54	archiveteam-mobileme-hero-2211x	archiveteam-mobileme-hero-2211x-22110.tar	public.me.com-mrsruth.warc.gz	131957496
+mrsruth	web.me.com	2012-06-04 00:09:53	archiveteam-mobileme-hero-2211x	archiveteam-mobileme-hero-2211x-22110.tar	web.me.com-mrsruth.warc.gz	43723738
+wanlass	gallery.me.com	2012-06-04 00:03:54	archiveteam-mobileme-hero-2211x	archiveteam-mobileme-hero-2211x-22110.tar	gallery.me.com-wanlass.warc.gz	4237
+wanlass	homepage.mac.com	2012-06-04 00:03:54	archiveteam-mobileme-hero-2211x	archiveteam-mobileme-hero-2211x-22110.tar	homepage.mac.com-wanlass.warc.gz	4914
+wanlass	public.me.com	2012-06-04 00:03:53	archiveteam-mobileme-hero-2211x	archiveteam-mobileme-hero-2211x-22110.tar	public.me.com-wanlass.warc.gz	4315
+wanlass	web.me.com	2012-06-04 00:03:51	archiveteam-mobileme-hero-2211x	archiveteam-mobileme-hero-2211x-22110.tar	web.me.com-wanlass.warc.gz	2213509917

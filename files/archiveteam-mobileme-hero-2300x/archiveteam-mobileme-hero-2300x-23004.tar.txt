@@ -1,0 +1,12 @@
+estres	gallery.me.com	2012-06-06 22:29:36	archiveteam-mobileme-hero-2300x	archiveteam-mobileme-hero-2300x-23004.tar	gallery.me.com-estres.warc.gz	5478
+estres	homepage.mac.com	2012-06-06 22:29:36	archiveteam-mobileme-hero-2300x	archiveteam-mobileme-hero-2300x-23004.tar	homepage.mac.com-estres.warc.gz	4900
+estres	public.me.com	2012-06-06 22:29:33	archiveteam-mobileme-hero-2300x	archiveteam-mobileme-hero-2300x-23004.tar	public.me.com-estres.warc.gz	9627952464
+estres	web.me.com	2012-06-06 19:24:17	archiveteam-mobileme-hero-2300x	archiveteam-mobileme-hero-2300x-23004.tar	web.me.com-estres.warc.gz	33094
+mccarthy.family	gallery.me.com	2012-06-06 19:24:10	archiveteam-mobileme-hero-2300x	archiveteam-mobileme-hero-2300x-23004.tar	gallery.me.com-mccarthy.family.warc.gz	1780557052
+mccarthy.family	homepage.mac.com	2012-06-06 19:24:10	archiveteam-mobileme-hero-2300x	archiveteam-mobileme-hero-2300x-23004.tar	homepage.mac.com-mccarthy.family.warc.gz	4937
+mccarthy.family	public.me.com	2012-06-06 18:13:22	archiveteam-mobileme-hero-2300x	archiveteam-mobileme-hero-2300x-23004.tar	public.me.com-mccarthy.family.warc.gz	1930
+mccarthy.family	web.me.com	2012-06-06 18:13:22	archiveteam-mobileme-hero-2300x	archiveteam-mobileme-hero-2300x-23004.tar	web.me.com-mccarthy.family.warc.gz	19003497
+smkoga	gallery.me.com	2012-06-06 18:06:46	archiveteam-mobileme-hero-2300x	archiveteam-mobileme-hero-2300x-23004.tar	gallery.me.com-smkoga.warc.gz	4240
+smkoga	homepage.mac.com	2012-06-06 18:06:47	archiveteam-mobileme-hero-2300x	archiveteam-mobileme-hero-2300x-23004.tar	homepage.mac.com-smkoga.warc.gz	4908
+smkoga	public.me.com	2012-06-06 18:06:45	archiveteam-mobileme-hero-2300x	archiveteam-mobileme-hero-2300x-23004.tar	public.me.com-smkoga.warc.gz	1914
+smkoga	web.me.com	2012-06-06 18:06:45	archiveteam-mobileme-hero-2300x	archiveteam-mobileme-hero-2300x-23004.tar	web.me.com-smkoga.warc.gz	853676

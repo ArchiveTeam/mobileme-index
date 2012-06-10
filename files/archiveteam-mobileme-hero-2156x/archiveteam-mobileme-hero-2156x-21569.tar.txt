@@ -1,0 +1,12 @@
+histogram	gallery.me.com	2012-06-02 04:57:07	archiveteam-mobileme-hero-2156x	archiveteam-mobileme-hero-2156x-21569.tar	gallery.me.com-histogram.warc.gz	12322
+histogram	homepage.mac.com	2012-06-02 04:57:08	archiveteam-mobileme-hero-2156x	archiveteam-mobileme-hero-2156x-21569.tar	homepage.mac.com-histogram.warc.gz	7150
+histogram	public.me.com	2012-06-02 04:57:07	archiveteam-mobileme-hero-2156x	archiveteam-mobileme-hero-2156x-21569.tar	public.me.com-histogram.warc.gz	1917
+histogram	web.me.com	2012-06-02 04:57:07	archiveteam-mobileme-hero-2156x	archiveteam-mobileme-hero-2156x-21569.tar	web.me.com-histogram.warc.gz	22449
+senyard	gallery.me.com	2012-06-02 04:57:04	archiveteam-mobileme-hero-2156x	archiveteam-mobileme-hero-2156x-21569.tar	gallery.me.com-senyard.warc.gz	5342
+senyard	homepage.mac.com	2012-06-02 04:57:04	archiveteam-mobileme-hero-2156x	archiveteam-mobileme-hero-2156x-21569.tar	homepage.mac.com-senyard.warc.gz	4912
+senyard	public.me.com	2012-06-02 04:57:03	archiveteam-mobileme-hero-2156x	archiveteam-mobileme-hero-2156x-21569.tar	public.me.com-senyard.warc.gz	22308468
+senyard	web.me.com	2012-06-02 04:56:45	archiveteam-mobileme-hero-2156x	archiveteam-mobileme-hero-2156x-21569.tar	web.me.com-senyard.warc.gz	662899456
+simon.murray	gallery.me.com	2012-06-02 06:13:09	archiveteam-mobileme-hero-2156x	archiveteam-mobileme-hero-2156x-21569.tar	gallery.me.com-simon.murray.warc.gz	3509360379
+simon.murray	homepage.mac.com	2012-06-02 06:13:10	archiveteam-mobileme-hero-2156x	archiveteam-mobileme-hero-2156x-21569.tar	homepage.mac.com-simon.murray.warc.gz	4934
+simon.murray	public.me.com	2012-06-02 05:28:41	archiveteam-mobileme-hero-2156x	archiveteam-mobileme-hero-2156x-21569.tar	public.me.com-simon.murray.warc.gz	1930
+simon.murray	web.me.com	2012-06-02 05:28:40	archiveteam-mobileme-hero-2156x	archiveteam-mobileme-hero-2156x-21569.tar	web.me.com-simon.murray.warc.gz	199756085
