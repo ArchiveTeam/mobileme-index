@@ -1,0 +1,8 @@
+alongo	gallery.me.com	2012-06-10 13:07:43	archiveteam-mobileme-hero-2463x	archiveteam-mobileme-hero-2463x-24633.tar	gallery.me.com-alongo.warc.gz	5673869070
+alongo	homepage.mac.com	2012-06-10 13:08:40	archiveteam-mobileme-hero-2463x	archiveteam-mobileme-hero-2463x-24633.tar	homepage.mac.com-alongo.warc.gz	969206
+alongo	public.me.com	2012-06-10 11:43:48	archiveteam-mobileme-hero-2463x	archiveteam-mobileme-hero-2463x-24633.tar	public.me.com-alongo.warc.gz	657958522
+alongo	web.me.com	2012-06-10 11:32:54	archiveteam-mobileme-hero-2463x	archiveteam-mobileme-hero-2463x-24633.tar	web.me.com-alongo.warc.gz	199612246
+dummyplug	gallery.me.com	2012-06-10 10:26:20	archiveteam-mobileme-hero-2463x	archiveteam-mobileme-hero-2463x-24633.tar	gallery.me.com-dummyplug.warc.gz	75820457
+dummyplug	homepage.mac.com	2012-06-10 10:26:20	archiveteam-mobileme-hero-2463x	archiveteam-mobileme-hero-2463x-24633.tar	homepage.mac.com-dummyplug.warc.gz	4922
+dummyplug	public.me.com	2012-06-10 10:24:24	archiveteam-mobileme-hero-2463x	archiveteam-mobileme-hero-2463x-24633.tar	public.me.com-dummyplug.warc.gz	3416
+dummyplug	web.me.com	2012-06-10 10:24:23	archiveteam-mobileme-hero-2463x	archiveteam-mobileme-hero-2463x-24633.tar	web.me.com-dummyplug.warc.gz	62713669

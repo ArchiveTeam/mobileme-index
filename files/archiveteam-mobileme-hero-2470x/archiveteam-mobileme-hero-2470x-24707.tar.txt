@@ -1,0 +1,8 @@
+mylano	gallery.me.com	2012-06-10 19:54:54	archiveteam-mobileme-hero-2470x	archiveteam-mobileme-hero-2470x-24707.tar	gallery.me.com-mylano.warc.gz	11104291
+mylano	homepage.mac.com	2012-06-10 19:54:55	archiveteam-mobileme-hero-2470x	archiveteam-mobileme-hero-2470x-24707.tar	homepage.mac.com-mylano.warc.gz	4890
+mylano	public.me.com	2012-06-10 19:54:12	archiveteam-mobileme-hero-2470x	archiveteam-mobileme-hero-2470x-24707.tar	public.me.com-mylano.warc.gz	1913
+mylano	web.me.com	2012-06-10 19:54:11	archiveteam-mobileme-hero-2470x	archiveteam-mobileme-hero-2470x-24707.tar	web.me.com-mylano.warc.gz	39480490
+pts	gallery.me.com	2012-06-10 20:48:02	archiveteam-mobileme-hero-2470x	archiveteam-mobileme-hero-2470x-24707.tar	gallery.me.com-pts.warc.gz	4230668553
+pts	homepage.mac.com	2012-06-10 20:48:03	archiveteam-mobileme-hero-2470x	archiveteam-mobileme-hero-2470x-24707.tar	homepage.mac.com-pts.warc.gz	4887
+pts	public.me.com	2012-06-10 20:01:16	archiveteam-mobileme-hero-2470x	archiveteam-mobileme-hero-2470x-24707.tar	public.me.com-pts.warc.gz	3548
+pts	web.me.com	2012-06-10 20:01:15	archiveteam-mobileme-hero-2470x	archiveteam-mobileme-hero-2470x-24707.tar	web.me.com-pts.warc.gz	27412239

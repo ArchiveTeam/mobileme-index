@@ -1,0 +1,12 @@
+bosign	gallery.me.com	2012-06-18 04:52:48	archiveteam-mobileme-hero-2518x	archiveteam-mobileme-hero-2518x-25189.tar	gallery.me.com-bosign.warc.gz	32974095
+bosign	homepage.mac.com	2012-06-18 04:52:50	archiveteam-mobileme-hero-2518x	archiveteam-mobileme-hero-2518x-25189.tar	homepage.mac.com-bosign.warc.gz	36944
+bosign	public.me.com	2012-06-18 04:51:52	archiveteam-mobileme-hero-2518x	archiveteam-mobileme-hero-2518x-25189.tar	public.me.com-bosign.warc.gz	357155281
+bosign	web.me.com	2012-06-18 04:42:50	archiveteam-mobileme-hero-2518x	archiveteam-mobileme-hero-2518x-25189.tar	web.me.com-bosign.warc.gz	117849603
+denispelletier	gallery.me.com	2012-06-18 04:32:50	archiveteam-mobileme-hero-2518x	archiveteam-mobileme-hero-2518x-25189.tar	gallery.me.com-denispelletier.warc.gz	3485225268
+denispelletier	homepage.mac.com	2012-06-18 04:32:51	archiveteam-mobileme-hero-2518x	archiveteam-mobileme-hero-2518x-25189.tar	homepage.mac.com-denispelletier.warc.gz	4935
+denispelletier	public.me.com	2012-06-18 03:14:10	archiveteam-mobileme-hero-2518x	archiveteam-mobileme-hero-2518x-25189.tar	public.me.com-denispelletier.warc.gz	1927
+denispelletier	web.me.com	2012-06-18 03:14:09	archiveteam-mobileme-hero-2518x	archiveteam-mobileme-hero-2518x-25189.tar	web.me.com-denispelletier.warc.gz	202693561
+udat	gallery.me.com	2012-06-18 02:59:51	archiveteam-mobileme-hero-2518x	archiveteam-mobileme-hero-2518x-25189.tar	gallery.me.com-udat.warc.gz	272091319
+udat	homepage.mac.com	2012-06-18 02:59:51	archiveteam-mobileme-hero-2518x	archiveteam-mobileme-hero-2518x-25189.tar	homepage.mac.com-udat.warc.gz	4880
+udat	public.me.com	2012-06-18 02:52:23	archiveteam-mobileme-hero-2518x	archiveteam-mobileme-hero-2518x-25189.tar	public.me.com-udat.warc.gz	158005443
+udat	web.me.com	2012-06-18 02:48:07	archiveteam-mobileme-hero-2518x	archiveteam-mobileme-hero-2518x-25189.tar	web.me.com-udat.warc.gz	119047053

@@ -1,0 +1,12 @@
+mach	gallery.me.com	2012-06-11 12:35:10	archiveteam-mobileme-hero-2483x	archiveteam-mobileme-hero-2483x-24833.tar	gallery.me.com-mach.warc.gz	1365905425
+mach	homepage.mac.com	2012-06-11 12:35:31	archiveteam-mobileme-hero-2483x	archiveteam-mobileme-hero-2483x-24833.tar	homepage.mac.com-mach.warc.gz	1318092
+mach	public.me.com	2012-06-11 12:24:01	archiveteam-mobileme-hero-2483x	archiveteam-mobileme-hero-2483x-24833.tar	public.me.com-mach.warc.gz	268515207
+mach	web.me.com	2012-06-11 12:14:10	archiveteam-mobileme-hero-2483x	archiveteam-mobileme-hero-2483x-24833.tar	web.me.com-mach.warc.gz	401992550
+sebastien.gillard	gallery.me.com	2012-06-11 13:36:21	archiveteam-mobileme-hero-2483x	archiveteam-mobileme-hero-2483x-24833.tar	gallery.me.com-sebastien.gillard.warc.gz	3404323044
+sebastien.gillard	homepage.mac.com	2012-06-11 13:36:22	archiveteam-mobileme-hero-2483x	archiveteam-mobileme-hero-2483x-24833.tar	homepage.mac.com-sebastien.gillard.warc.gz	4943
+sebastien.gillard	public.me.com	2012-06-11 12:40:48	archiveteam-mobileme-hero-2483x	archiveteam-mobileme-hero-2483x-24833.tar	public.me.com-sebastien.gillard.warc.gz	3390
+sebastien.gillard	web.me.com	2012-06-11 12:40:47	archiveteam-mobileme-hero-2483x	archiveteam-mobileme-hero-2483x-24833.tar	web.me.com-sebastien.gillard.warc.gz	16143488
+zstudio1	gallery.me.com	2012-06-11 11:51:16	archiveteam-mobileme-hero-2483x	archiveteam-mobileme-hero-2483x-24833.tar	gallery.me.com-zstudio1.warc.gz	12328
+zstudio1	homepage.mac.com	2012-06-11 11:51:16	archiveteam-mobileme-hero-2483x	archiveteam-mobileme-hero-2483x-24833.tar	homepage.mac.com-zstudio1.warc.gz	7138
+zstudio1	public.me.com	2012-06-11 11:51:15	archiveteam-mobileme-hero-2483x	archiveteam-mobileme-hero-2483x-24833.tar	public.me.com-zstudio1.warc.gz	1918
+zstudio1	web.me.com	2012-06-11 11:51:14	archiveteam-mobileme-hero-2483x	archiveteam-mobileme-hero-2483x-24833.tar	web.me.com-zstudio1.warc.gz	22445

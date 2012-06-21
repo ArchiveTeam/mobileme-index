@@ -1,0 +1,12 @@
+grafm	gallery.me.com	2012-06-12 14:45:10	archiveteam-mobileme-hero-2503x	archiveteam-mobileme-hero-2503x-25031.tar	gallery.me.com-grafm.warc.gz	5655
+grafm	homepage.mac.com	2012-06-12 14:45:11	archiveteam-mobileme-hero-2503x	archiveteam-mobileme-hero-2503x-25031.tar	homepage.mac.com-grafm.warc.gz	4897
+grafm	public.me.com	2012-06-12 14:45:09	archiveteam-mobileme-hero-2503x	archiveteam-mobileme-hero-2503x-25031.tar	public.me.com-grafm.warc.gz	1905
+grafm	web.me.com	2012-06-12 14:45:08	archiveteam-mobileme-hero-2503x	archiveteam-mobileme-hero-2503x-25031.tar	web.me.com-grafm.warc.gz	171463471
+onebarkingdog	gallery.me.com	2012-06-12 17:15:22	archiveteam-mobileme-hero-2503x	archiveteam-mobileme-hero-2503x-25031.tar	gallery.me.com-onebarkingdog.warc.gz	7126514753
+onebarkingdog	homepage.mac.com	2012-06-12 17:15:22	archiveteam-mobileme-hero-2503x	archiveteam-mobileme-hero-2503x-25031.tar	homepage.mac.com-onebarkingdog.warc.gz	4938
+onebarkingdog	public.me.com	2012-06-12 15:05:32	archiveteam-mobileme-hero-2503x	archiveteam-mobileme-hero-2503x-25031.tar	public.me.com-onebarkingdog.warc.gz	1926
+onebarkingdog	web.me.com	2012-06-12 15:05:32	archiveteam-mobileme-hero-2503x	archiveteam-mobileme-hero-2503x-25031.tar	web.me.com-onebarkingdog.warc.gz	59473151
+sctoa.	gallery.me.com	2012-06-12 14:11:03	archiveteam-mobileme-hero-2503x	archiveteam-mobileme-hero-2503x-25031.tar	gallery.me.com-sctoa..warc.gz	8325
+sctoa.	homepage.mac.com	2012-06-12 14:11:04	archiveteam-mobileme-hero-2503x	archiveteam-mobileme-hero-2503x-25031.tar	homepage.mac.com-sctoa..warc.gz	5136
+sctoa.	public.me.com	2012-06-12 14:11:02	archiveteam-mobileme-hero-2503x	archiveteam-mobileme-hero-2503x-25031.tar	public.me.com-sctoa..warc.gz	1908
+sctoa.	web.me.com	2012-06-12 14:11:02	archiveteam-mobileme-hero-2503x	archiveteam-mobileme-hero-2503x-25031.tar	web.me.com-sctoa..warc.gz	17662

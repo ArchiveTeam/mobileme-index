@@ -1,0 +1,16 @@
+a.kallisto	gallery.me.com	2012-06-11 21:58:19	archiveteam-mobileme-hero-2489x	archiveteam-mobileme-hero-2489x-24892.tar	gallery.me.com-a.kallisto.warc.gz	410502310
+a.kallisto	homepage.mac.com	2012-06-11 21:58:20	archiveteam-mobileme-hero-2489x	archiveteam-mobileme-hero-2489x-24892.tar	homepage.mac.com-a.kallisto.warc.gz	4902
+a.kallisto	public.me.com	2012-06-11 21:48:58	archiveteam-mobileme-hero-2489x	archiveteam-mobileme-hero-2489x-24892.tar	public.me.com-a.kallisto.warc.gz	5040968493
+a.kallisto	web.me.com	2012-06-11 18:54:00	archiveteam-mobileme-hero-2489x	archiveteam-mobileme-hero-2489x-24892.tar	web.me.com-a.kallisto.warc.gz	2409352
+creativetones	gallery.me.com	2012-06-11 18:52:59	archiveteam-mobileme-hero-2489x	archiveteam-mobileme-hero-2489x-24892.tar	gallery.me.com-creativetones.warc.gz	485648
+creativetones	homepage.mac.com	2012-06-11 18:53:00	archiveteam-mobileme-hero-2489x	archiveteam-mobileme-hero-2489x-24892.tar	homepage.mac.com-creativetones.warc.gz	7712
+creativetones	public.me.com	2012-06-11 18:52:52	archiveteam-mobileme-hero-2489x	archiveteam-mobileme-hero-2489x-24892.tar	public.me.com-creativetones.warc.gz	1913
+creativetones	web.me.com	2012-06-11 18:52:52	archiveteam-mobileme-hero-2489x	archiveteam-mobileme-hero-2489x-24892.tar	web.me.com-creativetones.warc.gz	743517
+harrisonschool	gallery.me.com	2012-06-11 18:52:01	archiveteam-mobileme-hero-2489x	archiveteam-mobileme-hero-2489x-24892.tar	gallery.me.com-harrisonschool.warc.gz	1285223052
+harrisonschool	homepage.mac.com	2012-06-11 18:52:01	archiveteam-mobileme-hero-2489x	archiveteam-mobileme-hero-2489x-24892.tar	homepage.mac.com-harrisonschool.warc.gz	4941
+harrisonschool	public.me.com	2012-06-11 18:20:15	archiveteam-mobileme-hero-2489x	archiveteam-mobileme-hero-2489x-24892.tar	public.me.com-harrisonschool.warc.gz	1928
+harrisonschool	web.me.com	2012-06-11 18:20:15	archiveteam-mobileme-hero-2489x	archiveteam-mobileme-hero-2489x-24892.tar	web.me.com-harrisonschool.warc.gz	34837529
+ufg	gallery.me.com	2012-06-11 18:53:03	archiveteam-mobileme-hero-2489x	archiveteam-mobileme-hero-2489x-24892.tar	gallery.me.com-ufg.warc.gz	12279
+ufg	homepage.mac.com	2012-06-11 18:53:04	archiveteam-mobileme-hero-2489x	archiveteam-mobileme-hero-2489x-24892.tar	homepage.mac.com-ufg.warc.gz	7130
+ufg	public.me.com	2012-06-11 18:53:03	archiveteam-mobileme-hero-2489x	archiveteam-mobileme-hero-2489x-24892.tar	public.me.com-ufg.warc.gz	1903
+ufg	web.me.com	2012-06-11 18:53:02	archiveteam-mobileme-hero-2489x	archiveteam-mobileme-hero-2489x-24892.tar	web.me.com-ufg.warc.gz	22378
