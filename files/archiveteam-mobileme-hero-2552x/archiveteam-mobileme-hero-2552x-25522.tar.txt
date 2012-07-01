@@ -1,0 +1,12 @@
+btcd	gallery.me.com	2012-06-28 23:49:04	archiveteam-mobileme-hero-2552x	archiveteam-mobileme-hero-2552x-25522.tar	gallery.me.com-btcd.warc.gz	1362164934
+btcd	homepage.mac.com	2012-06-28 23:49:09	archiveteam-mobileme-hero-2552x	archiveteam-mobileme-hero-2552x-25522.tar	homepage.mac.com-btcd.warc.gz	104737
+btcd	public.me.com	2012-06-28 23:32:33	archiveteam-mobileme-hero-2552x	archiveteam-mobileme-hero-2552x-25522.tar	public.me.com-btcd.warc.gz	781787048
+btcd	web.me.com	2012-06-28 23:09:50	archiveteam-mobileme-hero-2552x	archiveteam-mobileme-hero-2552x-25522.tar	web.me.com-btcd.warc.gz	482560126
+chanterhaus.	gallery.me.com	2012-06-28 22:53:48	archiveteam-mobileme-hero-2552x	archiveteam-mobileme-hero-2552x-25522.tar	gallery.me.com-chanterhaus..warc.gz	8373
+chanterhaus.	homepage.mac.com	2012-06-28 22:53:48	archiveteam-mobileme-hero-2552x	archiveteam-mobileme-hero-2552x-25522.tar	homepage.mac.com-chanterhaus..warc.gz	5185
+chanterhaus.	public.me.com	2012-06-28 22:53:47	archiveteam-mobileme-hero-2552x	archiveteam-mobileme-hero-2552x-25522.tar	public.me.com-chanterhaus..warc.gz	1928
+chanterhaus.	web.me.com	2012-06-28 22:53:47	archiveteam-mobileme-hero-2552x	archiveteam-mobileme-hero-2552x-25522.tar	web.me.com-chanterhaus..warc.gz	17748
+scalo	gallery.me.com	2012-06-29 01:20:21	archiveteam-mobileme-hero-2552x	archiveteam-mobileme-hero-2552x-25522.tar	gallery.me.com-scalo.warc.gz	2800660566
+scalo	homepage.mac.com	2012-06-29 01:20:40	archiveteam-mobileme-hero-2552x	archiveteam-mobileme-hero-2552x-25522.tar	homepage.mac.com-scalo.warc.gz	278707
+scalo	public.me.com	2012-06-29 00:22:47	archiveteam-mobileme-hero-2552x	archiveteam-mobileme-hero-2552x-25522.tar	public.me.com-scalo.warc.gz	1262999355
+scalo	web.me.com	2012-06-29 00:06:39	archiveteam-mobileme-hero-2552x	archiveteam-mobileme-hero-2552x-25522.tar	web.me.com-scalo.warc.gz	423689930

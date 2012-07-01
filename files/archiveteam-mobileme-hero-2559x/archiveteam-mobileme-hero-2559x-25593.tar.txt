@@ -1,0 +1,16 @@
+fsgall	gallery.me.com	2012-06-29 06:09:35	archiveteam-mobileme-hero-2559x	archiveteam-mobileme-hero-2559x-25593.tar	gallery.me.com-fsgall.warc.gz	3139247709
+fsgall	homepage.mac.com	2012-06-29 06:09:36	archiveteam-mobileme-hero-2559x	archiveteam-mobileme-hero-2559x-25593.tar	homepage.mac.com-fsgall.warc.gz	4889
+fsgall	public.me.com	2012-06-29 05:04:27	archiveteam-mobileme-hero-2559x	archiveteam-mobileme-hero-2559x-25593.tar	public.me.com-fsgall.warc.gz	3629
+fsgall	web.me.com	2012-06-29 05:04:04	archiveteam-mobileme-hero-2559x	archiveteam-mobileme-hero-2559x-25593.tar	web.me.com-fsgall.warc.gz	3692960519
+mario.ouellet	gallery.me.com	2012-06-29 03:31:05	archiveteam-mobileme-hero-2559x	archiveteam-mobileme-hero-2559x-25593.tar	gallery.me.com-mario.ouellet.warc.gz	776456329
+mario.ouellet	homepage.mac.com	2012-06-29 03:31:05	archiveteam-mobileme-hero-2559x	archiveteam-mobileme-hero-2559x-25593.tar	homepage.mac.com-mario.ouellet.warc.gz	4928
+mario.ouellet	public.me.com	2012-06-29 03:09:54	archiveteam-mobileme-hero-2559x	archiveteam-mobileme-hero-2559x-25593.tar	public.me.com-mario.ouellet.warc.gz	1925
+mario.ouellet	web.me.com	2012-06-29 03:09:54	archiveteam-mobileme-hero-2559x	archiveteam-mobileme-hero-2559x-25593.tar	web.me.com-mario.ouellet.warc.gz	185893190
+romadesigns	gallery.me.com	2012-06-29 02:52:07	archiveteam-mobileme-hero-2559x	archiveteam-mobileme-hero-2559x-25593.tar	gallery.me.com-romadesigns.warc.gz	407214836
+romadesigns	homepage.mac.com	2012-06-29 02:52:07	archiveteam-mobileme-hero-2559x	archiveteam-mobileme-hero-2559x-25593.tar	homepage.mac.com-romadesigns.warc.gz	4913
+romadesigns	public.me.com	2012-06-29 02:33:23	archiveteam-mobileme-hero-2559x	archiveteam-mobileme-hero-2559x-25593.tar	public.me.com-romadesigns.warc.gz	1922
+romadesigns	web.me.com	2012-06-29 02:33:22	archiveteam-mobileme-hero-2559x	archiveteam-mobileme-hero-2559x-25593.tar	web.me.com-romadesigns.warc.gz	48819988
+tridentcp	gallery.me.com	2012-06-29 02:57:20	archiveteam-mobileme-hero-2559x	archiveteam-mobileme-hero-2559x-25593.tar	gallery.me.com-tridentcp.warc.gz	91627373
+tridentcp	homepage.mac.com	2012-06-29 02:57:20	archiveteam-mobileme-hero-2559x	archiveteam-mobileme-hero-2559x-25593.tar	homepage.mac.com-tridentcp.warc.gz	4910
+tridentcp	public.me.com	2012-06-29 02:53:44	archiveteam-mobileme-hero-2559x	archiveteam-mobileme-hero-2559x-25593.tar	public.me.com-tridentcp.warc.gz	1916
+tridentcp	web.me.com	2012-06-29 02:53:44	archiveteam-mobileme-hero-2559x	archiveteam-mobileme-hero-2559x-25593.tar	web.me.com-tridentcp.warc.gz	3709293

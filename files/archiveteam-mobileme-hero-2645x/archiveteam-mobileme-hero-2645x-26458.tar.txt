@@ -1,0 +1,16 @@
+crow1	gallery.me.com	2012-07-01 05:31:44	archiveteam-mobileme-hero-2645x	archiveteam-mobileme-hero-2645x-26458.tar	gallery.me.com-crow1.warc.gz	7728836430
+crow1	homepage.mac.com	2012-07-01 05:32:45	archiveteam-mobileme-hero-2645x	archiveteam-mobileme-hero-2645x-26458.tar	homepage.mac.com-crow1.warc.gz	208025
+crow1	public.me.com	2012-07-01 03:26:36	archiveteam-mobileme-hero-2645x	archiveteam-mobileme-hero-2645x-26458.tar	public.me.com-crow1.warc.gz	231746332
+crow1	web.me.com	2012-07-01 03:20:05	archiveteam-mobileme-hero-2645x	archiveteam-mobileme-hero-2645x-26458.tar	web.me.com-crow1.warc.gz	2865445835
+dankalis	gallery.me.com	2012-07-01 01:19:44	archiveteam-mobileme-hero-2645x	archiveteam-mobileme-hero-2645x-26458.tar	gallery.me.com-dankalis.warc.gz	12339
+dankalis	homepage.mac.com	2012-07-01 01:19:44	archiveteam-mobileme-hero-2645x	archiveteam-mobileme-hero-2645x-26458.tar	homepage.mac.com-dankalis.warc.gz	7151
+dankalis	public.me.com	2012-07-01 01:19:43	archiveteam-mobileme-hero-2645x	archiveteam-mobileme-hero-2645x-26458.tar	public.me.com-dankalis.warc.gz	1917
+dankalis	web.me.com	2012-07-01 01:19:43	archiveteam-mobileme-hero-2645x	archiveteam-mobileme-hero-2645x-26458.tar	web.me.com-dankalis.warc.gz	22512
+edendesign	gallery.me.com	2012-07-01 01:19:15	archiveteam-mobileme-hero-2645x	archiveteam-mobileme-hero-2645x-26458.tar	gallery.me.com-edendesign.warc.gz	2862044
+edendesign	homepage.mac.com	2012-07-01 01:19:41	archiveteam-mobileme-hero-2645x	archiveteam-mobileme-hero-2645x-26458.tar	homepage.mac.com-edendesign.warc.gz	186271
+edendesign	public.me.com	2012-07-01 01:19:02	archiveteam-mobileme-hero-2645x	archiveteam-mobileme-hero-2645x-26458.tar	public.me.com-edendesign.warc.gz	1914
+edendesign	web.me.com	2012-07-01 01:19:01	archiveteam-mobileme-hero-2645x	archiveteam-mobileme-hero-2645x-26458.tar	web.me.com-edendesign.warc.gz	46159477
+lelford	gallery.me.com	2012-07-01 01:07:49	archiveteam-mobileme-hero-2645x	archiveteam-mobileme-hero-2645x-26458.tar	gallery.me.com-lelford.warc.gz	4978
+lelford	homepage.mac.com	2012-07-01 01:07:55	archiveteam-mobileme-hero-2645x	archiveteam-mobileme-hero-2645x-26458.tar	homepage.mac.com-lelford.warc.gz	4890
+lelford	public.me.com	2012-07-01 01:07:48	archiveteam-mobileme-hero-2645x	archiveteam-mobileme-hero-2645x-26458.tar	public.me.com-lelford.warc.gz	1914
+lelford	web.me.com	2012-07-01 01:07:47	archiveteam-mobileme-hero-2645x	archiveteam-mobileme-hero-2645x-26458.tar	web.me.com-lelford.warc.gz	1464035200

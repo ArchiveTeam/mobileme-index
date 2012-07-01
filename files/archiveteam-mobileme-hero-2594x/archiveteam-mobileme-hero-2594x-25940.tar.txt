@@ -1,0 +1,4 @@
+strider_eq	gallery.me.com	2012-06-30 02:04:51	archiveteam-mobileme-hero-2594x	archiveteam-mobileme-hero-2594x-25940.tar	gallery.me.com-strider_eq.warc.gz	9185072291
+strider_eq	homepage.mac.com	2012-06-30 02:05:06	archiveteam-mobileme-hero-2594x	archiveteam-mobileme-hero-2594x-25940.tar	homepage.mac.com-strider_eq.warc.gz	183762
+strider_eq	public.me.com	2012-06-30 00:59:32	archiveteam-mobileme-hero-2594x	archiveteam-mobileme-hero-2594x-25940.tar	public.me.com-strider_eq.warc.gz	4242
+strider_eq	web.me.com	2012-06-30 00:59:31	archiveteam-mobileme-hero-2594x	archiveteam-mobileme-hero-2594x-25940.tar	web.me.com-strider_eq.warc.gz	285176229

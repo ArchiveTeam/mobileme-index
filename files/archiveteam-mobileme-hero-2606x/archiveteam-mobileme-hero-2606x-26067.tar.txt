@@ -1,0 +1,16 @@
+col77	gallery.me.com	2012-06-30 07:31:07	archiveteam-mobileme-hero-2606x	archiveteam-mobileme-hero-2606x-26067.tar	gallery.me.com-col77.warc.gz	5245
+col77	homepage.mac.com	2012-06-30 07:31:07	archiveteam-mobileme-hero-2606x	archiveteam-mobileme-hero-2606x-26067.tar	homepage.mac.com-col77.warc.gz	4885
+col77	public.me.com	2012-06-30 07:31:05	archiveteam-mobileme-hero-2606x	archiveteam-mobileme-hero-2606x-26067.tar	public.me.com-col77.warc.gz	1905
+col77	web.me.com	2012-06-30 07:31:05	archiveteam-mobileme-hero-2606x	archiveteam-mobileme-hero-2606x-26067.tar	web.me.com-col77.warc.gz	761963
+derekprior	gallery.me.com	2012-06-30 07:30:51	archiveteam-mobileme-hero-2606x	archiveteam-mobileme-hero-2606x-26067.tar	gallery.me.com-derekprior.warc.gz	583883949
+derekprior	homepage.mac.com	2012-06-30 07:30:51	archiveteam-mobileme-hero-2606x	archiveteam-mobileme-hero-2606x-26067.tar	homepage.mac.com-derekprior.warc.gz	4931
+derekprior	public.me.com	2012-06-30 07:20:38	archiveteam-mobileme-hero-2606x	archiveteam-mobileme-hero-2606x-26067.tar	public.me.com-derekprior.warc.gz	62661
+derekprior	web.me.com	2012-06-30 07:20:37	archiveteam-mobileme-hero-2606x	archiveteam-mobileme-hero-2606x-26067.tar	web.me.com-derekprior.warc.gz	4923517
+jamestownbuilders	gallery.me.com	2012-06-30 09:56:52	archiveteam-mobileme-hero-2606x	archiveteam-mobileme-hero-2606x-26067.tar	gallery.me.com-jamestownbuilders.warc.gz	8950163282
+jamestownbuilders	homepage.mac.com	2012-06-30 09:56:52	archiveteam-mobileme-hero-2606x	archiveteam-mobileme-hero-2606x-26067.tar	homepage.mac.com-jamestownbuilders.warc.gz	4944
+jamestownbuilders	public.me.com	2012-06-30 07:51:13	archiveteam-mobileme-hero-2606x	archiveteam-mobileme-hero-2606x-26067.tar	public.me.com-jamestownbuilders.warc.gz	8670926
+jamestownbuilders	web.me.com	2012-06-30 07:50:49	archiveteam-mobileme-hero-2606x	archiveteam-mobileme-hero-2606x-26067.tar	web.me.com-jamestownbuilders.warc.gz	115893317
+lunaly	gallery.me.com	2012-06-30 07:18:49	archiveteam-mobileme-hero-2606x	archiveteam-mobileme-hero-2606x-26067.tar	gallery.me.com-lunaly.warc.gz	967837673
+lunaly	homepage.mac.com	2012-06-30 07:18:54	archiveteam-mobileme-hero-2606x	archiveteam-mobileme-hero-2606x-26067.tar	homepage.mac.com-lunaly.warc.gz	36905
+lunaly	public.me.com	2012-06-30 07:01:13	archiveteam-mobileme-hero-2606x	archiveteam-mobileme-hero-2606x-26067.tar	public.me.com-lunaly.warc.gz	1910
+lunaly	web.me.com	2012-06-30 07:01:07	archiveteam-mobileme-hero-2606x	archiveteam-mobileme-hero-2606x-26067.tar	web.me.com-lunaly.warc.gz	1043020586
